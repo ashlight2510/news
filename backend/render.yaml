@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: it-news-api
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    # Render에서 자동으로 PORT 환경 변수를 설정합니다
+
