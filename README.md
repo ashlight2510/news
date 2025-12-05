@@ -49,7 +49,7 @@ yarn install
 yarn start
 ```
 
-서버가 `http://localhost:3000`에서 실행됩니다.
+서버가 `http://localhost:8080`에서 실행됩니다.
 
 ### 전체 로컬 개발 환경 실행
 
@@ -74,19 +74,45 @@ yarn start
 1. GitHub에 코드 푸시
 2. Render 대시보드에서 "New Web Service" 선택
 3. GitHub 저장소 연결
-4. 설정:
-   - **Build Command**: `npm install`
-   - **Start Command**: `npm start`
+4. **중요 설정:**
+   - **Root Directory**: `backend` ⚠️ **반드시 설정!**
+   - **Build Command**: `yarn install` 또는 `npm install`
+   - **Start Command**: `yarn start` 또는 `npm start`
    - **Environment**: `Node`
 5. 배포 완료 후 URL 확인 (예: `https://your-app-name.onrender.com`)
 
-### 3. 프론트엔드 API URL 업데이트
+**참고**: Root Directory를 `backend`로 설정하지 않으면 빌드가 실패합니다!
 
-`frontend/index.html`의 `API_URL`을 Render 배포 URL로 변경:
+### 3. GitHub Pages 프론트엔드 배포
+
+1. GitHub 저장소 → **Settings** → **Pages**
+2. **Source** 설정:
+   - Branch: `main`
+   - Folder: `/frontend` ⚠️ **frontend 폴더 선택!**
+3. 저장 후 몇 분 후 배포 완료
+
+### 4. 프론트엔드 API URL 업데이트
+
+**중요**: Render 배포 후 프론트엔드에서 백엔드 URL을 설정해야 합니다.
+
+`frontend/index.html` 파일을 열어서 다음 부분을 찾아 수정하세요:
 
 ```javascript
-const API_URL = 'https://your-app-name.onrender.com/api/articles';
+// 🔧 Render 백엔드 URL 설정
+const BACKEND_URL = 'https://your-app-name.onrender.com';  // ← 여기에 실제 Render URL 입력
 ```
+
+**예시:**
+- Render에서 배포한 URL이 `https://it-news-api.onrender.com`이라면:
+```javascript
+const BACKEND_URL = 'https://it-news-api.onrender.com';
+```
+
+**확인 방법:**
+1. Render 대시보드에서 배포된 서비스 URL 확인
+2. `https://your-render-url.onrender.com/api/health` 접속해서 `{"status":"ok"}` 응답 확인
+3. 프론트엔드 `index.html`의 `BACKEND_URL` 수정
+4. 브라우저 콘솔(F12)에서 "API URL: ..." 로그 확인
 
 ## API 엔드포인트
 

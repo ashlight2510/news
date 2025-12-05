@@ -53,6 +53,80 @@
       font-size: 16px;
     }
 
+    .controls {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 24px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    }
+
+    .filter-btn {
+      padding: 8px 16px;
+      border: 2px solid rgba(102, 126, 234, 0.3);
+      background: white;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
+      color: #667eea;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      background: rgba(102, 126, 234, 0.1);
+      border-color: #667eea;
+    }
+
+    .filter-btn.active {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border-color: transparent;
+    }
+
+    .translate-btn {
+      padding: 8px 16px;
+      border: 2px solid rgba(102, 126, 234, 0.3);
+      background: white;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
+      color: #667eea;
+      transition: all 0.2s ease;
+      margin-left: auto;
+    }
+
+    .translate-btn:hover {
+      background: rgba(102, 126, 234, 0.1);
+      border-color: #667eea;
+    }
+
+    .language-badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 6px;
+      border-radius: 8px;
+      margin-left: 6px;
+      text-transform: uppercase;
+    }
+
+    .language-badge.ko {
+      background: rgba(52, 152, 219, 0.1);
+      color: #3498db;
+    }
+
+    .language-badge.en {
+      background: rgba(231, 76, 60, 0.1);
+      color: #e74c3c;
+    }
+
     #top-ad,
     #bottom-ad {
       background: rgba(255, 255, 255, 0.9);
@@ -144,6 +218,7 @@
       margin: 0;
       display: -webkit-box;
       -webkit-line-clamp: 3;
+      line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
@@ -223,6 +298,15 @@
       <!-- 애드센스 광고 블록 자리 -->
     </div>
 
+    <!-- 필터 및 컨트롤 -->
+    <div class="controls">
+      <span style="font-weight: 600; color: #333;">필터:</span>
+      <button class="filter-btn active" data-filter="all">전체</button>
+      <button class="filter-btn" data-filter="ko">한국어</button>
+      <button class="filter-btn" data-filter="en">영어</button>
+      <button class="translate-btn" id="translate-btn">🌐 영어 기사 번역하기</button>
+    </div>
+
     <main>
       <section class="article-list" id="article-list">
         <div class="loading">뉴스를 불러오는 중...</div>
@@ -236,66 +320,152 @@
   </div>
 
   <script>
+    // ============================================
+    // 🔧 Render 백엔드 URL 설정
+    // ============================================
+    // Render에서 배포한 백엔드 URL을 여기에 입력하세요
+    // 예: https://it-news-api.onrender.com
+    const BACKEND_URL = 'https://news-u60e.onrender.com';
+    
+    // 로컬 개발 시 자동으로 localhost 사용
+    const API_URL = window.location.hostname === 'localhost' 
+      ? 'http://localhost:3000/api/articles'
+      : `${BACKEND_URL}/api/articles`;
+
+    console.log('API URL:', API_URL);
+
+    let allArticles = [];
+    let currentFilter = 'all';
+
+    // 언어 필터 기능
+    function setupFilters() {
+      const filterBtns = document.querySelectorAll('.filter-btn');
+      filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          filterBtns.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentFilter = btn.dataset.filter;
+          renderArticles();
+        });
+      });
+    }
+
+    // 번역 기능
+    function setupTranslate() {
+      const translateBtn = document.getElementById('translate-btn');
+      translateBtn.addEventListener('click', () => {
+        // Google Translate 위젯 추가
+        if (!document.getElementById('google-translate-element')) {
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+          document.head.appendChild(script);
+
+          window.googleTranslateElementInit = function() {
+            new google.translate.TranslateElement({
+              pageLanguage: 'ko',
+              includedLanguages: 'ko,en',
+              layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+              autoDisplay: false
+            }, 'google-translate-element');
+          };
+
+          const translateDiv = document.createElement('div');
+          translateDiv.id = 'google-translate-element';
+          translateDiv.style.cssText = 'position: fixed; top: 20px; right: 20px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);';
+          document.body.appendChild(translateDiv);
+        }
+      });
+    }
+
+    // 기사 렌더링
+    function renderArticles() {
+      const container = document.getElementById('article-list');
+      container.innerHTML = '';
+
+      // 필터링
+      let filteredArticles = allArticles;
+      if (currentFilter !== 'all') {
+        filteredArticles = allArticles.filter(a => a.language === currentFilter);
+      }
+
+      if (filteredArticles.length === 0) {
+        container.innerHTML = `
+          <div class="empty-message">
+            <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px;">뉴스가 없습니다</p>
+            <p>${currentFilter === 'all' ? '백엔드 서버가 실행 중인지 확인해주세요.' : '선택한 언어의 뉴스가 없습니다.'}</p>
+          </div>
+        `;
+        return;
+      }
+
+      filteredArticles.forEach(a => {
+        const card = document.createElement('article');
+        card.className = 'article-card';
+        card.dataset.language = a.language || 'en';
+
+        const publishedDate = new Date(a.published_at);
+        const timeAgo = getTimeAgo(publishedDate);
+        const lang = a.language || 'en';
+        const langLabel = lang === 'ko' ? '한국어' : '영어';
+
+        card.innerHTML = `
+          <div class="article-header">
+            <span class="source">${a.source}</span>
+            <span class="language-badge ${lang}">${lang}</span>
+          </div>
+          <h2 class="title">
+            <a href="${a.url}" target="_blank" rel="noopener noreferrer">
+              ${a.title}
+            </a>
+          </h2>
+          ${a.summary ? `<p class="summary">${a.summary}</p>` : ''}
+          <div class="meta">
+            <span>${timeAgo}</span>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+    }
+
     async function loadArticles() {
-      // 로컬 개발: http://localhost:3000/api/articles
-      // 프로덕션: https://your-app-name.onrender.com/api/articles
-      const API_URL = window.location.hostname === 'localhost' 
-        ? 'http://localhost:3000/api/articles'
-        : 'https://your-app-name.onrender.com/api/articles';
-      
       try {
         const res = await fetch(API_URL);
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`);
         }
         const data = await res.json();
-        const container = document.getElementById('article-list');
-        container.innerHTML = '';
-
-        if (data.length === 0) {
-          container.innerHTML = `
-            <div class="empty-message">
-              <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px;">뉴스가 없습니다</p>
-              <p>백엔드 서버가 실행 중인지 확인해주세요.</p>
-            </div>
-          `;
-          return;
-        }
-
-        data.forEach(a => {
-          const card = document.createElement('article');
-          card.className = 'article-card';
-
-          const publishedDate = new Date(a.published_at);
-          const timeAgo = getTimeAgo(publishedDate);
-
-          card.innerHTML = `
-            <div class="article-header">
-              <span class="source">${a.source}</span>
-            </div>
-            <h2 class="title">
-              <a href="${a.url}" target="_blank" rel="noopener noreferrer">
-                ${a.title}
-              </a>
-            </h2>
-            ${a.summary ? `<p class="summary">${a.summary}</p>` : ''}
-            <div class="meta">
-              <span>${timeAgo}</span>
-            </div>
-          `;
-
-          container.appendChild(card);
-        });
+        allArticles = data;
+        renderArticles();
       } catch (error) {
         console.error('Error loading articles:', error);
         const container = document.getElementById('article-list');
+        
+        let errorMessage = error.message;
+        let troubleshooting = '';
+        
+        // CORS 오류 체크
+        if (error.message.includes('Failed to fetch') || error.message.includes('CORS')) {
+          errorMessage = 'CORS 오류 또는 네트워크 연결 실패';
+          troubleshooting = `
+            <p style="margin-top: 12px; font-weight: 600;">해결 방법:</p>
+            <ul style="text-align: left; display: inline-block; margin-top: 8px;">
+              <li>Render 백엔드 URL이 올바른지 확인하세요</li>
+              <li>백엔드 서버가 실행 중인지 확인하세요</li>
+              <li>브라우저 콘솔(F12)에서 자세한 오류를 확인하세요</li>
+              <li>API URL: <code style="background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">${API_URL}</code></li>
+            </ul>
+          `;
+        }
+        
         container.innerHTML = `
           <div class="error-message">
             <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px; color: #e74c3c;">⚠️ 오류가 발생했습니다</p>
             <p>뉴스를 불러오는 중 문제가 발생했습니다.</p>
             <div class="error-detail">
-              <p style="margin-bottom: 4px;">${error.message}</p>
-              <p>백엔드 서버가 실행 중인지 확인해주세요.</p>
+              <p style="margin-bottom: 4px;"><strong>오류:</strong> ${errorMessage}</p>
+              ${troubleshooting}
             </div>
           </div>
         `;
@@ -320,6 +490,9 @@
       });
     }
 
+    // 초기화
+    setupFilters();
+    setupTranslate();
     loadArticles();
   </script>
 </body>

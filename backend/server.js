@@ -7,7 +7,12 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // 미들웨어
-app.use(cors());
+// CORS 설정 - 모든 origin 허용 (프로덕션에서는 특정 도메인만 허용 권장)
+app.use(cors({
+  origin: '*',
+  methods: ['GET', 'POST', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
 app.use(express.json());
 
 // 간단한 메모리 저장소 (실제로는 DB 사용 권장)
@@ -24,6 +29,8 @@ app.get('/api/articles', async (req, res) => {
       .sort((a, b) => new Date(b.published_at) - new Date(a.published_at))
       .slice(0, 50);
     
+    // UTF-8 인코딩 명시
+    res.setHeader('Content-Type', 'application/json; charset=utf-8');
     res.json(sortedArticles);
   } catch (error) {
     console.error('Error fetching articles:', error);
