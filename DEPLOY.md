@@ -65,10 +65,45 @@ news/
 const BACKEND_URL = 'https://news-u60e.onrender.com';  // 실제 Render URL로 변경
 ```
 
-### 2.3 배포 확인
+### 2.3 커스텀 도메인 설정
+
+커스텀 도메인 `news.ashlight.store`를 연결하려면:
+
+1. **CNAME 파일 생성**
+   - `frontend/CNAME` 파일 생성
+   - 내용: `news.ashlight.store`
+
+2. **GitHub 저장소 설정**
+   - GitHub 저장소 → **Settings** → **Pages**
+   - **Custom domain** 입력란에 `news.ashlight.store` 입력
+   - **Enforce HTTPS** 체크 (권장)
+
+3. **DNS 설정** (도메인 제공업체에서)
+   - **A 레코드** 또는 **CNAME 레코드** 추가:
+     - **A 레코드** (권장):
+       ```
+       Type: A
+       Name: news (또는 @)
+       Value: 185.199.108.153
+       Value: 185.199.109.153
+       Value: 185.199.110.153
+       Value: 185.199.111.153
+       ```
+     - **CNAME 레코드** (대안):
+       ```
+       Type: CNAME
+       Name: news
+       Value: your-username.github.io
+       ```
+
+4. **DNS 전파 대기**
+   - 보통 몇 분~24시간 소요
+   - 확인: `dig news.ashlight.store` 또는 온라인 DNS 체커 사용
+
+### 2.4 배포 확인
 
 - GitHub Pages URL: `https://your-username.github.io/repo-name/`
-- 또는 커스텀 도메인 사용 가능
+- 커스텀 도메인: `https://news.ashlight.store` (DNS 설정 후)
 
 ### 2.4 GitHub Actions로 자동 배포 (선택사항)
 

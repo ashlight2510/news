@@ -304,7 +304,6 @@
       <button class="filter-btn active" data-filter="all">전체</button>
       <button class="filter-btn" data-filter="ko">한국어</button>
       <button class="filter-btn" data-filter="en">영어</button>
-      <button class="translate-btn" id="translate-btn">🌐 영어 기사 번역하기</button>
     </div>
 
     <main>
@@ -347,34 +346,6 @@
           currentFilter = btn.dataset.filter;
           renderArticles();
         });
-      });
-    }
-
-    // 번역 기능
-    function setupTranslate() {
-      const translateBtn = document.getElementById('translate-btn');
-      translateBtn.addEventListener('click', () => {
-        // Google Translate 위젯 추가
-        if (!document.getElementById('google-translate-element')) {
-          const script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-          document.head.appendChild(script);
-
-          window.googleTranslateElementInit = function() {
-            new google.translate.TranslateElement({
-              pageLanguage: 'ko',
-              includedLanguages: 'ko,en',
-              layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-              autoDisplay: false
-            }, 'google-translate-element');
-          };
-
-          const translateDiv = document.createElement('div');
-          translateDiv.id = 'google-translate-element';
-          translateDiv.style.cssText = 'position: fixed; top: 20px; right: 20px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);';
-          document.body.appendChild(translateDiv);
-        }
       });
     }
 

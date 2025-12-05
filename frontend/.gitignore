@@ -2,3 +2,6 @@ node_modules/
 .DS_Store
 *.log
 
+# CNAME 파일은 커밋해야 함 (GitHub Pages 커스텀 도메인용)
+# !CNAME
+
