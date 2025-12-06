@@ -402,11 +402,23 @@
 
     async function loadArticles() {
       try {
-        const res = await fetch(API_URL);
+        console.log('Fetching articles from:', API_URL);
+        const res = await fetch(API_URL, {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json'
+          }
+        });
+        
+        console.log('Response status:', res.status, res.statusText);
+        
         if (!res.ok) {
-          throw new Error(`HTTP error! status: ${res.status}`);
+          throw new Error(`HTTP error! status: ${res.status} ${res.statusText}`);
         }
+        
         const data = await res.json();
+        console.log('Articles received:', data.length, 'items');
         allArticles = data;
         renderArticles();
       } catch (error) {

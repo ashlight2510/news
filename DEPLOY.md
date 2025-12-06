@@ -51,11 +51,24 @@ news/
 
 ### 2.1 GitHub 저장소 설정
 
+**방법 1: GitHub Actions 사용 (권장) - 루트 도메인으로 접속**
+
+1. GitHub 저장소 → **Settings** → **Pages**
+2. **Source** 선택:
+   - **GitHub Actions** 선택 ⚠️ **이것을 선택!**
+3. **Save** 클릭
+
+이렇게 하면 `https://news.ashlight.store/`로 접속 가능합니다.
+
+**방법 2: 직접 폴더 선택 (서브 경로 필요)**
+
 1. GitHub 저장소 → **Settings** → **Pages**
 2. **Source** 선택:
    - Branch: `main` (또는 `master`)
-   - Folder: `/frontend` ⚠️ **frontend 폴더 선택!**
+   - Folder: `/frontend`
 3. **Save** 클릭
+
+이렇게 하면 `https://news.ashlight.store/frontend/`로 접속해야 합니다.
 
 ### 2.2 프론트엔드 API URL 설정
 
