@@ -46,6 +46,9 @@ jobs:
           if [ -f frontend/sitemap.xml ]; then
             cp frontend/sitemap.xml .
           fi
+          if [ -f frontend/ads.txt ]; then
+            cp frontend/ads.txt .
+          fi
           # .nojekyll 파일 생성 (Jekyll 비활성화)
           touch .nojekyll
       
