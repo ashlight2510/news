@@ -33,12 +33,18 @@ jobs:
       
       - name: Copy frontend files to root
         run: |
+          # 기존 파일 정리 (README.md 등 제거)
+          rm -f README.md *.md
+          rm -rf backend/ .github/
+          
           # frontend 폴더의 내용을 루트로 복사
           cp -r frontend/* .
+          
           # CNAME 파일 복사 (커스텀 도메인용)
           if [ -f frontend/CNAME ]; then
             cp frontend/CNAME .
           fi
+          
           # SEO 파일 복사
           if [ -f frontend/robots.txt ]; then
             cp frontend/robots.txt .
@@ -49,8 +55,18 @@ jobs:
           if [ -f frontend/ads.txt ]; then
             cp frontend/ads.txt .
           fi
-          # .nojekyll 파일 생성 (Jekyll 비활성화)
+          
+          # .nojekyll 파일 생성 (Jekyll 비활성화 - README.md 숨김)
           touch .nojekyll
+          
+          # index.html이 있는지 확인
+          if [ ! -f index.html ]; then
+            echo "ERROR: index.html not found!"
+            exit 1
+          fi
+          
+          echo "Files in root after copy:"
+          ls -la
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
