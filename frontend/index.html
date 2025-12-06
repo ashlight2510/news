@@ -2,8 +2,66 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <title>오늘의 IT 뉴스 모아보기</title>
+  <title>오늘의 IT 뉴스 모아보기 - IT 뉴스 한눈에 보기</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- 기본 SEO 메타 태그 -->
+  <meta name="description" content="여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지. TechCrunch, The Verge, ZDNet Korea, 전자신문 등 주요 IT 뉴스를 실시간으로 확인하세요." />
+  <meta name="keywords" content="IT뉴스, 테크뉴스, 기술뉴스, IT기사, 개발자뉴스, 테크크런치, 더버지, ZDNet, 전자신문, IT조선, 블로터, 보안뉴스" />
+  <meta name="author" content="IT News Aggregator" />
+  <meta name="robots" content="index, follow" />
+  <meta name="language" content="Korean" />
+  <meta name="revisit-after" content="1 days" />
+  
+  <!-- Open Graph 메타 태그 (페이스북, 카카오톡 등) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="오늘의 IT 뉴스 모아보기 - IT 뉴스 한눈에 보기" />
+  <meta property="og:description" content="여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지. TechCrunch, The Verge, ZDNet Korea 등 주요 IT 뉴스를 실시간으로 확인하세요." />
+  <meta property="og:image" content="https://news.ashlight.store/og-image.svg" />
+  <meta property="og:url" content="https://news.ashlight.store/" />
+  <meta property="og:site_name" content="오늘의 IT 뉴스" />
+  <meta property="og:locale" content="ko_KR" />
+  
+  <!-- Twitter Card 메타 태그 -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="오늘의 IT 뉴스 모아보기 - IT 뉴스 한눈에 보기" />
+  <meta name="twitter:description" content="여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지" />
+  <meta name="twitter:image" content="https://news.ashlight.store/og-image.svg" />
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://news.ashlight.store/" />
+  
+  <!-- 파비콘 -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="alternate icon" href="favicon.ico" />
+  <link rel="apple-touch-icon" href="favicon.svg" />
+  
+  <!-- 구조화된 데이터 (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "오늘의 IT 뉴스",
+    "description": "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지",
+    "url": "https://news.ashlight.store/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://news.ashlight.store/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    "name": "오늘의 IT 뉴스",
+    "url": "https://news.ashlight.store/",
+    "logo": "https://news.ashlight.store/favicon.svg",
+    "sameAs": []
+  }
+  </script>
   <!-- 애드센스 예시 (나중에 실제 코드로 교체) -->
   <!-- <script data-ad-client="ca-pub-XXXX" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
   <style>

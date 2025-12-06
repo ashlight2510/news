@@ -7,6 +7,7 @@ on:
     paths:
       - 'frontend/**'
       - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:  # 수동 실행 가능
 
 permissions:
   contents: read
@@ -37,6 +38,13 @@ jobs:
           # CNAME 파일 복사 (커스텀 도메인용)
           if [ -f frontend/CNAME ]; then
             cp frontend/CNAME .
+          fi
+          # SEO 파일 복사
+          if [ -f frontend/robots.txt ]; then
+            cp frontend/robots.txt .
+          fi
+          if [ -f frontend/sitemap.xml ]; then
+            cp frontend/sitemap.xml .
           fi
           # .nojekyll 파일 생성 (Jekyll 비활성화)
           touch .nojekyll
