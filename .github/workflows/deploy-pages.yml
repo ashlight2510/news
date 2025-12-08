@@ -32,43 +32,49 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
-      - name: Build and prepare deployment
+      - name: Clean root directory
         run: |
-          echo "=== Step 1: Current directory ==="
-          pwd
+          echo "=== Step 1: Cleaning root directory ==="
+          # 루트의 모든 파일/폴더 삭제 (frontend, backend, .git, .github 제외)
+          find . -maxdepth 1 -mindepth 1 ! -name 'frontend' ! -name 'backend' ! -name '.git' ! -name '.github' -exec rm -rf {} +
+          echo "Root directory cleaned"
           ls -la
-          
-          echo ""
-          echo "=== Step 2: Frontend folder contents ==="
-          ls -la frontend/ | head -20
-          
-          echo ""
-          echo "=== Step 3: Copying frontend files to root ==="
-          # 모든 파일 복사 (숨김 파일 포함)
-          # shopt -s dotglob으로 숨김 파일도 포함하여 복사
+      
+      - name: Copy frontend to root
+        run: |
+          echo "=== Step 2: Copying frontend files to root ==="
+          # frontend 폴더의 모든 내용을 루트로 복사 (숨김 파일 포함)
           shopt -s dotglob
           cp -r frontend/* ./
           shopt -u dotglob
           
-          echo ""
-          echo "=== Step 4: Creating .nojekyll ==="
+          echo "Files copied"
+          ls -la | head -30
+      
+      - name: Create .nojekyll and verify
+        run: |
+          echo "=== Step 3: Creating .nojekyll and verification ==="
+          # .nojekyll 파일 생성 (Jekyll 비활성화 - 필수!)
           touch .nojekyll
           
           echo ""
-          echo "=== Step 5: Final verification ==="
-          echo "Root directory files:"
-          ls -la | head -20
+          echo "=== Final verification ==="
+          echo "Root directory contents:"
+          ls -la
           echo ""
           echo "Key files check:"
-          [ -f index.html ] && echo "✅ index.html exists" || (echo "❌ index.html MISSING!" && exit 1)
-          [ -f CNAME ] && echo "✅ CNAME exists" || echo "⚠️  CNAME not found"
-          [ -f .nojekyll ] && echo "✅ .nojekyll exists" || (echo "❌ .nojekyll MISSING!" && exit 1)
-          [ -f robots.txt ] && echo "✅ robots.txt exists" || echo "⚠️  robots.txt not found"
-          [ -f sitemap.xml ] && echo "✅ sitemap.xml exists" || echo "⚠️  sitemap.xml not found"
-          [ -f about.html ] && echo "✅ about.html exists" || echo "⚠️  about.html not found"
+          [ -f index.html ] && echo "✅ index.html" || (echo "❌ index.html MISSING!" && exit 1)
+          [ -f CNAME ] && echo "✅ CNAME" || (echo "❌ CNAME MISSING!" && exit 1)
+          [ -f .nojekyll ] && echo "✅ .nojekyll" || (echo "❌ .nojekyll MISSING!" && exit 1)
+          [ -f robots.txt ] && echo "✅ robots.txt" || echo "⚠️  robots.txt not found"
+          [ -f sitemap.xml ] && echo "✅ sitemap.xml" || echo "⚠️  sitemap.xml not found"
+          [ -f about.html ] && echo "✅ about.html" || echo "⚠️  about.html not found"
+          
+          # README.md가 없어야 함
+          [ ! -f README.md ] && echo "✅ README.md removed" || (echo "❌ README.md still exists!" && exit 1)
           
           echo ""
-          echo "=== Deployment ready! ==="
+          echo "✅ Deployment ready!"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
