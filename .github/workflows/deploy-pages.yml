@@ -38,7 +38,13 @@ jobs:
           echo "=== Step 1: Cleaning root directory ==="
           # 루트의 모든 파일/폴더 삭제 (frontend, backend, .git, .github 제외)
           find . -maxdepth 1 -mindepth 1 ! -name 'frontend' ! -name 'backend' ! -name '.git' ! -name '.github' -exec rm -rf {} +
+          
+          # README.md와 모든 마크다운 파일 명시적으로 삭제 (중요!)
+          rm -f README.md *.md
+          rm -rf docs/ *.md
+          
           echo "Root directory cleaned"
+          echo "Remaining files:"
           ls -la
       
       - name: Copy frontend to root
@@ -59,6 +65,9 @@ jobs:
             echo "⚠️  news-summaries.json not found (will be created on next summary run)"
           fi
           
+          # README.md가 다시 복사되었을 수 있으므로 다시 삭제
+          rm -f README.md *.md
+          
           echo ""
           echo "Files copied:"
           ls -la | head -30
@@ -69,8 +78,15 @@ jobs:
       - name: Create .nojekyll and verify
         run: |
           echo "=== Step 3: Creating .nojekyll and verification ==="
+          
+          # 최종 정리: README.md와 모든 마크다운 파일 강제 삭제
+          rm -f README.md *.md
+          find . -maxdepth 1 -name "*.md" -type f -delete
+          
           # .nojekyll 파일 생성 (Jekyll 비활성화 - 필수!)
+          # 이 파일이 없으면 GitHub Pages가 Jekyll로 처리하여 README.md를 표시할 수 있음
           touch .nojekyll
+          echo "" > .nojekyll
           
           echo ""
           echo "=== Final verification ==="
@@ -86,8 +102,22 @@ jobs:
           [ -f about.html ] && echo "✅ about.html" || echo "⚠️  about.html not found"
           [ -f news-summaries.json ] && echo "✅ news-summaries.json" || echo "⚠️  news-summaries.json not found (will be created by summary workflow)"
           
-          # README.md가 없어야 함
-          [ ! -f README.md ] && echo "✅ README.md removed" || (echo "❌ README.md still exists!" && exit 1)
+          # README.md와 모든 마크다운 파일이 없어야 함
+          if [ -f README.md ] || [ -n "$(find . -maxdepth 1 -name '*.md' -type f)" ]; then
+            echo "❌ README.md or other .md files still exist!"
+            find . -maxdepth 1 -name '*.md' -type f
+            exit 1
+          else
+            echo "✅ README.md and all .md files removed"
+          fi
+          
+          # index.html이 첫 번째 파일인지 확인
+          FIRST_FILE=$(ls -1 | head -1)
+          if [ "$FIRST_FILE" = "index.html" ] || [ -f "index.html" ]; then
+            echo "✅ index.html is present and will be served as default"
+          else
+            echo "⚠️  index.html might not be the default file"
+          fi
           
           echo ""
           echo "✅ Deployment ready!"
