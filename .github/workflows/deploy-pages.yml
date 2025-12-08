@@ -48,6 +48,12 @@ jobs:
           cp -r frontend/* ./
           shopt -u dotglob
           
+          # public/news-summaries.json도 복사 (존재하는 경우)
+          if [ -f public/news-summaries.json ]; then
+            cp public/news-summaries.json ./news-summaries.json
+            echo "✓ news-summaries.json copied"
+          fi
+          
           echo "Files copied"
           ls -la | head -30
       

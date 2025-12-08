@@ -1,0 +1,64 @@
+name: Generate News Summaries
+
+on:
+  schedule:
+    # 매일 21시 UTC = 한국시간 06시 (UTC+9)
+    - cron: "0 21 * * *"
+  workflow_dispatch:  # 수동 실행 가능
+
+permissions:
+  contents: write  # JSON 파일 커밋을 위해 필요
+
+jobs:
+  generate-summaries:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm install rss-parser he iconv-lite
+
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve &
+          sleep 15  # Ollama 서버 시작 대기
+
+      - name: Pull Ollama model
+        run: |
+          ollama pull phi3:mini
+          # 모델이 없으면 mistral:7b 시도
+          # ollama pull mistral:7b || echo "Model pull failed, will use phi3:mini"
+
+      - name: Verify Ollama is running
+        run: |
+          curl http://localhost:11434/api/tags || (sleep 5 && curl http://localhost:11434/api/tags)
+
+      - name: Create public directory if not exists
+        run: |
+          mkdir -p public
+
+      - name: Generate news summaries
+        run: |
+          node scripts/fetchAndSummarize.mjs
+        env:
+          OLLAMA_HOST: http://localhost:11434
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/news-summaries.json
+          git diff --staged --quiet || git commit -m "chore: update news summaries [auto]"
+          git push
+

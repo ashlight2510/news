@@ -132,6 +132,7 @@
         margin: 0;
         padding: 0;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background-attachment: fixed;
         min-height: 100vh;
         color: #1a1a1a;
         line-height: 1.6;
@@ -140,69 +141,112 @@
       .container {
         max-width: 1200px;
         margin: 0 auto;
-        padding: 24px 20px;
+        padding: 32px 20px;
       }
 
       header {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border-radius: 20px;
-        padding: 32px;
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(20px);
+        border-radius: 24px;
+        padding: 40px 32px;
         margin-bottom: 32px;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
         text-align: center;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        position: relative;
+        overflow: hidden;
+      }
+
+      header::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
       }
 
       header h1 {
-        margin: 0 0 12px 0;
-        font-size: 32px;
-        font-weight: 700;
+        margin: 0 0 16px 0;
+        font-size: 36px;
+        font-weight: 800;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
+        letter-spacing: -0.5px;
       }
 
       header p {
         margin: 0;
         color: #666;
-        font-size: 16px;
+        font-size: 17px;
+        font-weight: 400;
       }
 
       .controls {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border-radius: 16px;
-        padding: 20px;
-        margin-bottom: 24px;
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(20px);
+        border-radius: 18px;
+        padding: 24px;
+        margin-bottom: 32px;
         display: flex;
-        gap: 12px;
+        gap: 16px;
         align-items: center;
         flex-wrap: wrap;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.3);
       }
 
       .filter-btn {
-        padding: 8px 16px;
+        padding: 12px 24px;
         border: 2px solid rgba(102, 126, 234, 0.3);
-        background: white;
-        border-radius: 20px;
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 14px;
         cursor: pointer;
-        font-size: 14px;
-        font-weight: 500;
+        font-size: 15px;
+        font-weight: 600;
         color: #667eea;
-        transition: all 0.2s ease;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .filter-btn::before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 0;
+        height: 0;
+        border-radius: 50%;
+        background: rgba(102, 126, 234, 0.1);
+        transform: translate(-50%, -50%);
+        transition: width 0.4s, height 0.4s;
       }
 
       .filter-btn:hover {
         background: rgba(102, 126, 234, 0.1);
-        border-color: #667eea;
+        border-color: rgba(102, 126, 234, 0.5);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+      }
+
+      .filter-btn:hover::before {
+        width: 200px;
+        height: 200px;
       }
 
       .filter-btn.active {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
         border-color: transparent;
+        box-shadow: 0 4px 16px rgba(102, 126, 234, 0.4);
+      }
+
+      .filter-btn.active::before {
+        background: rgba(255, 255, 255, 0.2);
       }
 
       .language-badge {
@@ -254,22 +298,41 @@
       }
 
       .article-card {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border-radius: 16px;
-        padding: 24px;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-        transition: all 0.3s ease;
-        border: 1px solid rgba(255, 255, 255, 0.2);
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(20px);
+        border-radius: 20px;
+        padding: 28px;
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        border: 1px solid rgba(255, 255, 255, 0.3);
         display: flex;
         flex-direction: column;
-        gap: 12px;
+        gap: 16px;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .article-card::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: transform 0.4s ease;
       }
 
       .article-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
-        border-color: rgba(102, 126, 234, 0.3);
+        transform: translateY(-6px);
+        box-shadow: 0 12px 40px rgba(102, 126, 234, 0.2);
+        border-color: rgba(102, 126, 234, 0.4);
+      }
+
+      .article-card:hover::before {
+        transform: scaleX(1);
       }
 
       .article-header {
@@ -341,28 +404,430 @@
         font-size: 14px;
       }
 
-      .loading {
-        text-align: center;
-        padding: 60px 20px;
-        color: rgba(255, 255, 255, 0.9);
+      /* AI 콘텐츠 스타일 */
+      .ai-content-section {
+        margin: 16px 0;
+        padding: 16px;
+        background: rgba(102, 126, 234, 0.05);
+        border-radius: 12px;
+        border-left: 3px solid #667eea;
       }
 
-      .loading::after {
-        content: "";
+      .ai-label {
+        font-size: 12px;
+        font-weight: 700;
+        color: #667eea;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 8px;
+      }
+
+      .ai-summary {
+        color: #333;
+        font-size: 14px;
+        line-height: 1.7;
+        margin: 0;
+      }
+
+      .ai-points {
+        margin: 0;
+        padding-left: 20px;
+        color: #444;
+        font-size: 14px;
+        line-height: 1.8;
+      }
+
+      .ai-points li {
+        margin-bottom: 6px;
+      }
+
+      .ai-insight {
+        color: #555;
+        font-size: 14px;
+        line-height: 1.7;
+        margin: 0;
+        font-style: italic;
+      }
+
+      .article-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 16px;
+        padding-top: 16px;
+        border-top: 1px solid rgba(0, 0, 0, 0.05);
+      }
+
+      .read-more-btn {
         display: inline-block;
-        width: 40px;
-        height: 40px;
-        border: 4px solid rgba(255, 255, 255, 0.3);
-        border-top-color: rgba(255, 255, 255, 0.9);
+        padding: 10px 20px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+        font-size: 14px;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .read-more-btn::before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 0;
+        height: 0;
         border-radius: 50%;
-        animation: spin 0.8s linear infinite;
-        margin-top: 20px;
+        background: rgba(255, 255, 255, 0.3);
+        transform: translate(-50%, -50%);
+        transition: width 0.6s, height 0.6s;
+      }
+
+      .read-more-btn:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+      }
+
+      .read-more-btn:hover::before {
+        width: 300px;
+        height: 300px;
+      }
+
+      .read-more-btn span {
+        position: relative;
+        z-index: 1;
+      }
+
+      /* 오늘의 인사이트 섹션 */
+      .today-insight {
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(20px);
+        border-radius: 20px;
+        padding: 32px;
+        margin-bottom: 32px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(102, 126, 234, 0.2);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .today-insight::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      }
+
+      .today-insight h2 {
+        margin: 0 0 24px 0;
+        font-size: 26px;
+        color: #667eea;
+        font-weight: 700;
+        letter-spacing: -0.3px;
+      }
+
+      .insight-content {
+        color: #1a1a1a;
+        line-height: 1.8;
+      }
+
+      .insight-text {
+        font-size: 17px;
+        margin-bottom: 20px;
+        font-weight: 600;
+        color: #2c3e50;
+        line-height: 1.7;
+      }
+
+      .trends-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 20px 0;
+      }
+
+      .trend-badge {
+        display: inline-block;
+        padding: 10px 18px;
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(118, 75, 162, 0.15) 100%);
+        color: #667eea;
+        border-radius: 20px;
+        font-size: 14px;
+        font-weight: 700;
+        border: 1px solid rgba(102, 126, 234, 0.3);
+        box-shadow: 0 2px 8px rgba(102, 126, 234, 0.15);
+        transition: all 0.2s ease;
+      }
+
+      .trend-badge:hover {
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.25) 0%, rgba(118, 75, 162, 0.25) 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.25);
+      }
+
+      .insight-column {
+        margin-top: 24px;
+        padding: 20px;
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.08) 0%, rgba(118, 75, 162, 0.08) 100%);
+        border-radius: 14px;
+        font-size: 15px;
+        line-height: 1.8;
+        color: #2c3e50;
+        border-left: 4px solid #667eea;
+        font-weight: 500;
+      }
+
+      .insight-column strong {
+        color: #667eea;
+        font-weight: 700;
+      }
+
+      /* 기술 용어 섹션 */
+      .tech-glossary {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 20px;
+        padding: 32px;
+        margin-top: 48px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      }
+
+      .tech-glossary h2 {
+        margin: 0 0 24px 0;
+        font-size: 24px;
+        color: #667eea;
+        font-weight: 600;
+      }
+
+      .glossary-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 20px;
+      }
+
+      .glossary-item {
+        padding: 16px;
+        background: rgba(102, 126, 234, 0.05);
+        border-radius: 12px;
+        border-left: 3px solid #667eea;
+      }
+
+      .glossary-term {
+        font-size: 16px;
+        font-weight: 700;
+        color: #667eea;
+        margin-bottom: 8px;
+      }
+
+      .glossary-definition {
+        font-size: 14px;
+        color: #666;
+        line-height: 1.6;
+        margin: 0;
+      }
+
+      /* 로딩 스피너 */
+      .loading-container {
+        text-align: center;
+        padding: 80px 20px;
+        color: #667eea;
+      }
+
+      .loading-spinner {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        border: 5px solid rgba(102, 126, 234, 0.2);
+        border-top-color: #667eea;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-bottom: 24px;
+      }
+
+      .loading-text {
+        font-size: 18px;
+        font-weight: 600;
+        color: #667eea;
+        margin-bottom: 12px;
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      .loading-subtext {
+        font-size: 14px;
+        color: #999;
+        margin-top: 8px;
       }
 
       @keyframes spin {
         to {
           transform: rotate(360deg);
         }
+      }
+
+      @keyframes pulse {
+        0%, 100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.6;
+        }
+      }
+
+      /* 스켈레톤 UI */
+      .skeleton-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 16px;
+        padding: 24px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        animation: skeleton-pulse 1.5s ease-in-out infinite;
+      }
+
+      @keyframes skeleton-pulse {
+        0%, 100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.6;
+        }
+      }
+
+      .skeleton-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 16px;
+      }
+
+      .skeleton-badge {
+        width: 80px;
+        height: 24px;
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 20px;
+      }
+
+      .skeleton-title {
+        width: 100%;
+        height: 24px;
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 8px;
+        margin-bottom: 12px;
+      }
+
+      .skeleton-title.short {
+        width: 70%;
+      }
+
+      .skeleton-text {
+        width: 100%;
+        height: 16px;
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 8px;
+        margin-bottom: 8px;
+      }
+
+      .skeleton-text.medium {
+        width: 85%;
+      }
+
+      .skeleton-text.short {
+        width: 60%;
+      }
+
+      .skeleton-content {
+        margin: 16px 0;
+        padding: 16px;
+        background: rgba(102, 126, 234, 0.05);
+        border-radius: 12px;
+      }
+
+      .skeleton-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 16px;
+        padding-top: 16px;
+        border-top: 1px solid rgba(0, 0, 0, 0.05);
+      }
+
+      .skeleton-button {
+        width: 100px;
+        height: 36px;
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 8px;
+      }
+
+      .skeleton-meta {
+        width: 80px;
+        height: 16px;
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 8px;
+      }
+
+      @keyframes skeleton-loading {
+        0% {
+          background-position: 200% 0;
+        }
+        100% {
+          background-position: -200% 0;
+        }
+      }
+
+      /* 인사이트 로딩 */
+      .insight-skeleton {
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+        backdrop-filter: blur(10px);
+        border-radius: 20px;
+        padding: 32px;
+        margin-bottom: 32px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(102, 126, 234, 0.2);
+      }
+
+      .insight-skeleton-text {
+        width: 100%;
+        height: 20px;
+        background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 25%, rgba(102, 126, 234, 0.2) 50%, rgba(102, 126, 234, 0.1) 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 8px;
+        margin-bottom: 12px;
+      }
+
+      .insight-skeleton-text.medium {
+        width: 75%;
+      }
+
+      .insight-skeleton-badges {
+        display: flex;
+        gap: 8px;
+        margin: 16px 0;
+      }
+
+      .insight-skeleton-badge {
+        width: 80px;
+        height: 32px;
+        background: linear-gradient(90deg, rgba(102, 126, 234, 0.15) 25%, rgba(102, 126, 234, 0.25) 50%, rgba(102, 126, 234, 0.15) 75%);
+        background-size: 200% 100%;
+        animation: skeleton-loading 1.5s ease-in-out infinite;
+        border-radius: 20px;
       }
 
       .error-message,
@@ -447,6 +912,14 @@
         <button class="filter-btn" data-filter="en">영어</button>
       </div>
 
+      <!-- 오늘의 기술 인사이트 섹션 -->
+      <section class="today-insight" id="today-insight">
+        <h2>🌟 오늘의 기술 인사이트</h2>
+        <div class="insight-content">
+          <!-- 스켈레톤이 JavaScript로 동적 생성됨 -->
+        </div>
+      </section>
+
       <!-- 자체 콘텐츠 섹션 -->
       <section style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 32px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
         <h2 style="margin: 0 0 20px 0; font-size: 24px; color: #667eea; font-weight: 600;">서비스 소개</h2>
@@ -470,7 +943,11 @@
 
       <main>
         <section class="article-list" id="article-list">
-          <div class="loading">뉴스를 불러오는 중...</div>
+          <div class="loading-container">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">뉴스를 불러오는 중...</div>
+            <div class="loading-subtext">최신 IT 뉴스를 수집하고 있습니다</div>
+          </div>
         </section>
       </main>
 
@@ -487,6 +964,37 @@
         src="//t1.daumcdn.net/kas/static/ba.min.js"
         async
       ></script>
+
+      <!-- 기술 용어 설명 섹션 -->
+      <section class="tech-glossary">
+        <h2>📚 기술 용어 설명</h2>
+        <div class="glossary-grid">
+          <div class="glossary-item">
+            <div class="glossary-term">RAG (Retrieval-Augmented Generation)</div>
+            <p class="glossary-definition">검색 기반 생성 구조로, AI가 외부 지식을 검색하여 정확도를 향상시키는 기술입니다. 대규모 언어 모델의 환각 문제를 해결하는 데 효과적입니다.</p>
+          </div>
+          <div class="glossary-item">
+            <div class="glossary-term">WebAssembly (WASM)</div>
+            <p class="glossary-definition">브라우저에서 네이티브에 가까운 속도로 실행되는 바이너리 포맷입니다. JavaScript와 함께 사용하여 고성능 웹 애플리케이션을 구축할 수 있습니다.</p>
+          </div>
+          <div class="glossary-item">
+            <div class="glossary-term">Edge Computing</div>
+            <p class="glossary-definition">데이터를 클라우드 대신 사용자 근처의 엣지 디바이스에서 처리하는 방식입니다. 지연 시간을 줄이고 실시간 처리를 가능하게 합니다.</p>
+          </div>
+          <div class="glossary-item">
+            <div class="glossary-term">Microservices</div>
+            <p class="glossary-definition">애플리케이션을 작은 독립적인 서비스로 분해하는 아키텍처 패턴입니다. 각 서비스는 독립적으로 개발, 배포, 확장할 수 있습니다.</p>
+          </div>
+          <div class="glossary-item">
+            <div class="glossary-term">DevOps</div>
+            <p class="glossary-definition">개발(Development)과 운영(Operations)을 통합하여 소프트웨어 개발과 배포 프로세스를 자동화하고 효율화하는 문화와 방법론입니다.</p>
+          </div>
+          <div class="glossary-item">
+            <div class="glossary-term">Container</div>
+            <p class="glossary-definition">애플리케이션과 그 실행 환경을 함께 패키징하는 기술입니다. Docker가 대표적인 컨테이너 플랫폼으로, 어디서나 동일하게 실행할 수 있습니다.</p>
+          </div>
+        </div>
+      </section>
 
       <footer>
         <p>
@@ -513,7 +1021,106 @@
       console.log("API URL:", API_URL);
 
       let allArticles = [];
+      let newsSummaries = null; // 정적 JSON에서 로드한 요약 데이터
       let currentFilter = "all";
+
+      // 스켈레톤 UI 표시
+      function showSkeletonCards(count = 6) {
+        const container = document.getElementById("article-list");
+        container.innerHTML = "";
+        
+        for (let i = 0; i < count; i++) {
+          const skeletonCard = document.createElement("article");
+          skeletonCard.className = "skeleton-card";
+          skeletonCard.innerHTML = `
+            <div class="skeleton-header">
+              <div class="skeleton-badge"></div>
+              <div class="skeleton-badge" style="width: 50px;"></div>
+            </div>
+            <div class="skeleton-title"></div>
+            <div class="skeleton-title short"></div>
+            <div class="skeleton-content">
+              <div class="skeleton-text"></div>
+              <div class="skeleton-text medium"></div>
+              <div class="skeleton-text short"></div>
+            </div>
+            <div class="skeleton-content">
+              <div class="skeleton-text" style="width: 60px; height: 12px; margin-bottom: 8px;"></div>
+              <div class="skeleton-text short"></div>
+              <div class="skeleton-text medium"></div>
+            </div>
+            <div class="skeleton-footer">
+              <div class="skeleton-button"></div>
+              <div class="skeleton-meta"></div>
+            </div>
+          `;
+          container.appendChild(skeletonCard);
+        }
+      }
+
+      // 인사이트 스켈레톤 표시
+      function showInsightSkeleton() {
+        const container = document.querySelector("#today-insight .insight-content");
+        if (container) {
+          container.innerHTML = `
+            <div class="insight-skeleton-text"></div>
+            <div class="insight-skeleton-text medium"></div>
+            <div class="insight-skeleton-badges">
+              <div class="insight-skeleton-badge"></div>
+              <div class="insight-skeleton-badge"></div>
+              <div class="insight-skeleton-badge"></div>
+              <div class="insight-skeleton-badge"></div>
+            </div>
+            <div class="insight-skeleton-text" style="margin-top: 20px;"></div>
+            <div class="insight-skeleton-text medium"></div>
+          `;
+        }
+      }
+
+      // 정적 JSON에서 뉴스 요약 로드
+      async function loadNewsSummaries() {
+        try {
+          const res = await fetch('/news-summaries.json', { 
+            cache: 'no-cache',
+            headers: {
+              'Accept': 'application/json',
+            }
+          });
+          
+          if (!res.ok) {
+            throw new Error(`HTTP error! status: ${res.status}`);
+          }
+          
+          const data = await res.json();
+          console.log('News summaries loaded:', data.articles?.length || 0, 'articles');
+          return data;
+        } catch (error) {
+          console.warn('Failed to load news summaries:', error.message);
+          return null;
+        }
+      }
+
+      // 기사와 요약 데이터 매칭
+      function matchArticleWithSummary(article) {
+        if (!newsSummaries || !newsSummaries.articles) {
+          return null;
+        }
+        
+        // URL 또는 제목으로 매칭 시도
+        const matched = newsSummaries.articles.find(summary => {
+          // URL이 정확히 일치하는 경우
+          if (summary.link === article.url) {
+            return true;
+          }
+          // URL이 없으면 제목으로 매칭 (대소문자 무시)
+          if (!summary.link && !article.url) {
+            return summary.title?.toLowerCase() === article.title?.toLowerCase();
+          }
+          return false;
+        });
+        
+        return matched || null;
+      }
 
       // 언어 필터 기능
       function setupFilters() {
@@ -565,6 +1172,15 @@
           const lang = a.language || "en";
           const langLabel = lang === "ko" ? "한국어" : "영어";
 
+          // 정적 JSON에서 요약 데이터 매칭
+          const matchedSummary = matchArticleWithSummary(a);
+          const aiSummary = matchedSummary?.summary || a.aiSummary || a.summary || '';
+          const aiPoints = matchedSummary?.points || a.aiPoints || [];
+          const aiInsight = matchedSummary?.insight || a.aiInsight || '';
+          
+          // 요약이 없으면 fallback 메시지
+          const hasSummary = aiSummary && aiSummary.length > 0;
+
           card.innerHTML = `
           <div class="article-header">
             <span class="source">${a.source}</span>
@@ -575,9 +1191,42 @@
               ${a.title}
             </a>
           </h2>
-          ${a.summary ? `<p class="summary">${a.summary}</p>` : ""}
-          <div class="meta">
-            <span>${timeAgo}</span>
+          
+          ${hasSummary ? `
+          <div class="ai-content-section">
+            <div class="ai-label">📝 요약</div>
+            <p class="ai-summary">${aiSummary}</p>
+          </div>
+          ` : `
+          <div class="ai-content-section" style="opacity: 0.6;">
+            <div class="ai-label">📝 요약</div>
+            <p class="ai-summary" style="font-style: italic; color: #999;">요약 준비 중입니다...</p>
+          </div>
+          `}
+          
+          ${aiPoints && aiPoints.length > 0 ? `
+          <div class="ai-content-section">
+            <div class="ai-label">🔑 핵심 포인트</div>
+            <ul class="ai-points">
+              ${aiPoints.map(point => `<li>${point}</li>`).join('')}
+            </ul>
+          </div>
+          ` : ''}
+          
+          ${aiInsight ? `
+          <div class="ai-content-section">
+            <div class="ai-label">💡 인사이트</div>
+            <p class="ai-insight">${aiInsight}</p>
+          </div>
+          ` : ''}
+          
+          <div class="article-footer">
+            <a href="${a.url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
+              <span>원문 보기 →</span>
+            </a>
+            <div class="meta">
+              <span>${timeAgo}</span>
+            </div>
           </div>
         `;
 
@@ -586,6 +1235,12 @@
       }
 
       async function loadArticles() {
+        // 스켈레톤 UI 표시
+        showSkeletonCards(6);
+        
+        const startTime = Date.now();
+        const minLoadingTime = 1500; // 최소 1.5초 로딩 표시
+
         try {
           console.log("Fetching articles from:", API_URL);
           const res = await fetch(API_URL, {
@@ -606,7 +1261,16 @@
 
           const data = await res.json();
           console.log("Articles received:", data.length, "items");
+          
+          // 최소 로딩 시간 보장
+          const elapsedTime = Date.now() - startTime;
+          const remainingTime = Math.max(0, minLoadingTime - elapsedTime);
+          
+          await new Promise(resolve => setTimeout(resolve, remainingTime));
+          
           allArticles = data;
+          
+          // 요약 데이터와 함께 렌더링
           renderArticles();
         } catch (error) {
           console.error("Error loading articles:", error);
@@ -645,6 +1309,72 @@
         }
       }
 
+      // 오늘의 인사이트 불러오기
+      async function loadTodayInsight() {
+        // 인사이트 스켈레톤 표시
+        showInsightSkeleton();
+        
+        const startTime = Date.now();
+        const minLoadingTime = 1200; // 최소 1.2초 로딩 표시
+
+        try {
+          const insightUrl = window.location.hostname === "localhost"
+            ? "http://localhost:3000/api/insight"
+            : `${BACKEND_URL}/api/insight`;
+          
+          const res = await fetch(insightUrl, {
+            method: "GET",
+            headers: {
+              Accept: "application/json",
+              "Content-Type": "application/json",
+            },
+          });
+
+          if (!res.ok) {
+            throw new Error(`HTTP error! status: ${res.status}`);
+          }
+
+          const data = await res.json();
+          
+          // 최소 로딩 시간 보장
+          const elapsedTime = Date.now() - startTime;
+          const remainingTime = Math.max(0, minLoadingTime - elapsedTime);
+          
+          await new Promise(resolve => setTimeout(resolve, remainingTime));
+          
+          const container = document.querySelector("#today-insight .insight-content");
+          
+          container.innerHTML = `
+            <div class="insight-text">${data.insight || '오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.'}</div>
+            ${data.trends && data.trends.length > 0 ? `
+              <div class="trends-list">
+                ${data.trends.map(trend => `<span class="trend-badge">${trend}</span>`).join('')}
+              </div>
+            ` : ''}
+            ${data.column ? `
+              <div class="insight-column">
+                <strong>💬 오늘의 칼럼:</strong> ${data.column}
+              </div>
+            ` : ''}
+          `;
+        } catch (error) {
+          console.error("Error loading insight:", error);
+          const container = document.querySelector("#today-insight .insight-content");
+          container.innerHTML = `
+            <div class="insight-text">오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.</div>
+            <div class="trends-list">
+              <span class="trend-badge">AI</span>
+              <span class="trend-badge">클라우드</span>
+              <span class="trend-badge">보안</span>
+              <span class="trend-badge">스타트업</span>
+            </div>
+            <div class="insight-column">
+              <strong>💬 오늘의 칼럼:</strong> 기술의 빠른 변화 속에서 최신 트렌드를 파악하는 것이 중요합니다. 오늘의 뉴스는 IT 업계의 지속적인 혁신과 성장을 보여주며, 개발자와 기업들에게 새로운 기회를 제시하고 있습니다.
+            </div>
+          `;
+        }
+      }
+
       function getTimeAgo(date) {
         const now = new Date();
         const diff = now - date;
@@ -665,7 +1395,15 @@
 
       // 초기화
       setupFilters();
-      loadArticles();
+      // 페이지 로드 시 뉴스 요약과 뉴스, 인사이트 불러오기
+      (async () => {
+        // 먼저 정적 요약 데이터 로드
+        newsSummaries = await loadNewsSummaries();
+        
+        // 그 다음 뉴스와 인사이트 로드
+        loadArticles();
+        loadTodayInsight();
+      })();
     </script>
   </body>
 </html>
