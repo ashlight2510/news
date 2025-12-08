@@ -32,42 +32,43 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
-      - name: Copy frontend files to root
+      - name: Build and prepare deployment
         run: |
-          # 기존 파일 정리 (README.md 등 제거)
-          rm -f README.md *.md
-          rm -rf backend/ .github/
+          echo "=== Step 1: Current directory ==="
+          pwd
+          ls -la
           
-          # frontend 폴더의 내용을 루트로 복사
-          cp -r frontend/* .
+          echo ""
+          echo "=== Step 2: Frontend folder contents ==="
+          ls -la frontend/ | head -20
           
-          # CNAME 파일 복사 (커스텀 도메인용)
-          if [ -f frontend/CNAME ]; then
-            cp frontend/CNAME .
-          fi
+          echo ""
+          echo "=== Step 3: Copying frontend files to root ==="
+          # 모든 파일 복사 (숨김 파일 포함)
+          # shopt -s dotglob으로 숨김 파일도 포함하여 복사
+          shopt -s dotglob
+          cp -r frontend/* ./
+          shopt -u dotglob
           
-          # SEO 파일 복사
-          if [ -f frontend/robots.txt ]; then
-            cp frontend/robots.txt .
-          fi
-          if [ -f frontend/sitemap.xml ]; then
-            cp frontend/sitemap.xml .
-          fi
-          if [ -f frontend/ads.txt ]; then
-            cp frontend/ads.txt .
-          fi
-          
-          # .nojekyll 파일 생성 (Jekyll 비활성화 - README.md 숨김)
+          echo ""
+          echo "=== Step 4: Creating .nojekyll ==="
           touch .nojekyll
           
-          # index.html이 있는지 확인
-          if [ ! -f index.html ]; then
-            echo "ERROR: index.html not found!"
-            exit 1
-          fi
+          echo ""
+          echo "=== Step 5: Final verification ==="
+          echo "Root directory files:"
+          ls -la | head -20
+          echo ""
+          echo "Key files check:"
+          [ -f index.html ] && echo "✅ index.html exists" || (echo "❌ index.html MISSING!" && exit 1)
+          [ -f CNAME ] && echo "✅ CNAME exists" || echo "⚠️  CNAME not found"
+          [ -f .nojekyll ] && echo "✅ .nojekyll exists" || (echo "❌ .nojekyll MISSING!" && exit 1)
+          [ -f robots.txt ] && echo "✅ robots.txt exists" || echo "⚠️  robots.txt not found"
+          [ -f sitemap.xml ] && echo "✅ sitemap.xml exists" || echo "⚠️  sitemap.xml not found"
+          [ -f about.html ] && echo "✅ about.html exists" || echo "⚠️  about.html not found"
           
-          echo "Files in root after copy:"
-          ls -la
+          echo ""
+          echo "=== Deployment ready! ==="
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
