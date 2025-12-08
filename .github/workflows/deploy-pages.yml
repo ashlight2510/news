@@ -22,7 +22,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true  # 다른 배포가 실행 중이면 취소 (충돌 방지)
 
 jobs:
   deploy:
