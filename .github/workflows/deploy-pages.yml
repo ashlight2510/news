@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'frontend/**'
+      - 'public/**'
       - '.github/workflows/deploy-pages.yml'
       - 'README.md'
   workflow_dispatch:  # 수동 실행 가능
@@ -48,14 +49,22 @@ jobs:
           cp -r frontend/* ./
           shopt -u dotglob
           
-          # public/news-summaries.json도 복사 (존재하는 경우)
-          if [ -f public/news-summaries.json ]; then
+          # news-summaries.json 확인 (frontend/ 또는 public/에서)
+          if [ -f frontend/news-summaries.json ]; then
+            echo "✓ news-summaries.json found in frontend/"
+          elif [ -f public/news-summaries.json ]; then
             cp public/news-summaries.json ./news-summaries.json
-            echo "✓ news-summaries.json copied"
+            echo "✓ news-summaries.json copied from public/"
+          else
+            echo "⚠️  news-summaries.json not found (will be created on next summary run)"
           fi
           
-          echo "Files copied"
+          echo ""
+          echo "Files copied:"
           ls -la | head -30
+          echo ""
+          echo "news-summaries.json check:"
+          [ -f news-summaries.json ] && echo "✅ news-summaries.json exists" || echo "⚠️  news-summaries.json not found"
       
       - name: Create .nojekyll and verify
         run: |
@@ -75,6 +84,7 @@ jobs:
           [ -f robots.txt ] && echo "✅ robots.txt" || echo "⚠️  robots.txt not found"
           [ -f sitemap.xml ] && echo "✅ sitemap.xml" || echo "⚠️  sitemap.xml not found"
           [ -f about.html ] && echo "✅ about.html" || echo "⚠️  about.html not found"
+          [ -f news-summaries.json ] && echo "✅ news-summaries.json" || echo "⚠️  news-summaries.json not found (will be created by summary workflow)"
           
           # README.md가 없어야 함
           [ ! -f README.md ] && echo "✅ README.md removed" || (echo "❌ README.md still exists!" && exit 1)
