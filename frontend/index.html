@@ -66,8 +66,18 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "오늘의 IT 뉴스",
-        "description": "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지",
+        "alternateName": "IT News Aggregator",
+        "description": "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지. TechCrunch, The Verge, ZDNet Korea 등 주요 IT 뉴스를 실시간으로 확인하세요.",
         "url": "https://news.ashlight.store/",
+        "inLanguage": "ko",
+        "publisher": {
+          "@type": "Organization",
+          "name": "오늘의 IT 뉴스",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://news.ashlight.store/favicon.svg"
+          }
+        },
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://news.ashlight.store/?q={search_term_string}",
@@ -82,8 +92,31 @@
         "@type": "NewsMediaOrganization",
         "name": "오늘의 IT 뉴스",
         "url": "https://news.ashlight.store/",
-        "logo": "https://news.ashlight.store/favicon.svg",
-        "sameAs": []
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://news.ashlight.store/favicon.svg"
+        },
+        "sameAs": [],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "email": "ashlight2510@gmail.com",
+          "contactType": "customer service"
+        }
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "홈",
+            "item": "https://news.ashlight.store/"
+          }
+        ]
       }
     </script>
     <!-- 애드센스 예시 (나중에 실제 코드로 교체) -->
@@ -392,6 +425,13 @@
       <header>
         <h1>오늘의 IT 뉴스</h1>
         <p>여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지</p>
+        <nav style="margin-top: 20px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+          <a href="index.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">홈</a>
+          <a href="about.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">About</a>
+          <a href="insights.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">인사이트</a>
+          <a href="privacy.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">개인정보 처리방침</a>
+          <a href="terms.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">이용약관</a>
+        </nav>
       </header>
 
       <!-- 광고 자리 (상단) -->
@@ -406,6 +446,27 @@
         <button class="filter-btn" data-filter="ko">한국어</button>
         <button class="filter-btn" data-filter="en">영어</button>
       </div>
+
+      <!-- 자체 콘텐츠 섹션 -->
+      <section style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 32px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
+        <h2 style="margin: 0 0 20px 0; font-size: 24px; color: #667eea; font-weight: 600;">서비스 소개</h2>
+        <div style="color: #333; line-height: 1.8;">
+          <p style="margin: 0 0 16px 0;">
+            <strong>오늘의 IT 뉴스</strong>는 개발자와 IT 전문가들을 위해 여러 IT 미디어의 뉴스를 한눈에 모아서 제공하는 큐레이션 서비스입니다. 
+            매 시간마다 주요 IT 뉴스 사이트에서 최신 뉴스를 수집하여, 한국어와 영어 뉴스를 구분하여 제공합니다.
+          </p>
+          <p style="margin: 0 0 16px 0;">
+            이 서비스를 통해 여러 뉴스 사이트를 돌아다니지 않고도, 최신 IT 트렌드와 기술 뉴스를 빠르게 파악할 수 있습니다. 
+            특히 한국어와 영어 뉴스를 구분하여 제공함으로써, 사용자가 원하는 언어의 뉴스만 선택적으로 볼 수 있습니다.
+          </p>
+          <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
+            <a href="about.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">더 알아보기</a>
+            <a href="insights.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">인사이트</a>
+            <a href="privacy.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">개인정보 처리방침</a>
+            <a href="terms.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">이용약관</a>
+          </div>
+        </div>
+      </section>
 
       <main>
         <section class="article-list" id="article-list">
