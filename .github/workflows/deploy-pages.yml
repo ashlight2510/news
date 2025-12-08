@@ -1,5 +1,9 @@
 name: Deploy to GitHub Pages
 
+# 중요: GitHub Pages 설정에서 Source를 "GitHub Actions"로 설정해야 합니다
+# Settings → Pages → Source: "GitHub Actions" 선택
+# "Deploy from a branch"는 비활성화해야 Jekyll 배포가 실행되지 않습니다
+
 on:
   push:
     branches:
