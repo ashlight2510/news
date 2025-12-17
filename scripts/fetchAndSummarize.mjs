@@ -70,7 +70,7 @@ async function fetchRSSWithEncoding(url, language = 'en') {
         chunks.push(chunk);
       });
       
-      res.on('end', () => {
+      res.on('end', async () => {
         const buffer = Buffer.concat(chunks);
         let text;
         
@@ -331,4 +331,3 @@ main().catch(error => {
   console.error('❌ Fatal error:', error);
   process.exit(1);
 });
-

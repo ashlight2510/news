@@ -31,7 +31,7 @@
     />
     <meta
       property="og:image"
-      content="https://news.ashlight.store/og-image.svg"
+      content="https://dummyimage.com/1200x630/1f2937/f9fafb&text=Today%27s+IT+News"
     />
     <meta property="og:url" content="https://news.ashlight.store/" />
     <meta property="og:site_name" content="오늘의 IT 뉴스" />
@@ -56,7 +56,10 @@
     <link rel="canonical" href="https://news.ashlight.store/" />
 
     <!-- 파비콘 -->
-    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%20100%20100%27%3E%3Ctext%20y%3D%27.9em%27%20font-size%3D%2790%27%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E"
+    />
     <link rel="alternate icon" href="favicon.ico" />
     <link rel="apple-touch-icon" href="favicon.svg" />
 
@@ -185,12 +188,37 @@
         font-weight: 400;
       }
 
+      /* 공통 네비게이션 (다른 페이지들과 스타일 통일) */
+      .nav {
+        margin-top: 20px;
+        display: flex;
+        gap: 12px;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+
+      .nav a {
+        color: #667eea;
+        text-decoration: none;
+        font-weight: 500;
+        padding: 6px 12px;
+        border-radius: 8px;
+        background: rgba(102, 126, 234, 0.1);
+      }
+
+      .nav a:hover {
+        background: rgba(102, 126, 234, 0.16);
+      }
+
       .controls {
         background: rgba(255, 255, 255, 0.98);
         backdrop-filter: blur(20px);
         border-radius: 18px;
         padding: 24px;
         margin-bottom: 32px;
+        position: sticky;
+        top: 12px;
+        z-index: 50;
         display: flex;
         gap: 16px;
         align-items: center;
@@ -269,7 +297,6 @@
         color: #e74c3c;
       }
 
-      #top-ad,
       #bottom-ad {
         background: rgba(255, 255, 255, 0.9);
         border-radius: 16px;
@@ -429,6 +456,39 @@
         margin: 0;
       }
 
+      /* AI 요약이 너무 길어 카드가 커지는 문제 방지 (기본은 접힘) */
+      .ai-summary.clamped {
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        line-clamp: 5;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .ai-summary-toggle {
+        margin-top: 10px;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 8px 12px;
+        border-radius: 10px;
+        border: 1px solid rgba(102, 126, 234, 0.25);
+        background: rgba(102, 126, 234, 0.08);
+        color: #4b5bdc;
+        font-size: 13px;
+        font-weight: 700;
+        cursor: pointer;
+        user-select: none;
+        transition: transform 0.15s ease, background 0.15s ease,
+          border-color 0.15s ease;
+      }
+
+      .ai-summary-toggle:hover {
+        background: rgba(102, 126, 234, 0.12);
+        border-color: rgba(102, 126, 234, 0.35);
+        transform: translateY(-1px);
+      }
+
       .ai-points {
         margin: 0;
         padding-left: 20px;
@@ -555,7 +615,11 @@
       .trend-badge {
         display: inline-block;
         padding: 10px 18px;
-        background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(118, 75, 162, 0.15) 100%);
+        background: linear-gradient(
+          135deg,
+          rgba(102, 126, 234, 0.15) 0%,
+          rgba(118, 75, 162, 0.15) 100%
+        );
         color: #667eea;
         border-radius: 20px;
         font-size: 14px;
@@ -566,7 +630,11 @@
       }
 
       .trend-badge:hover {
-        background: linear-gradient(135deg, rgba(102, 126, 234, 0.25) 0%, rgba(118, 75, 162, 0.25) 100%);
+        background: linear-gradient(
+          135deg,
+          rgba(102, 126, 234, 0.25) 0%,
+          rgba(118, 75, 162, 0.25) 100%
+        );
         transform: translateY(-2px);
         box-shadow: 0 4px 12px rgba(102, 126, 234, 0.25);
       }
@@ -574,7 +642,11 @@
       .insight-column {
         margin-top: 24px;
         padding: 20px;
-        background: linear-gradient(135deg, rgba(102, 126, 234, 0.08) 0%, rgba(118, 75, 162, 0.08) 100%);
+        background: linear-gradient(
+          135deg,
+          rgba(102, 126, 234, 0.08) 0%,
+          rgba(118, 75, 162, 0.08) 100%
+        );
         border-radius: 14px;
         font-size: 15px;
         line-height: 1.8;
@@ -671,7 +743,8 @@
       }
 
       @keyframes pulse {
-        0%, 100% {
+        0%,
+        100% {
           opacity: 1;
         }
         50% {
@@ -691,7 +764,8 @@
       }
 
       @keyframes skeleton-pulse {
-        0%, 100% {
+        0%,
+        100% {
           opacity: 1;
         }
         50% {
@@ -709,7 +783,12 @@
       .skeleton-badge {
         width: 80px;
         height: 24px;
-        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background: linear-gradient(
+          90deg,
+          #f0f0f0 25%,
+          #e0e0e0 50%,
+          #f0f0f0 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 20px;
@@ -718,7 +797,12 @@
       .skeleton-title {
         width: 100%;
         height: 24px;
-        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background: linear-gradient(
+          90deg,
+          #f0f0f0 25%,
+          #e0e0e0 50%,
+          #f0f0f0 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 8px;
@@ -732,7 +816,12 @@
       .skeleton-text {
         width: 100%;
         height: 16px;
-        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background: linear-gradient(
+          90deg,
+          #f0f0f0 25%,
+          #e0e0e0 50%,
+          #f0f0f0 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 8px;
@@ -766,7 +855,12 @@
       .skeleton-button {
         width: 100px;
         height: 36px;
-        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background: linear-gradient(
+          90deg,
+          #f0f0f0 25%,
+          #e0e0e0 50%,
+          #f0f0f0 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 8px;
@@ -775,7 +869,12 @@
       .skeleton-meta {
         width: 80px;
         height: 16px;
-        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background: linear-gradient(
+          90deg,
+          #f0f0f0 25%,
+          #e0e0e0 50%,
+          #f0f0f0 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 8px;
@@ -792,7 +891,11 @@
 
       /* 인사이트 로딩 */
       .insight-skeleton {
-        background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+        background: linear-gradient(
+          135deg,
+          rgba(102, 126, 234, 0.1) 0%,
+          rgba(118, 75, 162, 0.1) 100%
+        );
         backdrop-filter: blur(10px);
         border-radius: 20px;
         padding: 32px;
@@ -804,7 +907,12 @@
       .insight-skeleton-text {
         width: 100%;
         height: 20px;
-        background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 25%, rgba(102, 126, 234, 0.2) 50%, rgba(102, 126, 234, 0.1) 75%);
+        background: linear-gradient(
+          90deg,
+          rgba(102, 126, 234, 0.1) 25%,
+          rgba(102, 126, 234, 0.2) 50%,
+          rgba(102, 126, 234, 0.1) 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 8px;
@@ -824,7 +932,12 @@
       .insight-skeleton-badge {
         width: 80px;
         height: 32px;
-        background: linear-gradient(90deg, rgba(102, 126, 234, 0.15) 25%, rgba(102, 126, 234, 0.25) 50%, rgba(102, 126, 234, 0.15) 75%);
+        background: linear-gradient(
+          90deg,
+          rgba(102, 126, 234, 0.15) 25%,
+          rgba(102, 126, 234, 0.25) 50%,
+          rgba(102, 126, 234, 0.15) 75%
+        );
         background-size: 200% 100%;
         animation: skeleton-loading 1.5s ease-in-out infinite;
         border-radius: 20px;
@@ -884,33 +997,21 @@
         text-decoration: underline;
       }
     </style>
+    <meta property="og:image:alt" content="Today's IT News" />
   </head>
   <body>
     <div class="container">
       <header>
         <h1>오늘의 IT 뉴스</h1>
         <p>여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지</p>
-        <nav style="margin-top: 20px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-          <a href="index.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">홈</a>
-          <a href="about.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">About</a>
-          <a href="insights.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">인사이트</a>
-          <a href="privacy.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">개인정보 처리방침</a>
-          <a href="terms.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 6px 12px; border-radius: 8px; background: rgba(102, 126, 234, 0.1);">이용약관</a>
+        <nav class="nav">
+          <a href="index.html">홈</a>
+          <a href="about.html">About</a>
+          <a href="insights.html">인사이트</a>
+          <a href="privacy.html">개인정보 처리방침</a>
+          <a href="terms.html">이용약관</a>
         </nav>
       </header>
-
-      <!-- 광고 자리 (상단) -->
-      <div id="top-ad">
-        <!-- 애드센스 광고 블록 자리 -->
-      </div>
-
-      <!-- 필터 및 컨트롤 -->
-      <div class="controls">
-        <span style="font-weight: 600; color: #333">필터:</span>
-        <button class="filter-btn active" data-filter="all">전체</button>
-        <button class="filter-btn" data-filter="ko">한국어</button>
-        <button class="filter-btn" data-filter="en">영어</button>
-      </div>
 
       <!-- 오늘의 기술 인사이트 섹션 -->
       <section class="today-insight" id="today-insight">
@@ -921,27 +1022,106 @@
       </section>
 
       <!-- 자체 콘텐츠 섹션 -->
-      <section style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 32px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
-        <h2 style="margin: 0 0 20px 0; font-size: 24px; color: #667eea; font-weight: 600;">서비스 소개</h2>
-        <div style="color: #333; line-height: 1.8;">
-          <p style="margin: 0 0 16px 0;">
-            <strong>오늘의 IT 뉴스</strong>는 개발자와 IT 전문가들을 위해 여러 IT 미디어의 뉴스를 한눈에 모아서 제공하는 큐레이션 서비스입니다. 
-            매 시간마다 주요 IT 뉴스 사이트에서 최신 뉴스를 수집하여, 한국어와 영어 뉴스를 구분하여 제공합니다.
+      <section
+        style="
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: 20px;
+          padding: 32px;
+          margin-bottom: 32px;
+          box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        "
+      >
+        <h2
+          style="
+            margin: 0 0 20px 0;
+            font-size: 24px;
+            color: #667eea;
+            font-weight: 600;
+          "
+        >
+          서비스 소개
+        </h2>
+        <div style="color: #333; line-height: 1.8">
+          <p style="margin: 0 0 16px 0">
+            <strong>오늘의 IT 뉴스</strong>는 개발자와 IT 전문가들을 위해 여러
+            IT 미디어의 뉴스를 한눈에 모아서 제공하는 큐레이션 서비스입니다. 매
+            시간마다 주요 IT 뉴스 사이트에서 최신 뉴스를 수집하여, 한국어와 영어
+            뉴스를 구분하여 제공합니다.
           </p>
-          <p style="margin: 0 0 16px 0;">
-            이 서비스를 통해 여러 뉴스 사이트를 돌아다니지 않고도, 최신 IT 트렌드와 기술 뉴스를 빠르게 파악할 수 있습니다. 
-            특히 한국어와 영어 뉴스를 구분하여 제공함으로써, 사용자가 원하는 언어의 뉴스만 선택적으로 볼 수 있습니다.
+          <p style="margin: 0 0 16px 0">
+            이 서비스를 통해 여러 뉴스 사이트를 돌아다니지 않고도, 최신 IT
+            트렌드와 기술 뉴스를 빠르게 파악할 수 있습니다. 특히 한국어와 영어
+            뉴스를 구분하여 제공함으로써, 사용자가 원하는 언어의 뉴스만
+            선택적으로 볼 수 있습니다.
           </p>
-          <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
-            <a href="about.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">더 알아보기</a>
-            <a href="insights.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">인사이트</a>
-            <a href="privacy.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">개인정보 처리방침</a>
-            <a href="terms.html" style="color: #667eea; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 8px; background: rgba(102, 126, 234, 0.1); transition: all 0.2s ease;">이용약관</a>
+          <div
+            style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px"
+          >
+            <a
+              href="about.html"
+              style="
+                color: #667eea;
+                text-decoration: none;
+                font-weight: 500;
+                padding: 8px 16px;
+                border-radius: 8px;
+                background: rgba(102, 126, 234, 0.1);
+                transition: all 0.2s ease;
+              "
+              >더 알아보기</a
+            >
+            <a
+              href="insights.html"
+              style="
+                color: #667eea;
+                text-decoration: none;
+                font-weight: 500;
+                padding: 8px 16px;
+                border-radius: 8px;
+                background: rgba(102, 126, 234, 0.1);
+                transition: all 0.2s ease;
+              "
+              >인사이트</a
+            >
+            <a
+              href="privacy.html"
+              style="
+                color: #667eea;
+                text-decoration: none;
+                font-weight: 500;
+                padding: 8px 16px;
+                border-radius: 8px;
+                background: rgba(102, 126, 234, 0.1);
+                transition: all 0.2s ease;
+              "
+              >개인정보 처리방침</a
+            >
+            <a
+              href="terms.html"
+              style="
+                color: #667eea;
+                text-decoration: none;
+                font-weight: 500;
+                padding: 8px 16px;
+                border-radius: 8px;
+                background: rgba(102, 126, 234, 0.1);
+                transition: all 0.2s ease;
+              "
+              >이용약관</a
+            >
           </div>
         </div>
       </section>
 
       <main>
+        <!-- 필터 및 컨트롤 (뉴스 바로 위) -->
+        <div class="controls">
+          <span style="font-weight: 600; color: #333">필터:</span>
+          <button class="filter-btn active" data-filter="all">전체</button>
+          <button class="filter-btn" data-filter="ko">한국어</button>
+          <button class="filter-btn" data-filter="en">영어</button>
+        </div>
         <section class="article-list" id="article-list">
           <div class="loading-container">
             <div class="loading-spinner"></div>
@@ -952,46 +1132,71 @@
       </main>
 
       <!-- 광고 자리 (하단) -->
-      <ins
-        class="kakao_ad_area"
-        style="display: none"
-        data-ad-unit="DAN-YJ82hAE96W2dwT0J"
-        data-ad-width="300"
-        data-ad-height="250"
-      ></ins>
-      <script
-        type="text/javascript"
-        src="//t1.daumcdn.net/kas/static/ba.min.js"
-        async
-      ></script>
+      <div id="bottom-ad">
+        <ins
+          class="kakao_ad_area"
+          style="display: none"
+          data-ad-unit="DAN-YJ82hAE96W2dwT0J"
+          data-ad-width="300"
+          data-ad-height="250"
+        ></ins>
+        <script
+          type="text/javascript"
+          src="//t1.daumcdn.net/kas/static/ba.min.js"
+          async
+        ></script>
+      </div>
 
       <!-- 기술 용어 설명 섹션 -->
       <section class="tech-glossary">
         <h2>📚 기술 용어 설명</h2>
         <div class="glossary-grid">
           <div class="glossary-item">
-            <div class="glossary-term">RAG (Retrieval-Augmented Generation)</div>
-            <p class="glossary-definition">검색 기반 생성 구조로, AI가 외부 지식을 검색하여 정확도를 향상시키는 기술입니다. 대규모 언어 모델의 환각 문제를 해결하는 데 효과적입니다.</p>
+            <div class="glossary-term">
+              RAG (Retrieval-Augmented Generation)
+            </div>
+            <p class="glossary-definition">
+              검색 기반 생성 구조로, AI가 외부 지식을 검색하여 정확도를
+              향상시키는 기술입니다. 대규모 언어 모델의 환각 문제를 해결하는 데
+              효과적입니다.
+            </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">WebAssembly (WASM)</div>
-            <p class="glossary-definition">브라우저에서 네이티브에 가까운 속도로 실행되는 바이너리 포맷입니다. JavaScript와 함께 사용하여 고성능 웹 애플리케이션을 구축할 수 있습니다.</p>
+            <p class="glossary-definition">
+              브라우저에서 네이티브에 가까운 속도로 실행되는 바이너리
+              포맷입니다. JavaScript와 함께 사용하여 고성능 웹 애플리케이션을
+              구축할 수 있습니다.
+            </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">Edge Computing</div>
-            <p class="glossary-definition">데이터를 클라우드 대신 사용자 근처의 엣지 디바이스에서 처리하는 방식입니다. 지연 시간을 줄이고 실시간 처리를 가능하게 합니다.</p>
+            <p class="glossary-definition">
+              데이터를 클라우드 대신 사용자 근처의 엣지 디바이스에서 처리하는
+              방식입니다. 지연 시간을 줄이고 실시간 처리를 가능하게 합니다.
+            </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">Microservices</div>
-            <p class="glossary-definition">애플리케이션을 작은 독립적인 서비스로 분해하는 아키텍처 패턴입니다. 각 서비스는 독립적으로 개발, 배포, 확장할 수 있습니다.</p>
+            <p class="glossary-definition">
+              애플리케이션을 작은 독립적인 서비스로 분해하는 아키텍처
+              패턴입니다. 각 서비스는 독립적으로 개발, 배포, 확장할 수 있습니다.
+            </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">DevOps</div>
-            <p class="glossary-definition">개발(Development)과 운영(Operations)을 통합하여 소프트웨어 개발과 배포 프로세스를 자동화하고 효율화하는 문화와 방법론입니다.</p>
+            <p class="glossary-definition">
+              개발(Development)과 운영(Operations)을 통합하여 소프트웨어 개발과
+              배포 프로세스를 자동화하고 효율화하는 문화와 방법론입니다.
+            </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">Container</div>
-            <p class="glossary-definition">애플리케이션과 그 실행 환경을 함께 패키징하는 기술입니다. Docker가 대표적인 컨테이너 플랫폼으로, 어디서나 동일하게 실행할 수 있습니다.</p>
+            <p class="glossary-definition">
+              애플리케이션과 그 실행 환경을 함께 패키징하는 기술입니다. Docker가
+              대표적인 컨테이너 플랫폼으로, 어디서나 동일하게 실행할 수
+              있습니다.
+            </p>
           </div>
         </div>
       </section>
@@ -999,7 +1204,9 @@
       <footer>
         <p>
           © 2025
-          <a href="mailto:ashlight2510@gmail.com" class="footer-email">AshLight</a>. All rights reserved.
+          <a href="mailto:ashlight2510@gmail.com" class="footer-email"
+            >AshLight</a
+          >. All rights reserved.
         </p>
       </footer>
     </div>
@@ -1028,7 +1235,7 @@
       function showSkeletonCards(count = 6) {
         const container = document.getElementById("article-list");
         container.innerHTML = "";
-        
+
         for (let i = 0; i < count; i++) {
           const skeletonCard = document.createElement("article");
           skeletonCard.className = "skeleton-card";
@@ -1060,7 +1267,9 @@
 
       // 인사이트 스켈레톤 표시
       function showInsightSkeleton() {
-        const container = document.querySelector("#today-insight .insight-content");
+        const container = document.querySelector(
+          "#today-insight .insight-content"
+        );
         if (container) {
           container.innerHTML = `
             <div class="insight-skeleton-text"></div>
@@ -1080,22 +1289,26 @@
       // 정적 JSON에서 뉴스 요약 로드
       async function loadNewsSummaries() {
         try {
-          const res = await fetch('/news-summaries.json', { 
-            cache: 'no-cache',
+          const res = await fetch("/news-summaries.json", {
+            cache: "no-cache",
             headers: {
-              'Accept': 'application/json',
-            }
+              Accept: "application/json",
+            },
           });
-          
+
           if (!res.ok) {
             throw new Error(`HTTP error! status: ${res.status}`);
           }
-          
+
           const data = await res.json();
-          console.log('News summaries loaded:', data.articles?.length || 0, 'articles');
+          console.log(
+            "News summaries loaded:",
+            data.articles?.length || 0,
+            "articles"
+          );
           return data;
         } catch (error) {
-          console.warn('Failed to load news summaries:', error.message);
+          console.warn("Failed to load news summaries:", error.message);
           return null;
         }
       }
@@ -1105,20 +1318,22 @@
         if (!newsSummaries || !newsSummaries.articles) {
           return null;
         }
-        
+
         // URL 또는 제목으로 매칭 시도
-        const matched = newsSummaries.articles.find(summary => {
+        const matched = newsSummaries.articles.find((summary) => {
           // URL이 정확히 일치하는 경우
           if (summary.link === article.url) {
             return true;
           }
           // URL이 없으면 제목으로 매칭 (대소문자 무시)
           if (!summary.link && !article.url) {
-            return summary.title?.toLowerCase() === article.title?.toLowerCase();
+            return (
+              summary.title?.toLowerCase() === article.title?.toLowerCase()
+            );
           }
           return false;
         });
-        
+
         return matched || null;
       }
 
@@ -1132,6 +1347,36 @@
             currentFilter = btn.dataset.filter;
             renderArticles();
           });
+        });
+      }
+
+      // AI 요약 더보기/접기 (이벤트 위임: 한 번만 등록)
+      function setupAiSummaryToggles() {
+        const list = document.getElementById("article-list");
+        if (!list || list.dataset.aiSummaryToggleBound === "true") return;
+        list.dataset.aiSummaryToggleBound = "true";
+
+        list.addEventListener("click", (e) => {
+          const btn = e.target?.closest?.(
+            "button[data-action='toggle-ai-summary']"
+          );
+          if (!btn) return;
+
+          const targetId = btn.getAttribute("data-target");
+          if (!targetId) return;
+          const p = document.getElementById(targetId);
+          if (!p) return;
+
+          const expanded = btn.getAttribute("aria-expanded") === "true";
+          if (expanded) {
+            p.classList.add("clamped");
+            btn.setAttribute("aria-expanded", "false");
+            btn.textContent = "더보기";
+          } else {
+            p.classList.remove("clamped");
+            btn.setAttribute("aria-expanded", "true");
+            btn.textContent = "접기";
+          }
         });
       }
 
@@ -1174,12 +1419,17 @@
 
           // 정적 JSON에서 요약 데이터 매칭
           const matchedSummary = matchArticleWithSummary(a);
-          const aiSummary = matchedSummary?.summary || a.aiSummary || a.summary || '';
+          const aiSummary =
+            matchedSummary?.summary || a.aiSummary || a.summary || "";
           const aiPoints = matchedSummary?.points || a.aiPoints || [];
-          const aiInsight = matchedSummary?.insight || a.aiInsight || '';
-          
+          const aiInsight = matchedSummary?.insight || a.aiInsight || "";
+
           // 요약이 없으면 fallback 메시지
           const hasSummary = aiSummary && aiSummary.length > 0;
+          const isLongSummary = hasSummary && aiSummary.length > 420;
+          const summaryId = `ai-summary-${Math.random()
+            .toString(36)
+            .slice(2, 10)}`;
 
           card.innerHTML = `
           <div class="article-header">
@@ -1192,36 +1442,57 @@
             </a>
           </h2>
           
-          ${hasSummary ? `
+          ${
+            hasSummary
+              ? `
           <div class="ai-content-section">
             <div class="ai-label">📝 요약</div>
-            <p class="ai-summary">${aiSummary}</p>
+            <p id="${summaryId}" class="ai-summary ${
+                  isLongSummary ? "clamped" : ""
+                }">${aiSummary}</p>
+            ${
+              isLongSummary
+                ? `<button type="button" class="ai-summary-toggle" data-action="toggle-ai-summary" data-target="${summaryId}" aria-expanded="false">더보기</button>`
+                : ""
+            }
           </div>
-          ` : `
+          `
+              : `
           <div class="ai-content-section" style="opacity: 0.6;">
             <div class="ai-label">📝 요약</div>
             <p class="ai-summary" style="font-style: italic; color: #999;">요약 준비 중입니다...</p>
           </div>
-          `}
+          `
+          }
           
-          ${aiPoints && aiPoints.length > 0 ? `
+          ${
+            aiPoints && aiPoints.length > 0
+              ? `
           <div class="ai-content-section">
             <div class="ai-label">🔑 핵심 포인트</div>
             <ul class="ai-points">
-              ${aiPoints.map(point => `<li>${point}</li>`).join('')}
+              ${aiPoints.map((point) => `<li>${point}</li>`).join("")}
             </ul>
           </div>
-          ` : ''}
+          `
+              : ""
+          }
           
-          ${aiInsight ? `
+          ${
+            aiInsight
+              ? `
           <div class="ai-content-section">
             <div class="ai-label">💡 인사이트</div>
             <p class="ai-insight">${aiInsight}</p>
           </div>
-          ` : ''}
+          `
+              : ""
+          }
           
           <div class="article-footer">
-            <a href="${a.url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
+            <a href="${
+              a.url
+            }" target="_blank" rel="noopener noreferrer" class="read-more-btn">
               <span>원문 보기 →</span>
             </a>
             <div class="meta">
@@ -1237,7 +1508,7 @@
       async function loadArticles() {
         // 스켈레톤 UI 표시
         showSkeletonCards(6);
-        
+
         const startTime = Date.now();
         const minLoadingTime = 1500; // 최소 1.5초 로딩 표시
 
@@ -1261,15 +1532,15 @@
 
           const data = await res.json();
           console.log("Articles received:", data.length, "items");
-          
+
           // 최소 로딩 시간 보장
           const elapsedTime = Date.now() - startTime;
           const remainingTime = Math.max(0, minLoadingTime - elapsedTime);
-          
-          await new Promise(resolve => setTimeout(resolve, remainingTime));
-          
+
+          await new Promise((resolve) => setTimeout(resolve, remainingTime));
+
           allArticles = data;
-          
+
           // 요약 데이터와 함께 렌더링
           renderArticles();
         } catch (error) {
@@ -1313,15 +1584,16 @@
       async function loadTodayInsight() {
         // 인사이트 스켈레톤 표시
         showInsightSkeleton();
-        
+
         const startTime = Date.now();
         const minLoadingTime = 1200; // 최소 1.2초 로딩 표시
 
         try {
-          const insightUrl = window.location.hostname === "localhost"
-            ? "http://localhost:3000/api/insight"
-            : `${BACKEND_URL}/api/insight`;
-          
+          const insightUrl =
+            window.location.hostname === "localhost"
+              ? "http://localhost:3000/api/insight"
+              : `${BACKEND_URL}/api/insight`;
+
           const res = await fetch(insightUrl, {
             method: "GET",
             headers: {
@@ -1335,31 +1607,48 @@
           }
 
           const data = await res.json();
-          
+
           // 최소 로딩 시간 보장
           const elapsedTime = Date.now() - startTime;
           const remainingTime = Math.max(0, minLoadingTime - elapsedTime);
-          
-          await new Promise(resolve => setTimeout(resolve, remainingTime));
-          
-          const container = document.querySelector("#today-insight .insight-content");
-          
+
+          await new Promise((resolve) => setTimeout(resolve, remainingTime));
+
+          const container = document.querySelector(
+            "#today-insight .insight-content"
+          );
+
           container.innerHTML = `
-            <div class="insight-text">${data.insight || '오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.'}</div>
-            ${data.trends && data.trends.length > 0 ? `
+            <div class="insight-text">${
+              data.insight ||
+              "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다."
+            }</div>
+            ${
+              data.trends && data.trends.length > 0
+                ? `
               <div class="trends-list">
-                ${data.trends.map(trend => `<span class="trend-badge">${trend}</span>`).join('')}
+                ${data.trends
+                  .map((trend) => `<span class="trend-badge">${trend}</span>`)
+                  .join("")}
               </div>
-            ` : ''}
-            ${data.column ? `
+            `
+                : ""
+            }
+            ${
+              data.column
+                ? `
               <div class="insight-column">
                 <strong>💬 오늘의 칼럼:</strong> ${data.column}
               </div>
-            ` : ''}
+            `
+                : ""
+            }
           `;
         } catch (error) {
           console.error("Error loading insight:", error);
-          const container = document.querySelector("#today-insight .insight-content");
+          const container = document.querySelector(
+            "#today-insight .insight-content"
+          );
           container.innerHTML = `
             <div class="insight-text">오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.</div>
             <div class="trends-list">
@@ -1395,14 +1684,48 @@
 
       // 초기화
       setupFilters();
+      setupAiSummaryToggles();
       // 페이지 로드 시 뉴스 요약과 뉴스, 인사이트 불러오기
       (async () => {
         // 먼저 정적 요약 데이터 로드
         newsSummaries = await loadNewsSummaries();
-        
+
         // 그 다음 뉴스와 인사이트 로드
         loadArticles();
         loadTodayInsight();
+      })();
+    </script>
+
+    <script>
+      (function () {
+        "use strict";
+        const targetUrl = "https://funnyfunny.cloud/";
+        function addMoreTestsButton() {
+          if (document.getElementById("more-tests-btn")) return;
+          const moreBtn = document.createElement("button");
+          moreBtn.id = "more-tests-btn";
+          moreBtn.type = "button";
+          moreBtn.dataset.url = targetUrl;
+          moreBtn.textContent = "더 많은 서비스보기";
+          moreBtn.className =
+            "w-full py-4 bg-white border border-purple-100 text-purple-700 font-semibold rounded-xl hover:bg-purple-50 hover:border-purple-200 transition-all duration-200 mt-3";
+          moreBtn.addEventListener("click", function () {
+            window.open(targetUrl, "_blank", "noopener");
+          });
+          const shareButton = document.querySelector(
+            'button#share-btn, button#shareBtn, button[id*="share"]'
+          );
+          if (shareButton) {
+            shareButton.insertAdjacentElement("afterend", moreBtn);
+          } else if (document.body) {
+            document.body.appendChild(moreBtn);
+          }
+        }
+        if (document.readyState === "loading") {
+          document.addEventListener("DOMContentLoaded", addMoreTestsButton);
+        } else {
+          addMoreTestsButton();
+        }
       })();
     </script>
   </body>
