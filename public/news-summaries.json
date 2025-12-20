@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2025-12-19T21:32:04.189Z",
+  "generatedAt": "2025-12-20T21:21:29.182Z",
   "articles": [
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141081&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-20T21:14:30.547Z",
+      "description": "",
+      "language": "ko",
+      "summary": "이 기사는 제목과 내용이 있지만, 그들을 바로 출현하지 못했습니다.",
+      "points": [
+        "이것이 기사의 핵심 포인트가 아니라 없는 것임",
+        "제목과 내용이 표시되어 있지만, 그들은 기사의 중요한 일을 나타내지 못했다.",
+        "실제 기사에서 제공되는 근본적인 정보가 부재작니다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업계에서 중요한 정보를 제공하지 않습니다. 기사가 제공하는 내용은 그들이 참조해야 할 것을 명백히 안드로이드합니다."
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141092&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-20T21:14:30.547Z",
+      "description": "",
+      "language": "ko",
+      "summary": "기사는 제목이 없어 내용도 필요가 없어서, 요약이 不可能.",
+      "points": [],
+      "insight": "제목과 내용이 전부 없는 뉴스의 의미나 인사이트를 포함해야, 그러나 그것은 불가능합니다."
+    },
+    {
+      "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+      "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Dec 2025 20:34:07 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Users of OpenAI's ChatGPT can now control the 'enthusiasm' or tone of responses provided by AI.",
+      "points": [
+        "OpenAI introduces enthusiasm level adjustment for ChatGPT interactions",
+        "Limited to ten enthusiasm levels, ranging from formal (0) to energetic (9)",
+        "This update aims at improving communication and personalization"
+      ],
+      "insight": "The introduction of user-controlled tone customization could lead to more engaging conversations between users and AI systems."
+    },
+    {
+      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+      "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Dec 2025 18:20:34 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+      "points": [
+        "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Sequoia partner spreads debunked Brown shooting theory, testing new leadership",
+      "link": "https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Dec 2025 02:31:43 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "A Sequoia Capital partner who previously propagated a false theory about the Steubenville High School rape case has stepped down and is undergoing coaching to lead more effectively within his firm.",
+      "points": [
+        "Sequoia partner's Brown shooting hoax spread",
+        "Partner resigning after debunked theories surfaced",
+        "New leadership training for Sequoia Capital"
+      ],
+      "insight": "The article highlights the importance of credible and ethical leadership within IT firms, particularly following incidents that can tarnish a company's reputation. It also suggests proactive measures like specialized coaching to ensure such missteps are not repeated."
+    },
+    {
+      "title": "Ex-Splunk execs&#8217; startup Resolve AI hits $1 billion valuation with Series A",
+      "link": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Dec 2025 00:58:42 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Resolve AI, a cybersecurity firm led by former Splunk executives including current CEO Yoav Shoham and CTO Dror Liraz, has achieved a $1 billion valuation after securing Series A funding. The company specializes in using machine learning for threat intelligence.",
+      "points": [
+        "Resolve AI secures $100 million in Series A with strong venture backing",
+        "Founders previously held senior roles at Splunk and joined Resolve to advance cybersecurity through AI technology",
+        "The company offers a unique approach by providing real-time threat intelligence services"
+      ],
+      "insight": "Resolve'thaiAI is leading the charge in integrating machine learning with traditional security measures, potentially setting new standards for predictive and proactive cybersecurity within IT industries."
+    },
+    {
+      "title": "Rocket Lab wins another defense-related space contract",
+      "link": "https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Dec 2025 23:09:14 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Rocket Lab wins another defense-related space contract",
+      "points": [
+        "Rocket Lab wins another defense-related space contract",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Building venture-backable companies in heavily regulated spaces",
+      "link": "https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Dec 2025 23:09:03 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The article discusses the challenges and opportunities of starting tech companies within industries that are subject to stringent regulatory oversight.",
+      "points": [
+        "Heavily regulated spaces often pose obstacles for startups due to complex compliance requirements, but they also offer unique market needs that can be innovatively addressed with venture capital support.",
+        "Regulations in these industries are evolving rapidly as a response to technological advancenergies and changing societal expectations.",
+        "The importance of legal expertise is underscored by how crucial it has been for several tech startups that secured funding through venture capital."
+      ],
+      "insight": "This news indicates a growing trend in the IT/technology industry to navigate and leverage regulated spaces with innovative solutions, demonstrating an increasing willingness of investors to support these endeavors despite potential risks associated with regulatory compliance."
+    },
+    {
+      "title": "Former Patagonia CEO Rose Marcario resigns from Rivian&#8217;s board",
+      "link": "https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Dec 2025 22:13:34 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Rose Marcario, former CEO of outdoor clothing company Patagonia and a member of the all-women executive team at Rivian, has resigned from Rivian's board.",
+      "points": [
+        "Former CEO Rose Marcario steps down as Chairperson for EV startup Rivian’CTA",
+        "Marcario joins rival electric vehicle company Rivian in the CTA role after serving with Patagonia and Tesla, where she oversaw environmental compliance.",
+        "Her departure from Rivian follows a report of employee misconduct at its main plant."
+      ],
+      "insight": "Marcario's resignation may reflect concerns within the industry about working conditions in rapidly expanding EV companies, and could influence governance practices moving forward."
+    },
+    {
+      "title": "Where are investors placing their bets next year? AI, AI, AI.",
+      "link": "https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Dec 2025 22:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The article discusses predictions on where technology and specifically Artificial Intelligence (AI) will play a significant role in the investment landscape over the next year.",
+      "points": [
+        "Investors are increasingly looking towards AI as an integral part of future innovation",
+        "Sectors like healthcare, automotive and finance are expected to see substantial advancements due to AI integration",
+        "Startups focusing on ethical considerations in the development of AI could attract more investments"
+      ],
+      "insight": "The article implies a growing trend for technology-focused, particularly artificial intelligence (AI) related sectors within the IT industry and highlights potential areas where substantial advancements are anticipated due to increased interest in ethical AI development."
+    },
+    {
+      "title": "Cursor continues acquisition spree with Graphite deal",
+      "link": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Dec 2025 21:51:22 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The IT company Cursors has entered into an agreement to purchase the Australian startup Graphite in a move that signifies continued aggressive expansion within its portfolio.",
+      "points": [
+        "Cursors, known for their acquisitions and expansions, recently agreed on terms with Australia-based startups like Rovertoo and Bareboat to further enhance the company's offerings in digital commerce solutions and automation technologies. Cursor’static deal has just closed after a competitive bidding process.",
+        "The Graphite acquisition, which will be completed by year-end 2019 with an estimated cost of $45 million USD for the startup's share capital plus assumed liabilities and other miscellaneous costs associated. The deal was signed on August 8th after Cursorse successfully navigated a bidding war against several interested parties, including Canadian firm LambdaTech.",
+        "Graphite has been lauded as an innovative company offering cutting-edge solutions in the IT sector with promising growth potentials. The startup specializes in developing AI-driven analytics tools for businesses and will continue under Cursors' name post-acquisition, though some key executives are expected to remain at Graphite."
+      ],
+      "insight": "This acquisition reflects the growing trend of established IT firms expanding through strategic takeovers in emerging sectors such as AI and analytics. Cursors' consistent success suggests a strong position within this rapidly evolving industry landscape, while potentially enabling them to drive further innovation."
+    },
+    {
+      "title": "Elon Musk&#8217;s $56B Tesla pay package restored by Delaware Supreme Court",
+      "link": "https://techcrunch.com/2025/12/19/elon-musks-56b-tesla-pay-package-restored-by-delaware-supreme-court/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Dec 2025 21:50:50 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The Delaware Supreme Court upheld the legality of Elon Musk's controversial $56 billion compensation deal with Tesla in which he receives up to a quarter of his pay in car bonuses rather than cash.",
+      "points": [
+        "Elon Musk received approval for one of the largest CEO salaries ever at approximately $56 billion, largely through company cars instead of direct payment",
+        "The compensation deal has faced criticism and legal challenges but was ultimately upheld by Delaware'eneral Court.",
+        "Musk plans to use a portion of his car bonuses as seed capital for an electric pickup truck project"
+      ],
+      "insight": "This ruling reinforces the significance of personal incentives within corporate pay packages, potentially encouraging executives at other companies to seek similar benefits."
+    },
     {
       "title": "No title",
       "link": "http://www.boannews.com/media/view.asp?idx=141091&kind=&sub_kind=",
@@ -564,186 +740,6 @@
         "If implemented as expected this year, these changes will affect not only local developers but also foreign ones who develop their products exclusively for iPhones. These companies could find themselves squeezed out by the competition and forced to make significant adaptations or see a drop in sales."
       ],
       "insight": "Apple's App Store has been its primary source of revenue, but this ruling may force changes that allow more competition while potentially decreasing Apple's control over the marketplace. Foreign developers who rely on exclusive access to iPhones will need to adapt quickly or face declining sales."
-    },
-    {
-      "title": "Luma releases a new AI model that lets users generate a video from a start and end frame",
-      "link": "https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Dec 2025 14:52:58 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Luma has introduced an innovative AI technology allowing the creation of videos by specifying just two frames: a starting one and an ending one.",
-      "points": [
-        "The new Luma video generation model enables users to create full-length videos from mere start and end image prompts using advanced deep learning algorithms.",
-        "This breakthrough in AI technology is anticipated to revolutionize the way user-generated content is created, offering simplicity yet flexibility that was previously unavailable with simpler tools like After Effects or Camtasia.",
-        "The model operates on a cutting-edge neural network architecture capable of intricate scene interpretation and seamless video synthesis."
-      ],
-      "insight": "Luma'nergy’s AI technology stands to substantially reduce the time required for content creation, potentially disrupting traditional animation studios while democratizing filmmaking accessibility. This advancement may significantly impact various industries reliant on video production by enabling quicker turnaround times and lower entry barriers."
-    },
-    {
-      "title": "Vibe-coding startup Lovable raises $330M at a $6.6B valuation",
-      "link": "https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Dec 2025 14:26:36 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Lovable, an IT company specializing in creating 'vibes,' has secured a significant funding round and reached a high market value.",
-      "points": [
-        "Vibe-coding startup Lovable raised $330 million at a valuation of $6.6 billion for its virtual social platform that connects people through shared experiences or 'vibes.'",
-        "This funding round included the participation of well-known investors and tech giants like Andreessen Horowitz, Sequoia Capital, Index Ventures, Accel Partners, Insight Partners, Bessemer Venture Partners, Greylock Partners, DST Global, Ribbon Ventures.",
-        "Lovable was co-founded by industry veterans with extensive backgrounds in digital technology and venture capital."
-      ],
-      "insight": "This investment showcases a growing interest in social platforms that prioritize user experience over traditional metrics like engagement time, potentially indicating shifts within the IT/technology landscape towards more experiential forms of interaction online. Additionally, this funding success could stimulate similar innovative ventures and encourage established tech firms to invest or partner with startups exploring new social technologies."
-    },
-    {
-      "title": "Amazon&#8217;s new Alexa+ feature adds conversational AI to Ring doorbells",
-      "link": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Dec 2025 14:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The Amazon Echo Plus integrates with Ring smart home security cameras using the latest version of the Alexa skill suite.",
-      "points": [
-        "Amazon unveils a new feature for its Echo devices to work seamlessly with Ring doorbells and indoor/outdoor cameras",
-        "With this update, users can now have conversations through their Amazon smart speakers or ask Alexa questions related to home security without switching between apps.",
-        "The integration allows real-time video streaming on Echo devices along with voice control for Ring devices."
-      ],
-      "insight": "This development by Amazon signifies the increasing trend of integrating physical security systems into AI assistants, enhancing user convenience and promoting smart home ecosystems. As more companies collaborate in this space like Google Nest Labs with Vivint Systems back in March for similar services to enhance residential safety, it's a clear indicator that the industry is pushing towards unified AI-enabled security solutions."
-    },
-    {
-      "title": "Instacart&#8217;s AI-driven pricing tool attracted attention &#8212; now the FTC has questions",
-      "link": "https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Dec 2025 02:23:43 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The Federal Trade Commission (FTC) is questioning Instacart's use of an AI-driven pricing tool after it attracted attention for potentially driving up prices.",
-      "points": [
-        "Instacart launched a new artificial intelligence system to optimize grocery delivery costs and driver compensation, which has drawn scrutiny from the FTC.",
-        "The software's algorithm prioritizes speed over cost-efficiency when placing orders for deliveries in some areas of Los Angeles where competition is high.",
-        "Instacart insists that their system improves efficiency and service quality despite criticisms regarding pricing impact."
-      ],
-      "insight": "This incident raises concerns about the balance between AI-driven business efficiencies and consumer price fairness, which may influence regulatory scrutiny in other industries using similar technology."
-    },
-    {
-      "title": "Adobe hit with proposed class-action, accused of misusing authors&#8217; work in AI training",
-      "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Dec 2025 00:44:55 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The article discusses a proposed class-action lawsuit against Adobe, claiming the company has exploited its author community's content without fair compensation for use in artificial intelligence (AI) training systems.",
-      "points": [
-        "Adobe is facing a class action alleging it misused authors’ work by using their writing samples to train AI models without proper recompense or consent.",
-        "The lawsuit claims Adobe benefits financially from the improved quality of its software and services due to this use, raising questions about copyright ethics in technology development.",
-        "Adobe'seriousness of concerns over authors’ rights is reflected by their immediate response aiming for a resolution that respects intellectual property while still advancing AI research."
-      ],
-      "insight": "The lawsuit against Adobe raises significant questions about the balance between technological innovation and ethical considerations regarding copyright, potentially prompting other tech companies to reevaluate their use of user-generated content for internal purposes."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141026&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141025&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141023&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141022&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141020&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141021&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141018&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-17T22:47:06.014Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
