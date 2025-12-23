@@ -8,6 +8,7 @@ const path = require('path');
 
 const CACHE_FILE = path.join(__dirname, '../data/summary-cache.json');
 const CACHE_DIR = path.join(__dirname, '../data');
+const CACHE_TTL_HOURS = 6; // 요약 캐시 유지 시간
 
 // 캐시 디렉토리 생성
 if (!fs.existsSync(CACHE_DIR)) {
@@ -42,13 +43,14 @@ function getCachedSummary(url) {
   const cached = cache[url];
   
   if (cached) {
-    // 캐시가 24시간 이내면 사용
+    // 캐시가 TTL 이내면 사용
     const cacheTime = new Date(cached.timestamp);
     const now = new Date();
     const hoursDiff = (now - cacheTime) / (1000 * 60 * 60);
     
-    if (hoursDiff < 24) {
-      return cached.summary;
+    if (hoursDiff < CACHE_TTL_HOURS) {
+      // data 필드가 없던 예전 캐시 구조도 함께 지원
+      return cached.data || cached.summary || null;
     }
   }
   
@@ -59,13 +61,13 @@ function getCachedSummary(url) {
 function setCachedSummary(url, summary) {
   const cache = loadCache();
   cache[url] = {
-    summary: summary,
+    data: summary,
     timestamp: new Date().toISOString()
   };
   saveCache(cache);
 }
 
-// 오래된 캐시 정리 (24시간 이상)
+// 오래된 캐시 정리 (TTL 이상)
 function cleanOldCache() {
   const cache = loadCache();
   const now = new Date();
@@ -76,7 +78,7 @@ function cleanOldCache() {
     const cacheTime = new Date(cached.timestamp);
     const hoursDiff = (now - cacheTime) / (1000 * 60 * 60);
     
-    if (hoursDiff >= 24) {
+    if (hoursDiff >= CACHE_TTL_HOURS) {
       delete cache[url];
       cleaned = true;
     }
@@ -93,4 +95,3 @@ module.exports = {
   setCachedSummary,
   cleanOldCache
 };
-
