@@ -1,6 +1,140 @@
 {
-  "generatedAt": "2025-12-24T12:43:11.924Z",
+  "generatedAt": "2025-12-24T18:36:33.187Z",
   "articles": [
+    {
+      "title": "The European startup market&#8217;s data doesn&#8217;t match its energy — yet",
+      "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 18:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Despite showing robust growth in revenue and funding over the past five years across Europe's startup ecosystems—including London, Stockholm, Paris, Berlin, Amsterdam, Madrid, Dublin, and Barcelona—the European startups are lagging behind North American counterparts concerning data utilization. With limited access to big data for strategic decision-making in many regions of the continent, there is a significant opportunity for growth if Europe can catch up.",
+      "points": [
+        "-European startup ecosystems have grown significantly with $260Bn invested over five years",
+        "-Only about half (54%) of European startups surveyed use data effectively, unlike North American counterparts where this number is closer to three-quarters.",
+        "Lack of accessibility and availability of big datasets across Europe's various startup ecosystem regions has limited their ability in strategic decision making."
+      ],
+      "insight": "This article highlights the growing divide between European startups and their North American counterparts when it comes to leveraging data for growth. The lack of accessibility and availability of big datasets across Europe presents a significant opportunity that, if addressed effectively by policy-makers and businesses alike, could serve as an impetus not only in closing the gap but also spurring economic development within European startup ecosystems."
+    },
+    {
+      "title": "Waymo explains why its robotaxis got stuck during the SF blackout",
+      "link": "https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 16:55:54 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Waymo explains why its robotaxis got stuck during the SF blackout",
+      "points": [
+        "Waymo explains why its robotaxis got stuck during the SF blackout",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
+      "link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 16:27:55 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Google's self-driving unit Waymo has begun trials with a new voice synthesizer for their autonomous vehicles called Gemini to act as an AI in the car.",
+      "points": [
+        "Waymo is testing its own voice system, 'Gemini', designed by Google's engineers within and outside of Silicon Valley.",
+        "The company aims for this technology not just on robotaxis but also expects it to find use in consumer products.",
+        "Experts have been developing synthetic voices with human-like qualities, which are essential as vehicles become more autonomous. However, no perfect voice exists yet."
+      ],
+      "insight": "The testing of Gemini marks a significant step towards fully integrated AI systems within self-driving cars and could extend to consumer products in the future, potentially reshaping human interaction with technology as vehicles become more autonomous. The pursuit for an ideal synthetic voice indicates how important personalized experiences are perceived to be."
+    },
+    {
+      "title": "The 9 top biotech startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 16:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The 9 top biotech startups from Disrupt Startup Battlefield",
+      "points": [
+        "The 9 top biotech startups from Disrupt Startup Battlefield",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "How Mill closed the deal with Amazon and Whole Foods",
+      "link": "https://techcrunch.com/2025/12/24/how-mill-closed-the-deal-with-amazon-and-whole-foods/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 15:30:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "On October 25th, a leaked document revealed that Jeff Bezos' e-commerce platform, Amazon, had acquired stakes in grocery chains JP Morgan and Tesco.",
+      "points": [
+        "- The deal included an initial $13.7 billion investment by Amazon into the UK retail sector",
+        "- This acquisition has raised concerns over monopolistic practices within the industry, with regulators stepping in to investigate for potential anti-competitive behavior.",
+        "- Despite this development, some experts argue that these deals could represent a positive shift towards integrating online and offline commerce."
+      ],
+      "insight": "The acquisition of grocery chains by Amazon has stirred debate about its impact on the retail industry's competitive dynamics. Regulators are closely examining potential anti-competitive behavior, but some believe this integration could be beneficial for consumers and businesses alike."
+    },
+    {
+      "title": "Apple pauses app store changes in Texas after court blocks age-assurance law",
+      "link": "https://techcrunch.com/2025/12/24/apple-pauses-app-store-changes-in-texas-after-court-blocks-age-assurance-law/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 15:02:06 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Amidst a legal battle over an underage verification policy for iOS apps that required parental consent to make purchases or download movies and music in Texas stores, Apple has temporarily halted these app store changes.",
+      "points": [
+        "Texas law requires parents' approval before their children can buy digital content from the state-run online bookstores for iPad apps and iPhone/iPod touch software applications.",
+        "The U.S. Court of Appeals for the Fifth Circuit blocked Texas Senate Bill 2, also known as Secure Our Children Act or HB4590, which mandated this age-verification measure with court orders."
+      ],
+      "insight": "This development highlights ongoing challenges to implementing stricter digital content regulations within the app ecosystem and how legal disputes can directly impact such policies. As tech companies often navigate a complex web of state legislation, this ruling in Texas may prompt similar actions across other jurisdictions."
+    },
+    {
+      "title": "The 14 top agtech, food tech startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2025/12/24/the-14-top-agtech-food-tech-startups-from-disrupt-startup-battlefield/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 15:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The 14 top agtech, food tech startups from Disrupt Startup Battlefield",
+      "points": [
+        "The 14 top agtech, food tech startups from Disrupt Startup Battlefield",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp",
+      "link": "https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 14:40:34 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The Italian government has urged Meta Platforms Inc. (Meta) to temporarily halt a contentious algorithmic policy that restricts access for rival AI chatbots on WhatsApp in Italy.",
+      "points": [
+        "Italy requests the temporary suspension of an algorithm implemented by Facebook's subsidiary, which limits visibility and interaction opportunities with competing AI-powered messaging bots within its borders.",
+        "The policy has sparked concerns over transparency in digital marketpfluence strategies employed on social platforms for political campaigns or advertising purposes during sensitive periods such as elections.",
+        "In response to the Italian government's pushback, Meta announced a temporary hold on enforcing their algorithmic changes until further notice."
+      ],
+      "insight": "The controversy surrounding Italy's demand highlights potential regulatory pressures faced by major social platforms like Facebook in balancing free speech with fair competition during political campaign seasons. It also raises questions about transparency, user experience optimization, and the extent to which platform policies might be subjected to national jurisdictions."
+    },
+    {
+      "title": "How to track Santa Claus this Christmas Eve using AI",
+      "link": "https://techcrunch.com/2025/12/24/how-to-track-santa-claus-this-christmas-eve-2022/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 14:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The article discusses the whimsical concept of tracking Santa Claus on Christmas Eve through artificial intelligence (AI). It suggests that while many might dismiss it as a mere joke, AI can actually provide real-time updates and information about his movements.",
+      "points": [
+        "Article humorously proposes using AI to track the fictional character of Santa Claus on Christmas Eve",
+        "It suggests that current technologies like smart home devices could theoretically be repurposed for this amusing purpose, assuming they have access to live feeds or real-time updates about Santa' extraditions.",
+        "The article implies the potential fun and creativity of combining technology with festive traditions."
+      ],
+      "insight": "While tracking a mythical figure like Santa Claus using AI might be seen as frivolous, this kind of imaginative application showcases how blending tradition with modern tech can create new forms of entertainment and engagement within the IT industry."
+    },
     {
       "title": "No title",
       "link": "http://www.boannews.com/media/view.asp?idx=141166&kind=&sub_kind=",
@@ -175,6 +309,21 @@
       "summary": "기사가 제시한 내용은 정확히 무엇을 의미하는지를 알려주지 않습니다. 그러더라도 IT/기술 관련 내용이 아닙니다.",
       "points": [],
       "insight": "기사에서 나타나는 출력된 JSON 형식의 내용은 IT/기술 관련 제목이 필요한 정보가 포함되어야 합니다."
+    },
+    {
+      "title": "Can AI fix the operating room? This startup thinks so",
+      "link": "https://techcrunch.com/video/can-ai-fix-the-operating-room-this-startup-thinks-so/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 04:48:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The article discusses a tech start-up that believes artificial intelligence can improve operations in an OR setting and increase efficiency with minimal disruption to workflow.",
+      "points": [
+        "A growing number of healthcare organizations are incorporating AI technology into the operating room (OR) for various purposes, including predictive analytics about patient outcomes based on medical history data",
+        "AI can reduce physician workload by automating routine tasks and aiding in decision-making during surgeries.",
+        "Challenges such as limited training datasets or lack of expertise among healthcare providers are being addressed through partnerships with industry experts."
+      ],
+      "insight": "As AI continues to advance, it has the potential to improve patient outcomes and streamline workflow in operating rooms. However, implementation challenges still remain due to limited datasets or lack of knowledge among healthcare providers."
     },
     {
       "title": "No title",
@@ -591,152 +740,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141118&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141114&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "기사의 내용이 제공되지 않았습니다.",
-      "points": [
-        null,
-        null,
-        null
-      ],
-      "insight": "기사 번역을 위해 필요한 내용이 없습니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141115&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141110&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141107&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "기사가 제공할 내용이 없습니다.",
-      "points": [],
-      "insight": "기사는 제목과 내용을 전반적으로 제공하지 않습니다. 이것은 추가적인 정보를 확인해야 합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141116&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141109&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
-      "link": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Dec 2025 21:10:54 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "In a strategic move towards securing its operations against potential power disruptions and fostering sustainable practices, Alphabet Inc. announced the acquisition of Intersect Power in an effort to bypass energy grid bottlenecks.",
-      "points": [
-        "Alphabet Inc.'s purchase aligns with efforts for self-sufficiency amidst concerns about power supply disruptions.",
-        "Intersect Power specializes in high-performance, efficient renewable microgrids to support data centers and similar facilities.",
-        "The deal underscores the growing importance of energy resilience strategies within tech industries."
-      ],
-      "insight": "This acquisition reflects a broader trend in technology companies prioritizing sustainability, grid reliance minimization, and self-sufficiency to safeguard critical operations against power outages."
-    },
-    {
-      "title": "Trump admin halts 6 GW of offshore wind leases again",
-      "link": "https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Dec 2025 20:52:31 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The Trump administration has once again halted the issuance of new leases for up to six gigawenergies (GWe) worth $3 billion in offshore wind energy projects along its East Coast and Great Lakes.",
-      "points": [
-        "President Donald Trump's Interior Department announced a temporary pause on all pending, submitted applications seeking federal leases for the development of up to six GWe’s (gigawatts) in offshore wind energy projects along its East Coast and Great Lakes.",
-        "The move was made following several backlashes against President Trump's decision last fall on whether or not a ban should be imposed, specifically his call to build the first-ever US marine coastal casino. However, Interior Secretary David Bernhardt defended this latest order as necessary for national security concerns.",
-        "The moratorium was put in place effective Friday and will remain at least until October 15 before a decision is made on whether or not to allow these applications."
-      ],
-      "insight": "This news indicates the federal government's shifting focus towards energy independence, with potential impacts for renewable energy projects development. Additionally, this move could influence foreign and domestic policy decisions regarding offshore wind power in America as well as environmental considerations related to such developments."
-    },
-    {
-      "title": "Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing",
-      "link": "https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Dec 2025 19:53:33 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Larix Paramount has successfully renewed its takeover offer to acquire Warner Bros., with the support of billionaire technology investor Larry Ellison.",
-      "points": [
-        "-Paramount extends a $43 billion bid for Warner Bros, including an additional incentive worth between $2.5 and $4 billion",
-        "-Warner Bros shares rose by more than four per cent following the announcement",
-        "-The deal has been supported with a significant backing from technology mogul Larry Ellison"
-      ],
-      "insight": "This acquisition highlights how wealthy individuals and large investors continue to play substantial roles in shaping the future of entertainment companies, potentially impacting content creation and distribution strategies within the industry."
     }
   ]
 }
