@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2025-12-24T18:36:33.187Z",
+  "generatedAt": "2025-12-25T01:43:49.977Z",
   "articles": [
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=140826&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-25T01:40:22.780Z",
+      "description": "",
+      "language": "ko",
+      "summary": "기사의 핵심 내용을 요약할 수 dependent하게 없어서, 공백인 상태에서 JSON를 만들 수 없습니다.",
+      "points": [],
+      "insight": ""
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141158&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-25T01:40:22.779Z",
+      "description": "",
+      "language": "ko",
+      "summary": "No title",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Nvidia to license AI chip challenger Groq&#8217;s tech and hire its CEO",
+      "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 22:03:16 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Nvidia plans to acquire technology from competitor Groq for artificial intelligence applications while also considering the appointment of Groq's former leader as Nvidia'self CEO.",
+      "points": [
+        "Nvidia is set to license AI chip tech from startup Groq in a move that signals significant interest and investment into advancing computing hardware within this sector.",
+        "The potential hiring of the current CEO of competitor Arm as Nvidia's next leader could represent strategic realignment for Silicon Valley giant, impacting its competition with tech rivals like Qualcomm and Apple.",
+        "This deal highlights an ongoing trend where leading technology companies are increasingly partnering or acquiring startups to bolster their technological capabilities."
+      ],
+      "insight": "The Nvidia-Groq partnership could disrupt the AI chip market by combining Groq's cutting-edge tech with Nvidia's manufacturing prowess, potentially intensifying competition in a field where differentiation is key. The appointment of Arm CEO at Nvidia may suggest an emphasis on innovation and strategic partnerships to enhance its AI computing capabilities."
+    },
+    {
+      "title": "The year data centers went from backend to center stage",
+      "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Dec 2025 20:16:41 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "In a transformative year for the IT industry, data centers have become increasingly visible and vital in everyday life.",
+      "points": [
+        "Data centers played an essential role during critical events such as global pandemics and political unrest due to their capabilities of storing vast amounts of information securely.",
+        "Innovations within the data center industry have accelerated, with advancements in energy efficiency and sustainability being prioritized by key players like Google and Microsoft.",
+        "The growth of remote work has led companies such as Amazon Web Services to expand their offerings for cloud computing solutions."
+      ],
+      "insight": "This shift towards data centers playing a more visible role in society indicates the growing importance of IT infrastructure, with an emphasis on sustainability and energy efficiency that will likely drive industry-wide changes moving forward."
+    },
     {
       "title": "The European startup market&#8217;s data doesn&#8217;t match its energy — yet",
       "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
@@ -680,66 +736,6 @@
         "These apps often come with a community aspect, allowing parents to share stories about their kids' teeth or exchange advice on raising tech-savvy children."
       ],
       "insight": "The integration of technology in the Tooth Fairy tradition showcases how traditional practices can evolve and remain relevant by adapting them into modern culture. It also highlights parents' desire to engage with their child' enduring experiences while simultaneously incorporating technological elements."
-    },
-    {
-      "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
-      "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Dec 2025 22:11:19 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Research from OpenAI indicates that artificial intelligence-based web browsers are potentially susceptible to a specific type of security exploit known as prompt injection.",
-      "points": [
-        "Prompt injection attacks manipulate AI's natural language processing capabilities, leading it to perform unintended actions on the internet.",
-        "The vulnerability exists due to how current versions of Large Language Models (LLMs) like GPT-3 interpret and act upon web content requests without explicit commands from users.",
-        "OpenAI's study underscinces that while developers can mitigate some risks, AI browsers may always be at a higher risk for such attacks."
-      ],
-      "insight": "This research highlights the ongoing security challenges faced by emerging technologies and the necessity of robust safeguarding measures to prevent misuse in real-world applications like web browsing. It suggests that as AI becomes more integrated into our daily lives, ensuring its safe operation will require continuous vigilance."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141120&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141119&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141097&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-22T21:16:10.351Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
