@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2025-12-28T12:40:47.039Z",
+  "generatedAt": "2025-12-28T18:33:37.922Z",
   "articles": [
+    {
+      "title": "Why WeTransfer co-founder is building another file transfer service",
+      "link": "https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Dec 2025 18:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "WeTransfer's co-founder Alexandra Christine Faucette has announced the development of a new file sharing platform called Pastebin. The company plans to offer an unlimited storage plan for $1 per month and is also considering incorporating social media integration features.",
+      "points": [
+        "Alexandra Christine Faucette, co-founder of WeTransfer, announces the creation of a new file transfer service called Pastebin.",
+        "Pastebin will offer unlimited storage for just $1 per month and is also exploring social media integration features to enhance user experience.",
+        "WeTransfer'self started as an alternative project on paste.ee, which was later acquired by Faucette from the company’s original co-founder."
+      ],
+      "insight": "The launch of Pastebin may signify a shift in Alexandra Christine Faucette’s focus towards building more privacy and security features into file transfer services, which could influence other companies to prioritize user safety over simplicity. Additionally, the social media integration aspect indicates that she is aware of modern users' preferences for seamless multi-platform experiences."
+    },
+    {
+      "title": "MayimFlow wants to stop data center leaks before they happen",
+      "link": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Dec 2025 16:30:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "MayimFlow is a startup focusing on preventing security breaches in enterprise-grade cloud infrastructries by detecting and stopping malicious activities through behavioral analysis.",
+      "points": [
+        "Startup MayimFlow offers solutions to stop data center leaks before they occur",
+        "The company uses machine learning for anomaly detection within the IT environment",
+        "MayimFlow's platform can integrate with various cloud service providers, such as AWS and Azure"
+      ],
+      "insight": "As companies migrate to hybrid or multi-cloud environments without a unified security viewpoint, it becomes increasingly important for startups like MayimFlow to offer solutions that prevent data leaks before they happen."
+    },
+    {
+      "title": "The 33 top health and wellness startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Dec 2025 16:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Disrupt Startup Battlefield has highlighted the growing trend of merging technology with personalized healthcare by showcasing its top 33 startups in this niche market.",
+      "points": [
+        "The article lists and provides background information on Disrupt's most promising wellness-focused startup companies, including details such as company names, their specialties within personalized healthcare or fitness technology, founders, investors involved, products/services offered.",
+        "Notable examples from the list include 'Spoonrobotics', a Boston-based robotic arm developer creating autonomous assistive technologies for older adults; and ‘MediSafe’, founded in Los Angeles by three MIT graduates specializing in at-home patient monitoring via wearables.",
+        "Disrupt's top pick demonstrates the increasing consumer demand within this market segment."
+      ],
+      "insight": "The rise of personalized healthcare technologies signifies a shift towards proactive and preventative care, which could revolutionize how we approach wellness in our daily lives. The growing popularity of these startups indicates that consumers are seeking innovative solutions to improve their quality of life."
+    },
+    {
+      "title": "The Google Pixel Watch 4 made me like smartwatches again",
+      "link": "https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Dec 2025 16:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "A user's positive experience with the new Google Pixel Watch has reignited their interest in wearable technology.",
+      "points": [
+        "The recent release of the Google Pixel Watch 4 is generating excitement among tech enthusiast endorsements and promising reviews are pouring in for this latest offering from a leading innovator like Google.",
+        "Google's entry into smartwatches, already backed by its AI expertise, brings advanced features to wearables with potential impact on the industry due to heightened competition among tech giants seeking dominance through diversified products and services in this emerging market segment. ",
+        "Consumer interest appears revitalized as more people weigh options for their next device purchase."
+      ],
+      "insight": "Google's bold move into the smartwatch sector with a competitively priced yet feature-rich product like Pixel Watch has significant potential to shift market dynamics and consumer preferences, potentially leading to accelerated innovation in wearable technology across other tech companies."
+    },
+    {
+      "title": "OpenAI is looking for a new Head of Preparedness",
+      "link": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Dec 2025 15:08:19 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The tech giant OpenAI seeks to fill the role of Head of Preparedness in response to growing concerns about AI safety and ethics.",
+      "points": [
+        "OpenAI's proactive approach towards responsible AI development by hiring a dedicated head for preparedness demonstrates its commitment to mitigating potential risks associated with artificial intelligence.",
+        "The Head of Preparedness role at OpenAI will likely involve developing strategies and policies that ensure the safe deployment, use, and impact assessment of their AI technologies in society.",
+        "As concerns over unchecked advancnerd development continue to escalate, OpenAI's decision highlights an industry-wide acknowledgement among leading tech companies about taking responsibility for technology."
+      ],
+      "insight": "OpenAI hiring a Head of Preparedness indicates the importance and urgency that major AI developers see in addressing potential hazards, reflecting broader concerns within the industry regarding ethical considerations and societal impacts. This move by OpenAI could set a precedent for how technology companies prioritize safety as they navigate uncharted territories."
+    },
+    {
+      "title": "The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield",
+      "link": "https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Dec 2025 15:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield",
+      "points": [
+        "The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "No title",
       "link": "http://www.boannews.com/media/view.asp?idx=141190&kind=&sub_kind=",
@@ -653,90 +743,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141161&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-25T18:29:38.812Z",
-      "description": "",
-      "language": "ko",
-      "summary": "이 기사에서는 제목이 없으므로 내용을 확인해야 합니다.",
-      "points": [
-        "기사의 내용은 그대로 제시되어있지만, 제목과 내용이 동일하지 않습니다.",
-        "이 문서는 제목과 질의를 통해 출시되어야 합니다.",
-        "이 문서에서는 제목이 있지만 내용은 제공되지 않았다."
-      ],
-      "insight": "기사의 제목과 내용이 모두 없는 상황에서 보일 수 있습니다. 추가로 '제론'인 '제목'이나 '내용'이 있지만, JSON 형식의 요약은 위에서 정의한 방식으로 수동으로 만들어야 합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141167&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-25T18:29:38.812Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141169&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-25T18:29:38.811Z",
-      "description": "",
-      "language": "ko",
-      "summary": "기사에서 제공되지 않은 내용으로, 요구를 해주신 대가는 '머니'이다.",
-      "points": [
-        "인터뷰 중 활성적으로 노하우하고 사회적 공간에서의 소통을 강조한다.",
-        "온열이, 웹 자바스크립트를 이용한 '링크'를 이용해 응로하는 경로의 개인적으로 진화를 보여준다.",
-        "그리고 소재 계열 및 항목의 공개 또는 사기가 일어나는 경우에 대한 이해와 처방을 제공하였다."
-      ],
-      "insight": "이러한 '머니'으로 인터뷰가 진행될 수 있음을 인식하는 것이 아주 중요한 정보다."
-    },
-    {
-      "title": "How a Spanish virus brought Google to Málaga",
-      "link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Dec 2025 18:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Google's arrival in Malaga was sparked by the city hosting an international conference on computer viruses called 'Las Virusillas'. The event aimed at promoting digital safety and education among school children attracted tech giants like Google to set up their operations.",
-      "points": [
-        "The International Conference of Computer Viruses ('Las Virusillas') was hosted in Malaga, Spain as a way to raise awareness about cybersecurity amongst the youth. This event drew significant attention from major technology companies including Google and Microsoft.",
-        "Google set up its first office outside Silicon Valley at an old university building on Gran Via de Málaga for five days during August 2018, where more than a thousand people participated in workshops aimed to spread knowledge about internet security among school children. ",
-        "The event highlights the growing need for digital safety education and awareness across all demographics worldwide as cyber threats continue to increase."
-      ],
-      "insight": "This news underscores that major tech companies are not only relocating their businesses, but also taking a more active role in raising awareness about digital safety and education. It suggests the growing importance of promoting internet security across all age groups worldwide."
-    },
-    {
-      "title": "The best distraction blockers to jumpstart your focus in the new year",
-      "link": "https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Dec 2025 17:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "As we enter a fresh New Year, many are seeking ways to enhance productivity and minimize digital interrupers from social media notifications that can derail concentration.",
-      "points": [
-        "The article discusses various distraction blockers available for different devices including smartphones, laptops, tablets, desktop computers, Chromebooks, Windows PCs, MacBook Pros and iPads."
-      ],
-      "insight": "For business professionals or anyone working from home to improve focus in this new year with the help of these distraction blockers could enhance productivity while reducing stress caused by constant notifications."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=140826&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-25T01:40:22.780Z",
-      "description": "",
-      "language": "ko",
-      "summary": "기사의 핵심 내용을 요약할 수 dependent하게 없어서, 공백인 상태에서 JSON를 만들 수 없습니다.",
-      "points": [],
-      "insight": ""
     }
   ]
 }
