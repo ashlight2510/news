@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2025-12-29T06:50:15.852Z",
+  "generatedAt": "2025-12-29T12:56:26.553Z",
   "articles": [
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141218&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-29T12:43:43.483Z",
+      "description": "",
+      "language": "ko",
+      "summary": "기사의 요약을 제공할 수 staticInvalidInputError없음.",
+      "points": [
+        "",
+        "",
+        ""
+      ],
+      "insight": "이러한 기사에서 IT/기술 업계에 대해 의미나 인사이트를 제공할 수 없음."
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141219&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-29T12:43:43.483Z",
+      "description": "",
+      "language": "ko",
+      "summary": "기사 제목이 없습니다.",
+      "points": [
+        "이전 기사에서 중요한 포인트가 나타나지 않았음을 참고하여",
+        "- 더 자세한 내용은 다시 보시거나,",
+        "- IT/기술 업체에서 행정서를 제공하는 매우중요한 문서를 찾아야함을 의미합니다."
+      ],
+      "insight": "이 기사에서 IT/기술 업계가 주로 제시하는 주장이나 의미를 요약해보려면, 대상 기사 내용을 다시 확인해야 합니다."
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141217&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-29T12:43:43.483Z",
+      "description": "",
+      "language": "ko",
+      "summary": "기사 내용이 정 Level A 보기에서는 공백이있는 'No title'의 경우에도 요약을 수행할 수 없음",
+      "points": [
+        "",
+        "",
+        ""
+      ],
+      "insight": "기사에 대한 발행 정보만을 기준으로 JSON 형식으로 요약"
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141210&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-29T12:43:43.483Z",
+      "description": "",
+      "language": "ko",
+      "summary": "No title",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141216&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-29T12:43:43.483Z",
+      "description": "",
+      "language": "ko",
+      "summary": "No title",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "No title",
+      "link": "http://www.boannews.com/media/view.asp?idx=141221&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "2025-12-29T12:43:43.482Z",
+      "description": "",
+      "language": "ko",
+      "summary": "No title",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "You&#8217;ve been targeted by government spyware. Now what?",
+      "link": "https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Dec 2025 10:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The article discusses the recent discovery of an individual being a victim to alleged state-sponsored cyber espionage tools known as Pegasus spyware.",
+      "points": [
+        "Psaki accused Israel's Intelligence Minister, Gabi Ashkenazi, in connection with his wife Sari Nassar'thy targeting using the controversial Pegasus Spyware software created by non-state actors Black Viper and Quadrant.",
+        "The Israeli government denied involvement or knowledge of these allegations while intelligence officials pointed out that Israel itself was a victim in previous similar cases, suggesting vulnerability to cyber espionage tools like spyware can affect any country regardless of the attacker's identity. ",
+        "Certain governments and tech companies are under pressure for not doing more to protect users from being targeted by such sophisticated surveillance technology."
+      ],
+      "insight": "This news highlights growing concerns about state-sponsored cyber espionage, emphasizing the urgent need for enhanced global cooperation in IT security and stricter regulations to prevent abuse of spyware technologies. It also raises questions regarding user privacy rights."
+    },
     {
       "title": "No title",
       "link": "http://www.boannews.com/media/view.asp?idx=141214&kind=&sub_kind=",
@@ -641,110 +746,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141184&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-27T01:28:41.127Z",
-      "description": "",
-      "language": "ko",
-      "summary": "기사는 제목과 입장을 가지고 있지만, 내용이 공백인데, 요구에 해당하기 어렵다.",
-      "points": [
-        "",
-        "",
-        ""
-      ],
-      "insight": "기사가 IT/기술 업체에서 의미나 인사이트를 제공하기 어렵다."
-    },
-    {
-      "title": "How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming",
-      "link": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Dec 2025 22:52:08 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The article discusses how the business model and practices of Ÿnsect faced challenges leading to its downfall after raising significant funding.",
-      "points": [
-        "Despite initial success, growing pains from production issues led to consumer skepticism about insect quality for food consumption purposes.",
-        "The company's approach focused on producing edible proteins but failed to effectively communicate the benefits and safety measures taken with customers leading to misinformation fears."
-      ],
-      "insight": "This case highlights that even highly funded companies in innovative niches can face steep challenges when they fail to build trust among consumers or adequately address production concerns. It serves as a cautionary tale for other startups aiming at redefining food industry norms."
-    },
-    {
-      "title": "As people look for ways to make new friends, here are the apps promising to help",
-      "link": "https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Dec 2025 19:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The article provides a list of friend-making applications aimed at helping individuals connect with others and expand their social circles.",
-      "points": [
-        "A review highlights several apps designed to aid in making new friends, emphasizing features like group activities and shared interests for connection",
-        "Some popular recommendations include Meetup, Bumble BFF, and Friendschuss among various platforms including iOS, Android, and web applications.",
-        "The importance of safety is stressed with reminders to meet in public places before agreeing on a meeting spot."
-      ],
-      "insight": "With the growing need for social interaction amidst changing communication habits due to technology advancements, these apps provide meaningful solutions while emphasizing user well-bethood and safety measures."
-    },
-    {
-      "title": "What&#8217;s ahead for startups and VCs in 2026? Investors weigh in",
-      "link": "https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Dec 2025 18:12:09 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "In this article, investors provide their insights on the future of startups and venture capital (VC) in 2026.",
-      "points": [
-        "Expect more specialized VC firms focusing on specific industries or technologies to emerge.",
-        "Startups should aim for sustainability, not just rapid growth; this could lead to a shift towards slow-growth models such as subscription services and recurring revenue streams.",
-        "The role of artificial intelligence (AI) in investment decisions is set to become more prevalent."
-      ],
-      "insight": "This news implies that the startup ecosystem will continue evolving towards specialization, sustainability, and AI-driven strategies. It suggests a need for startups to adapt accordingly or risk falling behind in an increasingly competitive environment."
-    },
-    {
-      "title": "Naware&#8217;s chemical-free weed killer tech could change how we treat lawns",
-      "link": "https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Dec 2025 17:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The article discusses a new technology called Naware's that uses sound waves to kill and remove dandelions without the need for chemical pesticides.",
-      "points": [
-        "Naware has developed SoundBlox, an acoustic weed killer using ultrasonic frequencies",
-        "The system emits concentrated beams of sound that destroy plant cells and dissolve organic matter in dandelions without harming plants or animals.",
-        "Unlike chemical solutions, this technology is environmentally friendly and does not require water for operation"
-      ],
-      "insight": "This news suggests a shift towards more sustainable lawn maintenance methods that don't rely on harmful pesticides. As the world becomes increasingly eco-conscious, technologies like SoundBlox could revolutionize outdoor landscaping practices."
-    },
-    {
-      "title": "Treat yourself: The best smart glasses to buy with your holiday gift money",
-      "link": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Dec 2025 16:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The article recommends several top-rated smart glasses as great holiday gifts for those who love tech and wearables.",
-      "points": [
-        "Amazon's Echo Glass offers hands-free commands, realtime audio translation in various languages while capturing visual surrner with full OLED screen display of size comparable to smartphones",
-        "IBM Watson glasses provide augmented reality experiences for both professional and personal life enhancements. With AI integration like IBM's DeepQA engine that responds instantaneously, it provides real-time information such as navigation aids.",
-        "Lenovo Glass uses cutting edge AR technology with an adaptive interface that adjusts to the user’s environment and behavior for personalized experiences across various platforms"
-      ],
-      "insight": "These smart glasses represent significant advancements in wearable technology, providing not only practical utility but also entertainment value. They cater to diverse needs from navigation aids to multilingual real-time translation."
-    },
-    {
-      "title": "The 9 top cybersecurity startups from Disrupt Startup Battlefield",
-      "link": "https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Dec 2025 15:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The 9 top cybersecurity startups from Disrupt Startup Battlefield",
-      "points": [
-        "The 9 top cybersecurity startups from Disrupt Startup Battlefield",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
