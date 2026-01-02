@@ -161,9 +161,9 @@ app.listen(PORT, () => {
   });
 });
 
-// 크론 작업 설정 (매 시간마다 뉴스 수집)
+// 크론 작업 설정 (6시간마다 뉴스 수집)
 const cron = require('node-cron');
-cron.schedule('0 * * * *', async () => {
+cron.schedule('0 */6 * * *', async () => {
   console.log('Running scheduled news collection...');
   try {
     const collected = await collectNews();
@@ -188,4 +188,3 @@ cron.schedule('0 0 * * *', async () => {
   todayInsight = null;
   insightLastUpdated = null;
 });
-

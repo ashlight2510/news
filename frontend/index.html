@@ -1337,6 +1337,113 @@
         return matched || null;
       }
 
+      function normalizeSummaryArticle(summary) {
+        const published =
+          summary.publishedAt ||
+          summary.published_at ||
+          summary.pubDate ||
+          new Date().toISOString();
+
+        return {
+          title: summary.title || "제목 없음",
+          url: summary.link || summary.url || "#",
+          source: summary.source || "Unknown",
+          published_at: published,
+          description: summary.description || "",
+          language: summary.language || "en",
+          summary: summary.summary || "",
+          aiSummary: summary.summary || "",
+          aiPoints: summary.points || [],
+          aiInsight: summary.insight || "",
+        };
+      }
+
+      function buildLocalInsight(articles, generatedAt) {
+        const keywordMap = [
+          { key: "ai", label: "AI" },
+          { key: "인공지능", label: "AI" },
+          { key: "클라우드", label: "클라우드" },
+          { key: "cloud", label: "클라우드" },
+          { key: "보안", label: "보안" },
+          { key: "security", label: "보안" },
+          { key: "스타트업", label: "스타트업" },
+          { key: "startup", label: "스타트업" },
+          { key: "데이터", label: "데이터" },
+          { key: "data", label: "데이터" },
+          { key: "칩", label: "반도체" },
+          { key: "반도체", label: "반도체" },
+          { key: "chip", label: "반도체" },
+          { key: "오픈소스", label: "오픈소스" },
+          { key: "open source", label: "오픈소스" },
+        ];
+
+        const counts = new Map();
+        articles.forEach((article) => {
+          const text = `${article.title || ""} ${
+            article.description || ""
+          }`.toLowerCase();
+          keywordMap.forEach((keyword) => {
+            if (text.includes(keyword.key)) {
+              counts.set(keyword.label, (counts.get(keyword.label) || 0) + 1);
+            }
+          });
+        });
+
+        const trends = Array.from(counts.entries())
+          .sort((a, b) => b[1] - a[1])
+          .slice(0, 4)
+          .map(([label]) => label);
+
+        const fallbackTrends = ["AI", "클라우드", "보안", "스타트업"];
+        const finalTrends = trends.length > 0 ? trends : fallbackTrends;
+
+        const updatedAt = generatedAt
+          ? new Date(generatedAt).toLocaleString("ko-KR")
+          : "최근";
+
+        return {
+          insight: `최근 수집된 ${articles.length}개 기사에서 ${finalTrends.join(
+            ", "
+          )} 관련 이슈가 특히 많이 나타납니다.`,
+          trends: finalTrends,
+          column: `${updatedAt} 기준 자동 수집된 뉴스 요약을 바탕으로 정리했습니다. 백엔드 호출 없이 로컬 데이터를 우선 제공합니다.`,
+        };
+      }
+
+      function renderInsightContent(data) {
+        const container = document.querySelector(
+          "#today-insight .insight-content"
+        );
+        if (!container) return;
+
+        container.innerHTML = `
+            <div class="insight-text">${
+              data.insight ||
+              "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다."
+            }</div>
+            ${
+              data.trends && data.trends.length > 0
+                ? `
+              <div class="trends-list">
+                ${data.trends
+                  .map((trend) => `<span class="trend-badge">${trend}</span>`)
+                  .join("")}
+              </div>
+            `
+                : ""
+            }
+            ${
+              data.column
+                ? `
+              <div class="insight-column">
+                <strong>💬 오늘의 칼럼:</strong> ${data.column}
+              </div>
+            `
+                : ""
+            }
+          `;
+      }
+
       // 언어 필터 기능
       function setupFilters() {
         const filterBtns = document.querySelectorAll(".filter-btn");
@@ -1506,6 +1613,12 @@
       }
 
       async function loadArticles() {
+        if (newsSummaries && newsSummaries.articles?.length) {
+          allArticles = newsSummaries.articles.map(normalizeSummaryArticle);
+          renderArticles();
+          return;
+        }
+
         // 스켈레톤 UI 표시
         showSkeletonCards(6);
 
@@ -1582,6 +1695,15 @@
 
       // 오늘의 인사이트 불러오기
       async function loadTodayInsight() {
+        if (newsSummaries && newsSummaries.articles?.length) {
+          const localInsight = buildLocalInsight(
+            newsSummaries.articles,
+            newsSummaries.generatedAt
+          );
+          renderInsightContent(localInsight);
+          return;
+        }
+
         // 인사이트 스켈레톤 표시
         showInsightSkeleton();
 
@@ -1614,53 +1736,16 @@
 
           await new Promise((resolve) => setTimeout(resolve, remainingTime));
 
-          const container = document.querySelector(
-            "#today-insight .insight-content"
-          );
-
-          container.innerHTML = `
-            <div class="insight-text">${
-              data.insight ||
-              "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다."
-            }</div>
-            ${
-              data.trends && data.trends.length > 0
-                ? `
-              <div class="trends-list">
-                ${data.trends
-                  .map((trend) => `<span class="trend-badge">${trend}</span>`)
-                  .join("")}
-              </div>
-            `
-                : ""
-            }
-            ${
-              data.column
-                ? `
-              <div class="insight-column">
-                <strong>💬 오늘의 칼럼:</strong> ${data.column}
-              </div>
-            `
-                : ""
-            }
-          `;
+          renderInsightContent(data);
         } catch (error) {
           console.error("Error loading insight:", error);
-          const container = document.querySelector(
-            "#today-insight .insight-content"
-          );
-          container.innerHTML = `
-            <div class="insight-text">오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.</div>
-            <div class="trends-list">
-              <span class="trend-badge">AI</span>
-              <span class="trend-badge">클라우드</span>
-              <span class="trend-badge">보안</span>
-              <span class="trend-badge">스타트업</span>
-            </div>
-            <div class="insight-column">
-              <strong>💬 오늘의 칼럼:</strong> 기술의 빠른 변화 속에서 최신 트렌드를 파악하는 것이 중요합니다. 오늘의 뉴스는 IT 업계의 지속적인 혁신과 성장을 보여주며, 개발자와 기업들에게 새로운 기회를 제시하고 있습니다.
-            </div>
-          `;
+          renderInsightContent({
+            insight:
+              "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.",
+            trends: ["AI", "클라우드", "보안", "스타트업"],
+            column:
+              "기술의 빠른 변화 속에서 최신 트렌드를 파악하는 것이 중요합니다. 오늘의 뉴스는 IT 업계의 지속적인 혁신과 성장을 보여주며, 개발자와 기업들에게 새로운 기회를 제시하고 있습니다.",
+          });
         }
       }
 
