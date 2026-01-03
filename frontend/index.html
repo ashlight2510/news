@@ -1231,6 +1231,22 @@
       let newsSummaries = null; // 정적 JSON에서 로드한 요약 데이터
       let currentFilter = "all";
 
+      // HTML 이스케이프 함수
+      function escapeHtml(text) {
+        if (!text) return "";
+        const div = document.createElement("div");
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // HTML 엔티티 디코딩 함수
+      function decodeHtmlEntities(text) {
+        if (!text) return "";
+        const textarea = document.createElement("textarea");
+        textarea.innerHTML = text;
+        return textarea.value;
+      }
+
       // 스켈레톤 UI 표시
       function showSkeletonCards(count = 6) {
         const container = document.getElementById("article-list");
@@ -1289,6 +1305,7 @@
       // 정적 JSON에서 뉴스 요약 로드
       async function loadNewsSummaries() {
         try {
+          console.log("Loading news-summaries.json...");
           const res = await fetch("/news-summaries.json", {
             cache: "no-cache",
             headers: {
@@ -1306,6 +1323,20 @@
             data.articles?.length || 0,
             "articles"
           );
+
+          // 첫 번째 기사 샘플 로그
+          if (data.articles && data.articles.length > 0) {
+            const sample = data.articles[0];
+            console.log("Sample article from JSON:", {
+              title: sample.title,
+              hasSummary: !!sample.summary,
+              hasPoints:
+                Array.isArray(sample.points) && sample.points.length > 0,
+              hasInsight: !!sample.insight,
+              link: sample.link,
+            });
+          }
+
           return data;
         } catch (error) {
           console.warn("Failed to load news summaries:", error.message);
@@ -1344,17 +1375,72 @@
           summary.pubDate ||
           new Date().toISOString();
 
+        // summary, points, insight 필드 확인 (다양한 필드명 지원)
+        let aiSummary = summary.summary || summary.aiSummary || "";
+        let aiPoints = summary.points || summary.aiPoints || [];
+        let aiInsight = summary.insight || summary.aiInsight || "";
+
+        // HTML 엔티티 디코딩
+        aiSummary = decodeHtmlEntities(aiSummary);
+        aiInsight = decodeHtmlEntities(aiInsight);
+        if (Array.isArray(aiPoints)) {
+          aiPoints = aiPoints.map((point) => decodeHtmlEntities(point));
+        }
+
+        // 타이틀 개선: "No title"이거나 비어있으면 description에서 추출 시도
+        let title = summary.title || "";
+        title = decodeHtmlEntities(title); // HTML 엔티티 디코딩
+        title = title.trim();
+
+        if (
+          !title ||
+          title === "No title" ||
+          title === "제목 없음" ||
+          title.length === 0
+        ) {
+          // 1순위: description에서 추출
+          const desc = (summary.description || "").trim();
+          if (desc && desc.length > 10) {
+            title = desc.substring(0, 100).replace(/\s+/g, " ").trim();
+          }
+          // 2순위: AI 요약에서 추출
+          else if (aiSummary && aiSummary.length > 10) {
+            title = aiSummary.substring(0, 100).replace(/\s+/g, " ").trim();
+          }
+          // 3순위: link에서 파일명 추출
+          else if (summary.link) {
+            try {
+              const urlParts = summary.link
+                .split("/")
+                .filter((p) => p.length > 0);
+              if (urlParts.length > 0) {
+                const lastPart = urlParts[urlParts.length - 1];
+                // URL 파라미터 제거
+                const cleanPart = lastPart.split("?")[0].split("#")[0];
+                title = decodeURIComponent(cleanPart)
+                  .replace(/[-_]/g, " ")
+                  .substring(0, 80);
+              }
+            } catch (e) {
+              // URL 디코딩 실패 시 무시
+            }
+          }
+        }
+
+        // 최종 타이틀 (fallback)
+        const finalTitle = title || "제목 없음";
+
         return {
-          title: summary.title || "제목 없음",
+          title: finalTitle,
           url: summary.link || summary.url || "#",
           source: summary.source || "Unknown",
           published_at: published,
           description: summary.description || "",
           language: summary.language || "en",
-          summary: summary.summary || "",
-          aiSummary: summary.summary || "",
-          aiPoints: summary.points || [],
-          aiInsight: summary.insight || "",
+          summary: aiSummary, // 원본 summary 필드도 유지
+          aiSummary: aiSummary, // AI 요약
+          aiPoints: Array.isArray(aiPoints) ? aiPoints : [], // 배열 보장
+          aiInsight: aiInsight, // AI 인사이트
         };
       }
 
@@ -1402,7 +1488,9 @@
           : "최근";
 
         return {
-          insight: `최근 수집된 ${articles.length}개 기사에서 ${finalTrends.join(
+          insight: `최근 수집된 ${
+            articles.length
+          }개 기사에서 ${finalTrends.join(
             ", "
           )} 관련 이슈가 특히 많이 나타납니다.`,
           trends: finalTrends,
@@ -1524,12 +1612,59 @@
           const lang = a.language || "en";
           const langLabel = lang === "ko" ? "한국어" : "영어";
 
-          // 정적 JSON에서 요약 데이터 매칭
+          // 정적 JSON에서 요약 데이터 매칭 (백엔드 API에서 온 경우)
           const matchedSummary = matchArticleWithSummary(a);
-          const aiSummary =
+
+          // 우선순위: 매칭된 요약 > 기사에 포함된 AI 데이터 > 빈 값
+          let aiSummary =
             matchedSummary?.summary || a.aiSummary || a.summary || "";
-          const aiPoints = matchedSummary?.points || a.aiPoints || [];
-          const aiInsight = matchedSummary?.insight || a.aiInsight || "";
+          let aiPoints =
+            matchedSummary?.points ||
+            (Array.isArray(a.aiPoints) ? a.aiPoints : []) ||
+            [];
+          let aiInsight = matchedSummary?.insight || a.aiInsight || "";
+
+          // matchedSummary에서 온 경우 HTML 엔티티 디코딩 (normalizeSummaryArticle에서 이미 디코딩된 경우는 제외)
+          if (matchedSummary && !a.aiSummary) {
+            aiSummary = decodeHtmlEntities(aiSummary);
+            aiInsight = decodeHtmlEntities(aiInsight);
+            if (Array.isArray(aiPoints)) {
+              aiPoints = aiPoints.map((point) => decodeHtmlEntities(point));
+            }
+          }
+
+          // 디버깅: 첫 번째 기사만 상세 로그
+          if (filteredArticles.indexOf(a) === 0) {
+            console.log("Rendering first article:", {
+              title: a.title,
+              url: a.url,
+              source: a.source,
+              hasMatchedSummary: !!matchedSummary,
+              aiSummary: aiSummary
+                ? aiSummary.substring(0, 50) + "..."
+                : "없음",
+              aiPointsCount: aiPoints.length,
+              aiInsight: aiInsight
+                ? aiInsight.substring(0, 50) + "..."
+                : "없음",
+            });
+          }
+
+          // 디버깅: 타이틀이 없거나 문제가 있는 경우
+          if (
+            !a.title ||
+            a.title === "No title" ||
+            a.title === "제목 없음" ||
+            a.title.trim().length === 0
+          ) {
+            console.warn("Article with missing title:", {
+              url: a.url,
+              source: a.source,
+              hasSummary: !!aiSummary,
+              hasPoints: aiPoints.length > 0,
+              hasInsight: !!aiInsight,
+            });
+          }
 
           // 요약이 없으면 fallback 메시지
           const hasSummary = aiSummary && aiSummary.length > 0;
@@ -1540,12 +1675,14 @@
 
           card.innerHTML = `
           <div class="article-header">
-            <span class="source">${a.source}</span>
-            <span class="language-badge ${lang}">${lang}</span>
+            <span class="source">${escapeHtml(a.source)}</span>
+            <span class="language-badge ${lang}">${langLabel}</span>
           </div>
           <h2 class="title">
-            <a href="${a.url}" target="_blank" rel="noopener noreferrer">
-              ${a.title}
+            <a href="${escapeHtml(
+              a.url
+            )}" target="_blank" rel="noopener noreferrer">
+              ${escapeHtml(a.title)}
             </a>
           </h2>
           
@@ -1556,7 +1693,7 @@
             <div class="ai-label">📝 요약</div>
             <p id="${summaryId}" class="ai-summary ${
                   isLongSummary ? "clamped" : ""
-                }">${aiSummary}</p>
+                }">${escapeHtml(aiSummary)}</p>
             ${
               isLongSummary
                 ? `<button type="button" class="ai-summary-toggle" data-action="toggle-ai-summary" data-target="${summaryId}" aria-expanded="false">더보기</button>`
@@ -1578,7 +1715,9 @@
           <div class="ai-content-section">
             <div class="ai-label">🔑 핵심 포인트</div>
             <ul class="ai-points">
-              ${aiPoints.map((point) => `<li>${point}</li>`).join("")}
+              ${aiPoints
+                .map((point) => `<li>${escapeHtml(point)}</li>`)
+                .join("")}
             </ul>
           </div>
           `
@@ -1590,7 +1729,7 @@
               ? `
           <div class="ai-content-section">
             <div class="ai-label">💡 인사이트</div>
-            <p class="ai-insight">${aiInsight}</p>
+            <p class="ai-insight">${escapeHtml(aiInsight)}</p>
           </div>
           `
               : ""
@@ -1614,7 +1753,21 @@
 
       async function loadArticles() {
         if (newsSummaries && newsSummaries.articles?.length) {
+          console.log(
+            "Loading articles from news-summaries.json:",
+            newsSummaries.articles.length
+          );
           allArticles = newsSummaries.articles.map(normalizeSummaryArticle);
+          console.log("Normalized articles:", allArticles.length);
+          // 첫 번째 기사 샘플 로그
+          if (allArticles.length > 0) {
+            console.log("Sample article:", {
+              title: allArticles[0].title,
+              hasSummary: !!allArticles[0].aiSummary,
+              hasPoints: allArticles[0].aiPoints?.length > 0,
+              hasInsight: !!allArticles[0].aiInsight,
+            });
+          }
           renderArticles();
           return;
         }

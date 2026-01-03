@@ -9,23 +9,53 @@ import { generateArticleSummary } from './ollamaClient.mjs';
 import https from 'https';
 import http from 'http';
 
-// RSS 파서 (간단한 구현)
+// RSS 파서 (개선된 구현)
 class SimpleRSSParser {
   async parseString(xmlText) {
     const items = [];
-    const titleMatch = xmlText.match(/<title>(.*?)<\/title>/i);
     const itemMatches = xmlText.matchAll(/<item>([\s\S]*?)<\/item>/gi);
     
     for (const match of itemMatches) {
       const itemXml = match[1];
-      const title = this.extractTag(itemXml, 'title');
-      const link = this.extractTag(itemXml, 'link');
-      const pubDate = this.extractTag(itemXml, 'pubDate');
-      const description = this.extractTag(itemXml, 'description') || this.extractTag(itemXml, 'content:encoded');
       
-      if (title && link) {
+      // 타이틀 추출 (여러 형식 시도)
+      let title = this.extractTag(itemXml, 'title') || 
+                  this.extractTag(itemXml, 'dc:title') ||
+                  this.extractTag(itemXml, 'media:title');
+      
+      const link = this.extractTag(itemXml, 'link') || 
+                   this.extractTag(itemXml, 'guid');
+      const pubDate = this.extractTag(itemXml, 'pubDate') ||
+                      this.extractTag(itemXml, 'dc:date') ||
+                      this.extractTag(itemXml, 'published');
+      const description = this.extractTag(itemXml, 'description') || 
+                          this.extractTag(itemXml, 'content:encoded') ||
+                          this.extractTag(itemXml, 'content');
+      
+      // 타이틀이 비어있거나 공백만 있을 때 description에서 추출 시도
+      const cleanedTitle = this.cleanText(title || '');
+      if (!cleanedTitle || cleanedTitle === 'No title' || cleanedTitle.trim().length === 0) {
+        const cleanedDesc = this.cleanText(description || '');
+        // description의 첫 100자에서 의미있는 텍스트 추출
+        if (cleanedDesc && cleanedDesc.length > 10) {
+          title = cleanedDesc.substring(0, 100).replace(/\s+/g, ' ').trim();
+        } else if (link) {
+          // link에서 파일명이나 경로에서 추출 시도
+          const urlParts = link.split('/').filter(p => p.length > 0);
+          if (urlParts.length > 0) {
+            const lastPart = urlParts[urlParts.length - 1];
+            title = decodeURIComponent(lastPart).replace(/[-_]/g, ' ').substring(0, 80);
+          }
+        }
+      }
+      
+      // 최종 타이틀 정리
+      const finalTitle = this.cleanText(title || '');
+      
+      // link가 있어야만 추가 (타이틀은 최소한의 fallback 사용)
+      if (link) {
         items.push({
-          title: this.cleanText(title),
+          title: finalTitle || '제목 없음',
           link: this.cleanText(link),
           pubDate: pubDate || new Date().toISOString(),
           description: this.cleanText(description || ''),
@@ -37,19 +67,68 @@ class SimpleRSSParser {
   }
   
   extractTag(xml, tagName) {
-    const regex = new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i');
-    const match = xml.match(regex);
-    return match ? match[1].trim() : null;
+    // CDATA 처리 포함한 정규식
+    const patterns = [
+      // 일반 태그: <title>content</title>
+      new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i'),
+      // CDATA 태그: <title><![CDATA[content]]></title>
+      new RegExp(`<${tagName}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tagName}>`, 'i'),
+    ];
+    
+    for (const pattern of patterns) {
+      const match = xml.match(pattern);
+      if (match && match[1]) {
+        return match[1].trim();
+      }
+    }
+    
+    return null;
   }
   
   cleanText(text) {
     if (!text) return '';
+    
+    // CDATA 제거 (혹시 남아있을 경우)
+    text = text.replace(/<!\[CDATA\[(.*?)\]\]>/gi, '$1');
+    
     // HTML 태그 제거
     text = text.replace(/<[^>]*>/g, '');
-    // HTML 엔티티 디코딩 (간단한 버전)
-    text = text.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'");
+    
+    // HTML 엔티티 디코딩 (개선된 버전)
+    // 숫자 엔티티 처리 (&#8217; 등)
+    text = text.replace(/&#(\d+);/g, (match, dec) => {
+      return String.fromCharCode(parseInt(dec, 10));
+    });
+    
+    // 16진수 엔티티 처리 (&#x27; 등)
+    text = text.replace(/&#x([0-9a-fA-F]+);/g, (match, hex) => {
+      return String.fromCharCode(parseInt(hex, 16));
+    });
+    
+    // 일반 HTML 엔티티
+    const entityMap = {
+      '&lt;': '<',
+      '&gt;': '>',
+      '&amp;': '&',
+      '&quot;': '"',
+      '&apos;': "'",
+      '&#39;': "'",
+      '&nbsp;': ' ',
+      '&copy;': '©',
+      '&reg;': '®',
+      '&trade;': '™',
+      '&hellip;': '...',
+      '&mdash;': '—',
+      '&ndash;': '–',
+    };
+    
+    for (const [entity, char] of Object.entries(entityMap)) {
+      text = text.replace(new RegExp(entity, 'g'), char);
+    }
+    
     // 공백 정리
     text = text.replace(/\s+/g, ' ').trim();
+    
     return text;
   }
 }
@@ -179,8 +258,40 @@ async function collectNews() {
       }
       
       feedData.items.forEach(item => {
+        // 타이틀 검증 및 개선
+        let title = item.title || '';
+        title = title.trim();
+        
+        // 타이틀이 비어있거나 "No title"인 경우 description에서 추출 시도
+        if (!title || title === 'No title' || title.length === 0) {
+          const desc = (item.description || '').trim();
+          if (desc && desc.length > 10) {
+            // description의 첫 100자를 타이틀로 사용
+            title = desc.substring(0, 100).replace(/\s+/g, ' ').trim();
+          } else if (item.link) {
+            // link에서 파일명 추출 시도
+            try {
+              const urlParts = item.link.split('/').filter(p => p.length > 0);
+              if (urlParts.length > 0) {
+                const lastPart = urlParts[urlParts.length - 1];
+                title = decodeURIComponent(lastPart).replace(/[-_]/g, ' ').substring(0, 80);
+              }
+            } catch (e) {
+              // URL 디코딩 실패 시 무시
+            }
+          }
+        }
+        
+        // 최종 타이틀 (fallback)
+        const finalTitle = title || '제목 없음';
+        
+        // 타이틀이 여전히 문제가 있으면 경고
+        if (finalTitle === '제목 없음' || finalTitle.length < 3) {
+          console.warn(`  ⚠ Warning: Article with missing/invalid title from ${feed.name}: ${item.link}`);
+        }
+        
         allArticles.push({
-          title: item.title || 'No title',
+          title: finalTitle,
           link: item.link || '#',
           source: feed.source,
           publishedAt: item.pubDate || new Date().toISOString(),
