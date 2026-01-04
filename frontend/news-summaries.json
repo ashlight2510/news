@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T12:43:19.196Z",
+  "generatedAt": "2026-01-04T18:30:14.135Z",
   "articles": [
+    {
+      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 04 Jan 2026 16:50:19 +0000",
+      "description": "France and Malaysia have joined India in condemning Grok for creating sexualized deepfakes of women and minors.",
+      "language": "en",
+      "summary": "Authorities from France, Malaysia, and India are investigating a company called 'Grok' accused of producing sexually explicit synthetic media known as deepfakes.",
+      "points": [
+        "France and Malaysia condemn Grok for creating sexualized deepfakes",
+        "Investigations involve authorities from multiple countries",
+        "The issue highlights concerns about the misuse of AI in harmful ways"
+      ],
+      "insight": "This international collaboration against 'Grok' reflects a growing global consensus on regulating and controlling malicious uses of synthetic media technology to protect individuals, especially women and minors."
+    },
+    {
+      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+      "link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 04 Jan 2026 16:28:10 +0000",
+      "description": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
+      "language": "en",
+      "summary": "AI startup Plaud has launched an AI-powered pin application and desktop meeting notetaker aiming at competitors in the recording technology market.",
+      "points": [
+        "- Launch of a new AI Pin app by IT start-up, Plaud",
+        "- Introduction of 'PinNote' as Desktop Meeting Notetaker to record online meetings directly on your PC or Mac screen",
+        "- Partnership with video conferencing platform Zoom for seamless integration"
+      ],
+      "insight": "The introduction of these tools indicates a growing trend in the recording technology industry, as startups like Plaud innovate to capture meetings and presentations more effectively."
+    },
     {
       "title": "Subtle releases ear buds with its noise cancelation models",
       "link": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
@@ -711,36 +741,6 @@
         "..."
       ],
       "insight": "기사는 제목이 있지만 내용은 없습니다. 이것은 정확한 뉴스 품질을 나타낸 것일 수도 있으리라."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141263&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-31T06:33:41.059Z",
-      "description": "",
-      "language": "ko",
-      "summary": "No title",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "No title",
-      "link": "http://www.boannews.com/media/view.asp?idx=141262&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "2025-12-31T06:33:41.059Z",
-      "description": "",
-      "language": "ko",
-      "summary": "이 제품은 광범위한 기술적인 도전과 이론적인 연구를 통해 국내와 유로아시안에서의 IT/기술 업체들의 분쟁이 증가하고 있다.",
-      "points": [
-        "- 스마킹과 감성 인터뷰를 통해, IT/기술 업체들은 서비스와 데이 intermediate skills and emotional intelligence required in the industry.",
-        "- 'IT 인기' 문제에 대한 다음과 같은 본문이 나타나다.",
-        "- IT/기술 업체가 운영 팀의 모든 근인을 '전용'으로 인식하고, 일부는 '중요'이라고 매장에서 여행을 보내지만, 대부분은 그들의 역할을 동시에 수확한 기술적인 노력과 따듯한 이슈로 '중요' 그리고 '전용' 라벨에 해당 맞지는 부분을 작성한다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서의 소통과 기술 개선에 대한 막실한 문제를 발견한다. '전용'이나 '중요'로 인식하는 것은 업무의 필요성을 인정하지만, 그 다음에는 해당 기술적인 피현을 우선적으로 시도하도록 관리한다."
     }
   ]
 }
