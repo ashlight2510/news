@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-01-06T12:51:28.152Z",
+  "generatedAt": "2026-01-06T18:35:33.655Z",
   "articles": [
+    {
+      "title": "Nvidia to accelerate Siemens chip-design tools using its GPUs",
+      "link": "https://techcrunch.com/2026/01/06/nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Jan 2026 18:28:52 +0000",
+      "description": "Nvidia announced today at CES 2026 that it would help Siemens’ electronic design automation (EDA) software run on its GPUs in an attempt to speed up the chip-design process. Nearly all computer chips today are designed using EDA tools, and as chip features get smaller and transistors more numerous, the process has grown more computationally […]",
+      "language": "en",
+      "summary": "Nvidia will enhance Siemens' electronic design automation software by leveraging its GPUs to accelerate chip-design processes at CES 2dees 2026.",
+      "points": [
+        "Nvidia is partnering with semiconductor industry leader, Siemens, to integrate advanced graphics processing units (GPUs) into electronic design automation software for faster and more efficient chip designs.",
+        "The collaboration aims at expediting the increasingly complex and computationally demanding process of computer chip manufacturing as features shrink in size on chips over time.",
+        "Nvidia's GPU-based acceleration could potentially revolutionize EDA tools, making them faster than current CPU-only solutions."
+      ],
+      "insight": "This partnership between Nvidia and Siemens represents a significant shift towards incorporating more powerful parallel processing capabilities in chip designing. As the semiconductor industry continues to evolve at an exponential rate with features getting smaller, this development may pave the way for faster innovation cycles."
+    },
+    {
+      "title": "How World Cup champion Mario Götze built a parallel career as an angel investor",
+      "link": "https://techcrunch.com/2026/01/06/how-world-cup-champion-mario-gotze-built-a-parallel-career-as-an-angel-investor/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Jan 2026 18:18:02 +0000",
+      "description": "Mario Götze will go down in soccer history as the player who scored the winning goal that made Germany the 2014 FIFA World Cup champion. But he is also an increasingly seasoned angel investor.",
+      "language": "en",
+      "summary": "Mario Götze was instrumental in securing a victory for Germany during the 2014 FIFA World Cup and has since cultivated an interest in angel investing.",
+      "points": [
+        "Götze transitioned from soccer to successful angel investing",
+        "He invests primarily in early-stage European startups focused on enterprise software solutions, digital marketpfluence strategies and eCommerce logistics optimization for small businesses.",
+        "His ventures are noteworthy due to his ability to leverage connections from the world of soccer."
+      ],
+      "insight": "Mario Götze's foray into angel investing reflects a growing trend among sports celebrities to use their fame and network as capital sources, potentially leading to more diverse funding opportunities within the tech industry. His success could inspire other athletes in similar fields."
+    },
+    {
+      "title": "Threads is developing in-message games",
+      "link": "https://techcrunch.com/2026/01/06/threads-is-developing-in-message-games/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Jan 2026 17:39:13 +0000",
+      "description": "Launching in-message games would give Threads an edge over competitors like X and Bluesky, which don’t offer built-in games.",
+      "language": "en",
+      "summary": "Threads is developing features for playing games directly within the messaging platform to stand out from competition.",
+      "points": [
+        "Incorporation of in-message gameplay can differentiate Threads as a chat service with enriched user experience",
+        "Building interactive elements like mini-games or trivia questions into messages could increase engagement and time spent on the platform.",
+        "Threads' strategy may encourage other platforms to develop similar features, potentially transforming social media interaction paradigms."
+      ],
+      "insight": "The introduction of in-message games by Threads signals a move towards integrating entertainment directly into communication services. This could reshape how users perceive and interact with digital messaging as well as the competitive strategies for platforms seeking to capture user engagement."
+    },
+    {
+      "title": "Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia",
+      "link": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Jan 2026 16:30:00 +0000",
+      "description": "The fusion power frontrunner said that construction on its Sparc reactor was proceeding as planned. Meanwhile, it's building a digital twin to help dial it in.",
+      "language": "en",
+      "summary": "Commonwealth Fusion Systems is progressing with the construction of its Sparc reactor while also developing a digital twin for better optimization.",
+      "points": [
+        "Construction on Commonwealth Fusion Systems' Sparc fusion power plant continues as scheduled, indicating steady project development and adherence to planned timelines.",
+        "To optimize the performance of their next-generran prototype (non-furnaced Tokamak), CFS is developing a digital twin which mirrors real reactor conditions in simulations for improved tuning before full implementation.",
+        "CFS recently secured funding from investors to accelerate its fusion power development, demonstrating strong financial backing and confidence within the industry."
+      ],
+      "insight": "The progress of Commonwealth Fusion Systems' Sparc reactor showcases advancements in fusion technology that have implications for clean energy generation. The creation of a digital twin further positions CFS as an innovative leader, potentially accelerating technological breakthroughs and contributing to the overall growth of this sector."
+    },
+    {
+      "title": "Meta pauses international expansion of its Ray-Ban Display glasses",
+      "link": "https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Jan 2026 15:04:49 +0000",
+      "description": "Meta had originally planned to launch the glasses in France, Italy, Canada, and the U.K. in early 2026.",
+      "language": "en",
+      "summary": "Meta has put a hold on international expansion plans for its Ray-Ban Display glasses originally set to launch in Europe by mid-2in the next decade.",
+      "points": [
+        "Meta's global rollout of Meta Quest Pro headset is delayed due to supply chain issues and shipping shortages, impacting initial projections for expansion into new markets such as China, India, Japan, Australia, New Zealand, Canada, Brazil, Mexico, South Africa.",
+        "The company had previously scheduled the launch in France, Italy, Canada, and the U.K., but has now postponed it to late 20in without mentioning a specific new release date for Europe.",
+        "Meta's delay is attributed to supply chain issues affecting its glasses expansion globally."
+      ],
+      "insight": "The pause in Meta's international rollout of the Ray-Ban Display glasses due to global supply shortages highlights how external factors can significantly impact a company's growth strategy and technological advancements, leading them to reassess their expansion plans."
+    },
+    {
+      "title": "Amazon’s Ring doorbells get fire alerts, an app store, and new sensors",
+      "link": "https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Jan 2026 14:00:00 +0000",
+      "description": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality.",
+      "language": "en",
+      "summary": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "[���� ��ŷ] ڸ �ְ� �� ���� ����Ŀ������ ���� ����?... ���� ���� �ʿ��ұ�",
       "link": "http://www.boannews.com/media/view.asp?idx=141357&kind=&sub_kind=",
@@ -659,96 +749,6 @@
         "다음 기사 내용에서 나타나는 IT/기술 업체들의 중시적인 활동이 다음과 같을 수 0ne."
       ],
       "insight": "기사는 IT/기술 업체가 2026년에 기존업체들보다 더 나아진 활동을 중시하고 있음을 강조한다."
-    },
-    {
-      "title": "2026�� �ѱ���������ڰ���ȸ �ڰݰ��� ���� Ȯ��... ���� �ڰݰ��� �ٲ� ����?",
-      "link": "http://www.boannews.com/media/view.asp?idx=141292&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 5 Jan 2026 17:26:00 +0900",
-      "description": "AI����Ʈ��ũ���������ȡ�IoT������������ȣ ����� �������Ρ���Ϲΰ� �ڰݰ��� �AI ������ �����������ȣ ���� �ٽ� ��� �η� �缺 ��ȭ��Ʈ��ũ������1�ޡ�PC�����1��, ���ͳݺ���������2�� ������� 2�� �������� Ȯ��[���ȴ��� ������ ����] �ѱ���������ڰ���ȸ(���� ��ȸ)�� 2026�⵵ �������� �� ��Ϲΰ� �ڰݰ��� ���� ������ Ȯ���ϰ� �̸� �����ߴ�",
-      "language": "ko",
-      "summary": "기사는 2026년에 AI, IoT, 그리고 PC 시스텬이 없어가는 미래를 생각해보고자 한국어로 요약",
-      "points": [
-        "AI, IoT, 그리고 PC 시스템이 2026년에 다양한 기능을 제공하지 않을 것이다.",
-        "사회적으로 중요한 역할을 AI, IoT, PC가 취해내는 것에 대해서 논의하고자 한국어로 요약",
-        "미래의 IT/기술 업데이트에 대한 영향을 모시는 것은 우리가 직접으리 방식으로 다니고자 한국어로 요약"
-      ],
-      "insight": "이러한 기사는 IT/기술 업계가 지진하는 경로를 상정했으며, AI, IoT, PC는 자동화되고 자체 있는 신용을 제공할 수 0ne라고 요구한다."
-    },
-    {
-      "title": "KAIST ����â�� ��� ���÷����, �Ｚ���� ��C�� �ƿ����̵塯 ����",
-      "link": "http://www.boannews.com/media/view.asp?idx=141314&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 5 Jan 2026 17:08:00 +0900",
-      "description": "API ���̵� ����Ʈ�� ����...�÷�����, C�� ���� �۷ι� AI ���� ����2025�� ��������� �ְ� ��AI è�Ǿ� ��� �� CES ���Ż� �� ȭ���� ���� ��� �ڶ�[���ȴ��� ���̷� ����] KAIST ����â�� ��� �÷�����(Fluiz)�� �Ｚ������ ��ŸƮ�� ���� ���α׷� ��C�� �ƿ����̵塯�� ���� ������ �۷ι� ����� AI ���� ���⿡ ���� ������ ������",
-      "language": "ko",
-      "summary": "KAIST 과 Ｚｚｙｒｕｔ 연구실이 API 인novation 시스템을 개발하고 CES에서 논문이 나온 '2025 AI'",
-      "points": [
-        "KAIST과 Ｚｚｙｒｕｔ은 API 인novation 시스템을개발한다.",
-        "CES에서 '2025 AI'이라는 논문을発表した.",
-        "AI를 위한 기술 및 연구가 되어있는 것이 이러한 IT/기술 업계의 현재상황에 대한 의미다."
-      ],
-      "insight": "최민성과 Ｚｚｙｒｕｔ은 2025년 AI의 도전과정을기반으로한 연구실에서 '2nervation'를개발하였다.CES에서 게시한 이 논문은AI 형식 인지에 대해 통착한 추가 정보를제어한다."
-    },
-    {
-      "title": "���� ���� ��ȣ���� ��ī ���� ��������... CES 2026 ���� �ѱ��� ������ ���š�",
-      "link": "http://www.boannews.com/media/view.asp?idx=141312&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 5 Jan 2026 17:02:00 +0900",
-      "description": "3�� ���1. ���� Ʈ���� ������ ���� �ִ� ������IT �ڶ�ȸ CES 20262. 357�� ���Ż� �� ���̹����� ���� ��ǰ�� 6�� ����3. ���̹����� �о� ���Ż� �� ���� ����� �Ｚ���ڡ�LG���ڡ��ѱ����¡�������������[���ȴ��� ����ȣ ����] ���� �ִ� ������IT �ڶ�ȸ CES 2026�� 6-9��(�����ð�) �̱� �󽺺��̰Ž����� ������. �̹� CES�� ���ΰ�",
-      "language": "ko",
-      "summary": "CES 2026에서 IT 기술의 확대를 보여준다.",
-      "points": [
-        "CES 2026에서 IT 기술 발전으로 인한 인기증가",
-        "브래킷이 전문가의 가격유형을 고도로 오염시키고 있다.",
-        "더 많은 노동자들이 스마트품 인기를 준다."
-      ],
-      "insight": "CES 2026은 IT 기술 업계에서 중요한 역시이다. 브람킷의 가격유형이 인기를 높일 수 있지만, 경쟁력을 강하게 보여준다."
-    },
-    {
-      "title": "���ο���, �Ｚ ��� ���� ������ ����... ���� �������Ⱥ��忡 ������",
-      "link": "http://www.boannews.com/media/view.asp?idx=141311&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 5 Jan 2026 16:54:00 +0900",
-      "description": "���� ������� ���� ù �ΰ� ����å���� ���ӿ��� ������ȣ ü�� ���� ��ȭ ����[���ȴ��� ���̷� ����] ���ο��ݰ����� �Ｚ���� ��� �������� �������� �������� å���ڷ� �����ߴ�. ���̹� ���� ���� ��ȭ�� ���ؼ���. �λ�����ó�� 5�� ���ο��ݰ����� ���� �ΰ����� ��������(���� �������) ������ Ȱ���� �����Ծ��� ���� �������Ⱥ������� �ӿ��ߴٰ� ������. ���ο�",
-      "language": "ko",
-      "summary": "���� ������� ���� ù �ΰ� ����å���� ���ӿ��� ������ȣ ü�� ���� ��ȭ ����[���ȴ��� ���̷� ����] ���ο��ݰ����� �Ｚ���� ��� �������� �������� �������� å���ڷ� �����ߴ�. ���̹� ���� ���� ��ȭ�� ���ؼ���...",
-      "points": [
-        "���̹� ���� ���� ��ȭ�� ���ؼ���",
-        "�λ�����ó�� 5�� ���ο��ݰ����� ���� �ΰ����� ��������(���� �������) ������ Ȱ���� �����Ծ��� ���� �������Ⱥ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "ī���۽�Ű, ���¶��� ������ ��� �������� 2�� �� 152% ������",
-      "link": "http://www.boannews.com/media/view.asp?idx=141313&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 5 Jan 2026 16:51:00 +0900",
-      "description": "ī���۽�Ű, ��2025 �����ϡ���Ŀ�ӽ� ���� �������� ��ǥAI ê�����̹��� �˻� ���� ���� ������ �λ�[���ȴ��� ���̷� ����] �¶��� ���� ����� �ܳ��� ���̹� ������ 2�� ���� �ް��� ������ ������ ��Ÿ����.ī���۽�Ű�� 5�� ��ǥ�� ��2025 ������ �� ��Ŀ�ӽ� ���� ��������(2025 Security Bulletin)���� 2025�� ������(�Ҹ�) �� ��Ŀ",
-      "language": "ko",
-      "summary": "ī���۽�Ű, ��2025 �����ϡ���Ŀ�ӽ� ���� �������� ��ǥAI ê�����̹��� �˻� ���� ���� ������ �λ�[���ȴ��� ���̷� ����] �¶��� ���� ����� �ܳ��� ���̹� ������ 2�� ���� �ް��� ������ ������ ��Ÿ����. ī���۽�Ű�� 5�� ��ǥ�� ��2025 ������ �� ��Ŀ�ӽ� ���� ��������(2025 Security Bulletin)���� 2025�� ������(�Ҹ�) �� ��Ŀ",
-      "points": [
-        "ī���۽�Ű�� 5�� ��ǥ�� ��2025 ������ �� ��Ŀ�ӽ� ���� ��������(2025 Security Bulletin)���� 2025�� ������(...",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "30�ֳ� ���� Ʈ���帶��ũ�� �ѱ����� ��AI ���� ������ �õ���",
-      "link": "http://www.boannews.com/media/view.asp?idx=141310&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 5 Jan 2026 14:56:00 +0900",
-      "description": "��Agentic AI ���ȡ� � �������� ��2�� ���� ����[���ȴ��� ������ ����] �۷ι� ���̹� ���� ���� Ʈ���帶��ũ��(������ ������)�� 5�� �ѱ����� ���� 30�ֳ��� ������ ��AI ��� ���� ���� � �ô븦 �� ��ȹ���̶�� �����ߴ�. 1996�� ������ Ʈ���帶��ũ�� �ѱ������ �ʱ� ���̷��� ��� �߽��� ����Ͻ����� ����ߴ�. �̾� 2000��� ������",
-      "language": "ko",
-      "summary": "��Agentic AI ���ȡ� � �������� ��2�� ���� ����[���ȴ��� ������ ����] �۷ι� ���̹� ���� ���� Ʈ���帶��ũ��(������ ������)�� 5�� �ѱ����� ���� 30�ֳ��� ������ ��AI ��� ���� ���� � �ô븦 �� ��ȹ���̶�� �����ߴ�. 1996�� ������ Ʈ���帶��ũ�� �ѱ������ �ʱ� ���̷��� ��� �߽��� ����Ͻ����� ����ߴ�...",
-      "points": [
-        "1996�� ������ Ʈ���帶��ũ�� �ѱ������ �ʱ� ���̷��� ��� �߽��� ����Ͻ����� ����ߴ�",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
