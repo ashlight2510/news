@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-01-07T13:11:55.550Z",
+  "generatedAt": "2026-01-07T18:37:20.770Z",
   "articles": [
+    {
+      "title": "Skylight debuts Calendar 2 to keep your family organized",
+      "link": "https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 18:00:00 +0000",
+      "description": "Skylight, known for its digital picture frame, has a new digital product that puts software and AI at the center.",
+      "language": "en",
+      "summary": "The technology company Skylight is introducing Calendar 2, an innovative app designed to help families manage their schedules efficiently using artificial intelligence.",
+      "points": [
+        "Skylight launches a digital product named 'Calendar 2' with AI features for family organization",
+        "Artificial Intelligence helps predict and organize future events based on user input",
+        "The app focuses primarily on scheduling important dates such as birthdays, anniversaries, appointments"
+      ],
+      "insight": "As families increasingly rely on technology for managing their daily lives, Skylight's Calendar 2 could become a valuable tool to streamline family routines and reduce stress associated with planning."
+    },
+    {
+      "title": "Google Classroom’s new tool uses Gemini to transform lessons into podcast episodes",
+      "link": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 17:55:35 +0000",
+      "description": "Google Classroom now offers a Gemini-powered tool that generates podcast-style audio lessons for teachers to deepen engagement with students.",
+      "language": "en",
+      "summary": "Google Classroom has introduced a new feature powered by Google's AI, Gemini, which transforms traditional class sessions into audio podcast episodes.",
+      "points": [
+        "The tool automates the recording process for converting written lessons or presentations into engaging educational content in auditory format using artificial intelligence."
+      ],
+      "insight": "This innovation represents a significant shift towards multi-modal learning platforms, blending traditional and modern pedagogical approaches to cater to diverse student needs within the IT/technology industry. It emphasizes an evolving landscape where AI is increasingly integral in enhancing educational experiences."
+    },
+    {
+      "title": "Caterpillar taps Nvidia to bring AI to its construction equipment",
+      "link": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 17:00:00 +0000",
+      "description": "Caterpillar is piloting Cat AI, a system of AI agents in one of its excavators built on Nvidia's physical AI platform.",
+      "language": "en",
+      "summary": "Caterpillar has begun testing an artificial intelligence project named Cat AI within one of their heavy construction vehicles using technology from Nvidia.",
+      "points": [
+        "Nvidia's physical AI platform is being used to create a system called Cat AI for Caterpillar excavators.",
+        "Caterpillar will test the efficiency and benefits of this integration in their construction equipment.",
+        "This represents one of Nvidia’s first commercial applications integrating hardware with machine learning algorithms."
+      ],
+      "insight": "The collaboration between Caterpillar and Nvidia marks a significant step forward for AI's role within industrial machinery, potentially leading to increased efficiency in heavy construction tasks."
+    },
+    {
+      "title": "How Quilt solved the heat pump’s biggest challenge",
+      "link": "https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 16:00:00 +0000",
+      "description": "Quilt's heat pumps are built containing a suite of sensors, which have delivered mountains of data that allow its engineers to wring added performance out of its systems.",
+      "language": "en",
+      "summary": "Quilt has developed high-performance heat pumps enhanced by a suite of sensors and the analysis of collected data.",
+      "points": [
+        "Quilt's engineers use sensor data to optimize heat pump performance",
+        "The technology allows for customization based on individual preferences and environmental factors",
+        "This innovation sets new standards in heating efficiency"
+      ],
+      "insight": "Quilt is revolutionizing the HVAC industry by offering unparalleled efficiency through data-driven optimization, setting a benchmark for future technologies."
+    },
+    {
+      "title": "WhatsApp rolls out new group chat features, including member tags",
+      "link": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 15:31:09 +0000",
+      "description": "You can choose a tag that gives others in the group chat more context about who you are.",
+      "language": "en",
+      "summary": "You can choose a tag that gives others in the group chat more context about who you are",
+      "points": [
+        "You can choose a tag that gives others in the group chat more context about who you are",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Spotify now lets you share what you’re streaming in real time with friends",
+      "link": "https://techcrunch.com/2026/01/07/spotify-now-lets-you-share-what-youre-streaming-in-real-time-with-friends/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 15:18:59 +0000",
+      "description": "You can tap a friend’s listening activity to play the track, save it, open the menu, or react with an emoji.",
+      "language": "en",
+      "summary": "Spotify has introduced sharing capabilities that allow users to share their current music tracks in real time.",
+      "points": [
+        "Users can now share what they're listening to with friends",
+        "Real-time sharing enables immediate reactions such as playing, saving or reacting emoji from playback controls",
+        "Friends receiving the streamed song via direct link have access for their own Spotify use"
+      ],
+      "insight": "This feature enhances social interaction within music platforms and may influence user engagement with songs shared through friends."
+    },
+    {
+      "title": "Warner Bros. Discovery rejects Paramount’s bid again, calls it a ‘leveraged buyout’",
+      "link": "https://techcrunch.com/2026/01/07/warner-bros-discovery-rejects-paramounts-bid-again-calls-it-a-leveraged-buyout/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 14:56:01 +0000",
+      "description": "The studio's board unanimously rejected Paramount Skydance's revised $108.4 billion bid, calling the proposal a \"leveraged buyout\" that would saddle the company with $87 billion in debt.",
+      "language": "en",
+      "summary": "Warner Bros. Discovery'thy board unanimously rejected Paramount Skydance’s revised bid of $108.4 billion for the studio by calling it a 'leveraged buyout'. The proposal would have left Warner with significant debt.",
+      "points": [
+        "Warner Bros. Discovery board rejects Paramount's acquisition offer",
+        "Proposal is identified as a leveraged buyout involving $87 billion in debt",
+        "Rejection comes despite the high bid and strategic value of Warner"
+      ],
+      "insight": "This rejection highlights concerns within the industry regarding heavy indebtedness post-acquisition, which may influence future bidding wars."
+    },
+    {
+      "title": "Spotify lowers monetization threshold for video podcasts",
+      "link": "https://techcrunch.com/2026/01/07/spotify-lowers-monetization-threshold-for-video-podcasts/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 07 Jan 2026 14:00:00 +0000",
+      "description": "Spotify is dropping the minimum episode requirement to three, minimum consumption hours to 2,000, and engaged audience member threshold to 1,000 over the last 30 days.",
+      "language": "en",
+      "summary": "Spotify is reducing its monetization thresholds for video podcasts by lowering minimum episode requirements and consumption hours while decreasing engaged audience member threshold over a month.",
+      "points": [
+        "Minimum episodes required: Dropped from four to three",
+        "Minimum listening time in the last 30 days reduced to two thousand hours",
+        "Engaged listener count lowered to one thousand or more"
+      ],
+      "insight": "This change by Spotify could potentially democratize monetization for creators, allowing content with broader appeal but less volume and engagement potential than previously required. It acknowledges the diverse consumption habits of its user base and may encourage a wider array of podcasts to generate revenue."
+    },
     {
       "title": "Roblox now requires all users globally to complete age checks to access chat",
       "link": "https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/",
@@ -627,126 +745,6 @@
         "CFS recently secured funding from investors to accelerate its fusion power development, demonstrating strong financial backing and confidence within the industry."
       ],
       "insight": "The progress of Commonwealth Fusion Systems' Sparc reactor showcases advancements in fusion technology that have implications for clean energy generation. The creation of a digital twin further positions CFS as an innovative leader, potentially accelerating technological breakthroughs and contributing to the overall growth of this sector."
-    },
-    {
-      "title": "Meta pauses international expansion of its Ray-Ban Display glasses",
-      "link": "https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 06 Jan 2026 15:04:49 +0000",
-      "description": "Meta had originally planned to launch the glasses in France, Italy, Canada, and the U.K. in early 2026.",
-      "language": "en",
-      "summary": "Meta has put a hold on international expansion plans for its Ray-Ban Display glasses originally set to launch in Europe by mid-2in the next decade.",
-      "points": [
-        "Meta's global rollout of Meta Quest Pro headset is delayed due to supply chain issues and shipping shortages, impacting initial projections for expansion into new markets such as China, India, Japan, Australia, New Zealand, Canada, Brazil, Mexico, South Africa.",
-        "The company had previously scheduled the launch in France, Italy, Canada, and the U.K., but has now postponed it to late 20in without mentioning a specific new release date for Europe.",
-        "Meta's delay is attributed to supply chain issues affecting its glasses expansion globally."
-      ],
-      "insight": "The pause in Meta's international rollout of the Ray-Ban Display glasses due to global supply shortages highlights how external factors can significantly impact a company's growth strategy and technological advancements, leading them to reassess their expansion plans."
-    },
-    {
-      "title": "Amazon’s Ring doorbells get fire alerts, an app store, and new sensors",
-      "link": "https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 06 Jan 2026 14:00:00 +0000",
-      "description": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality.",
-      "language": "en",
-      "summary": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[���� ��ŷ] ڸ �ְ� �� ���� ����Ŀ������ ���� ����?... ���� ���� �ʿ��ұ�",
-      "link": "http://www.boannews.com/media/view.asp?idx=141357&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 6 Jan 2026 18:32:00 +0900",
-      "description": "[3�� ���]1. ��ŷ ���� ������ ���� Ȯ�� ���� ���� �ʿ伺 ����2. �̱��� ����Ŀ������ ���� �ռ��� ���� �Ҽ� ���� ��3. ������ ������� ����... ������ ���� �����ؾߡ�[���ȴ��� ������ ����] 3370������ ���������� ����� ���� ����� ���� �Ҽ� ������� ���� Ȯ���� ���� ����Ŀ������(���� ����) ������ �����ް� �ִ�. 6�� ������ �ϰ�����",
-      "language": "ko",
-      "summary": "��ŷ ���� ������ ���� Ȯ�� ���� ���� �ʿ伺 ����2. �̱��� ����Ŀ������ ���� �ռ��� ���� �Ҽ� ���� ��3...",
-      "points": [
-        "��ŷ ���� ������ ���� Ȯ�� ���� ���� �ʿ伺 ����2",
-        "�̱��� ����Ŀ������ ���� �ռ��� ���� �Ҽ� ���� ��3",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "������ ����, �긮�� ��ũ�� ������ �����̹� �������� ���� 10���� ���� ����",
-      "link": "http://www.boannews.com/media/view.asp?idx=141356&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 6 Jan 2026 17:47:00 +0900",
-      "description": "����������ü�� �ְ��� �Ǽ� ���忡 �ְ� 8���� ��������[���ȴ��� ���̷� ����] ������ �ĸ� ������ 5��(�����ð�) �긮�� ��ũ�� ������ �����ο� ���� ���̹� ������ ���Ƿ� 10������ ���˸� �����ߴ�. �̵��� �긮�� ��ũ���� ������ ���� ��ü���� ���� ���� ������ �۶߸� ���Ǹ� �޾Ҵ�. �װ� �긮�� ��ũ���� ������ ���� �̼� Ʈ�δ����� �¾�ٴ� ���� �����",
-      "language": "ko",
-      "summary": "기사는 급각한 IT/기술 회의에서의 중요한 통짝으로 분석되어있습니다.",
-      "points": [
-        "먼저, 급각한 IT/기술 회의에서 중요한 주제가 공유되었습니다.",
-        "이후에 시장에서의 IT/기술 진전이 어떻게 영향을 미치긴지 논의한 사람들이 나타나왔습니다.",
-        "이러한 IT/기술 회의가 정신적인 분포에서 통과되어 시장에 대한 영향을 강조하셨습니다."
-      ],
-      "insight": "이 기사는 IT/기술 회의가 시장에 대한 매우 중요한 역할을 통해 분포되어왔습니다."
-    },
-    {
-      "title": "��ũ���� ���� ��K-������ ������... �����ܰ����� ���б��� �� �зȴ�",
-      "link": "http://www.boannews.com/media/view.asp?idx=141355&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 6 Jan 2026 17:34:00 +0900",
-      "description": "�ڵ�ȭ �� �̿��� ������ ��ŷ ���ɼ�... KISA, ���� ���� �ǰ� ���� ���ε� ����� �ǿ� ���� Ž�� �� ��ü�� ����å ����[���ȴ��� ����ȣ ����] ��ũ���� ���� ������Ʈ 20������ �����ͺ��̽�(DB)�� ������ ����� ������ �ϰ� �ִ�. ���а� ����, �������, ���θ� �� ������ ������ �ʰ� ���ݴ��� ������ Ȯ�ε� 2�� ���ذ� ����ȴ�. �ѱ����ͳ������",
-      "language": "ko",
-      "summary": "�ڵ�ȭ �� �̿��� ������ ��ŷ ���ɼ�. KISA, ���� ���� �ǰ� ���� ���ε� ����� �ǿ� ���� Ž�� �� ��ü�� ����å ����[���ȴ��� ����ȣ ����] ��ũ���� ���� ������Ʈ 20������ �����ͺ��̽�(DB)�� ������ ����� ������ �ϰ� �ִ�...",
-      "points": [
-        "�ڵ�ȭ �� �̿��� ������ ��ŷ ���ɼ�",
-        "���а� ����, �������, ���θ� �� ������ ������ �ʰ� ���ݴ��� ������ Ȯ�ε� 2�� ���ذ� ����ȴ�",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "���� CCTV ��������, ��� ������ �˰� �� ���ξ��� �⿩ ����� ǥâ��",
-      "link": "http://www.boannews.com/media/view.asp?idx=141354&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 6 Jan 2026 16:55:00 +0900",
-      "description": "��Ⱥ� �ְ� �򰡿��� ��2025 CCTV ���հ������� � �����ڡ� ��� ǥâ ������ı� ��������� 24�ð� ����͸� �� ������ �������� ����[���ȴ��� ������ ����] ���� ���ı�(��û�� ������)�� ���� CCTV ���հ������� �Ҽ� ��������� ��2025�� CCTV ���հ������� � �����ڡ� �ι����� ���������� ��� ǥâ�� �����ߴٰ� 6�� ������. ��CCTV ��",
-      "language": "ko",
-      "summary": "2025년에 심층한 정보처리가 활용되는 CCTV 기반으로 전용 시장을 지원하고 있다.",
-      "points": [
-        "CCTV 2025년에 초비한 인공지원, 걍정이 가돔다.",
-        "최신 AI tech을 활용하여 직방체제를 강화한다.",
-        "반응염생인공지보호 시스템을 도입한다."
-      ],
-      "insight": "이러한 CCTV 의사결정 시스템은 사회 안전성과 현대적인 경제에 유리한 영향을 미치기를 바라보다."
-    },
-    {
-      "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
-      "link": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 06 Jan 2026 07:18:00 +0000",
-      "description": "Narwal's new robo vacuum cleaner switches to quiet mode near a baby's crib.",
-      "language": "en",
-      "summary": "Narwal has introduced an AI-powered robot vacuum that can monitor pets and help find lost items like jewelry.",
-      "points": [
-        "The new Narwal robo vacuum cleaner incorporates artificial intelligence to detect the presence of small objects such as pet accessories or misplaced valuables, including jewelry.",
-        "Narwal's AI-enabled device is capable of switching its cleaning modes and paths based on detected changes in an environment using computer vision technology. It can distinguish between pets like dogs and cats from the floor items it picks up.",
-        "The vacuum cleaner maintains a quiet mode when near sensitive areas, such as next to a baby's crib."
-      ],
-      "insight": "This innovation by Narwal could set new standards for AI integration in domestic robots and represents an advancement towards multifunctional smart home devices capable of not just cleaning but also assisting with daily household tasks, leading to enhanced convenience and safety at homes."
-    },
-    {
-      "title": "�̳�Ƽ��, ������ �� �ü�AI �λ��� ���� ������ǥ ����",
-      "link": "http://www.boannews.com/media/view.asp?idx=141353&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 6 Jan 2026 14:57:00 +0900",
-      "description": "AI ��� ������ ������ ���� AX �÷��� ��� ���� ����[���ȴ��� ���̷� ����] �̳�Ƽ��(��ǥ ������)�� ������ �� �ü�AI �λ����� ���� ������ǥ�̻�� �����ߴٰ� 6�� ������.������ ���� ��ǥ�� �߾Ӵ��б� ���п����� ������ȣ�� ��������� �����ϰ� ������ȣ ���迡�� 25�� �̻� Ȱ���� �� ��������� ���� ��������. ����Ʈķ������ ���� �Ѱ� �λ����� �þ�",
-      "language": "ko",
-      "summary": "AI 제품이 이전에 도잘되어지지 않았음을 보여준다.",
-      "points": [
-        "AI 제품의 더오류가 감소하였다",
-        "이전에는 AI 시스템이 본인들에게 효과적인 일을 할 수 있었지만, 현재로서는 그보다 더 훈련이나 반복된 자연양어를 통해 모니터링을 수항하도록 만들고 있다",
-        "사용자의 원인에 대한 이해가 부족"
-      ],
-      "insight": "이 기사는 AI 제품이 시스템의 더오류와 일벽시점을 통해 개인에게 침실한 발생이 가능하도록 본다."
     }
   ]
 }
