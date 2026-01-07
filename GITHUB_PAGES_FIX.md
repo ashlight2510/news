@@ -1,8 +1,8 @@
 # GitHub Pages 루트 도메인 배포 문제 해결
 
 ## 문제
-- `https://news.ashlight.store/` 접속 불가
-- `https://news.ashlight.store/frontend/` 로만 접속 가능
+- `https://news.funnyfunny.cloud/` 접속 불가
+- `https://news.funnyfunny.cloud/frontend/` 로만 접속 가능
 
 ## 해결 방법
 
@@ -27,7 +27,7 @@
 배포가 완료되면:
 
 1. GitHub Actions 탭에서 배포 상태 확인
-2. `https://news.ashlight.store/` 접속 테스트
+2. `https://news.funnyfunny.cloud/` 접속 테스트
 3. 브라우저 캐시 클리어 후 재시도 (Ctrl+Shift+R 또는 Cmd+Shift+R)
 
 ### 4. 문제가 계속되면

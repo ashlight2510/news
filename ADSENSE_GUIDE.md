@@ -78,9 +78,9 @@
 ### 1. Google Search Console 등록 (필수)
 
 1. [Google Search Console](https://search.google.com/search-console) 접속
-2. 속성 추가: `https://news.ashlight.store`
+2. 속성 추가: `https://news.funnyfunny.cloud`
 3. 소유권 확인
-4. Sitemap 제출: `https://news.ashlight.store/sitemap.xml`
+4. Sitemap 제출: `https://news.funnyfunny.cloud/sitemap.xml`
 
 ### 2. 정기적인 콘텐츠 업데이트
 

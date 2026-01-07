@@ -1,8 +1,8 @@
 # GitHub Pages 루트 도메인 문제 해결
 
 ## 현재 문제
-- `https://news.ashlight.store/` → README.md가 보임
-- `https://news.ashlight.store/frontend/` → 실제 페이지가 보임
+- `https://news.funnyfunny.cloud/` → README.md가 보임
+- `https://news.funnyfunny.cloud/frontend/` → 실제 페이지가 보임
 
 ## 해결 방법
 
@@ -27,7 +27,7 @@
 ### 3단계: 확인
 
 1. 워크플로우가 "완료" 상태인지 확인
-2. `https://news.ashlight.store/` 접속
+2. `https://news.funnyfunny.cloud/` 접속
 3. 이제 루트 도메인에서 페이지가 보여야 함
 
 ## 워크플로우 개선 사항
@@ -72,7 +72,7 @@
 - [ ] GitHub Actions 워크플로우가 실행됨
 - [ ] 워크플로우가 성공적으로 완료됨
 - [ ] Actions 로그에서 index.html이 복사되었는지 확인
-- [ ] `https://news.ashlight.store/`에서 페이지가 보임
+- [ ] `https://news.funnyfunny.cloud/`에서 페이지가 보임
 
 ## 중요 참고사항
 

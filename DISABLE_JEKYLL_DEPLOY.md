@@ -65,7 +65,7 @@ Settings → Pages에서:
 
 1. **Settings → Pages**에서 Source 확인
 2. **Actions** 탭에서 최근 실행된 워크플로우 확인
-3. `https://news.ashlight.store/` 접속하여 README.md가 아닌 index.html이 표시되는지 확인
+3. `https://news.funnyfunny.cloud/` 접속하여 README.md가 아닌 index.html이 표시되는지 확인
 
 ## 추가 조치
 

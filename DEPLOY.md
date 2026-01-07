@@ -58,7 +58,7 @@ news/
    - **GitHub Actions** 선택 ⚠️ **이것을 선택!**
 3. **Save** 클릭
 
-이렇게 하면 `https://news.ashlight.store/`로 접속 가능합니다.
+이렇게 하면 `https://news.funnyfunny.cloud/`로 접속 가능합니다.
 
 **방법 2: 직접 폴더 선택 (서브 경로 필요)**
 
@@ -68,7 +68,7 @@ news/
    - Folder: `/frontend`
 3. **Save** 클릭
 
-이렇게 하면 `https://news.ashlight.store/frontend/`로 접속해야 합니다.
+이렇게 하면 `https://news.funnyfunny.cloud/frontend/`로 접속해야 합니다.
 
 ### 2.2 프론트엔드 API URL 설정
 
@@ -80,15 +80,15 @@ const BACKEND_URL = 'https://news-u60e.onrender.com';  // 실제 Render URL로 �
 
 ### 2.3 커스텀 도메인 설정
 
-커스텀 도메인 `news.ashlight.store`를 연결하려면:
+커스텀 도메인 `news.funnyfunny.cloud`를 연결하려면:
 
 1. **CNAME 파일 생성**
    - `frontend/CNAME` 파일 생성
-   - 내용: `news.ashlight.store`
+   - 내용: `news.funnyfunny.cloud`
 
 2. **GitHub 저장소 설정**
    - GitHub 저장소 → **Settings** → **Pages**
-   - **Custom domain** 입력란에 `news.ashlight.store` 입력
+   - **Custom domain** 입력란에 `news.funnyfunny.cloud` 입력
    - **Enforce HTTPS** 체크 (권장)
 
 3. **DNS 설정** (도메인 제공업체에서)
@@ -111,12 +111,12 @@ const BACKEND_URL = 'https://news-u60e.onrender.com';  // 실제 Render URL로 �
 
 4. **DNS 전파 대기**
    - 보통 몇 분~24시간 소요
-   - 확인: `dig news.ashlight.store` 또는 온라인 DNS 체커 사용
+   - 확인: `dig news.funnyfunny.cloud` 또는 온라인 DNS 체커 사용
 
 ### 2.4 배포 확인
 
 - GitHub Pages URL: `https://your-username.github.io/repo-name/`
-- 커스텀 도메인: `https://news.ashlight.store` (DNS 설정 후)
+- 커스텀 도메인: `https://news.funnyfunny.cloud` (DNS 설정 후)
 
 ### 2.4 GitHub Actions로 자동 배포 (선택사항)
 

@@ -1,7 +1,7 @@
 # GitHub Pages 루트 도메인 설정 가이드
 
 ## 문제
-`https://news.ashlight.store/`에 접속하면 README.md가 표시되는 문제
+`https://news.funnyfunny.cloud/`에 접속하면 README.md가 표시되는 문제
 
 ## 해결 방법
 
@@ -13,7 +13,7 @@ GitHub 저장소 → **Settings** → **Pages**에서 다음을 확인하세요:
    - ❌ "Deploy from a branch" 선택하면 안 됩니다
    - ✅ **"GitHub Actions"** 선택
 
-2. **Custom domain**: `news.ashlight.store`로 설정되어 있는지 확인
+2. **Custom domain**: `news.funnyfunny.cloud`로 설정되어 있는지 확인
 
 ### 2. GitHub Actions 워크플로우 확인
 
@@ -36,7 +36,7 @@ GitHub 저장소 → **Settings** → **Pages**에서 다음을 확인하세요:
    ✅ README.md and all .md files removed
    ```
 
-3. 브라우저에서 `https://news.ashlight.store/` 접속
+3. 브라우저에서 `https://news.funnyfunny.cloud/` 접속
 4. 개발자 도구(F12) → Network 탭에서:
    - `index.html`이 200 상태로 로드되는지 확인
    - `README.md`가 로드되지 않는지 확인
@@ -51,7 +51,7 @@ GitHub 저장소 → **Settings** → **Pages**에서 다음을 확인하세요:
 
 2. **GitHub Pages 캐시**:
    - GitHub Pages는 CDN 캐시를 사용하므로 변경사항이 반영되는데 최대 10분 정도 걸릴 수 있습니다
-   - URL에 쿼리 파라미터 추가: `https://news.ashlight.store/?v=2`
+   - URL에 쿼리 파라미터 추가: `https://news.funnyfunny.cloud/?v=2`
 
 ### 5. 수동 배포 트리거
 
@@ -68,7 +68,7 @@ GitHub 저장소 → **Settings** → **Pages**에서 다음을 확인하세요:
 - [ ] `.nojekyll` 파일이 배포에 포함됨
 - [ ] `index.html`이 루트 디렉토리에 있음
 - [ ] README.md가 배포 디렉토리에 없음
-- [ ] 브라우저에서 `https://news.ashlight.store/` 접속 시 index.html이 표시됨
+- [ ] 브라우저에서 `https://news.funnyfunny.cloud/` 접속 시 index.html이 표시됨
 
 ## 문제가 계속되면
 

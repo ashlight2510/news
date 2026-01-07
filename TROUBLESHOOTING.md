@@ -57,7 +57,7 @@ const BACKEND_URL = 'https://news-u60e.onrender.com';  // 올바른 URL인지 �
 ```
 
 #### ✅ 브라우저 콘솔 확인
-1. 브라우저에서 `https://news.ashlight.store/frontend/` 접속
+1. 브라우저에서 `https://news.funnyfunny.cloud/frontend/` 접속
 2. F12 → Console 탭
 3. 확인 사항:
    - "API URL: https://news-u60e.onrender.com/api/articles" 로그 확인

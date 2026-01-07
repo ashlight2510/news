@@ -54,7 +54,7 @@ git push origin main
 배포 완료 후 (약 2-3분 대기):
 
 1. **루트 경로 확인**:
-   - `https://news.ashlight.store/` 접속
+   - `https://news.funnyfunny.cloud/` 접속
    - ✅ `index.html`이 표시되어야 함
    - ❌ README.md가 표시되면 안 됨
    - ❌ 404 에러가 나면 안 됨
@@ -70,8 +70,8 @@ git push origin main
 ## 🔍 예상 결과
 
 ### 성공 시:
-- ✅ `https://news.ashlight.store/` → `index.html` 표시
-- ✅ `https://news.ashlight.store/frontend/` → 404 또는 리다이렉트 (정상)
+- ✅ `https://news.funnyfunny.cloud/` → `index.html` 표시
+- ✅ `https://news.funnyfunny.cloud/frontend/` → 404 또는 리다이렉트 (정상)
 - ✅ Actions 탭에 "Deploy to GitHub Pages"만 실행됨
 - ✅ 다른 워크플로우는 실행되지 않음
 

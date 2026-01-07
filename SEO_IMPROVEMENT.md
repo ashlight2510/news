@@ -8,7 +8,7 @@
   - 애드센스 승인 후 광고 수익 보호
   - 사이트 신뢰도 향상 (간접적으로 SEO 도움)
   - 불법 광고 차단
-- **위치**: 루트 도메인 (`https://news.ashlight.store/ads.txt`)
+- **위치**: 루트 도메인 (`https://news.funnyfunny.cloud/ads.txt`)
 
 ### robots.txt
 - **목적**: 검색 엔진 크롤러 지시
@@ -17,7 +17,7 @@
   - 크롤링 효율 향상
   - 불필요한 페이지 크롤링 방지
   - Sitemap 위치 안내
-- **위치**: 루트 도메인 (`https://news.ashlight.store/robots.txt`)
+- **위치**: 루트 도메인 (`https://news.funnyfunny.cloud/robots.txt`)
 
 ## 검색 유입 향상을 위한 최적화
 
@@ -35,9 +35,9 @@
 
 #### Google Search Console 등록 (필수)
 1. [Google Search Console](https://search.google.com/search-console) 접속
-2. 속성 추가: `https://news.ashlight.store`
+2. 속성 추가: `https://news.funnyfunny.cloud`
 3. 소유권 확인
-4. Sitemap 제출: `https://news.ashlight.store/sitemap.xml`
+4. Sitemap 제출: `https://news.funnyfunny.cloud/sitemap.xml`
 
 #### 네이버 서치어드바이저 등록 (한국 검색)
 1. [네이버 서치어드바이저](https://searchadvisor.naver.com/) 접속
@@ -87,7 +87,7 @@
 3. GitHub에 푸시하여 배포
 
 ### 확인 방법
-- `https://news.ashlight.store/ads.txt` 접속
+- `https://news.funnyfunny.cloud/ads.txt` 접속
 - 내용이 올바르게 표시되는지 확인
 
 ## 검색 유입 모니터링

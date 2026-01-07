@@ -15,7 +15,7 @@
 
 ### 2. 커스텀 도메인 확인
 
-- **Custom domain** 필드에 `news.ashlight.store`가 입력되어 있는지 확인
+- **Custom domain** 필드에 `news.funnyfunny.cloud`가 입력되어 있는지 확인
 - **Enforce HTTPS** 체크박스가 활성화되어 있는지 확인
 
 ## 배포 방법
@@ -48,9 +48,9 @@ git push origin main
    - Windows/Linux: `Ctrl + Shift + R`
    - Mac: `Cmd + Shift + R`
 3. **접속 테스트**:
-   - ✅ `https://news.ashlight.store/` → 메인 페이지가 보여야 함
-   - ✅ `https://news.ashlight.store/about.html` → About 페이지가 보여야 함
-   - ❌ `https://news.ashlight.store/frontend/` → 404 에러가 나야 함 (정상)
+   - ✅ `https://news.funnyfunny.cloud/` → 메인 페이지가 보여야 함
+   - ✅ `https://news.funnyfunny.cloud/about.html` → About 페이지가 보여야 함
+   - ❌ `https://news.funnyfunny.cloud/frontend/` → 404 에러가 나야 함 (정상)
 
 ## 문제 해결
 
@@ -98,7 +98,7 @@ git push origin main
 
 배포 후:
 - [ ] GitHub Actions에서 배포 성공 확인
-- [ ] `https://news.ashlight.store/` 접속 시 메인 페이지 표시
-- [ ] `https://news.ashlight.store/` 접속 시 README.md가 보이지 않음
+- [ ] `https://news.funnyfunny.cloud/` 접속 시 메인 페이지 표시
+- [ ] `https://news.funnyfunny.cloud/` 접속 시 README.md가 보이지 않음
 - [ ] 브라우저 개발자 도구에서 404 에러 없음
 

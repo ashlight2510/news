@@ -33,12 +33,12 @@
 
 ### 1. Google Search Console 등록
 1. [Google Search Console](https://search.google.com/search-console) 접속
-2. 속성 추가 → URL 접두어 입력: `https://news.ashlight.store`
+2. 속성 추가 → URL 접두어 입력: `https://news.funnyfunny.cloud`
 3. 소유권 확인 (HTML 파일 업로드 또는 메타 태그)
 
 ### 2. Sitemap 제출
 1. Google Search Console → Sitemaps
-2. `https://news.ashlight.store/sitemap.xml` 제출
+2. `https://news.funnyfunny.cloud/sitemap.xml` 제출
 
 ### 3. 인덱싱 요청
 1. Google Search Console → URL 검사

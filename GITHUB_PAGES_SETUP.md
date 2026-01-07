@@ -2,8 +2,8 @@
 
 ## 현재 문제
 
-- `https://news.ashlight.store/` → README.md가 보임 (잘못됨)
-- `https://news.ashlight.store/frontend/` → 실제 페이지가 보임 (올바름)
+- `https://news.funnyfunny.cloud/` → README.md가 보임 (잘못됨)
+- `https://news.funnyfunny.cloud/frontend/` → 실제 페이지가 보임 (올바름)
 
 **원인**: GitHub Pages가 "Deploy from a branch" 모드로 설정되어 있음
 
@@ -30,7 +30,7 @@
 ### 3단계: 배포 확인
 
 1. Actions 탭에서 워크플로우 실행 확인
-2. 완료되면 `https://news.ashlight.store/` 접속
+2. 완료되면 `https://news.funnyfunny.cloud/` 접속
 3. 이제 루트 도메인에서 페이지가 보여야 함
 
 ## 문제 해결
@@ -64,7 +64,7 @@
 - [ ] `.github/workflows/deploy-pages.yml` 파일이 존재함
 - [ ] GitHub Actions 워크플로우가 실행됨
 - [ ] 워크플로우가 성공적으로 완료됨
-- [ ] `https://news.ashlight.store/`에서 페이지가 보임
+- [ ] `https://news.funnyfunny.cloud/`에서 페이지가 보임
 
 ## 참고
 

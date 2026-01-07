@@ -1,7 +1,7 @@
 # 404 에러 해결 가이드
 
 ## 문제
-배포 후 `https://news.ashlight.store/`에서 404 에러가 발생합니다.
+배포 후 `https://news.funnyfunny.cloud/`에서 404 에러가 발생합니다.
 
 ## 원인
 여러 GitHub Actions 워크플로우가 동시에 실행되어 충돌이 발생했습니다:
@@ -46,7 +46,7 @@
 ### 5. 사이트 확인
 
 배포 완료 후:
-1. `https://news.ashlight.store/` 접속
+1. `https://news.funnyfunny.cloud/` 접속
 2. 404가 아닌 `index.html`이 표시되어야 함
 3. 브라우저 캐시 문제 시 시크릿 모드로 테스트
 

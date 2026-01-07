@@ -29,7 +29,7 @@
 ## 🔧 즉시 확인할 사항
 
 ### 브라우저에서 확인
-1. `https://news.ashlight.store/frontend/` 접속
+1. `https://news.funnyfunny.cloud/frontend/` 접속
 2. F12 → Console 탭
    - "API URL: ..." 로그 확인
    - 에러 메시지 확인
