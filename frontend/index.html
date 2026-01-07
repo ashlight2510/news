@@ -998,12 +998,17 @@
       }
     </style>
     <meta property="og:image:alt" content="Today's IT News" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1204894220949193"
-     crossorigin="anonymous"></script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1204894220949193"
+      crossorigin="anonymous"
+    ></script>
     <!-- responsive-base -->
     <style>
       /* responsive-base */
-      *, *::before, *::after {
+      *,
+      *::before,
+      *::after {
         box-sizing: border-box;
       }
       html {
@@ -1025,8 +1030,9 @@
         word-break: break-word;
       }
     </style>
-</head>
-  <body><div class="container">
+  </head>
+  <body>
+    <div class="container">
       <header>
         <h1>오늘의 IT 뉴스</h1>
         <p>여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지</p>
@@ -1158,8 +1164,7 @@
       </main>
 
       <!-- 광고 자리 (하단) -->
-      <div id="bottom-ad">
-        </div>
+      <div id="bottom-ad"></div>
 
       <!-- 기술 용어 설명 섹션 -->
       <section class="tech-glossary">
@@ -1323,7 +1328,7 @@
           const res = await fetch("/news-summaries.json", {
             cache: "no-cache",
             headers: {
-              Accept: "application/json",
+              Accept: "application/json; charset=utf-8",
             },
           });
 
@@ -1331,7 +1336,9 @@
             throw new Error(`HTTP error! status: ${res.status}`);
           }
 
-          const data = await res.json();
+          // 텍스트로 먼저 받아서 UTF-8로 디코딩
+          const text = await res.text();
+          const data = JSON.parse(text);
           console.log(
             "News summaries loaded:",
             data.articles?.length || 0,
@@ -1797,8 +1804,8 @@
           const res = await fetch(API_URL, {
             method: "GET",
             headers: {
-              Accept: "application/json",
-              "Content-Type": "application/json",
+              Accept: "application/json; charset=utf-8",
+              "Content-Type": "application/json; charset=utf-8",
             },
           });
 
@@ -1980,16 +1987,17 @@
         }
       })();
     </script>
-  
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1204894220949193"
-     data-ad-slot="5145068706"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    
-</body>
+
+    <ins
+      class="adsbygoogle"
+      style="display: block"
+      data-ad-client="ca-pub-1204894220949193"
+      data-ad-slot="5145068706"
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    ></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </body>
 </html>
