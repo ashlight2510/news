@@ -1,6 +1,80 @@
 {
-  "generatedAt": "2026-01-11T12:40:22.461Z",
+  "generatedAt": "2026-01-11T18:32:33.495Z",
   "articles": [
+    {
+      "title": "Google removes AI Overviews for certain medical queries",
+      "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 11 Jan 2026 17:56:41 +0000",
+      "description": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
+      "language": "en",
+      "summary": "Google has removed artificial intelligence (AI) overviews from its search results for specific medical questions following an investigation by the Guardian that highlighted misleading information.",
+      "points": [
+        "An investigation led to Google's decision",
+        "Removed AI Overviews offering inaccurate health info",
+        "Google responding to user concerns and data accuracy"
+      ],
+      "insight": "The incident highlights the importance of accurate information dissemination by major tech companies, especially when it involves critical areas such as medical advice. It also underlines growing public demand for reliable sources in health-related queries."
+    },
+    {
+      "title": "Nuclear startups are back in vogue with small reactors, and big challenges",
+      "link": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 11 Jan 2026 16:15:00 +0000",
+      "description": "Small modular reactor startups are betting that mass manufacturing will help them bring costs down. But are they underestimating the challenge?",
+      "language": "en",
+      "summary": "Nuclear startup companies see small modular reactors (SMRs) as a viable option to reduce costs through mass production. However, experts question if these startups have fully grasped the challenges involved.",
+      "points": [
+        "Small modular reactor startups are banking on cost reduction via large-scale manufacturing of nuclear reactors",
+        "Experts and former U.CTrains staff express concerns about underestimating the complexity, especially in safety aspects of SMRs",
+        "The industry has evolved to address past mistakes with modern designs like Westinghouse's AP1000 but remains cautious"
+      ],
+      "insight": "This news suggests a continued interest and investment into nuclear startups despite acknowledged challenges, indicating that cost-reduction through mass production could be key to the industry’s growth."
+    },
+    {
+      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 11 Jan 2026 15:07:49 +0000",
+      "description": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "language": "en",
+      "summary": "Indonesia and Malaysia have blocked the AI-powered deepfake detection chatbot named 'Grok,' following a video allegedly portraying non-consensual sexual acts.",
+      "points": [
+        "The Indonesian Ministry of Communication, along with its counterpart in neighboring Malaysia, has temporarily blocked access to Grok due to concerns over content spread via the chatbot",
+        "Grok was designed by a team from Microsoft's AI research division as an interactive guide for discussions on misinformation and deepfake detection.",
+        "The Indonesian Ministry of Communication claims that there has been 'excessive use' of Grok, leading to the decision to block it."
+      ],
+      "insight": "This incident highlights growing concerns among Southeast Asian governments regarding AI tools used in deepfake detection and their potential misuse. It undersceneres urgent need for clear guidelines on ethical usage of such technologies, particularly within the sensitive cultural context."
+    },
+    {
+      "title": "Wing to expand drone delivery to another 150 Walmart stores",
+      "link": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 11 Jan 2026 15:00:00 +0000",
+      "description": "The partnership will grow Wing's drone delivery service to more than 270 Walmart stores by 2027.",
+      "language": "en",
+      "summary": "Wing Airlines is set to expand its successful drone delivery services in partnership with Walmart into additional locations.",
+      "points": [
+        "The Wing and Walmart collaboration will extend drones' service areas by overcoming federal aviation regulation barriers.",
+        "By next year, the initial phase aims to provide deliveries within five miles of stores from takeoff pads in backyards or yards near retailers."
+      ],
+      "insight": "This partnership could normalize drone delivery as a common service model for e-commerce and expedite technological advancements while addressing regulatory constraints, potentially transforming logistics industry practices by mid to late decade."
+    },
+    {
+      "title": "Google announces a new protocol to facilitate commerce using AI agents",
+      "link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 11 Jan 2026 15:00:00 +0000",
+      "description": "Google said that merchants can now offer discounts to users directly in AI mode results",
+      "language": "en",
+      "summary": "Google has announced a new protocol allowing for the direct offering of user-specific discounts by artificial intelligence (AI) agents within its search engine's result pages.",
+      "points": [
+        "Merchants can now offer AI-generated, personalized discounts directly in Google Search results.",
+        "This new protocol integrates with the company' endorsed shopping platform and is expected to enhance customer experience by offering tailored deals as users shop online or search for products/services related services.",
+        "The integration of AI into commerce facilitated through a major tech giant like Google indicates an increasingly important role that artificial intelligence plays in the future economy."
+      ],
+      "insight": "This development underscores the growing importance and normalization of using Artificial Intelligence within e-commerce, which could potentially reshape online shopping experiences by providing hyper-personalized offers to consumers at scale. Moreover, this partnership between Google's vast user base and its AI initiatives may provide a competitive edge in the digital marketplace."
+    },
     {
       "title": "�ν�Ÿ�׷�, 1750���� �������� ���� ��Ȥ",
       "link": "http://www.boannews.com/media/view.asp?idx=141429&kind=&sub_kind=",
@@ -674,81 +748,6 @@
         "Convogo aims to provide personalized leadership development and performance improvement."
       ],
       "insight": "This acquisition suggests an increasing trend towards AI-driven tools for enhancing employee skills within the technology sector, with potential implications on how companies strategize talent management in future years. It might also indicate a broader integration of such technologies into traditional corporate functions."
-    },
-    {
-      "title": "Anduril’s Palmer Luckey thinks the future of tech is in the past",
-      "link": "https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Jan 2026 18:05:00 +0000",
-      "description": "Luckey, who initially made his fortune in VR and now runs the defense contractor Anduril, and Ohanian both seemed to agree: Stuff was better in the old days.",
-      "language": "en",
-      "summary": "Anduril's Palmer Luckey expressed nostalgia for technology of the past and his VR experiences from the '90s.",
-      "points": [
-        "Palmer Luckey reminisces about simpler tech gadgets like Game Boys, Tamagotchi pets, and old-school televisions in a throwback video on Twitter",
-        "Luckey contrasted past nostalgia with modern VR technology developed by Anduril that he believes may not live up to his expectations for immersive gaming experiences from the 1980s",
-        "Both Luckey and fellow tech enthusiast Trevor Milton shared insights on their fond memories of classic computers, highlighting a general sentiment among technophiles towards simpler times"
-      ],
-      "insight": "This discussion underscores the generational gap in technology preferences within the IT/technology industry and may prompt designers to consider more user-friendly interfaces based on nostalgia."
-    },
-    {
-      "title": "Disney+ is launching short-form videos this year",
-      "link": "https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Jan 2026 17:59:45 +0000",
-      "description": "The move comes as Disney launched a personalized vertical video feed in the ESPN app last year.",
-      "language": "en",
-      "summary": "Disney+ has expanded its services to include short-form videos starting this year, following their success with ESPN' extranet content on personalized vertical video feeds in the past.",
-      "points": [
-        "Short-form and long-form are distinct concepts for Disney+",
-        "Disney+'s focus has been primarily on live action series since its launch",
-        "The new short-form model will deliver content with concise episodic narratives"
-      ],
-      "insight": "With the addition of short-form videos, Disney+ is diversifying its offerings and tapping into a growing demand for quicker entertainment options."
-    },
-    {
-      "title": "The most bizarre tech announced so far at CES 2026",
-      "link": "https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Jan 2026 17:46:19 +0000",
-      "description": "From an AI panda pet to an anime girl hologram for your desk, here are the wildest products at CES 2026.",
-      "language": "en",
-      "summary": "The most bizarre tech announced so far includes AI panda pet and anime girl hologram desks among many unusual gadgets.",
-      "points": [
-        "Introduction of the first-ever animated porcine companion named 'Pandora', designed to interact with users through voice commands, mimicry skills, and providing emotional support tailored for each individual's needs using advanced AI algorithms.",
-        "CES unveiled an immersive holographic experience featuring a beautifully animated girl character called ‘Holly’ that can materialize anywhere in the room through specialized glasses to provide companionship, entertainment or serve as visual guides for work tasks and meetings.",
-        "Another unusual product is 'The DreamCatcher', an innovative smart pillow designed with biofeedback sensors embedded into it. It collects users' dream data while they sleep by monitoring brain waves through a gentle vibration system, promising future insights on improving mental health and well-beth."
-      ],
-      "insight": "The inclusion of these eccentric products at CES highlight the growing trend towards more personalized technology experiences that blur the lines between reality and virtual entertainment. As AI continues to evolve, such novel applications may redefine how we interact with our devices on a daily basis."
-    },
-    {
-      "title": "Illinois health department exposed over 700,000 residents’ personal data for years",
-      "link": "https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Jan 2026 17:30:11 +0000",
-      "description": "The security lapse exposed personal information belonging to residents who received state benefits.",
-      "language": "en",
-      "summary": "Illinois' health department has been found negligent in safeguarding the private medical data of individuals receiving state welfare for extended periods.",
-      "points": [
-        "The Illinois Department of Healthcare Services (IHCS) failed to implement sufficient security measures, leaving personal information exposed on their system. This lapse lasted years before being discovered by a whistleblower within the department who alerted them in July via email and later informed state auditors.",
-        "A 2019 Illinois Department of Public Health (IDPH) analysis revealed that between January 2014 to December 31, over two million records were accessible on their servers without adequate safeguards. The IDHP notified the IHCS about this in November 2018.",
-        "A state audit confirmed lax security and negligent oversight within both departments."
-      ],
-      "insight": "This scandal highlights a critical need for improved data protection practices, rigorous internal controls to prevent insider threats, regular external vulnerability assessments across public sector organizations handling sensitive information. It indicates broader issues of accountability and transparency in state-run IT infrastructure."
-    },
-    {
-      "title": "Nvidia’s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
-      "link": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Jan 2026 17:29:31 +0000",
-      "description": "Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval stateside and from Beijing remains uncertain.",
-      "language": "en",
-      "summary": "Nvidia has started mandating all-upfront payment policy for Chinese customers purchasing its H200 AI chips amidst unclear approval status in China and the US.",
-      "points": [
-        "China's government requires technology companies to store data within national borders, but Nvidia is asking for upfront payments regardless of these regulations.",
-        "Concerns exist about potential issues with chip production or distribution if sanctions disrupt supply chains from Taiwan and Hong Kong.",
-        "Nvidia has yet to confirm whether its products will face additional export control restrictions, which could significantly affect the industry."
-      ],
-      "insight": "The move by Nvidia may set a precedent for other companies in dealing with international regulations on data storage while highlighting potential supply chain vulnerabilities due to geopolitical tensions. It also raises concerns about how export control restrictions could further impact the technology sector."
     }
   ]
 }
