@@ -150,6 +150,71 @@ const parser = new SimpleRSSParser();
 /**
  * RSS 피드를 가져와서 UTF-8로 변환
  */
+function extractCharsetFromContentType(contentType = "") {
+  const match = contentType.match(/charset=([^;]+)/i);
+  return match ? match[1].trim().toLowerCase() : null;
+}
+
+function extractCharsetFromXml(buffer) {
+  const head = buffer.toString("ascii");
+  const match = head.match(/encoding=["']([^"']+)["']/i);
+  return match ? match[1].trim().toLowerCase() : null;
+}
+
+function countHangul(text) {
+  const matches = text.match(/[가-힣]/g);
+  return matches ? matches.length : 0;
+}
+
+function countReplacement(text) {
+  const matches = text.match(/\uFFFD/g);
+  return matches ? matches.length : 0;
+}
+
+async function loadIconvLite() {
+  try {
+    const imported = await import("iconv-lite");
+    return imported.default || imported;
+  } catch (error) {
+    try {
+      const imported = await import(
+        new URL("../backend/node_modules/iconv-lite/lib/index.js", import.meta.url)
+      );
+      return imported.default || imported;
+    } catch (fallbackError) {
+      return null;
+    }
+  }
+}
+
+async function decodeWithCandidates(buffer, candidates) {
+  let iconv;
+  const results = [];
+
+  for (const encoding of candidates) {
+    let decoded;
+    if (encoding === "utf-8" || encoding === "utf8") {
+      decoded = buffer.toString("utf-8");
+    } else {
+      if (!iconv) {
+        iconv = await loadIconvLite();
+      }
+      if (!iconv) {
+        continue;
+      }
+      decoded = iconv.decode(buffer, encoding);
+    }
+    results.push({
+      encoding,
+      text: decoded,
+      hangul: countHangul(decoded),
+      replacements: countReplacement(decoded),
+    });
+  }
+
+  return results;
+}
+
 async function fetchRSSWithEncoding(url, language = "en") {
   return new Promise((resolve, reject) => {
     const client = url.startsWith("https") ? https : http;
@@ -164,41 +229,46 @@ async function fetchRSSWithEncoding(url, language = "en") {
 
         res.on("end", async () => {
           const buffer = Buffer.concat(chunks);
-          let text;
+          const headerCharset = extractCharsetFromContentType(
+            res.headers["content-type"] || ""
+          );
+          const xmlCharset = extractCharsetFromXml(buffer);
 
-          try {
-            // UTF-8로 시도
-            text = buffer.toString("utf-8");
-
-            // 한국어 피드의 경우 인코딩 문제가 있을 수 있음
-            if (language === "ko" && !/[가-힣]/.test(text)) {
-              // EUC-KR 시도
-              try {
-                const iconv = await import("iconv-lite");
-                const eucKrText = iconv.default.decode(buffer, "euc-kr");
-                // 한글이 제대로 디코딩되었는지 확인
-                if (/[가-힣]/.test(eucKrText)) {
-                  text = eucKrText;
-                } else {
-                  // CP949 시도
-                  try {
-                    const cp949Text = iconv.default.decode(buffer, "cp949");
-                    if (/[가-힣]/.test(cp949Text)) {
-                      text = cp949Text;
-                    }
-                  } catch (e2) {
-                    // UTF-8 유지
-                  }
-                }
-              } catch (e) {
-                // UTF-8 유지
+          let candidates = ["utf-8"];
+          if (headerCharset && !candidates.includes(headerCharset)) {
+            candidates.unshift(headerCharset);
+          }
+          if (xmlCharset && !candidates.includes(xmlCharset)) {
+            candidates.unshift(xmlCharset);
+          }
+          if (language === "ko") {
+            for (const enc of ["euc-kr", "cp949"]) {
+              if (!candidates.includes(enc)) {
+                candidates.push(enc);
               }
             }
-          } catch (error) {
-            text = buffer.toString("utf-8");
           }
 
-          resolve(text);
+          try {
+            const decoded = await decodeWithCandidates(buffer, candidates);
+            let chosen = decoded[0];
+
+            if (language === "ko") {
+              chosen = decoded.reduce((best, current) => {
+                if (current.hangul > best.hangul) return current;
+                if (current.hangul === best.hangul) {
+                  return current.replacements < best.replacements
+                    ? current
+                    : best;
+                }
+                return best;
+              }, decoded[0]);
+            }
+
+            resolve(chosen.text);
+          } catch (error) {
+            resolve(buffer.toString("utf-8"));
+          }
         });
       })
       .on("error", (error) => {
@@ -372,7 +442,20 @@ async function loadExistingSummaries() {
 
   try {
     const content = await readFile(filePath, "utf-8");
-    return JSON.parse(content);
+    const parsed = JSON.parse(content);
+    const cleaned = (parsed.articles || []).filter((article) => {
+      const fields = [
+        article.title,
+        article.description,
+        article.summary,
+        article.insight,
+        ...(Array.isArray(article.points) ? article.points : []),
+      ]
+        .filter(Boolean)
+        .join(" ");
+      return !fields.includes("�");
+    });
+    return { ...parsed, articles: cleaned };
   } catch (error) {
     console.warn("Failed to load existing summaries:", error.message);
     return { articles: [] };
