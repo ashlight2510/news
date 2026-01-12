@@ -1994,38 +1994,7 @@
       })();
     </script>
 
-    <script>
-      (function () {
-        "use strict";
-        const targetUrl = "https://funnyfunny.cloud/";
-        function addMoreTestsButton() {
-          if (document.getElementById("more-tests-btn")) return;
-          const moreBtn = document.createElement("button");
-          moreBtn.id = "more-tests-btn";
-          moreBtn.type = "button";
-          moreBtn.dataset.url = targetUrl;
-          moreBtn.textContent = "더 많은 서비스보기";
-          moreBtn.className =
-            "w-full py-4 bg-white border border-purple-100 text-purple-700 font-semibold rounded-xl hover:bg-purple-50 hover:border-purple-200 transition-all duration-200 mt-3";
-          moreBtn.addEventListener("click", function () {
-            window.open(targetUrl, "_blank", "noopener");
-          });
-          const shareButton = document.querySelector(
-            'button#share-btn, button#shareBtn, button[id*="share"]'
-          );
-          if (shareButton) {
-            shareButton.insertAdjacentElement("afterend", moreBtn);
-          } else if (document.body) {
-            document.body.appendChild(moreBtn);
-          }
-        }
-        if (document.readyState === "loading") {
-          document.addEventListener("DOMContentLoaded", addMoreTestsButton);
-        } else {
-          addMoreTestsButton();
-        }
-      })();
-    </script>
+    <!-- removed duplicate more services button script -->
 
     <ins
       class="adsbygoogle"
