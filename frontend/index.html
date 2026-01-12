@@ -297,20 +297,6 @@
         color: #e74c3c;
       }
 
-      #bottom-ad {
-        background: rgba(255, 255, 255, 0.9);
-        border-radius: 16px;
-        padding: 20px;
-        margin-bottom: 24px;
-        text-align: center;
-        color: #999;
-        font-size: 14px;
-        min-height: 100px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-
       .article-list {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -967,6 +953,39 @@
         border-top: 1px solid rgba(0, 0, 0, 0.05);
       }
 
+      .more-services-wrap {
+        display: flex;
+        justify-content: center;
+        margin: 36px 0 12px;
+      }
+
+      .more-services-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 22px;
+        border-radius: 999px;
+        border: 1px solid rgba(102, 126, 234, 0.25);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: #fff;
+        font-weight: 700;
+        font-size: 14px;
+        text-decoration: none;
+        box-shadow: 0 10px 24px rgba(102, 126, 234, 0.35);
+        transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+      }
+
+      .more-services-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 14px 28px rgba(102, 126, 234, 0.4);
+        filter: brightness(1.03);
+      }
+
+      .more-services-btn:active {
+        transform: translateY(0);
+        box-shadow: 0 8px 18px rgba(102, 126, 234, 0.3);
+      }
+
       footer {
         background: rgba(255, 255, 255, 0.95);
         backdrop-filter: blur(10px);
@@ -1175,9 +1194,6 @@
         </section>
       </main>
 
-      <!-- 광고 자리 (하단) -->
-      <div id="bottom-ad"></div>
-
       <!-- 기술 용어 설명 섹션 -->
       <section class="tech-glossary">
         <h2>📚 기술 용어 설명</h2>
@@ -1231,6 +1247,17 @@
           </div>
         </div>
       </section>
+
+      <div class="more-services-wrap">
+        <a
+          class="more-services-btn"
+          href="https://funnyfunny.cloud"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ✨ 더 많은 서비스 보기
+        </a>
+      </div>
 
       <footer>
         <p>
