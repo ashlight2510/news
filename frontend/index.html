@@ -210,6 +210,35 @@
         background: rgba(102, 126, 234, 0.16);
       }
 
+      .lang-switch {
+        margin-top: 16px;
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+      }
+
+      .lang-btn {
+        border: 1px solid rgba(102, 126, 234, 0.25);
+        background: rgba(102, 126, 234, 0.08);
+        color: #5a6be0;
+        font-weight: 600;
+        padding: 6px 12px;
+        border-radius: 999px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+
+      .lang-btn.active {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: #fff;
+        border-color: transparent;
+        box-shadow: 0 6px 16px rgba(102, 126, 234, 0.35);
+      }
+
+      .lang-btn:hover {
+        transform: translateY(-1px);
+      }
+
       .controls {
         background: rgba(255, 255, 255, 0.98);
         backdrop-filter: blur(20px);
@@ -299,9 +328,15 @@
 
       .article-list {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
         gap: 20px;
         margin-bottom: 32px;
+      }
+
+      @media (min-width: 1000px) {
+        .article-list {
+          grid-template-columns: repeat(3, 1fr);
+        }
       }
 
       @media (max-width: 768px) {
@@ -1050,35 +1085,41 @@
       }
     </style>
     <style>
-    .adsense-block {
-      margin: 16px 0;
-      display: flex;
-      justify-content: center;
-    }
-    .adsbygoogle {
-      display: block;
-      margin: 16px auto;
+      .adsense-block {
+        margin: 16px 0;
+        display: flex;
+        justify-content: center;
+      }
+      .adsbygoogle {
+        display: block;
+        margin: 16px auto;
         text-align: center;
-}
-  </style>
-</head>
+      }
+    </style>
+  </head>
   <body>
     <div class="container">
       <header>
-        <h1>오늘의 IT 뉴스</h1>
-        <p>여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지</p>
+        <h1 data-i18n="title">오늘의 IT 뉴스</h1>
+        <p data-i18n="subtitle">
+          여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지
+        </p>
+        <div class="lang-switch" role="group" aria-label="Language switcher">
+          <button class="lang-btn" type="button" data-lang="ko">KR</button>
+          <button class="lang-btn" type="button" data-lang="en">EN</button>
+        </div>
         <nav class="nav">
-          <a href="index.html">홈</a>
-          <a href="about.html">About</a>
-          <a href="insights.html">인사이트</a>
-          <a href="privacy.html">개인정보 처리방침</a>
-          <a href="terms.html">이용약관</a>
+          <a href="index.html" data-i18n="nav_home">홈</a>
+          <a href="about.html" data-i18n="nav_about">About</a>
+          <a href="insights.html" data-i18n="nav_insights">인사이트</a>
+          <a href="privacy.html" data-i18n="nav_privacy">개인정보 처리방침</a>
+          <a href="terms.html" data-i18n="nav_terms">이용약관</a>
         </nav>
       </header>
 
       <!-- 오늘의 기술 인사이트 섹션 -->
       <section class="today-insight" id="today-insight">
-        <h2>🌟 오늘의 기술 인사이트</h2>
+        <h2 data-i18n="today_insight_title">🌟 오늘의 기술 인사이트</h2>
         <div class="insight-content">
           <!-- 스켈레톤이 JavaScript로 동적 생성됨 -->
         </div>
@@ -1102,17 +1143,18 @@
             color: #667eea;
             font-weight: 600;
           "
+          data-i18n="service_intro_title"
         >
           서비스 소개
         </h2>
         <div style="color: #333; line-height: 1.8">
-          <p style="margin: 0 0 16px 0">
+          <p style="margin: 0 0 16px 0" data-i18n-html="service_intro_p1">
             <strong>오늘의 IT 뉴스</strong>는 개발자와 IT 전문가들을 위해 여러
             IT 미디어의 뉴스를 한눈에 모아서 제공하는 큐레이션 서비스입니다. 매
             시간마다 주요 IT 뉴스 사이트에서 최신 뉴스를 수집하여, 한국어와 영어
             뉴스를 구분하여 제공합니다.
           </p>
-          <p style="margin: 0 0 16px 0">
+          <p style="margin: 0 0 16px 0" data-i18n-html="service_intro_p2">
             이 서비스를 통해 여러 뉴스 사이트를 돌아다니지 않고도, 최신 IT
             트렌드와 기술 뉴스를 빠르게 파악할 수 있습니다. 특히 한국어와 영어
             뉴스를 구분하여 제공함으로써, 사용자가 원하는 언어의 뉴스만
@@ -1132,6 +1174,7 @@
                 background: rgba(102, 126, 234, 0.1);
                 transition: all 0.2s ease;
               "
+              data-i18n="service_intro_link_more"
               >더 알아보기</a
             >
             <a
@@ -1145,6 +1188,7 @@
                 background: rgba(102, 126, 234, 0.1);
                 transition: all 0.2s ease;
               "
+              data-i18n="service_intro_link_insights"
               >인사이트</a
             >
             <a
@@ -1158,6 +1202,7 @@
                 background: rgba(102, 126, 234, 0.1);
                 transition: all 0.2s ease;
               "
+              data-i18n="service_intro_link_privacy"
               >개인정보 처리방침</a
             >
             <a
@@ -1171,6 +1216,7 @@
                 background: rgba(102, 126, 234, 0.1);
                 transition: all 0.2s ease;
               "
+              data-i18n="service_intro_link_terms"
               >이용약관</a
             >
           </div>
@@ -1180,29 +1226,41 @@
       <main>
         <!-- 필터 및 컨트롤 (뉴스 바로 위) -->
         <div class="controls">
-          <span style="font-weight: 600; color: #333">필터:</span>
-          <button class="filter-btn active" data-filter="all">전체</button>
-          <button class="filter-btn" data-filter="ko">한국어</button>
-          <button class="filter-btn" data-filter="en">영어</button>
+          <span style="font-weight: 600; color: #333" data-i18n="filter_label"
+            >필터:</span
+          >
+          <button class="filter-btn active" data-filter="all" data-i18n="filter_all">
+            전체
+          </button>
+          <button class="filter-btn" data-filter="ko" data-i18n="filter_ko">
+            한국어
+          </button>
+          <button class="filter-btn" data-filter="en" data-i18n="filter_en">
+            영어
+          </button>
         </div>
         <section class="article-list" id="article-list">
           <div class="loading-container">
             <div class="loading-spinner"></div>
-            <div class="loading-text">뉴스를 불러오는 중...</div>
-            <div class="loading-subtext">최신 IT 뉴스를 수집하고 있습니다</div>
+            <div class="loading-text" data-i18n="loading_text">
+              뉴스를 불러오는 중...
+            </div>
+            <div class="loading-subtext" data-i18n="loading_subtext">
+              최신 IT 뉴스를 수집하고 있습니다
+            </div>
           </div>
         </section>
       </main>
 
       <!-- 기술 용어 설명 섹션 -->
       <section class="tech-glossary">
-        <h2>📚 기술 용어 설명</h2>
+        <h2 data-i18n="glossary_title">📚 기술 용어 설명</h2>
         <div class="glossary-grid">
           <div class="glossary-item">
             <div class="glossary-term">
               RAG (Retrieval-Augmented Generation)
             </div>
-            <p class="glossary-definition">
+            <p class="glossary-definition" data-i18n="glossary_rag">
               검색 기반 생성 구조로, AI가 외부 지식을 검색하여 정확도를
               향상시키는 기술입니다. 대규모 언어 모델의 환각 문제를 해결하는 데
               효과적입니다.
@@ -1210,7 +1268,7 @@
           </div>
           <div class="glossary-item">
             <div class="glossary-term">WebAssembly (WASM)</div>
-            <p class="glossary-definition">
+            <p class="glossary-definition" data-i18n="glossary_wasm">
               브라우저에서 네이티브에 가까운 속도로 실행되는 바이너리
               포맷입니다. JavaScript와 함께 사용하여 고성능 웹 애플리케이션을
               구축할 수 있습니다.
@@ -1218,28 +1276,28 @@
           </div>
           <div class="glossary-item">
             <div class="glossary-term">Edge Computing</div>
-            <p class="glossary-definition">
+            <p class="glossary-definition" data-i18n="glossary_edge">
               데이터를 클라우드 대신 사용자 근처의 엣지 디바이스에서 처리하는
               방식입니다. 지연 시간을 줄이고 실시간 처리를 가능하게 합니다.
             </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">Microservices</div>
-            <p class="glossary-definition">
+            <p class="glossary-definition" data-i18n="glossary_microservices">
               애플리케이션을 작은 독립적인 서비스로 분해하는 아키텍처
               패턴입니다. 각 서비스는 독립적으로 개발, 배포, 확장할 수 있습니다.
             </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">DevOps</div>
-            <p class="glossary-definition">
+            <p class="glossary-definition" data-i18n="glossary_devops">
               개발(Development)과 운영(Operations)을 통합하여 소프트웨어 개발과
               배포 프로세스를 자동화하고 효율화하는 문화와 방법론입니다.
             </p>
           </div>
           <div class="glossary-item">
             <div class="glossary-term">Container</div>
-            <p class="glossary-definition">
+            <p class="glossary-definition" data-i18n="glossary_container">
               애플리케이션과 그 실행 환경을 함께 패키징하는 기술입니다. Docker가
               대표적인 컨테이너 플랫폼으로, 어디서나 동일하게 실행할 수
               있습니다.
@@ -1254,6 +1312,7 @@
           href="https://funnyfunny.cloud"
           target="_blank"
           rel="noopener noreferrer"
+          data-i18n="more_services"
         >
           ✨ 더 많은 서비스 보기
         </a>
@@ -1270,6 +1329,270 @@
     </div>
 
     <script>
+      const translations = {
+        ko: {
+          meta_title: "오늘의 IT 뉴스 모아보기 - IT 뉴스 한눈에 보기",
+          meta_description:
+            "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지. TechCrunch, The Verge, ZDNet Korea, 전자신문 등 주요 IT 뉴스를 실시간으로 확인하세요.",
+          meta_og_title: "오늘의 IT 뉴스 모아보기 - IT 뉴스 한눈에 보기",
+          meta_og_description:
+            "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지. TechCrunch, The Verge, ZDNet Korea 등 주요 IT 뉴스를 실시간으로 확인하세요.",
+          meta_twitter_title: "오늘의 IT 뉴스 모아보기 - IT 뉴스 한눈에 보기",
+          meta_twitter_description:
+            "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지",
+          meta_site_name: "오늘의 IT 뉴스",
+          title: "오늘의 IT 뉴스",
+          subtitle:
+            "여러 IT 미디어의 뉴스를 한눈에 모아서, 핵심만 정리해주는 페이지",
+          nav_home: "홈",
+          nav_about: "About",
+          nav_insights: "인사이트",
+          nav_privacy: "개인정보 처리방침",
+          nav_terms: "이용약관",
+          today_insight_title: "🌟 오늘의 기술 인사이트",
+          service_intro_title: "서비스 소개",
+          service_intro_p1:
+            "<strong>오늘의 IT 뉴스</strong>는 개발자와 IT 전문가들을 위해 여러 IT 미디어의 뉴스를 한눈에 모아서 제공하는 큐레이션 서비스입니다. 매 시간마다 주요 IT 뉴스 사이트에서 최신 뉴스를 수집하여, 한국어와 영어 뉴스를 구분하여 제공합니다.",
+          service_intro_p2:
+            "이 서비스를 통해 여러 뉴스 사이트를 돌아다니지 않고도, 최신 IT 트렌드와 기술 뉴스를 빠르게 파악할 수 있습니다. 특히 한국어와 영어 뉴스를 구분하여 제공함으로써, 사용자가 원하는 언어의 뉴스만 선택적으로 볼 수 있습니다.",
+          service_intro_link_more: "더 알아보기",
+          service_intro_link_insights: "인사이트",
+          service_intro_link_privacy: "개인정보 처리방침",
+          service_intro_link_terms: "이용약관",
+          filter_label: "필터:",
+          filter_all: "전체",
+          filter_ko: "한국어",
+          filter_en: "영어",
+          loading_text: "뉴스를 불러오는 중...",
+          loading_subtext: "최신 IT 뉴스를 수집하고 있습니다",
+          glossary_title: "📚 기술 용어 설명",
+          glossary_rag:
+            "검색 기반 생성 구조로, AI가 외부 지식을 검색하여 정확도를 향상시키는 기술입니다. 대규모 언어 모델의 환각 문제를 해결하는 데 효과적입니다.",
+          glossary_wasm:
+            "브라우저에서 네이티브에 가까운 속도로 실행되는 바이너리 포맷입니다. JavaScript와 함께 사용하여 고성능 웹 애플리케이션을 구축할 수 있습니다.",
+          glossary_edge:
+            "데이터를 클라우드 대신 사용자 근처의 엣지 디바이스에서 처리하는 방식입니다. 지연 시간을 줄이고 실시간 처리를 가능하게 합니다.",
+          glossary_microservices:
+            "애플리케이션을 작은 독립적인 서비스로 분해하는 아키텍처 패턴입니다. 각 서비스는 독립적으로 개발, 배포, 확장할 수 있습니다.",
+          glossary_devops:
+            "개발(Development)과 운영(Operations)을 통합하여 소프트웨어 개발과 배포 프로세스를 자동화하고 효율화하는 문화와 방법론입니다.",
+          glossary_container:
+            "애플리케이션과 그 실행 환경을 함께 패키징하는 기술입니다. Docker가 대표적인 컨테이너 플랫폼으로, 어디서나 동일하게 실행할 수 있습니다.",
+          more_services: "✨ 더 많은 서비스 보기",
+          no_title: "제목 없음",
+          lang_ko: "한국어",
+          lang_en: "영어",
+          empty_title: "뉴스가 없습니다",
+          empty_backend: "백엔드 서버가 실행 중인지 확인해주세요.",
+          empty_language: "선택한 언어의 뉴스가 없습니다.",
+          label_summary: "📝 요약",
+          label_points: "🔑 핵심 포인트",
+          label_insight: "💡 인사이트",
+          label_column: "💬 오늘의 칼럼:",
+          label_more: "더보기",
+          label_less: "접기",
+          summary_pending: "요약 준비 중입니다...",
+          read_original: "원문 보기 →",
+          load_error_title: "⚠️ 오류가 발생했습니다",
+          load_error_body: "뉴스를 불러오는 중 문제가 발생했습니다.",
+          load_error_fix_title: "해결 방법:",
+          load_error_fix_1: "Render 백엔드 URL이 올바른지 확인하세요",
+          load_error_fix_2: "백엔드 서버가 실행 중인지 확인하세요",
+          load_error_fix_3: "브라우저 콘솔(F12)에서 자세한 오류를 확인하세요",
+          load_error_label: "오류:",
+          load_error_default: "CORS 오류 또는 네트워크 연결 실패",
+          just_now: "방금 전",
+          minutes_ago: "{count}분 전",
+          hours_ago: "{count}시간 전",
+          days_ago: "{count}일 전",
+          insight_recent: "최근",
+          insight_summary:
+            "{updatedAt} 기준 자동 수집된 뉴스 요약을 바탕으로 정리했습니다. 백엔드 호출 없이 로컬 데이터를 우선 제공합니다.",
+          insight_intro:
+            "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.",
+          insight_fallback:
+            "기술의 빠른 변화 속에서 최신 트렌드를 파악하는 것이 중요합니다. 오늘의 뉴스는 IT 업계의 지속적인 혁신과 성장을 보여주며, 개발자와 기업들에게 새로운 기회를 제시하고 있습니다.",
+          insight_trends: ["AI", "클라우드", "보안", "스타트업"],
+          insight_trends_sentence:
+            "최근 수집된 {count}개 기사에서 {trends} 관련 이슈가 특히 많이 나타납니다.",
+        },
+        en: {
+          meta_title: "Today's IT News — A concise tech roundup",
+          meta_description:
+            "A curated overview of top stories across major IT media. Stay up to date with TechCrunch, The Verge, ZDNet Korea, and more.",
+          meta_og_title: "Today's IT News — A concise tech roundup",
+          meta_og_description:
+            "A curated overview of top stories across major IT media. Stay up to date with TechCrunch, The Verge, ZDNet Korea, and more.",
+          meta_twitter_title: "Today's IT News — A concise tech roundup",
+          meta_twitter_description:
+            "A quick, readable roundup of the latest IT headlines.",
+          meta_site_name: "Today's IT News",
+          title: "Today's IT News",
+          subtitle:
+            "A concise roundup of top stories across major IT media outlets",
+          nav_home: "Home",
+          nav_about: "About",
+          nav_insights: "Insights",
+          nav_privacy: "Privacy Policy",
+          nav_terms: "Terms of Use",
+          today_insight_title: "🌟 Today's Tech Insight",
+          service_intro_title: "About the Service",
+          service_intro_p1:
+            "<strong>Today's IT News</strong> curates headlines across leading tech outlets for developers and IT professionals. We collect the latest articles hourly and separate Korean and English sources.",
+          service_intro_p2:
+            "It helps you scan trends and tech news without hopping across sites. Language filters let you focus only on the news you want.",
+          service_intro_link_more: "Learn more",
+          service_intro_link_insights: "Insights",
+          service_intro_link_privacy: "Privacy Policy",
+          service_intro_link_terms: "Terms of Use",
+          filter_label: "Filter:",
+          filter_all: "All",
+          filter_ko: "Korean",
+          filter_en: "English",
+          loading_text: "Loading news...",
+          loading_subtext: "Fetching the latest IT headlines",
+          glossary_title: "📚 Tech Glossary",
+          glossary_rag:
+            "A retrieval-augmented approach where AI searches external knowledge to improve accuracy and reduce hallucinations.",
+          glossary_wasm:
+            "A binary format that runs near-native speed in browsers and enables high-performance web apps alongside JavaScript.",
+          glossary_edge:
+            "Processing data near users on edge devices instead of the cloud to reduce latency and enable real-time responses.",
+          glossary_microservices:
+            "An architecture that splits applications into small, independent services that can be developed and deployed separately.",
+          glossary_devops:
+            "A culture and practice that unifies development and operations to automate and streamline software delivery.",
+          glossary_container:
+            "A technique that packages apps with their runtime so they run consistently anywhere—Docker is a common platform.",
+          more_services: "✨ See more services",
+          no_title: "Untitled",
+          lang_ko: "Korean",
+          lang_en: "English",
+          empty_title: "No news available",
+          empty_backend: "Please check if the backend server is running.",
+          empty_language: "No news available for the selected language.",
+          label_summary: "📝 Summary",
+          label_points: "🔑 Key points",
+          label_insight: "💡 Insight",
+          label_column: "💬 Today's Column:",
+          label_more: "Read more",
+          label_less: "Collapse",
+          summary_pending: "Summary is being prepared...",
+          read_original: "Read original →",
+          load_error_title: "⚠️ Something went wrong",
+          load_error_body: "We couldn't load the news.",
+          load_error_fix_title: "How to fix:",
+          load_error_fix_1: "Check if the Render backend URL is correct.",
+          load_error_fix_2: "Ensure the backend server is running.",
+          load_error_fix_3: "Check the browser console (F12) for details.",
+          load_error_label: "Error:",
+          load_error_default: "CORS error or network failure",
+          just_now: "just now",
+          minutes_ago: "{count} min ago",
+          hours_ago: "{count} hr ago",
+          days_ago: "{count} days ago",
+          insight_recent: "Recently",
+          insight_summary:
+            "Based on auto-collected summaries as of {updatedAt}. Local data is used before backend calls.",
+          insight_intro:
+            "A tech-trend insight synthesized from today's IT news.",
+          insight_fallback:
+            "With rapid shifts in technology, tracking trends matters. Today's headlines highlight ongoing innovation and growth across the IT industry.",
+          insight_trends: ["AI", "Cloud", "Security", "Startup"],
+          insight_trends_sentence:
+            "Across {count} recent articles, topics around {trends} appeared most often.",
+        },
+      };
+
+      const supportedLangs = ["ko", "en"];
+      let currentLang = "ko";
+
+      function t(key, vars = {}) {
+        const template =
+          translations[currentLang]?.[key] ?? translations.ko[key] ?? key;
+        if (typeof template !== "string") {
+          return template;
+        }
+        return template.replace(/\{(\w+)\}/g, (_, k) =>
+          vars[k] !== undefined ? vars[k] : ""
+        );
+      }
+
+      function detectLang() {
+        const url = new URL(window.location.href);
+        const param = url.searchParams.get("lang");
+        const stored = localStorage.getItem("lang");
+        const browser = (navigator.language || "").toLowerCase();
+        const auto = browser.startsWith("en") ? "en" : "ko";
+        const lang = param || stored || auto;
+        return supportedLangs.includes(lang) ? lang : "ko";
+      }
+
+      function updateMeta() {
+        document.title = t("meta_title");
+        const setMeta = (selector, value) => {
+          const el = document.querySelector(selector);
+          if (el) el.setAttribute("content", value);
+        };
+        setMeta('meta[name="description"]', t("meta_description"));
+        setMeta('meta[property="og:title"]', t("meta_og_title"));
+        setMeta('meta[property="og:description"]', t("meta_og_description"));
+        setMeta('meta[property="og:site_name"]', t("meta_site_name"));
+        setMeta('meta[name="twitter:title"]', t("meta_twitter_title"));
+        setMeta('meta[name="twitter:description"]', t("meta_twitter_description"));
+      }
+
+      function updateLocalLinks(lang) {
+        document.querySelectorAll('a[href]').forEach((link) => {
+          const href = link.getAttribute("href") || "";
+          if (/^https?:\\/\\//i.test(href)) return;
+          if (!href.endsWith(".html")) return;
+          const url = new URL(href, window.location.href);
+          url.searchParams.set("lang", lang);
+          link.setAttribute("href", url.pathname + url.search);
+        });
+      }
+
+      function applyTranslations(lang) {
+        currentLang = lang;
+        document.documentElement.lang = lang;
+
+        document.querySelectorAll("[data-i18n]").forEach((el) => {
+          const key = el.getAttribute("data-i18n");
+          if (key) el.textContent = t(key);
+        });
+        document.querySelectorAll("[data-i18n-html]").forEach((el) => {
+          const key = el.getAttribute("data-i18n-html");
+          if (key) el.innerHTML = t(key);
+        });
+
+        document.querySelectorAll(".lang-btn").forEach((btn) => {
+          btn.classList.toggle("active", btn.dataset.lang === lang);
+        });
+
+        updateLocalLinks(lang);
+        updateMeta();
+      }
+
+      function setLang(lang, { persist = true, updateUrl = true } = {}) {
+        const next = supportedLangs.includes(lang) ? lang : "ko";
+        if (persist) localStorage.setItem("lang", next);
+        if (updateUrl) {
+          const url = new URL(window.location.href);
+          url.searchParams.set("lang", next);
+          window.history.replaceState({}, "", url.toString());
+        }
+        applyTranslations(next);
+      }
+
+      document.querySelectorAll(".lang-btn").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          setLang(btn.dataset.lang, { persist: true, updateUrl: true });
+        });
+      });
+
+      setLang(detectLang(), { persist: true, updateUrl: false });
+
       // ============================================
       // 🔧 Render 백엔드 URL 설정
       // ============================================
@@ -1455,7 +1778,7 @@
         if (
           !title ||
           title === "No title" ||
-          title === "제목 없음" ||
+          title === t("no_title") ||
           title.length === 0
         ) {
           // 1순위: description에서 추출
@@ -1488,7 +1811,7 @@
         }
 
         // 최종 타이틀 (fallback)
-        const finalTitle = title || "제목 없음";
+        const finalTitle = title || t("no_title");
 
         return {
           title: finalTitle,
@@ -1505,23 +1828,42 @@
       }
 
       function buildLocalInsight(articles, generatedAt) {
-        const keywordMap = [
-          { key: "ai", label: "AI" },
-          { key: "인공지능", label: "AI" },
-          { key: "클라우드", label: "클라우드" },
-          { key: "cloud", label: "클라우드" },
-          { key: "보안", label: "보안" },
-          { key: "security", label: "보안" },
-          { key: "스타트업", label: "스타트업" },
-          { key: "startup", label: "스타트업" },
-          { key: "데이터", label: "데이터" },
-          { key: "data", label: "데이터" },
-          { key: "칩", label: "반도체" },
-          { key: "반도체", label: "반도체" },
-          { key: "chip", label: "반도체" },
-          { key: "오픈소스", label: "오픈소스" },
-          { key: "open source", label: "오픈소스" },
-        ];
+        const keywordMap =
+          currentLang === "en"
+            ? [
+                { key: "ai", label: "AI" },
+                { key: "인공지능", label: "AI" },
+                { key: "클라우드", label: "Cloud" },
+                { key: "cloud", label: "Cloud" },
+                { key: "보안", label: "Security" },
+                { key: "security", label: "Security" },
+                { key: "스타트업", label: "Startup" },
+                { key: "startup", label: "Startup" },
+                { key: "데이터", label: "Data" },
+                { key: "data", label: "Data" },
+                { key: "칩", label: "Semiconductors" },
+                { key: "반도체", label: "Semiconductors" },
+                { key: "chip", label: "Semiconductors" },
+                { key: "오픈소스", label: "Open Source" },
+                { key: "open source", label: "Open Source" },
+              ]
+            : [
+                { key: "ai", label: "AI" },
+                { key: "인공지능", label: "AI" },
+                { key: "클라우드", label: "클라우드" },
+                { key: "cloud", label: "클라우드" },
+                { key: "보안", label: "보안" },
+                { key: "security", label: "보안" },
+                { key: "스타트업", label: "스타트업" },
+                { key: "startup", label: "스타트업" },
+                { key: "데이터", label: "데이터" },
+                { key: "data", label: "데이터" },
+                { key: "칩", label: "반도체" },
+                { key: "반도체", label: "반도체" },
+                { key: "chip", label: "반도체" },
+                { key: "오픈소스", label: "오픈소스" },
+                { key: "open source", label: "오픈소스" },
+              ];
 
         const counts = new Map();
         articles.forEach((article) => {
@@ -1540,21 +1882,22 @@
           .slice(0, 4)
           .map(([label]) => label);
 
-        const fallbackTrends = ["AI", "클라우드", "보안", "스타트업"];
+        const fallbackTrends = t("insight_trends");
         const finalTrends = trends.length > 0 ? trends : fallbackTrends;
 
         const updatedAt = generatedAt
-          ? new Date(generatedAt).toLocaleString("ko-KR")
-          : "최근";
+          ? new Date(generatedAt).toLocaleString(
+              currentLang === "en" ? "en-US" : "ko-KR"
+            )
+          : t("insight_recent");
 
         return {
-          insight: `최근 수집된 ${
-            articles.length
-          }개 기사에서 ${finalTrends.join(
-            ", "
-          )} 관련 이슈가 특히 많이 나타납니다.`,
+          insight: t("insight_trends_sentence", {
+            count: articles.length,
+            trends: finalTrends.join(", "),
+          }),
           trends: finalTrends,
-          column: `${updatedAt} 기준 자동 수집된 뉴스 요약을 바탕으로 정리했습니다. 백엔드 호출 없이 로컬 데이터를 우선 제공합니다.`,
+          column: t("insight_summary", { updatedAt }),
         };
       }
 
@@ -1566,8 +1909,7 @@
 
         container.innerHTML = `
             <div class="insight-text">${
-              data.insight ||
-              "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다."
+              data.insight || t("insight_intro")
             }</div>
             ${
               data.trends && data.trends.length > 0
@@ -1584,7 +1926,7 @@
               data.column
                 ? `
               <div class="insight-column">
-                <strong>💬 오늘의 칼럼:</strong> ${data.column}
+                <strong>${t("label_column")}</strong> ${data.column}
               </div>
             `
                 : ""
@@ -1626,11 +1968,11 @@
           if (expanded) {
             p.classList.add("clamped");
             btn.setAttribute("aria-expanded", "false");
-            btn.textContent = "더보기";
+            btn.textContent = t("label_more");
           } else {
             p.classList.remove("clamped");
             btn.setAttribute("aria-expanded", "true");
-            btn.textContent = "접기";
+            btn.textContent = t("label_less");
           }
         });
       }
@@ -1651,11 +1993,13 @@
         if (filteredArticles.length === 0) {
           container.innerHTML = `
           <div class="empty-message">
-            <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px;">뉴스가 없습니다</p>
+            <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px;">${t(
+              "empty_title"
+            )}</p>
             <p>${
               currentFilter === "all"
-                ? "백엔드 서버가 실행 중인지 확인해주세요."
-                : "선택한 언어의 뉴스가 없습니다."
+                ? t("empty_backend")
+                : t("empty_language")
             }</p>
           </div>
         `;
@@ -1670,7 +2014,7 @@
           const publishedDate = new Date(a.published_at);
           const timeAgo = getTimeAgo(publishedDate);
           const lang = a.language || "en";
-          const langLabel = lang === "ko" ? "한국어" : "영어";
+          const langLabel = lang === "ko" ? t("lang_ko") : t("lang_en");
 
           // 정적 JSON에서 요약 데이터 매칭 (백엔드 API에서 온 경우)
           const matchedSummary = matchArticleWithSummary(a);
@@ -1714,7 +2058,7 @@
           if (
             !a.title ||
             a.title === "No title" ||
-            a.title === "제목 없음" ||
+            a.title === t("no_title") ||
             a.title.trim().length === 0
           ) {
             console.warn("Article with missing title:", {
@@ -1750,21 +2094,25 @@
             hasSummary
               ? `
           <div class="ai-content-section">
-            <div class="ai-label">📝 요약</div>
+            <div class="ai-label">${t("label_summary")}</div>
             <p id="${summaryId}" class="ai-summary ${
                   isLongSummary ? "clamped" : ""
                 }">${escapeHtml(aiSummary)}</p>
             ${
               isLongSummary
-                ? `<button type="button" class="ai-summary-toggle" data-action="toggle-ai-summary" data-target="${summaryId}" aria-expanded="false">더보기</button>`
+                ? `<button type="button" class="ai-summary-toggle" data-action="toggle-ai-summary" data-target="${summaryId}" aria-expanded="false">${t(
+                    "label_more"
+                  )}</button>`
                 : ""
             }
           </div>
           `
               : `
           <div class="ai-content-section" style="opacity: 0.6;">
-            <div class="ai-label">📝 요약</div>
-            <p class="ai-summary" style="font-style: italic; color: #999;">요약 준비 중입니다...</p>
+            <div class="ai-label">${t("label_summary")}</div>
+            <p class="ai-summary" style="font-style: italic; color: #999;">${t(
+              "summary_pending"
+            )}</p>
           </div>
           `
           }
@@ -1773,7 +2121,7 @@
             aiPoints && aiPoints.length > 0
               ? `
           <div class="ai-content-section">
-            <div class="ai-label">🔑 핵심 포인트</div>
+            <div class="ai-label">${t("label_points")}</div>
             <ul class="ai-points">
               ${aiPoints
                 .map((point) => `<li>${escapeHtml(point)}</li>`)
@@ -1788,7 +2136,7 @@
             aiInsight
               ? `
           <div class="ai-content-section">
-            <div class="ai-label">💡 인사이트</div>
+            <div class="ai-label">${t("label_insight")}</div>
             <p class="ai-insight">${escapeHtml(aiInsight)}</p>
           </div>
           `
@@ -1799,7 +2147,7 @@
             <a href="${
               a.url
             }" target="_blank" rel="noopener noreferrer" class="read-more-btn">
-              <span>원문 보기 →</span>
+              <span>${t("read_original")}</span>
             </a>
             <div class="meta">
               <span>${timeAgo}</span>
@@ -1881,13 +2229,15 @@
             error.message.includes("Failed to fetch") ||
             error.message.includes("CORS")
           ) {
-            errorMessage = "CORS 오류 또는 네트워크 연결 실패";
+            errorMessage = t("load_error_default");
             troubleshooting = `
-            <p style="margin-top: 12px; font-weight: 600;">해결 방법:</p>
+            <p style="margin-top: 12px; font-weight: 600;">${t(
+              "load_error_fix_title"
+            )}</p>
             <ul style="text-align: left; display: inline-block; margin-top: 8px;">
-              <li>Render 백엔드 URL이 올바른지 확인하세요</li>
-              <li>백엔드 서버가 실행 중인지 확인하세요</li>
-              <li>브라우저 콘솔(F12)에서 자세한 오류를 확인하세요</li>
+              <li>${t("load_error_fix_1")}</li>
+              <li>${t("load_error_fix_2")}</li>
+              <li>${t("load_error_fix_3")}</li>
               <li>API URL: <code style="background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">${API_URL}</code></li>
             </ul>
           `;
@@ -1895,10 +2245,14 @@
 
           container.innerHTML = `
           <div class="error-message">
-            <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px; color: #e74c3c;">⚠️ 오류가 발생했습니다</p>
-            <p>뉴스를 불러오는 중 문제가 발생했습니다.</p>
+            <p style="font-size: 18px; font-weight: 600; margin-bottom: 8px; color: #e74c3c;">${t(
+              "load_error_title"
+            )}</p>
+            <p>${t("load_error_body")}</p>
             <div class="error-detail">
-              <p style="margin-bottom: 4px;"><strong>오류:</strong> ${errorMessage}</p>
+              <p style="margin-bottom: 4px;"><strong>${t(
+                "load_error_label"
+              )}</strong> ${errorMessage}</p>
               ${troubleshooting}
             </div>
           </div>
@@ -1953,11 +2307,9 @@
         } catch (error) {
           console.error("Error loading insight:", error);
           renderInsightContent({
-            insight:
-              "오늘의 IT 뉴스를 종합한 기술 트렌드 인사이트를 제공합니다.",
-            trends: ["AI", "클라우드", "보안", "스타트업"],
-            column:
-              "기술의 빠른 변화 속에서 최신 트렌드를 파악하는 것이 중요합니다. 오늘의 뉴스는 IT 업계의 지속적인 혁신과 성장을 보여주며, 개발자와 기업들에게 새로운 기회를 제시하고 있습니다.",
+            insight: t("insight_intro"),
+            trends: t("insight_trends"),
+            column: t("insight_fallback"),
           });
         }
       }
@@ -1969,11 +2321,11 @@
         const hours = Math.floor(diff / 3600000);
         const days = Math.floor(diff / 86400000);
 
-        if (minutes < 1) return "방금 전";
-        if (minutes < 60) return `${minutes}분 전`;
-        if (hours < 24) return `${hours}시간 전`;
-        if (days < 7) return `${days}일 전`;
-        return date.toLocaleDateString("ko-KR", {
+        if (minutes < 1) return t("just_now");
+        if (minutes < 60) return t("minutes_ago", { count: minutes });
+        if (hours < 24) return t("hours_ago", { count: hours });
+        if (days < 7) return t("days_ago", { count: days });
+        return date.toLocaleDateString(currentLang === "en" ? "en-US" : "ko-KR", {
           year: "numeric",
           month: "long",
           day: "numeric",

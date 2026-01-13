@@ -80,6 +80,35 @@
       color: white;
     }
 
+    .lang-switch {
+      margin-top: 16px;
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .lang-btn {
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .lang-btn.active {
+      background: #fff;
+      color: #5b6be0;
+      border-color: #fff;
+      box-shadow: 0 6px 16px rgba(255, 255, 255, 0.35);
+    }
+
+    .lang-btn:hover {
+      transform: translateY(-1px);
+    }
+
     .content {
       background: rgba(255, 255, 255, 0.95);
       backdrop-filter: blur(10px);
@@ -179,79 +208,263 @@
 <body>
   <div class="container">
     <div class="header">
-      <h1>IT 뉴스 인사이트</h1><p>IT 업계 트렌드 분석과 해석</p>
+      <h1 data-i18n="title">IT 뉴스 인사이트</h1>
+      <p data-i18n="subtitle">IT 업계 트렌드 분석과 해석</p>
+      <div class="lang-switch" role="group" aria-label="Language switcher">
+        <button class="lang-btn" type="button" data-lang="ko">KR</button>
+        <button class="lang-btn" type="button" data-lang="en">EN</button>
+      </div>
     </div>
 
     <nav class="nav">
-      <a href="index.html">홈</a>
-      <a href="about.html">About</a>
-      <a href="insights.html">인사이트</a>
-      <a href="privacy.html">개인정보 처리방침</a>
-      <a href="terms.html">이용약관</a>
+      <a href="index.html" data-i18n="nav_home">홈</a>
+      <a href="about.html" data-i18n="nav_about">About</a>
+      <a href="insights.html" data-i18n="nav_insights">인사이트</a>
+      <a href="privacy.html" data-i18n="nav_privacy">개인정보 처리방침</a>
+      <a href="terms.html" data-i18n="nav_terms">이용약관</a>
     </nav>
 
     <div class="content">
-      <div class="date">2025년 1월 6일</div>
+      <div class="date" data-i18n="date">2025년 1월 6일</div>
 
-      <h2>IT 뉴스 큐레이션의 가치</h2>
-      <p>
+      <h2 data-i18n="section_value_title">IT 뉴스 큐레이션의 가치</h2>
+      <p data-i18n="section_value_p1">
         현대 IT 업계에서는 매일 수많은 뉴스와 정보가 쏟아집니다. 개발자와 IT 전문가들은 이러한 정보의 홍수 속에서 
         자신에게 필요한 핵심 정보를 빠르게 찾아야 합니다.
       </p>
 
       <div class="insight-box">
-        <h3 style="margin-top: 0; color: #667eea;">왜 뉴스 큐레이션이 필요한가?</h3>
-        <p style="margin-bottom: 0;">
+        <h3 style="margin-top: 0; color: #667eea;" data-i18n="section_need_title">왜 뉴스 큐레이션이 필요한가?</h3>
+        <p style="margin-bottom: 0;" data-i18n="section_need_p1">
           여러 뉴스 사이트를 직접 방문하는 것은 시간이 많이 걸립니다. 
           오늘의 IT 뉴스는 이러한 불편함을 해소하고, 사용자가 한 곳에서 다양한 IT 뉴스를 효율적으로 확인할 수 있도록 돕습니다.
         </p>
       </div>
 
-      <h2>주요 IT 트렌드 파악하기</h2>
-      <p>
+      <h2 data-i18n="section_trends_title">주요 IT 트렌드 파악하기</h2>
+      <p data-i18n="section_trends_p1">
         IT 업계의 트렌드를 파악하는 것은 개발자와 IT 전문가에게 매우 중요합니다. 
         최신 기술 동향, 시장 변화, 주요 기업의 움직임 등을 이해함으로써 더 나은 의사결정을 할 수 있습니다.
       </p>
 
-      <h3>한국어 뉴스의 중요성</h3>
-      <p>
+      <h3 data-i18n="section_ko_title">한국어 뉴스의 중요성</h3>
+      <p data-i18n="section_ko_p1">
         한국 IT 업계 종사자들에게는 한국어로 제공되는 뉴스가 특히 중요합니다. 
         국내 시장 동향, 정책 변화, 한국 기업의 기술 개발 등은 한국어 뉴스를 통해 더 정확하고 상세하게 파악할 수 있습니다.
       </p>
 
-      <h3>글로벌 트렌드 이해</h3>
-      <p>
+      <h3 data-i18n="section_global_title">글로벌 트렌드 이해</h3>
+      <p data-i18n="section_global_p1">
         동시에 글로벌 IT 트렌드를 이해하는 것도 필수적입니다. 
         TechCrunch, The Verge 등 해외 주요 IT 미디어의 뉴스를 통해 세계적인 기술 동향을 파악할 수 있습니다.
       </p>
 
-      <h2>효율적인 정보 소비</h2>
-      <p>
+      <h2 data-i18n="section_efficiency_title">효율적인 정보 소비</h2>
+      <p data-i18n="section_efficiency_p1">
         정보 과부하는 현대 사회의 큰 문제입니다. 오늘의 IT 뉴스는 다음과 같은 방식으로 효율적인 정보 소비를 돕습니다:
       </p>
       <ul>
-        <li><strong>언어별 필터링:</strong> 한국어와 영어 뉴스를 구분하여 제공</li>
-        <li><strong>실시간 업데이트:</strong> 매 시간마다 최신 뉴스 자동 수집</li>
-        <li><strong>간결한 요약:</strong> 핵심 정보만 빠르게 확인</li>
-        <li><strong>원본 링크 제공:</strong> 자세한 내용은 원본 기사로 이동</li>
+        <li data-i18n-html="efficiency_1"><strong>언어별 필터링:</strong> 한국어와 영어 뉴스를 구분하여 제공</li>
+        <li data-i18n-html="efficiency_2"><strong>실시간 업데이트:</strong> 매 시간마다 최신 뉴스 자동 수집</li>
+        <li data-i18n-html="efficiency_3"><strong>간결한 요약:</strong> 핵심 정보만 빠르게 확인</li>
+        <li data-i18n-html="efficiency_4"><strong>원본 링크 제공:</strong> 자세한 내용은 원본 기사로 이동</li>
       </ul>
 
-      <h2>앞으로의 계획</h2>
-      <p>
+      <h2 data-i18n="section_plan_title">앞으로의 계획</h2>
+      <p data-i18n="section_plan_p1">
         오늘의 IT 뉴스는 지속적으로 개선되어 나갈 예정입니다. 
         사용자 피드백을 바탕으로 더 나은 서비스를 제공하기 위해 노력하겠습니다.
       </p>
-      <p>
+      <p data-i18n="section_plan_p2">
         앞으로 추가될 기능으로는 뉴스 카테고리 분류, 인기 뉴스 추천, 검색 기능 등이 있습니다.
       </p>
     </div>
 
     <footer style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 24px 32px; text-align: center; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);">
       <p style="margin: 0; color: #666; font-size: 14px;">
-        © 2025 <a href="mailto:ashlight2510@gmail.com" style="color: #667eea; text-decoration: none; font-weight: 500;">AshLight</a>. All rights reserved.
+        © 2025 <a href="mailto:ashlight2510@gmail.com" style="color: #667eea; text-decoration: none; font-weight: 500;">AshLight</a>. <span data-i18n="footer_rights">All rights reserved.</span>
       </p>
     </footer>
   </div>
+
+  <script>
+    const translations = {
+      ko: {
+        meta_title: "IT 뉴스 인사이트 - 오늘의 IT 뉴스",
+        meta_description:
+          "IT 업계 트렌드 분석과 인사이트. 주요 IT 뉴스를 분석하고 해석하여 제공합니다.",
+        meta_og_title: "IT 뉴스 인사이트 - 오늘의 IT 뉴스",
+        meta_og_description: "IT 업계 트렌드 분석과 인사이트를 제공합니다.",
+        title: "IT 뉴스 인사이트",
+        subtitle: "IT 업계 트렌드 분석과 해석",
+        nav_home: "홈",
+        nav_about: "About",
+        nav_insights: "인사이트",
+        nav_privacy: "개인정보 처리방침",
+        nav_terms: "이용약관",
+        date: "2025년 1월 6일",
+        section_value_title: "IT 뉴스 큐레이션의 가치",
+        section_value_p1:
+          "현대 IT 업계에서는 매일 수많은 뉴스와 정보가 쏟아집니다. 개발자와 IT 전문가들은 이러한 정보의 홍수 속에서 자신에게 필요한 핵심 정보를 빠르게 찾아야 합니다.",
+        section_need_title: "왜 뉴스 큐레이션이 필요한가?",
+        section_need_p1:
+          "여러 뉴스 사이트를 직접 방문하는 것은 시간이 많이 걸립니다. 오늘의 IT 뉴스는 이러한 불편함을 해소하고, 사용자가 한 곳에서 다양한 IT 뉴스를 효율적으로 확인할 수 있도록 돕습니다.",
+        section_trends_title: "주요 IT 트렌드 파악하기",
+        section_trends_p1:
+          "IT 업계의 트렌드를 파악하는 것은 개발자와 IT 전문가에게 매우 중요합니다. 최신 기술 동향, 시장 변화, 주요 기업의 움직임 등을 이해함으로써 더 나은 의사결정을 할 수 있습니다.",
+        section_ko_title: "한국어 뉴스의 중요성",
+        section_ko_p1:
+          "한국 IT 업계 종사자들에게는 한국어로 제공되는 뉴스가 특히 중요합니다. 국내 시장 동향, 정책 변화, 한국 기업의 기술 개발 등은 한국어 뉴스를 통해 더 정확하고 상세하게 파악할 수 있습니다.",
+        section_global_title: "글로벌 트렌드 이해",
+        section_global_p1:
+          "동시에 글로벌 IT 트렌드를 이해하는 것도 필수적입니다. TechCrunch, The Verge 등 해외 주요 IT 미디어의 뉴스를 통해 세계적인 기술 동향을 파악할 수 있습니다.",
+        section_efficiency_title: "효율적인 정보 소비",
+        section_efficiency_p1:
+          "정보 과부하는 현대 사회의 큰 문제입니다. 오늘의 IT 뉴스는 다음과 같은 방식으로 효율적인 정보 소비를 돕습니다:",
+        efficiency_1:
+          "<strong>언어별 필터링:</strong> 한국어와 영어 뉴스를 구분하여 제공",
+        efficiency_2:
+          "<strong>실시간 업데이트:</strong> 매 시간마다 최신 뉴스 자동 수집",
+        efficiency_3: "<strong>간결한 요약:</strong> 핵심 정보만 빠르게 확인",
+        efficiency_4:
+          "<strong>원본 링크 제공:</strong> 자세한 내용은 원본 기사로 이동",
+        section_plan_title: "앞으로의 계획",
+        section_plan_p1:
+          "오늘의 IT 뉴스는 지속적으로 개선되어 나갈 예정입니다. 사용자 피드백을 바탕으로 더 나은 서비스를 제공하기 위해 노력하겠습니다.",
+        section_plan_p2:
+          "앞으로 추가될 기능으로는 뉴스 카테고리 분류, 인기 뉴스 추천, 검색 기능 등이 있습니다.",
+        footer_rights: "All rights reserved.",
+      },
+      en: {
+        meta_title: "IT News Insights — Today's IT News",
+        meta_description:
+          "Trend analysis and insights across the IT industry. We interpret and summarize key tech news.",
+        meta_og_title: "IT News Insights — Today's IT News",
+        meta_og_description:
+          "Insights and analysis across major IT trends.",
+        title: "IT News Insights",
+        subtitle: "Trend analysis and interpretation across the IT industry",
+        nav_home: "Home",
+        nav_about: "About",
+        nav_insights: "Insights",
+        nav_privacy: "Privacy Policy",
+        nav_terms: "Terms of Use",
+        date: "January 6, 2025",
+        section_value_title: "Why IT news curation matters",
+        section_value_p1:
+          "The IT industry is flooded with information every day. Developers and professionals need to quickly find what actually matters.",
+        section_need_title: "Why curation is essential",
+        section_need_p1:
+          "Visiting multiple news sites takes time. Today's IT News helps you scan diverse outlets efficiently in one place.",
+        section_trends_title: "Tracking key tech trends",
+        section_trends_p1:
+          "Understanding market shifts, technical advances, and major players helps professionals make better decisions.",
+        section_ko_title: "The importance of Korean sources",
+        section_ko_p1:
+          "For Korea-based professionals, localized news provides clearer visibility into policy changes, domestic markets, and local innovation.",
+        section_global_title: "Understanding global trends",
+        section_global_p1:
+          "International sources like TechCrunch and The Verge help you see worldwide technology movements and market shifts.",
+        section_efficiency_title: "Efficient information consumption",
+        section_efficiency_p1:
+          "Information overload is real. Today's IT News helps by:",
+        efficiency_1:
+          "<strong>Language filtering:</strong> separate Korean and English news",
+        efficiency_2:
+          "<strong>Real-time updates:</strong> hourly news collection",
+        efficiency_3: "<strong>Concise summaries:</strong> scan the essentials",
+        efficiency_4:
+          "<strong>Original links:</strong> jump to full articles when needed",
+        section_plan_title: "What's next",
+        section_plan_p1:
+          "We'll keep improving the service based on feedback to deliver a better experience.",
+        section_plan_p2:
+          "Planned features include topic categories, popular news picks, and search.",
+        footer_rights: "All rights reserved.",
+      },
+    };
+
+    const supportedLangs = ["ko", "en"];
+    let currentLang = "ko";
+
+    function t(key) {
+      const template =
+        translations[currentLang]?.[key] ?? translations.ko[key] ?? key;
+      return template;
+    }
+
+    function detectLang() {
+      const url = new URL(window.location.href);
+      const param = url.searchParams.get("lang");
+      const stored = localStorage.getItem("lang");
+      const browser = (navigator.language || "").toLowerCase();
+      const auto = browser.startsWith("en") ? "en" : "ko";
+      const lang = param || stored || auto;
+      return supportedLangs.includes(lang) ? lang : "ko";
+    }
+
+    function updateMeta() {
+      document.title = t("meta_title");
+      const setMeta = (selector, value) => {
+        const el = document.querySelector(selector);
+        if (el) el.setAttribute("content", value);
+      };
+      setMeta('meta[name="description"]', t("meta_description"));
+      setMeta('meta[property="og:title"]', t("meta_og_title"));
+      setMeta('meta[property="og:description"]', t("meta_og_description"));
+    }
+
+    function updateLocalLinks(lang) {
+      document.querySelectorAll('a[href]').forEach((link) => {
+        const href = link.getAttribute("href") || "";
+        if (/^https?:\\/\\//i.test(href)) return;
+        if (!href.endsWith(".html")) return;
+        const url = new URL(href, window.location.href);
+        url.searchParams.set("lang", lang);
+        link.setAttribute("href", url.pathname + url.search);
+      });
+    }
+
+    function applyTranslations(lang) {
+      currentLang = lang;
+      document.documentElement.lang = lang;
+
+      document.querySelectorAll("[data-i18n]").forEach((el) => {
+        const key = el.getAttribute("data-i18n");
+        if (key) el.textContent = t(key);
+      });
+      document.querySelectorAll("[data-i18n-html]").forEach((el) => {
+        const key = el.getAttribute("data-i18n-html");
+        if (key) el.innerHTML = t(key);
+      });
+
+      document.querySelectorAll(".lang-btn").forEach((btn) => {
+        btn.classList.toggle("active", btn.dataset.lang === lang);
+      });
+
+      updateLocalLinks(lang);
+      updateMeta();
+    }
+
+    function setLang(lang, { persist = true, updateUrl = true } = {}) {
+      const next = supportedLangs.includes(lang) ? lang : "ko";
+      if (persist) localStorage.setItem("lang", next);
+      if (updateUrl) {
+        const url = new URL(window.location.href);
+        url.searchParams.set("lang", next);
+        window.history.replaceState({}, "", url.toString());
+      }
+      applyTranslations(next);
+    }
+
+    document.querySelectorAll(".lang-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setLang(btn.dataset.lang, { persist: true, updateUrl: true });
+      });
+    });
+
+    setLang(detectLang(), { persist: true, updateUrl: false });
+  </script>
 
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -265,4 +478,3 @@
       
 </body>
 </html>
-

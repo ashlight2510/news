@@ -78,6 +78,35 @@
       color: white;
     }
 
+    .lang-switch {
+      margin-top: 16px;
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .lang-btn {
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .lang-btn.active {
+      background: #fff;
+      color: #5b6be0;
+      border-color: #fff;
+      box-shadow: 0 6px 16px rgba(255, 255, 255, 0.35);
+    }
+
+    .lang-btn:hover {
+      transform: translateY(-1px);
+    }
+
     .content {
       background: rgba(255, 255, 255, 0.95);
       backdrop-filter: blur(10px);
@@ -162,112 +191,327 @@
 </head>
 <body><div class="container">
     <div class="header">
-      <h1>개인정보 처리방침</h1>
-      <p>오늘의 IT 뉴스</p>
+      <h1 data-i18n="title">개인정보 처리방침</h1>
+      <p data-i18n="subtitle">오늘의 IT 뉴스</p>
+      <div class="lang-switch" role="group" aria-label="Language switcher">
+        <button class="lang-btn" type="button" data-lang="ko">KR</button>
+        <button class="lang-btn" type="button" data-lang="en">EN</button>
+      </div>
     </div>
 
     <nav class="nav">
-      <a href="index.html">홈</a>
-      <a href="about.html">About</a>
-      <a href="insights.html">인사이트</a>
-      <a href="privacy.html">개인정보 처리방침</a>
-      <a href="terms.html">이용약관</a>
+      <a href="index.html" data-i18n="nav_home">홈</a>
+      <a href="about.html" data-i18n="nav_about">About</a>
+      <a href="insights.html" data-i18n="nav_insights">인사이트</a>
+      <a href="privacy.html" data-i18n="nav_privacy">개인정보 처리방침</a>
+      <a href="terms.html" data-i18n="nav_terms">이용약관</a>
     </nav>
 
     <div class="content">
-      <div class="update-date">최종 수정일: 2025년 1월 6일</div>
+      <div class="update-date" data-i18n="update_date">
+        최종 수정일: 2025년 1월 6일
+      </div>
 
-      <h2>1. 개인정보의 처리 목적</h2>
-      <p>
+      <h2 data-i18n="section_1_title">1. 개인정보의 처리 목적</h2>
+      <p data-i18n="section_1_p1">
         오늘의 IT 뉴스('https://news.funnyfunny.cloud' 이하 '서비스')는 다음의 목적을 위하여 개인정보를 처리합니다. 
         처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 
         개인정보 보호법 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.
       </p>
       <ul>
-        <li>서비스 제공: IT 뉴스 큐레이션 서비스 제공</li>
-        <li>서비스 개선: 사용자 경험 향상을 위한 통계 분석</li>
+        <li data-i18n="section_1_li_1">서비스 제공: IT 뉴스 큐레이션 서비스 제공</li>
+        <li data-i18n="section_1_li_2">서비스 개선: 사용자 경험 향상을 위한 통계 분석</li>
       </ul>
 
-      <h2>2. 개인정보의 처리 및 보유기간</h2>
-      <p>
+      <h2 data-i18n="section_2_title">2. 개인정보의 처리 및 보유기간</h2>
+      <p data-i18n="section_2_p1">
         본 서비스는 뉴스 큐레이션 서비스로, 사용자의 개인정보를 직접 수집하지 않습니다.
       </p>
-      <p>
+      <p data-i18n="section_2_p2">
         다만, 서비스 이용 과정에서 다음과 같은 정보가 자동으로 생성되어 수집될 수 있습니다:
       </p>
       <ul>
-        <li>IP 주소, 쿠키, 방문 일시, 서비스 이용 기록 등</li>
+        <li data-i18n="section_2_li_1">IP 주소, 쿠키, 방문 일시, 서비스 이용 기록 등</li>
       </ul>
-      <p>
+      <p data-i18n="section_2_p3">
         위 정보는 서비스 제공 및 개선을 위한 목적으로만 사용되며, 법령에 따라 보관 기간이 정해진 경우 해당 기간 동안 보관합니다.
       </p>
 
-      <h2>3. 개인정보의 제3자 제공</h2>
-      <p>
+      <h2 data-i18n="section_3_title">3. 개인정보의 제3자 제공</h2>
+      <p data-i18n="section_3_p1">
         본 서비스는 원칙적으로 사용자의 개인정보를 제3자에게 제공하지 않습니다.
       </p>
-      <p>
+      <p data-i18n="section_3_p2">
         다만, 다음의 경우에는 예외로 합니다:
       </p>
       <ul>
-        <li>법령에 의해 수사상의 목적으로 관계기관으로부터의 요구가 있는 경우</li>
-        <li>통계작성, 학술연구 또는 시장조사를 위하여 필요한 경우로서 특정 개인을 식별할 수 없는 형태로 제공하는 경우</li>
+        <li data-i18n="section_3_li_1">법령에 의해 수사상의 목적으로 관계기관으로부터의 요구가 있는 경우</li>
+        <li data-i18n="section_3_li_2">통계작성, 학술연구 또는 시장조사를 위하여 필요한 경우로서 특정 개인을 식별할 수 없는 형태로 제공하는 경우</li>
       </ul>
 
-      <h2>4. 개인정보처리 위탁</h2>
-      <p>
+      <h2 data-i18n="section_4_title">4. 개인정보처리 위탁</h2>
+      <p data-i18n="section_4_p1">
         본 서비스는 개인정보 처리업무를 외부에 위탁하지 않습니다.
       </p>
 
-      <h2>5. 정보주체의 권리·의무 및 행사방법</h2>
-      <p>
+      <h2 data-i18n="section_5_title">5. 정보주체의 권리·의무 및 행사방법</h2>
+      <p data-i18n="section_5_p1">
         사용자는 개인정보 열람·정정·삭제·처리정지 요구 등의 권리를 행사할 수 있습니다.
       </p>
-      <p>
+      <p data-i18n="section_5_p2">
         권리 행사는 아래 연락처로 요청하실 수 있습니다:
       </p>
       <ul>
-        <li>이메일: <a href="mailto:ashlight2510@gmail.com">ashlight2510@gmail.com</a></li>
+        <li data-i18n-html="section_5_li_1">이메일: <a href="mailto:ashlight2510@gmail.com">ashlight2510@gmail.com</a></li>
       </ul>
 
-      <h2>6. 개인정보의 파기</h2>
-      <p>
+      <h2 data-i18n="section_6_title">6. 개인정보의 파기</h2>
+      <p data-i18n="section_6_p1">
         본 서비스는 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 
         지체없이 해당 개인정보를 파기합니다.
       </p>
 
-      <h2>7. 개인정보 보호책임자</h2>
-      <p>
+      <h2 data-i18n="section_7_title">7. 개인정보 보호책임자</h2>
+      <p data-i18n="section_7_p1">
         본 서비스의 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 
         불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
       </p>
       <ul>
-        <li>이름: AshLight</li>
-        <li>이메일: <a href="mailto:ashlight2510@gmail.com">ashlight2510@gmail.com</a></li>
+        <li data-i18n="section_7_li_1">이름: AshLight</li>
+        <li data-i18n-html="section_7_li_2">이메일: <a href="mailto:ashlight2510@gmail.com">ashlight2510@gmail.com</a></li>
       </ul>
 
-      <h2>8. 개인정보 처리방침 변경</h2>
-      <p>
+      <h2 data-i18n="section_8_title">8. 개인정보 처리방침 변경</h2>
+      <p data-i18n="section_8_p1">
         이 개인정보 처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 
         변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
       </p>
 
-      <h2>9. 쿠키 사용</h2>
-      <p>
+      <h2 data-i18n="section_9_title">9. 쿠키 사용</h2>
+      <p data-i18n="section_9_p1">
         본 서비스는 사용자에게 개인화된 서비스를 제공하기 위해 쿠키를 사용할 수 있습니다.
         쿠키는 웹사이트를 방문할 때 사용자의 브라우저에 저장되는 작은 텍스트 파일입니다.
       </p>
-      <p>
+      <p data-i18n="section_9_p2">
         사용자는 쿠키 설정에 대한 선택권을 가지고 있으며, 웹브라우저에서 쿠키 허용, 거부, 삭제 등을 설정할 수 있습니다.
       </p>
     </div>
 
     <footer style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 24px 32px; text-align: center; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);">
       <p style="margin: 0; color: #666; font-size: 14px;">
-        © 2025 <a href="mailto:ashlight2510@gmail.com" style="color: #667eea; text-decoration: none; font-weight: 500;">AshLight</a>. All rights reserved.
+        © 2025 <a href="mailto:ashlight2510@gmail.com" style="color: #667eea; text-decoration: none; font-weight: 500;">AshLight</a>. <span data-i18n="footer_rights">All rights reserved.</span>
       </p>
     </footer>
   </div>
+
+  <script>
+    const translations = {
+      ko: {
+        meta_title: "개인정보 처리방침 - 오늘의 IT 뉴스",
+        meta_description:
+          "오늘의 IT 뉴스 개인정보 처리방침. 사용자의 개인정보 보호를 위한 정책입니다.",
+        meta_og_title: "개인정보 처리방침 - 오늘의 IT 뉴스",
+        title: "개인정보 처리방침",
+        subtitle: "오늘의 IT 뉴스",
+        nav_home: "홈",
+        nav_about: "About",
+        nav_insights: "인사이트",
+        nav_privacy: "개인정보 처리방침",
+        nav_terms: "이용약관",
+        update_date: "최종 수정일: 2025년 1월 6일",
+        section_1_title: "1. 개인정보의 처리 목적",
+        section_1_p1:
+          "오늘의 IT 뉴스('https://news.funnyfunny.cloud' 이하 '서비스')는 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 개인정보 보호법 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.",
+        section_1_li_1: "서비스 제공: IT 뉴스 큐레이션 서비스 제공",
+        section_1_li_2: "서비스 개선: 사용자 경험 향상을 위한 통계 분석",
+        section_2_title: "2. 개인정보의 처리 및 보유기간",
+        section_2_p1:
+          "본 서비스는 뉴스 큐레이션 서비스로, 사용자의 개인정보를 직접 수집하지 않습니다.",
+        section_2_p2:
+          "다만, 서비스 이용 과정에서 다음과 같은 정보가 자동으로 생성되어 수집될 수 있습니다:",
+        section_2_li_1: "IP 주소, 쿠키, 방문 일시, 서비스 이용 기록 등",
+        section_2_p3:
+          "위 정보는 서비스 제공 및 개선을 위한 목적으로만 사용되며, 법령에 따라 보관 기간이 정해진 경우 해당 기간 동안 보관합니다.",
+        section_3_title: "3. 개인정보의 제3자 제공",
+        section_3_p1:
+          "본 서비스는 원칙적으로 사용자의 개인정보를 제3자에게 제공하지 않습니다.",
+        section_3_p2: "다만, 다음의 경우에는 예외로 합니다:",
+        section_3_li_1:
+          "법령에 의해 수사상의 목적으로 관계기관으로부터의 요구가 있는 경우",
+        section_3_li_2:
+          "통계작성, 학술연구 또는 시장조사를 위하여 필요한 경우로서 특정 개인을 식별할 수 없는 형태로 제공하는 경우",
+        section_4_title: "4. 개인정보처리 위탁",
+        section_4_p1: "본 서비스는 개인정보 처리업무를 외부에 위탁하지 않습니다.",
+        section_5_title: "5. 정보주체의 권리·의무 및 행사방법",
+        section_5_p1:
+          "사용자는 개인정보 열람·정정·삭제·처리정지 요구 등의 권리를 행사할 수 있습니다.",
+        section_5_p2: "권리 행사는 아래 연락처로 요청하실 수 있습니다:",
+        section_5_li_1:
+          "이메일: <a href=\"mailto:ashlight2510@gmail.com\">ashlight2510@gmail.com</a>",
+        section_6_title: "6. 개인정보의 파기",
+        section_6_p1:
+          "본 서비스는 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다.",
+        section_7_title: "7. 개인정보 보호책임자",
+        section_7_p1:
+          "본 서비스의 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.",
+        section_7_li_1: "이름: AshLight",
+        section_7_li_2:
+          "이메일: <a href=\"mailto:ashlight2510@gmail.com\">ashlight2510@gmail.com</a>",
+        section_8_title: "8. 개인정보 처리방침 변경",
+        section_8_p1:
+          "이 개인정보 처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.",
+        section_9_title: "9. 쿠키 사용",
+        section_9_p1:
+          "본 서비스는 사용자에게 개인화된 서비스를 제공하기 위해 쿠키를 사용할 수 있습니다. 쿠키는 웹사이트를 방문할 때 사용자의 브라우저에 저장되는 작은 텍스트 파일입니다.",
+        section_9_p2:
+          "사용자는 쿠키 설정에 대한 선택권을 가지고 있으며, 웹브라우저에서 쿠키 허용, 거부, 삭제 등을 설정할 수 있습니다.",
+        footer_rights: "All rights reserved.",
+      },
+      en: {
+        meta_title: "Privacy Policy — Today's IT News",
+        meta_description:
+          "Privacy policy for Today's IT News. Our policy explains how we handle personal information.",
+        meta_og_title: "Privacy Policy — Today's IT News",
+        title: "Privacy Policy",
+        subtitle: "Today's IT News",
+        nav_home: "Home",
+        nav_about: "About",
+        nav_insights: "Insights",
+        nav_privacy: "Privacy Policy",
+        nav_terms: "Terms of Use",
+        update_date: "Last updated: Jan 6, 2025",
+        section_1_title: "1. Purpose of processing personal data",
+        section_1_p1:
+          "Today's IT News (the “Service”) processes personal data for the purposes below. We do not use data for other purposes, and we will take required measures if the purpose changes.",
+        section_1_li_1: "Service delivery: Provide IT news curation",
+        section_1_li_2: "Service improvement: Statistical analysis to enhance UX",
+        section_2_title: "2. Retention period",
+        section_2_p1:
+          "This Service does not directly collect personal information.",
+        section_2_p2:
+          "However, the following information may be automatically generated and collected:",
+        section_2_li_1:
+          "IP address, cookies, visit time, and service usage records",
+        section_2_p3:
+          "These data are used only to provide and improve the Service and are retained as required by law.",
+        section_3_title: "3. Provision to third parties",
+        section_3_p1:
+          "We do not provide personal data to third parties by default.",
+        section_3_p2: "Exceptions include:",
+        section_3_li_1:
+          "When required by law or by lawful requests from authorities",
+        section_3_li_2:
+          "When provided in a non-identifiable form for statistics, academic research, or market research",
+        section_4_title: "4. Outsourcing of processing",
+        section_4_p1:
+          "We do not outsource personal data processing.",
+        section_5_title: "5. Data subject rights",
+        section_5_p1:
+          "Users may request access, correction, deletion, or suspension of processing.",
+        section_5_p2: "Please contact us at:",
+        section_5_li_1:
+          "Email: <a href=\"mailto:ashlight2510@gmail.com\">ashlight2510@gmail.com</a>",
+        section_6_title: "6. Disposal of personal data",
+        section_6_p1:
+          "We will dispose of personal data without delay when it is no longer necessary.",
+        section_7_title: "7. Privacy officer",
+        section_7_p1:
+          "We designate the following privacy officer to handle inquiries and complaints:",
+        section_7_li_1: "Name: AshLight",
+        section_7_li_2:
+          "Email: <a href=\"mailto:ashlight2510@gmail.com\">ashlight2510@gmail.com</a>",
+        section_8_title: "8. Changes to this policy",
+        section_8_p1:
+          "This policy is effective from the stated date. If changes are made, we will announce them at least 7 days in advance.",
+        section_9_title: "9. Cookies",
+        section_9_p1:
+          "We may use cookies to provide personalized services. Cookies are small text files stored in your browser.",
+        section_9_p2:
+          "You can choose to allow, block, or delete cookies in your browser settings.",
+        footer_rights: "All rights reserved.",
+      },
+    };
+
+    const supportedLangs = ["ko", "en"];
+    let currentLang = "ko";
+
+    function t(key) {
+      const template =
+        translations[currentLang]?.[key] ?? translations.ko[key] ?? key;
+      return template;
+    }
+
+    function detectLang() {
+      const url = new URL(window.location.href);
+      const param = url.searchParams.get("lang");
+      const stored = localStorage.getItem("lang");
+      const browser = (navigator.language || "").toLowerCase();
+      const auto = browser.startsWith("en") ? "en" : "ko";
+      const lang = param || stored || auto;
+      return supportedLangs.includes(lang) ? lang : "ko";
+    }
+
+    function updateMeta() {
+      document.title = t("meta_title");
+      const setMeta = (selector, value) => {
+        const el = document.querySelector(selector);
+        if (el) el.setAttribute("content", value);
+      };
+      setMeta('meta[name="description"]', t("meta_description"));
+      setMeta('meta[property="og:title"]', t("meta_og_title"));
+    }
+
+    function updateLocalLinks(lang) {
+      document.querySelectorAll("a[href]").forEach((link) => {
+        const href = link.getAttribute("href") || "";
+        if (/^https?:\\/\\//i.test(href)) return;
+        if (!href.endsWith(".html")) return;
+        const url = new URL(href, window.location.href);
+        url.searchParams.set("lang", lang);
+        link.setAttribute("href", url.pathname + url.search);
+      });
+    }
+
+    function applyTranslations(lang) {
+      currentLang = lang;
+      document.documentElement.lang = lang;
+
+      document.querySelectorAll("[data-i18n]").forEach((el) => {
+        const key = el.getAttribute("data-i18n");
+        if (key) el.textContent = t(key);
+      });
+      document.querySelectorAll("[data-i18n-html]").forEach((el) => {
+        const key = el.getAttribute("data-i18n-html");
+        if (key) el.innerHTML = t(key);
+      });
+
+      document.querySelectorAll(".lang-btn").forEach((btn) => {
+        btn.classList.toggle("active", btn.dataset.lang === lang);
+      });
+
+      updateLocalLinks(lang);
+      updateMeta();
+    }
+
+    function setLang(lang, { persist = true, updateUrl = true } = {}) {
+      const next = supportedLangs.includes(lang) ? lang : "ko";
+      if (persist) localStorage.setItem("lang", next);
+      if (updateUrl) {
+        const url = new URL(window.location.href);
+        url.searchParams.set("lang", next);
+        window.history.replaceState({}, "", url.toString());
+      }
+      applyTranslations(next);
+    }
+
+    document.querySelectorAll(".lang-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setLang(btn.dataset.lang, { persist: true, updateUrl: true });
+      });
+    });
+
+    setLang(detectLang(), { persist: true, updateUrl: false });
+  </script>
 
 <ins class="adsbygoogle"
      style="display:block; text-align:center"
@@ -280,4 +524,3 @@
   
 </body>
 </html>
-
