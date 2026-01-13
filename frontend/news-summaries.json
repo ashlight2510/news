@@ -1,6 +1,109 @@
 {
-  "generatedAt": "2026-01-13T12:57:14.236Z",
+  "generatedAt": "2026-01-13T18:36:38.361Z",
   "articles": [
+    {
+      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+      "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 17:14:08 +0000",
+      "description": "1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.",
+      "language": "en",
+      "summary": "1X has unveiled an advanced humanoid robot capable of autonomously learning from the world model.",
+      "points": [
+        "The company introduced a sophisticated three-dimensional 'world' that mimics reality, equipped with cameras and sensors on its own robots. This is aimed to teach AI without human intervention or predefined programs as per the CEO.",
+        "1X has also developed an innovative system called MATRIS (Multi-Agent Transferable Representations through Immersive Simulations), which allows multiple agents, like drones and robots with different capabilities to learn from shared experiences within this virtual world. It's designed for collaborative learning between various AI systems.",
+        "The platform supports a variety of tasks that could have significant applications in sectors such as agriculture or the military."
+      ],
+      "insight": "This development signifies progress towards more autonomous and versatile robots capable of teaching themselves new skills within shared environments, potentially reducing reliance on human programmers. The application for diverse fields indicates a broadened scope beyond conventional uses in industry settings."
+    },
+    {
+      "title": "Google’s update for Veo 3.1 lets users create vertical videos through reference images",
+      "link": "https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 17:00:00 +0000",
+      "description": "Google is now allowing users to create vertical videos using references image.",
+      "language": "en",
+      "summary": "Veo 3.1 update by Google introduces a feature enabling creation of vertical video content directly from reference images.",
+      "points": [
+        "Google's Veo app now supports the generation of videos in vertical format, guided solely by users’ own photos as references."
+      ],
+      "insight": "This update reflects a broader trend towards diverse video content creation tools that cater to different storytelling formats and devices. It could potentially influence how brands utilize visual media across various platforms in the future, aligning more with vertical screens such as those on smartphones."
+    },
+    {
+      "title": "India reportedly tells quick-commerce firms to drop 10-minute delivery promise",
+      "link": "https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 16:27:46 +0000",
+      "description": "India's labor ministry is pushing the country's booming quick-commerce sector to prioritize the wellness and safety of its gig workers.",
+      "language": "en",
+      "summary": "The Indian government has instructed fast delivery companies in India to stop promising same-day deliveries within just ten minutes due to concerns over worker exploitation.",
+      "points": [
+        "India's labor ministry is urging quick commerce businesses to focus on the health and safety of gig workers rather than adhering strictly to short delivery timelines like a 10-minute promise for speedy deliveries",
+        "The government fears that such unrealistic promises exploit workers, leading them into unsafe working conditions in pursuit of meeting customer demands.",
+        "While the drive emphasizes worker wellbeing over rapid delivery times, it does not necessarily mean a compromise on efficiency or speed for consumers."
+      ],
+      "insight": "This development highlights increasing scrutiny and regulation around gig economy practices worldwide. It underscores growing concerns about workers' rights in the pursuit of operational convenience and may inspire similar actions globally, potentially leading to a shift towards more sustainable delivery promises."
+    },
+    {
+      "title": "ElevenLabs CEO says the voice AI startup crossed $330M ARR last year",
+      "link": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 16:15:22 +0000",
+      "description": "The company said it took only five months to go from $200 million to $330 million in annual recurring revenue.",
+      "language": "en",
+      "summary": "ElevenLabs reported crossing an impressive ARR of $330M last year and achieved this growth within five months.",
+      "points": [
+        "Annual Recurring Revenue (ARR) reached $330 million for ElevenLabs in the past fiscal year",
+        "The company experienced rapid revenue growth, doubling its ARR in just nine months and adding another quarter within five additional months of reporting",
+        "ElevenLabs attributes this success to a combination of securing large customer contracts with global Fortune 50 companies and their own robust expansion efforts"
+      ],
+      "insight": "The swift growth in ElevenLab'sem ARR highlights the increasing demand for voice AI technology, indicating that enterprises are investing more heavily to incorporate such technologies into customer interactions. This trend suggests a shift towards seamless communication and personalized experiences across industries."
+    },
+    {
+      "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
+      "link": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 14:40:19 +0000",
+      "description": "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac.",
+      "language": "en",
+      "summary": "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac",
+      "points": [
+        "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+      "link": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 13:30:00 +0000",
+      "description": "Deepgram is raising its Series C round at a $1.3 billion valuation.",
+      "language": "en",
+      "summary": "Amidst the pandemic-driven shift to remote work and online learning, Deepgram announced a significant funding round of $130 million at an enterprise value of over $1 billion.",
+      "points": [
+        "Deepgram secures Series C financing worth $130 million with VC firm Sequoia Capital",
+        "The company is valued at more than $1.3 billion in this round, including Deepgram's valuation and the proceeds from selling its AI-powered speech to text business unit.",
+        "Deepgram acquired a Y Combinator artificial intelligence startup called Ollie for an unspecified sum"
+      ],
+      "insight": "The funding round, alongside Deepgram'sidecark acquisition of the AI startup 'Ollie', indicates significant investor confidence in enterprise-level speech recognition technologies. It underscsues a growing market trend where businesses seek remote work and online learning solutions powered by advanced IT/AI."
+    },
+    {
+      "title": "Slackbot is an AI agent now",
+      "link": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 13 Jan 2026 13:00:00 +0000",
+      "description": "Salesforce unveils Slackbot, a new AI agent that allows users to complete tasks across multiple enterprise applications from Slack.",
+      "language": "en",
+      "summary": "Salesforce has introduced an artificial intelligence (AI) tool named 'Slackbot' which enables the execution of various business operations within different systems via a singular platform – Slack.",
+      "points": [
+        "The launching of Salesforce’ end-to-end AI assistant, dubbed as 'Slackbot'.",
+        "It allows users to perform multiple enterprise tasks from just one application - Slack. This includes handling routine queries and integrating with other systems seamlessly.",
+        "With the goal to improve productivity across several workstreams using automation."
+      ],
+      "insight": "This move by Salesforce could lead to a widespread adoption of AI-driven communication tools in enterprises, potentially revolutionizing task management and workflow efficiency within tech companies while also emphasizing the growing trend towards integration across platforms for business operations."
+    },
     {
       "title": "Superorganism raises $25M to back biodiversity startups",
       "link": "https://techcrunch.com/2026/01/13/superorganism-raises-25m-to-back-biodiversity-startups/",
@@ -639,111 +742,6 @@
       "points": [
         "중소기업에 국내 랜섬웨어 대응 솔루션 무상 지원, 체험 기회 제공‘랜섬웨어 대응 솔루션 무상지원 사업’ 올해도 추진[보안뉴스 강현주 기자] “그동안 막연하게 인식해 왔던 보안 솔루...",
         "이번 사업을 계기로 자체 예산을 편성해 랜섬웨어 대응 솔루션을 도입하게 됐습니다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "광주 서구, 서창천 산책로에 스마트 자동차단장치 설치... 하천 범람하면 자동 차단",
-      "link": "http://www.boannews.com/media/view.asp?idx=141446&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 16:30:00 +0900",
-      "description": "기상이변 대응 위해 원격 제어 시스템 구축...인명피해 사전 예방 기대[보안뉴스 강초희 기자] 광주광역시 서구(구청장 김이강)는 집중호우 시 하천 범람으로 인한 안전사고를 예방하기 위해 금호동·벽진동 일원 서창천 산책로 입구 9곳에 스마트 자동차단장치를 설치한다.이번 사업은 최근 기후변화로 인한 국지성 호우가 빈번히 발생함에 따라 재난에 선제적으로 대비하고",
-      "language": "ko",
-      "summary": "기상이변 대응 위해 원격 제어 시스템 구축. 인명피해 사전 예방 기대[보안뉴스 강초희 기자] 광주광역시 서구(구청장 김이강)는 집중호우 시 하천 범람으로 인한 안전사고를 예방하기 위해 금호동·벽진동 일원 서창천 산책로 입구 9곳에 스마트 자동차단장치를 설치한다...",
-      "points": [
-        "기상이변 대응 위해 원격 제어 시스템 구축",
-        "인명피해 사전 예방 기대[보안뉴스 강초희 기자] 광주광역시 서구(구청장 김이강)는 집중호우 시 하천 범람으로 인한 안전사고를 예방하기 위해 금호동·벽진동 일원 서창천 산책로 입구 ...",
-        "이번 사업은 최근 기후변화로 인한 국지성 호우가 빈번히 발생함에 따라 재난에 선제적으로 대비하고"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“지역 지키는 파수꾼” 미추홀구, CCTV 실시간 관제로 주민생활 안전망 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=141447&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 16:28:00 +0900",
-      "description": "2025년 실시간 관제로 범죄 사건 112건 해결하며 지역 파수꾼 역할공원에 쓰러진 주민 발견한 관제요원이 119에 신속 신고하는 등 주민 안전 기여[보안뉴스 강초희 기자] 인천 미추홀구(구청장 이영훈)는 방범 취약지역에 설치한 ‘방범용 CCTV’가 범죄 예방 및 주민 안전을 지키는 든든한 파수꾼 역할을 하고 있다고 밝혔다. 2025년 12월 기준으로 구",
-      "language": "ko",
-      "summary": "2025년 실시간 관제로 범죄 사건 112건 해결하며 지역 파수꾼 역할공원에 쓰러진 주민 발견한 관제요원이 119에 신속 신고하는 등 주민 안전 기여[보안뉴스 강초희 기자] 인천 미추홀구(구청장 이영훈)는 방범 취약지역에 설치한 ‘방범용 CCTV’가 범죄 예방 및 주민 안전을 지키는 든든한 파수꾼 역할을 하고 있다고 밝혔다. 2025년 12월 기준으로 구",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[쿠팡 해킹] 경찰 “쿠팡 개인정보 유출 3000건 훨씬 넘어”... 로저스 대표 1차 소환 불응",
-      "link": "http://www.boannews.com/media/view.asp?idx=141445&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 16:15:00 +0900",
-      "description": "2차소환 조율·출국정지 검토 중[보안뉴스 강현주 기자] 경찰이 쿠팡 개인정보 유출 관련 “3000건보다 훨씬 많은 것으로 보고있다”고 밝혔다. 수사를 받고 있는 해롤드 로저스 한국 쿠팡 임시대표가 경찰의 1차 출석 요구에 불응했다. 박정보 서울경찰청장은 12일 정례 기자간담회에서 이 같이 발표했다. 박 청장은 “(로저스 대표가) 1차 출석을 불응했고 2차",
-      "language": "ko",
-      "summary": "2차소환 조율·출국정지 검토 중[보안뉴스 강현주 기자] 경찰이 쿠팡 개인정보 유출 관련 “3000건보다 훨씬 많은 것으로 보고있다”고 밝혔다. 수사를 받고 있는 해롤드 로저스 한국 쿠팡 임시대표가 경찰의 1차 출석 요구에 불응했다...",
-      "points": [
-        "2차소환 조율·출국정지 검토 중[보안뉴스 강현주 기자] 경찰이 쿠팡 개인정보 유출 관련 “3000건보다 훨씬 많은 것으로 보고있다”고 밝혔다",
-        "수사를 받고 있는 해롤드 로저스 한국 쿠팡 임시대표가 경찰의 1차 출석 요구에 불응했다",
-        "박정보 서울경찰청장은 12일 정례 기자간담회에서 이 같이 발표했다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[AI와 보안] 자율주행·IoT·몰카... ‘생활’에 훅 들어온 AI 보안, CES 2026 빛냈다",
-      "link": "http://www.boannews.com/media/view.asp?idx=141440&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 16:00:00 +0900",
-      "description": "[3줄요약] 1. AI 기반 자율주행, 접근 단속으로 차량·이용자 보안2. 일상 속 AI 기기·몰카로부터 개인정보·회사 기밀 등 보안3. “생성형 AI에서 ‘작동하는 AI’로 본격 전환”[보안뉴스 강현주 기자] 라스베이거스에서 9일(현지시간) 화려한 막을 내린 CES 2026은 인공지능(AI)이 생활 속 현실로 다가왔음을 알려준 행사였다. 이를 뒷받침 해주",
-      "language": "ko",
-      "summary": "AI 기반 자율주행, 접근 단속으로 차량·이용자 보안2. 일상 속 AI 기기·몰카로부터 개인정보·회사 기밀 등 보안3...",
-      "points": [
-        "AI 기반 자율주행, 접근 단속으로 차량·이용자 보안2",
-        "일상 속 AI 기기·몰카로부터 개인정보·회사 기밀 등 보안3",
-        "“생성형 AI에서 ‘작동하는 AI’로 본격 전환”[보안뉴스 강현주 기자] 라스베이거스에서 9일(현지시간) 화려한 막을 내린 CES 2026은 인공지능(AI)이 생활 속 현실로 다가..."
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[부고] 정희수 리얼시큐 대표 부친상",
-      "link": "http://www.boannews.com/media/view.asp?idx=141444&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 15:54:00 +0900",
-      "description": "△내용: 정희수 리얼시큐 대표 부친상△고인: 故 정덕모님△빈소: 부산대동병원장례식장VIP△발인: 2026년 1월 14일(수) 10시 00분△장지: 부산영락공원[강현주 기자(jjoo@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "△내용: 정희수 리얼시큐 대표 부친상△고인: 故 정덕모님△빈소: 부산대동병원장례식장VIP△발인: 2026년 1월 14일(수) 10시 00분△장지: 부산영락공원[강현주 기자(jjoo@boannews. com) 무단전재-재배포금지>",
-      "points": [
-        "△내용: 정희수 리얼시큐 대표 부친상△고인: 故 정덕모님△빈소: 부산대동병원장례식장VIP△발인: 2026년 1월 14일(수) 10시 00분△장지: 부산영락공원[강현주 기자(jjoo...",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 피지컬 AI에서 보안 빼면 ‘깡통’",
-      "link": "http://www.boannews.com/media/view.asp?idx=141441&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 15:40:00 +0900",
-      "description": "로봇, 자율주행차 등 물리적 세계 직접 움직이는 단계 진입했으나 ‘보안’ 허점[보안뉴스= 배종찬 인사이트케이 연구소장] 현대자동차그룹이 세계 최대 IT·가전 전시회인 CES 2026에서 AI 로봇 제품과 통합 솔루션을 대거 공개하며 피지컬 인공지능(AI) 시대의 비전을 제시하며 주목을 받았다. 현대차 계열인 보스턴 다이내믹스의 휴머노이드 로봇 ‘아틀라스’(",
-      "language": "ko",
-      "summary": "로봇, 자율주행차 등 물리적 세계 직접 움직이는 단계 진입했으나 ‘보안’ 허점[보안뉴스= 배종찬 인사이트케이 연구소장] 현대자동차그룹이 세계 최대 IT·가전 전시회인 CES 2026에서 AI 로봇 제품과 통합 솔루션을 대거 공개하며 피지컬 인공지능(AI) 시대의 비전을 제시하며 주목을 받았다. 현대차 계열인 보스턴 다이내믹스의 휴머노이드 로봇 ‘아틀라스’(",
-      "points": [
-        "현대차 계열인 보스턴 다이내믹스의 휴머노이드 로봇 ‘아틀라스’(",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[AI와 보안] 무디스의 새해 경고... “AI 무장 해커, 가상자산 탈취 위협 대응해야”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141436&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 12 Jan 2026 15:26:00 +0900",
-      "description": "AI, 사이버 보안 가장 큰 위협... 올해 AI 위협 막을 글로벌 협력 본격화[보안뉴스 김형근 기자] 글로벌 신용평가사 무디스가 2026년 AI 기술을 활용한 사이버 공격이 폭발적으로 증가할 것이란 전망을 내놓았다.무디스는 공격자들이 최첨단 기술을 능숙하게 다루고 있어 현대 사이버 위협은 더욱 정교해지고 있으며, 이로 인해 정부와 기업은 변화하는 위협 지",
-      "language": "ko",
-      "summary": "AI, 사이버 보안 가장 큰 위협. 올해 AI 위협 막을 글로벌 협력 본격화[보안뉴스 김형근 기자] 글로벌 신용평가사 무디스가 2026년 AI 기술을 활용한 사이버 공격이 폭발적으로 증가할 것이란 전망을 내놓았다...",
-      "points": [
-        "올해 AI 위협 막을 글로벌 협력 본격화[보안뉴스 김형근 기자] 글로벌 신용평가사 무디스가 2026년 AI 기술을 활용한 사이버 공격이 폭발적으로 증가할 것이란 전망을 내놓았다",
-        "무디스는 공격자들이 최첨단 기술을 능숙하게 다루고 있어 현대 사이버 위협은 더욱 정교해지고 있으며, 이로 인해 정부와 기업은 변화하는 위협 지",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
