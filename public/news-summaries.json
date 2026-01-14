@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-01-14T12:59:03.204Z",
+  "generatedAt": "2026-01-14T18:40:28.864Z",
   "articles": [
+    {
+      "title": "Bandcamp takes a stand against AI music, banning it from the platform",
+      "link": "https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 17:06:04 +0000",
+      "description": "\"We want musicians to keep making music, and for fans to have confidence that the music they find on Bandcamp was created by humans,\" the company said.",
+      "language": "en",
+      "summary": "Bandcamp has announced a policy banning AI-generated music from their platform, emphasizing support for human musicians.",
+      "points": [
+        "Bandcamp prohibits the upload of nonhuman-created or -performed musical works to ensure authenticity and artist confidence.",
+        "The company' endorses original content created by humans exclusively on its digital distribution platform.",
+        "This decision has sparked a conversation about copyright infringement, as AI music often uses human compositions without attribution."
+      ],
+      "insight": "Bandcamp’s ban highlights the growing debate over intellectual property rights and ethical considerations regarding artificial intelligence within the technology industry."
+    },
+    {
+      "title": "Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B",
+      "link": "https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 16:39:49 +0000",
+      "description": "Type One Energy has raised more than $160 million from investors to date. The new funding will help the company further refine its stellarator technology.",
+      "language": "en",
+      "summary": "Bill Gates-backed Type One Energy has successfully raised $87 million in a recent investment round to advance their revolutionary fusion reactor design known as stellarator technology.",
+      "points": [
+        "Type One Energy, led by Bill Gates's funding and co-founded by Nobel Laureate Martin Greenwald, has secured more than $87 million in this latest investment round.",
+        "The company plans to use the new funds for further refinement of their stellarator technology - a fusion reactor design with the potential to deliver clean energy without long term radioactive waste concerns unlike traditional nuclear reactors.",
+        "With more than $160 million raised in total, Type One Energy has demonstrated significant investor confidence and support towards achieving commercialization within 5 years as stated by CEO Alex Jones."
+      ],
+      "insight": "This funding round signifies growing faith among both traditional energy sector stakeholders and renewable technology backers that fusion energy can be a viable, clean alternative. This could potentially disrupt the current dynamics of power generation in ways similar to how solar panels have transformed accessibility of affordable electricity."
+    },
+    {
+      "title": "Robotics software maker Skild AI hits $14B valuation",
+      "link": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 16:13:33 +0000",
+      "description": "Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.",
+      "language": "en",
+      "summary": "Skild AI, which is building general-purpose robotic software, just raised a $1. 4 billion funding round led by SoftBank",
+      "points": [
+        "Skild AI, which is building general-purpose robotic software, just raised a $1",
+        "4 billion funding round led by SoftBank",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
+      "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 16:00:00 +0000",
+      "description": "Personal Intelligence is off by default, as users have the option to choose if and when they want to connect their Google apps to Gemini.",
+      "language": "en",
+      "summary": "Personal Intelligence is off by default, as users have the option to choose if and when they want to connect their Google apps to Gemini",
+      "points": [
+        "Personal Intelligence is off by default, as users have the option to choose if and when they want to...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "AI security firm, depthfirst, announces $40 million Series A",
+      "link": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 15:50:17 +0000",
+      "description": "The company used an AI-native platform to help companies fight threats.",
+      "language": "en",
+      "summary": "AI security firm depthfirst has raised a $40 million Series A funding round led by Index Ventures and others including Bpifrance Acceleration Programme (BAP). The company's platform leverages artificial intelligence to help businesses combat cyber threats.",
+      "points": [
+        "Depthfirst, founded in September 2deck has announced a $40 million Series A funding round led by Index Ventures and including Bpifrance Acceleration Programme (BAP).",
+        "The company's artificial intelligence platform helps businesses detect potential threats before they escalate.",
+        "Depthfirst was founded in 2deck as a spin-out from KU Leuven university, with the mission to protect companies against cybersecurity risks."
+      ],
+      "insight": "The increasing funding and growth of AI security startups like depthfirst indicates that businesses are recognizing the importance of proactively identifying potential threats. This trend may prompt other tech firms in the industry to prioritize developing similar capabilities."
+    },
+    {
+      "title": "US cargo tech company publicly exposed its shipping systems and customer data to the web",
+      "link": "https://techcrunch.com/2026/01/14/us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 15:40:53 +0000",
+      "description": "Shipping tech company Bluspark left internal plaintext passwords, including those of executives, exposed to the internet, at a time when hacks in the shipping industry are on the rise.",
+      "language": "en",
+      "summary": "Shipping tech company Bluspark has publicly disclosed that internal plaintext passwords and customer data were exposed to potential online threats.",
+      "points": [
+        "Bluspark left executives' passwords, including the CEO's password 'boss', in clear text on their systems",
+        "Customer information such as email addresses, order numbers, names of customers, shipping ZIP codes and more were also exposed due to Bluspark’thy web application misconfiguration.",
+        "Bluspark faced criticism for its lackluster response after the security lapse was discovered"
+      ],
+      "insight": "This news reveals a critical vulnerability within Shipping tech companies, underscoring the pressing need for robust cybersecurity measures and proactive responses to potential breaches."
+    },
+    {
+      "title": "YouTube now has a way for parents to block kids from watching Shorts",
+      "link": "https://techcrunch.com/2026/01/14/youtube-now-has-a-way-for-parents-to-block-kids-from-watching-shorts/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 15:20:25 +0000",
+      "description": "Parents will be able to toggle the Shorts time limit on connected children's accounts.",
+      "language": "en",
+      "summary": "Parents will be able to toggle the Shorts time limit on connected children's accounts",
+      "points": [
+        "Parents will be able to toggle the Shorts time limit on connected children's accounts",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Tesla will only offer subscriptions for Full Self-Driving (Supervised) going forward",
+      "link": "https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 15:01:37 +0000",
+      "description": "It's a huge change to Tesla's approach with FSD, and it could impact Musk's $1T pay package and the company's myriad legal troubles.",
+      "language": "en",
+      "summary": "Tesla will cease offering Full Self-Driving (FSD) as a purchase option in favor of subscriptions for supervised use going forward.",
+      "points": [
+        "Full self-driving is no longer available to buy at Tesla stores or online; only subscription models remain.",
+        "Tesla's CEO Elon Musk previously received a $1 billion pay raise partly in anticipation of FSD sales, which now might be affected by this shift.",
+        "The change could have implications for the ongoing legal troubles faced by Tesla."
+      ],
+      "insight": "This pivotal move suggests that Tesla is shifting its strategy to prioritize revenue generation and manage costs, which may influence broader conversations within the autonomous vehicle industry regarding ownership models versus subscription services. It also highlights potential legal implications for companies offering semi-autonomous features."
+    },
+    {
+      "title": "VoiceRun nabs $5.5M to build a voice agent factory",
+      "link": "https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 13:30:00 +0000",
+      "description": "VoiceRun, a startup that creates voice agents, raised $5.5 million in a round led by Flybridge.",
+      "language": "en",
+      "summary": "VoiceRun, a startup that creates voice agents, raised $5. 5 million in a round led by Flybridge",
+      "points": [
+        "VoiceRun, a startup that creates voice agents, raised $5",
+        "5 million in a round led by Flybridge",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta to reportedly lay off 10% of Reality Labs staff",
+      "link": "https://techcrunch.com/2026/01/14/meta-to-reportedly-lay-off-10-of-reality-labs-staff/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 14 Jan 2026 12:51:00 +0000",
+      "description": "The publication noted that Reality Labs had roughly 15,000 employees, and the job cuts could impact over 1,000 people.",
+      "language": "en",
+      "summary": "Meta is reportedly planning to reduce its Reality Labs workforce by approximately 10%, which may affect around a thousand employees.",
+      "points": [
+        "Reality Labs staff reduction of roughly 1,000 people anticipated from Meta's layoffs",
+        "Total employee count at the company currently sits near or above 15,000 individuals",
+        "The potential workforce cut comes amid broader challenges and shifts within the metaverse industry"
+      ],
+      "insight": "This strategic downsizing in Meta's Reality Labs may signal a consolidation phase for companies operating in the nascent but rapidly evolving metaverse market."
+    },
     {
       "title": "SkyFi raises $12.7M to turn satellite images into insights",
       "link": "https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/",
@@ -598,155 +748,6 @@
         "다양한 기체적인 위원지로 창고한 브랜드를 통해, 업계적으로 IT/기술 산업의 개인정보보호를 확산"
       ],
       "insight": "이론적인 위원장이 2026년에 개인정보보호를 강화하고자 한국어로 작성."
-    },
-    {
-      "title": "카스퍼스키 “엔터 산업 AI 공격에 무방비... 제작부터 유통까지 위험”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141463&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 15:10:00 +0900",
-      "description": "백오피스 넘어 창작 영역까지 파고든 AI소규모 제작사·프리랜서 협업 구간의 보안 강화 시급[보안뉴스 조재호 기자] 카스퍼스키가 ‘2026년 엔터테인먼트 산업 보안 보고서’를 13일 발표했다. 이번 보고서는 인공지능(AI)이 티켓팅부터 시각특수효과(VFX) 제작, 콘텐츠 전송에 이르기까지 엔터테인먼트 산업 전반에 미칠 보안 영향을 심층 분석했다.보고서는 20",
-      "language": "ko",
-      "summary": "백오피스 넘어 창작 영역까지 파고든 AI소규모 제작사·프리랜서 협업 구간의 보안 강화 시급[보안뉴스 조재호 기자] 카스퍼스키가 ‘2026년 엔터테인먼트 산업 보안 보고서’를 13일 발표했다. 이번 보고서는 인공지능(AI)이 티켓팅부터 시각특수효과(VFX) 제작, 콘텐츠 전송에 이르기까지 엔터테인먼트 산업 전반에 미칠 보안 영향을 심층 분석했다",
-      "points": [
-        "백오피스 넘어 창작 영역까지 파고든 AI소규모 제작사·프리랜서 협업 구간의 보안 강화 시급[보안뉴스 조재호 기자] 카스퍼스키가 ‘2026년 엔터테인먼트 산업 보안 보고서’를 13일...",
-        "이번 보고서는 인공지능(AI)이 티켓팅부터 시각특수효과(VFX) 제작, 콘텐츠 전송에 이르기까지 엔터테인먼트 산업 전반에 미칠 보안 영향을 심층 분석했다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "美 대형 투자 앱 ‘베터먼트’ 습격한 사회공학적 공격... “시스템 아닌 사람이 뚫렸다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141469&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 15:04:00 +0900",
-      "description": "마케팅 협력사가 ‘보안 사각지대’유출된 개인정보 1750만건… 2차 피해 우려 [보안뉴스 김형근 기자] AI 기반 자동 투자 서비스 베터먼트(Betterment)가 해커의 기만술에 속아 고객 정보가 대거 유출되는 사고를 당했다. 12일(현지시간) 베터먼트는 공식 발표를 통해 이번 사고가 기술적 결함이 아닌 사회공학적 공격에 의한 것임을 시인했다. 해커는 베",
-      "language": "ko",
-      "summary": "기사는 AI 투자 서비스 Beta먼트가 개인정보 관렭한 유출에 대해 다른 방식의 공격을 받은 이야기를 소재로 사용.",
-      "points": [
-        "Beta먼트가 AI 기반 자동 투자 서비스가 되어 만난 계열에서 개인정보 관렭한 범칙이 일어나면서 소유자가 근시한 이야기를 공지했다.",
-        "이씬비얀·루리(Ishihashi-Roy/Lurie)는 Beta먼트에서의 추가로 결코 일어나는 사회공학적 공격이 아니라, 기술적인 오히물은 개인정보가 아닌 Beta먼트에서의 운용 공식에서 찾을 수 0ne가 없다.",
-        "Beta먼트는 균형을 바꿔주기만 하면서도, 이상한 '베터먼트'의 모습을 명사로 바꾸어 보십니다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에서의 개인정보 유발 문제가 확장되고 있다는 뜻을 전재하고, Beta먼트가 사회공학적인 방식으로 개인정보를 추진했다는 것은 IT/기술 업계에서의 신비와 반대의 이야기를 나타낸다."
-    },
-    {
-      "title": "‘사이버 범죄 성지’ 털렸다... 브리치포럼 운영진 및 회원 정보 전량 유출",
-      "link": "http://www.boannews.com/media/view.asp?idx=141468&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 14:50:00 +0900",
-      "description": "신원 알려지지 않은 해커가 공격... 관리자 및 사용자 정보 유출사이버 범죄 수사에 활용 기대[보안뉴스 김형근 기자] 해커들이 훔친 개인정보와 데이터 등을 판매하기 위해 정보를 공유하는 다크웹 사이트 ‘브리치포럼’(BreachForums)이 ‘제임스’(James)란 이름의 해커에 의해 해킹당해 사용자 전원의 데이터베이스가 유출되는 사건이 발생했다.최근 공개",
-      "language": "ko",
-      "summary": "해커가 사용자 정보와 데이터를 공유하여 이용하기 위해 다크웹 사이트 '브리치포럼'이 성공적으로 인증 계정을 발결했다.",
-      "points": [
-        "- 해커가 사용자 정보와 데이터를 공유하여 유출.",
-        "- '제임스'님의 해커는 다크웹 사이트 '브리치포럼'에서 인증 계정을 발결했다.",
-        "- 공격력과 해커들의 명백한 이벤트가 그로 유도되었다."
-      ],
-      "insight": "해커들이 사용자 정보를 활용하는 과정에서 공격력과 스스로의 이벤트가 모여 직접적으로 이 사거를 유도했다."
-    },
-    {
-      "title": "블록체인 플랫폼 트루비트, 스마트 계약 취약점으로 2600만 달러 손실",
-      "link": "http://www.boannews.com/media/view.asp?idx=141467&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 14:27:00 +0900",
-      "description": "TRU 토큰 가격 하루 만에 100% 가까이 폭락... 시장 가치 소멸[보안뉴스 김형근 기자] 블록체인 연산 인프라 플랫폼 트루비트(Truebit)가 최근 악의적 공격자에게 약 2600만 달러(약 340억 원) 상당의 가상자산을 탈취당했다고 밝혔다.해커는 트루비트의 오래된 스마트 계약 코드에 있던 수학적 취약점을 악용해 사실상 0원에 가까운 비용으로 트루비",
-      "language": "ko",
-      "summary": "Truebit에서 스마트 계약 취약점을 활용하여 260만 달러를 손실",
-      "points": [
-        "-Truebit 전체 스마트 계약 취약점이 있음.",
-        "-FalseBit가 오래된 코드를 활용하여 34억원을 손실한다.",
-        "-시장 가치 소멸으로 전체 재산 제거"
-      ],
-      "insight": "Truebit의 IT 투자에게는 이러한 공검출적으로 골내지 않아질 가능성은 낮다. FalseBit이 이전에 수정한 오래된 코드를 활용해 34억원을 탈취한다."
-    },
-    {
-      "title": "“가상 감옥을 부수다”… 중국계 해커, VM웨어 제로데이 악용해 가상 머신 격리 무력화",
-      "link": "http://www.boannews.com/media/view.asp?idx=141466&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 13:52:00 +0900",
-      "description": "중국어권 위협 그룹의 정교한 공격... 제로데이 공개 1년 전부터 이미 악용[보안뉴스 김형근 기자] 중국어를 사용하는 위협 조직이 소닉월(SonicWall) VPN 장비를 초기 침투 경로로 삼아 VM웨어(VMware) ESXi 하이퍼바이저를 장악하는 공격을 포착했다고 보안 기업 헌트리스(Huntress)가 밝혔다. 이번 공격의 핵심은 브로드컴(Broadco",
-      "language": "ko",
-      "summary": "이 기사는 중국계의 위협질시스를 통해 VMware 인터넷에서 VPN 장비를 대상으로 공격을 수행한다고 합니다.",
-      "points": [
-        "- 중국계의 위협질시스이 관련 VMware ESXi 하이퍼바이져를 입장시켜 보안 방식을 약한 지적으로 위협을 시도했다.",
-        "- SonicWall VPN 장비는 공격에 대상이 되고, VMware ESXi 하이퍼바이져는 기능의 중요성을 가리켔 받으면서도 보안에 크게 위임함을 보였다.",
-        "- Huntress 정보에 나온 VMware ESXi 하이퍼바이져 보안 불가장포진가는 중국 공격자의 시스템군을 강조로써, IT/기술 계열에서 상황이 유명해지고 있다."
-      ],
-      "insight": "이러한 공격은 IT/기술 업계에서는 보안 기술의 중요성을 인정하고자 하는 것이 확연한 발결되었다."
-    },
-    {
-      "title": "이스라엘 토크, 1억4800만달러 투자 유치… 보안 유니콘 탄생",
-      "link": "http://www.boannews.com/media/view.asp?idx=141465&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 13:26:00 +0900",
-      "description": "AI 기반 보안운영센터(SOC) 혁신[보안뉴스 김형근 기자] 이스라엘 사이버 보안 스타트업 토크(Torq)가 최근 1억4000만 달러(약 1850억원) 규모의 투자를 유치했다고 밝혔다, 기업 가치 12억 달러(약 1조6000억원)를 인정받아 유니콘 기업이 됐다. 2020년 설립된 토크는 인공지능(AI)을 기반으로 기업 보안운영센터(SOC) 플랫폼을 혁신하",
-      "language": "ko",
-      "summary": "이스라열 사이버 보안 스타트업 Torq는 인공지능을 기반으로 1억480in만 투자를 유지하고 있다.",
-      "points": [
-        "- 이스라열 토크는 1억400만달러규모의 기업 보안을 구현한 경우임",
-        "- 투자에 대한 인정과 그에 반해 토크가 유니콘 기업이다.",
-        "- AI를 사용하여 보안운영센터(SOC) 플랫폼을 혁신한 것이다."
-      ],
-      "insight": "이스라열 Torq의 인공지능을 활용하여 보안운영에 유발한 현대 IT/기술 업체에서 토크는 AI를 이용한 보안운영센터의 혁신이 인공지능의 노조로 오랫동안 새로고사하여 개발되고 결국 인터뷰를 시작한다."
-    },
-    {
-      "title": "에스투더블유, ‘사람 중심’ 기업철학 담은 브랜드북 ‘다르게 발명하는 일’ 출간",
-      "link": "http://www.boannews.com/media/view.asp?idx=141464&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 13:08:00 +0900",
-      "description": "경청·존중·자율 등 7개 키워드 아래 경영진·임직원 인터뷰 담아[보안뉴스 강현주 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W, 대표 서상덕)가 자사의 ‘사람 중심’ 기업 철학과 조직문화를 담아낸 브랜드북 ‘다르게 발명하는 일’을 출간했다고 13일 밝혔다.이 도서는 치열한 기술 경쟁이 전개되는 시장 환경 속에서 S2W가 창업 이래 지난 7년",
-      "language": "ko",
-      "summary": "과거에 있어서 이 기사는 S2W가 사회적 오류를 해소하고 인물의 인식을 장려하는 대표 기업체의 권리와 문화를 설명한다.",
-      "points": [
-        "사회적 오류로 인생이 진짜로 지나갈 수 influence",
-        "인물의 인식을 통해 귀하의 사회적 위치를 살아내며 소 Einzeln리스트에서 가장 많이 움컷함을 보여줌"
-      ],
-      "insight": "기사는 S2W가 인물의 인식과 삶의 진료를 중요하게 다룰 수 있어서, IT/기술 업계에서 이런 사회적 능ay한 커뮤니템만을 도잌하는 데 도움이 되는 가장 필요없는 부분이다."
-    },
-    {
-      "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
-      "link": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 13 Jan 2026 04:00:00 +0000",
-      "description": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
-      "language": "en",
-      "summary": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
-      "points": [
-        "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "CJ온스타일, ‘팬덤IP’로 영역 넓힌다... ‘헬로키티X지수’ 협업 판매",
-      "link": "http://www.boannews.com/media/view.asp?idx=141461&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 11:36:00 +0900",
-      "description": "CJ온스타일이 팬덤 지식재산권(IP) 기반 커머스로 사업 영역을 넓힌다.CJ온스타일은 글로벌 아티스트 IP 기업인 뮤지엠과 아티스트·캐릭터·K-콘텐츠 IP 협업을 위한 업무협약(MOU)을 체결했다고 밝혔다. CJ온스타일은 이번 협약을 통해 모바일 기반 콘텐츠 기획력과 상품 큐레이션 역량으로 팬덤을 적극 공략, 팬덤 IP 커머스를 본격적으로 추진한다는 계획이",
-      "language": "ko",
-      "summary": "CJ온스타일은 글로벌 아티스트 IP 기반 커머스를 시작하며, 그에 대한 향후 진전을 위해 모바일 기밀 콘텐츠 기반 IP 커머스와 광고를 함께 진행할 계획이다.",
-      "points": [
-        "CJ온스타일은 뮤지엠과의 커머스 협업을 위한 업무협약(MOU)을 체결하였다.",
-        "이는 팬더 인턴생 IP 기반 IP 커머스를 시작한 곳이다.",
-        0.5
-      ],
-      "insight": "이러한 진전에 질ibr이는 CJ온스타일이 기업들의 IP 판매 전략을 변화시켜야 할 것이다."
-    },
-    {
-      "title": "엠클라우독, 공공·교육 행정 혁신 가속... “문서중앙화로 업무 공백 없앤다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141459&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 13 Jan 2026 11:30:00 +0900",
-      "description": "개인 PC 저장 금지하고 서버 통합 관리랜섬웨어 차단 등 강력한 보안 기능 제공[보안뉴스 조재호 기자] 엠클라우독은 자사 문서중앙화 솔루션 ‘클라우독(Cloudoc)’을 통해 공공기관 및 교육 행정 분야의 업무 생산성 혁신에 앞장서고 있다고 13일 밝혔다. 최근 한 지방 교육청에서 클라우독 시범 운영을 시작하며, 현장의 고질적인 자료 관리 문제를 시스템으로",
-      "language": "ko",
-      "summary": "개인 PC 저장 금지하고 서버 통합 관리랜섬웨어 차단 등 강력한 보안 기능 제공[보안뉴스 조재호 기자] 엠클라우독은 자사 문서중앙화 솔루션 ‘클라우독(Cloudoc)’을 통해 공공기관 및 교육 행정 분야의 업무 생산성 혁신에 앞장서고 있다고 13일 밝혔다. 최근 한 지방 교육청에서 클라우독 시범 운영을 시작하며, 현장의 고질적인 자료 관리 문제를 시스템으로",
-      "points": [
-        "개인 PC 저장 금지하고 서버 통합 관리랜섬웨어 차단 등 강력한 보안 기능 제공[보안뉴스 조재호 기자] 엠클라우독은 자사 문서중앙화 솔루션 ‘클라우독(Cloudoc)’을 통해 공공...",
-        "최근 한 지방 교육청에서 클라우독 시범 운영을 시작하며, 현장의 고질적인 자료 관리 문제를 시스템으로",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
