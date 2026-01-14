@@ -480,7 +480,8 @@
     };
 
     const supportedLangs = ["ko", "en"];
-    let currentLang = "ko";
+    const defaultLang = "en";
+    let currentLang = defaultLang;
 
     function t(key) {
       const template =
@@ -488,14 +489,32 @@
       return template;
     }
 
+    function getRegionPreferredLang(fallback = defaultLang) {
+      const intlLocale =
+        typeof Intl === "object" && typeof Intl.DateTimeFormat === "function"
+          ? Intl.DateTimeFormat().resolvedOptions().locale
+          : "";
+      const sources = [
+        ...(navigator.languages || []),
+        navigator.language,
+        navigator.userLanguage,
+        intlLocale,
+      ]
+        .filter(Boolean)
+        .map((locale) => locale.toLowerCase());
+      const hasKorean = sources.some((locale) => locale.startsWith("ko"));
+      return hasKorean ? "ko" : fallback;
+    }
+
     function detectLang() {
       const url = new URL(window.location.href);
       const param = url.searchParams.get("lang");
-      const stored = localStorage.getItem("lang");
-      const browser = (navigator.language || "").toLowerCase();
-      const auto = browser.startsWith("en") ? "en" : "ko";
-      const lang = param || stored || auto;
-      return supportedLangs.includes(lang) ? lang : "ko";
+      const stored =
+        localStorage.getItem("preferredLang") || localStorage.getItem("lang");
+      if (supportedLangs.includes(param)) return param;
+      if (supportedLangs.includes(stored)) return stored;
+      const candidate = getRegionPreferredLang(defaultLang);
+      return supportedLangs.includes(candidate) ? candidate : defaultLang;
     }
 
     function updateMeta() {
@@ -541,8 +560,11 @@
     }
 
     function setLang(lang, { persist = true, updateUrl = true } = {}) {
-      const next = supportedLangs.includes(lang) ? lang : "ko";
-      if (persist) localStorage.setItem("lang", next);
+      const next = supportedLangs.includes(lang) ? lang : defaultLang;
+      if (persist) {
+        localStorage.setItem("preferredLang", next);
+        localStorage.setItem("lang", next);
+      }
       if (updateUrl) {
         const url = new URL(window.location.href);
         url.searchParams.set("lang", next);
