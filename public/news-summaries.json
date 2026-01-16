@@ -1,6 +1,108 @@
 {
-  "generatedAt": "2026-01-16T13:07:29.890Z",
+  "generatedAt": "2026-01-16T18:37:58.388Z",
   "articles": [
+    {
+      "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+      "link": "https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 17:15:00 +0000",
+      "description": "The phishing campaign targeted users on WhatsApp, including an Iranian-British activist, and stole the credentials of a Lebanese cabinet minister and at least one journalist.",
+      "language": "en",
+      "summary": "A sophisticated phishing campaign compromised high-profile accounts across Gmail and WhatsApp in the Middle East, highlighting security vulnerabilities within social media platforms.",
+      "points": [
+        "- Phishing emails posed as urgent communications from Google prompted users to click on malicious links that led them to fake login pages for their respective email services. These sites would then capture credentials without requiring any user interaction, exploiting a known security flaw in Gmail's web interface.",
+        "- The attackers used the stolen information not only from WhatsApp and LinkedIn but also acquired sensitive data like passport photos through compromised Google Docs links. This indicates that users were deceived into granting access to various parts of their digital identities across different platforms, illustrating a multi-vector approach.",
+        "- The involvement of an Iranian-British activist suggests the potential for international connections and implications in cyber espionage activities targeting individuals with specific political profiles or affiliations."
+      ],
+      "insight": "The attack underscores a pressing need for enhanced security measures across social platforms, especially as they become increasingly interconnected. It also raises concerns about the safety of activists and journalists who may be targeted in cyber-espionage campaigns due to their influential positions or work."
+    },
+    {
+      "title": "X is down for the second time this week",
+      "link": "https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 16:29:38 +0000",
+      "description": "Elon Musk's X, formerly Twitter, is down for the second time this week. Nearly 80,000 reports have spiked on Down Detector since around 10 a.m. ET Friday morning.",
+      "language": "en",
+      "summary": "Elon Musk's X has experienced two outages this week and nearly 80,000 users have reported the issue on Down Detector.",
+      "points": [
+        "- Elon Musk-owned social media platform 'X' (formerly Twitter) down for second time this week",
+        "- Nearly 80,000 outage reports submitted to Down Detector since Friday morning",
+        "- Outages can significantly impact user experience and trust in the service"
+      ],
+      "insight": "The repeated downtimes of Elon Musk's X could signify underlying system instability or growing pains associated with its transition from Twitter, potentially affecting public perception and adoption."
+    },
+    {
+      "title": "Chinese EVs inch closer to the US as Canada slashes tariffs",
+      "link": "https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 16:04:02 +0000",
+      "description": "The country is dropping its import tax from 100% to just 6.1%, with an initial annual cap of 49,000 cars.",
+      "language": "en",
+      "summary": "The country is dropping its import tax from 100% to just 6. 1%, with an initial annual cap of 49,000 cars",
+      "points": [
+        "The country is dropping its import tax from 100% to just 6",
+        "1%, with an initial annual cap of 49,000 cars",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "YouTube relaxes monetization guidelines for some controversial topics",
+      "link": "https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 15:56:58 +0000",
+      "description": "These controversial topics include self-harm, abortion, suicide, and domestic and sexual abuse.",
+      "language": "en",
+      "summary": "YouTube has eased its monetization restrictions for certain sensitive subjects such as self-harm, abortion, suicide, and various forms of abuse.",
+      "points": [
+        "YouTube is now allowing creators to earn money from channels that previously faced content guidelines barring income generation due to the sensitivity of topics discussed.",
+        "Creators can monetize their videos on controversial issues, potentially leading to a broader range of discussions taking place in these spaces but also raising concerns about viewer exposure and mental health implications."
+      ],
+      "insight": "This move by YouTube could significantly change the landscape for content creators dealing with sensitive topics. While it provides them an opportunity, it may risk normalizing such issues without proper context or supportive discussions online."
+    },
+    {
+      "title": "Bluesky rolls out cashtags and LIVE badges amid a boost in app installs",
+      "link": "https://techcrunch.com/2026/01/16/bluesky-rolls-out-cashtags-and-live-badges-amid-a-boost-in-app-installs/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 15:42:13 +0000",
+      "description": "Bluesky adds new features to its app amid a boost in installs due to the deepfake drama on X.",
+      "language": "en",
+      "summary": "As Bluesky experiences an increase in user activity related to recent xDNA scandals involving Javier and Noumaï Sosa, they enhance their app with cashtags and live badges.",
+      "points": [
+        "Bluesky rolls out new features amid increased installs",
+        "The company introduces 'cashtag' functionality to Bluesky-branded cryptocurrency tokens within the ecosystem of its platform, enabling users to easily share and track their digital assets.",
+        "Live badges are added for real-time status updates on transactions or events occurring in proximity."
+      ],
+      "insight": "The introduction of 'cashtag' functionality highlights the growing importance of integrating cryptocurrency features into social media apps, while live badges emphasize user engagement and transaction transparency within Bluesky’ty platform"
+    },
+    {
+      "title": "Italy investigates Activision Blizzard for pushing in-game purchases",
+      "link": "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 15:02:49 +0000",
+      "description": "Italy has launched two investigations into Microsoft's Activision Blizzard, alleging the company has engaged in \"misleading and aggressive\" sales practices for two of its most popular smartphone games.",
+      "language": "en",
+      "summary": "Italy is investigating Microsoft' end-to-end gaming provider Activision Blizzard over accusations that the company employs misleading and aggressive tactics to encourage in-game purchases.",
+      "points": [
+        "Italian regulators have launched two probes into video game publisher Activision Blizzard, citing concerns about sales practices within their popular smartphone games like Call of Duty: Mobile."
+      ],
+      "insight": "The investigations by Italy may set a precedent for more stringent regulations in the gaming industry to protect consumers from deceptive marketing tactics, potentially influencing policies worldwide and impacting how major publishers operate their games across various platforms. This could lead companies like Activision Blizzard to reassess their monetization strategies."
+    },
+    {
+      "title": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
+      "link": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 14:15:00 +0000",
+      "description": "A new era of app creation is here. It's fun, it's fast, and it's fleeting.",
+      "language": "en",
+      "summary": "The article discusses the emergence of 'micro' apps created by non-developers for quick use without purchasing existing ones.",
+      "points": [
+        "Non-developer groups are creating micro applications using no-code platforms like Mendix and BizApp Studio, enabling rapid development with minimal technical skills.",
+        "Micro app developers offer their creations as services on freelance marketplaces such as Fiverr, Upwork, and Toptal, charging per hour of work rather than selling a final product for money or equity.",
+        "The micro apps are typically designed with the user in mind; they provide specific functionalities like sending an alert when meeting someone new on social media."
+      ],
+      "insight": "This trend towards creating simple, purpose-specific 'micro' applications by non-developers could democratize app creation and potentially disrupt traditional software development models. As more people become involved in building apps without deep technical skills or knowledge of business operations, it may challenge conventional notions around monetization strategies for tech projects."
+    },
     {
       "title": "[테크칼럼] 유해사이트, 차단해도 계속 나오는 이유? ‘범죄 생태계’에 답 있다",
       "link": "http://www.boannews.com/media/view.asp?idx=141544&kind=&sub_kind=",
@@ -645,111 +747,6 @@
         0
       ],
       "insight": "이 뉴스는 IT/기술 업계에서의 인간적인 보안을 강조하며, 회사들이 고유한 환경과 맞추어야 함을 강조한다."
-    },
-    {
-      "title": "새로운 ‘보이드링크’ 멀웨어 프레임워크 출현... 리눅스 클라우드 인프라 정조준",
-      "link": "http://www.boannews.com/media/view.asp?idx=141521&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 15:28:00 +0900",
-      "description": "중국어권 개발자들이 개발·관리하고 있는 것으로 추정기술적 완성도 수준 매우 높아...지능적인 회피 기법 구사[보안뉴스 김형근 기자] 클라우드 네이티브 리눅스 환경을 겨냥한 고도로 진화된 맬웨어 프레임워크인 ‘보이드링크’(VoidLink)가 새롭게 발견됐다. Zig, Go, C언어로 작성된 이 프레임워크는 방대한 문서와 활발한 개발 흔적으로 미뤄 상업적 목적",
-      "language": "ko",
-      "summary": "중국어권 개발자들이 개발·관리하고 있는 것으로 추정기술적 완성도 수준 매우 높아. 지능적인 회피 기법 구사[보안뉴스 김형근 기자] 클라우드 네이티브 리눅스 환경을 겨냥한 고도로 진화된 맬웨어 프레임워크인 ‘보이드링크’(VoidLink)가 새롭게 발견됐다...",
-      "points": [
-        "중국어권 개발자들이 개발·관리하고 있는 것으로 추정기술적 완성도 수준 매우 높아",
-        "지능적인 회피 기법 구사[보안뉴스 김형근 기자] 클라우드 네이티브 리눅스 환경을 겨냥한 고도로 진화된 맬웨어 프레임워크인 ‘보이드링크’(VoidLink)가 새롭게 발견됐다",
-        "Zig, Go, C언어로 작성된 이 프레임워크는 방대한 문서와 활발한 개발 흔적으로 미뤄 상업적 목적"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "네덜란드 경·검찰, “노후된 IT 시스템으로 급증하는 사이버 범죄 막을 수 없어”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141522&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 15:25:00 +0900",
-      "description": "현재와 같은 IT 시스템으로는 새로운 정책이나 법률 시행하는 것조차 어려워전통적인 범죄 예방에만 치중돼 있어 현대 기술 범죄 대응에 한계 분명해[보안뉴스 김형근 기자] 네덜란드 국가경찰과 검찰청이 자국의 IT 시스템이 노후화돼 있으며, 외부 공격에 매우 취약하다고 공식 인정했다.야니 크놀(Janny Knol) 경찰청장과 리누스 오테(Rinus Otte) 검",
-      "language": "ko",
-      "summary": "네덜란드 국가경찰과 검찰청이 IT 시스템의 부재에 인해 현대 IT 범죄를 제어할 수 012차 못하는 것",
-      "points": [
-        "네덜란드 IT 시스템이 강력한 보안책인지만, 현재와 같은 이러한 시스템이 노후화돼 있음에도 붙여도 실업",
-        "국가경찰과 검찰청이 현재 IT 보안 방식을 강조해주셨다.",
-        "국제 IT 기술에서의 시리얼코인(Similar Coin) 공급류 중에 네덜란드가 이미 경쟁하고 있는데, 그로부터 IT 범죄의 발생 원인도 함께 존재"
-      ],
-      "insight": "이러한 상황에서 네덜란드는 IT 보안을 중요시하여 국가적으로 IT 시스템의 부재를 피하고자 합니다."
-    },
-    {
-      "title": "지란지교데이터, 개인정보보호 전문강사협회 ‘맞손’... “교육과 기술 결합해 시너지”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141520&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 15:22:00 +0900",
-      "description": "개인정보보호 교육 및 전문 인력 양성부터 컨설팅 사업 연계까지 전방위 협력유병완 대표 “안전한 데이터 활용과 보호 문화 확산에 앞장설 것” [보안뉴스 조재호 기자] 데이터 보호 전문 기업 지란지교데이터는 개인정보보호 전문강사협회와 개인정보 보호 및 데이터 보호 역량 강화를 위한 업무협약(MOU)을 체결했다고 15일 밝혔다. 이번 협약은 개인정보보호의 중요성",
-      "language": "ko",
-      "summary": "맞손과 개인정보보호 전문회에서 개인정보보호 교육 및 전문 인력 양성으로부터 시너지 연구와 개인정보 보호 업무약을 연방과 국제기업에서 연말 발포한다.",
-      "points": [
-        "맞손과 개인정보보호 전문회가 개인정보보호 교육을 위해 MOU을 체결하여 개인정보보호 전문가를 확산",
-        "개인정보보호 방식과 더욱 안전한 데이터 활용에 대한 연구약을 만들어 시너지 연구를 진행하고자 한다.",
-        "이러한 협약은 개인정보보호의 중요성과 더욱 강화를 기대한다."
-      ],
-      "insight": "맞손과 개인정보보호 전문회의 이러한 협약은 IT/기술 업체에서의 개인정보보호와 시너지에 대해 이루어진 의미이다. 개인정보보호 전문가를 확산하고 시너지 연구를 진행하면서 개인정보 보호 기술에 대한 이해와 개인정보 보호의 방식을 익스트레산에 접중함을 가능하게 한다."
-    },
-    {
-      "title": "모빌린트, MLX-A1·MLA100 조달청 혁신제품 등록",
-      "link": "http://www.boannews.com/media/view.asp?idx=141519&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 14:35:00 +0900",
-      "description": "혁신장터 공식 등록... 공공기관 대상 엣지 AI 실증·도입 본격화[보안뉴스 강초희 기자] 모빌린트(대표 신동주)는 자사의 AI 솔루션 ‘MLX-A1’과 ‘MLA100’이 조달청 혁신제품으로 지정돼 혁신장터(혁신제품 전용몰)에 공식 등록됐다고 15일 밝혔다.이번 혁신제품 지정은 높은 비용과 전력 소모 문제로 AI 도입에 어려움을 겪어온 공공기관과 기업에 국",
-      "language": "ko",
-      "summary": "모빌린트의 MLX-A1과 MLA100 AI 제품이 조달청 혁신장터에 공식 등록되었음.",
-      "points": [
-        "모빌린트의 MLX-A1 AI 제품이 조달청 혁신장터에 공식 등록되었음.",
-        0,
-        "MLA100 AI 도입의 황한 목적이 모빌린트가 포인터를 분리해서 지정해 두었다."
-      ],
-      "insight": "이러한 MLX-A1과 MLA1 end AI 제품의 혁신장터에서 공식 등록 체감은 IT/기술 업계가 이 세계에서 자동화된 시스턴 [AI]의 중요성과 인증으로 보았다."
-    },
-    {
-      "title": "여의시스템, Moxa NPort G2 솔루션으로 산업 네트워크 보안 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=141518&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 14:05:00 +0900",
-      "description": "‘보안’과 ‘운영 안정성’에 초점 맞춰... 고객사 네트워크 인프라 한 단계 업그레이드[보안뉴스 강초희 기자] 여의시스템(대표이사 성명기)은 글로벌 파트너 Moxa의 차세대 시리얼 디바이스 서버 ‘NPort G2 시리즈’를 공급해 산업 현장의 네트워크 보안과 연결성을 대폭 강화한다고 밝혔다.이번에 공급하는 NPort G2 시리즈는 기존 RS-232/422/",
-      "language": "ko",
-      "summary": "여의시스템이 Moxa NPort G2 시리즈를 공급해 산업 네트워크 보안 강화",
-      "points": [
-        "Moxa NPort G2 시리즈 제4단계로 게다가 기존 RS-232/422를 지원한다.",
-        "...",
-        "..."
-      ],
-      "insight": "이러한 Moxa NPort G2 시리즈는 산업발전자에서의 보안성과 연결성을 높일 수  birth."
-    },
-    {
-      "title": "중국, ‘국가 안보’ 이유로 미국·이스라엘 보안 제품 사용 중단 전격 지시",
-      "link": "http://www.boannews.com/media/view.asp?idx=141517&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 13:24:00 +0900",
-      "description": "미국 팔로알토 네트웍스와 이스라엘 체크포인트 등 글로벌 보안기업 다수 포함[보안뉴스 김형근 기자] 중국 당국이 국가 안보에 대한 우려를 이유로 자국 기업들에 미국과 이스라엘의 주요 사이버 보안 소프트웨어 사용을 중단하라는 지침을 내린 것으로 알려졌다. 중국의 이번 조치 대상에는 브이엠웨어(VMware), 팔로알토 네트웍스(Palo Alto Networks)",
-      "language": "ko",
-      "summary": "미국 팔로알토 네트웍스와 이스라엘 체크포인트 등 글로벌 보안기업 다수 포함[보안뉴스 김형근 기자] 중국 당국이 국가 안보에 대한 우려를 이유로 자국 기업들에 미국과 이스라엘의 주요 사이버 보안 소프트웨어 사용을 중단하라는 지침을 내린 것으로 알려졌다. 중국의 이번 조치 대상에는 브이엠웨어(VMware), 팔로알토 네트웍스(Palo Alto Networks)",
-      "points": [
-        "미국 팔로알토 네트웍스와 이스라엘 체크포인트 등 글로벌 보안기업 다수 포함[보안뉴스 김형근 기자] 중국 당국이 국가 안보에 대한 우려를 이유로 자국 기업들에 미국과 이스라엘의 주요...",
-        "중국의 이번 조치 대상에는 브이엠웨어(VMware), 팔로알토 네트웍스(Palo Alto Networks)",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "에스에스알, SK텔레콤 수주로 통신 3사 ‘그랜드 슬램’ 달성",
-      "link": "http://www.boannews.com/media/view.asp?idx=141515&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 12:50:00 +0900",
-      "description": "국내 이동통신 3사 모두 고객사로 확보하며 민간 대형 인프라 시장 지배력 강화고필주 대표 “통신 인프라 보안의 ‘표준’으로 자리매김... 시장 확대 가속화”[보안뉴스 조재호 기자] 에스에스알(SSR)이 SK텔레콤 수주를 확정 지으며 국내 이동통신 3사를 모두 고객사로 확보하는 ‘그랜드 슬램’을 달성했다고 15일 밝혔다.통신 산업은 서비스 특성상 대규모 트래",
-      "language": "ko",
-      "summary": "국내 이동통신 3사 모두 고객사로 확보하며 민간 대형 인프라 시장 지배력 강화고필주 대표 “통신 인프라 보안의 ‘표준’으로 자리매김. 시장 확대 가속화”[보안뉴스 조재호 기자] 에스에스알(SSR)이 SK텔레콤 수주를 확정 지으며 국내 이동통신 3사를 모두 고객사로 확보하는 ‘그랜드 슬램’을 달성했다고 15일 밝혔다...",
-      "points": [
-        "국내 이동통신 3사 모두 고객사로 확보하며 민간 대형 인프라 시장 지배력 강화고필주 대표 “통신 인프라 보안의 ‘표준’으로 자리매김",
-        "시장 확대 가속화”[보안뉴스 조재호 기자] 에스에스알(SSR)이 SK텔레콤 수주를 확정 지으며 국내 이동통신 3사를 모두 고객사로 확보하는 ‘그랜드 슬램’을 달성했다고 15일 밝혔...",
-        "통신 산업은 서비스 특성상 대규모 트래"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
