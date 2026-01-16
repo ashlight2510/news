@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-01-16T06:46:13.211Z",
+  "generatedAt": "2026-01-16T13:07:29.890Z",
   "articles": [
+    {
+      "title": "[테크칼럼] 유해사이트, 차단해도 계속 나오는 이유? ‘범죄 생태계’에 답 있다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141544&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 18:53:00 +0900",
+      "description": "유해사이트는 단일 웹페이지가 아닌 조직적으로 연결된 ‘범죄 네트워크’기존 분석 도구의 한계 극복... 코드·광고·인프라 유사성 분석해 운영 조직 식별AI와 LLM 활용해 취약점 분석 및 수사 지원 인텔리전스 자동 생성 목표[보안뉴스=카이스트 사이버보안연구센터 최규현 연구원] 최근 청소년 도박과 불법 스트리밍 사이트가 심각한 사회 문제로 대두되고 있다. 하지",
+      "language": "ko",
+      "summary": "유해사이트는 단일 웹페이지가 아닌 조직적으로 연결된 ‘범죄 네트워크’기존 분석 도구의 한계 극복. 코드·광고·인프라 유사성 분석해 운영 조직 식별AI와 LLM 활용해 취약점 분석 및 수사 지원 인텔리전스 자동 생성 목표[보안뉴스=카이스트 사이버보안연구센터 최규현 연구원] 최근 청소년 도박과 불법 스트리밍 사이트가 심각한 사회 문제로 대두되고 있다",
+      "points": [
+        "유해사이트는 단일 웹페이지가 아닌 조직적으로 연결된 ‘범죄 네트워크’기존 분석 도구의 한계 극복",
+        "코드·광고·인프라 유사성 분석해 운영 조직 식별AI와 LLM 활용해 취약점 분석 및 수사 지원 인텔리전스 자동 생성 목표[보안뉴스=카이스트 사이버보안연구센터 최규현 연구원] 최근 ...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "개인정보위, 공공의료 홈페이지 ‘스크래핑’ 대응 나서... 토론회 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=141543&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 17:37:00 +0900",
+      "description": "의료 공공기관 홈페이지 안전성 강화방안 논의[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 송경희`)와 한국인터넷진흥원(KISA, 원장 이상중)은 의료 정보 스크래핑 대응을 위해 공공의료 홈페이지 보안 강화 관련 의견을 나눴다. 16일 두 기관은 16일 광화문 프레스센터에서 국민건강보험공단, 건강보험심사평가원과 함께 의료분야 주요 공공기관 홈페이지에 대한",
+      "language": "ko",
+      "summary": "의료 공공기관 홈페이지 안전성 강화방안 논의[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 송경희`)와 한국인터넷진흥원(KISA, 원장 이상중)은 의료 정보 스크래핑 대응을 위해 공공의료 홈페이지 보안 강화 관련 의견을 나눴다. 16일 두 기관은 16일 광화문 프레스센터에서 국민건강보험공단, 건강보험심사평가원과 함께 의료분야 주요 공공기관 홈페이지에 대한",
+      "points": [
+        "의료 공공기관 홈페이지 안전성 강화방안 논의[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 송경희`)와 한국인터넷진흥원(KISA, 원장 이상중)은 의료 정보 스크래핑 대응을 위해...",
+        "16일 두 기관은 16일 광화문 프레스센터에서 국민건강보험공단, 건강보험심사평가원과 함께 의료분야 주요 공공기관 홈페이지에 대한",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "2026년 의료 보안 트렌드 “AI 거버넌스 구축하고 랜섬웨어 복원력 키워야”",
+      "link": "http://www.boannews.com/media/view.asp?idx=141542&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 17:08:00 +0900",
+      "description": "의료 AI 보안 거버넌스, IoMT 보안, 공급망 공격 대응 등 10대 과제 제시 박종환 회장 “단순한 방어를 넘어 회복 탄력성(Resilience) 확보가 핵심”[보안뉴스 조재호 기자] 2026년 의료기관이 주목해야 할 정보보호 화두로 ‘인공지능(AI) 보안 거버넌스’와 ‘데이터 복원력’이 꼽혔다. 의료 현장에 AI 도입이 가속화되면서 이에 따른 보안 위",
+      "language": "ko",
+      "summary": "기사는 의료 AI 보안과 IoMT 보안에 대한 거버넌스와 데이터 복원력에 대한 대응 방식을 중요시하여 강조한다.",
+      "points": [
+        "의료 AI 거버넌스, IoMT 보안, 공급망 공격으로 10대 보호 제시",
+        "AI로 인공지능을 도입하여 보호 확산이 이어지고 있음",
+        "회복 탄력성을 위해 방어를 넘아야 한다."
+      ],
+      "insight": "인공지능의 도입은 보호측iento 발전에 직접 영향을 미치고 있다. AI로 이를 위해 방어와 탄렬등 심판적인 방안을 제시한다."
+    },
+    {
+      "title": "조달청, 2026년 공공조달분야 국가기술자격 최초 시행 앞두고 표준교재 발간",
+      "link": "http://www.boannews.com/media/view.asp?idx=141540&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 16:53:00 +0900",
+      "description": "10월 3일 1차 시험, 11월 14일 2차 시험 예정표준교재 조달청 누리집 등 게재, 누구나 무료 이용 가능[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 올해 최초로 시행되는 공공조달분야 국가기술자격(이하 ‘공공조달관리사’) 검정시험에 대비해 표준교재를 발간하고 조달청 누리집 등에 공개했다.이번 표준교재는 공공조달 관련 법·제도에 대한 이해부터 실무 중",
+      "language": "ko",
+      "summary": "조달청은 공근조달의 국가기술자격계맞춰 시행하고 있다.",
+      "points": [
+        "조달청이 시행해서 공공조닿치의 국가기술자격을 게정함",
+        "1차 시험과 2차 시험 이렇쪽에 이어지고 있다.",
+        "공근조닿에서는 무료로 이용가능하다"
+      ],
+      "insight": "이 기사는 IT/기술 업체에서의 국가기술자격과 공근조닿 관련 중요한 현상을 다핑하고 있다."
+    },
+    {
+      "title": "[김정덕의 AI 시대 보안 패러다임-5] AI도 인간과 닮았다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141541&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 16:48:00 +0900",
+      "description": "객관성 환상에서 벗어나는 5가지 원칙[연재목차 Part 2. AI 시대 보안 패러다임]1. AI 시대의 그림자, ‘딥페이크 사기’를 경계하라2. AI 시대, 번아웃 관리3. AI 편향과 공정성, 보안에서 무엇이 다른가4. 설명가능 AI와 인간의 최종 판단5. AI도 인간과 닮았다6. AI, ‘안전’과 ‘보안’의 경계를 허물다7. AI 도입의 딜레마_기회와",
+      "language": "ko",
+      "summary": "객관성 환상에서 벗어나는 5가지 원칙[연재목차 Part 2. AI 시대 보안 패러다임]1...",
+      "points": [
+        "객관성 환상에서 벗어나는 5가지 원칙[연재목차 Part 2",
+        "AI 시대의 그림자, ‘딥페이크 사기’를 경계하라2",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "증평군, 스마트도시계획 최종 승인... 미래도시로 도약",
+      "link": "http://www.boannews.com/media/view.asp?idx=141539&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 16:38:00 +0900",
+      "description": "‘모두가 누리는 20분 일상, 콤팩트 미래도시’ 5년 로드맵 가동[보안뉴스 강초희 기자] 충북 증평군(군수 이재영)이 도시·관광·안전·복지·환경 등 다양한 도시문제 해결을 목표로 수립한 스마트도시계획이 국토교통부의 최종 승인을 받으며, AI 기반 스마트도시 조성에 본격 착수한다.이번에 승인된 스마트도시계획은 2025년부터 2029년까지 5개년 법정계획으로,",
+      "language": "ko",
+      "summary": "군수이재영의 스마트도시계획이 국토교통부에서 기여로 최종 승인되었음을 나타내고, 미래도시는 2025년부터 2 end 2029년까지 5년간의 환경적 도시를 AI로 조성한다.",
+      "points": [
+        "군수이재영이 국토교통부에서 스마트도시계획을 받아들일 수 있는",
+        "미래도시는 AI를 사용하여 2025년부터 2029년까지 환경적인 도시의 조성을 합니다.",
+        "스마트도시계획은 국내외에서 발전하여 소모보다 효과적이고, 세보지를 연합적으로 만들어야 한다."
+      ],
+      "insight": "스마트도시는 AI를 이용해 도시문제를 해결하며, 국내외에서 효과적으로 진행되도록 하는 데이터널이다."
+    },
+    {
+      "title": "제주도교육청, CCTV 설치 확대 등 모두가 안심하는 학교환경 조성 나선다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141538&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 16:37:00 +0900",
+      "description": "2026년 교육안전 종합계획 수립...학교 현장 밀착형 안전망 구축[보안뉴스 강초희 기자] 제주특별자치도교육청(교육감 김광수)은 15일 학생과 교직원이 재난과 사고로부터 스스로를 보호할 수 있는 실천적 역량을 기르고 사각지대 없는 안전한 교육 환경을 조성하기 위해 ‘2026년 교육안전 종합계획(안)’을 수립하고 본격적인 시행에 나선다.도교육청이 이번에 마련",
+      "language": "ko",
+      "summary": "제주도교육청이 2026년 학교 안전성 확산 시스템을 수립한다.",
+      "points": [
+        "제주도교육청이 '2026년 교육안전 종합계획(안)'을 수립한다.",
+        "이 시스템은 학생과 교직원을 재난과 사고에 대비할 수 0ne 수많은 안전한 학교 밀착 환경을 조성한다.",
+        "도교육청은 스스로의 보호를 위해 재구축된 지도와 컴퓨터적인 식사 시스템을 소개한다."
+      ],
+      "insight": "제주도교육청이 기술을 이용하여 학교 안전성을 보장하는 관점은 IT 분야의 인사이트가 다음과 같다."
+    },
+    {
+      "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+      "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 07:28:25 +0000",
+      "description": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
+      "language": "en",
+      "summary": "After a long career with major technology companies like SAP and then Microsoft, Irina Ghose takes on the role of Managing Director for Anthropic in Bengaluru to oversee its expansion.",
+      "points": [
+        "Irina Ghose has joined Anthropic as India' hall leadership after spending significant time at major tech companies",
+        "Ghose brings experience from working with Microsoft and SAP into her new role",
+        "The Bengaluru office expansion signifies a commitment to the Indian market by global AI company, Anthropic"
+      ],
+      "insight": "With Ghose's extensive background in technology leadership roles globally, this marks an important step for Anthropic as it seeks to grow its presence and expertise within India."
+    },
+    {
+      "title": "Silicon Valley’s messiest breakup is definitely headed to court",
+      "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 16 Jan 2026 06:45:15 +0000",
+      "description": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
+      "language": "en",
+      "summary": "A legal dispute in Silicon Valley has escalated as OpenAI and Microsoft have been asked by Judge Edward Davila of California's Northern District Court not just for a summary judgment but also to provide detailed responses about the acquisition process, which initially led Elon Musk to start his own AI company. The case could set important legal precedents.",
+      "points": [
+        "A federal judge has rejected OpenAI and Microsoft's requests to dismiss the lawsuit regarding their failed merger negotiations with Elon Musk, who instead founded an independent venture named 'Better Future LLC.'",
+        "The case will now proceed in court as both parties seek summary judgment. Additionally, Judge Davila has ordered OpenAI and Microsoft to submit a detailed explanation of the acquisition process.",
+        "Elon Musk’deed not respond directly but his spokesperson commented on Twitter that Elon is 'excited about building something special for humanity.'"
+      ],
+      "insight": "This case may influence future negotiations and merger agreements within the technology sector by setting legal precedents related to deal terms, counteroffers, and corporate responses."
+    },
+    {
+      "title": "아큐리스, 물리 보안 시장을 겨냥한 차세대 음성 보안 시스템 ‘AcouMaster VS’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=141536&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 16 Jan 2026 15:17:00 +0900",
+      "description": "대화 내용을 ‘의미없는 소리’로 실시간 변조해 외부 도감청 무력화AI 기술로도 복구 불가능한 압도적인 음성 보안, 사람 목소리까지 보호하는 완성형 보안기업 경영상 기밀부터 국가 안보까지 폭넓은 활용 가능[보안뉴스 엄호식 기자] 국내 음환경 솔루션 선도 기업 아큐리스가 기업 및 공공기관의 기밀 음성 정보 유출을 원천 봉쇄하는 차세대 음성 보안 시스템 ‘아큐마",
+      "language": "ko",
+      "summary": "대화 내용을 ‘의미없는 소리’로 실시간 변조해 외부 도감청 무력화AI 기술로도 복구 불가능한 압도적인 음성 보안, 사람 목소리까지 보호하는 완성형 보안기업 경영상 기밀부터 국가 안보까지 폭넓은 활용 가능[보안뉴스 엄호식 기자] 국내 음환경 솔루션 선도 기업 아큐리스가 기업 및 공공기관의 기밀 음성 정보 유출을 원천 봉쇄하는 차세대 음성 보안 시스템 ‘아큐마",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "개인정보위, ‘이노베이션 존’ 운영기관 찾는다... 3월 13일까지 공모",
       "link": "http://www.boannews.com/media/view.asp?idx=141529&kind=&sub_kind=",
@@ -600,156 +750,6 @@
         "통신 산업은 서비스 특성상 대규모 트래"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "개인정보위, 올해 ‘증거보전명령’ 도입한다... 조사강제력 강화 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=141516&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 11:50:00 +0900",
-      "description": "증거보전명령·자료제출 이행강제금 등 도입위험 기반 접근·전주기 관리 강화[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 송경희)가 증거보전명령, 자료제출 이행강제금 도입 등 조사 강제력 강화에 나선다. 14일 개인정보위는 제1회 전체회의에서 ‘2026년 개인정보 조사업무 추진 방향’을 확정했다고 밝혔다. 조사 업무의 초점을 사고 발생 후 제재 중심에서 벗",
-      "language": "ko",
-      "summary": "개인정보위의 조사업무 초기화, 제재 강화",
-      "points": [
-        "개인정보위는 제1회 전체회의에서 개인정보보호의 방향성을 확보하고 있다.",
-        "조사업무가 사고 발생 후에서 제재 중심으로 진행되도록 명시적으로 강화",
-        "개인정보위는 2026년까지의 조사업무 추진을 확신하고 행동하고 있다."
-      ],
-      "insight": "개인정보위가 조사업무적 발전에 기여하고, 이를 국민의 개인정보보호에 필요로 볼수 있다."
-    },
-    {
-      "title": "라자루스부터 코니까지... 北 해킹 조직, 2025년 어떻게 공격했나",
-      "link": "http://www.boannews.com/media/view.asp?idx=141514&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 11:49:00 +0900",
-      "description": "로그프레소, 북한 연계 4대 공격 그룹 캠페인 심층 분석 C2 서버와 주기적 통신하며 기회 포착...공공·금융·에너지 등 핵심 산업군 정조준[보안뉴스 조재호 기자] 지난해 북한 연계 해킹 조직들은 금융위원회나 보안기관을 사칭해 ‘신뢰’를 파고든 지능적인 공격을 감행했으며, 악성코드를 필요한 시점에만 투입하는 치밀함을 보인 것으로 분석됐다. 로그프레소는 지난",
-      "language": "ko",
-      "summary": "북한 연계 해킹 조직이 '신뢰'를 뒷받침하여 전체적으로 IT/기술 산업군에서 강제로 긍정적인 공격을 통해 녹지를 위해 모시다.",
-      "points": [
-        "북한 연계 해킹 조직들은 공격의 전문성과 피해지에 대해 '신뢰'을 판단하여 시작했다.",
-        "악성코드는 일부적으로 포컅을 위해 사용되고, 그리고 공격의 시점에만 통합한 정보를 확인하기로 한다.",
-        "이러한 공격은 IT/기술 산업군에서 심층으로 제入되고, 정조준을 위해 일어했다."
-      ],
-      "insight": "북한 연계 해킹 조직이 IT/기술 산업에 강요를 통해 자유도를 제공하여 다른 정부와의 협상을 촉진시키고 싶어 한국으로 이동하는 원인입니다."
-    },
-    {
-      "title": "에스투더블유, ‘2026 Emerging AI+X Top 100’ 사이버보안 부문 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=141512&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 11:35:00 +0900",
-      "description": "안보 인텔리전스 분야의 ‘히든 챔피언’공공 및 대기업 시장서 기술 신뢰 확보[보안뉴스 조재호 기자] 에스투더블유(S2W)가 한국인공지능산업협회(AIIA)에서 주관하는 ‘2026 Emerging AI+X Top 100’에 선정됐다고 15일 밝혔다.‘Emerging AI+X Top 100’은 AI 기술과 다양한 산업의 융합을 통해 미래 혁신을 주도할 국내 유망",
-      "language": "ko",
-      "summary": "에스투더브유가 2026년에 대한 AI+X 기술 혁신 선정 사전에서 우리나라의 인공지능 산업을 강조하고 미래를 위해 선정한 일쿠코인 통합 기술이다.",
-      "points": [
-        "에스투더브유가 AI+X 기술 혁신의 선정으로 우리나라의 인공지능 산업이 중요한 역할을 하고 미래를 위해 선정한 일쿠코인 통합 기술이다.",
-        "AI+X 참가에서 우리나라의 대근차, 화학, 공글및 IT 산업은 중요한 많은 협업이 필요하다.",
-        "선정된 AI+X 기술들은 우리나라의 인공지능 및 IT 산업에 대한 확보와 신뢰를 위해 중요하다."
-      ],
-      "insight": "이러한 선정은 우리나라가 AI+X 기술의 혁신으로 인공지능 산업으로서의 역할을 중시시를 하도다."
-    },
-    {
-      "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
-      "link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Jan 2026 02:16:37 +0000",
-      "description": "The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive.",
-      "language": "en",
-      "summary": "Mira Murati's startup Thinking Machines Lab is losing two of its co-founders due to a sudden shift that had been anticipated for weeks.",
-      "points": [
-        "Thinking Machines Lab, founded by Mira Murati and her husband Michael Chasen, recently lost two key members when they joined OpenAI as engineers specializing in large language models.",
-        "OpenAI has not yet revealed specific details about the roles of these new hires at their AI-focused company.",
-        "The move comes after a recent $1.6 billion investment round, indicating strong interest and confidence from venture capitalists."
-      ],
-      "insight": "This news reflects ongoing talent shifting within the fast-evolving field of artificial intelligence, where highly sought skills like large language modeling are increasingly in demand by leading companies such as OpenAI. It highlights how startups may face challenges retaining top engineers who find lucrative opportunities at prominent organizations."
-    },
-    {
-      "title": "휴네시온, 공공조달 3개 부문 1위... 망연계는 11년 연속 톱",
-      "link": "http://www.boannews.com/media/view.asp?idx=141510&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 10:14:00 +0900",
-      "description": "망연계, 일방향 망연계, CCTV 패스워드 관리 솔루션 압도적 점유율AI, 클라우드, OT 맞춤형 통합 보안 플랫폼으로 N2SF 전환 대비[보안뉴스 강현주 기자] 정보보안 소프트웨어 전문기업 휴네시온(대표 정동섭)이 지난해 공공조달 망연계, 일방향 망연계, CCTV 패스워드 관리 솔루션 등 3개 부문에서 시장점유율 1위를 달성한 것으로 나타났다. 조달청의",
-      "language": "ko",
-      "summary": "휴네시온이 공균한 IT/기술 보안 서비스를 제공하는 경험이 있다.",
-      "points": [
-        "3개 부문에서 시장점유율 1위로 나타났다",
-        "N2SF 전환 대비를 제공한다",
-        "악수 방지를 위해 OT 맞춤형 보안 플랫폼을 제공한다"
-      ],
-      "insight": "이 기사는 IT/기술 업체에서 N2SF 전환 소프트웨어를 제공하는 발평가임을 나타낸다."
-    },
-    {
-      "title": "[2026년 보안 핫 키워드-7] 왜 지금 양자보안인가... 양자 위협은 이미 다가온 미래",
-      "link": "http://www.boannews.com/media/view.asp?idx=141296&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 10:11:00 +0900",
-      "description": "[3줄 요약]1. ‘지금 훔쳐서 나중에 푼다’(HNDL)... 양자 위협 본격화 2. 정부·기관, PQC 재암호화와 PKI·KMS·HSM 등 인프라 전반의 단계적 전환 로드맵 가동3. PQC 도입만으론 부족... 데이터 분할·마이크로샤딩 등과 함께 ‘데이터 수명=암호 수명’ 맞추는 전략 설계 관건 [보안뉴스 여이레 기자] 양자컴퓨터의 상용화는 아직 먼 미래",
-      "language": "ko",
-      "summary": "기사는 양자 위협의 시작과 숙제로 나타나는지에 대한 뉴스 내용을 요약합니다.",
-      "points": [
-        "양자 위협이 현재 먼저 진행된다는 소재적인 사거와 기술적인 진정한 위험입니다.",
-        "국민과 기초보안기기염에서는 양자화를 위해 PQC를 도입하며, PKI 구조와 같은 기술들을 재산보호으로 활용합니다.",
-        "데이01: 아시안민주당의 정부가 정방선의 질서분리약에 대한 견해를 강조합니다."
-      ],
-      "insight": "기사는 우리나라가 인피라이팩 정보받아들일 수 있는 PQC도구를 도찍하려고 한다는 것을 강조합니다."
-    },
-    {
-      "title": "안랩, ‘2026년 데이터바우처 지원사업’ 공급기업 선정... 7년 연속 유지",
-      "link": "http://www.boannews.com/media/view.asp?idx=141509&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 10:05:00 +0900",
-      "description": "위협 분석 역량 입증해 2020년부터 7년째 공급기업 자격 유지중소기업·소상공인 대상으로 안랩 TIP 기반 ‘사이버 위협 정보’ 제공[보안뉴스 조재호 기자] 안랩이 과학기술정보통신부와 한국데이터산업진흥원(K-DATA)이 주관하는 ‘2026년 데이터바우처 지원사업’의 공급기업으로 선정됐다고 15일 밝혔다. 회사는 지난 2020년부터 올해까지 7년 연속으로",
-      "language": "ko",
-      "summary": "인천시 안랙은 '2026년 데터부처 지원사업'에서 공급기업로 선정되었다.",
-      "points": [
-        "인천시 안란은 '2026년 데터부처 지원사업'에 특화된 공급기업 선정에 소솝했다.",
-        "이러한 선정은 안란가 위협을 분석하고 유지적으로 사용할 수 있게 기대된다.",
-        "이러한 공급기업은 안란과 시장에서의 자신의 중요성을 강화하고, IT/기술 업체에 대한 위협을 방어할 수 s있을 것이다."
-      ],
-      "insight": "이러한 공급기업의 선정은 안란이 IT/기술 업체에서의 위협을 방어하고자 한다. 그리고 이것은 안란이 공급기업로 유지하는 데 중요한 역할을 부인한다."
-    },
-    {
-      "title": "델 테크놀로지스, 경제성 높이고 사이버보안 및 운영 간소화 강화한 파워스토어 신제품 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=141508&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 15 Jan 2026 10:00:00 +0900",
-      "description": "새로운 30TB QLC 모델... 성능과 안정성 저해 않으면서 더 작은 공간에서 더 큰 절감 효과 무상 소프트웨어 업데이트에 사이버 위협 대응 위한 새로운 보안 기능 세트 추가차세대 아키텍처 기반 NFSv4.2 고급 기능으로 운영 간소화[보안뉴스 강초희 기자] 델 테크놀로지스(Dell Technologies)가 용량 밀도를 높여 경제성을 극대화하고 사이버보",
-      "language": "ko",
-      "summary": "새로운 30TB QLC 모델. 성능과 안정성 저해 않으면서 더 작은 공간에서 더 큰 절감 효과 무상 소프트웨어 업데이트에 사이버 위협 대응 위한 새로운 보안 기능 세트 추가차세대 아키텍처 기반 NFSv4...",
-      "points": [
-        "성능과 안정성 저해 않으면서 더 작은 공간에서 더 큰 절감 효과 무상 소프트웨어 업데이트에 사이버 위협 대응 위한 새로운 보안 기능 세트 추가차세대 아키텍처 기반 NFSv4",
-        "2 고급 기능으로 운영 간소화[보안뉴스 강초희 기자] 델 테크놀로지스(Dell Technologies)가 용량 밀도를 높여 경제성을 극대화하고 사이버보",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The FTC’s data-sharing order against GM is finally settled",
-      "link": "https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Jan 2026 00:27:54 +0000",
-      "description": "The order, first proposed a year ago, bans GM from collecting and then selling geolocation data to third parties, like data brokers and insurance companies.",
-      "language": "en",
-      "summary": "A settlement has been reached regarding a year-old FTC order against General Motors (GM) that would have prevented the company from collecting geolocation data and selling it to third parties.",
-      "points": [
-        "The Federal Trade Commission had proposed an order last year, now settled with GM",
-        "Order bans collection and sale of geo-data by GM without customer consent",
-        "Settlement ensures GM pays $250 million to the FTC"
-      ],
-      "insight": "The resolution underscseres how privacy concerns are increasingly shaping corporate data practices, particularly in sectors like automotive where location tracking is prevalent."
-    },
-    {
-      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
-      "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Jan 2026 00:04:46 +0000",
-      "description": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
-      "language": "en",
-      "summary": "India's Emversity is doubling its valuation with the latest funding to scale AI-powered job readiness programs that are hard for humans to replace.",
-      "points": [
-        "Emversity has raised $30 million in a new round as it scales training",
-        "AI cannot yet fully replicate human workforce capabilities, highlights Emversity CEO Amit Kapoor",
-        "Emversity's programs prepare individuals for AI integration without displacing jobs"
-      ],
-      "insight": "This news suggests a growing recognition of the complementary role that humans can play alongside evolving technologies like AI in specialized sectors such as India."
     }
   ]
 }
