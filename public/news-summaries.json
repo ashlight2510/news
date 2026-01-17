@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-17T12:46:24.269Z",
+  "generatedAt": "2026-01-17T18:29:55.444Z",
   "articles": [
+    {
+      "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid",
+      "link": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 17 Jan 2026 17:30:00 +0000",
+      "description": "Three offshore wind projects under construction on the U.S. East Coast are back to building after judges rebuked the Department of the Interior's actions.",
+      "language": "en",
+      "summary": "Judges have ruled against legal challenges by opponents of three offshore wind projects on U.S. East Coast, allowing them to continue construction.",
+      "points": [
+        "Offshore wind energy development in the United States faces lesser opposition due to recent judicial decisions",
+        "Projects at Block Island Wind Farm and those planned for Vineyard Sound are back in operation after legal setbacks",
+        "The rulings indicate a positive shift towards renewable energies despite resistance from traditional sectors"
+      ],
+      "insight": "These decisions may signal an increasing acceptance of offshore wind energy as part of the country's broader transition to sustainable power sources, potentially influencing future projects and policies."
+    },
+    {
+      "title": "Oshen built the first ocean robot to collect data in a Category 5 hurricane",
+      "link": "https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 17 Jan 2026 16:00:00 +0000",
+      "description": "Oshen has signed contracts with multiple government agencies for its C-Star robots to collect ocean data autonomously.",
+      "language": "en",
+      "summary": "Following the devastation of Hurricane Dorian in The Bahamas and destruction across Florida due to three consecutive hurricanes in August-October '20, Oshen is deploying its C-Star robots contracted by government agencies for autonomous ocean data collection during Category 5 storms.",
+      "points": [
+        "Oshen has signed multiple agreements with various federal and state governments to utilize their fleet of C-Star underwater robotic vehicles in collecting crucial marine data autonomously, particularly from the Atlantic Ocean' extramyriatic waters during extreme weather conditions like hurricanes.",
+        "The company plans to operate these robots within dangerous zones that are usually out of reach for humans due to the hazardous sea and atmospheric environments present around Category 5 storms, thus aiming at collecting unprecedented data about undersea conditions during such disasters.",
+        "In addition to providing vital information regarding oceanographic events linked with hurricanes like upwellings of deep water rich in nutrients and plankton that affect local ecology,"
+      ],
+      "insight": "The development by Oshen could potentially revolutionize disaster management efforts, particularly for severe weather conditions such as Category 5 storms where data collection has been a significant challenge."
+    },
     {
       "title": "“20년 된 낡은 자물쇠 여전해”... 韓 NTLM 노출 자산 6.3만개 ‘빨간불’",
       "link": "http://www.boannews.com/media/view.asp?idx=141546&kind=&sub_kind=",
@@ -717,36 +747,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
-      "link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Jan 2026 18:47:52 +0000",
-      "description": "Iran’s government-imposed internet shutdown enters its second week as authorities continue their violent crackdown on protesters.",
-      "language": "en",
-      "summary": "The Iranian government's imposition of an internet shutdown has entered into a critical stage with the prolongation and escalation in violence against protestors.",
-      "points": [
-        "Iran’s government-imposed internet shutdown enters its second week as authorities continue their violent crackdown on protesters, leading to widespread criticism from international observers and human rights organizations. Despite the harsh response by security forces using live ammunition against civilians who mostly peacefully sought political reform via social media platforms.",
-        "The shutdown has raised concerns over freedom of expression within Iran's tightly controlled society, as internet access was abruptly cut from various regions without prior notice. Amidst the backdrop of a historic protest movement initiated by youth and women demanding socio-economic changes through peaceful demonstrations.",
-        "Reports suggest that several detained activists remain incommunicado with no knowledge about their fate, highlighting Iran's disregard for basic rights amidst the internet blackout. The shutdown has not only crippled communication but also severely impacted businesses and individuals who rely on digital platforms."
-      ],
-      "insight": "This prolonged internet shutdown is indicative of a broader attempt by Iranian authorities to suppress dissent, control information flow, and maintain their hold over the country. It raises concerns about human rights abuses while exposing vulnerabilities in societies with limited accessibility options."
-    },
-    {
-      "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
-      "link": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Jan 2026 16:56:20 +0000",
-      "description": "The Trump administration formalized its 25% cut of H200 chip sales in China with a tariff that applies to certain semiconductors.",
-      "language": "en",
-      "summary": "The US has imposed a 25% tariff on Nvidia'ner H200 AI chips destined for China as part of broader trade restrictions.",
-      "points": [
-        "Formalization of the Trump administration's decision to impose a significant tariff",
-        "Specific targeting of certain semiconductors, including Nvidia’ner H200 AI chips headed for China",
-        "Potential impact on global trade and technology markets"
-      ],
-      "insight": "This move by the US could escalate tensions in international relations and disrupt supply chain dynamics within the IT/technology industry, potentially leading to higher costs for consumers and influencing future policy decisions."
     }
   ]
 }
