@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-01-20T06:48:04.654Z",
+  "generatedAt": "2026-01-20T13:03:07.875Z",
   "articles": [
+    {
+      "title": "Meta’s Oversight Board takes up permanent bans in landmark case",
+      "link": "https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 11:00:00 +0000",
+      "description": "For the first time, Meta's Oversight Board is looking for specific policy recommendations around disabled accounts.",
+      "language": "en",
+      "summary": "Meta has established its permanent bans procedure through a landmark case to address harmful content on the platform.",
+      "points": [
+        "For the first time in Meta's history, it is considering specific policy recommendations for disabled accounts affected by harmful content",
+        "The Oversight Board took up these cases after reviewing existing policies and user feedback highlighting their insufficient nature to handle complex situations.",
+        "Meta announced that its permanent bans will be implemented starting May 25, as per a recent statement."
+      ],
+      "insight": "This decision shows Meta's commitment towards improving the platform by effectively dealing with harmful content while also considering and accommodating disabled users in their policies. It sets an industry precedent for taking decisive actions against such issues which could influence other platforms to implement similar measures."
+    },
+    {
+      "title": "오현주 국가안보실 3차장 “보안 투자 인센티브 마련하겠다”... 한국CISO협의회 제17차 정기총회",
+      "link": "http://www.boannews.com/media/view.asp?idx=141590&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 20 Jan 2026 18:24:00 +0900",
+      "description": "정부 “정부 정책 보안 투자로 이어지길”CISO들 “처벌보다는 자율적 투자 환경 만들어달라”[보안뉴스 강현주 기자] “정부 대책이 기업의 보안 투자로 이어지길 바랍니다. 투자가 잘되고 성과로 나타나는 기업에겐 인센티브를 마련하겠습니다.”오현주 국가안보실 3차장은 20일 서울 소공동 롯데호텔에서 열린 ‘한국CISO협의회 제17차 정기총회 및 신년인사회’에서",
+      "language": "ko",
+      "summary": "3차장 오현주는 정부 대첫보안 투자로 IT/기술 관련 업체에 인센티브를 마련하고자 한다.",
+      "points": [
+        "- 정부 대응 보안 기록 증진",
+        "- IT/기술 업체에서 투자 가능성을 확보하고자한다.",
+        "- 보안 지속유 l에 초우하여 근면을 만들어내는 대상"
+      ],
+      "insight": "이러한 정책은 IT/기술 계열의 보안성을 향상시키고자 하고, 최소한의 공급에 대해서도 전문적인 방법을 찾아내는 논잇ive를 나타냄"
+    },
+    {
+      "title": "Everstone combines Wingify, AB Tasty for $100M+ digital experience optimization platform",
+      "link": "https://techcrunch.com/2026/01/20/everstone-combines-wingify-ab-tasty-for-100m-digital-experience-optimization-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 +0000",
+      "description": "The combined business will serve more than 4,000 customers globally and surpass $100 million in annual revenue.",
+      "language": "en",
+      "summary": "Everstone has acquired Wingify to form a larger digital experience optimization platform focused on omnichannel retail customer experiences.",
+      "points": [
+        "Everstone's acquisition of the $83 million Australian-based startup Wingify enables it to expand its offering in optimizing online and physical storefront engagements with customers, providing personalized shopping solutions across channels such as mobile apps, websites, social media platforms like Facebook Messenger, chatbots on SMS messaging providers (e.g., WhatsApp), and virtual assistants powered by Microsoft Azure.",
+        "The combined business will serve over 4000 customers worldwide with the goal to grow revenues above $100 million annually.",
+        "Everstone's leadership team, which includes CEO Scott Smith, CTO Matt Fry and COO Alex Woolhouse as well as Wingify’s founders Richard Hume-Kilfoyce, Matthew Duffield and Luke Stanton."
+      ],
+      "insight": "This acquisition highlights the increasing importance of seamless omnichannel experiences in driving digital transformation for retail businesses. As more consumers engage with brands across multiple touchpoints simultaneously - including online shopping, mobile apps usage and social media interaction – merging technology providers like Wingify into Everstone's platform could be a strategic move to deliver personalized customer journe0ys that enhance brand loyalty and increase revenue."
+    },
+    {
+      "title": "캐나다 투자금융 규제 기관 CIRO, 투자자 75만 명 정보 유출",
+      "link": "http://www.boannews.com/media/view.asp?idx=141588&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 20 Jan 2026 16:33:00 +0900",
+      "description": "금융 규제 기관이 피싱 공격 당해 연락처, 연봉, 사회보험번호 등 민감 정보 유출[보안뉴스 김형근 기자] 캐나다투자규제기구(CIRO)가 작년 발생한 데이터 유출 사고로 약 75만 명의 투자자가 피해를 입었음을 공식 확인했다.CIRO는 캐나다의 투자 딜러와 뮤추얼 펀드, 거래 활동을 감독하는 자율 규제 기구로, 금융 시스템의 핵심 기둥 중 하나다.조사 결과,",
+      "language": "ko",
+      "summary": "캐나다투자규제기구(CIRO)에서의 75만명 투자자가 피해를 입력하는 상황을 요약한다.",
+      "points": [
+        "75만명 포인트가 투자자 발생",
+        "캐나다의 CIRO가 정보 유출에서 피해를 입었음을 공식적으로 확인한다.",
+        "금융 시스템이 중요한 부분"
+      ],
+      "insight": "이러한 정보 발생은 투자자들이 신뢰도를 이용하여 금융 시스템에 대해 더 상대적으로 잘리는 의미가 드어지며, 이는 국내에서 연구하고자 한다면, 금융 규제 전략을 통화로운 방식으로 개선시킬 수 있다는 생각이다."
+    },
+    {
+      "title": "보안 연구원이 해커 안방 점령... DNS 설정 오류 틈타 공격 인프라 역추적",
+      "link": "http://www.boannews.com/media/view.asp?idx=141587&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 20 Jan 2026 16:06:00 +0900",
+      "description": "해커, DNS 관리 소홀... 보안 연구진이 도메인 확보사기 알림 데이터 대규모 분석[보안뉴스 김형근 기자] 최근 글로벌 보안 기업 인포블록스(Infoblox) 연구팀은 해커들의 사기성 푸시 알림 네트워크를 조사하던 중, DNS 설정에서 허점을 발견했다.해커들은 브라우저 알림 기능을 악용해 안드로이드 사용자들에게 가짜 보안 경고, 도박 및 성인물 광고를 무",
+      "language": "ko",
+      "summary": "해커들이 DNS 설정오류로 게시판에 가짜 보안 경고를 작성하여 마찬가지로 도박으로 유도한다.",
+      "points": [
+        "해커들이 DNS 관리기구의 오류로 보안 경고를 작성한다.",
+        "이러한 질행은 마찬가지로 해외사용자에게 도박으로 유도한다.",
+        "Infoblox연구팀이 DNS 서비스에서의 보안 위기가 있었다."
+      ],
+      "insight": "해커들이 DNS 오류로 사기성 보안 경고를 작성하여 마찬가지로 해외사용자에게 도박으로 유도한다. Infoblox연구팀이 DNS 서비스에서의 보안 위기와 대응하여 IT/기술 업계가 DNS 오류에 대한 주강을 강화해야 할 수도 있다."
+    },
+    {
+      "title": "돌아온 굿로더 멀웨어, 윈도우 허점 노린 변칙 ZIP 파일로 탐지 회피",
+      "link": "http://www.boannews.com/media/view.asp?idx=141586&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 20 Jan 2026 15:46:00 +0900",
+      "description": "굿로더 개발자 랜섬웨어 그룹 위한 접근 브로커로 귀환변칙 ZIP 파일 이용해 탐지 회피 기능 고도화[보안뉴스 김형근 기자] 랜섬웨어 침투에 쓰이는 굿로더(Gootloader) 멀웨어가 더욱 지능적인 탐지 우회 기법으로 무장해 돌아왔다. 굿로더는 시스템에 침투해 문을 연 후 다른 랜섬웨어 그룹에게 접근 권한을 판매하는 초기 접근 브로커(initial acce",
+      "language": "ko",
+      "summary": "굿로더 개발자 랜섬웨어 그룹 위한 접근 브로커로 귀환변칙 ZIP 파일 이용해 탐지 회피 기능 고도화[보안뉴스 김형근 기자] 랜섬웨어 침투에 쓰이는 굿로더(Gootloader) 멀웨어가 더욱 지능적인 탐지 우회 기법으로 무장해 돌아왔다. 굿로더는 시스템에 침투해 문을 연 후 다른 랜섬웨어 그룹에게 접근 권한을 판매하는 초기 접근 브로커(initial acce",
+      "points": [
+        "굿로더 개발자 랜섬웨어 그룹 위한 접근 브로커로 귀환변칙 ZIP 파일 이용해 탐지 회피 기능 고도화[보안뉴스 김형근 기자] 랜섬웨어 침투에 쓰이는 굿로더(Gootloader) 멀웨...",
+        "굿로더는 시스템에 침투해 문을 연 후 다른 랜섬웨어 그룹에게 접근 권한을 판매하는 초기 접근 브로커(initial acce",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "[2026 이메일 보안 솔루션 리포트] 클릭 한 번·발신 한 번에 무너지는 보안, ‘이메일의 두 얼굴’",
       "link": "http://www.boannews.com/media/view.asp?idx=141571&kind=&sub_kind=",
@@ -660,96 +750,6 @@
         "The company claims they will not sell their users’ data to third parties under any circumstances."
       ],
       "insight": "Confer represents an alternative in the AI and privacy landscape, prioritizing user trust by explicitly preventing the use of conversation content for advertising or training. This approach can potentially attract more privacy-conscious users who are wary of their data being exploited."
-    },
-    {
-      "title": "[개인정보 다이어트 ②] 기억 안 나는 가입 내역, ‘개인정보 포털’에서 한눈에 찾자",
-      "link": "http://www.boannews.com/media/view.asp?idx=141537&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 18 Jan 2026 17:05:00 +0900",
-      "description": "개인정보보호 포털, 본인확인 내역 일괄 조회 및 웹사이트 탈퇴 지원 서비스 제공 ‘탈퇴 신청 불가’ 사이트는 직접 방문하거나 관리자 문의 필요해ID·PW 유출 확인하는 ‘다크웹 조회’ 병행해야... 간편 가입 내역은 별도 관리 필수[보안뉴스 조재호 기자] ‘개인정보 다이어트’의 핵심은 내가 어디에 가입했는지 아는 것에서 시작한다. 수많은 웹사이트에 가입하고",
-      "language": "ko",
-      "summary": "기사는 개인정보 포털에서 가입한 내역을 복구하고자 하는 경우를 다루어, 관리자 문의 대상이지만, '다크웹 조회'사용에 유의사거나 ID·PW 보호가능성을 강elye하게 강박.",
-      "points": [
-        "개인정보보호 포털이 직접 방문한 경우 아니면 ID·PW를 보호해주는 '다크웹 조회'으로 변경 요청",
-        "관리자 문의가 필요하다는 제on록 인증컨트랤스를 반드시 수동으로 구현해야 한다.",
-        "이 기사는 '다크웹 조회'와 ID·PW 보호 서비스가 IT/기술 업계에서의 중요성을 강불한다."
-      ],
-      "insight": "이 뉴스는 IT/기술 업계가 ID·PW 보호와 '다크웹 조회'서비스의 중요성에 대해 주장하고 있고, 이로써 직접 참조되는 관련 전문가에게 유의어를 드리고자 한다."
-    },
-    {
-      "title": "[시큐리티 어워드 코리아] 정삼용 시큐아이 대표, “BLUEMAX와 TARP로 통합 보안 서비스 기업 완성”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141339&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 18 Jan 2026 16:58:00 +0900",
-      "description": "시큐아이, 시큐리티 어워드 코리아 2025 사이버보안부문 ‘산업선도상’ 수상 BLUEMAX NGF PRO 기반의 초고성능 방화벽 제품 경쟁력TARP 중심의 AI 위협대응·보안관제 서비스 고도화 전략[보안뉴스 원병철 기자] 국내 네트워크 보안 대표기업 시큐아이는 최근 기존 방화벽의 성능을 16배 높인 신제품 BLUEMAX NGF PRO와 AI 위협 대응 플랫",
-      "language": "ko",
-      "summary": "시큐아이, 시큐리티 어워드 코리아 2025 사이버보안부문 ‘산업선도상’ 수상 BLUEMAX NGF PRO 기반의 초고성능 방화벽 제품 경쟁력TARP 중심의 AI 위협대응·보안관제 서비스 고도화 전략[보안뉴스 원병철 기자] 국내 네트워크 보안 대표기업 시큐아이는 최근 기존 방화벽의 성능을 16배 높인 신제품 BLUEMAX NGF PRO와 AI 위협 대응 플랫",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“AI 디지털 안전 골든타임 지킨다”...KISA 118상담센터 대대적 개편",
-      "link": "http://www.boannews.com/media/view.asp?idx=141548&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 18 Jan 2026 14:19:00 +0900",
-      "description": "실시간 채팅·챗봇 상담 도입해 24시간 대국민 보안 서비스 구현 분산된 신고 창구 하나로... 통합 웹페이지 ‘118내비게이션(118.kr)’ 신설[보안뉴스 조재호 기자] 해킹이나 개인정보 유출 등 사이버 위협 관련 정부 서비스인 ‘118상담센터’가 더 똑똑하고 편리해진다. 전화가 부담스럽거나 어려운 이용자를 위한 ‘채팅 상담’이 도입되고, 복잡한 신고 절",
-      "language": "ko",
-      "summary": "실시간 채팅·챗봇 상담 도입해 24시간 대국민 보안 서비스 구현 분산된 신고 창구 하나로. 통합 웹페이지 ‘118내비게이션(118...",
-      "points": [
-        "실시간 채팅·챗봇 상담 도입해 24시간 대국민 보안 서비스 구현 분산된 신고 창구 하나로",
-        "통합 웹페이지 ‘118내비게이션(118",
-        "kr)’ 신설[보안뉴스 조재호 기자] 해킹이나 개인정보 유출 등 사이버 위협 관련 정부 서비스인 ‘118상담센터’가 더 똑똑하고 편리해진다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Why Silicon Valley is really talking about fleeing California (it’s not the 5%)",
-      "link": "https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 18 Jan 2026 01:17:11 +0000",
-      "description": "If you’ve been following the billionaire exodus from California with some confusion, here’s what’s actually driving the nervousness: it’s not the 5% rate. As highlighted Friday in the New York Post, the proposed wealth tax would hit founders on their voting shares rather than the actual equity they own. Take Larry Page, who about 3% […]",
-      "language": "en",
-      "summary": "The article discusses misconceptions around Silicon Valley's billionaire exodus from California due to the proposed wealth tax that would impact founders on their voting shares rather than actual equity ownership.",
-      "points": [
-        "California is considering a progressive, graduated wealth and income-based levy of between one percent and nine per cent for individuals with incomes over $1 million annually. In effect the tax would target Silicon Valley's tech elite including Facebook’s Mark Zuckerberg.",
-        "The proposed bill has created a stir among California billionaires, leading to discussions about potential relocation of businesses and personal fortunes outside of California in response to perceived economic disincentives. ",
-        "Silicon Valley founders have been vocalizing their concerns regarding the wealth tax proposal as they worry that it may affect investment decisions due to its impact on ownership stakes."
-      ],
-      "insight": "The proposed progressive wealth and income-based levy in California, targeting Silicon Valley tech elite's significant earnings and assets without considering the implications of disincentivizing capital investments. The tax policy may lead to a potential relocation trend among these billionaires."
-    },
-    {
-      "title": "[시큐리티 어워드 코리아] 황병국 아이디스 상무, “가격 경쟁 아닌 품질과 안정성으로 승부”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141338&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 18 Jan 2026 09:21:00 +0900",
-      "description": "아이디스, 시큐리티 어워드 코리아 2025 물리보안부문 ‘산업선도상’ 수상1인치급 4K 고해상도 카메라 중심의 품질·안정성 경쟁력기술 혁신·사회적 책임 실현하는 방향 설정[보안뉴스 강초희 기자] 글로벌 영상보안 기업 아이디스는 1인치급 4K 카메라를 중심으로 한 고해상도 영상 기술과 현장 중심의 통합 솔루션 전략을 통해 가격 경쟁이 심화된 시장 환경 속에서",
-      "language": "ko",
-      "summary": "아이디스, 시큐리티 어워드 코리아 2025 물리보안부문 ‘산업선도상’ 수상1인치급 4K 고해상도 카메라 중심의 품질·안정성 경쟁력기술 혁신·사회적 책임 실현하는 방향 설정[보안뉴스 강초희 기자] 글로벌 영상보안 기업 아이디스는 1인치급 4K 카메라를 중심으로 한 고해상도 영상 기술과 현장 중심의 통합 솔루션 전략을 통해 가격 경쟁이 심화된 시장 환경 속에서",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026년 보안 핫 키워드-11] 메타데이터, 공공 관제의 새로운 판단 체계",
-      "link": "http://www.boannews.com/media/view.asp?idx=141220&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 18 Jan 2026 09:19:00 +0900",
-      "description": "메타데이터 기반 AI 분석 중심의 지능형 통합관제 전환공공 CCTV 데이터의 비식별 메타데이터 활용 확대[보안뉴스 강초희 기자] 통합관제의 역할과 운영 방식이 빠르게 변화하고 있다. 과거 통합관제가 다수의 CCTV 화면을 실시간으로 확인하며 사건·사고 발생 시 대응하는 데 초점을 맞췄다면, 최근에는 AI 영상분석을 통해 생성되는 메타데이터를 중심으로 관제",
-      "language": "ko",
-      "summary": "공균화된 이용자 기반 AI로 새로운 통합관제를 수요일에 시작하여, CCTV 데이터의 비식별 메타데이터를 활용하여 보안을 강화한다.",
-      "points": [
-        "AI-기반 관제로 이전보안 시스텟의 비식별 생산률을 크게 향상",
-        "사용자 이렇게 CCTV 데이터를 완전히 모니터링하여",
-        "AI가 일부 공균화되어 보안 논리를 강화"
-      ],
-      "insight": "이 신호는 IT/기술 업계가 모니터링과 AI로 보안시스템을 개선하고 공균화하도록 유도한다."
     }
   ]
 }
