@@ -1,6 +1,229 @@
 {
-  "generatedAt": "2026-01-20T18:43:10.072Z",
+  "generatedAt": "2026-01-21T01:58:41.128Z",
   "articles": [
+    {
+      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
+      "link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 21 Jan 2026 01:39:58 +0000",
+      "description": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.",
+      "language": "en",
+      "summary": "Anthropi CEO Dario Amodei criticized the U.S. administration's stance on selling technology to China during Davos, pointing fingers at Nvidia for being a key investor in his company despite these concerns.",
+      "points": [
+        "Dario Amodei, Anthropic CEO, openly critiqued plans by the U.S. administration and chip companies like Nvidia to sell technology to China while attending Davos.",
+        "Amodei expressed frustration over this decision as he views it contrary to national interests given that many of these technologies are used in military contexts within Chinese forces, such as drones equipped with AI-powered cameras and advanced navigation systems."
+      ],
+      "insight": "This criticism by Anthropi's CEO highlights growing concerns about the ethical implications of technology sales to countries perceived as potential threats. It brings forth questions on corporate responsibility, national security policies, and due diligence in international commerce within the tech industry."
+    },
+    {
+      "title": "파이오링크, 전남소방본부에 ‘국산 네트워크’ 전면 도입... 도지사 표창",
+      "link": "http://www.boannews.com/media/view.asp?idx=141591&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 21 Jan 2026 10:22:00 +0900",
+      "description": "백본부터 L2·L3까지 전 구간 국산 장비 기술력 입증[보안뉴스 강현주 기자] 파이오링크(대표 조영철)가 전남소방본부의 소방 정보통신 통합망을 자사 네트워크 제품으로 구축했다고 21일 밝혔다. 파이오링크는 국산 장비만으로 안정적 인프라 운영에 기여한 공로로 전라남도지사 표창을 수상했다.이 사업은 전국 소방본부 중 최초로 백본스위치부터 L2·L3 스위치에 이",
+      "language": "ko",
+      "summary": "백본부터 L2·L3까지 전 구간 국산 장비 기술력 입증[보안뉴스 강현주 기자] 파이오링크(대표 조영철)가 전남소방본부의 소방 정보통신 통합망을 자사 네트워크 제품으로 구축했다고 21일 밝혔다. 파이오링크는 국산 장비만으로 안정적 인프라 운영에 기여한 공로로 전라남도지사 표창을 수상했다...",
+      "points": [
+        "백본부터 L2·L3까지 전 구간 국산 장비 기술력 입증[보안뉴스 강현주 기자] 파이오링크(대표 조영철)가 전남소방본부의 소방 정보통신 통합망을 자사 네트워크 제품으로 구축했다고 2...",
+        "파이오링크는 국산 장비만으로 안정적 인프라 운영에 기여한 공로로 전라남도지사 표창을 수상했다",
+        "이 사업은 전국 소방본부 중 최초로 백본스위치부터 L2·L3 스위치에 이"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[시큐리티 어워드 코리아] 박천오 피앤피시큐어 대표, “2026년은 사람 기반 인증의 원년”",
+      "link": "http://www.boannews.com/media/view.asp?idx=141348&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 21 Jan 2026 09:59:00 +0900",
+      "description": "무자각 지속 인증(ICA) 기반의 사람 중심 인증 체계 고도화Unified IAM 관점의 DB·시스템 접근통제 통합 운영 전략[보안뉴스 원병철 기자] 끊임없이 변해가는 IT 환경과 다양하게 변화하는 정보보안 사고의 위협 속에서 이 세상의 모든 보안 담당자가 사용하고 싶은 보안 솔루션을 만들고자 설립된 피앤피시큐어는 무엇보다 전문성과 기술력을 바탕으로 한 정",
+      "language": "ko",
+      "summary": "무자각 지속 인증(ICA) 기반의 사람 중심 인증 체계 고도화Unified IAM 관점의 DB·시스템 접근통제 통합 운영 전략[보안뉴스 원병철 기자] 끊임없이 변해가는 IT 환경과 다양하게 변화하는 정보보안 사고의 위협 속에서 이 세상의 모든 보안 담당자가 사용하고 싶은 보안 솔루션을 만들고자 설립된 피앤피시큐어는 무엇보다 전문성과 기술력을 바탕으로 한 정",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[시큐리티 어워드 코리아] 이재원 슈프리마 회장, “AI 통합보안으로 확장한 출입보안의 경계”",
+      "link": "http://www.boannews.com/media/view.asp?idx=141347&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 21 Jan 2026 09:54:00 +0900",
+      "description": "BioStar X 기반의 출입통제·영상관제 통합보안 플랫폼 전략BioStar Air 중심의 클라우드 출입통제 해외 시장 공략[보안뉴스 강초희 기자] 슈프리마가 시큐리티 어워드 코리아 2025에서 물리보안부문 ‘동반성장상’을 수상했다. 최근 슈프리마는 출입통제를 중심으로 축적해 온 생체인증 기술을 바탕으로, AI 기반 영상관제와 클라우드를 결합한 통합보안 플",
+      "language": "ko",
+      "summary": "이재원 슈프리마는 신호제어 기술을 이용한 AI를 관래로 확장한 출입보안을 중심으로 시즌별 공략진단으로 살아나갈 수 dependent하게 AI 기술이 되도록 강화하는 전략",
+      "points": [
+        "슈프리마는 BioStar Air로 이루어진 클라우드 출입통제 해외 시장 공략인식을 기반으로, AI를 이용한 영상관제와 추가되어야 하는 클라우드 비즈니지",
+        "슈프리마는 발전되는 공학과 코리아의 이재원인증 기술을 통해 AI를 이상치로 건드릴 수 있는 위험성을 방지하도록 전략을 개발한다.",
+        "비젼리아 시장의 공략인식과 AI를 이용한 보안에서, 새로운 전략으로 추가되는 영상관제와 클라우드 비즈니지 기능은 공격자가 설보하는 방향성과 시간을 고쳐야 한다."
+      ],
+      "insight": "이 뉴스를 기반으로 한국어로 'AI를 이용한 보안으로 AI와 클라우드 비즈니지에 겹쳐진 출입통제'으로 인사이트를 요약하면, IT/기술 업체는 AI와 다른 보안 전략을 개선해야만 하는 현재에서의 공동비즈니지 균혨성이 필요하다. 이런 AI를 이용한 기능들은 모바일로 전달 가능하고, IT/기술 서비스에 대한 환경의 안전성을 강화해야 한다."
+    },
+    {
+      "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
+      "link": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 21 Jan 2026 00:47:09 +0000",
+      "description": "At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May.",
+      "language": "en",
+      "summary": "Netflix plans to overhaul its app by incorporating more social platform-like features such as deeper integration of vertical video feeds.",
+      "points": [
+        "Deeper integration of vertical video feeds in Netflix' extranet for daily engagement and interaction",
+        "Experimentation with the feature since May, aiming to compete more effectively with social platforms on user engagement levels",
+        "Redesign focus indicates a strategic shift towards mimicking popular features of other online entertainment communities"
+      ],
+      "insight": "Netflix's redesign strategy suggests an understanding that the future of content consumption is not just about streaming but also interactivity, mirroring social platform dynamics to keep users engaged."
+    },
+    {
+      "title": "One-time hot insurance tech Ethos poised to be first tech IPO of the year",
+      "link": "https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 23:36:32 +0000",
+      "description": "Ethos was backed by a who's who of VCs and celebs through 2021. It is currently profitable, it says.",
+      "language": "en",
+      "summary": "Insurance tech company Ethos prepares for a potential IPO later this year after significant backing and profitability.",
+      "points": [
+        "Ethos secured notable support from prominent VC firms like Andreessen Horowitz, Lerer Hi/Elite Ventures, among others during its growth phase in 2021.",
+        "The company has reported to be profitable while maintaining strong revenue and gross margin levels according to recent financial statements shared with investors.",
+        "Ethos is likely aiming for a stock market debut as one of the first insurance technology IPOs, following its 2nerve acquisition by Lloyds."
+      ],
+      "insight": "As Ethos transitions from startup to public company through an IPO in the burgeoning fintech sector within insurance tech, it represents increased visibility and potential access to more capital for similar startups seeking expansion or strategic partnerships. This move could catalyze further investments into innovative technologies that streamline underwriting processes."
+    },
+    {
+      "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
+      "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 23:29:56 +0000",
+      "description": "The feature is designed to stop problematic content from being delivered to users under the age of 18.",
+      "language": "en",
+      "summary": "ChatGPT will now estimate a user's age in an effort to protect younger audiences by filtering out unsuitable content.",
+      "points": [
+        "The new ChatGPT feature estimates users' ages to filter problematic content for those under 18",
+        "This approach is intended as part of broader measures against harmful online interactions among minors",
+        "Age estimation in AI conversations can present privacy concerns and potential misuse"
+      ],
+      "insight": "While the age-estimation feature by ChatGPT aims to create a safer digital environment for minors, it also raises questions about user data security and ethical use of personal information."
+    },
+    {
+      "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+      "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 22:10:41 +0000",
+      "description": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”",
+      "language": "en",
+      "summary": "Tesla plans to revive its Dojo3 chip project with a focus on space-based artificial intelligence computations.",
+      "points": [
+        "Elon Musk announced Tesla's decision to restart the development of Dojo3, an AI chip initially designed for self-driving models but now repurposed towards facilitating computing in space environments.",
+        "The company aims to make this third-generation processor more advanced and efficient compared to its predecessors. The project has already secured significant investment from Tesla's CEO himself, Elon Musk. ",
+        "Tesla’s Dojo3 chip development aligns with the broader industry trend of developing AI technologies for non-terrestrial applications."
+      ],
+      "insight": "The decision to repurpose Tesla's Dojo3 project towards space computing signifies a growing interest and demand within both the tech sector and wider societal context, aiming to leverage unique conditions in outer space for advancing AI technology. This could potentially lead other companies to consider similar initiatives."
+    },
+    {
+      "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
+      "link": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 21:37:09 +0000",
+      "description": "In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce.",
+      "language": "en",
+      "summary": "In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce",
+      "points": [
+        "In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Luminar founder Austin Russell agrees to accept subpoena in bankruptcy case",
+      "link": "https://techcrunch.com/2026/01/20/luminar-founder-austin-russell-agrees-to-accept-subpoena-in-bankruptcy-case/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 21:32:47 +0000",
+      "description": "The agreement comes two weeks after Luminar accused its billionaire founder of dodging information requests, as it evaluates potential legal claims.",
+      "language": "en",
+      "summary": "Austin Russell, the tech mogul behind self-driving car company Luminar, has agreed to testify before a federal bankruptcy judge despite earlier evading information requests related to his role in the financial downfall of the startup.",
+      "points": [
+        "Luminar founder Austin Russell previously evaded disclosing certain information about self-driving technology and company decisions during its period leading up to insolvency.",
+        "Russell has now agreed to testify before a federal bankruptcy judge, despite his initial resistance stemming from allegations of fraudulent misrepresentation by the startup'thy itself."
+      ],
+      "insight": "Austin Russell accepting subpoena in Luminar's case could lead to more transparent proceedings and potentially unveil strategic blunders made during his leadership, which may impact similar startups. The situation also raises questions about how technology executives handle business transitions."
+    },
+    {
+      "title": "Why Serve Robotics is acquiring a hospital assistant robot company",
+      "link": "https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 21:30:00 +0000",
+      "description": "Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.",
+      "language": "en",
+      "summary": "Serve Robotics is set to acquire hospital assistant robot company Diligent Robotics for a valuation of their common stock at $29 million.",
+      "points": [
+        "Diligent Robotics specializes in building robots that assist hospit extraneous tasks like delivering samples and supplies",
+        "The acquisition deal is valued with Diligent's common stock price, which implies a significant market interest for hospital robotic solutions",
+        "This move highlights the growing trend of automation within healthcare environments"
+      ],
+      "insight": "Serve Robotics acquiring Diligent represents an increasing investment in intelligent assistive technologies and their potential to revolutionize efficiency standards across medical facilities."
+    },
+    {
+      "title": "Trump administration admits DOGE may have misused Americans’ Social Security data",
+      "link": "https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 20:56:25 +0000",
+      "description": "The revelation comes as part of a series of corrections in a legal case over DOGE’s access to Social Security Administration data.",
+      "language": "en",
+      "summary": "Former U.in President Trump's administration has confessed that the digital currency platform, Dogecoin (DOGE), might have misused Americans' social security information.",
+      "points": [
+        "The DOJ will not pursue legal action against a small business owner for mishandling sensitive data on their own website and in marketing materials without explicit permission from the individuals involved or proper authorization to access such personal details.",
+        "DOGE, which is based off Shibesh Coin (SHIBO), an Ethereum-based ERC20 token that operates as a playful parody of meme cryptocurrency Dogecoin., was accused by DOJ in early October 2021 to have misused the personal information obtained from Social Security Administration records.",
+        "The Justice Department is releasing guidelines and resources for small businesses on how they can safely handle sensitive data like social security numbers, medical details, or other private consumer information."
+      ],
+      "insight": "This news may set a precedent in regulating the handling of personal financial records by digital platforms. It raises questions about transparency and privacy concerns surrounding non-traditional currencies utilizing public data repositories like social security databases, which could significantly impact industry practices."
+    },
+    {
+      "title": "UStrive security lapse exposed personal data of its users, including children",
+      "link": "https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 20:47:47 +0000",
+      "description": "The online mentoring site UStrive exposed email addresses, phone numbers, and other non-public information to other logged-in users. The nonprofit told TechCrunch that the issue is now fixed, but wouldn't commit to alerting affected individuals.",
+      "language": "en",
+      "summary": "UStrive experienced a security flaw allowing visible personal data of its users to be seen by others on the platform; the issue has since been resolved.",
+      "points": [
+        "A previously unknown bug at UStrive allowed logged-in user's email addresses, phone numbers, and other non-public information to become visible within chat rooms",
+        "The website had no policy in place for notifying affected individuals due to the sensitive nature of exposing children’th data",
+        "UStrive plans fixes but has yet to commit on how or if it will inform users"
+      ],
+      "insight": "This incident highlights a critical gap in UStrive's privacy policies and procedures, especially regarding vulnerable populations like children. It underscores the importance of robust data protection measures for nonprofit platforms handling sensitive information."
+    },
+    {
+      "title": "Ethernovia raises $90M as investors rush to fund ‘physical AI’",
+      "link": "https://techcrunch.com/2026/01/20/ethernovia-raises-90m-as-investors-rush-to-fund-physical-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 20:27:30 +0000",
+      "description": "The automotive-focused company is looking to expand its Ethernet-based processors to fields like robotics.",
+      "language": "en",
+      "summary": "The automotive-focused company is looking to expand its Ethernet-based processors to fields like robotics",
+      "points": [
+        "The automotive-focused company is looking to expand its Ethernet-based processors to fields like rob...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Amazon CEO Andy Jassy says tariffs are starting to drive up product prices",
+      "link": "https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Jan 2026 19:50:14 +0000",
+      "description": "Jassy said on Tuesday that while Amazon is trying to keep prices low, price hikes may be unavoidable in some cases.",
+      "language": "en",
+      "summary": "Amazon CEO Andy Jassy acknowledged during an earnings call that tariffs are beginning to influence product prices.",
+      "points": [
+        "Andy Jassy announced potential for price hikes due to new US-China trade policy",
+        "Tariffs on electronics and other goods expected in early January, impacting Amazon'selfs bottom line",
+        "Prices might rise as a necessary measure despite attempts by Jeff Bezos to maintain low prices"
+      ],
+      "insight": "The announcement highlights the growing concern within e-commerce regarding trade tariffs and their direct financial implications on pricing strategies."
+    },
     {
       "title": "ICE becomes one of the most-blocked accounts on Bluesky after its verification",
       "link": "https://techcrunch.com/2026/01/20/ice-becomes-one-of-the-most-blocked-accounts-on-bluesky-after-its-verification/",
@@ -525,231 +748,6 @@
         "The technology aims at managing misaligned agents as part of broader cybersecurity measures."
       ],
       "insight": "The increasing investment in AI security solutions by VCs indicates recognition that artificial intelligence can play a critical role in identifying and mitigating risks posed by rogue or shadowy activities within IT systems, suggesting an evolving landscape of cybersecurity threats."
-    },
-    {
-      "title": "Looking ahead to 2026: What’s next for Startup Battlefield 200",
-      "link": "https://techcrunch.com/2026/01/19/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 19 Jan 2026 15:00:00 +0000",
-      "description": "See what to expect for Startup Battlefield 200 in 2026, the ultimate startup pitch competition on the global stage at TechCrunch Disrupt. Join the mailing list to be the first to know when applications drop.",
-      "language": "en",
-      "summary": "The article anticipates developments in Startup Battlefield 200 by 2026 and encourages startups worldwide to prepare for pitching at TechCrunch Disrupt.",
-      "points": [
-        "Look forward to the evolution of Startup Battlefield 200, with a focus on its impact in fostering innovation within the tech industry by inviting entrepreneurs globally to showcase their startups.",
-        "The article stresses the importance for participating companies not only as contenders but also as influencers contributing significant ideas and advancements during TechCrunch Disrupt'softest pitch competition', expected in 2026.",
-        "Emphasizes on how Startup Battlefield 200 offers a unique platform that connects startups with mentors, investors, customers, media partnerships which can be instrumental for the growth of their business."
-      ],
-      "insight": "The anticipated developments in Startup Battlefield 200 could represent an increasingly significant and influential role within startup ecosystems across various sectors by providing a unique platform that connects startups with key stakeholders, facilitating growth and innovation."
-    },
-    {
-      "title": "BioticsAI, which won Disrupt’s Battlefield competition in 2023, gains FDA approval for its AI-powered fetal ultrasound product",
-      "link": "https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 19 Jan 2026 15:00:00 +0000",
-      "description": "TechCrunch Disrupt Battlefield 2023 winner, BioticsAI, announced on Monday that it has received FDA clearance for its AI software that helps detect fetal abnormalities in ultrasound images.",
-      "language": "en",
-      "summary": "BioticsAI' endorsed by the Food and Drug Administration (FDA) as a Battlefield winner at TechCrunch Disrupt for its AI-powered fetal ultrasound technology that detects abnormalities.",
-      "points": [
-        "BioticsAI has received FDA clearance for an innovative tool using artificial intelligence to analyze and identify potential fetal health issues during routine medical imaging procedures.",
-        "The AI software stands out by offering a non-invasive, objective approach in the detection of congenital anomalies without replacing standard ultrasound equipment or requiring new technology for hospitals.",
-        "This development signifies an important advancement towards integrating artificial intelligence with prenatal care and could potentially improve early diagnosis rates."
-      ],
-      "insight": "BioticsAI's FDA-approved AI software represents a significant leap in non-invasive medical diagnostics, promising to enhance the standard of pregnancy screening without necessitating substantial changes for healthcare providers or costs."
-    },
-    {
-      "title": "SKT, 개인정보 유출 과징금 1347억원 취소 소송 제기",
-      "link": "http://www.boannews.com/media/view.asp?idx=141569&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 18:10:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 약 2324만여명 가입자 개인정보 유출로 개인정보보호위원회로부터 역대 최대 규모의 과징금을 부과받은 SK텔레콤이 처분에 불복하는 행정소송을 제기했다.19일 업계에 따르면 SKT는 이날 서울행정법원에 과징금 부과 처분을 취소해 달라는 소송을 냈다. 취소 소송 제기 기한 마지막 날인 20일을 하루 앞두고 내린 결정이다.개인정보위는 지난",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 약 2324만여명 가입자 개인정보 유출로 개인정보보호위원회로부터 역대 최대 규모의 과징금을 부과받은 SK텔레콤이 처분에 불복하는 행정소송을 제기했다. 19일 업계에 따르면 SKT는 이날 서울행정법원에 과징금 부과 처분을 취소해 달라는 소송을 냈다...",
-      "points": [
-        "[보안뉴스 강현주 기자] 약 2324만여명 가입자 개인정보 유출로 개인정보보호위원회로부터 역대 최대 규모의 과징금을 부과받은 SK텔레콤이 처분에 불복하는 행정소송을 제기했다",
-        "19일 업계에 따르면 SKT는 이날 서울행정법원에 과징금 부과 처분을 취소해 달라는 소송을 냈다",
-        "취소 소송 제기 기한 마지막 날인 20일을 하루 앞두고 내린 결정이다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "카스퍼스키, 글로벌 보안 기업 평가서 ‘투명성·책임성’ 선도 기업 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=141556&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 17:46:00 +0900",
-      "description": "투명성 센터 운영·SBOM 제공 등 선도적 행보로 업계 기준 상회오스트리아 WKO 의뢰 독립 평가서 ‘선도 기업’ 선정[보안뉴스 조재호 기자] 글로벌 주요 사이버보안 기업을 대상으로 한 투명성 평가에서 카스퍼스키가 높은 평가를 받았다. GDPR 등 기본적 법적 규제 준수를 넘어 투명성 센터를 운영하고 소프트웨어 자재 명세서(SBOM)를 제공한다는 점 등이",
-      "language": "ko",
-      "summary": "카스퍼스키가 인터럿 계정의 선수 기업들에 대해 IT/비즈니톨 보안 평가를 수확하면서도 GDPR 등의 이용으로인한 투명성·책임성을 선들에게 준수하고나자리의 소프트웨어 제출 서 기업 선정",
-      "points": [
-        "카스퍼스키가 IT/비즈니톨 보안 계정에서 고찰을 받고 GDPR 등의 이용으로인한 투명성·책임성을 선들에게 준수하고나자리의 소프트웨어 제출",
-        "스마크멧시스톯 마이페닷책, 맥시터그램 시크릿슈퍼사이스 등이 선수 기업로 가정",
-        "카스퍼스키는 전세계적으로 IT/비즈니톨 보안 알바 서를 제공하며, 국가적인 보안운영을 위한 환경을 만드는 것이 기업 선정에 집중적으로 기여."
-      ],
-      "insight": "IT/비즈니톨 보안 운영의 중요성을 강조하며, 이를 확인하면서도 GDPR 등의 사용에 대해서는 더 이상 실제 공식으로 마련해야 한다."
-    },
-    {
-      "title": "하이크비전, 한국형 전자칠판 ‘WonderHub G2’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=141566&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 17:10:00 +0900",
-      "description": "공식 수입사 TGS 통해 공급, 국내 교육 및 비즈니스 환경에 최적화 안드로이드 14 기반의 직관적 UI올해 2분기 AI 기능 ‘WonderOS’ 업데이트 예고[보안뉴스 엄호식 기자] 전자칠판 시장의 기술 경쟁이 치열한 가운데, 상업용 디스플레이 강자 하이크비전(Hikvision)이 ‘실제 현장에서 얼마나 편하게 쓸 수 있는가’에 집중한 신작을 내놨다. 국",
-      "language": "ko",
-      "summary": "공식 수입사 TGS 통해 공급, 국내 교육 및 비즈니스 환경에 최적화 안드로이드 14 기반의 직관적 UI올해 2분기 AI 기능 ‘WonderOS’ 업데이트 예고[보안뉴스 엄호식 기자] 전자칠판 시장의 기술 경쟁이 치열한 가운데, 상업용 디스플레이 강자 하이크비전(Hikvision)이 ‘실제 현장에서 얼마나 편하게 쓸 수 있는가’에 집중한 신작을 내놨다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "시스코 탈로스가 분석한 중국 배후 UAT-8837의 정교한 침투 전술",
-      "link": "http://www.boannews.com/media/view.asp?idx=141565&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 16:37:00 +0900",
-      "description": "탐지 회피 위한 정교한 기법 사용국가 배후 위협 그룹에 의한 공급망 공격 경고[보안뉴스 김형근 기자] 북미 핵심 인프라를 겨냥해 활동해 온 중국 배추 추정 공격 그룹 UAT-8837이 최근 포착됐다. 2025년 초부터 이들을 면밀히 추적해 온 시스코 탈로스의 분석 결과에 따르면, UAT-8837은 고가치 시스템에 대한 초기 접근권 확보를 위해 소프트웨어",
-      "language": "ko",
-      "summary": "UAT-8837, 공격복합을 위한 침투 전술 사용함",
-      "points": [
-        "중국 배추 공격 그룹 UAT-8837는 시스코 탈로스에서 제한 대안으로 이용합니다.",
-        "이 그룹은 소프트웨어를 사용하여 공격 대상 시스템의 일부를 강화",
-        "이들은 시스코 배후 UAT-8837에서 확보한 유대치질러리 권수를 통해 공격하는 방식을 활용합니다."
-      ],
-      "insight": "중국 공격 그룹이 시스코 배후 UAT-8837에 대해 정교한 직원들의 인터넷 위기권을 활용하여 공격병합 기법을 이용하고 있음"
-    },
-    {
-      "title": "[중동 in K-Security] 아이리스아이디, 글로벌 홍채·얼굴인식 전문업체의 저력 뽐내다",
-      "link": "http://www.boannews.com/media/view.asp?idx=141564&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 15:25:00 +0900",
-      "description": "비접촉 보안의 정점... 공항·국경통제 시스템 최적화된 출입통제 시스템으로 이목 집중[아랍에미리트 두바이=보안뉴스 취재팀] 전 세계 홍채·얼굴인식 시장을 선도하는 아이리스아이디(대표 구자극)는 1월 12일부터 14일까지 아랍에미리트 두바이에서 개최된 ‘인터섹 2026(Intersec 2026)’에서 비접촉 방식의 홍채·얼굴인식 다중 인증 솔루션을 선보였다.",
-      "language": "ko",
-      "summary": "아이리스의 초기진행에서 비접촉 방식의 홍채·얼굴인식 다중 인증 시스템을 선보였다.",
-      "points": [
-        "- 아이리스는 인터섹 2 end 플랫폼에서 '인터섹 2026'를 개최했다.",
-        "- 이 시스템은 비접촉 보안의 정점을 강조하며 출입통제를 염불풍진한 것으로서 경쟁에서 좋은 대나라맨드시장의 선수이다.",
-        "- 홍채·얼굴인식을 위해 고도로 인증하는 방법에 대한 미리 개정을 제공하여 이후에 기술에 앙상절한다."
-      ],
-      "insight": "이러한 선도의 작성은 IT/기술 업체에서 홍채·얼굴인식 시스템이나 보안을 다루고자하는 경우, 아이리스의 전문가가 선수인 위험을 제결할 수 0ne가 있다."
-    },
-    {
-      "title": "HS효성인포메이션시스템, ‘AI 데이터 레이크 고도화’로 스트라드비젼 데이터 학습·검증 효율 개선",
-      "link": "http://www.boannews.com/media/view.asp?idx=141561&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 14:51:00 +0900",
-      "description": "오브젝트 스토리지·고성능 올플래시 NAS 최적 설계로 GPU 활용률 및 데이터 처리 성능 향상단순 솔루션 제공 넘어 AI 비즈니스 성장 고려한 중장기 인프라 전략 지원 [보안뉴스 강초희 기자] HS효성인포메이션시스템(대표 양정규)은 자율주행차량용 AI 기반 비전 인식 기술 기업 스트라드비젼의 데이터 레이크 고도화 사업을 성공적으로 지원했다고 밝혔다.스트라드",
-      "language": "ko",
-      "summary": "AI 기술 회사 HS효성인포메이션시스템는 고속 GPU로 관렸지식 학습을 위해 개선한 NAS를 제공하여 비즈니진의 기업성능 개선을 지원한다.",
-      "points": [
-        "- NAS(네트워크 주소 식별)에서 GPU를 활용하여 학습 속도 향상",
-        "- AI로 인공지구 자동식 인식 기술의 데이터 레이크 고도화를 매우 쉽게 가능시키기",
-        "- AI 데이터 학습 서비스를 IT 업체에 신속하게 제공하여 전자화와 경영처 aprile 발전"
-      ],
-      "insight": "이러한 NAS 개성은 AI 기술 회사가 IT/기술 업체에서의 비즈니지 활동에 직접점점 도움이다. GPU를 활용한 NAS 프로덕션은 학습 성공율을 개선, 비즈니지 성과에 기여할 수 있어 인위경영체의 추가적인 활동을 자연스럽게 만들어지거나, 그리고 이를 위한 학습 서비스를 전용증시에서도 기대할 수 있다."
-    },
-    {
-      "title": "[IP人] “특허와 문학, 상보적 재미 쏠쏠”...신춘문예 당선 김근희 변리사",
-      "link": "http://www.boannews.com/media/view.asp?idx=141563&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 14:43:00 +0900",
-      "description": "“지식재산(IP)과 문학은 서로에게 선한 영향을 줍니다.”이달초, 현직 변리사 최초로 신춘문예(동아일보)에 당선돼 화제가 된 김근희 변리사(34)는 IP와 문학중 어느쪽이냐는 난폭한 질문에, 이같은 현답을 내놨다.서울대에서 산업공학을 전공한 김 변리사는, 대학시절부터 문학 동아리(총문학연구회) 활동을 하며 국어국문학도 부전공했다. 그에게 있어 글쓰기는 출원",
-      "language": "ko",
-      "summary": "“지식재산(IP)과 문학은 서로에게 선한 영향을 줍니다. ”이달초, 현직 변리사 최초로 신춘문예(동아일보)에 당선돼 화제가 된 김근희 변리사(34)는 IP와 문학중 어느쪽이냐는 난폭한 질문에, 이같은 현답을 내놨다...",
-      "points": [
-        "“지식재산(IP)과 문학은 서로에게 선한 영향을 줍니다",
-        "”이달초, 현직 변리사 최초로 신춘문예(동아일보)에 당선돼 화제가 된 김근희 변리사(34)는 IP와 문학중 어느쪽이냐는 난폭한 질문에, 이같은 현답을 내놨다",
-        "서울대에서 산업공학을 전공한 김 변리사는, 대학시절부터 문학 동아리(총문학연구회) 활동을 하며 국어국문학도 부전공했다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“새해는 비정상을 정상으로 회복시키는 한 해 될 것”...변리사회, 새해 인사회 열어",
-      "link": "http://www.boannews.com/media/view.asp?idx=141562&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 14:37:00 +0900",
-      "description": "변리사 소송대리, 수임료 정상화 등 중점 추진대한변리사회(회장 김두규)는 지난 16일 오후 서울 서초구 대한변리사회관에서 새해 인사회를 개최했다.이날 새해 인사회에는 김두규 대한변리사회장과 허성무 국회의원(더불어민주당), 김용선 지식재산처장, 예범수 한국지식재산협회장 등을 비롯해 변리사 및 지식재산 관계자 100여명이 참석했다.김 회장은 인사말을 통해 “올",
-      "language": "ko",
-      "summary": "변리사 소송대리, 수임료 정상화 등 중점 추진대한변리사회(회장 김두규)는 지난 16일 오후 서울 서초구 대한변리사회관에서 새해 인사회를 개최했다. 이날 새해 인사회에는 김두규 대한변리사회장과 허성무 국회의원(더불어민주당), 김용선 지식재산처장, 예범수 한국지식재산협회장 등을 비롯해 변리사 및 지식재산 관계자 100여명이 참석했다...",
-      "points": [
-        "변리사 소송대리, 수임료 정상화 등 중점 추진대한변리사회(회장 김두규)는 지난 16일 오후 서울 서초구 대한변리사회관에서 새해 인사회를 개최했다",
-        "이날 새해 인사회에는 김두규 대한변리사회장과 허성무 국회의원(더불어민주당), 김용선 지식재산처장, 예범수 한국지식재산협회장 등을 비롯해 변리사 및 지식재산 관계자 100여명이 참석...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "2025년 하반기 피싱 트렌드... ‘텔레그램’, ‘공공기관’ 사칭 기승",
-      "link": "http://www.boannews.com/media/view.asp?idx=141554&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 14:23:00 +0900",
-      "description": "지난해 하반기 피싱·사기 주의보 719건... 텔레그램·환경부 등 사칭 고착화 쿠팡 유출 사태 등 사회적 이슈 악용한 ‘연계형 피싱’ 확산[보안뉴스=조재호 기자] 지난해 피싱 위협이 공공기관과 메신저를 사칭하는 고전적 수법에서 투자나 쇼핑 등 실생활과 밀접한 ‘생활 밀착형 사기’로 빠르게 진화한 것으로 나타났다.누리랩은 자사 피싱 분석 서비스 ‘에스크유알엘",
-      "language": "ko",
-      "summary": "2025년 하반기에서 피싱 위협의 빈전부가 포인트를 중상화로 최대한 극단히 보호하고, '연계형 피싱' 확산이 공공기관과 메신저의 경우에서 발생한.",
-      "points": [
-        "2025년 하반기에서 피싱 위협의 빈전부가 포인트를 중상화로 최대한 극단히 보호하고,",
-        "현재 공간에서 '연계형 피싱'이 발생하고,",
-        "'텔레그램'·환경부가 사회적 위험을 인식하여 대표적인 최상의 보호를 시도한다."
-      ],
-      "insight": "이러한 '연계형 피싱'과 포인트 중상화는 IT/기술 업계에서의 현재 주요 확산모드로, 공간 내의 이러한 위협은 거의 동일한 원인으로서, IT/기술 업체에서의 중요한 의지가 아니라 보호최종적으로 집중되어야 함."
-    },
-    {
-      "title": "경찰, 교원·아시아나·신세계 해킹 수사착수... 쿠팡 대표 3차 출석 요구",
-      "link": "http://www.boannews.com/media/view.asp?idx=141560&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 14:09:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 최근 교원그룹과 아시아나항공, 신세계에서 발생한 해킹 사고와 관련해 정보통신망 침입 정황이 확인돼 경찰이 정식 수사에 착수했다.19일 박성주 경찰청 국가수사본부장은 정례간담회에서 이같이 밝혔다.앞서 경찰은 교원그룹과 대한항공, 아시아나항공, 신세계 등 주요 기업을 상대로 한 해킹 사고에 대해 입건 전 조사(내사)에 착수한 바 있다.",
-      "language": "ko",
-      "summary": "교원그룹과 아시아나항공, 신세계에서 해킹 사고를 대표로 쿠팡이는 세번의 수사 요구를 한국어로 요약합니다.",
-      "points": [
-        "현재 온라인 영화 제공에 대해서 '움직임 농출'를 하고 있는 경찰이 3차 수사 요구에 대한 의결을 들리고 있다.",
-        "해킹 사고 상실과 연창 사고가 여러 기지에서 시작되어 경찰에게 수사가 필요하다.",
-        "이러한 보호를 위해 국가수사는 주요 기업과 연관된 추정적인 수사로 인식받고 있다."
-      ],
-      "insight": "이러한 세 번 의긴 보호를 위해 '국가수사'이 요구되는 의미로, 국가정보통신은 IT/기술 업체에서의 보호적 문제를 다시 모니터링해야 한다."
-    },
-    {
-      "title": "금융권 ‘망 분리’ 빗장 풀린다...내부망서 SaaS 이용 ‘상시 허용’",
-      "link": "http://www.boannews.com/media/view.asp?idx=141557&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 13:43:00 +0900",
-      "description": "전자금융감독규정 시행세칙 개정... 샌드박스 신청 없이 SaaS 도입 가능개인신용정보 처리하지 않는 범위 내 허용 등 엄격한 보안 통제 대책 마련 의무화[보안뉴스 조재호 기자] 엄격한 ‘망분리 규제’로 클라우드 기반 소프트웨어(SaaS) 도입에 어려움을 겪던 금융권의 숨통이 트일 전망이다. 금융당국이 일정한 보안 요건을 갖추면 내부망에서도 SaaS 활용을",
-      "language": "ko",
-      "summary": "금융권이 내부망서를 사용할 수 s없이 SaaS 도입이 가능해진다.",
-      "points": [
-        "- 전자금융감독규정 개정에서 망분리 규제를 통해 SaaS 도입이 가능",
-        "- 내부망서는 보안 요건을 위한 전자화 과정에서 사용되지 않음",
-        "- 이러한 조치를 통해 숨결이 진짜는 소프트웨어 분리 방식에서"
-      ],
-      "insight": "전자금융권이 SaaS 도입을 시원하게하기를 원한다면, 이제부터 개정된 규제에 의해 권리가 늦어진다."
-    },
-    {
-      "title": "스피어 AX, 베트남 다낭시 흥짜 지역과 AI 기반 디지털 전환 사업 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=141559&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 13:29:00 +0900",
-      "description": "MOU, 다낭시와 대구광역시 간 ICT 산업 협력 확대 흐름 속 성사국제 협력 기반 한 지역 단위 AI 디지털 전환 실증 사업AI 기반 디지털 공공 서비스 및 스마트 도시 솔루션 단계적 도입에 핵심 역할 수행[보안뉴스 엄호식 기자] AI 전문 기업 스피어 AX(Sphere AX)가 베트남 다낭시 흥짜(Hương Trà) 지역과 협",
-      "language": "ko",
-      "summary": "스피어 AX는 베트남 다낭시 활동에 흔한 기술 환경을 이용하여, AI를 이용한 IT/기술 전문 서비스 개발과 전략적인 IT/기술 전문 기업의 산업화를 위해 강조되어 있는 지역에서 확장한 ICT 협업 기구.",
-      "points": [
-        "스피어 AX찌나이드 이식 권리를 베트남 다낭시, 대구광역시, 국제 지역에서 공유하고 있는 기술 협업 기구를 확대한 전반적인 IT/기술 전문 서비스 개발과 전략 준비.",
-        "AI로 제공하는 IT/기술 전문 서비스는 확장한 ICT 산업 협업 기구에 중요한 역할을 하며, 모바일 도시 솔루션의 개념적인 도전을 마칚로 수행한다.",
-        "스피어 AX이 확장하는 것은 IT/기술 산업 진정융되고, 기업응용 설정을 위한 전문 서비스 개체의 산업화를 나타내는 확신이다."
-      ],
-      "insight": "베트남 다낭시에 기여하고자 하는 스피어 AX은 IT/기술 산업 진정융개를 위해 국내 확장이 중요한 전문 서비스 제공을 강조하고 있다. 또한, AI를 사용한 IT/기술 전문 서비스의 도전과정은, 이미지 보호와 투자에 직접 영향을 미치거나, 대안으로 인위코득하여 IT/기술 산업의 전문화가 일어났다는 사건에 유의해야 한다."
-    },
-    {
-      "title": "[시큐리티 어워드 코리아] 이영수 씨프로 대표, “30년 기술 경쟁력이 이끄는 AI IP 카메라 세대 교체”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141345&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 19 Jan 2026 13:26:00 +0900",
-      "description": "신규 SoC 플랫폼 도입 기반 AI IP 카메라 라인업 고도화경광등·스피커 내장 복합형 AI 카메라 중심으로 북미 시장 성과[보안뉴스 강초희 기자] 글로벌 영상보안 시장에서 OEM·ODM 기반 제조사로 기술 경쟁력을 축적해 온 씨프로는 지난 30년간 축적한 영상 처리 기술과 안정적인 품질 경쟁력을 바탕으로 글로벌 고객사의 신뢰를 이어왔다. 최근엔 AI 기반",
-      "language": "ko",
-      "summary": "신규 SoC 플랫폼 도입 기반 AI IP 카메라 라인업 고도화경광등·스피커 내장 복합형 AI 카메라 중심으로 북미 시장 성과[보안뉴스 강초희 기자] 글로벌 영상보안 시장에서 OEM·ODM 기반 제조사로 기술 경쟁력을 축적해 온 씨프로는 지난 30년간 축적한 영상 처리 기술과 안정적인 품질 경쟁력을 바탕으로 글로벌 고객사의 신뢰를 이어왔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
