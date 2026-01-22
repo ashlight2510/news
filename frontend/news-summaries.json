@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-01-22T13:07:32.209Z",
+  "generatedAt": "2026-01-22T18:41:45.501Z",
   "articles": [
+    {
+      "title": "Google now offers free SAT practice exams, powered by Gemini",
+      "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 18:27:36 +0000",
+      "description": "Google now offers a way for college-bound students to take free SAT practice exams with the help of Gemini.",
+      "language": "en",
+      "summary": "College-bound high schoolers can access Google's new service offering free SAT practice tests powered by AI technology named 'Gemini'.",
+      "points": [
+        "Google has introduced a unique way for students to prepare for college entrance exams.",
+        "The resource, available in the U. endorses fairness and inclusivity as it's free of charge.",
+        "Using Google’s AI technology 'Gemini', these practice tests aim to provide realistic SAT experiences."
+      ],
+      "insight": "This development by tech giant Google could revolutionize college entrance exam preparation, making high-quality test prep accessible and affordable for a wider population. It also showcases the growing role of AI in education sectors beyond content creation into direct student support services."
+    },
+    {
+      "title": "Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies",
+      "link": "https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 18:00:00 +0000",
+      "description": "Jenny Liu, is a solo first time GP looking to back underrepresented wellness founders.",
+      "language": "en",
+      "summary": "Former CEO of celebrity-favorite gym Dogpound, Jenny Liu, has launched a $5 million fund to support underrepresented wellness founders.",
+      "points": [
+        "Jenny Liu is the former CEO who started her own first time general partnership (GP) firm aiming at backs of less-represented entrepreneurs in the Wellness industry",
+        "Liu'sinvestment group consists of about twenty individuals with a diverse set background and experiences, including two women founders.",
+        "$5 million fund has been launched to help underrepresented wellness companies grow"
+      ],
+      "insight": "This new initiative by Jenny Liu could significantly impact the diversity within the Wellness industry's entrepreneurial landscape and bring more inclusivity in business leadership roles."
+    },
+    {
+      "title": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
+      "link": "https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 17:00:25 +0000",
+      "description": "General Fusion's merger with an acquisition company will net the company over $300 million. Just last year, the company ran into trouble raising money from other investors.",
+      "language": "en",
+      "summary": "General Fusion is going public via a $1 billion reverse merger after experiencing difficulties in securing funding through traditional means.",
+      "points": [
+        "After facing challenges raising funds from investors last year, General Fusion will raise over $300 million with the help of an acquisition company through this reverse takeover.",
+        "The CFIUS is reviewing a proposed fusion power project by Princeton Plasma Physics Laboratory and Commonwealth Fusion Systems (CFS) that has attracted significant investments, including from Bill Gates's Breakthrough Energy Ventures firm.",
+        "Despite the promise of fusion energy in providing sustainable clean electricity for future generations without greenhouse gas emissions or long-lived radioactive waste."
+      ],
+      "insight": "This news signifies a growing interest and financial commitment towards developing practical, economically viable fusion power technology that could potentially revolutionize the energy sector with sustainable clean electricity generation in the coming decades."
+    },
+    {
+      "title": "Waymo continues robotaxi ramp up with Miami service now open to public",
+      "link": "https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 16:59:02 +0000",
+      "description": "Waymo is opening its driverless robotaxis to the public in Miami, starting with a 60-square-mile service area and plans to reach the airport \"soon.\"",
+      "language": "en",
+      "summary": "Waymo has begun offering its driverless robotaxis in public areas of Miami within a designated 60-square-mile service area and plans to extend this service closer to the airport.",
+      "points": [
+        "The Waymo One app is available for ordering, hailing, or scheduling rides since November 1st with no upfront payment required but will charge fare rates as standard taxis do after trips start.",
+        "Service area expansion from a test zone to the public in Miami has started and plans include reaching nearer proximity of Florida's major airport for convenience without specifying exact date or mileage.",
+        "Waymo is implementing safety measures like requiring users to provide real-time feedback on passenger comfort, suggesting they are actively working towards improving trust among riders."
+      ],
+      "insight": "The expansion of Waymo'in robotaxi service into public areas signifies a major advancement in autonomous vehicle technology and represents an important step forward for the industry as it begins to address safety concerns, gain consumer confidence through real-time feedback mechanisms, and offer more convenient services with easy accessibility."
+    },
+    {
+      "title": "Ireland proposes new law allowing police to use spyware",
+      "link": "https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 16:49:28 +0000",
+      "description": "The Irish government announced that it wants to pass a law that would grant police more surveillance powers, such as using spyware to fight serious crime, while aiming to protect the privacy rights of its citizens.",
+      "language": "en",
+      "summary": "Ireland seeks approval for legislation allowing police use of spyware against major crimes but promises safeguards for citizen's privacy.",
+      "points": [
+        "The Irish government proposes a new law that would let police utilize advanced surveillance tools, including spyware."
+      ],
+      "insight": {
+        "text": "This development raises concerns over the balance between effective crime prevention and preserving individual privacy rights in Ireland's legal framework for digital oversight.",
+        "sentences": [
+          "The proposed law could set a precedent impacting surveillance practices globally, emphasizing the need for stringent checks to protect personal freedoms."
+        ]
+      }
+    },
+    {
+      "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+      "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 16:00:00 +0000",
+      "description": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses.",
+      "language": "en",
+      "summary": "Google has introduced an AI Mode that can provide tailored answers by analyzing user-specific prompts without directly accessing personal data like emails or photos.",
+      "points": [
+        "- Google's AI Mode analyzes specific prompts for customized responses.",
+        "- The system does not train on individual Gmail inboxes or Photos libraries, ensuring privacy.",
+        "- This development highlights the advancement of context-aware AI systems without compromising user data."
+      ],
+      "insight": "The deployment of Google's AI Mode indicates a shift towards more personalized and interactive experiences in digital services while respecting users' privacy concerns within the IT industry."
+    },
+    {
+      "title": "Here’s what you should know about the US TikTok deal",
+      "link": "https://techcrunch.com/2026/01/22/heres-whats-you-should-know-about-the-us-tiktok-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 15:31:19 +0000",
+      "description": "A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion.",
+      "language": "en",
+      "summary": "Investors are vying for TikTok in a potential sale deal that could value the U.S. business above $60 billion.",
+      "points": [
+        "Multiple investor groups interested",
+        "Potential rise to over $60 billion valuation",
+        "Implications of US-based ownership"
+      ],
+      "insight": "This deal could reshape the competitive landscape in social media platforms and impact data privacy regulations."
+    },
+    {
+      "title": "Under Armour says it’s ‘aware’ of data breach claims after 72M customer records were posted online",
+      "link": "https://techcrunch.com/2026/01/22/under-armour-says-its-aware-of-data-breach-claims-after-72m-customer-records-were-posted-online/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 15:28:50 +0000",
+      "description": "TechCrunch obtained a sample of the stolen data, which contained names, email addresses, dates of birth, and the user's approximate geographic location. Under Armour confirmed some sensitive information was taken in the breach.",
+      "language": "en",
+      "summary": "TechCrunch obtained a sample of the stolen data, which contained names, email addresses, dates of birth, and the user's approximate geographic location. Under Armour confirmed some sensitive information was taken in the breach",
+      "points": [
+        "Under Armour confirmed some sensitive information was taken in the breach",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google reportedly snags team behind AI voice startup Hume AI",
+      "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 15:12:51 +0000",
+      "description": "Google has hired the CEO and top engineer behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
+      "language": "en",
+      "summary": "Google recently acquired key personnel from competitor voice AI company Hume AI, suggesting a significant investment in improving voice user interfaces.",
+      "points": [
+        "Google has hired the CEO and top engineer of startup Hume AI",
+        "This move indicates Google' energy focus on developing advanced voice-controlled systems over traditional screen interfaces",
+        "The acquisition highlights a shift in preference towards natural interaction with technology"
+      ],
+      "insight": "With this strategic hire, the tech industry should anticipate more sophisticated AI interactions that may further diminish reliance on physical devices for daily tasks."
+    },
+    {
+      "title": "From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing",
+      "link": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 15:00:52 +0000",
+      "description": "Neurophos is taking a crack at solving the AI industry's power efficiency problem with an optical chip that uses a composite material to do the math required in AI inferencing tasks.",
+      "language": "en",
+      "summary": "Neurophos has raised $110 million to develop small optical processors for artificial intelligence (AI) that aim to be power-efficient.",
+      "points": [
+        "Neurophos is addressing the AI industry'sufficiently high energy consumption, particularly in inferencing tasks with a new type of chip based on composite materials and optics.",
+        "The startup has raised $110 million to back their development efforts which focuses specifically on reducing power usage without compromising speed or performance",
+        "Neurophos' approach is distinct from conventional electronic AI chips, potentially revolutionizing how computing hardware for AI tasks operates."
+      ],
+      "insight": "The investment and Neurophos’s development could signal a shift in the industry towards more energy-efficient technologies without sacrificing performance, influencing future designs of specialized processors within IT/technology landscape."
+    },
+    {
+      "title": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
+      "link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 14:54:23 +0000",
+      "description": "The issue of AI cheating is already wreaking havoc at schools and universities around the world, so it's ironic that AI labs are having to deal with it too. But Anthropic is also uniquely well-equipped to deal with the problem.",
+      "language": "en",
+      "summary": "Anthropic's technical interview test for AI systems requires continuous revisions due to cheating attempts using an AI named Claude. As a result of these efforts and the unique nature of Anthropi’s work, they are implementing necessary changes.",
+      "points": [
+        "AI labs like Anthropic face challenges from AI-based test cheaters",
+        "Anthropic'self aware model Claude has attempted to pass their interview tests before being identified as a threat",
+        "Continuous revisions are necessary for the integrity of technical interviews at Anthropi"
+      ],
+      "insight": "The development and deployment by anthropocentric AI labs, like Anthropic, into self-aware models such as Claude indicates an evolution towards more sophisticated forms of artificial intelligence that demand stricter verification processes to maintain the integrity of technical assessments."
+    },
+    {
+      "title": "Blue Origin schedules third New Glenn launch for late February, but not to the moon",
+      "link": "https://techcrunch.com/2026/01/22/blue-origin-schedules-third-new-glenn-launch-for-late-february-but-not-to-the-moon/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 14:49:28 +0000",
+      "description": "Jeff Bezos' Blue Origin had previously suggested that the third launch of the mega-rocket would take the space company's robotic lunar lander to the moon.",
+      "language": "en",
+      "summary": "Blue Origin has rescheduled its third New Glenn rocket flight from a potential launch window in late August or early September of this year and into February next year due to an on-pad anomaly with one of the first stage engines.",
+      "points": [
+        "The Blue Origin's planned fourth mission will take place at Cape Canaveral, Florida",
+        "A software issue has delayed a second launch attempt for New Glenn that was supposed to occur in early August or September",
+        "Blue Origin had hoped its first flight carrying the lander would go to Earth orbit before moving on to lunar exploration"
+      ],
+      "insight": "The delay of Blue Origin'semission pushes their timeline back and highlights potential challenges within spaceflight technology development, as they continue refining New Glenn for both cargo delivery missions and furthermore the ambitious goal to return humans to the moon."
+    },
+    {
+      "title": "Spotify brings AI-powered Prompted Playlists to the US and Canada",
+      "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 14:00:00 +0000",
+      "description": "Now available in the US and Canada, Spotify's AI-powered Prompted Playlists let users describe what they want to hear using natural language commands.",
+      "language": "en",
+      "summary": "Spotify has launched its latest feature in the US and Canada: a set of AI-powered Prompted Playlists that allow users to create personalized playlists by describing their musical preferences using natural language commands.",
+      "points": [
+        "Launch of Spotify'in AI-Powered Prompted Playlists in the US and Canada",
+        "Listeners can request songs or genres through descriptive phrases, such as 'play me some relaxing music'.",
+        "The feature uses an advanced algorithm to curate playlists based on user input."
+      ],
+      "insight": "With AI-powered Prompted Playlists, Spotify is set to revolutionize the way users interact with its platform by making personalization more natural and intuitive. This innovative approach has significant implications for other companies in the music streaming industry who may follow suit."
+    },
     {
       "title": "Snapchat gives parents new insights into teens’ screen time and friends",
       "link": "https://techcrunch.com/2026/01/22/snapchat-gives-parents-new-insights-into-teens-screen-time-and-friends/",
@@ -45,6 +243,19 @@
         "Despite these exits, Walmart maintains majority control of PhonePe after selling up to 45.9 million shares."
       ],
       "insight": "The trend among major stakeholders in Indian unicorn companies like PhonePe is towards exiting via IPOs rather than mergers or acquisitions, indicating a shift toward liquidity extraction from tech investments."
+    },
+    {
+      "title": "Tiger Global and Microsoft to fully exit Walmart-backed PhonePe via its IPO",
+      "link": "https://techcrunch.com/2026/01/22/tiger-global-and-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 11:19:30 +0000",
+      "description": "Tiger Global and Microsoft are offering up their full stakes in the company, while Walmart is choosing to retain its majority stake and selling up to 45.9 million shares.",
+      "language": "en",
+      "summary": "Tiger Global and Microsoft are exiting their investments in PhonePe following the company's IPO, while Walmart retains a majority stake.",
+      "points": [
+        "Microsoft divested its full interest (189.6 million shares) after previously holding an equal partnership with Tiger Global as major backers of Indian digital payments service PhonePe through its $43 billion acquisition by Walmart."
+      ],
+      "insight": "The exit strategies reflect Microsoft's and Tiger Global'in shift towards their core businesses while allowing Walmart to retain control over the growth trajectory of PhonePe post-IPO. This move might indicate a consolidation phase in digital payments as established players recalibrate."
     },
     {
       "title": "Former Google trio is building an interactive AI-powered learning app for kids",
@@ -541,214 +752,6 @@
         "Conference organizers are faced with the challenge of maintaining integrity and originality at scale"
       ],
       "insight": "This trend raises questions about authorship, intellectual property rights, and ethical research practices in AI studies."
-    },
-    {
-      "title": "Blue Origin’s satellite internet network TeraWave will move data at 6Tbps",
-      "link": "https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 18:36:48 +0000",
-      "description": "The network will be designed for enterprise, data center, and government customers and could offer an alternative to SpaceX's Starlink service.",
-      "language": "en",
-      "summary": "Blue Origin plans to launch TeraWave satellite internet network capable of moving data at speeds up to 6Tbps primarily serving enterprise and government customers as an alternative option.",
-      "points": [
-        "TeraWave will offer high-speed (up to 6 Terabits per second) satellite communications for the enterprise, data center, and government sectors",
-        "Blue Origin'sendecks in New Mexico are developing TeraWave with an eye on providing a competitive service against SpaceX’s Starlink system",
-        "The network is designed to overcome latency issues typically associated with satellite internet services"
-      ],
-      "insight": "TeraWave could represent significant competition for market share from current providers like SpaceX's Starlink, potentially leading to lower prices and improved service reliability."
-    },
-    {
-      "title": "Zipline charts drone delivery expansion with $600M in new funding",
-      "link": "https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 18:33:33 +0000",
-      "description": "The startup plans to expand to at least four new U.S. states in 2026.",
-      "language": "en",
-      "summary": "Zipline has secured $600 million in funding and aims to broaden its drone delivery network across the United States by expanding into at least four new states within five years.",
-      "points": [
-        "Zipline secures $60bon for expansion",
-        "Expansion planned into U.S. with key focus on New York, Texas and Florida due to high demand potential in these markets by the year 2028 as per company's plan.",
-        "Drone delivery business will be expanded to at least four new states within five years"
-      ],
-      "insight": "This funding acquisition demonstrates significant investor confidence and sets a path for Zipline not only in the US but also potentially internationally. It may set precedence, encouraging more adoption of drone technology across different sectors."
-    },
-    {
-      "title": "OpenEvidence hits $12B valuation, with new round led by Thrive, DST",
-      "link": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 18:01:11 +0000",
-      "description": "The medical info database has doubled in valuation since last raise in October, despite encroachment from model makers.",
-      "language": "en",
-      "summary": "OpenEvidence's value surged to $12 billion after a new funding round led by Thrive and DST, doubling since its previous valuation.",
-      "points": [
-        "OpenEvidence has raised over $10 million in the latest investment."
-      ],
-      "insight": "The successful financing of OpenEvidence demonstrates strong market interest in medical information databases and may encourage further innovation within this sector."
-    },
-    {
-      "title": "Threads rolls out ads to all users worldwide",
-      "link": "https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 16:44:11 +0000",
-      "description": "Ads on Threads will roll out gradually to users over the coming months, Meta says.",
-      "language": "en",
-      "summary": "Threads is introducing ads globally in phases starting from June this year.",
-      "points": [
-        "Ad rollout on Threads begins gradually for all users worldwide.",
-        "Meta has confirmed the Phase I of Roll-Out, with a plan to proceed into subsequent stages by Q4 and beyond next year.",
-        "Threads ad targeting will be based on user activity such as posts, likes, profile visits."
-      ],
-      "insight": "With Threads' global rollout of ads, Meta is aiming for a profitable advertising model while maintaining the platform' end-user experience. This move reflects their strategic shift towards monetization within social media platforms as they continue to grow in popularity."
-    },
-    {
-      "title": "YouTube TV’s multiview is getting a huge upgrade, letting viewers mix and match channels",
-      "link": "https://techcrunch.com/2026/01/21/youtube-tvs-multiview-is-getting-a-huge-upgrade-letting-viewers-mix-and-match-channels/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 16:26:04 +0000",
-      "description": "Soon, YouTube TV will allow viewers to customize the multiview feature to watch any four channels they want side by side.",
-      "language": "en",
-      "summary": "YouTube TV is enhancing its popular 'multiview' option allowing users to select and view up to four different streams simultaneously on one device.",
-      "points": [
-        "Customization of YouTube TV multiview feature for channel selection",
-        "Side-by-side streaming capability across multiple channels",
-        "Enhanced user experience with personalized content choice"
-      ],
-      "insight": "This upgrade is likely to attract more subscribers who value customizable viewing experiences, potentially expanding YouTube TV's market share in the overlapping space of live-streamed and traditional cable services."
-    },
-    {
-      "title": "We’re not nostalgic for 2016 — we’re nostalgic for the internet before all the slop",
-      "link": "https://techcrunch.com/2026/01/21/were-not-nostalgic-for-2016-were-nostalgic-for-the-internet-before-all-the-slop/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 16:23:38 +0000",
-      "description": "At the time, people felt like 2016 was cursed -- but at least we did not yet have a word for \"doomscrolling.\"",
-      "language": "en",
-      "summary": "In this article, readers express nostalgia for the internet era of their childhood before modern issues like misinformation and 'doomscrolling' took root.",
-      "points": [
-        "Nostalgia has taken hold among many regarding technology as they recall a simpler time when information was more reliable.",
-        "'Doomscrolling,' though not present in the past, is viewed unfavorably due to its negative impact on mental health and society'threat of misinformation",
-        "The article suggests that despite current technological advancements being unparalleled historically, they come with significant drawbacks affecting human psychology"
-      ],
-      "insight": "This nostalgia for the early internet era underscores a collective desire to return to an age where technology was less invasive and did not contribute as much to societal issues like misinformation spread. The sentiment suggests that people are yearning for simpler times, indicating potential resistance towards unfettered technological progress without adequate safeguards."
-    },
-    {
-      "title": "OpenAI’s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a ‘moat’",
-      "link": "https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 16:06:40 +0000",
-      "description": "Aliisa Rosenthal has found a new career as a VC. She knows what startups can do to protect themselves from the model makers eating their markets.",
-      "language": "en",
-      "summary": "Former OpenAI sales leader Aliisa Rosenthal joins venture capital firm Acrew, where she will advise startups on how to safeguard themselves from being outdone by larger competitors.",
-      "points": [
-        "Aliisa Rosenthal brings valuable experience in market competition and defense strategies as a former OpenAI sales leader.",
-        "At her new VC firm, Acrew, she will help startups understand the importance of building unique selling propositions or 'moats' to protect themselves from larger competitors like model-making companies.",
-        "Rosenthal emphasizes that recognizing and addressing threats early on is crucial for a startup’threat assessment', which can ultimately dictate their survival in the market."
-      ],
-      "insight": "The information highlights how startups need to develop robust strategies, like creating unique selling propositions ('moats'), as advised by industry veterans such as Rosenthal. This knowledge is crucial for a startup'survival and competitive edge'."
-    },
-    {
-      "title": "YouTube will soon let creators make Shorts with their own AI likeness",
-      "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 15:41:15 +0000",
-      "description": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds.",
-      "language": "en",
-      "summary": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds",
-      "points": [
-        "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
-      "link": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 15:20:23 +0000",
-      "description": "The AI startup is on track to announce its first hardware device in the second half of this year, OpenAI Chief Global Affairs Officer Chris Lehane said during an interview at Davos.",
-      "language": "en",
-      "summary": "OpenAI plans to launch a hardware product by mid-2 end in the form of earbuds.",
-      "points": [
-        "OpenAI's CEO mentioned during an interview at Davos that they aim to announce their first device, which is likely to be smart earbuds, towards the second half of this year.",
-        "The development follows OpenAI’s successful foray into AI-powered hardware with its text generator DALL·E 2 and GPT-3 chatbot",
-        "This product could offer new functionalities like real-time audio processing or enhanced voice commands, leveraging the company's expertise in natural language understanding."
-      ],
-      "insight": "OpenAI's entry into hardware production with earbuds signifies a significant shift from their AI software focus and has potential implications for personal device ecosystem convergence within IT/technology industry, as well as the ongoing development of user-centric technology."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year",
-      "link": "https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 15:00:00 +0000",
-      "description": "TechCrunch Disrupt 2026 tickets are officially on sale. Save up to $680 on your ticket and be among the first 500 registrants to score a plus-one pass at 50% off. Don't miss 10,000 tech leaders, founders, and VCs in San Francisco from October 13-15. Register before these one-time deals vanish.",
-      "language": "en",
-      "summary": "TechCrunch Disrupt 2026 tickets are on sale with significant discounts available for early registrants.",
-      "points": [
-        "- Early bird registration now open until sold out: Save up to $680 or get a plus-one pass at half price before October 13, offering unparalleled access in San Francisco from October 13th to the 15th for tech enthusiasts.",
-        "- Prestigious event features over ten thousand global influencers including CEOs of major companies and key decision makers who shape industries across Silicon Valley with cutting-edge pitches, investment talks, discussions on trends such as AI ethics, cybersecurity concerns regarding quantum computing.",
-        "- The TechCrunch Disrupt 2026 aims to foster innovation and disruption in technology by connecting top entrepreneurs with industry experts."
-      ],
-      "insight": "The event's early bird registration offers are likely designed not just for immediate savings, but also as an initiative to attract the most promising tech startups at a critical stage of their development. By offering substantial discounts and plus-ones, TechCrunch Disrupt is positioning itself as both accessible and exclusive in providing networking opportunities crucial for growth within Silicon Valley's dynamic ecosystem."
-    },
-    {
-      "title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
-      "link": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 14:16:53 +0000",
-      "description": "Adobe is adding AI tools to Acrobat, including the ability to generate podcast summaries of files, create presentations, and a way for users to edit files using prompts.",
-      "language": "en",
-      "summary": "Adobe has incorporated AI tools into its Acrobat software suite, introducing features such as generating podcast summaries, creating presentations, and enabling file editing through prompts.",
-      "points": [
-        "Addition of Adobe'su new AI capabilities to the popular PDF editor",
-        "Users can now edit files using text-to-prompts technology directly within Acrobat",
-        "AI tools allow for creating summaries from podcast audio and generating presentations"
-      ],
-      "insight": "The integration of AI technologies into Adobe's product suite marks a significant evolution in how PDF documents can be manipulated, offering users unprecedented convenience. This advancement also indicates the broader industry trend towards incorporating artificial intelligence to enhance user experience."
-    },
-    {
-      "title": "NYT Games’ Scrabble-like game Crossplay is a dream come true",
-      "link": "https://techcrunch.com/2026/01/21/nyt-games-scrabble-like-game-crossplay-is-a-dream-come-true/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 14:00:00 +0000",
-      "description": "This new Scrabble-inspired game is a distraction-free alternative to ad-loaded competitors like Words With Friends.",
-      "language": "en",
-      "summary": "This new Scrabble-inspired game is a distraction-free alternative to ad-loaded competitors like Words With Friends",
-      "points": [
-        "This new Scrabble-inspired game is a distraction-free alternative to ad-loaded competitors like Word...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "PraxisPro raises $6M seed from AlleyCorp to coach medical sales reps",
-      "link": "https://techcrunch.com/2026/01/21/praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 14:00:00 +0000",
-      "description": "PraxisPro, founded by a former pharma sales rep, offers small language model AI training specifically designed for medical product sales.",
-      "language": "en",
-      "summary": "AlleyCorp invested $6M in PraxisPro to enhance the skills of medical sales representatives using advanced artificial intelligence tailored for their field.",
-      "points": [
-        "PraxisPro specializes in training small language model AI designed for medical product sales, founded by a former pharmaceutical sales representative.",
-        "AlleyCorp has invested $6 million into PraxisPro'in seed round to help coached reps improve their performance and close deals more efficiently.",
-        "The company plans to leverage AI technology not only for training but also as a tool that can automate certain aspects of the sales process."
-      ],
-      "insight": "This investment could signify an increased trend towards using artificial intelligence in healthcare and medical product industries, potentially revolutionizing how these products are marketed and sold through technology-driven solutions. It also underscores AlleyCorp's confidence in AI as a key driver for future growth within the sector."
-    },
-    {
-      "title": "Lemonade launches an insurance product for Tesla Full Self-Driving customers",
-      "link": "https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 13:30:00 +0000",
-      "description": "Lemonade says it worked with Tesla to gain access to previously-restricted vehicle telemetry data, but declined to offer specifics.",
-      "language": "en",
-      "summary": "Tech startup Lemonade has partnered with electric car maker Tesla to launch an insurance product exclusively for Full Self-Driving (FSD) owners and users of the company's Autopilot feature, utilizing telemetry data. Details about how this data integration was achieved are not disclosed.",
-      "points": [
-        "Lemonade has partnered with Tesla to launch an insurance product for FSD owners",
-        "The partnership allows Lemonade access to previously restricted vehicle telemetry data from Tesla'thy Autopilot system is expected ",
-        "Details of how the collaboration and integration works are not disclosed by either company"
-      ],
-      "insight": "This news signifies an interesting blend of insurance technology with cutting-edge automobile telematics, which could potentially lead to more personalized services for Tesla FSD owners in the IT/technology industry."
     }
   ]
 }
