@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-01-22T06:57:36.664Z",
+  "generatedAt": "2026-01-22T13:07:32.209Z",
   "articles": [
+    {
+      "title": "Snapchat gives parents new insights into teens’ screen time and friends",
+      "link": "https://techcrunch.com/2026/01/22/snapchat-gives-parents-new-insights-into-teens-screen-time-and-friends/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 12:00:00 +0000",
+      "description": "With these new features, Snap is likely looking to appease regulators and parents over concerns about safety and screen time on its platform.",
+      "language": "en",
+      "summary": "Snapchat introduces tools for parents to monitor teens' social media use with built-in analytics in the app itself.",
+      "points": [
+        "New Snapchat features allow parents insight into their children's screen time and friendships on the platform",
+        "The company has integrated these monitoring capabilities directly within its parental controls section of the application, aiming to address safety concerns while also potentially easing regulatory pressures.",
+        "Snap claims this initiative will lead users toward more mindful social media usage by making parents aware of their children's interactions and time spent on Snapchat"
+      ],
+      "insight": "This move reflects a growing trend in the tech industry to create safer online environments for young audiences, which could set new standards influencing similar policies from other social media platforms."
+    },
+    {
+      "title": "Quadric rides the shift from cloud AI to on-device inference — and it’s paying off",
+      "link": "https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 12:00:00 +0000",
+      "description": "Quadric aims to help companies and governments build programmable on-device AI chips that can run fast-changing models locally.",
+      "language": "en",
+      "summary": "A startup named Quadric is developing general purpose hardware for running artificial intelligence (AI) applications directly on devices without needing cloud processing.",
+      "points": [
+        "Quadric's goal to create programmable AI chips that operate locally provides an alternative to relying solely on cloud services, potentially improving speed and efficiency while reducing costs for businesses and governments.",
+        "The technology Quadric is developing aims to address the challenging problem of running state-of-the-art machine learning models directly on hardware such as edge devices or 5G base stations without extensive offloading to remote servers.",
+        "Despite potential advantages, building programmable AI chips can be difficult and time consuming. Quadric's approach is based on creating a tool that allows designers with limited knowledge of computer science principles to develop such devices."
+      ],
+      "insight": "Quadric’s technology could revolutionize the way companies implement machine learning models, making it easier for them to deploy these applications directly onto hardware without relying heavily on cloud services. As a result, this may improve efficiency and reduce costs while also offering better privacy protection."
+    },
+    {
+      "title": "Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO",
+      "link": "https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 11:19:30 +0000",
+      "description": "Tiger Global and Microsoft are offering up their full stakes in the company, while Walmart is choosing to retain its majority stake, and selling up to 45.9 million shares.",
+      "language": "en",
+      "summary": "Tiger Global and Microsoft are exiting their positions in PhonePe through a forthcoming IPO, while Walmart retains the majority stake by selling up to 45.9 million shares.",
+      "points": [
+        "Microsoft sold its full interest in PhonePe via an impending initial public offering (IPO).",
+        "Tiger Global followed suit with a similar exit strategy as Microsoft' extrication from the company through IPOs also occurred, including those by investment firms BlackRock and Sequoia Capital.",
+        "Despite these exits, Walmart maintains majority control of PhonePe after selling up to 45.9 million shares."
+      ],
+      "insight": "The trend among major stakeholders in Indian unicorn companies like PhonePe is towards exiting via IPOs rather than mergers or acquisitions, indicating a shift toward liquidity extraction from tech investments."
+    },
+    {
+      "title": "Former Google trio is building an interactive AI-powered learning app for kids",
+      "link": "https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 22 Jan 2026 11:00:00 +0000",
+      "description": "Big tech companies and upcoming startups want to use generative AI to build software and hardware for kids. A lot of those experiences are limited to text or voice, and kids might not find that captivating. Three former Google employees want to get over that hurdle with their generative AI-powered interactive app, Sparkli. Sparkli was […]",
+      "language": "en",
+      "summary": "Three ex-Googlers are developing an engaging AI learning tool called Sparkli for kids to overcome the limited interactive experiences available in current generative AI software.",
+      "points": [
+        "Sparkli is designed as a user-friendly, playful app that utilizes state-of-the-art AI technology. It has been developed by former Google employees who are experienced with machine learning and interaction design principles."
+      ],
+      "insight": {
+        "meaning_or_impact": "Sparkli aims to fill the gap in interactive generative AI experiences for children, offering an immersive environment that combines education with entertainment. This could potentially lead to more widespread adoption of personalized educational tools among kids."
+      }
+    },
+    {
+      "title": "[해킹 뉴노멀-2] “소버린 AI 본질은 ‘국산’ 아닌 ‘통제주권’”... 이원태 AI전략위 보안TF 리더②",
+      "link": "http://www.boannews.com/media/view.asp?idx=141636&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 18:39:00 +0900",
+      "description": "[3줄 요약]1. “소버린 AI 본질은 통제와 책임... ‘소버린 보안’ 중요”2. 파편화된 AI 보안 정책 극복 ‘통합 프레임워크’ 설계 추진3. “뚫려도 신속히 회복하는 나라가 AI 강국”[보안뉴스 강현주 기자] “소버린 AI를 ‘국내 제작 모델’로만 본다면 절반만 이해한 것입니다. 본질은 기술보다 통제와 책임이며, 통제권 없는 AI는 자산이 아닌 리스",
+      "language": "ko",
+      "summary": "“소버린 AI 본질은 통제와 책임. ‘소버린 보안’ 중요”2...",
+      "points": [
+        "파편화된 AI 보안 정책 극복 ‘통합 프레임워크’ 설계 추진3",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "에어코드, 시큐레터와 전략적 제휴...웹 격리에 무해화 기술 결합",
+      "link": "http://www.boannews.com/media/view.asp?idx=141632&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 17:55:00 +0900",
+      "description": "웹 격리 솔루션에 무해화 엔진 직접 탑재해 악성 스크립트·파일 위협 이중 차단국정원 보안 가이드라인 ‘외부 유입 파일 검증’ 요건 충족해 보안성 강화[보안뉴스 조재호 기자] 세종텔레콤 자회사 에어코드가 보안 기업 시큐레터와 손잡고 웹 격리 솔루션 고도화에 나선다. 에어코드는 시큐레터와 웹 전용 콘텐츠 무해화(CDR) 솔루션 공급 계약을 체결했다고 22일 밝",
+      "language": "ko",
+      "summary": "에어코드는 IT/기술 업무에서 보안성을 강화하기 위해 시큐레터와 웹 격리 솔루션 공급 계정의 합격권을 부여한다.",
+      "points": [
+        "에어코드는 IT/기술 업무에서 보안성을 강화하기 위해 CDR(Content Delivery Ring) 시큐레터와 격리 솔루션의 합겝한 인터페이스를 제공한다.",
+        "최신 보안 기능을 포함하는 업계 전용 CDR 시큐레터와 웹 격리 솔루션을 제공한다.",
+        "에어코드는 최신 보안 기능과 모바일 이슈를 해결할 수 있도록 시큐레터와 웹 격리 솔루션을 엮샷하게 만듭니다."
+      ],
+      "insight": "에어코드는 IT/기술 업무 외의와 핵심 보안을 지원합니다. 이런 시나리오를 고도화하여 격리 문제를 해결하는데 기본적으로 필요한 IT 환경을 제공합니다."
+    },
+    {
+      "title": "알툴즈 AI, LG 그램과 만났다... 노트북 생산성, AI로 완성",
+      "link": "http://www.boannews.com/media/view.asp?idx=141634&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 17:38:00 +0900",
+      "description": "LG 그램 신제품 구매자 전원에 알툴즈 AI 구독 서비스 90일 제공 배경 제거부터 PDF 대화까지, 복잡한 작업 AI로 간편하게 해결[보안뉴스 조재호 기자] 이스트소프트가 LG전자와 손잡고 자사 AI 생산성 도구 확산에 나선다. 이스트소프트는 LG전자 ‘2026 LG 그램 신제품 출시 프로모션’에 공식 파트너로 참여한다고 22일 밝혔다. 행사 기간 중 L",
+      "language": "ko",
+      "summary": "LG 그램 신제품 구매자 전원에 알툴즈 AI 구독 서비스 90일 제공 배경 제거부터 PDF 대화까지, 복잡한 작업 AI로 간편하게 해결[보안뉴스 조재호 기자] 이스트소프트가 LG전자와 손잡고 자사 AI 생산성 도구 확산에 나선다. 이스트소프트는 LG전자 ‘2026 LG 그램 신제품 출시 프로모션’에 공식 파트너로 참여한다고 22일 밝혔다",
+      "points": [
+        "LG 그램 신제품 구매자 전원에 알툴즈 AI 구독 서비스 90일 제공 배경 제거부터 PDF 대화까지, 복잡한 작업 AI로 간편하게 해결[보안뉴스 조재호 기자] 이스트소프트가 LG전...",
+        "이스트소프트는 LG전자 ‘2026 LG 그램 신제품 출시 프로모션’에 공식 파트너로 참여한다고 22일 밝혔다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[김정덕의 AI 시대 보안 패러다임-6] AI, ‘안전’과 ‘보안’의 경계를 허물다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141633&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 17:18:00 +0900",
+      "description": "융합된 위협, 신뢰를 위한 통합 거버넌스의 시작[연재목차 Part 2. AI 시대 보안 패러다임]1. AI 시대의 그림자, ‘딥페이크 사기’를 경계하라2. AI 시대, 번아웃 관리3. AI 편향과 공정성, 보안에서 무엇이 다른가4. 설명가능 AI와 인간의 최종 판단5. AI도 인간과 닮았다6. AI, ‘안전’과 ‘보안’의 경계를 허물다7. AI 도입의 딜레",
+      "language": "ko",
+      "summary": "융합된 위협, 신뢰를 위한 통합 거버넌스의 시작[연재목차 Part 2. AI 시대 보안 패러다임]1...",
+      "points": [
+        "융합된 위협, 신뢰를 위한 통합 거버넌스의 시작[연재목차 Part 2",
+        "AI 시대의 그림자, ‘딥페이크 사기’를 경계하라2",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "과기정통부, ‘AI기본법 지원데스크’서 중소·스타트업 밀착 자문",
+      "link": "http://www.boannews.com/media/view.asp?idx=141626&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 16:32:00 +0900",
+      "description": "법 컨설팅, 기술자문 등 지원 류제명 차관, 지원데스크 운영상황 점검 [보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 과기정통부장관 배경훈)는 ‘인공지능 발전과 신뢰 기반 조성 등에 관한 기본법’(AI기본법) 시행에 따라, 중소기업과 스타트업을 위한 법률 컨설팅 및 기술자문 지원에 나섰다. 22일 과기정통부는 ‘인공지능기본법 지원데스크’ 개소식을",
+      "language": "ko",
+      "summary": "법 컨설팅, 기술자문 등 지원 류제명 차관, 지원데스크 운영상황 점검 [보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 과기정통부장관 배경훈)는 ‘인공지능 발전과 신뢰 기반 조성 등에 관한 기본법’(AI기본법) 시행에 따라, 중소기업과 스타트업을 위한 법률 컨설팅 및 기술자문 지원에 나섰다. 22일 과기정통부는 ‘인공지능기본법 지원데스크’ 개소식을",
+      "points": [
+        "22일 과기정통부는 ‘인공지능기본법 지원데스크’ 개소식을",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "카스퍼스키, e러닝 표준 지원하는 맞춤형 보안 교육 플랫폼 ASAP 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=141630&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 16:31:00 +0900",
+      "description": "PDF·SCORM 지원으로 플랫폼 확장성 강화...관리자 편의성 제고AI 시대, 변화하는 위협에 맞춘 신속한 교육 콘텐츠 배포 가능[보안뉴스 조재호 기자] 카스퍼스키는 22일 자사 온라인 보안 교육 플랫폼 ‘카스퍼스키 자동화 보안 인식 제고 플랫폼(ASAP)’에 PDF 포맷 및 SCORM 규격 지원 기능을 추가했다고 밝혔다. ‘공유 가능한 콘텐츠 객체 참조",
+      "language": "ko",
+      "summary": "PDF·SCORM 지원으로 플랫폼 확장성 강화. 관리자 편의성 제고AI 시대, 변화하는 위협에 맞춘 신속한 교육 콘텐츠 배포 가능[보안뉴스 조재호 기자] 카스퍼스키는 22일 자사 온라인 보안 교육 플랫폼 ‘카스퍼스키 자동화 보안 인식 제고 플랫폼(ASAP)’에 PDF 포맷 및 SCORM 규격 지원 기능을 추가했다고 밝혔다...",
+      "points": [
+        "PDF·SCORM 지원으로 플랫폼 확장성 강화",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "S2W, ‘온톨로지’로 산업 난제 푼다... 29일 기술 웨비나 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=141631&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 16:14:00 +0900",
+      "description": "라이브 웨비나 ‘위드’(WITH)서 온톨로지·지식그래프 활용 전략 공개 보안 넘어 산업 전반으로... ‘SAIP’ 플랫폼 통한 기업 맞춤 AI 의사결정 지원[보안뉴스 조재호 기자] 에스투더블유(S2W)가 기업의 복잡한 데이터 관계를 구조화하고 AI 기반의 고도화된 의사결정을 지원하는 핵심 기술인 ‘온톨로지(Ontology)’ 활용법을 공유한다.에스투더블유(",
+      "language": "ko",
+      "summary": "제이나인 기업이 핵심 의사결정에서 활용한 '온톨로지'(Ontology) 기능을 공개한다.",
+      "points": [
+        "- 제이나인 기업이 어훁저희 산업에서 AI를 커뮤니키로 활용한다.",
+        "- '온톨로지'(Ontology)는 IT 시스템을 구조화하여 의사결정에 도움이 된다.",
+        "- AI 기반의 '온톨로지(Ontology)'를 이용한 커뮤니키로, IT 공개보안이 위헌한 데이터 관계 모니터링을 해내려고 한다."
+      ],
+      "insight": "기술이 경련하여 IT/기술 업계가 새로운 수지기업성동시대에서의 진보를 이해할 수 있게 도케되는 '온톨로지(Ontology)' 기능은 IT 공개보안을 위한 매우 중요한 역할을 하고 있다."
+    },
+    {
+      "title": "한국공항보안, 전사 항공보안 역량 상향평준화의 해 선포",
+      "link": "http://www.boannews.com/media/view.asp?idx=141621&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 22 Jan 2026 15:46:00 +0900",
+      "description": "2026 비전·경영전략 워크숍통해 전사적 보안 역량 고도화 본격 추진 [보안뉴스 엄호식 기자] 한국공항보안(주)(사장 김수봉)는 본사 간부급과 전국 지사장이 참석한 가운데 1월 22일부터 이틀간 2026 비전·경영전략 워크숍을 개최한다.이번 워크숍은 그간의 경영안정화 성과를 기반으로, 2026년을 ‘전사 항공보안 역량 상향평준화의 해’로 지정하고, 변화된",
+      "language": "ko",
+      "summary": "2026 비전·경영전략 워크숍통해 전사적 보안 역량 고도화 본격 추진 [보안뉴스 엄호식 기자] 한국공항보안(주)(사장 김수봉)는 본사 간부급과 전국 지사장이 참석한 가운데 1월 22일부터 이틀간 2026 비전·경영전략 워크숍을 개최한다. 이번 워크숍은 그간의 경영안정화 성과를 기반으로, 2026년을 ‘전사 항공보안 역량 상향평준화의 해’로 지정하고, 변화된",
+      "points": [
+        "2026 비전·경영전략 워크숍통해 전사적 보안 역량 고도화 본격 추진 [보안뉴스 엄호식 기자] 한국공항보안(주)(사장 김수봉)는 본사 간부급과 전국 지사장이 참석한 가운데 1월 2...",
+        "이번 워크숍은 그간의 경영안정화 성과를 기반으로, 2026년을 ‘전사 항공보안 역량 상향평준화의 해’로 지정하고, 변화된",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "“전세계 기업 60%, 노후화된 PKI로 인한 보안 취약점 시달려”",
       "link": "http://www.boannews.com/media/view.asp?idx=141628&kind=&sub_kind=",
@@ -569,183 +749,6 @@
         "Details of how the collaboration and integration works are not disclosed by either company"
       ],
       "insight": "This news signifies an interesting blend of insurance technology with cutting-edge automobile telematics, which could potentially lead to more personalized services for Tesla FSD owners in the IT/technology industry."
-    },
-    {
-      "title": "Eternal CEO Deepinder Goyal hands over reins to Blinkit chief as quick commerce takes off",
-      "link": "https://techcrunch.com/2026/01/21/eternal-ceo-deepinder-goyal-hands-over-reins-to-blinkit-chief-as-quick-commerce-takes-off/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 13:05:48 +0000",
-      "description": "Deepinder Goyal will remain on Eternal's board as its vice chairman.",
-      "language": "en",
-      "summary": "Eternal CEO Deepinder Goyal is handing over leadership to Blinkit chief Amit Burja after the quick rise of rapid commerce in India.",
-      "points": [
-        "Deepinder Goyal will continue his role as vice chairman on Eternal'th board post-handover",
-        "Amit Burja becomes CEO and president for Blinkit, taking over from Deepinder Goyal",
-        "Rapid commerce in India is booming with more than 50 startups expected to enter the market by year end"
-      ],
-      "insight": "Deepinder Goyal's leadership transition indicates a growing and transformative e-commerce industry, particularly for rapid delivery services."
-    },
-    {
-      "title": "Zanskar thinks 1 TW of geothermal power is being overlooked",
-      "link": "https://techcrunch.com/2026/01/21/zanskar-thinks-1-tw-of-geothermal-power-is-being-overlooked/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 13:00:00 +0000",
-      "description": "Zanskar has raised $115 million to find about a dozen geothermal resources that could help power the grid throughout the U.S. West.",
-      "language": "en",
-      "summary": "The article discusses Zanskar's investment in identifying untapped geothermal energy sources across the US western region to support grid power needs.",
-      "points": [
-        "Zanskar, a start-up company focusing on clean energy solutions for underserved areas of California and Utah (including Native American reservations), has raised $115 million with an aim to find about twelve geothermal resources across the US western region.",
-        "According to Zanskar'sel, this initiative can provide a reliable source that could help power homes in regions where electricity is expensive or unreliable due its dependence on outdated infrastructure and fossil fuels. It also supports efforts by local communities such as Native American reservations towards renewable energy.",
-        "The venture plans to install 10MW systems at two sites – the first in California near Death Valley, with a potential of up to one gigawatt (GW) or more; and the second site is planned for Arizona's Four Corners area."
-      ],
-      "insight": "This news highlights Zanskar’s commitment towards providing renewable energy solutions in underserved areas. It could significantly impact how these communities access reliable power, reducing their dependence on fossil fuels and potentially lowering electricity costs for them."
-    },
-    {
-      "title": "Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience",
-      "link": "https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 12:00:00 +0000",
-      "description": "Language learning marketplace Preply is now valued at $1.2 billion after raising a $150 million that marks a new chapter for the 14-year-old company.",
-      "language": "en",
-      "summary": "Language learning marketplace Preply has reached unicorn status with its latest funding round valued at $1.2 billion.",
-      "points": [
-        "Preply achieved a significant valuation milestone after raising an additional $150 million, which will be used to expand internationally and create new language courses focusing on regional accents and dialects for niche markets like music artists or actors. This expansion aligns with the growth of remote work.",
-        "The company employs around 23 people in Ukraine who are currently adapting by working from home due to conflict, illustrating resilience amidst adversity."
-      ],
-      "insight": "Preply's fundraising success reflects a growing global market for online language services and the increasing importance of digital solutions during times of crisis. This could signify potential expansion opportunities in regions affected by conflict or natural disasters, where traditional educational infrastructure is compromised."
-    },
-    {
-      "title": "India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
-      "link": "https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 11:30:00 +0000",
-      "description": "ChatGPT was the second most downloaded app in India for 2025 after Instagram.",
-      "language": "en",
-      "summary": "In 2025, AI assistant apps and small-scale storytelling platforms saw a surge in popularity in India as the country's app downloads reached new heights.",
-      "points": [
-        "India’s app download count rose to an unprecedented high of 25.5 billion by the end of 2025, marking significant growth within its digital ecosystem and consumer behavior towards mobile applications in general.",
-        "Artificial Intelligence (AI) assistant apps like ChatGPT became extremely popular among users for their convenience and efficiency-driven functionalities, leading to a considerable portion of India's download activity centering around such platforms.",
-        "There has been an increase in user engagement with content that offers small narratives or 'microdramas,' which suggests Indian consumers have developed new media consumption preferences for bite-sized storytelling experiences."
-      ],
-      "insight": "The rise of AI assistant apps and microdrama platforms indicates a shift towards personalized, interactive content in the IT/technology industry. This development could shape future app design priorities focusing on intelligent user engagement strategies to attract Indian consumers’ attention."
-    },
-    {
-      "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
-      "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 11:30:00 +0000",
-      "description": "Consumers spent more money in mobile apps than games in 2025, driven by AI app adoption.",
-      "language": "en",
-      "summary": "In 2025, consumers allocated a greater portion of their spending to mobile applications compared to gaming, largely due to the increasing integration and popularity of AI within apps.",
-      "points": [
-        "- Consumers spent more on mobile apps than games in 2025",
-        "- Increase in AI adoption is a significant driving factor for app spending growth",
-        "- Shift towards investing in smart applications that leverage artificial intelligence"
-      ],
-      "insight": "The trend of increased spending on mobile apps fueled by AI indicates consumers' growing preference for technology-driven solutions and services, which may lead to a shift in the digital market landscape with an emphasis on intelligent applications."
-    },
-    {
-      "title": "송경희 개인정보위원장 “쿠팡 유출 3000만명 맞고, SKT 소송 적극 대응할 것”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141610&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 21 Jan 2026 18:11:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 송경희 개인정보위원회 위원장이 쿠팡 개인정보유출 사고에 대해 “3000만명 이상”이라고 못박았다. SK텔레콤의 과징금 불복 행정소송에도 적극 대응할 뜻을 밝혔다. 21일 송 위원장은 서울 중구 프레스센터에서 연 기자간담회에서 쿠팡 개인정보 유출 사고 관련 “해외 사업자든 국내 사업자든 똑같이 법에 근거해 개인정보보호법 위반 여부를",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 송경희 개인정보위원회 위원장이 쿠팡 개인정보유출 사고에 대해 “3000만명 이상”이라고 못박았다. SK텔레콤의 과징금 불복 행정소송에도 적극 대응할 뜻을 밝혔다...",
-      "points": [
-        "[보안뉴스 강현주 기자] 송경희 개인정보위원회 위원장이 쿠팡 개인정보유출 사고에 대해 “3000만명 이상”이라고 못박았다",
-        "SK텔레콤의 과징금 불복 행정소송에도 적극 대응할 뜻을 밝혔다",
-        "21일 송 위원장은 서울 중구 프레스센터에서 연 기자간담회에서 쿠팡 개인정보 유출 사고 관련 “해외 사업자든 국내 사업자든 똑같이 법에 근거해 개인정보보호법 위반 여부를"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[카드뉴스] 이메일 보안, 이제 CSO 아닌 CMO의 몫... “브랜드를 해킹 당하지 마라”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141609&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 21 Jan 2026 17:58:00 +0900",
-      "description": "해커들의 공격은 단순한 서버 침입이 아니라, 가짜 이메일 등을 통해 기업의 ‘브랜드’와 ‘신뢰’를 무너뜨리는 형태로 진화했다. 고객은 해킹의 기술적 원인을 따지기보다 신뢰할 수 없는 브랜드를 떠나버리기 때문에, 이메일 보안은 이제 마케팅(CMO)의 영역이다. 기술적 방어를 넘어 DMARC, BIMI와 같은 브랜드 인증 기술을 도입해 이메일에 ‘진짜’ 표식을",
-      "language": "ko",
-      "summary": "이메일 보안을 강화하는 관련 기술에 대한 공격으로부터 앞서와 유사한 의미를 내리고 있는 현재 IT/기술 문제.",
-      "points": [
-        "이러한 광고를 통해 진화하면서, 브랜드가 의미를 변경하여 고객의 신뢰를 위벽시켜내기로 합니다.",
-        "이러한 경우에서, DMARC과 BIMI는 이메일의 진짜성을 확인하는 가능성이 증가함으로ced.",
-        "기술적인 방어를 업데이트하여, 귀하의 브랜드를 위한 보안을 강화해야 합니다."
-      ],
-      "insight": "현재 IT/기술 업계는 이메일 보안을 먼저 CMO의 영역에서 강화하여, 브랜드의 의미와 신뢰를 유지해야 합니다."
-    },
-    {
-      "title": "[해킹 뉴노멀-1] “취약점·사고 맘놓고 밝힐 수 있어야 보안 강국”... 이원태 AI전략위 보안TF 리더ⓛ",
-      "link": "http://www.boannews.com/media/view.asp?idx=141608&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 21 Jan 2026 17:46:00 +0900",
-      "description": "[3줄 요약]1. 연쇄 해킹 위기로 탄생한 ‘보안TF’ 리더 인터뷰 2. 선제적 보안 전환 총력... “은폐 유도 환경부터 고쳐야”3. “비오는 날 교통체증 같은 해킹, 절대 막는다는 건 허상”하루가 멀다하고 줄줄이 터지는 사고, 이제는 해킹이 일상화된 ‘해킹 뉴노멀’이다. 기업도 정부도 언제 누가 타깃이 될지 모른다. 는 이제 해킹을 ‘뉴노멀’로 받아들이",
-      "language": "ko",
-      "summary": "이원태 AI전랩위리더가 해킹 뉴포먼스의 보안TF를 예측하여, 정부의 기준점과 IT/기술 업계에서의 보안전화기를 강조한다.",
-      "points": [
-        "해킹뉴포먼스로, '보안TF' 리더는 IT 보안에 대한 신속한 방식이 필요하다고 주장한다.",
-        "선도환경의 개원에 우수하지만, 현재 보안전화기가 끊어지고 있어 국가가 위기로 추가로 이바지해야 한다.",
-        "기사는 '해킹 뉴포먼스'의 보안전화기가 미수생산로 제기되어 거부를 범지, 현재 상황에서도 IT/기술 업계에서 더욱 불패한 보안이 중요하다고 의사인한다."
-      ],
-      "insight": "해킹 뉴포먼스에서 보안TF 리더가 강조한 것으로 보아, IT/기술 업계가 보안전화기를 최대한 유지하고 진전시키는 것이 현재에서도 중요한 방제입니다."
-    },
-    {
-      "title": "삼성전자 ‘특허’ 담당 직원, 사내기밀 유출 혐의로 구속",
-      "link": "http://www.boannews.com/media/view.asp?idx=141607&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 21 Jan 2026 17:08:00 +0900",
-      "description": "IP센터 직원, 대가 약속받고 특허자료 빼돌린 혐의삼성전자 직원이 특허 관련 사내 기밀을 유출한 혐의로 구속됐다.21일 관련 업계에 따르면, 서울중앙지검 정보기술범죄수사부(김윤용 부장검사·사진)는 지난 19일 삼성전자 IP센터 직원 권모씨를 부정경쟁방지법 위반 혐의로 구속했다.권씨에게서 자료를 넘겨받은 혐의로, 특허관리기업(NPE) 대표 임모씨도 함께 구속",
-      "language": "ko",
-      "summary": "IP센터 직원, 대가 약속받고 특허자료 빼돌린 혐의삼성전자 직원이 특허 관련 사내 기밀을 유출한 혐의로 구속됐다. 21일 관련 업계에 따르면, 서울중앙지검 정보기술범죄수사부(김윤용 부장검사·사진)는 지난 19일 삼성전자 IP센터 직원 권모씨를 부정경쟁방지법 위반 혐의로 구속했다...",
-      "points": [
-        "IP센터 직원, 대가 약속받고 특허자료 빼돌린 혐의삼성전자 직원이 특허 관련 사내 기밀을 유출한 혐의로 구속됐다",
-        "21일 관련 업계에 따르면, 서울중앙지검 정보기술범죄수사부(김윤용 부장검사·사진)는 지난 19일 삼성전자 IP센터 직원 권모씨를 부정경쟁방지법 위반 혐의로 구속했다",
-        "권씨에게서 자료를 넘겨받은 혐의로, 특허관리기업(NPE) 대표 임모씨도 함께 구속"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Snap reaches settlement in social media addiction lawsuit",
-      "link": "https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Jan 2026 07:21:32 +0000",
-      "description": "Snap is still a defendant in similar cases related to social media addiction.",
-      "language": "en",
-      "summary": "The article discusses Snap's settlement with parents concerned about their children' endless scrolling habits on the platform.",
-      "points": [
-        "Snap reached a legal resolution to concerns over social media addiction among its youngest users, agreeing to pay for treatment of affected minors and review policies related to content exposure ages."
-      ],
-      "insight": "This case highlights the growing awareness in society about digital well-being amongst children. It may set a precedent forcing social media companies to implement more robust age verification systems, limit screen time recommendations for minors and provide support resources such as counseling services."
-    },
-    {
-      "title": "[중동 in K-Security] 유에이치텍, 극한 환경 이겨내는 ‘특수 환경용 AI CCTV’로 기술력 입증",
-      "link": "http://www.boannews.com/media/view.asp?idx=141606&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 21 Jan 2026 16:20:00 +0900",
-      "description": "모래바람과 고온에 강한 내구 설계... 산업 현장 및 외곽 감시에 최적화[아랍에미리트 두바이=보안뉴스 취재팀] CCTV 카메라 전문 기업 유에이치텍(UHTECH, 대표 김원석)은 지난 12일부터 14일까지 아랍에미리트 두바이에서 열린 중동 최대 보안 전시회 ‘인터섹 2026(Intersec 2026)’에서 중동 특유의 혹독한 기후 조건에서도 안정적인 구동이",
-      "language": "ko",
-      "summary": "유에이치텍이서클러스 주식회사가 중동의 특수한 AI CCTV를 소개한다.",
-      "points": [
-        "중동은 이전보다 높은 온도, 강한 가정이나 산업 구조로 인위적으로 만났다.",
-        "대표 김원석이자 중동의 CEO가 인터섹 2026(Intersec 2026)에서 이러한 AI CCTV를 기준점으로 제시했다.",
-        "이러한 인기있는 기능은 중동의 IT/기술 성능을 강조하며, 안전한 설계와 최신화를 통해 구체적인 인사이트를 제시한다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 중동의 경륜저잇의 환경이에 인식되지만, 이전보다 높은 정보를 제공하여 중동의 AI CCTV로부터의 IT/기술 경량을 인사이트로 만들어낸다."
-    },
-    {
-      "title": "[중동 in K-Security] 디프로매트금고, ‘보안에 미학을 더하다’... 프리미엄 내화 금고로 중동 홀리다",
-      "link": "http://www.boannews.com/media/view.asp?idx=141605&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 21 Jan 2026 16:16:00 +0900",
-      "description": "내화·방도 성능은 기본, 맞춤형 가구 디자인 접목한 ‘럭셔리 라인업’ 전시[아랍에미리트 두바이=보안뉴스 취재팀] 50년 전통의 금고 전문 기업 디프로매트금고(대표 장민철)는 지난 12일부터 14일까지 아랍에미리트 두바이에서 개최된 ‘인터섹 2026(Intersec 2026)’에서 단순한 보관함을 넘어 인테리어 가구로서의 가치를 강조한 ‘프리미엄 지능형 금고",
-      "language": "ko",
-      "summary": "중동는 인터섹 2term을 위해 IT/보안에 필요한 지원을 확대하고 있다.",
-      "points": [
-        "중동은 IT/비즈니스 및 보호를 위한 모든 급진하게 이루어진 모습을 가지고 있다.",
-        "인터섹 2026에서의 중동은 IT/보안을 확장하여 신용저장, 개인정보보호, 보호업체에서의 각종 작업에 대해 이해되어 제시한다.",
-        "럭셔리 라인업에서는 IT/보안을 중요하게 여기화시키고, 모든 방면에서 보호채용과 지원을 강조한다."
-      ],
-      "insight": "중동은 IT/기술 업마이저의 가치를 확대하여 IT/보안 제품의 병산염을 줄일 수 0ne가지를 제시한다."
     }
   ]
 }
