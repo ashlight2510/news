@@ -1,6 +1,63 @@
 {
-  "generatedAt": "2026-01-24T12:40:09.113Z",
+  "generatedAt": "2026-01-24T18:32:18.169Z",
   "articles": [
+    {
+      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+      "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 18:21:21 +0000",
+      "description": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning \"expedition.\"",
+      "language": "en",
+      "summary": "Former Googlers aim to create a captivating educational app using artificial intelligence (AI) that teaches children modern concepts like skills design, financial literacy, and entrepreneurship through an interactive learning journey.",
+      "points": [
+        "The Sparkli team plans to develop an AI-powered education platform specifically targeting kids' interests in entrepreneurship and finance.",
+        "Experts believe that the current educational system does not adeinfluencetheir knowledge of modern, relevant skills such as financial literacy or design thinking.",
+        "The app will offer a gamified learning experience to make education more engaging for children."
+      ],
+      "insight": "This news highlights an emerging trend in the IT/technology industry focused on using AI and game-based elements to modernize traditional educational content, potentially leading to new partnerships between tech companies like Google and edtech startups such as Sparkli."
+    },
+    {
+      "title": "SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange",
+      "link": "https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 18:06:33 +0000",
+      "description": "The Securities and Exchange Commission has dropped its lawsuit against Gemini, the crypto exchange founded by Trump backers Cameron and Tyler Winklevoss.",
+      "language": "en",
+      "summary": "The SEC dismissed a suit brought against cryptocurrency exchanges Gemini LLC, co-founded by the Winklevoss twins who were allegedly cheated out of hundreds of millions in Bitcoin and Ether.",
+      "points": [
+        "Securities Exchange Commission dropped lawsuit against crypto exchange",
+        "Exchange founded by Trump backers accused"
+      ],
+      "insight": "The SEC' end decision to drop the suit might signal a shift in focus for enforcement, potentially affecting future regulatory actions towards cryptocurrency exchanges."
+    },
+    {
+      "title": "A new test for AI labs: Are you even trying to make money?",
+      "link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 17:00:00 +0000",
+      "description": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
+      "language": "en",
+      "summary": "The article presents a new rating system designed to evaluate the financial motives behind various AI labs' operations.",
+      "points": [
+        "A new test for determining if an AI lab has profit-making intentions is being introduced, highlighting concerns about transparency and sustainability in cutting-edge research environments.",
+        "The article mentions that despite significant investments from tech giants like Google, IBM, Amazon, Baidu, Facebook, Huawei, Microsoft, Nvidia, Oracle, Samsung Group, Tencent Holdings Limited, TSMC, and the US government (totaling around $28 billion), some AI labs may not prioritize financial returns.",
+        "There's growing skepticism among investors about whether all these expenditcuries are yielding profitable outcomes for companies."
+      ],
+      "insight": "The implementation of the rating system could potentially influence how businesses, governments, and venture capitalists perceive and fund AI labs. It also raises questions regarding financial goals in a sector traditionally driven by pure research ambitions."
+    },
+    {
+      "title": "How PopWheels helped a food cart ditch generators for e-bike batteries",
+      "link": "https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 16:00:00 +0000",
+      "description": "PopWheels realized its battery swapping network could be used for more than food delivery workers who need to charge their e-bikes. Now, its planning for an \"aggressive rollout\" this summer.",
+      "language": "en",
+      "summary": "PopWheels is expanding beyond food delivery by implementing a battery swapping network with e-bike batteries to help workers without charging stations access power.",
+      "points": [
+        "Battery swapping technology was initially developed for PopWheels' electric scooters, now adapted for use on company provided ebikes for riders in need of quick charges."
+      ],
+      "insight": "This initiative by PopWheels illustrates the broader potential applications of battery swapping networks beyond traditional mobility solutions and could inspire more businesses to invest in sustainable e-mobility infrastructure. It highlights an industry shift towards addressing urban logistics challenges with clean energy alternatives."
+    },
     {
       "title": "방미 金총리 “쿠팡 차별대우 안해”... 밴스 “서로 관리 잘하자”",
       "link": "http://www.boannews.com/media/view.asp?idx=141652&kind=&sub_kind=",
@@ -684,66 +741,6 @@
         "To help users make informed decisions about the content they watch on the service."
       ],
       "insight": "The addition of this feature by Ring could set a new standard for online video platforms to ensure user safety from misinformation, promoting transparency in community-based services. This might also force other tech companies to enhance their verification features and foster trust among users."
-    },
-    {
-      "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
-      "link": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 19:41:01 +0000",
-      "description": "Google DeepMind CEO Demis Hassabis says the tech giant isn't pressuring him to insert ads into the AI chatbot experience.",
-      "language": "en",
-      "summary": "Demis Hassabis, CEO of Google DeepMind, has expressed surprise at OpenAI rushing forward with ChatGPT ads and is not pressured to do the same.",
-      "points": [
-        "Google DeepMind is refraining from inserting advertisements in AI chatbot experiences unlike competitors such as Microsoft's Bing, Baidu, Yahoo, TikTok/ByteDance, and Sina Weibo.",
-        "OpenAI has begun rolling out ChatGPT ad campaigns across their platform without prior warning to partners or users in the United States.",
-        "Other competitors like Microsoft have already started advertising within chatbot experiences."
-      ],
-      "insight": "The move by OpenAI could signal an intensifying battle for influence between AI giants and impact Google DeepMind's user experience strategy, potentially affecting industry standards around monetization of conversational AI technologies."
-    },
-    {
-      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-      "link": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 19:24:13 +0000",
-      "description": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
-      "language": "en",
-      "summary": "Humans&, a startup with founders from major tech companies, seeks to develop AI focused on coordination between agents rather than conversation.",
-      "points": [
-        "Humans& is building foundation models for artificial intelligence collaboration",
-        "Their goal is not chat-based but instead agent-to ender communication and cooperation",
-        "This approach emphasizes the importance of shared intentions among AI agents"
-      ],
-      "insight": "As machines become more prevalent in society, ensuring they work together effectively will be increasingly important for efficiency and safety."
-    },
-    {
-      "title": "Substack launches a TV app",
-      "link": "https://techcrunch.com/2026/01/22/substack-launches-a-tv-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 18:58:50 +0000",
-      "description": "The move comes as Substack has been investing more heavily in video and livestreaming, as it looks to compete with platforms like YouTube and Patreon for both creators and viewers.",
-      "language": "en",
-      "summary": "Substack, a newsletter platform, has launched its own TV app aiming at competing in the video content space with similar services like YouTube.",
-      "points": [
-        "Substack's investment into livestreaming and video on their new TV app",
-        "Competing directly with other platforms such as YouTube for creators and viewers",
-        "Potential expansion of Substack beyond newsletter platform to a broader content service"
-      ],
-      "insight": "Substack's entry into the live video space indicates its intention to diversify user offerings, possibly impacting how journalists monetize their work and compete for audience attention."
-    },
-    {
-      "title": "Tesla launches robotaxi rides in Austin with no human safety driver",
-      "link": "https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 18:51:43 +0000",
-      "description": "Not all of Tesla's fleet in Austin will be fully driverless. Per Tesla's AI lead Ashok Elluswamy, the company will be \"starting with a few unsupervised vehicles mixed in with the broader robotaxi fleet with safety monitors, and the ratio will increase over time.\"",
-      "language": "en",
-      "summary": "Tesla has begun offering driverless robotaxi rides to paying customers without human safety drivers in Austin.",
-      "points": [
-        "Initially, a small portion of Tesla's fleet in Austin will operate unsupervised with no humans as safety monitors.",
-        "The ratio of fully autonomous vehicles is expected to increase over time as the technology becomes more reliable and regulations permit broader use.",
-        "Tesla plans for its AI system, Autopilot, which already assists drivers in steering cars at high speeds on limited-access roads without driver attention."
-      ],
-      "insight": "This launch represents a significant step towards mainstream adoption of autonomous vehicles and could accelerate the integration of self-driving technology into society if it proves to be safe, reliable, and regulatory bodies are supportive."
     }
   ]
 }
