@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-01-23T18:42:02.233Z",
+  "generatedAt": "2026-01-24T01:43:51.011Z",
   "articles": [
+    {
+      "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+      "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 00:04:45 +0000",
+      "description": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+      "language": "en",
+      "summary": "AI pioneer Yann LeCun announces his latest startup after leaving Facebook's parent company.",
+      "points": [
+        "Yann LeCun has founded AMI Labs following a departure from Meta (formerly known as Facebook).",
+        "The technology behind the new venture is described as 'world modeling', which focuses on using artificial intelligence to understand and simulate complex systems.",
+        "AMI Lab'tself-proclaimed mission involves creating innovative AI technologies with a strong emphasis on ethical considerations, especially regarding privacy."
+      ],
+      "insight": "Yann LeCun’s departure from Meta could signal major shifts in the landscape of artificial intelligence research and development. His new venture's focus on 'world modeling', coupled with a strong emphasis on ethics, has potential implications for how AI will be used responsibly."
+    },
+    {
+      "title": "Waymo probed by National Transportation Safety Board over illegal school bus behavior",
+      "link": "https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Jan 2026 21:50:47 +0000",
+      "description": "The NTSB joins the National Highway Traffic Safety Administration in investigating Waymo vehicles illegally passing stopped school buses.",
+      "language": "en",
+      "summary": "Waymo is under investigation by federal agencies for its self-driving cars' illegal behavior of passing stopped school buses without following the necessary safety protocols.",
+      "points": [
+        "The National Transportation Safety Board (NTSB) and the National Highway Traffic Safety Administration are investigating Waymo vehicles in Arizona that passed a school bus illegally, according to media reports citing officials at NTSB.",
+        "According to KJR Radio’in an interview with one of the parents whose child was hit by such vehicle near their home on March 27th",
+        "The self-driving Waymo car allegedly did not follow required safety procedures for passing a stopped school bus."
+      ],
+      "insight": "This incident could lead to stricter regulations and scrutiny of autonomous vehicles' adherence to traffic laws, impact the perceptions of self-driving technology in public eye especially around children's safety areas."
+    },
+    {
+      "title": "The Rippling/Deel corporate spying scandal may have taken another wild turn",
+      "link": "https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Jan 2026 21:13:28 +0000",
+      "description": "The Department of Justice may be conducting a criminal investigation. This is arguably the biggest drama between two HR startups ever.",
+      "language": "en",
+      "summary": "HR startup Rippling was accused in an elaborate corporate espionage scandal involving its chief competitor, Deel; allegations include theft and misuse of proprietary information.",
+      "points": [
+        "The Department of Justice is investigating a corporate spying case that may implicate multiple parties within tech HR sectors.",
+        "Deel'curent CEO has been accused by Rippling, claiming theft and misuse of proprietary information.",
+        "This scandal exposes potential vulnerabilities in company-to-company relationships among startups."
+      ],
+      "insight": "The implications for HR tech companies include heightened scrutiny on inter-company data handling practices, which might lead to stricter compliance measures and corporate policies regarding proprietary information protection. The fallout may influence how these businesses approach competition and collaboration."
+    },
+    {
+      "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
+      "link": "https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Jan 2026 20:31:27 +0000",
+      "description": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
+      "language": "en",
+      "summary": "Netflix has announced a landmark deal acquiring streaming rights for DC movies and television series from Warner Bros., marking the largest single-platform content purchase in entertainment history.",
+      "points": [
+        "The acquisition between Netflix and Warner Bros. involves purchasing exclusive worldwide distribution, including DVDs, of nearly all existing and future Warner Bros.-DC films for a reported $2 billion over five years.",
+        "This deal extends to DC television series like 'Black Lightning,' as well as upcoming movies such as the live-action Batgirl film which was previously announced at CinemaCon in September 2de",
+        "The acquisition is expected to be completed next year and will give Netflix a unique competitive edge with exclusive content, including DC's most iconic characters."
+      ],
+      "insight": "Netflix acquiring Warner Bros. rights could significantly change the landscape of streaming services by consolidating high-profile film and series deals for one platform, potentially leading to higher viewership numbers due to exclusive content accessibility."
+    },
+    {
+      "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+      "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Jan 2026 20:17:24 +0000",
+      "description": "Security researchers have attributed the attempted use of destructive \"wiper\" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group known for causing power outages in neighboring Ukraine.",
+      "language": "en",
+      "summary": "Security researchers have identified the attempted deployment of destructive 'wiper' malware on Poland'nergy infrastructure as actions by a Russian-backed hacking group linked to prior power outages in Ukraine.",
+      "points": [
+        "A Russian-backed hacker group, previously responsible for causing blackouts in Ukraine, is suspected of targeting Polish energy systems with 'wiper' malware late December",
+        "The cyber threat actors have been termed as REvil or Sodinok Devil by some security researchers.",
+        "Government response and prevention measures are being evaluated."
+      ],
+      "insight": "This event raises significant concerns about the vulnerability of national critical infrastructure to state-sponsored cyberattacks, prompting a reassessment of global IT security strategies in this domain."
+    },
+    {
+      "title": "How did Davos turn into a tech conference?",
+      "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Jan 2026 20:00:00 +0000",
+      "description": "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade. AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs weren’t holding back. There was public criticism of trade policy, warnings about AI […]",
+      "language": "en",
+      "summary": "The World Economic Forum'table annual Davos meeting experienced a shift in focus towards technology and artificial intelligence (AI), even overshadowing traditional topics like climate change and global poverty.",
+      "points": [
+        "- The role of AI was prominently featured at the WEF Annual Meeting, leading to intense discussions among CEOs about its future impacts",
+        "- There were concerns raised regarding trade policy during the event amidst an environment that heavily favored technological advancements and digital economies",
+        "The public criticism of current state-centric approaches in favor of more digitally integrated, collaborative strategies was evident among participants"
+      ],
+      "insight": "- The prominence given to AI at this year's Davos indicates a significant shift towards the prioritization and potential dominance of technological advancements over traditional global issues. This could lead to an intensification in investments, innovation efforts as well as regulatory measures concerning technology."
+    },
     {
       "title": "Google Photos’ latest feature lets you meme yourself",
       "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
@@ -652,99 +742,6 @@
         "Despite the promise of fusion energy in providing sustainable clean electricity for future generations without greenhouse gas emissions or long-lived radioactive waste."
       ],
       "insight": "This news signifies a growing interest and financial commitment towards developing practical, economically viable fusion power technology that could potentially revolutionize the energy sector with sustainable clean electricity generation in the coming decades."
-    },
-    {
-      "title": "Waymo continues robotaxi ramp up with Miami service now open to public",
-      "link": "https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 16:59:02 +0000",
-      "description": "Waymo is opening its driverless robotaxis to the public in Miami, starting with a 60-square-mile service area and plans to reach the airport \"soon.\"",
-      "language": "en",
-      "summary": "Waymo has begun offering its driverless robotaxis in public areas of Miami within a designated 60-square-mile service area and plans to extend this service closer to the airport.",
-      "points": [
-        "The Waymo One app is available for ordering, hailing, or scheduling rides since November 1st with no upfront payment required but will charge fare rates as standard taxis do after trips start.",
-        "Service area expansion from a test zone to the public in Miami has started and plans include reaching nearer proximity of Florida's major airport for convenience without specifying exact date or mileage.",
-        "Waymo is implementing safety measures like requiring users to provide real-time feedback on passenger comfort, suggesting they are actively working towards improving trust among riders."
-      ],
-      "insight": "The expansion of Waymo'in robotaxi service into public areas signifies a major advancement in autonomous vehicle technology and represents an important step forward for the industry as it begins to address safety concerns, gain consumer confidence through real-time feedback mechanisms, and offer more convenient services with easy accessibility."
-    },
-    {
-      "title": "Ireland proposes new law allowing police to use spyware",
-      "link": "https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 16:49:28 +0000",
-      "description": "The Irish government announced that it wants to pass a law that would grant police more surveillance powers, such as using spyware to fight serious crime, while aiming to protect the privacy rights of its citizens.",
-      "language": "en",
-      "summary": "Ireland seeks approval for legislation allowing police use of spyware against major crimes but promises safeguards for citizen's privacy.",
-      "points": [
-        "The Irish government proposes a new law that would let police utilize advanced surveillance tools, including spyware."
-      ],
-      "insight": {
-        "text": "This development raises concerns over the balance between effective crime prevention and preserving individual privacy rights in Ireland's legal framework for digital oversight.",
-        "sentences": [
-          "The proposed law could set a precedent impacting surveillance practices globally, emphasizing the need for stringent checks to protect personal freedoms."
-        ]
-      }
-    },
-    {
-      "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
-      "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 16:00:00 +0000",
-      "description": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses.",
-      "language": "en",
-      "summary": "Google has introduced an AI Mode that can provide tailored answers by analyzing user-specific prompts without directly accessing personal data like emails or photos.",
-      "points": [
-        "- Google's AI Mode analyzes specific prompts for customized responses.",
-        "- The system does not train on individual Gmail inboxes or Photos libraries, ensuring privacy.",
-        "- This development highlights the advancement of context-aware AI systems without compromising user data."
-      ],
-      "insight": "The deployment of Google's AI Mode indicates a shift towards more personalized and interactive experiences in digital services while respecting users' privacy concerns within the IT industry."
-    },
-    {
-      "title": "Here’s what you should know about the US TikTok deal",
-      "link": "https://techcrunch.com/2026/01/22/heres-whats-you-should-know-about-the-us-tiktok-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 15:31:19 +0000",
-      "description": "A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion.",
-      "language": "en",
-      "summary": "Investors are vying for TikTok in a potential sale deal that could value the U.S. business above $60 billion.",
-      "points": [
-        "Multiple investor groups interested",
-        "Potential rise to over $60 billion valuation",
-        "Implications of US-based ownership"
-      ],
-      "insight": "This deal could reshape the competitive landscape in social media platforms and impact data privacy regulations."
-    },
-    {
-      "title": "Under Armour says it’s ‘aware’ of data breach claims after 72M customer records were posted online",
-      "link": "https://techcrunch.com/2026/01/22/under-armour-says-its-aware-of-data-breach-claims-after-72m-customer-records-were-posted-online/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 15:28:50 +0000",
-      "description": "TechCrunch obtained a sample of the stolen data, which contained names, email addresses, dates of birth, and the user's approximate geographic location. Under Armour confirmed some sensitive information was taken in the breach.",
-      "language": "en",
-      "summary": "TechCrunch obtained a sample of the stolen data, which contained names, email addresses, dates of birth, and the user's approximate geographic location. Under Armour confirmed some sensitive information was taken in the breach",
-      "points": [
-        "Under Armour confirmed some sensitive information was taken in the breach",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google reportedly snags team behind AI voice startup Hume AI",
-      "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 15:12:51 +0000",
-      "description": "Google has hired the CEO and top engineer behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
-      "language": "en",
-      "summary": "Google recently acquired key personnel from competitor voice AI company Hume AI, suggesting a significant investment in improving voice user interfaces.",
-      "points": [
-        "Google has hired the CEO and top engineer of startup Hume AI",
-        "This move indicates Google' energy focus on developing advanced voice-controlled systems over traditional screen interfaces",
-        "The acquisition highlights a shift in preference towards natural interaction with technology"
-      ],
-      "insight": "With this strategic hire, the tech industry should anticipate more sophisticated AI interactions that may further diminish reliance on physical devices for daily tasks."
     }
   ]
 }
