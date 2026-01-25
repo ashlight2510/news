@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-01-24T18:32:18.169Z",
+  "generatedAt": "2026-01-25T01:56:44.076Z",
   "articles": [
+    {
+      "title": "LG유플러스, 인공지능 기본법 시행 맞춰 전사 대응 체계 가동",
+      "link": "http://www.boannews.com/media/view.asp?idx=141654&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 25 Jan 2026 10:00:00 +0900",
+      "description": "U+원 등 AI 서비스 점검... 서비스 기획-운영 과정 AI 리스크 관리CTO, 정보보안센터, 법무실 등 유관 부서가 참여하는 AI 리스크 관리 체계 운영[보안뉴스 한세희 기자] LG유플러스는 22일 시행된 인공지능 기본법에 맞춰 인공지능 개발·이용 사업자로서 의무 사항을 점검하고, 전사 관리 체계를 가동한다고 25일 밝혔다. 인공지능 서비스 전반에서",
+      "language": "ko",
+      "summary": "U+원 등 AI 서비스 점검. 서비스 기획-운영 과정 AI 리스크 관리CTO, 정보보안센터, 법무실 등 유관 부서가 참여하는 AI 리스크 관리 체계 운영[보안뉴스 한세희 기자] LG유플러스는 22일 시행된 인공지능 기본법에 맞춰 인공지능 개발·이용 사업자로서 의무 사항을 점검하고, 전사 관리 체계를 가동한다고 25일 밝혔다...",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "대학 등 교육기관 겨냥 해킹, 지난해36% 증가,,, 랜섬웨어 등 악성코드 공격 급증",
+      "link": "http://www.boannews.com/media/view.asp?idx=141653&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 25 Jan 2026 09:47:00 +0900",
+      "description": "김경숙 조국혁신당 의원교육기관 사이버 보안 강화해야[보안뉴스 한세희 기자] 지난해 대학교 등 교육기관을 겨냥한 악성코드 공격이 급증했다. 25일 국회 교육위원회 소속 김경숙 조국혁신당 의원이 한국교육학술정보원에서 받은 자료에 따르면, 작년 한 해 교육기관 사이버 침해에 대한 탐지·대응은 8만6738건이었다. 이는 2024년 6만3614건보다 36% 늘어난",
+      "language": "ko",
+      "summary": "교육기관 사이버에 대한 악성 공격이 36% 증가한 평가",
+      "points": [
+        "교육기관을 속언뜼기로 행동하는 감시도를 요구함.",
+        "이러한 공격은 악성코드를 이용해 수백만건의 보안에 대한 위기와 연산비용을 미치었다.",
+        "36%의 증가로 이러한 공격이 발생했다."
+      ],
+      "insight": "이러한 공격이 시작해서 IT/기술 업체에서의 보안은 중요하지만, 교육기관이 우연히 위기를 줄 여러 가지 요인이 있다고 생각할 수 0ne."
+    },
+    {
+      "title": "Gmail is having issues with spam and misclassification",
+      "link": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 22:58:00 +0000",
+      "description": "If your Gmail account doesn’t seem to be working properly today, you’re not alone.",
+      "language": "en",
+      "summary": "Gmail is currently experiencing problems with spam and misclassification of emails.",
+      "points": [
+        "Google's Gmail service encountered issues classifying incoming emails correctly as 'Spam'.",
+        "Some legitimate messages intended for the inbox were incorrectly marked, causing user inconvenience.",
+        "The problems seemed to be limited but widespread enough that Google is addressing them."
+      ],
+      "insight": "This incident highlights potential vulnerabilities within Gmail's spam filtering algorithms and emphasizes the importance of robust security measures in email services industry-wide. It also serves as a reminder for users to verify important communications, especially if they are marked incorrectly."
+    },
+    {
+      "title": "Tech CEOs boast and bicker about AI at Davos",
+      "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Jan 2026 20:00:46 +0000",
+      "description": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "language": "en",
+      "summary": "Tech CEOs showcased their confidence and competition in AI at Davos.",
+      "points": [
+        "The World Economic Forum (WEF) featured intense discussions among tech leaders about Artificial Intelligence's impact on the economy and society.",
+        "CEOs displayed a mix of boastful pride over their companies’ advancements in AI technology, while also engaging in debate regarding ethical concerns, regulations, and industry standards.",
+        "The presence of these tech titans at Davos highlighted how integral artificial intelligence has become to the business strategies and decision-making processes within leading organizations."
+      ],
+      "insight": "AI is shaping a new era where technology leaders must balance innovation with ethical responsibility, as demonstrated by their active engagement in AI discourse at Davos. This reflects an industry increasingly driven by intelligent solutions but also facing significant scrutiny over societal implications."
+    },
     {
       "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
       "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
@@ -681,66 +741,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-      "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 22:42:00 +0000",
-      "description": "The seed round values the newly formed startup at $800 million.",
-      "language": "en",
-      "summary": "The seed round values the newly formed startup at $800 million",
-      "points": [
-        "The seed round values the newly formed startup at $800 million",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
-      "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 21:42:18 +0000",
-      "description": "New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.",
-      "language": "en",
-      "summary": "Researchers tested various Artificial Intelligence (AI) agents on white-collar work tasks in fields such as consulting, investment banking, and law to assess their readiness for the workplace.",
-      "points": [
-        "AI agents struggle with executing white-collar tasks in fields like consulting, banking, and law",
-        "Most tested leading AI models failed the task execution benchmarks set by this new research",
-        "The testing results suggest a need for further development of these technologies to perform effectively in professional settings"
-      ],
-      "insight": "This benchmark testing of AI models raises doubts about their preparedness for realistic office scenarios."
-    },
-    {
-      "title": "Microsoft 365 hit by outage, preventing access to emails and files",
-      "link": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 21:31:10 +0000",
-      "description": "An hours-long outage is preventing Microsoft's enterprise customers from accessing their inboxes, files, and video meetings.",
-      "language": "en",
-      "summary": "Microsoft experienced an extended service disruption that blocked access to emails, documents, and virtual meeting rooms for its business users.",
-      "points": [
-        "Microsoft's enterprise customers faced hours of restricted access due to a major outage affecting email inboxes, file storage, and video meetings on Microsoft 365 platforms. The company acknowledged the issue but provided no immediate resolution timeframe as per their initial statement.",
-        "The impacted services experienced downtime that spanned several hours, during which users were unable to access vital communication tools essential for day-to-day business operations within enterprise environments reliant on Microsoft's suite of products.",
-        "As organizations globally depend heavily on cloud infrastructure and the seamless integration offered by services like Office 365, extended outages can lead to significant operational challenges."
-      ],
-      "insight": "This incident underscores the critical importance of reliable IT service management in maintaining business continuity for enterprises that depend on cloud-based software and services. The prolonged nature of this particular Microsoft 365 outage could prompt organizations to reevaluate their reliance on a single provider or explore strategies like multi-cloud architectures."
-    },
-    {
-      "title": "Ring is adding a new content verification feature to videos",
-      "link": "https://techcrunch.com/2026/01/22/ring-is-adding-a-new-content-verification-feature-to-videos/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Jan 2026 19:50:47 +0000",
-      "description": "Ring says the new feature will identify if video edits have been made, even if they're minor.",
-      "language": "en",
-      "summary": "Ring introduces a content verification system to detect and alert users about unaut extraneous or misleading editing in videos.",
-      "points": [
-        "The new feature identifies if video edits have been made, even minor ones",
-        "This is part of Ring's commitment towards transparency between neighbors and their communities. ",
-        "To help users make informed decisions about the content they watch on the service."
-      ],
-      "insight": "The addition of this feature by Ring could set a new standard for online video platforms to ensure user safety from misinformation, promoting transparency in community-based services. This might also force other tech companies to enhance their verification features and foster trust among users."
     }
   ]
 }
