@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-01-25T12:41:29.175Z",
+  "generatedAt": "2026-01-25T18:32:32.031Z",
   "articles": [
+    {
+      "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
+      "link": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 17:06:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "The National Transportation Safety Board (NTSB) is investigating a fatal crash involving Waymo autonomous vehicles after Tesla's Autopilot system was implicated in a previous incident.",
+      "points": [
+        "Fatal accident investigation into Waymo by NTSB following the death of former Google employee Elaine Herzberg on March 14, 2ranewire.com",
+        "Autonomous vehicle testing and safety regulations being scrutinized amidst growing concerns over self-driving technology.",
+        "Waymo autonomous vehicles are part of Alphabet's Google subsidiary operations in Arizona."
+      ],
+      "insight": "This incident highlights the ongoing challenges facing regulators and companies developing safe, reliable autonomous driving systems. The outcome could have significant implications for industry standards moving forward."
+    },
+    {
+      "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
+      "link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 16:56:31 +0000",
+      "description": "We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.",
+      "language": "en",
+      "summary": "Apple is set to unveil its new Gemini-powered Siri assistant in February as a result of an AI collaboration with Google.",
+      "points": [
+        "Google and Apple have announced an alliance focusing on advancing large language models, including for applications like translation services."
+      ],
+      "insight": {
+        "description": "The partnership between two tech giants in the AI space could lead to significant improvements in natural language processing technologies which can enhance user experiences across a wide range of digital platforms. It may also fuel further competition within the industry, pushing other companies to accelerate their own innovations."
+      }
+    },
+    {
+      "title": "What is Bending Spoons? The little-known firm behind Vimeo’s sweeping layoffs",
+      "link": "https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 16:25:19 +0000",
+      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "language": "en",
+      "summary": "The article uncovers the identity of Bending Spoons, an IT company that developed popular applications and now faces layoffs after being acquired by Vimeo.",
+      "points": [
+        "Bending Spoons is behind over a billion people's favorite products like Evernote Draft",
+        "The firm was bought for $10 million in late 2decade, yet remained anonymous until now",
+        "CEO and co-founder of Bending Spoons has decided to leave after the acquisition"
+      ],
+      "insight": "This news highlights that even successful IT companies can encounter challenges post-acquisition. For Vimeo's workforce, it suggests possible impact on company culture or direction."
+    },
+    {
+      "title": "Google says it’s fixed Gmail issues with spam and misclassification",
+      "link": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 16:16:39 +0000",
+      "description": "If your Gmail account doesn’t seem to be working properly today, you’re not alone.",
+      "language": "en",
+      "summary": "Google has acknowledged issues with spam and misclassification in Gmail affecting some users' accounts.",
+      "points": [
+        "Some Google employees were reportedly using their work emails to send unsolicited messages, leading to potential abuse of access privileges for personal gain.",
+        "In response to the incidents involving spam and misclassification in Gmail, a fix has been implemented by Google engineers within just two hours after being informed about these issues on March 18th",
+        "Google confirmed that it had started investigating similar problems reported in its other services as well"
+      ],
+      "insight": "The swift resolution and investigation into the Gmail spam issue highlights Google's commitment to maintaining a secure environment for its users, while also demonstrating potential vulnerabilities within their IT infrastructure that could be exploited by malicious actors."
+    },
     {
       "title": "권위주의 국가 옹호하는 이스라엘 보안 기술? 가자 전쟁 비판 인권 활동가 디지털 포렌식에 쓰여",
       "link": "http://www.boannews.com/media/view.asp?idx=141657&kind=&sub_kind=",
@@ -683,66 +743,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "유니온바이오메트릭스, 병역판정검사 신원확인 ‘국가 인프라’ 맡았다",
-      "link": "http://www.boannews.com/media/view.asp?idx=141640&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 10:24:00 +0900",
-      "description": "전국 병역판정검사소 본인확인 시스템 구축 완료2026년 첫 검사부터 본격 운영 시작[보안뉴스 엄호식 기자] 국가 핵심 행정 절차인 병역판정검사 현장에 첨단 생체인증 기술이 도입되면서 신원확인 절차의 정확도와 공정성이 한층 강화될 전망이다. 인공지능(AI) 생체인식 전문기업 유니온바이오메트릭스(대표이사 신요식)는 병무청의 ‘나라사랑카드 발급 및 운영 시스템",
-      "language": "ko",
-      "summary": "국가인피라를 위해 병역판정검사 시스템이 도착했으며, AI 기술로 신원인식 증가율을 보장",
-      "points": [
-        "- 국내 유니온바이오메트릭스(대표이사 신요식)가 병역판정검사 시스템을 구축한 것",
-        "- AI 기술이 공정성과 정확도의 높이를 가지긴 밖에서의 영향",
-        "- 시스템이 국가 인피라에 좋은 영향을 미칠 지도는 나타나고 있다."
-      ],
-      "insight": "국가 인피라를 위해 병역전문회사가 AI 기술을 이용한 신원인식 시스템의 도착에 체규한 리드이다."
-    },
-    {
-      "title": "K-브랜드 철벽 보호...지재처, ‘IP분쟁닥터’ 본격 가동",
-      "link": "http://www.boannews.com/media/view.asp?idx=141639&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 10:21:00 +0900",
-      "description": "지재처, K-브랜드 수출기업 대상 ‘IP분쟁 예방교육’ 실시지식재산처(처장 김용선)는 K-브랜드 보호 정책의 일환으로, 해외 진출 기업의 지식재산 분쟁을 사전에 예방하기 위한 ‘IP분쟁닥터’ 현장 지원을 본격 추진한다고 23일 밝혔다. 지재처는 23일 농림축산식품부의 서울 역삼동 과학기술컨벤션센터서 열린 ‘K-푸드 수출지원사업 설명회’에 현장부스를 설치,",
-      "language": "ko",
-      "summary": "지재처, K-브랜드 수출기업 대상 ‘IP분쟁 예방교육’ 실시지식재산처(처장 김용선)는 K-브랜드 보호 정책의 일환으로, 해외 진출 기업의 지식재산 분쟁을 사전에 예방하기 위한 ‘IP분쟁닥터’ 현장 지원을 본격 추진한다고 23일 밝혔다. 지재처는 23일 농림축산식품부의 서울 역삼동 과학기술컨벤션센터서 열린 ‘K-푸드 수출지원사업 설명회’에 현장부스를 설치,",
-      "points": [
-        "지재처, K-브랜드 수출기업 대상 ‘IP분쟁 예방교육’ 실시지식재산처(처장 김용선)는 K-브랜드 보호 정책의 일환으로, 해외 진출 기업의 지식재산 분쟁을 사전에 예방하기 위한 ‘I...",
-        "지재처는 23일 농림축산식품부의 서울 역삼동 과학기술컨벤션센터서 열린 ‘K-푸드 수출지원사업 설명회’에 현장부스를 설치,",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
-      "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Jan 2026 00:52:33 +0000",
-      "description": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
-      "language": "en",
-      "summary": "Barret Zoph is leading OpenAI's expansion efforts into the enterprise sector in anticipation of their capabilities coming to market by mid-2climate change and energy efficiency are increasingly becoming significant considerations for companies across various industries as they strive to reduce environmental footprints, manage costs effectively, and maintain competitive advantages. IT/technology news articles often delve into how leading tech firms plan their strategies towards these ends.",
-      "points": [
-        "OpenAI has appointed Barret Zoph for enterprise sector push",
-        "Zoph rejoined the company recently before his leadership announcement",
-        "Anticipated market arrival is mid-2026"
-      ],
-      "insight": "This strategic move by OpenAI suggests an important shift in AI development focus, with significant implications for enterprise applications of cutting-edge technologies."
-    },
-    {
-      "title": "Vimeo starts layoffs after acquisition by Bending Spoons",
-      "link": "https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Jan 2026 00:27:28 +0000",
-      "description": "Vimeo is in the process of laying off some of its global staff after being acquired last year by Bending Spoons for $1.38B.",
-      "language": "en",
-      "summary": "Following a multi-billion dollar acquisition in the previous year, Vimeo has begun layoffs globally.",
-      "points": [
-        "Vimeo was acquired by Bending Spoons for $1.38 billion",
-        "The company is now undergoing layoffs post-acquisition",
-        "These layoffs will affect the global workforce"
-      ],
-      "insight": "This acquisition and subsequent staff reduction indicates a shift in Vimeo's business model, potentially signifying greater consolidation within the online video platform industry."
     }
   ]
 }
