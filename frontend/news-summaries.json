@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-01-25T18:32:32.031Z",
+  "generatedAt": "2026-01-26T01:58:54.518Z",
   "articles": [
+    {
+      "title": "SK쉴더스, 글로벌 해킹 대회서 전기차 충전기 보안 취약점 뚫었다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141659&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 26 Jan 2026 10:31:00 +0900",
+      "description": "일본 도쿄서 열린 ‘폰투온 오토모티브 2026’ 참가... EQST 해커 그룹 역량 입증 그리즐이(GrizzlE) 전기차 충전기 해킹 성공... 2년 연속 참가해 차량 보안 기술력 과시[보안뉴스 조재호 기자] SK쉴더스는 1월 21일부터 23일까지 일본 도쿄에서 열린 글로벌 보안 해킹 컨퍼런스 ‘폰투온 오토모티브(Pwn2Own Automotive) 2026",
+      "language": "ko",
+      "summary": "SK쉴더스는 글로벌 포인트에서 보안 기술력을 향상시키기 위해 테스트를 하여 전기차 보안 취약점을 뚜섭했다.",
+      "points": [
+        "SK쉴더스(Skilled Device Studio)는 2026년 Pwn2Own 이용차 해킹 기회로 전기차에서의 보안 게시된 이기사를 수상하고 있다.",
+        "한국어로 제출한 보안 기술력 테스트 결과로서, 전기차의 보안 노동은 현재에서 거의 모든 방향성 전기차에 대해 문제가 없다는 말이다.",
+        "SK쉴더스는 보안 기술을 강화하고자 한국어로 '전기차 보안 노동의 노력과 계신해'라는 인사이트를 제시했다."
+      ],
+      "insight": "이 기사는 전기차 충전기로 수집한 에밀리드 전자도구(EMD)을 보안 방식으로 잘리는 SK쉴더스의 연구가 다음과 같다."
+    },
+    {
+      "title": "펜타시큐리티, 런던 ‘사이버 시큐리티 & 클라우드 엑스포’ 참가",
+      "link": "http://www.boannews.com/media/view.asp?idx=141662&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 26 Jan 2026 10:25:00 +0900",
+      "description": "[보안뉴스 조재호 기자] 펜타시큐리티는 오는 2월 4일부터 5일까지 영국 런던 올림피아 전시장에서 열리는는 ‘사이버 시큐리티 & 클라우드 엑스포 글로벌 2026’(Cyber Security & Cloud Expo Global 2026)에 참가한다고 26일 밝혔다.‘사이버 시큐리티 & 클라우드 엑스포’는 유럽, 북미 등 전 세계 주요 권역에서 개최되는 세계",
+      "language": "ko",
+      "summary": "펜타시큐리티가 영국 런던 '사이버 시큐리티 & 클라우드 엑스포' 글로벌 2026에 참가하며, 전체적인 녹산 IT/기술 업체에서의 권위와 협상 기회를 선사합니다.",
+      "points": [
+        "펜타시큐리티는 영국 런던 '사이버 시큐리티 & 클라우드 엑스포' 글로벌 2decade에 참가하고 있다.",
+        "핵심 참가 이유는 IT/기술 업체의 인력 분양성과 산중화를 위한 권리와 협상을 강조하고 유도하는 것이다.",
+        "2026년 미국에서의 글로베텔스 서크인지, 우리나라 업체에서의 전문성을 강조하여 세계적인 IT/기술 이해와 협상에 개입한다."
+      ],
+      "insight": "이 기사는 IT/기술 업계가 많은 연구와 발전에 대해 중요하게 오히랄다. 서울과 포함한 국제화를 위한 참가방안이나 인내력의 확장은 IT/기술 산중에 중요한 전략을 결정하는 여러분들과 직접으로 연계한다."
+    },
+    {
+      "title": "카스퍼스키 “기업 90%가 보안운영센터 아웃소싱 도입 계획”",
+      "link": "http://www.boannews.com/media/view.asp?idx=141660&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 26 Jan 2026 10:18:00 +0900",
+      "description": "64%가 부분적으로, 26%는 전면 도입 계획솔루션 설치 및 배포 업무가 55%[보안뉴스 강현주 기자] 90%의 기업이 외주 보안운영센터(SoC)를 도입할 계획인 것으로 나타났다.22일 사이버 보안 기업 카스퍼스키(한국지사장 이효은)는 SOC 계획 및 구현과 관련된 주요 동기, 전략적 목표, 잠재적 과제를 파악하기 위해 실시한 글로벌 설문조사 결과를 발표했",
+      "language": "ko",
+      "summary": "64%가 부분적으로, 26%는 전면 도입 계획솔루션 설치 및 배포 업무가 55%[보안뉴스 강현주 기자] 90%의 기업이 외주 보안운영센터(SoC)를 도입할 계획인 것으로 나타났다. 22일 사이버 보안 기업 카스퍼스키(한국지사장 이효은)는 SOC 계획 및 구현과 관련된 주요 동기, 전략적 목표, 잠재적 과제를 파악하기 위해 실시한 글로벌 설문조사 결과를 발표했",
+      "points": [
+        "64%가 부분적으로, 26%는 전면 도입 계획솔루션 설치 및 배포 업무가 55%[보안뉴스 강현주 기자] 90%의 기업이 외주 보안운영센터(SoC)를 도입할 계획인 것으로 나타났다",
+        "22일 사이버 보안 기업 카스퍼스키(한국지사장 이효은)는 SOC 계획 및 구현과 관련된 주요 동기, 전략적 목표, 잠재적 과제를 파악하기 위해 실시한 글로벌 설문조사 결과를 발표했",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+      "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 23:20:36 +0000",
+      "description": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+      "language": "en",
+      "summary": "Startup FireTech aims to revolutionize firefighting efforts by developing AI-powered tools that can assist in combating wildfries and urban fires more effectively.",
+      "points": [
+        "FireTech's founder, Sunny Sethi, developed an artificial intelligence system called 'FlareBot'.",
+        "The company has successfully deployed FlareBot during field tests where it autonomously navigated through smoke-filled environments and identified fire hotspots.",
+        "Sunny Sethi believes that FireTech's AI technology could significantly improve response times in emergency situations."
+      ],
+      "insight": "FireTech is pioneering the use of artificial intelligence to enhance safety during wildfires and urban fires, potentially transforming firefighting efforts worldwide with more effective real-time decision support systems for responders. The company's success could inspire similar AI applications in other emergency response areas."
+    },
+    {
+      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 22:35:53 +0000",
+      "description": "Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.",
+      "language": "en",
+      "summary": "ChatGPT has started incorporating content from Grokipedia, an AI-generated encyclopedia created by Elon Musk's xAI. The conservative nature of the information sources is a concern.",
+      "points": [
+        "Content from eloniansxai_grokipsaekingnewknowledge repository has been appearing in ChatGPT responses",
+        "Concerns have arisen regarding biases due to Grokipedia's conservative leanings and potential for misinformation spread by Elon Musk himself",
+        "AI ethics experts are worried about the implications of unverified information being integrated into widely used AI responses"
+      ],
+      "insight": "The integration raises questions regarding bias, credibility, and influence in conservative media on mainstream educational tools like ChatGPT."
+    },
+    {
+      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 22:11:06 +0000",
+      "description": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+      "language": "en",
+      "summary": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Science fiction writers, Comic-Con say goodbye to AI",
+      "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 25 Jan 2026 21:53:42 +0000",
+      "description": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
+      "language": "en",
+      "summary": "Major figures in sci-fi and comics reject generative AI due to concerns over originality.",
+      "points": [
+        "Many writers and artists at Comic-Con expressed discomfort with the use of artificial intelligence for creating content, fearing it undermines their work'them",
+        "The industry is questioning whether generated works can truly be considered art or just derivative imitations.",
+        "Experts suggest a cautious approach to AI technology in creative industries."
+      ],
+      "insight": "Generative AI raises questions about the future of human-driven creativity and its unique value within science fiction literature and comics. The industry's stance may influence how generative tech is adopted moving forward, emphasizing originality and ethical considerations in content creation."
+    },
     {
       "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
       "link": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
@@ -638,111 +743,6 @@
         "인상적인 공백으로 인해 사용자의 경험이 불안정하다"
       ],
       "insight": "이러한 EDV 구현은 프로톤 시스텬에서의 악용보다는 사용자에게 어려운 경험을 제공한다."
-    },
-    {
-      "title": "네이버 “AI 시대, 프라이버시가 최우선”... 2025 개인정보보호 리포트 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=141643&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 13:39:00 +0900",
-      "description": "‘2025 개인정보보호 리포트’ 및 ‘프라이버시 백서’ 동시 발간 규제 대응·투명성 강화·파트너 상생 등 한 해 성과 투명하게 공개[보안뉴스 조재호 기자] 네이버가 AI 기술 발전 속에서도 ‘이용자의 프라이버시 존중’이라는 원칙을 지키기 위한 지난해 노력과 연구 성과를 공개했다. 기술 혁신에 발맞춰 보호 체계를 고도화하고 투명성을 강화해 플랫폼의 책임을 다",
-      "language": "ko",
-      "summary": "2025 개인정보보호 리포트 및 '프라이버시 백서' 공개를 통해 AI기술에 의해 강화된 보호 체제와 인간의 존중을 위한 논리와 방향.",
-      "points": [
-        "2025년에 기사가 공개한 '2025년 개인정보보호 리포트'과 '프라이버시 백서'는 AI의 역할이나 보호와 관련된 기술을 강조한다.",
-        "기사가 강화하고 투명성을 높일 수 연구울린 염료로, AI를 이용한 보호체제의 논란을 나타낸다.",
-        "인간적인 피해라기가 중요하고 인간의 투명성과 사회에서의 책임과정을 강조한다."
-      ],
-      "insight": "이 기사는 AI 기술이 개인정보보호와 피해라기를 어떻게 이용할 수 0있을지, 그리고 사회적으로 중요한 투명성의 의미를 자세히 통과한다."
-    },
-    {
-      "title": "패치도 소용없었다! 스마터메일, 패치 배포 이틀 만에 뚫려… 인증 우회해 관리자 권한 박탈",
-      "link": "http://www.boannews.com/media/view.asp?idx=141642&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 13:29:00 +0900",
-      "description": "이메일 솔루션 스마터메일, 보안 패치 이틀만에 또 뚫려패치 정보 역공학해 취약점 발견[보안뉴스 김형근 기자] 스마터툴즈(SmarterTools)의 이메일 솔루션 스마터메일(SmarterMail)에서 인증 없이 관리자 권한을 획득할 수 있는 결함이 발견됐다.보안 기업 워치타워랩스(watchTowr Labs)가 추적한 이 취약점은 15일(현지시간) 패치됐다.",
-      "language": "ko",
-      "summary": "스마터메일 기술에서 인증 없이 관리자 권한을 획득하여 보호를 위해 필사한 패치",
-      "points": [
-        "- 스마터메일 기술에서 인증 없이 관리자 권한을 획득하여 보호를 위해 필사한 패치",
-        "- SmarterMail 스마터메일 솔루션에서 관리자 권한이 발생하고 있는 경우, IT 점유와 보호를 위해 필사한 패치",
-        "- 보안업덤터인스톨닷코인(watchTowr Labs)이 관리자 권한에 대해서 착안하여 방어한 패치"
-      ],
-      "insight": "스마터메일 보호를 위해 인증과 관리자 권한이 중요합니다. SmarterMail 패치는 이에 대한 우회가 필요하다."
-    },
-    {
-      "title": "“미국 CVE 독점 끝낸다”... 유럽 주도 탈중앙화 취약점 목록 ‘GCVE’ 출범",
-      "link": "http://www.boannews.com/media/view.asp?idx=141641&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 11:52:00 +0900",
-      "description": "미국 주도 CVE 시스템 파행 가능성 대비오픈소스 기반 협업 취약점 추적 시스템 구축[보안뉴스 김형근 기자] 유럽에 본부를 둔 오픈 소스 기반 ‘글로벌 사이버 보안 취약점 목록(GCVE: Global CVE Allocation System) 이니셔티브’가 최근 공식 출범했다. GCVE 프로젝트는 미국 주도의 기존 ‘공통 보안 취약점 및 노출’(CVE) 프로",
-      "language": "ko",
-      "summary": "미국 CVE 시스템의 종식이나 제한사항에대해서는 개인적으로 다른 설명을 요구하지 않습니다.",
-      "points": [
-        "미국 CVE 시스템이 종식으로 대체되었음에 유의",
-        "제한사항들이 개인이나 기업이나 IT/기술 업체에서 일부 간주 사항으로만 취해야 하더라도",
-        "오픈소스 기반 'GCVE' 시스템이 추진중인 상태임"
-      ],
-      "insight": "이러한 GCVE의 제한사항으로부터 IT/기술 업체에서 보안을 개선하고자 하는것은 현재상황에 따라서도 무리해서 하지만, GCVE의 제한사항이 모든 IT/기술 업체에서의 보안 개선에 중요한 역시다면 글로벌 취약점 목록을 통해 IT/기술 업체가 제공해주는보안 정보를 직접입니다."
-    },
-    {
-      "title": "제네텍, 통합 플랫폼·하이브리드 전략 제시... ‘2026년 글로벌 물리보안 동향 세미나’ 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=141637&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 11:43:00 +0900",
-      "description": "글로벌 설문 기반 2026년 물리보안 시장 전망과 기술·운영 환경 변화 공유통합 플랫폼, 하이브리드 클라우드, AI, IT·물리보안 협업 전략 제시[보안뉴스 강초희 기자] 제네텍(Genetec Inc.)은 22일 서울 강남 웨스틴파르나스 호텔에서 ‘2026년 글로벌 물리보안 동향 세미나’를 개최했다. 지난해 12월 공개한 ‘2026 물리보안 현황 보고서’(",
-      "language": "ko",
-      "summary": "글로벌 설문 기반 2026년 물리보안 시장 전망과 기술·운영 환경 변화 공유통합 플랫폼, 하이브리드 클라우드, AI, IT·물리보안 협업 전략 제시[보안뉴스 강초희 기자] 제네텍(Genetec Inc. )은 22일 서울 강남 웨스틴파르나스 호텔에서 ‘2026년 글로벌 물리보안 동향 세미나’를 개최했다...",
-      "points": [
-        "글로벌 설문 기반 2026년 물리보안 시장 전망과 기술·운영 환경 변화 공유통합 플랫폼, 하이브리드 클라우드, AI, IT·물리보안 협업 전략 제시[보안뉴스 강초희 기자] 제네텍(...",
-        ")은 22일 서울 강남 웨스틴파르나스 호텔에서 ‘2026년 글로벌 물리보안 동향 세미나’를 개최했다",
-        "지난해 12월 공개한 ‘2026 물리보안 현황 보고서’("
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
-      "link": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Jan 2026 02:29:24 +0000",
-      "description": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
-      "language": "en",
-      "summary": "Former partner at the venture capital firm Sequoia launched a new startup called Blockit that uses artificial intelligence to manage and negotiate one'selfcalendars with ease.",
-      "points": [
-        "Blockit, an AI calendar agent funded by $5 million in seed money led by Sequoia Ventures",
-        "The company aims at handling the scheduling process automatically using machine learning algorithms",
-        "Currently working on integrating with Microsoft Outlook's Calendar and plans to expand into other calendaring services"
-      ],
-      "insight": "Blockit represents an emerging trend in automation for daily tasks, highlighting how AI can streamline personal workflow by managing time-sensitive responsibilities more efficiently."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 미사일 개발보다 더 중요한 사이버 안보",
-      "link": "http://www.boannews.com/media/view.asp?idx=141635&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 23 Jan 2026 11:13:00 +0900",
-      "description": "빅데이터 분석 결과 `위험·범죄·정보유출` 키워드와 함께 안보 불안감 고조현무-5 등 첨단 무기 개발만큼 중요한 ‘디지털 방어 체계’ 구축 시급[보안뉴스= 배종찬 인사이트케이 연구소장] 첨단 미사일 개발만큼이나 사이버보안의 중요성이 강조되고 있다. 핵무기에 버금갈 정도의 위력을 발휘하는 최첨단 무기인 현무-5가 개발됐지만, 현대전의 양상은 미국뿐 아니라 중",
-      "language": "ko",
-      "summary": "보안에 중심으로 가진 데이터 분석, 위험 즉정도 강조, IT 시스템의 안전성 요인",
-      "points": [
-        "본 기사는 보안과 다음 세대의 기술에 비하여 중요성을 강조한다.",
-        "위험 즉정으로 인한 감쇄축한 '위험·범죄·정보유출'",
-        "중요도를 높이기 위해 '현대전의 양상은 미국저하만 아니라 중요성을 강조한다'"
-      ],
-      "insight": "이 뉴스는 IT/기술 업체에서의 우리나라 국가보안 관련 주제를 통째로 다룰 수 있다. '위험·범죄·정보유출' 요소와 IT 시스템의 안전성을 강조하여, 보안 기술에 대한 인식과 지속적인 개선에 중요도를 논리로 부격한다."
-    },
-    {
-      "title": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
-      "link": "https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Jan 2026 01:31:54 +0000",
-      "description": "Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer Luckey grew up.",
-      "language": "en",
-      "summary": "Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer Luckey grew up",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
