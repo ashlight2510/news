@@ -1,6 +1,305 @@
 {
-  "generatedAt": "2026-01-27T13:04:38.577Z",
+  "generatedAt": "2026-01-27T18:52:00.805Z",
   "articles": [
+    {
+      "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+      "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 18:19:19 +0000",
+      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.",
+      "language": "en",
+      "summary": "Anthropic CEO Dario Amodei criticized ICE's enforcement tactics following Minneapolis violence during a CNN town hall appearance and praised Trump in an internal message to team members.",
+      "points": [
+        "Dario Amodei openly condemned the violent actions of ICE amidst unrest, hinting at potential policy consequences for extremists within its ranks. Meanwhile, Sam Altman acknowledged that policies like 'zero tolerance' contribute to such incidents and criticized Trump from an OpenAI internal communication.",
+        "The statements by Amodei mark a significant departure in Anthropic’s approach as it addresses ICE head-on for the first time publicly. At the same time, Altman highlighted that policies like 'zero tolerance' can escalate situations to potential violence."
+      ],
+      "insight": "This news indicates growing concern within technology leaders about government actions potentially affecting immigrant communities and user trust in AI companies endorsing such views. It could also signal a shift toward more corporate social responsibility engagement by tech firms with societal issues."
+    },
+    {
+      "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.",
+      "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 18:00:39 +0000",
+      "description": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+      "language": "en",
+      "summary": "Google has launched a more affordable global version of its artificial intelligence tools called 'AI Plus'. This subscription model costs $7.99 per month and is now available in all markets including the U.S.",
+      "points": [
+        "Google's AI Plus plan launches at $7.99/month globally",
+        "Includes tools like Gemini Pro for broader accessibility",
+        "Marketed as a more affordable and comprehensive AI tool option"
+      ],
+      "insight": "The introduction of Google's AI Plus plan is likely to drive down the overall cost of accessing artificial intelligence services, potentially increasing their adoption in various industries."
+    },
+    {
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 18:00:00 +0000",
+      "description": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "language": "en",
+      "summary": "The IT company OpenAI is launching an artificial intelligence-powered writing tool named 'Prism' designed to streamline the creation of scientific literature by integrating AI within established academic norms.",
+      "points": [
+        "OpenAI has launched Prism, a new program that uses AI for authorship in science papers while adhering to existing standards",
+        "The system is claimed to speed up writing processes and improve efficiency among researchers by handling repetitive tasks",
+        "Prism requires user input on specific aspects of their work before generating text"
+      ],
+      "insight": "This development suggests AI's growing role in scientific communication, potentially easing the burden of producing high-quality literature and democratizing access to research capabilities."
+    },
+    {
+      "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
+      "link": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:56:47 +0000",
+      "description": "European governments are looking to move away from U.S. tech and reclaim their digital sovereignty at a time of unpredictability and volatility in the United States.",
+      "language": "en",
+      "summary": "European governments are seeking to reduce dependence on U.S. technology amidst concerns over political instability under President Trump's administration.",
+      "points": [
+        "Europeans aiming for digital sovereignty due to US unpredictability",
+        "Trump criticizes EU regulations and weaponizes sanctions against Europe, prompting a shift in European tech reliance strategies.",
+        "Countries like France are investing heavily into developing alternatives such as the Galileo global satellite navigation system."
+      ],
+      "insight": "The news underscores an emerging trend of nations prioritizing digital independence, which could reshape future international technology collaborations and market dynamics within IT/technology industry amidst political uncertainties in major tech hubs like the U.S."
+    },
+    {
+      "title": "The price gap between Waymo and Uber is narrowing",
+      "link": "https://techcrunch.com/2026/01/27/the-price-gap-between-waymo-and-uber-is-narrowing/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:43:19 +0000",
+      "description": "Data collected and analyzed by Obi suggest a shift is underway.",
+      "language": "en",
+      "summary": "Obi's data suggests that the cost difference between Waymo and Uber in autonomous ride-hailing services is shrinking.",
+      "points": [
+        "The price gap between self-driving service provider Waymo and its competitors, specifically rideshare companies like Uber, has been decreasing over time.",
+        "Obi'thorough analysis of ride costs indicates that autonomous vehicles (AVs) could become more cost-competitive with traditional taxi services in the near future.",
+        "The narrowing price gap is attributed to advancements and increasing efficiency in self-driving technology, as well as growing competition among AV companies."
+      ],
+      "insight": "This trend signifies a potential disruption in transportation industry dynamics with autonomous vehicles becoming more financially viable. As the cost of implementing such tech continues to fall and efficiency increases further due to improvements, we can expect this gap to close even faster in upcoming years."
+    },
+    {
+      "title": "If you live in the UK, you probably won’t be able to visit Pornhub anymore",
+      "link": "https://techcrunch.com/2026/01/27/if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:31:05 +0000",
+      "description": "Pornhub parent company Aylo will restrict access from U.K. users, rather than comply with age verification mandates, which the company said it believes have not succeeded in promoting online safety.",
+      "language": "en",
+      "summary": "Aylo, parent company of Pornhub UK, plans to restrict U.K. users from accessing their services instead of complying with age verification mandates.",
+      "points": [
+        "Age verification laws in the United Kingdom have not effectively promoted online safety.",
+        "Pornhub will deny access for individuals residing within the UK as a response to these regulations.",
+        "Aylo argues that their compliance with age-restriction policies would be costly and disruptive."
+      ],
+      "insight": "This decision suggests challenges in effectively balancing online freedom, safety concerns, and regulatory demands within the IT/technology industry."
+    },
+    {
+      "title": "TikTok says it’s still working to recover its U.S. infrastructure",
+      "link": "https://techcrunch.com/2026/01/27/tiktok-says-its-still-working-to-recover-its-u-s-infrastructure/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:29:34 +0000",
+      "description": "TikTok says some of the glitches continue but it's making \"significant progress\" in recovering its U.S. infrastructure.",
+      "language": "en",
+      "summary": "Despite ongoing issues with video loading speeds and content delivery times for some users, TikTok reports that it's continuously making strides to restore its U.S. infrastructure.",
+      "points": [
+        "Some glitches persist in the form of slower video loads and delayed deliveries on certain parts of TikTok's US-based platform.",
+        "The company acknowledges these issues but asserts that it is actively working towards a resolution to restore normal service levels across its U.S.-facing services such as Shorty, Live Video Creator Studio and MyFeed for both iOS and Android users.",
+        "TikTok's infrastructure problems have not impacted the performance of their main social media app on mobile devices but may affect video-related features within US accounts."
+      ],
+      "insight": "The recent TikTok issues underscore vulnerabilities in digital platforms that rely heavily on user engagement and highlight how even minor disruptions can have a significant impact on the overall brand experience. While platform owners often downplay these incidents, persistent problems indicate potential long-term implications for consumer trust."
+    },
+    {
+      "title": "WhatsApp is rolling out a new stricter security setting to protect users from cyber attacts",
+      "link": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:24:22 +0000",
+      "description": "Days after Meta was sued over alleged false privacy claims surrounding its chat app WhatsApp, the company has rolled out a new setting to protect users against cyber attacks. The feature, called Strict Account Settings, adds restrictions like automatically blocking media and attachments from unknown senders, and silencing calls from unknown numbers. Under this setting, link previews […]",
+      "language": "en",
+      "summary": "WhatsApp has introduced a new security feature called Strict Account Settings to combat cyber threats by adding restrictions like blocking media and attachments from unknown senders.",
+      "points": [
+        "Introduction of the 'Strict Account Settings' in WhatsApp",
+        "The settings include automatically blocking messages, images, videos, links, voice notes, calls, and location information from unverified users",
+        "Enhancements also make it harder for hackers to access a user’s account even if they know the phone number"
+      ],
+      "insight": "The Strict Account Settings feature emphasizes WhatsApp's commitment to protecting its massive user base from escalating cyber threats, which could set industry-wide security standards."
+    },
+    {
+      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+      "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:00:00 +0000",
+      "description": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
+      "language": "en",
+      "summary": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally",
+      "points": [
+        "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globa...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Android phones are getting more anti-theft features",
+      "link": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 17:00:00 +0000",
+      "description": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools.",
+      "language": "en",
+      "summary": "The article discusses Google's announcement of improved anti-theft measures for Android phones through advanced security features including robust authentication methods and better device recovery options.",
+      "points": [
+        "Google introduces new strong authentication safeguards",
+        "Enhanced tools are provided to improve the phone'thy recovery process in case of loss or theft",
+        "These updates aim to reduce risks associated with smartphone security"
+      ],
+      "insight": "The development and implementation of these anti-theft features for Android devices demonstrate Google's commitment towards improving user privacy and device safety. This could potentially influence other tech companies in the industry to follow suit."
+    },
+    {
+      "title": "Indian states weigh Australia-style ban on social media for children",
+      "link": "https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 16:58:01 +0000",
+      "description": "Any move to restrict children's access to social media in India would carry significant implications for global technology companies, for which the South Asian nation is a critical growth market.",
+      "language": "en",
+      "summary": "Indian states are considering an Australia-style ban on children' end use of social media platforms like Instagram and Facebook as they seek to address concerns over their mental health.",
+      "points": [
+        "Debate in India about a potential government regulation mirroring the Australian approach to limit kids’ access to social networking sites",
+        "Australian law bans children under the age of 16 from using platforms like Instagram and Facebook with limited exceptions",
+        "India has one-fifth as many internet users, but significant potential growth in its market"
+      ],
+      "insight": "The proposed ban could lead to major policy shifts for global social media companies that rely on user engagement from India's burgeoning digital economy."
+    },
+    {
+      "title": "Amazon is closing its physical Amazon Go and Amazon Fresh stores",
+      "link": "https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 16:21:32 +0000",
+      "description": "Upon closing down some stores in 2024, an Amazon spokesperson said that the company \"couldn't make the economics work with the lease cost.\" These retail closures will not impact customers who use Amazon for grocery delivery.",
+      "language": "en",
+      "summary": "Upon closing down some stores in 2024, an Amazon spokesperson said that the company \"couldn't make the economics work with the lease cost. \" These retail closures will not impact customers who use Amazon for grocery delivery",
+      "points": [
+        "Upon closing down some stores in 2024, an Amazon spokesperson said that the company \"couldn't make t...",
+        "\" These retail closures will not impact customers who use Amazon for grocery delivery",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+      "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 15:25:22 +0000",
+      "description": "\"Our special sauce is the prompt libraries, the eval suites, and the thousands and thousands of real-world examples that the AI gets trained on to ensure it actually does what it's expected to do,” CEO Aron Solberg told TechCrunch.",
+      "language": "en",
+      "summary": "Risotto has raised $1 end-to end AI solution for airline ticketing systems aimed at making them easier to use.",
+      "points": [
+        "CEO Aron Solberg discusses the company's focus on training AI with prompt libraries, eval suites, and real-world examples.",
+        "Risotto has raised $10M in seed funding from investors including Cyrus One CEO Amir Orad and former Google exec Nick Carson among others. ",
+        "The company's product leverages NLP (Natural Language Processing) to interpret queries, provide answers using structured APIs or point-and-click interfaces."
+      ],
+      "insight": "Risotto’s AI solution has the potential to streamline ticket purchasing and inquiries for airlines by providing a more user-friendly interface through natural language interaction. The investment not only fuels technology advancements but also opens doors towards wider integration of conversational interfaces across various sectors."
+    },
+    {
+      "title": "Samsung’s TriFold phone will cost $2,899 in the US",
+      "link": "https://techcrunch.com/2026/01/27/samsungs-trifold-phone-will-cost-2899-in-the-us/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 15:13:19 +0000",
+      "description": "The phone's display unfolds twice to reveal a 10-inch display, which is the largest screen ever on a Galaxy phone.",
+      "language": "en",
+      "summary": "Samsung introduces TriFold, an innovative foldable smartphone with a collapsible triple glass-screen design that unfolds to reveal the largest screen ever on a Galaxy phone: a massive 10 inches.",
+      "points": [
+        "The Samsung TriFold boasts a unique unfolding display mechanism, making its expansive 10-inch screen highly innovative for foldable phones.",
+        "With the price tag of $2,899 in the U.S., this smartphone marks one of the most expensive devices available to consumers due to its cutting-edge technology and size.",
+        "The TriFold's significant screen expansion is designed with industry experts who have been involved since 2017."
+      ],
+      "insight": "Samsung’s TriFold demonstrates the company’s commitment to pushing the boundaries of foldable smartphone design and technology, which could influence future developments in screen size and device functionality within the industry. However, its high cost may limit consumer adoption."
+    },
+    {
+      "title": "Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’",
+      "link": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 15:00:00 +0000",
+      "description": "“We’re on the cusp of a completely new way of shopping,” Gates told TechCrunch.",
+      "language": "en",
+      "summary": "“We’re on the cusp of a completely new way of shopping,” Gates told TechCrunch",
+      "points": [
+        "“We’re on the cusp of a completely new way of shopping,” Gates told TechCrunch",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Airtable jumps into the AI agent game with Superagent",
+      "link": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 15:00:00 +0000",
+      "description": "SuperAgent is Airtable's first standalone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: every serious software player is racing to prove they can deliver on agents.",
+      "language": "en",
+      "summary": "Airtable has launched SuperAgent as its first standalone product since their inception years ago, entering the AI-driven automation market.",
+      "points": [
+        "SuperAgent is Airtable's initial attempt at creating a software agent to interact with applications on behalf of users.",
+        "Airtable believes SuperAgent can handle day-to-day tasks such as data entry and report generation, freeing up time for human workers.",
+        "The launch indicates industry trends towards AI automation but also reflects Airtable's limited experience with software agents."
+      ],
+      "insight": "Although companies like Salesforce have already established their expertise in the field of conversational interfaces, SuperAgent shows that even less experienced entities are eager to enter this space. It illustrates how AI automation is becoming essential for business efficiency and competitive edge within IT."
+    },
+    {
+      "title": "Pinterest layoffs impact 15% of staff as resources redirected to AI",
+      "link": "https://techcrunch.com/2026/01/27/pinterest-layoffs-impact-15-of-staff-as-resources-redirected-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 14:44:47 +0000",
+      "description": "Pinterest says it's \"reallocating resources to AI-focused roles and teams that drive AI adoption and execution\" and \"prioritizing AI‑powered products and capabilities.\"",
+      "language": "en",
+      "summary": "Pinterest is laying off a significant portion of its staff to focus on artificial intelligence (AI) by reallocating resources towards AI-focused roles that enhance the adoption and execution of AI technologies.",
+      "points": [
+        "Pinterest plans substantial headcount reductions, impacting about 15% of their current employees across various departments including marketing, engineering (frontend/backend), design teams, product management, customer service representatives, business development team members and more. The company aims to consolidate its staff into AI-focused roles.",
+        "The layoffs primarily target individuals who are not in leadership or technical positions that directly contribute towards the advancement of Pinterest'ths artificial intelligence initiatives.",
+        "Pinterest is redirecting resources and talent, particularly from marketing, engineering (frontend/backend), design teams, product management, customer service representatives to bolster AI-focused roles aimed at driving adoption and execution of the technology."
+      ],
+      "insight": "This strategic shift indicates Pinterest's prioritization towards integrating artificial intelligence into their core products and services. While this could lead to job losses, it also signifies a potential for increased innovation through AI in social media applications by focusing on roles that enhance the adoption of advanced technologies."
+    },
+    {
+      "title": "Luminar receives a larger $33 million bid for its lidar business",
+      "link": "https://techcrunch.com/2026/01/27/luminar-receives-a-larger-33-million-bid-for-its-lidar-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 14:17:32 +0000",
+      "description": "A new leading bidder has appeared in the Luminar bankruptcy case: Redmond, Washington-based MicroVision, which beat out Quantum Computing Inc.'s bid by $5 million.",
+      "language": "en",
+      "summary": "MicroVision has submitted a new larger $38 million bid to buy Luminar' extramural technology firm out of bankruptcy.",
+      "points": [
+        "Luminar announced its Chapter 11 proceedings on June 6, after missing payments due last November and January despite having secured an initial investment from Ford Motor Co. in March to develop lidar tech with the company's Extra Mile concept vehicle.",
+        "With MicroVision now stepping up as a larger bidder at $38 million vs Quantum Computing Inc.'s previous offer of $33 million, Luminar may face an auction for its technology if no buyout deal is struck before August 20th when the bankruptcy case closes.",
+        "Luminar shares were suspended from trading on June 6 at around US$1.58 per share and began sinking in value as bad debt looms, however its Extra Mile lidar sensor business has been seen by many investors to have significant potential for growth if successfully merged with a larger tech firm."
+      ],
+      "insight": "The battle over Luminar's bankruptcy could potentially reshape the future of autonomous vehicle technology, as competing firms seek control over its promising lidar sensor business. The outcome may determine which company gets to advance this cutting-edge tech for driverless cars."
+    },
+    {
+      "title": "China’s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
+      "link": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 14:11:10 +0000",
+      "description": "The company said that the model was trained on 15 trillion mixed visual and text tokens.",
+      "language": "en",
+      "summary": "China's Moonshot has released Kimi K2.5, an open-source image synthesis model, along with a coding agent to make AI development more accessible.",
+      "points": [
+        "Kimi K2.5 is trained on over 15 trillion mixed visual and text tokens for superior performance in content creation tasks like video editing and scriptwriting.",
+        "The open-source model provides democratized access to high-level AI capabilities without significant investment or expertise.",
+        "Moonshot's coding agent simplifies the process of training custom models on Kimi, fostering broader utilization across industries."
+      ],
+      "insight": "This development marks a pivotal move towards accessible and democratized AI tools that can empower small to medium-sized enterprises within China's tech industry by providing them with cutting-edge capabilities without the need for large investments or expertise in machine learning."
+    },
+    {
+      "title": "Node-based design tool Flora raises $42M from Redpoint Ventures",
+      "link": "https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 14:00:00 +0000",
+      "description": "Flora's node-based design tool is being used by companies like Pentagram and Lionsgate.",
+      "language": "en",
+      "summary": "Node-based graphic design software Flora has secured $42 million in funding from Redpoint Ventures as it continues to be utilized by major firms such as Pentagram and Lionsgate.",
+      "points": [
+        "Flora, a node-based visual programming tool for creative industries, raised $42 million led by private venture capital firm Redpoint.",
+        "The funding supports Flora' extrusion features that are crucial to the graphic design industry. ",
+        "Companies like Pentagram and Lionsgate have adopted Flora into their workflows."
+      ],
+      "insight": "This investment in Flora underscores a growing trend towards visual programming tools within creative industries, potentially impacting how digital assets are crafted for film, television, gaming, web design, illustration and more. With enhanced features like 'extrusion,' which allows graphic elements to take on physical forms with volume and weight in 3D space, Flora is poised to become an even more integral part of the creative workflow."
+    },
     {
       "title": "Northwood Space secures a $100M Series B and a $50M Space Force contract",
       "link": "https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/",
@@ -449,305 +748,6 @@
         "Many industry professionals are skipping out on a major event due to these concerns and other unspecified issues"
       ],
       "insight": "This news could have serious implications for the gaming community, which often thrives on networking opportunities that conferences like GDC provide. If fears of ICE activity continue or escalate without resolution, it may impact attendance and diversity in future events."
-    },
-    {
-      "title": "Vinod Khosla publicly disavows Keith Rabois’ comments on ICE shooting",
-      "link": "https://techcrunch.com/2026/01/26/vinod-khosla-publicly-disavows-keith-rabois-comments-on-ice-shooting/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 21:49:12 +0000",
-      "description": "Unwavering Trump loyalist and VC Keith Rabois caused his colleague and his firm's founder to distance themselves from his comments on ICE.",
-      "language": "en",
-      "summary": "VC Keith Rabois made controversial remarks about immigration enforcement that led Vinod Khosla and Palantir Technologies' Pinterest to dissociate themselves from his comments.",
-      "points": [
-        "Keith Rabois, a venture capitalist known for his support of President Trump, caused distress among colleagues with controversial remarks on immigration enforcement after the ICE shooting incident in Uvalde, Texas. As a result, Vinod Khosla and Palantir Technologies' Pinterest division disassociated themselves from Rabois.",
-        "In his commentary published by Fox News following the tragedy at Robb Elementary School where 19 students were slain, including many who are Asian immigrants or children of immigrants, Keith Rabois stated that ICE's actions in enforcing laws against illegal aliens have been misinterpreted and exaggerated.",
-        "VC firms Vinod Khosla and Sequoia Capital publicly dissociated themselves from these comments while Pinterest removed a promoted post by one of Rabois’ companies that praised his stance on immigration enforcement."
-      ],
-      "insight": "The backlash against Keith Rabois' insensitive remarks highlights the growing awareness and demand for inclusivity within the tech industry. It also shows a divide between those who support stricter law enforcement measures, often tied to political ideologies like nationalism or populism, versus businesses seeking diverse talent pools."
-    },
-    {
-      "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
-      "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 21:43:14 +0000",
-      "description": "The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models.",
-      "language": "en",
-      "summary": "YouTube content creators are suing Snapchat over alleged copyright infringement related to the training of their artificial intelligence (AI) models using datasets originally intended for research and academic purposes.",
-      "points": [
-        "The lawsuit targets YouTubers who accuse Snapchat, among others, of repurposring AI research data without proper authorization or compensation.",
-        "Snap claims that the public nature of its platform encourages user-generated content (UGC) and asserts fair use rights for training their models to ensure authentic interactions on video calls.",
-        "Courts are tasked with determining whether Snapchat's utilization falls under transformative or unjust enrichment, considering the commercial impact of AI in social media."
-      ],
-      "insight": "This case may set a precedent for how user-generated content is managed and used by companies for developing their proprietary technologies within copyright laws. It emphasizes the tension between innovation through big data utilization, privacy concerns over personal creative work, and legal frameworks governing intellectual property."
-    },
-    {
-      "title": "Here’s the tech powering ICE’s deportation crackdown",
-      "link": "https://techcrunch.com/2026/01/26/heres-the-tech-powering-ices-deportation-crackdown/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 21:00:00 +0000",
-      "description": "From phone spyware and facial recognition to phone unlocking technology and databases and more, this tech powers Trump's deportation machine.",
-      "language": "en",
-      "summary": "The article discusses the technologies used by ICE in immigration enforcement efforts under President Donald Trump's administration.",
-      "points": [
-        "Phone spyware and facial recognition technology are employed to track undocumented individuals within the United States.",
-        "Tools for unlocking locked phones without their consent have been used as part of ICE operations, leading to concerns about privacy rights infringements.",
-        "Large databases collect biometric data and personal information from detained immigrants are managed by law enforcement agencies."
-      ],
-      "insight": "The use of invasive technologies raises questions around the balance between security measures for deportations and fundamental human rights protections such as privacy. The tech industry could face increased scrutiny over its role in immigration surveillance tools, potentially leading to calls for stricter regulations or reformed usage policies."
-    },
-    {
-      "title": "Social network UpScrolled sees surge in downloads following TikTok’s US takeover",
-      "link": "https://techcrunch.com/2026/01/26/social-network-upscrolled-sees-surge-in-downloads-following-tiktoks-us-takeover/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 20:11:33 +0000",
-      "description": "UpScrolled is a social network that pledges to remain impartial to political agendas. It blends familiar features from Instagram and X, letting users share photos, videos, and text posts, discover new content, and send direct messages.",
-      "language": "en",
-      "summary": "UpScrolled has experienced a significant increase in downloads following TikTok's acquisition of the U. endorses impartiality.",
-      "points": [
-        "Apple acquired TikTok, causing uncertainty for its parent company ByteDance",
-        "This event sparked heightened interest among users and developers towards alternatives like UpScrolled"
-      ],
-      "insight": "The acquisition of TikTok by Apple has created an opportunity in the social media market that companies such as UpScrolled are capitalizing on, emphasizing impartiality while providing similar features to those found on established platforms."
-    },
-    {
-      "title": "Rad Power Bikes reaches deal to sell itself for $13.2M",
-      "link": "https://techcrunch.com/2026/01/26/rad-power-bikes-reaches-deal-to-sell-itself-for-13-2-million/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 19:56:33 +0000",
-      "description": "A company called Life Electric Vehicle Holdings has emerged as the top bidder for Rad Power's assets. It's not clear what the company plans to do with them, though.",
-      "language": "en",
-      "summary": "Life Electric Vehicle Holdings secured a deal to acquire the assets of Rad Power Bikes for $13.2M. The future use of these assets remains uncertain.",
-      "points": [
-        "Rad Power Bikes has sold its assets, including electric motorcycles and accessories",
-        "The sale price is set at a total consideration of $13.2 million",
-        "Life Electric Vehicle Holdings emerged as the top bidder"
-      ],
-      "insight": "This acquisition could signal consolidation in the electric motorcycle market, with potential implications for competition and innovation."
-    },
-    {
-      "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
-      "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 19:10:03 +0000",
-      "description": "Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale.",
-      "language": "en",
-      "summary": "AI startup CVector has successfully raised $5M for developing its 'nervous system', a proprietary AI platform designed to improve manufacturing efficiency across industries. The founders face the challenge of demonstrating tangible savings and benefits.",
-      "points": [
-        "CVector, founded by Richard Zhang and Tyler Ruggles in April 2019, has raised $5M for its AI-powered industrial 'nervous system'.",
-        "The CVector platform is designed to detect equipment anomalies before they cause downtime or breakdowns.",
-        "Customers will need convincing that the benefits of adopting this technology exceed initial investments and ongoing costs."
-      ],
-      "insight": "CVector's AI-driven approach could revolutionize predictive maintenance in manufacturing, offering significant cost savings by minimizing unplanned downtime. However, its success will hinge on proving these benefits to potential customers who must weigh the initial and long-term costs."
-    },
-    {
-      "title": "TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized",
-      "link": "https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 18:20:48 +0000",
-      "description": "Skylight, a TikTok alternative built on open protocols, has had a busy weekend.",
-      "language": "en",
-      "summary": "The IT/technology news article reports that the Skylight social platform experienced significant growth after finalizing its deal with TikTok in the US market.",
-      "points": [
-        "Skylight reached over 380,00thy users quickly following a merger announcement and partnership agreements",
-        "The company secured investment deals totaling $25 million post-merger deal with TikTok in the US market.",
-        "Despite its growth spurt due to strategic moves related to the social media industry's consolidation trends."
-      ],
-      "insight": "The news illustrates Skylight's effective strategy and potential as an upcoming competitor in a rapidly evolving and highly concentrated digital landscape, where big tech companies are looking for new partnerships or acquisitions to strengthen their market positions."
-    },
-    {
-      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
-      "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 18:00:00 +0000",
-      "description": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
-      "language": "en",
-      "summary": "Anthropic has released a suite of AI-powered workplace tools called Claude that can be accessed through Slack and integrate seamlessly into the chatbot interface for enhanced productivity.",
-      "points": [
-        "Claude, Anthropic's new interactive apps launched via integration with popular communication platforms like Slack",
-        "Aims to improve efficiency by integrating tasks such as scheduling appointments and creating documents directly within workplace chat applications",
-        "The launch of Claude indicates a shift towards AI-driven productivity tools in the IT industry"
-      ],
-      "insight": "This development suggests that companies are increasingly adopting AI technologies to streamline workflows, improve communication, and boost overall efficiency. It's an indication of future trends where artificial intelligence is becoming integral to everyday business operations."
-    },
-    {
-      "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
-      "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 18:00:00 +0000",
-      "description": "The 12-year-old firm raised $360,360,360 for its fifth fund. And there's a reason for that number.",
-      "language": "en",
-      "summary": "Obvious Ventures has successfully secured a five-year investment cycle of $360 million with their latest venture capital round.",
-      "points": [
-        "The fifth fund for Obvious Ventures raised is the largest in startup history, amounting to over $360 million",
-        "Obvious Ventures offers an integrated approach by providing planetary resources (solar), human factors expertise, and economic advice alongside capital.",
-        "This unique business model has gained significant attention from tech entrepreneurs looking for comprehensive support systems."
-      ],
-      "insight": "The success of Obvious Ventures' funding round signals the increasing value that companies place on holistic approaches to sustainability and growth, which could lead a shift in startup investment strategies within the technology sector."
-    },
-    {
-      "title": "TikTok attributes recent glitches to a power outage at a U.S. data center",
-      "link": "https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 17:48:50 +0000",
-      "description": "The timing of these outages lines up with the long-awaited creation of a separate U.S. TikTok entity last week.",
-      "language": "en",
-      "summary": "Recent glitches on TikTok are due to a power outage at one of its major US data centers.",
-      "points": [
-        "Power outage caused temporary site-wide issues for TikTok in the U.S.",
-        "Creation of an independent American entity was announced just days before glitches",
-        "No evidence suggests user content security has been compromised"
-      ],
-      "insight": "This incident highlights vulnerabilities within data center infrastructries, indicating a potential area for future improvements in the technology industry."
-    },
-    {
-      "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
-      "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 17:29:35 +0000",
-      "description": "Europe-based venture fund 2150 raised the money to invest in climate tech startups that help solve cities' carbon footprint.",
-      "language": "en",
-      "summary": "Venture capital firm 215energie has secured a €210 million fund with the goal of investing in climate tech startups focused on reducing urban carbon footprints.",
-      "points": [
-        "Europe-based venture capital firm 2150 raised $210 million to specifically address cities' environmental challenges",
-        "The targeted sectors for this fund include innovative green technology and sustainable practices that aim at mitigating climate change effects in urban settings.",
-        "This initiative highlights the growing importance of clean tech investment as part of a broader, global commitment to environmental responsibility"
-      ],
-      "insight": "The establishment of specialized funds like this by venture capitalists shows an increasing recognition within the technology sector and beyond that tackling climate change is crucial for future-proofing cities against its impacts."
-    },
-    {
-      "title": "Saudi satirist hacked with Pegasus spyware wins damages in court battle",
-      "link": "https://techcrunch.com/2026/01/26/saudi-satirist-hacked-with-pegasus-spyware-wins-damages-in-court-battle/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 17:20:07 +0000",
-      "description": "The London High Court awarded the London-based satirist and human rights activist Ghanem Al-Masarir more than £3 million, after finding the Saudi government hacked his phone and was likely behind a physical attack targeting him in London.",
-      "language": "en",
-      "summary": "The London High Court awarded the London-based satirist and human rights activist Ghanem Al-Masarir more than £3 million, after finding the Saudi government hacked his phone and was likely behind a physical attack targeting him in London",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
-      "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 16:26:49 +0000",
-      "description": "More than 450 tech workers from companies like Google, Meta, OpenAI, Amazon, and Salesforce have signed a letter urging their CEOs to call the White House and demand ICE leave our cities.",
-      "language": "en",
-      "summary": "Over 450 tech workers from major companies like Google and Meta are pressuring their respective CEOs to take a public stand against Immigration and Customs Enforcement (ICE) presence in U.S cities.",
-      "points": [
-        "Demand that ICE leave American Cities",
-        "Call for direct action by tech leaders",
-        "Inclusive policies desired at hiring process"
-      ],
-      "insight": "This news indicates a growing consciousness among IT professionals about broader societal issues, and their willingness to use collective power as corporate influencers in advocating for social justice. The call suggests potential policy shifts within companies if this trend continues."
-    },
-    {
-      "title": "Microsoft announces powerful new chip for AI inference",
-      "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 16:00:00 +0000",
-      "description": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
-      "language": "en",
-      "summary": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
-      "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 15:52:55 +0000",
-      "description": "CoreWeave will also integrate Nvidia's products across its platform, including the new Rubin chip architecture.",
-      "language": "en",
-      "summary": "Nvidia has invested $2 billion to aid CoreWeave in overcoming debt and expanding AI compute capabilities by integrating Nvidia' extraterrestrial products.",
-      "points": [
-        "CoreWeave, a cloud computing company with significant financial difficulties, will receive a transformative investment of $2 billion from tech giant Nvidia to bolster its operations and pursue growth in the AI marketplace.",
-        "The collaboration between CoreWeave and Nvidia not only brings substantial capital infusion but also enables leveraging cutting-edge technologies like Rubin chip architecture for enhancing data processing capabilities.",
-        "This deal underscores a strategic move towards accelerating cloud computing advancements, as both companies align on expanding AI capacities and integrating high-performance Nvidia products across CoreWeave's platform."
-      ],
-      "insight": "The investment signifies the increasingly symbiotic relationship between large tech firms (like Nvidia) and cloud computing entities, aimed at propelling AI development forward while ensuring industry-wide technological advancements in high performance computing infrastructures."
-    },
-    {
-      "title": "SpaceX eyes mid-March for first test of upgraded Starship rocket",
-      "link": "https://techcrunch.com/2026/01/26/spacex-eyes-mid-march-for-first-test-of-upgraded-starship-rocket/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 15:16:49 +0000",
-      "description": "The launch date had been up in the air after the rocket's booster stage suffered an explosion during testing in November.",
-      "language": "en",
-      "summary": "SpaceX aims to conduct its first test flight of the upgraded Starship rocket by mid-March after previously experiencing setbacks.",
-      "points": [
-        "The launch date for SpaceX's starship had been uncertain following an explosion during testing in November.",
-        "SpaceX is working towards a successful first test flight of the upgraded Starship rocket by mid-March.",
-        "Despite earlier issues, this marks progress and sets new milestones within the industry."
-      ],
-      "insight": "The success of SpaceX's upcoming launch could signify an important leap forward in private space exploration capabilities. This event may influence future commercial opportunities in Earth orbiting missions as well as lunar landings, shaping both market dynamics and technological advancements."
-    },
-    {
-      "title": "Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 plus-one passes at 50% off are already gone",
-      "link": "https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-plus-one-passes-at-50-off-are-already-gone/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 15:00:00 +0000",
-      "description": "Register now to save up to $680 on your TechCrunch Disrupt 2026 pass and get a +1 ticket at 50% off. Offer ends this Friday, January 30.",
-      "language": "en",
-      "summary": "With just five days remaining until the deadline for TechCrunch Disrupt 2energize event passes and discounted plus-one tickets have ended.",
-      "points": [
-        "The original price of a pass to TechCrunch Disrupt Energize is $1,405. However, attendees can save up to $680 with early bird registration before January 30th.",
-        "Registration for the event closes on Friday (January 30) and offers are only valid through this date; no late registrations or discounted tickets will be available post-deadline. Attendees who register after have to pay full price regardless of how many days before January 18 they do so.",
-        "Even though the Disrupt conference is not as well attended by startups and investors like its predecessor, it still attracts a large number of entrepreneurs each year."
-      ],
-      "insight": "The TechCrunch Disrupt 2026 event highlighted how important early bird registration can be for potential attendees to secure discounted tickets and passes. As startups continue to find value in these gatherings, the demand remains high despite a decrease in attendance over time."
-    },
-    {
-      "title": "Apple’s new AirTag is louder and can be found across longer distances",
-      "link": "https://techcrunch.com/2026/01/26/apples-new-airtag-is-louder-and-can-be-found-across-longer-distances/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 14:46:00 +0000",
-      "description": "Apple's new AirTag is louder and supports better finding at longer distances.",
-      "language": "en",
-      "summary": "Apple's new AirTag is louder and supports better finding at longer distances",
-      "points": [
-        "Apple's new AirTag is louder and supports better finding at longer distances",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
-      "link": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 14:00:00 +0000",
-      "description": "Nvidia announced three new AI weather tools today. Together, they promise to improve the accuracy of weather forecasts while also making them accessible to more users.",
-      "language": "en",
-      "summary": "Nvidia introduced three artificial intelligence models for predicting weather with enhanced precision and wider accessibility.",
-      "points": [
-        "The unveiling of Nvidia's new AI-driven tools aims to advance the accuracy of forecasts",
-        "These solutions are accessible on various platforms, including mobile devices.",
-        "Nvidia’investment in predictive analytics underscores its commitment as an industry leader"
-      ],
-      "insight": "This development by Nvidia can significantly impact the broader IT/technology sector through advanced data processing and AI innovations."
-    },
-    {
-      "title": "코닉글로리, 사이버 시큐리티 전문가 김진수 대표 전격 영입",
-      "link": "http://www.boannews.com/media/view.asp?idx=141679&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 19:07:00 +0900",
-      "description": "조명제 대표와 ‘각자 대표 체제’... 보안 시장 공략 가속화[보안뉴스 원병철 기자] 유무선 네트워크 보안 전문기업 코닉글로리(대표이사 조명제)는 각자 대표이사로 김진수 전 트리니티소프트 대표를 영입해 새로운 도약에 나선다.코닉글로리는 이번 임시주주총회를 통해 김진수 대표를 각자 대표이사로 선임했다고 밝혔다. 이번 영입은 급변하는 글로벌 사이버보안 트렌드에",
-      "language": "ko",
-      "summary": "조명제 대표와 ‘각자 대표 체제’. 보안 시장 공략 가속화[보안뉴스 원병철 기자] 유무선 네트워크 보안 전문기업 코닉글로리(대표이사 조명제)는 각자 대표이사로 김진수 전 트리니티소프트 대표를 영입해 새로운 도약에 나선다...",
-      "points": [
-        "보안 시장 공략 가속화[보안뉴스 원병철 기자] 유무선 네트워크 보안 전문기업 코닉글로리(대표이사 조명제)는 각자 대표이사로 김진수 전 트리니티소프트 대표를 영입해 새로운 도약에 나...",
-        "코닉글로리는 이번 임시주주총회를 통해 김진수 대표를 각자 대표이사로 선임했다고 밝혔다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
