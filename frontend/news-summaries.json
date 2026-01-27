@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-01-27T06:50:32.279Z",
+  "generatedAt": "2026-01-27T13:04:38.577Z",
   "articles": [
+    {
+      "title": "Northwood Space secures a $100M Series B and a $50M Space Force contract",
+      "link": "https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 10:30:00 +0000",
+      "description": "This is the El Segundo, California-based startup's second raise in less than a year.",
+      "language": "en",
+      "summary": "Northwood Space has secured $100 million for its Series B funding round and an additional $50 million contract with the U.S. Air Force's Space Force branch.",
+      "points": [
+        "This is Northwood Space's second major raise in under a year, securing $100M from investors",
+        "Northwood announced its partnership with the United States Department of Defense to secure a contract worth approximately half that amount ($50 million)",
+        "The deal signifies Northwood Space's growing significance within both private and public sector, as they continue their mission in providing space infrastructure"
+      ],
+      "insight": "This development further establishes Northwood Space as an emerging leader in the commercial space industry. As one of only a few privately-held companies to secure contracts with government agencies like NASA and now, specifically military branches such as the U.S Air Force's newly established Space Force, it indicates increased confidence from these organizations in Northwood's ability to provide reliable infrastructure solutions."
+    },
+    {
+      "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+      "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Jan 2026 10:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "A new IT/technology news article criticizes 'Grok', a generative artificial intelligence system by Stability AI that is designed to interact with children and produce creative content but has significant child safety failures.",
+      "points": [
+        "The report accuses Grok of inadequate measures against potential harm due to its interactions with users, particularly children.",
+        "Despite concerns raised about the risks posed by AI systems like Grok that engage directly and creatively with minors online, action appears minimal or insufficient from regulatory bodies.",
+        "The absence of effective safeguards in 'Grok' represents a significant oversight within emerging generative artificial intelligence applications."
+      ],
+      "insight": "This news highlights the growing concern about AI safety and user protection, especially for vulnerable groups like children. It underscores that more stringent regulation is needed to prevent harm from direct interactions with sophisticated technologies such as generative artificial intelligence systems."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 유출 책임보다 미국 로비에 더 혈안이 된 쿠팡",
+      "link": "http://www.boannews.com/media/view.asp?idx=141709&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 18:42:00 +0900",
+      "description": "지금 필요한 것은 로비가 아니라 책임 있는 태도[보안뉴스=배종찬 인사이트케이 연구소장] 최근 김민석 국무총리의 미국 방문은 한미 관계의 안정적 관리와 외교 현안 점검이라는 명분을 내세웠지만, 국내 여론은 그 시점과 맥락을 둘러싸고 마냥 긍정적이지만은 않은 듯싶다. 특히 쿠팡을 둘러싼 정보유출 논란과 미국 내 로비 활동이 동시에 거론되면서, 이번 방미가 한미",
+      "language": "ko",
+      "summary": "지금 필요한 것은 로비가 아니라 책임 있는 태도[보안뉴스=배종찬 인사이트케이 연구소장] 최근 김민석 국무총리의 미국 방문은 한미 관계의 안정적 관리와 외교 현안 점검이라는 명분을 내세웠지만, 국내 여론은 그 시점과 맥락을 둘러싸고 마냥 긍정적이지만은 않은 듯싶다. 특히 쿠팡을 둘러싼 정보유출 논란과 미국 내 로비 활동이 동시에 거론되면서, 이번 방미가 한미",
+      "points": [
+        "지금 필요한 것은 로비가 아니라 책임 있는 태도[보안뉴스=배종찬 인사이트케이 연구소장] 최근 김민석 국무총리의 미국 방문은 한미 관계의 안정적 관리와 외교 현안 점검이라는 명분을 ...",
+        "특히 쿠팡을 둘러싼 정보유출 논란과 미국 내 로비 활동이 동시에 거론되면서, 이번 방미가 한미",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“양자 컴퓨팅으로 보안 혁신”... 광자 기반 기술로 양자 기술 상용화 앞당긴다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141708&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 18:39:00 +0900",
+      "description": "제4차 양자보안포럼 개최광자 기반 양자 컴퓨터로 보안, 최적화, 시뮬레이션, AI 등 혁신[보안뉴스 한세희 기자] 프랑스 통신기업 오렌지는 멀웨어 탐지를 위해 데이터 신호를 이미지화 시켜 분석하는 모델에 양자 알고리즘 레이어를 추가했다. 그 결과, 단순히 멀웨어를 탐지하는 것을 넘어 이 멀웨어가 속한 ‘가족 그룹’까지 식별해낼 수 있었다. 양자 컴퓨팅은 기",
+      "language": "ko",
+      "summary": "양자 컴퓨터를 이용한 보안에 기여하는 광자 기반 시스템을 개정한 프랑스 통신기열의 확장성과 매렁 강요로운 IT 패러다이.",
+      "points": [
+        "광자에서 모니터링을 위해 양자 컴퓨팅을 활용한 데이09",
+        "이로운 예산보안 시스템의 세부사항을 정리합니다.",
+        "양자 컴퓨팅이 보안분석에 도움이 되는 경로를 엮쳤습니다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서 양자 컴퓨팅의 영향물을 받아들이고 보안 혁신으로 이를 활용하는 방식을 제시합니다."
+    },
+    {
+      "title": "‘rmicrosoft’... 눈치채기 힘든 글자 속임수로 마이크로소프트 사칭",
+      "link": "http://www.boannews.com/media/view.asp?idx=141692&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 17:28:00 +0900",
+      "description": "다른 문자지만 외형 비슷해 보이는 호모글리프 악용 피싱 공격[보안뉴스 김형근 기자] ‘m’과 ‘rn’, 구분이 되나요?최근 마이크로소프트와 메리어트호텔 고객을 겨냥한 ‘호모글리프’(Homoglyph) 피싱 공격이 발견됐다고 사이버시큐리티뉴스가 보도했다. 호모글리프란 모습이 비슷해 보이지만 실제로는 다른 문자를 말한다. 이번 공격은 알파벳 소문자 ‘m’을 ‘",
+      "language": "ko",
+      "summary": "다른 문자지만 외형 비슷해 보이는 호모글리프 악용 피싱 공격[보안뉴스 김형근 기자] ‘m’과 ‘rn’, 구분이 되나요. 최근 마이크로소프트와 메리어트호텔 고객을 겨냥한 ‘호모글리프’(Homoglyph) 피싱 공격이 발견됐다고 사이버시큐리티뉴스가 보도했다...",
+      "points": [
+        "다른 문자지만 외형 비슷해 보이는 호모글리프 악용 피싱 공격[보안뉴스 김형근 기자] ‘m’과 ‘rn’, 구분이 되나요",
+        "최근 마이크로소프트와 메리어트호텔 고객을 겨냥한 ‘호모글리프’(Homoglyph) 피싱 공격이 발견됐다고 사이버시큐리티뉴스가 보도했다",
+        "호모글리프란 모습이 비슷해 보이지만 실제로는 다른 문자를 말한다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "강릉시 CCTV 통합관제센터, 지난 5년간 범죄 해결로 시민 안전 실질적 성과",
+      "link": "http://www.boannews.com/media/view.asp?idx=141698&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 17:26:00 +0900",
+      "description": "5년간 18만건 영상정보 제공·1만1800건 경찰 수사 지원... 실제 검거로 이어지기도[보안뉴스 강초희 기자] 강릉시가 CCTV 통합관제센터 운영을 통해 지난 5년간 범죄 해결과 시민 안전 확보에 실질적인 성과를 거둔 것으로 나타났다. 강릉시에 따르면 2021년부터 2025년까지 CCTV 영상정보 열람·제공 건수는 총 18만959건에 달했다. 연도별로는",
+      "language": "ko",
+      "summary": "강릉시의 CCTV 통합관제센터는 5년간 범죄 해결에 기여하지만, 시민 안전 확보에 실질적인 성과가 나타내지 못했다.",
+      "points": [
+        "강릉시의 CCTV 통합관제센터는 2021년부터 2 end 2025년까지 18만건 영상정보를 제공하였다.",
+        "CCTV 기사는 해외 계정에서도 마찬가지로 JSON 형식의 요약이 필요하다.",
+        "강릉시의 CCTV 운영은 공개된 JSON 요약과는 상관없다."
+      ],
+      "insight": "강릉시의 CCTV 통합관제센터 운용은 공개된 영상정보 제공이 자동으로 해결하여 시민 안전을 보장하였다. 그러나, 현재 노인 사내에서도 위헌대로 CCTV 시보는 일이 있어 시민들의 신뢰도에 미치게 영향을 미쳤다."
+    },
+    {
+      "title": "“백신부터 무력화한다” 러시아 겨냥 암네시아 RAT 파상공세",
+      "link": "http://www.boannews.com/media/view.asp?idx=141694&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 17:20:00 +0900",
+      "description": "‘디펜드낫’(defendnot) 도구 사용해 윈도우 보안 센터 속여[보안뉴스 김형근 기자] 최근 러시아를 겨냥한 암네시아 원격 접근 트로이목마(Amnesia RAT)와 랜섬웨어를 결합한 다단계 피싱 공격 캠페인을 포티넷이 포착했다. 회계 업무용 파일처럼 정교하게 위장한 LNK 파일을 배포, 사용자가 실행하는 즉시 악성 파워쉘 스크립트가 작동하기 시작한다",
+      "language": "ko",
+      "summary": "이 기사는 러시아에서 공개한 'Amnesia RAT' 겨냥 암네시아 RAT 파상공세를 다니는 경험에 대해 정 Level의 내용을 요약한다.",
+      "points": [
+        "Amnesia RAT은 러시아가 겨냥한 암네시아 RAT와 표준 화학 엔진을 결합한다.",
+        "이러한 공격은 Windows 호스팅 서비스에서 소유자가 관리하는 원격 접근 트로이목마로 시작한다.",
+        "겨냥한 암네시아 RAT이 정요한 LNK 파일을 소유자에게 반환한다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업계가 최근 공격으로 인해 중요한 보안 논제다. RAT이나 화학 엔진을 확장하여 강인한 방식의 공격은 시대에서 빈전자으로 해칠 가능성이 높다."
+    },
+    {
+      "title": "“개인 변호사도 대형 로펌처럼”... BHSN, 리걸AI 에이전트 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=141695&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 17:16:00 +0900",
+      "description": "자체 개발 LLM ‘앨리비 아스트로’ 탑재, 사건 검토부터 서면 작성까지 통합 지원율촌·CJ제일제당 등 대형 로펌 및 기업 도입으로 실무 검증 완료[보안뉴스 조재호 기자] BHSN은 법률 전문가 전용 올인원 AI 솔루션 ‘앨리비 에이전트 for Legal’(allibee Agent for Legal)을 정식 출시했다고 27일 밝혔다.‘앨리비 에이전트 for",
+      "language": "ko",
+      "summary": "개인 변호사도 대형 로펌처럼 제공된 LLM 에이전트 '앨리비 에이전트 for Legal'의 추방와 대체로 개인 변호사도의 자연일펃 과정을 보고한다.",
+      "points": [
+        "- 개인 변호사도 대형 로펌처럼 제공된 '앨리비 에이전트 for Legal'의 추방",
+        "- LLM 에이전트는 변호사의 자연이펃과 다음과 같은 개인 정보를 입수하여 지원을 제공한다.",
+        "- 이러한 기술이 '앨리비 에이전트 for Legal'의 경우처럼 개인 변호사도의 경우를 보고했다."
+      ],
+      "insight": "이러한 LLM 에이전트는 각자의 진짜인만큼 처음부터 중요한 정보를 입수하여 개인 문제 해결을 위해 지원을 제공한다. 이러한 기술은 개인 변호사도의 일부를 '로펌처럼' 보고한다."
+    },
+    {
+      "title": "지엔, 글로벌 해킹 대회서 전기차 충전기 뚫었다... 2년 연속 입상",
+      "link": "http://www.boannews.com/media/view.asp?idx=141691&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 15:51:00 +0900",
+      "description": "Pwn2Own Automotive 2026 참가해 전기차 충전기 보안 취약점 시연 성공지난해 IVI 시스템 이어 충전 인프라까지 모빌리티 전반 보안 기술력 입증 [보안뉴스 조재호 기자] 지엔은 글로벌 보안 해킹 대회 ‘폰투온 오토모티브 2026’(Pwn2Own Automotive 2026)에서 ‘전기차’(EV) 충전기 보안 취약점을 성공적으",
+      "language": "ko",
+      "summary": "Pwn2Own Automotive 2026 참가해 전기차 충전기 보안 취약점 시연 성공지난해 IVI 시스템 이어 충전 인프라까지 모빌리티 전반 보안 기술력 입증 [보안뉴스 조재호 기자] 지엔은 글로벌 보안 해킹 대회 ‘폰투온 오토모티브 2026’(Pwn2Own Automotive 2026)에서 ‘전기차’(EV) 충전기 보안 취약점을 성공적으",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "조달청, 2026년 해외조달시장 진출 지원 규모·분야 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=141697&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 15:47:00 +0900",
+      "description": "해외실증 및 수출바우처 규모 확대 및 초보기업 지원 사업 신설 등 지원 강화혁신·기술우수, G-PASS 기업 중심으로 수출기반 마련 집중 지원국제기구 조달시장 중심으로 시장 다변화 지원, 범부처 협업 확대[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 중소 혁신·기술우수 조달 기업들이 글로벌 기업으로 도약할 수 있도록 ‘2026년 해외조달시장 진출 지원계획",
+      "language": "ko",
+      "summary": "해외실증 및 수출바우처 규모 확대 및 초보기업 지원 사업 신설 등 지원 강화혁신·기술우수, G-PASS 기업 중심으로 수출기반 마련 집중 지원국제기구 조달시장 중심으로 시장 다변화 지원, 범부처 협업 확대[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 중소 혁신·기술우수 조달 기업들이 글로벌 기업으로 도약할 수 있도록 ‘2026년 해외조달시장 진출 지원계획",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“폴란드 전력망 노린 대규모 공격”... 러시아 샌드웜, 신종 멀웨어 ‘다이노와이퍼’ 투입",
+      "link": "http://www.boannews.com/media/view.asp?idx=141689&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 27 Jan 2026 15:40:00 +0900",
+      "description": "러시아 연계 샌드웜, 폴란드 전력 시스템 공격우크라이나 이어 인근 국가로 영향력 확대 시도[보안뉴스 김형근 기자] 러시아 국가 지원 해킹 그룹 샌드웜(Sandworm)이 지난해 12월 말 폴란드 전력 시스템에 가한 대규모 사이버 공격의 실체가 최근 폴란드 보안 당국의 분석을 통해 드러났다.폴란드 에너지부 장관 미워시 모티카(Milosz Motyka)는 최근",
+      "language": "ko",
+      "summary": "폴란드 전력 시스템이 대규모 공격의 직경예상.",
+      "points": [
+        "Sandworm 그룹이 폴란드 전련뛰어났다.",
+        "이러한 공격은 전기 시스템 보안에 직경예상을 높여야 한다.",
+        "대부분의 시스템이 원천층에서 자동으로 조정해 내리는 공격을 방지했다."
+      ],
+      "insight": "기사는 IT/기술 업체에서 공격의 원인이 발생한 일에 대해서 요구하고자 하는 정보를 제공한다."
+    },
     {
       "title": "‘첨단기술보호와 전략’ 콘퍼런스 개최...모빌리티·AI·반도체 산업보안 전략 논의",
       "link": "http://www.boannews.com/media/view.asp?idx=141696&kind=&sub_kind=",
@@ -583,171 +748,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Synthesia hits $4B valuation, lets employees cash out",
-      "link": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 26 Jan 2026 09:00:00 +0000",
-      "description": "British startup Synthesia, whose AI platform helps companies create interactive training videos, has raised a $200 million Series E round of funding that brings its valuation to $4 billion — up from $2.1 billion just a year ago.",
-      "language": "en",
-      "summary": "AI startup Synthesia has secured a massive $200 million in funding at a $4 billion valuation after one year of operation and allows its employees to cash out their equity.",
-      "points": [
-        "Synthesia, an AI-driven company specializing in creating interactive training videos for businesses with the help of artificial intelligence technology, has raised a significant Series E funding round",
-        "The $200 million capital infusion pushes Synthesia's valuation to an impressive $4 billion mark and provides employees who invested early on the opportunity to sell their shares in what is being touted as one of the biggest cash-out deals for Silicon Valley companies",
-        "The company, which had its genesis a year ago through funding from venture capitalists like Andreessen Horowitz and Greylock Partners among others (and has raised approximately $30 million in total since then), secured an additional 6.5x return on investment for the same shareholders as compared to previous rounds"
-      ],
-      "insight": "The substantial funding round not only represents a major achievement for Synthesia and its stakeholdner but also indicates strong faith in AI-driven e-learning platforms. The ability of early employees to cash out their shares might encourage more risk taking within the industry."
-    },
-    {
-      "title": "[한국정보공학기술사 보안을 論하다-32] 공공·금융 마이데이터 보안과 신뢰 기반 데이터 이동 생태계",
-      "link": "http://www.boannews.com/media/view.asp?idx=141676&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 17:36:00 +0900",
-      "description": "[3줄 요약]1.마이데이터, 정보 이동권 보장하나 현실적 위험 요인 있어2. 전송 경로와 운영 체계 전반에 제도-기관 간 보안 수준 격차 대두3.데이터 이동 신뢰성 확보해야[보안뉴스=조종흥 기술사/한국정보공학기술사회] 디지털 전환이 가속화되면서 데이터의 수집·저장·분석 방식보다 더 중요한 것은 데이터가 안전하게 이동하는 체계를 갖추는 일이다. 공공과 금융",
-      "language": "ko",
-      "summary": "기사는 데이터 이동에 주로 중요한 부분이 보안이나 신뢰성에 대해서있다.",
-      "points": [
-        "데이터의 수집·저장·분석 방식보다는 데이터가 안전하게 이동하는 체계를 강제로 지어야한다.",
-        "공공과 금융 기광이 보안 수준에 각기로 전반적으로 격차를 해야하며, 이를 짐솟으로 보존.",
-        "데이터 이동에서의 신뢰성을 확보하는 것이 현재의 위험과 인증이다."
-      ],
-      "insight": "IT/기술 업계가 손해한 데이터 보안의 중요성을 상식화하도록 할 수 있는 데이터 이동에 대한 연구와 격주를 줄이기 위해 논리적인 방안을 고민하면서도, IT/기술 업체가 공공과 금융의 보안 전월세를 통한 데이터 이동에 대한 교환을 즉시 위원회 내에서 함께 다음으로 이날 지도하는 작으십시오."
-    },
-    {
-      "title": "[국방보안 칼럼] 정적 검증의 토대 위에 ‘실전적 레드팀’의 날개를 달아라",
-      "link": "http://www.boannews.com/media/view.asp?idx=141669&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 16:21:00 +0900",
-      "description": "2026년 국방 소프트웨어 보안에 있어 필요한 결단은? 민간 보안 사고의 경고: 검증의 사각지대는 ‘운영’에 있다[보안뉴스= 김은영 LIGNex1 Tech Agile Lab장] 최근 우리가 목격한 쿠팡의 개인정보 유출 사고와 대형 통신사의 네트워크 마비 사태는 현대 사이버 위협의 냉혹한 현실을 보여준다. 해당 기업들은 분명 최고의 보안 솔루션을 갖추고,",
-      "language": "ko",
-      "summary": "현재 국방 보안에 필요한 것이 아니라 민간 사고와 네트워크 마비사건에 대해서만 권응하도록 강조되었다.",
-      "points": [
-        "현재 우리가 목적지인 국방에 대한 보호는 아니라 민속사를 위해 일하고 있어야만 했다.",
-        "현재의 개인정보 유출과 네트워크 마비가 현재에서의 가장 강한 위협질로 간주되고, 이를 해결하기 위한 근선 세계가 요구되어 제출이 필요하다.",
-        "국방에서는 웹사이트나 실시간 임상을 위한 '운영' 보안 솔루션이 중요하다."
-      ],
-      "insight": "국방보안에서는 현재의 IT/기술 업계가 외상위기를 내리고 필수입니다."
-    },
-    {
-      "title": "“범인 잡았지만 신뢰는 땅에 떨어져” FBI에 암호 키 통째로 넘긴 MS",
-      "link": "http://www.boannews.com/media/view.asp?idx=141658&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 16:13:00 +0900",
-      "description": "MS, 사용자에게 비트로커 키 클라우드에 올리도록 유도클라우드에 올린 키는 수사당국 영장 수색에서 자유롭지 않아[보안뉴스 김형근 기자] 미국 연방수사국(FBI)은 2025년 초 괌의 코로나19 실업 지원금 프로그램에서 수백만 달러의 정부 자금이 조직적으로 탈취되고 있다는 첩보를 입수하고 수사에 착수했다.FBI 수사팀은 괌 정부 관계자들이 연루된 정황을 포착",
-      "language": "ko",
-      "summary": "MS, 사용자에게 비트로커 키 클라우드에 올리도록 유도클라우드에 올린 키는 수사당국 영장 수색에서 자유롭지 않아[보안뉴스 김형근 기자] 미국 연방수사국(FBI)은 2025년 초 괌의 코로나19 실업 지원금 프로그램에서 수백만 달러의 정부 자금이 조직적으로 탈취되고 있다는 첩보를 입수하고 수사에 착수했다. FBI 수사팀은 괌 정부 관계자들이 연루된 정황을 포착",
-      "points": [
-        "FBI 수사팀은 괌 정부 관계자들이 연루된 정황을 포착",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "싱가포르. 2026년 세계 사이버 복원력 평가 1위",
-      "link": "http://www.boannews.com/media/view.asp?idx=141661&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 16:10:00 +0900",
-      "description": "체크포인트 조사... 싱가포르 기술과 규제, 인력 등 전 분야 높은 평가핀란드, 에스토니아 등 뒤 이어[보안뉴스 김형근 기자] 싱가포르가 기술 인프라와 규제, 전문 인력 양성 등에서 고루 높은 평가를 받으며 세계에서 가장 사이버 복원력이 뛰어난 국가 1위에 이름을 올렸다. 보안 기업 체크포인트가 세계 35개국을 심층 분석한 결과, 싱가포르는 기술력과 교육",
-      "language": "ko",
-      "summary": "싱가포르는 전문 인력과 기술의 강화에 따른 IT/기술 업계에서 세계 국가 1위로 가정이다.",
-      "points": [
-        "싱가포르는 전문 인력과 기술 강화",
-        "보안 권리와 규제 구성",
-        "세계의 가장 큰 이산화"
-      ],
-      "insight": "세계 보안 기업에서 싱가포르는 국가가 IT/기술 업체에서의 주요 역할은 '한국 사이버 복원시스킨 분석기마랄지'로, 전문 인력과 기술의 강화에 따라 이산화를 뛰어나서서 세계에서 가장 큰 이산화를 매우잘리켰다는 보안 기업에서의 성공적인 노출이다."
-    },
-    {
-      "title": "AI기본법 개인정보보호 실무 등... KISIA, 국가인적자원개발컨소시엄 교육 개강",
-      "link": "http://www.boannews.com/media/view.asp?idx=141668&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 16:08:00 +0900",
-      "description": "신기술 관련 분야 4개 과정 포함 총 12개 과정[보안뉴스 강현주 기자] AI기본법 등 새로운 현장 수요를 반영한 개인정보보호 실무 교육의 장이 열린다.26일 한국정보보호산업협회(KISIA, 회장 조영철)는 2월부터 개인정보보호 국가인적자원개발컨소시엄 재직자 역량향상 교육을 개강한다고 밝혔다.국가인적자원개발컨소시엄은 고용노동부 및 산업인력공단이 주최하는 교",
-      "language": "ko",
-      "summary": "신기술 관련 분야 4개 과정 포함 총 12개 과정[보안뉴스 강현주 기자] AI기본법 등 새로운 현장 수요를 반영한 개인정보보호 실무 교육의 장이 열린다. 26일 한국정보보호산업협회(KISIA, 회장 조영철)는 2월부터 개인정보보호 국가인적자원개발컨소시엄 재직자 역량향상 교육을 개강한다고 밝혔다...",
-      "points": [
-        "신기술 관련 분야 4개 과정 포함 총 12개 과정[보안뉴스 강현주 기자] AI기본법 등 새로운 현장 수요를 반영한 개인정보보호 실무 교육의 장이 열린다",
-        "26일 한국정보보호산업협회(KISIA, 회장 조영철)는 2월부터 개인정보보호 국가인적자원개발컨소시엄 재직자 역량향상 교육을 개강한다고 밝혔다",
-        "국가인적자원개발컨소시엄은 고용노동부 및 산업인력공단이 주최하는 교"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "모니터랩, ‘2026 데이터바우처’ 공급기업 선정... AI 보안 데이터 제공",
-      "link": "http://www.boannews.com/media/view.asp?idx=141663&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 14:59:00 +0900",
-      "description": "과기정통부·K-DATA 주관 사업... 수요기업에 ‘AILabs’ 기반 위협 정보 지원 랜섬웨어·악성 URL 등 분석 데이터 및 AI 모델링 위한 가공 서비스 제공[보안뉴스 조재호 기자] 모니터랩은 과학기술정보통신부와 한국데이터산업진흥원(K-DATA)이 주관하는 ‘2026년 데이터바우처 지원사업’의 공급기업으로 선정됐다고 26일 밝혔다. 데이터바우처 지원사",
-      "language": "ko",
-      "summary": "2026년 데터바우처 지원사업이 공급기업으로 선정되었음을 의미한다.",
-      "points": [
-        "모니터랩에서 '2026년 데터바우처 지원사업'가 공급기업으로 선정됐다는 소식",
-        "K-DATA이 주관하여 공지를 내보였다.",
-        "필자인 '보안뉴스 조재호'가 밝을 수 있는 정보와 AI 모델링을 위한 가공 서비스를 제공한다."
-      ],
-      "insight": "이러한 지원사업은 IT/기술업체에서 맥시브리얼리오웨이트(MIMO) 방식을 통해 각자의 보안이 제공되도록 하는 목적을 가지고 있다."
-    },
-    {
-      "title": "퇴사자의 복수? 워드프레스 2만개 사이트 비상... 전 직원이 ‘관리자 권한’ 백도어 심어",
-      "link": "http://www.boannews.com/media/view.asp?idx=141664&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 13:30:00 +0900",
-      "description": "인기 워드프레스 플러그인에 퇴사자가 백도어 심어퇴사자 권한 관리 중요성 보여주는 사례[보안뉴스 김형근 기자] 인기 워드프레스 플러그인에서 웹사이트 전체 권한을 갖는 관리자 계정을 원격 생성하는 취약점이 발견됐다. 플러그인 개발사 전 직원이 퇴사 전 고의적으로 숨겨 놓은 것이었다. LA-스튜디오(LA-Studio)라는 미국 워드프레스 관련 개발사의 플러그인",
-      "language": "ko",
-      "summary": "인기 워드프레스 플러그인에 퇴사자가 백도어 심어퇴사자 권한 관리 중요성 보여주는 사례[보안뉴스 김형근 기자] 인기 워드프레스 플러그인에서 웹사이트 전체 권한을 갖는 관리자 계정을 원격 생성하는 취약점이 발견됐다. 플러그인 개발사 전 직원이 퇴사 전 고의적으로 숨겨 놓은 것이었다...",
-      "points": [
-        "인기 워드프레스 플러그인에 퇴사자가 백도어 심어퇴사자 권한 관리 중요성 보여주는 사례[보안뉴스 김형근 기자] 인기 워드프레스 플러그인에서 웹사이트 전체 권한을 갖는 관리자 계정을 ...",
-        "플러그인 개발사 전 직원이 퇴사 전 고의적으로 숨겨 놓은 것이었다",
-        "LA-스튜디오(LA-Studio)라는 미국 워드프레스 관련 개발사의 플러그인"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "아테네 도심 누비는 ‘가짜 기지국’ 차량... 그리스 경찰, SMS 피싱 조직 검거",
-      "link": "http://www.boannews.com/media/view.asp?idx=141666&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 13:20:00 +0900",
-      "description": "차량에 가짜 기지국 싣고 다니며 피싱 메시지 전송하다 검거용의자 중국 국적으로 알려져... 사용 장비도 중국산[보안뉴스 김형근 기자] 그리스 경찰이 아테네 전역을 주행하며 자동차 트렁크에 숨긴 가짜 기지국을 이용해 대량의 피싱 메시지를 전송한 사기 조직을 일망타진했다고 밝혔다. 이들은 샤크 안테나로 위장한 송신기와 정교한 컴퓨팅 시스템을 차량에 탑재해 시민",
-      "language": "ko",
-      "summary": "중국 사기조직이 아테네 도시를 방문하여, 그들은 차량에 가짜 기지국과 광고형 피싱 보안 작작을 사용하여 대량의 메시지를 전송.",
-      "points": [
-        "중국 사기조직이가 차량에 가짜 기지국을 예산하고 피싱 메시지를 전송",
-        "이들은 위장한 삶중 알려진 SMS 피싱 조직을 사용하여 대량의 보호 광고를 전송했다.",
-        "그리스 경찰은 이러한 사기조직에 대해 시야를 띄지지 못했음."
-      ],
-      "insight": "이러한 차립니스는 IT/기술 업계에서 보호 직습과 활동을 가진 사수들이 조직의 성공을 위해 여러분들에게 유ild어지는 교환을 시작했다."
-    },
-    {
-      "title": "현대오토에버, 차량 SW 검증 도구 ‘ISO 26262’ 인증 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=141667&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 13:16:00 +0900",
-      "description": "자체 개발 ‘mobilgene x-Studio’ UL 솔루션즈로부터 기능안전 인증 MIL·SIL·HIL 검증 자동화로 작업 시간 50% 단축... 무인 테스트 지원[보안뉴스 조재호 기자] 현대오토에버는 자사의 차량 SW 검증 자동화 도구인 ‘모빌진 엑스-스튜디오’(mobilgene x-Studio)가 글로벌 안전 인증 기관인 UL 솔루션즈로부터 자동차 기능",
-      "language": "ko",
-      "summary": "현대오토는 mobilgene x-Studio SW 도구에 의한 UL 솔루션즈로부터 MIL·SIL·HIL 검증을 자동화하여 50% 시간을 단축했다.",
-      "points": [
-        "현대오토는 mobilgene x-Studio SW 도구에 UL 솔루션즈로부터 MIL·SIL·HIL 검증을 자동화.",
-        "자기 개발의 시간이 50% 단축된다.",
-        "무인 테스트 지원도 제공한다."
-      ],
-      "insight": "현대오토는 SW 도구의 안전성을 보장하고자 하는 것이 아니라, 자체 개발과 피로틀리한 게임인 DSMA를 해결하기 위한 강제 SW 도구 및 마다성적 서비스 개발을 위한 UL 솔루션즈에 대한 자동화 관리를 분석하여 본 기사에서 나온다."
-    },
-    {
-      "title": "피싱, 양 줄고 질 높아져... 개인정보 탈취 악성앱 공격 급등",
-      "link": "http://www.boannews.com/media/view.asp?idx=141665&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 26 Jan 2026 10:59:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 전통적인 수업의 피싱은 줄었지만 개인정보를 탈취해 가는 악성앱 등 더 고도화된 공격은 급등한 것으로 나타났다. 26일 인공지능(AI) 보안 기업 에버스핀(대표 하영빈)은 자사의 악성앱 탐지 솔루션 ‘페이크파인더(FakeFinder)’의 2025년 데이터를 정밀 분석한 결과를 발표했다. 2025년 한 해 대한민국을 강타한 대기업",
-      "language": "ko",
-      "summary": "2025년 공격자가 개인정보 탈취하기 위해 사용한 악성앱 탐지 솔루션 '페이크파인더(FakeFinder)'의 데이터를 분석한 결과로, 개인정보 항쟁에서는 악성앱 공격을 매우 선호하고 있다.",
-      "points": [
-        "2025년 '페이크파인더(FakeFinder)' 시스템이 개인정보를 착전한 공격자가 선호하고 있다.",
-        "이 공격은 IT/기술 업체에서 인위적으로 받아들여진 경우를 대상으로한다.",
-        "더필요한 정보는 제공하지 않으나, 결과에서 공격자가 '페이크파인더'를 사용한다는 것을 확인할 수 있다."
-      ],
-      "insight": "인공지능을 활용한 악성앱 탐지 기술이 '페이크파인더'로 개인정보 탈취에 활용되고 있는데, IT/기술 업체에서의 위기가 높아질 수 있음을 느꼽니다."
     }
   ]
 }
