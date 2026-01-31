@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-31T12:45:40.646Z",
+  "generatedAt": "2026-01-31T18:33:39.659Z",
   "articles": [
+    {
+      "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+      "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 31 Jan 2026 17:54:12 +0000",
+      "description": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+      "language": "en",
+      "summary": "Nvidia's CEO denied reports suggesting stalled investment in OpenAI worth $100 billion.",
+      "points": [
+        "Jensen Huang dismissed the friction between Nvidia and OpenAI as 'nonsense.'",
+        "The disputed report claimed there was a halt or delay regarding this significant deal.",
+        "Huang emphasized that his company's commitment to AI investments remains unwavering."
+      ],
+      "insight": "This incident reflects the high-stakes, competitive nature of strategic partnerships and acquisitions within the IT/technology industry. It underscores how reputations can be quickly tarnished by unfounded reports despite strong leadership backing."
+    },
+    {
+      "title": "HomeBoost’s app will show you where to save on your utility bills",
+      "link": "https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 31 Jan 2026 16:15:00 +0000",
+      "description": "The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use.",
+      "language": "en",
+      "summary": "HomeBoost has launched an app that partners with utility companies to guide homeowners on making cost-effective improvements to reduce their energy consumption.",
+      "points": [
+        "The HomeBoost App helps you save money by finding the best ways for cutting your electricity bills and other utilities in just a few clicks",
+        "With our app, start saving now with expert advice on reducing home energy use tailored to each utility provider'semanagement.",
+        "Partnering directly with local utility companies ensures that users get precise recommendations for their specific area."
+      ],
+      "insight": "The HomeBoost App not only helps individual customers save money, but also promotes energy conservation and awareness at a broader level within the IT/technology industry. It represents an innovative approach to combining big data analytics with personalized customer experience."
+    },
     {
       "title": "AI 가속화로 주간 사이버 공격 70% 급증... 역대 최고치 기록",
       "link": "http://www.boannews.com/media/view.asp?idx=141784&kind=&sub_kind=",
@@ -717,36 +747,6 @@
         "The suit seeks $3 billion, reflecting an average value per song based on industry standards."
       ],
       "insight": "This lawsuit highlights growing tensions over intellectual property rights in digital content creation. It also underscores a significant financial risk for companies that fail to secure appropriate usage permissions and licenses for copyrighted materials, which can result in substantial payouts as well as reputational damage."
-    },
-    {
-      "title": "India is teaching Google how AI in education can scale",
-      "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 29 Jan 2026 15:29:31 +0000",
-      "description": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
-      "language": "en",
-      "summary": "India has become an influential player in the use of artificial intelligence (AI) for educational purposes by leveraging Google'de Gemini program with a high level of global usage.",
-      "points": [
-        "India is utilizing AI technology, specifically through programs like Google's Gemini, to enhance learning experiences",
-        "The country has achieved significant success in adopting and scaling AI within its education sector",
-        "Google observes India as an important market that shapes the company's approach towards educational use of AI"
-      ],
-      "insight": "As countries like India successfully scale AI for education, it sets a precedent and influences global tech giants in developing tailored solutions to make technology more accessible."
-    },
-    {
-      "title": "Flapping Airplanes and the promise of research-driven AI",
-      "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 29 Jan 2026 15:22:29 +0000",
-      "description": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
-      "language": "en",
-      "summary": "Flapping Airplanes Lab focuses on research-driven AI to create flapping airplane technology that stands as a novel approach in aviation.",
-      "points": [
-        "The Flapping Airplanes lab, backed by Sequoia Ventures and led by experts like Dr. Alex Rice, is pioneering the development of an entirely new class of flapping airplane technology aiming to revolutionize short-takeoff and vertical landing capabilities.",
-        "With a focus on bioinspired engineering principles combined with advanced AI algorithms for optimal flight patterns, this research holds promise in creating more efficient aircraft designs that could potentially reduce energy consumption significantly.",
-        "The lab is currently testing its first fully functional flapping airplane model which has already demonstrated short-flight capabilities and will soon begin experiments on hovering performance."
-      ],
-      "insight": "This innovative approach by the Flapping Airplanes Lab could have a substantial impact on future aircraft design, potentially leading to more energy efficient and versatile vertical takeoff systems in various applications within the IT/technology industry."
     }
   ]
 }
