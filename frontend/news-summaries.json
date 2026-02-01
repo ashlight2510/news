@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-01T02:16:49.291Z",
+  "generatedAt": "2026-02-01T06:50:30.951Z",
   "articles": [
+    {
+      "title": "유튜브와 인스타그램 위장한 ‘Arsink’ 스파이웨어, 143개국 공격",
+      "link": "http://www.boannews.com/media/view.asp?idx=141786&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 1 Feb 2026 14:04:00 +0900",
+      "description": "143개국 안드로이드 사용자 대상의 대규모 스파이 활동텔레그램이나 디스코드에 링크 게시하거나 파일 공유 사이트 통해 유포[보안뉴스 원병철 기자] 유튜브(YouTube)와 인스타그램(Instagram), 틱톡(TikTok)으로 위장한 ‘Arsink’ 스파이웨어가 143개국에 침투한 정황이 발견됐다. 글로벌 보안기업 짐페리움(Zimperium)은 유튜브와 인",
+      "language": "ko",
+      "summary": "143개국에서 위의 'Arsink' 스플래시ware가 사용자를 대상으로 등유성이 강하게 활동중인 것을 보고할 수 있다.",
+      "points": [
+        "유튜브와 Instagram와 같은 포톡/온라인 편시bles와 직접적으로 사용자의 내부질활을 복제한다.",
+        "플랫포에서는 소유자의 정보를 공유하거나, 스핀드를 이용해 특정 방식으로 브라uer 시장에 강인한 방식을 활성화한다.",
+        "위의 스플랫포ware는 모바일과 계속성공을 위해 세부사항이 제대로 구성되어 있지만, 효과적으로 활용되지 않으며, 질의체계가 모호하게 활성화되어 여기서 있다."
+      ],
+      "insight": "이러한 스핀드에서의 정보캡스탨주는 그들이 우연적인 브라uer 방식을 이용해 소유자의 정보를 공유하거나, 인기가 높은 것이 아니다. 보안에 대한 관심이 크게 있는 국가들과 IT 업체는 이 경로를 시야로 받을 수 0에 완전탤운드하지 않음."
+    },
     {
       "title": "머스탱 판다의 ‘쿨클라이언트’ 전방위 확산... 아시아 정부 기관 겨냥 ‘스파이 작전’",
       "link": "http://www.boannews.com/media/view.asp?idx=141785&kind=&sub_kind=",
@@ -732,21 +747,6 @@
         "This acquisition is not only indicative of Apple's continued investment in AI technologies but also represents a competitive move as other major tech companies are making similar strategic partnerships."
       ],
       "insight": "Apple’s purchase of Q.ai underlines the intensifying competition among leading technology firms to develop superior voice-interaction capabilities through AI, with potential implications for both consumer experience and industry standards in human-device interaction technologies."
-    },
-    {
-      "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
-      "link": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 29 Jan 2026 17:55:43 +0000",
-      "description": "Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.",
-      "language": "en",
-      "summary": "In a significant expansion for Waymo, robotaxis are now giving rides to and from San Francisco International Airport (SFO). Despite facing criticism regarding safety in some of its cities.",
-      "points": [
-        "Waymo has begun offering autonomous ride-hailing services at the SFO terminals",
-        "The company is expanding beyond Phoenix, where it initially launched service without human backup drivers",
-        "Safety concerns and criticism remain as Waymo expands"
-      ],
-      "insight": "Waymo'sena faces a critical test in maintaining safety standards while scaling its autonomous ride-hailing services to new locations. Success at SFO could strengthen the case for AV adoption, despite ongoing concerns."
     }
   ]
 }
