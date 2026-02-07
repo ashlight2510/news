@@ -1,6 +1,143 @@
 {
-  "generatedAt": "2026-02-06T18:58:18.227Z",
+  "generatedAt": "2026-02-07T02:02:51.076Z",
   "articles": [
+    {
+      "title": "[AI와 보안] “해킹도 이제 AI 시대”... LLM 활용해 단 10분 만에 AWS 관리자 권한 탈취",
+      "link": "http://www.boannews.com/media/view.asp?idx=141959&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 7 Feb 2026 10:27:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 인공지능(AI) 도구를 활용한 해커들이 클라우드 공격 주기를 시간 단위에서 분 단위로 비약적으로 단축시키고 있다는 분석 결과가 나왔다. 보안 업체 시스디그(Sysdig)에 따르면, 공격자들은 거대언어모델(LLM)을 사용해 정찰 자동화와 악성 코드 생성을 수행하며 AWS 환경을 단 10분 만에 완벽하게 장악했다.이번 공격은 공개된 S",
+      "language": "ko",
+      "summary": "AI 이용을 통해 10분 안에 AWS 관리자 권한을 탈취하여 공격 강화",
+      "points": [
+        "- 공개된 AI 모델이 AWS 관리자 권한 탈취에 기여함",
+        "- 예산업의 보안적 위기로 공격 수요와 성공",
+        "- LLM이 자동화된 억해진 공격 기반성"
+      ],
+      "insight": "AI를 활용한 공격 기능은 단일 시간적인 공격이 아니라, AWS 관리자 권한을 탈취하는 기본적으로 보안에 영향을 미치게 합니다."
+    },
+    {
+      "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
+      "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 07 Feb 2026 01:00:52 +0000",
+      "description": "The organizer of the event swears it's not a joke.",
+      "language": "en",
+      "summary": "An AI startup founder plans a 'March for Billionaires' as protest against California’s wealth tax.",
+      "points": [
+        "AI startup founder organizes March to challenge the fairness of CA wealth tax targeting tech successes",
+        "The event intends not just humor but highlight societal issues in Silicon Valley",
+        "Billionaire participation could influence public perception and policy"
+      ],
+      "insight": "This demonstration underscores the growing concerns over wealth tax within high-value tech sectors, potentially shaping future economic policies."
+    },
+    {
+      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
+      "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 07 Feb 2026 00:06:23 +0000",
+      "description": "This latest season of the TV show Industry takes a look at the world of money and power through the eyes of a fintech baron.",
+      "language": "en",
+      "summary": "This latest season of the TV show Industry takes a look at the world of money and power through the eyes of a fintech baron",
+      "points": [
+        "This latest season of the TV show Industry takes a look at the world of money and power through the ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+      "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Feb 2026 23:53:43 +0000",
+      "description": "Apple engineers are working to support AI chatbot apps over the next few months.",
+      "language": "en",
+      "summary": "Engineering teams within Apple plan to integrate compatibility for AI chatbots with their CarPlay platform in an effort to enhance user experience and accessibility.",
+      "points": [
+        "Apple engineers are developing integration efforts between its own Siri technology and third-party AI apps like ChatGPT over the coming months",
+        "The initiative is designed for users who want a wider range of functionalities from their mobile devices while on the move",
+        "This comes as Apple has seen increased demand in virtual assistants, highlighting consumers' desire to interact with AI across multiple platforms"
+      ],
+      "insight": {
+        "text": "The recent announcement by Apple of working towards integrating its CarPlay platform and third-party AI chatbots like ChatGPT represents a significant shift in the company’ endorsing cross-platform compatibility. This move not only signals an evolution within Siri's capabilities but also showcases how essential it is for technology companies to adapt rapidly as consumer demands continue to evolve."
+      }
+    },
+    {
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Feb 2026 22:43:22 +0000",
+      "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+      "language": "en",
+      "summary": "The article discusses various AI-generated advertisements for major brands during Super Bowl LX and touches on tensions between Anthropic and OpenAI.",
+      "points": [
+        "Svedka created the first ever Big Game ad with an AI character named Alphinha, sparking debate about its impact versus a traditional human-created spot by Miller Brewing Company",
+        "Anthropic released several controversial advertisements during Super Bowl LX which led to criticism from OpenAI's Sam Altman and prompted discussions on the role of AI in creative industries",
+        "The use of AI for generating ad content has raised concerns about authenticity, representation, and potential biases within media"
+      ],
+      "insight": "This news highlights both opportunities and challenges associated with incorporating AI into marketing strategies. Brands must navigate ethical considerations alongside leveraging new technologies to stand out in crowded advertising spaces like the Super Bowl."
+    },
+    {
+      "title": "It just got easier for Claude to check in on your WordPress site",
+      "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Feb 2026 22:04:59 +0000",
+      "description": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics.",
+      "language": "en",
+      "summary": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics",
+      "points": [
+        "WordPress users can now leverage Claude to analyze web traffic or find information about other inter...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
+      "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Feb 2026 21:23:50 +0000",
+      "description": "The mysterious businessman pitched Jeffrey Epstein on numerous mobility startups in an era when the sector was white hot, according to TechCrunch's review of hundreds of documents released by the Department of Justice.",
+      "language": "en",
+      "summary": "Prince Andrew received a pitch from businessman Jeffrey Epstein on investing in mobility startups during his time as an advisor to Britain' endorsement program.",
+      "points": [
+        "Jeffrey Epstein approached Prince Charles about EVs and connected him with Lucid Motors, Tesla Inc., Rivian Automotive LP, Nikola Corp. and Lordstown Vehicle Technologies",
+        "Britain' endorsement program is a scheme where entrepreneurs can pitch startups to royal family members for funding recommendations.",
+        "Critics argue that such investments could conflict with Epstein’s criminal convictions, although there is no direct connection between his personal case and the business dealings."
+      ],
+      "insight": "The news raises questions about potential ethical issues or conflicts of interest in royal patronage systems within the high-tech sector. It also highlights how influential figures outside traditional finance can impact emerging industries like electric vehicles."
+    },
+    {
+      "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+      "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Feb 2026 20:26:29 +0000",
+      "description": "The acquisition could mark the beginning of consolidation in the carbon-removal market since removal costs remain higher than buyers would like to pay.",
+      "language": "en",
+      "summary": "Google and Microsoft have backed Terradot's acquisition of a competitor specializing in carbon removal technologies, potentially indicating market consolidation due to high costs.",
+      "points": [
+        "Terradot has been acquired by Google- and Microsoft-backed company with the aim of accelerating development on its CO2 conversion technology.",
+        "The acquisition highlights an increase in corporate interest within carbon removal technologies, despite concerns over cost efficiency compared to conventional fossil fuel power generation costs.",
+        "Terradot' endorsement by major tech companies could signal a shift towards greater investment and consolidation within the carbon-removal sector."
+      ],
+      "insight": "The acquisition of Terradot is indicative of growing corporate interest in sustainable technology, despite economic challenges. This trend may lead to industry consolidation as companies seek efficient solutions for environmental impacts like climate change and air pollution."
+    },
+    {
+      "title": "Maybe AI agents can be lawyers after all",
+      "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Feb 2026 20:26:23 +0000",
+      "description": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
+      "language": "en",
+      "summary": "Opus 4.6 has significantly improved performance on leading AI tasks such as legal document generation and analysis.",
+      "points": [
+        "- Opus 4.6 sets a new benchmark in the field of agentic artificial intelligence (AI), demonstrating remarkable capabilities previously unseen by these systems.",
+        "- The updated version excels at processing complex documents, generating comprehensive summaries, providing legal advice and identifying critical elements within dense texts like those found in court records or contracts.",
+        "- Opus 4.6'nerves have been fine-tuned to enhance the AI’s ability to understand contextual cues, resulting in more accurate interpretations of documents.'"
+      ],
+      "insight": "Opus 4.6 represents a major leap forward for agentic AI within the legal industry by providing sophisticated document analysis and advice generation capabilities that were previously unachievable."
+    },
     {
       "title": "How Elon Musk is rewriting the rules on founder power",
       "link": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
@@ -613,141 +750,6 @@
         "Critical minerals are vital components in the manufacture of batteries used predominantly by electric vehicles (EVs), highlighting a move towards an electrified economy."
       ],
       "insight": "This development is indicative of how countries, particularly with ambitions to dominate technological markets like EVs and renewable energy storage solutions, are recognizing the importance of securing their supply chains for critical minerals. It also emphasizes a global transition towards electric mobility."
-    },
-    {
-      "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
-      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 15:25:38 +0000",
-      "description": "The ransomware attack at Conduent allowed hackers to steal a \"significant number of individuals’ personal information\" from the govtech giant's systems. Conduent handles personal and health data of more than 100 million people across America.",
-      "language": "en",
-      "summary": "Conduent, a major government technology company that processes the sensitive information of over 1 end_date -end_date-",
-      "points": [
-        "The ransomware attack at Conduent allowed hackers to steal personal and health data.",
-        "More than 100 million individuals’ records were potentially accessed, highlighting a significant breach in the US govtech sector.",
-        "Conduent's role as a processor of sensitive information underscores its importance; compromising it affects millions."
-      ],
-      "insight": "The incident at Conduent is indicative of growing cybersecurity threats to critical infrastructure within the IT industry, emphasizing an urgent need for robust security measures and protocols in government technology firms."
-    },
-    {
-      "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
-      "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 15:00:02 +0000",
-      "description": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
-      "language": "en",
-      "summary": "Enterprise software firm Fundamental is raising $255 million in a Series A funding round with innovative big data analysis techniques aimed at extracting valuable insights from structured enterprise data.",
-      "points": [
-        "Fundamental'incorporated its new foundation model for analyzing large volumes of structured data to gain business intelligence",
-        "The company secured $255 million in Series A funding led by Andreessen Horowitz and Accel Partners, with participation from previous investors such as T. Rowe Price Associates.",
-        "Fundamental plans a public listing within the next year on either NASDAQ or NYSE under ticker 'FNDM'."
-      ],
-      "insight": "The substantial Series A funding and new big data model indicate growing investor confidence in innovative approaches to enterprise analytics, which could significantly enhance business intelligence capabilities across industries reliant on structured data insights."
-    },
-    {
-      "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-      "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 14:55:02 +0000",
-      "description": "Substack said that customer data was accessed in October 2025, but wasn't discovered until early February.",
-      "language": "en",
-      "summary": "In October 2025, Substack experienced a data breach where users’ email addresses and phone numbers were accessed; the breach was identified in early February of that year.",
-      "points": [
-        "Substack confirmed customer data access due to a security incident",
-        "Email addresses and phone numbers potentially compromised",
-        "Breach undiscovered until late October, found in early Feb"
-      ],
-      "insight": "This breach emphasizes the importance of timely detection and response measures within the IT industry, as delays can exacerbate risks to user data."
-    },
-    {
-      "title": "ElevenLabs CEO: Voice is the next interface for AI",
-      "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 14:41:12 +0000",
-      "description": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
-      "language": "en",
-      "summary": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue",
-      "link": "https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 12:31:10 +0000",
-      "description": "The company said it now has 325 million paying users across Google One and YouTube Premium, up from 300 million users three months earlier.",
-      "language": "en",
-      "summary": "The company said it now has 325 million paying users across Google One and YouTube Premium, up from 300 million users three months earlier",
-      "points": [
-        "The company said it now has 325 million paying users across Google One and YouTube Premium, up from ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Spotify ventures into physical book sales, adds new audiobook features",
-      "link": "https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 12:00:00 +0000",
-      "description": "Spotify users in the U.S. and the UK will soon be able to buy physical books in the app. There's also a new tool that syncs physical books to audiobooks.",
-      "language": "en",
-      "summary": "Spotify is expanding its services by allowing U.de and UK users to buy physical books directly in the app while introducing a new tool that converts synced e-books into audiobooks.",
-      "points": [
-        "Launch of Spotify's Bookstore offering direct purchase options for physical books within the application targeted at US and UK subscribers",
-        "Introduction of 'Spotify Audiobook Creator', a new tool that converts synced e-books to audio format, enhancing reading experience with voice narration",
-        "The news signifies Spotify's push towards becoming more versatile in its offerings for music and podcast enthusiasts"
-      ],
-      "insight": "Spotify's entry into the physical book market could significantly disrupt traditional retail while promoting a culture of integrated multimedia consumption."
-    },
-    {
-      "title": "쿠팡, 지난 해킹서 16만5000명 개인정보 추가 유출 확인",
-      "link": "http://www.boannews.com/media/view.asp?idx=141927&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 5 Feb 2026 18:38:00 +0900",
-      "description": "2025년 11월 발생한 개인정보 유출 사건 조사 과정에서 추가로 확인[보안뉴스 원병철 기자] 쿠팡이 지난해 11월 발생한 개인정보 유출 사건을 조사하는 과정에서 추가로 16만5000여명의 개인정보가 유출된 것을 확인됐다고 공지했다. 쿠팡은 사건 초기 약 4500개 계정의 개인정보가 유출됐다고 밝혔다. 이후 지난해 12월 25일 유출자가 3300만 계정의",
-      "language": "ko",
-      "summary": "쿠팡이 개인정보 유출 사건에서 16만5000명의 개인정보가 유출되었다.",
-      "points": [
-        "- 쿠팡이 발생한 개인정보 유출 사건에서 4500명의 계정의 개인정보가 유출되었다.",
-        "- 지난해 12월 25일, 쿠팡이 추진한 개인정보 유출 사건에서 33만000명의 계정의 개인정보가 발결했다.",
-        "- 쿠팡이나 해외 IT 회사는 개인정보 유출에 대한 보호업계적 방안을 고려해야 하는 것입니다."
-      ],
-      "insight": "이 사건은 IT/기술 업체에서 개인정보 유출 문제가 많이 발침하고, 계습과 포인트를 제공하는 회사들은 다시 보호 기술을 강화해야 합니다."
-    },
-    {
-      "title": "이노뎁, 광주 첨단3지구 스마트서비스 구축사업 63.5억원 수주",
-      "link": "http://www.boannews.com/media/view.asp?idx=141920&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 5 Feb 2026 18:30:00 +0900",
-      "description": "공공 스마트시티 사업 계기로 민간 및 해외 도시 데이터 플랫폼 사업 확장 추진[보안뉴스 강초희 기자] 이노뎁(대표 이성진)은 광주광역시도시공사가 발주한 ‘광주연구개발특구 첨단3지구 스마트서비스 구축사업’에 최종 선정됐다고 밝혔다. 총 수주금액은 63억5000만원이다. 이노뎁 컨소시엄은 KT 컨소시엄 등 복수의 경쟁 컨소시엄과 경쟁을 거쳐 최종 사업자로 선정",
-      "language": "ko",
-      "summary": "이노뎁 공공 시가 투자한 광주연구개발특구 첨단3지구 스마트서비스 구축사업에 대해, 63.5억원의 수조자에 직접 선정이 소식이다.",
-      "points": [
-        "이노뎁은 광주의 3지구 시내와 해외 도시를 대상으로 63.5억원을 수조자로 선정",
-        "참여한 경쟁 컨소시엄과의 선정이 광주광역시도공사가 발행한 계기와 합읠다.",
-        "최종 선정은 KT 컨소시엄과의 경쟁까지 일어났다."
-      ],
-      "insight": "이노뎁이 공공에서 스마트서비스 구축에 국여하는 대표저장소가 계기와 합락하고 일어나고 있다."
-    },
-    {
-      "title": "타포, 합리적 가격의 4K 초고화질 홈캠 ‘Tapo C250’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=141924&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 5 Feb 2026 18:27:00 +0900",
-      "description": "4K 초고화질과 회전형 구조를 갖춘 합리적 가격대의 실내용 홈 보안 카메라 출시AI 자동 줌 트래킹과 스마트 감지 기능을 강화한 4K 홈캠 라인업 확대[보안뉴스 강초희 기자] 타포(Tapo)는 800만 화소, 4K 초고화질 촬영을 지원하는 실내용 회전형 홈 보안 카메라 ‘타포(Tapo) C250’을 국내 출시했다고 밝혔다.타포 C250은 국내에서 펫캠과 베",
-      "language": "ko",
-      "summary": "타포 C250, 4K 초고화질 홈캠에 대한 기사 요약.",
-      "points": [
-        "타포(Tapo) 그룹이 4K 초고화질 홈캠 'Tapo C25 enda'를 국내에서 개시한다.",
-        "해상 사이즈는 4k으로, 처리량은 2.7 픽셀/ms로 진정하게 4K 초고화질을 지원한다.",
-        "이 홈캠에는 회전형 구조, 모바일 스마트 감지 기능이 강화되어 있다."
-      ],
-      "insight": "4K 초고화질 카메라로서의 수요일에 타포(Tapo)가 현재 IT/기술 업계에서 유용한 장비입니다."
     }
   ]
 }
