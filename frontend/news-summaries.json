@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-07T12:49:07.422Z",
+  "generatedAt": "2026-02-07T18:35:55.602Z",
   "articles": [
+    {
+      "title": "New York lawmakers propose a three-year pause on new data centers",
+      "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 07 Feb 2026 18:23:04 +0000",
+      "description": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+      "language": "en",
+      "summary": "New York lawmakers have proposed a three-year moratorium on building new data centers as part of an environmental initiative.",
+      "points": [
+        "The New York state Senate and Assembly are discussing legislation that would halt the construction of new commercial real estate, specifically targeting large cloud computing providers known for using massive amounts of energy to power their facilities.",
+        "Supporters argue this is necessary due to climate change concerns as data centers account for 0.2% of global greenhouse gas emissions but consume nearly 3% of electricity worldwide by the tech industry, according to a recent study in Science Advances journal.",
+        "The legislation does not address existing or operating facilities and would apply only if they use fossil fuels as their primary energy source."
+      ],
+      "insight": "This proposed moratorium reflects growing environmental concerns within the IT/technology industry, indicating a shift towards sustainable practices. It also highlights how climate change is increasingly influencing technology policies at both local and national levels."
+    },
     {
       "title": "[단독] 무슬림 핵티비스트, 방위사업청·HD현대 공격 시도... “이스라엘 돕지마”",
       "link": "http://www.boannews.com/media/view.asp?idx=141972&kind=&sub_kind=",
@@ -736,21 +751,6 @@
         "The tool facilitates the creation of customized conversational interfaces (CIs) and task automation bots through accessible APIs"
       ],
       "insight": "Frontier democratizes AI development for businesses, enabling them to create personalized digital workers that can seamlessly integrate with their operations."
-    },
-    {
-      "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
-      "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 17:51:13 +0000",
-      "description": "The newest version of Anthropic's model is designed to broaden its appeal.",
-      "language": "en",
-      "summary": "The newest version of Anthropic's model is designed to broaden its appeal",
-      "points": [
-        "The newest version of Anthropic's model is designed to broaden its appeal",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
