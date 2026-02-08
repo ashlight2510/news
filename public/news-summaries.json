@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-08T02:31:50.803Z",
+  "generatedAt": "2026-02-08T06:50:40.358Z",
   "articles": [
+    {
+      "title": "India has changed its startup rules for deep tech",
+      "link": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 08 Feb 2026 03:30:00 +0000",
+      "description": "India is adjusting startup rules to help more of its deep tech startups with funding and long-term success.",
+      "language": "en",
+      "summary": "The Indian government has revised its startup policies aimed at supporting the growth of deeper technology companies in India.",
+      "points": [
+        "India is revising rules to aid deep tech startups",
+        "Focus on funding and long-term success for more robust support systems. The country sees significant potential with this move, as it will help nurture the next generation of technology pioneers in India.",
+        "This could lead to innovations that might not only benefit domestic markets but also have global impacts."
+      ],
+      "insight": "The amendment signals a recognition by Indian policymakers about deep tech's vital role in the economy, potentially leading this sector towards more sustained growth and international competitiveness. This shift could serve as an example for other countries looking to develop their own high-tech sectors."
+    },
     {
       "title": "MS, 구글 클라우드 거물 ‘하이예트 갈롯’ 영입... 보안 부사장으로 ‘중대한’ 친정 복귀",
       "link": "http://www.boannews.com/media/view.asp?idx=141983&kind=&sub_kind=",
@@ -736,21 +751,6 @@
         "Both models aim to democratize and streamline the programming experience"
       ],
       "insight": "The release of competing AI tools like OpenAI'de Codex and Anthropi,s represents an accelerated push towards integrating artificial intelligence into software development practices."
-    },
-    {
-      "title": "One of Europe’s largest universities knocked offline for days after cyberattack",
-      "link": "https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Feb 2026 19:00:46 +0000",
-      "description": "An alleged ransomware attack has taken down the systems of the Sapienza University of Rome.",
-      "language": "en",
-      "summary": "Sapienza University in Italy experienced a significant disruption due to an alleged cyberattack involving ransomware that encrypted their data and demanded payment for decryption.",
-      "points": [
-        "Ransomware attack targeting Sapienza University, causing system shutdown",
-        "The university's systems were down for several days as a result of the incident",
-        "University authorities have not commented on whether they paid the ransom or if decryption was successful"
-      ],
-      "insight": "This cyberattack highlights the vulnerability of educational institutions to digital threats and underscores the need for robust security measures in academia."
     }
   ]
 }
