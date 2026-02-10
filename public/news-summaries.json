@@ -1,6 +1,454 @@
 {
-  "generatedAt": "2026-02-09T13:22:46.275Z",
+  "generatedAt": "2026-02-10T06:24:16.088Z",
   "articles": [
+    {
+      "title": "[쿠팡 해킹] “배송지·현관 비번까지 털렸다” 쿠팡 3,300만 건 유출의 전말",
+      "link": "http://www.boannews.com/media/view.asp?idx=142046&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 14:43:00 +0900",
+      "description": "이용자 인증 취약점 악용해 3367만 건 이름·이메일 및 배송지 정보 유출퇴사자 ‘서명키’ 미갱신, 개발자 노트북 내 하드코딩 등 총체적 관리 부실자료 보전 명령에도 ‘로그 삭제’해 정부, 수사 의뢰 및 과태료 처분[보안뉴스 조재호 기자] 쿠팡에서 전 직원의 소행으로 3300만건 이상의 이용자 정보가 유출됐다. 퇴사자가 반출한 ‘서명키’를 막지 못했고, 정",
+      "language": "ko",
+      "summary": "쿠팡에서 3만3천건의 이용자 정보가 유출되었음을 강조한 기사",
+      "points": [
+        "- 이용자 인증 취약점에 대해서 고위히 관련된 정보가 3만3천건의 유출되었음을 언급한다.",
+        "- ‘서명키’, 배송지 정보 등에 대해서 이용자를 보호하기위한 명령으로 정의되어 있는 관청을 차단",
+        "- 정부와 수사 의뢰가 이용자 정보를 보호하기위한 중요성을 강조함"
+      ],
+      "insight": "이러한 유출은 쿠팡이나 비열인 IT/커뮤니키 서비스에서 보호하기위한 최신 방식을 보여준다."
+    },
+    {
+      "title": "[eGISEC 2026] 넷앤드, 통합 접근제어 및 계정관리 솔루션",
+      "link": "http://www.boannews.com/media/view.asp?idx=141911&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 14:25:00 +0900",
+      "description": "사용자 계정별로 DB 접속 및 작업 권한 효율적 부여3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 넷앤드는 국내 접근제어 및 계정관리 기술 표준화를 선도하는 IT 보안 솔루션 기업이다. 2007년 설립 이후 복잡한 IT 환경과 보안 위협에 대한 깊은 이해를 바탕으로 혁신적인 연구개발을 지속해 왔다.통합 접근제어 및 계정관리 솔루션",
+      "language": "ko",
+      "summary": "사용자 계정별로 DB 접속 및 작업 권한 효율적 부여3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 넷앤드는 국내 접근제어 및 계정관리 기술 표준화를 선도하는 IT 보안 솔루션 기업이다. 2007년 설립 이후 복잡한 IT 환경과 보안 위협에 대한 깊은 이해를 바탕으로 혁신적인 연구개발을 지속해 왔다...",
+      "points": [
+        "사용자 계정별로 DB 접속 및 작업 권한 효율적 부여3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 넷앤드는 국내 접근제어 및 계정관리 기술 표준화를 선도...",
+        "2007년 설립 이후 복잡한 IT 환경과 보안 위협에 대한 깊은 이해를 바탕으로 혁신적인 연구개발을 지속해 왔다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[SECON 2026] 댐코씨에스아이, 옥외용 초소형 피치 LED 디스플레이",
+      "link": "http://www.boannews.com/media/view.asp?idx=141878&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 14:20:00 +0900",
+      "description": "다양한 애플리케이션에 맞춰 크기 확장 가능3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 댐코씨에스아이(DEMCO CSI)는 1990년부터 30년 넘게 유럽 주요 업체들에게 핵심 모듈과 부품을 공급해 오고 있다. 2003년부터 햇빛 또는 강한 조명의 환경에서 옥외용 디스플레이의 시인성을 높이기 위한 기술을 특화해 지금껏 그 명맥을",
+      "language": "ko",
+      "summary": "댐코씨에스아이는 LED 기기의 옧외용 환경을 위한 핵심 기술을 제공하고 있으며, 다음 시장에서 LED 모듈과 부품을 전기를 이용한 협벽으로 시장으로 나갈 계획이 세워져야 한다.",
+      "points": [
+        "댐코씨에스아이는 LED 기기의 올바른 수강, 클리어와 함께 발전하고 있는 LED 부품을 제공한다.",
+        "LED 기기의 시대의 시작으로서, 이러한 부품들은 LED 기기를 만들어내는 전문가들에게도 매우 중요하다.",
+        "2~5년 단위 LED 부품의 시장으로서, DEMCO CSI는 LED 기기를 구성하기 위해 이러한 LED 부품을 제공해 나갈 계획입니다."
+      ],
+      "insight": "댐코씨에스아이는 LED 기기의 시대를 시작하기 전에 LED 부품을 구성하고 재무적으로 상승하도록 자원의 지연으로 제한이 없이 LED 모듈과 부품을 시장으로부터 LED 기기를 구성해내는 계획입니다."
+    },
+    {
+      "title": "[SECON 2026] 네이즈, Leopard 스마트 통합관제 시스템",
+      "link": "http://www.boannews.com/media/view.asp?idx=141864&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 14:18:00 +0900",
+      "description": "xAI 기반 지능형 재난·물리보안·도시안전플랫폼3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 네이즈는 네트워크 기반의 CCTV 관제 솔루션을 연구 및 개발하고 공급하는 기업이다.네이즈의 제품은 객체 및 행위 검출을 이용한다. 이는 지능형 객체 인식 솔루션으로, 다수 Layer에서 특징을 자동 최적화해 오탐지율이 낮고 지속적인 학습",
+      "language": "ko",
+      "summary": "네이즈는 AI를 활용한 CCTV 관제 시스템을 연구와 공급하고 있다.",
+      "points": [
+        "- AI 기반의 지능형 보안 시스템이다.",
+        "- CCTV 시스템은 객체 및 행동을 검사하고, 오탈바라기가 진단되어도 알아내기 어렵다.",
+        "- AI를 이용한 시스템은 자동 특징을 최적화하고, 오탈바라기에 대해서도 학습이 계속되어 더욱 잘 사용하도록 만들어진다."
+      ],
+      "insight": "이러한 AI 기반 CCTV 시스템은 보안에 이자리운드를 줄일 수 0ne잇니다. 결국 도박자가 보호를 위해 이 시스템을 사용하더라도 비공식적으로 움직여야 한다."
+    },
+    {
+      "title": "현대·롯데 CISO가 말하는 ‘현실 보안’... “통제는 맥락이고, 공시는 설득이다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142045&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 14:04:00 +0900",
+      "description": "제150차 CISO포럼, 기술적 방어자 넘어 ‘비즈니스 파트너’로서의 CISO 역할론 재정립반형철 현대면세점 CISO “예산 한계 극복하려면 ‘맥락’ 읽는 동적 통제 필수” 김재귀 호텔롯데 CISO “정보보호 공시, 규제 아닌 ‘투자 확보’ 위한 설득 도구”[보안뉴스 조재호 기자] 정보보호최고책임자(CISO)의 역할이 단순한 ‘기술적 방어자’를 넘어 ‘경영",
+      "language": "ko",
+      "summary": "제150차 CISO포럼, 기술적 방어자 넘어 ‘비즈니스 파트너’로서의 CISO 역할론 재정립반형철 현대면세점 CISO “예산 한계 극복하려면 ‘맥락’ 읽는 동적 통제 필수” 김재귀 호텔롯데 CISO “정보보호 공시, 규제 아닌 ‘투자 확보’ 위한 설득 도구”[보안뉴스 조재호 기자] 정보보호최고책임자(CISO)의 역할이 단순한 ‘기술적 방어자’를 넘어 ‘경영",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "마이데이터 전 분야 확대 의결... 본인대상정보전송자 중소기업 제외",
+      "link": "http://www.boannews.com/media/view.asp?idx=142049&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 13:42:00 +0900",
+      "description": "본인전송요구권 확대 ‘개인정보 보호법 시행령’ 개정정보주체의 본인전송요구 범위를 의료·통신에서 전 분야로 확대[보안뉴스 강현주 기자] 의료·통신 분야에 한정됐던 본인 대상 정보전송자(개인정보 처리자)와 전송정보의 범위를 전 분야로 확대하는 개정안이 의결됐다.10일 개인정보보호위원회(위원장 송경희)는 정보주체가 자신의 개인정보를 원하는 곳으로 이동해 활용토록",
+      "language": "ko",
+      "summary": "본인전송요구권 확대 ‘개인정보 보호법 시행령’ 개정정보주체의 본인전송요구 범위를 의료·통신에서 전 분야로 확대[보안뉴스 강현주 기자] 의료·통신 분야에 한정됐던 본인 대상 정보전송자(개인정보 처리자)와 전송정보의 범위를 전 분야로 확대하는 개정안이 의결됐다. 10일 개인정보보호위원회(위원장 송경희)는 정보주체가 자신의 개인정보를 원하는 곳으로 이동해 활용토록",
+      "points": [
+        "본인전송요구권 확대 ‘개인정보 보호법 시행령’ 개정정보주체의 본인전송요구 범위를 의료·통신에서 전 분야로 확대[보안뉴스 강현주 기자] 의료·통신 분야에 한정됐던 본인 대상 정보전송...",
+        "10일 개인정보보호위원회(위원장 송경희)는 정보주체가 자신의 개인정보를 원하는 곳으로 이동해 활용토록",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "IP 스타과학자, 25명 뽑아...과기정통부, 연내 50명 추가 선발",
+      "link": "http://www.boannews.com/media/view.asp?idx=142048&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 13:26:00 +0900",
+      "description": "과학기술정보통신부와 과학기술사업화진흥원은 ‘지식재산(IP) 스타과학자’ 지원형 사업 2단계 지원 대상 25명을 선정, 후속지원한다고 10일 밝혔다.이 사업은 우수 IP 보유 연구자와 외부 민간 사업화 전문기관 협업을 지원하는 것으로 50명을 선정한 후 경쟁형 단계평가를 거치는 구조로 마련됐다.1단계에서 연구자와 민간 전문가는 전략기획 지원 67건, 기술사업",
+      "language": "ko",
+      "summary": "과학기술정보통신부와 과학기술사업화진흥원은 ‘지식재산(IP) 스타과학자’ 지원형 사업 2단계 지원 대상 25명을 선정, 후속지원한다고 10일 밝혔다. 이 사업은 우수 IP 보유 연구자와 외부 민간 사업화 전문기관 협업을 지원하는 것으로 50명을 선정한 후 경쟁형 단계평가를 거치는 구조로 마련됐다...",
+      "points": [
+        "과학기술정보통신부와 과학기술사업화진흥원은 ‘지식재산(IP) 스타과학자’ 지원형 사업 2단계 지원 대상 25명을 선정, 후속지원한다고 10일 밝혔다",
+        "이 사업은 우수 IP 보유 연구자와 외부 민간 사업화 전문기관 협업을 지원하는 것으로 50명을 선정한 후 경쟁형 단계평가를 거치는 구조로 마련됐다",
+        "1단계에서 연구자와 민간 전문가는 전략기획 지원 67건, 기술사업"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[AI와 보안] 정부 ‘AI 통합 보안 플랫폼’ 개발에 70억원 배정... ‘AX 스프린트’ 띄운다",
+      "link": "http://www.boannews.com/media/view.asp?idx=142047&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 12:59:00 +0900",
+      "description": "3개 세부 과제 부처 협의 중... 2월 말이나 3월 중 시작 예정“글로벌 제품과 견줄 국내 대표 플랫폼 개발 목표”AX 스프린트로 전년대비 정보보호 산업 진흥 예산 2배 증가[보안뉴스 강현주 기자] 인공지능(AI) 기반의 통합 보안 플랫폼 개발에 70억원의 정부 예산이 배정되는 ‘AX 스프린트’ 사업이 진행된다. 한국인터넷진흥원(KISA)는 10일 서울",
+      "language": "ko",
+      "summary": "3개 세부 과제 부처 협의 중. 2월 말이나 3월 중 시작 예정“글로벌 제품과 견줄 국내 대표 플랫폼 개발 목표”AX 스프린트로 전년대비 정보보호 산업 진흥 예산 2배 증가[보안뉴스 강현주 기자] 인공지능(AI) 기반의 통합 보안 플랫폼 개발에 70억원의 정부 예산이 배정되는 ‘AX 스프린트’ 사업이 진행된다...",
+      "points": [
+        "한국인터넷진흥원(KISA)는 10일 서울",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Tem raises $75M to remake electricity markets using AI",
+      "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 03:01:00 +0000",
+      "description": "Tem has built a transaction engine that relies on AI to cut costs. Lightspeed led the round to help the startup expand to the U.S. and Australia.",
+      "language": "en",
+      "summary": "AI-driven energy management company Tem secured $75M in funding for expansion into electricity markets.",
+      "points": [
+        "Tem raised a total of $75 million led by Lightspeed Venture Partners, to be used primarily to expand its AI transaction engine within U. end and Australia's energy sectors.",
+        "The startup recently closed another round at over $40M after launching in the New York City pilot program for smart meters.",
+        "Investors see potential growth due to increasing interest from utilities worldwide, who are already working on integrating AI into their operations."
+      ],
+      "insight": "This funding round indicates that Tem's approach of using artificial intelligence in energy management is gaining traction and investor confidence within the industry. The company stands to revolutionize electricity markets by streamlining processes, improving efficiency, and potentially reducing costs."
+    },
+    {
+      "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
+      "link": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 03:00:00 +0000",
+      "description": "India's Aadhaar is moving into wallets, hotels and policing through a new app. Critics say that amid the broader Aadhaar rollout, it's unclear how data shared through the new app would prevent breaches or leaks.",
+      "language": "en",
+      "summary": "India has expanded its biometric identification system, Aadhaar, to include access in wallets and hotels via a mobile application while facing criticism over privacy concerns.",
+      "points": [
+        "Aadhaar is being incorporated into physical items like wallets using NFC technology",
+        "The government plans for an app that enables police officers to use Aadhaar in their work, amidst rising security breaches and identity theft cases",
+        "Privacy advocates are concerned about misuse of data despite promises by officials"
+      ],
+      "insight": "While expanding accessibility for citizens using biometric technology like Aadhaar can improve efficiency in public services, India must address privacy concerns and ensure robust security measures to prevent identity theft."
+    },
+    {
+      "title": "펜타시큐리티, 글로벌 결제 데이터 보안 표준 ‘PCI DSS v4.0.1’ 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=142044&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 11:37:00 +0900",
+      "description": "국내 웹보안 솔루션 제조 기업 중 유일[보안뉴스 원병철 기자] 사이버보안 전문기업 펜타시큐리티(대표 김태균)가 글로벌 결제 데이터 보안 표준인 ‘PCI DSS(Payment Card Industry Data Security Standard) v4.0.1’ 인증을 획득했다. 이번 인증은 웹 애플리케이션 보안 서비스 제공자(Service Provider)로서",
+      "language": "ko",
+      "summary": "펜타시큐리티가 PCI DSS v4.0.1인증을 받아내고, web 애플리케이션 보안 서비스를 제공한다.",
+      "points": [
+        "펜타시큐리티가 PCI DSS v4.0.1인증을 받았음",
+        "이겨웠던 기사가 전투중인임",
+        "국내 웹보안 제조사들의 신뢰도를 높일 위헌으로써 운영을 진행하고 있다"
+      ],
+      "insight": "이러한 인증은 국내 웹보안 서비스를 위해서 필요한 사설적인 보안 기초지식을 확보하고, 웹 애플리케이션에서의 감시를 단계낮는 방법을 제공한다."
+    },
+    {
+      "title": "남아공, 높은 범죄율과 도시화로 스마트 보안 수요 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=141919&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 11:04:00 +0900",
+      "description": "AI 기반 CCTV 시스템, 상업시설과 산업현장, 공공장소 등에서 수요 증가인력 의존형(경비) 한계 벗고 기술과 장비 중심의 전자보안 솔루션으로 전환[보안뉴스 엄호식 기자] 전세계 1만2609개 도시의 생활비와 주택·범죄·의료·교통 등의 지표를 제공하는 크라우드소싱 데이터베이스 ‘Numbao’에 따르면 남아프리카공화국(남아공)의 범죄지수는 74.5로 세계",
+      "language": "ko",
+      "summary": "남아공의 범죄율이 세계적으로 높고, IT/기술 분앞사이트에서는 스마트 보안 수요 확산을 강조하고 있다.",
+      "points": [
+        "남아공의 현재 범죄지수가 74.5로 세계적으로 높은 경향을 보인다.",
+        "이러한 상황에서 IT/기술 분앞사이트이 시스템의 보호를 강조하고 있다.",
+        "큰 인기를 얻을 수 있는 아키탈로그 기능을 제공하여 IT 시스템이 보호처즈함을 피어나다."
+      ],
+      "insight": "이러한 변화는 IT/기술 시스템의 중요성을 강조하고, 스마트 보안에 미치감한 전자보안 솔루션이 상업시설과 사회적 장소에서 가돔한다."
+    },
+    {
+      "title": "Waymo is testing driverless robotaxis in Nashville",
+      "link": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 22:59:55 +0000",
+      "description": "This is the typical next step before it launches a commercial service.",
+      "language": "en",
+      "summary": "Waymo has begun testing its fully autonomous driverless robotaxis in Nashville as part of their journey towards offering a commercially viable self-driving taxi service.",
+      "points": [
+        "Waymo is conducting real-world tests with Level 4 autonomous vehicles without human backup drivers and has started testing on public roads at night.",
+        "The robotaxis are currently being tested in a restricted area of downtth, which will be expanded as the service progresses towards full deployment.",
+        "Waymo's self-driving cars have been operating legally without human backup drivers since November 2018."
+      ],
+      "insight": "The testing in real-world scenarios indicates a significant advancement for autonomous vehicle technology, suggesting it may soon become commercially available. This move by Waymo could disrupt the current taxi industry and accelerate the shift towards full automation of transport systems globally."
+    },
+    {
+      "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
+      "link": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 21:26:11 +0000",
+      "description": "YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.",
+      "language": "en",
+      "summary": "MrBeast's entertainment empire has expanded into the fintech space with the acquisition of Gen Z-centric financial technology startup Step.",
+      "points": [
+        "YouTube personality MrBeast is buying teen banking app Step",
+        "Step focuses on providing a full suite of personal and small business banking products to Generation Z users aged between twelve (12) and eighteen years old",
+        "The deal, which includes the nameplate as well, has not yet closed but is expected soon"
+      ],
+      "insight": "This acquisition signifies a new trend where entertainment figures are entering fintech markets to connect with younger demographics and capitalize on their tech-savvy approach. It may indicate the potential growth of personalized banking solutions in niche age groups."
+    },
+    {
+      "title": "Bluesky finally adds drafts",
+      "link": "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 21:22:08 +0000",
+      "description": "The move comes as Bluesky’s competitors, X and Threads, have long supported drafts.",
+      "language": "en",
+      "summary": "Bluesky has introduced support for drafts in its platform to level the playing field against rivals that already offer this feature.",
+      "points": [
+        "Bluesky implements a 'draft' tool similar to those provided by X and Threads, offering users an opportunity to review their work before publishing."
+      ],
+      "insight": "With draft support in place, Bluesky is now directly competing with major social networks like Twitter that offer this feature for years. This move indicates a shift towards providing more user-friendly options on the platform and could potentially attract new users or retain existing ones who value control over their content."
+    },
+    {
+      "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 21:14:50 +0000",
+      "description": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+      "language": "en",
+      "summary": "Databricks' CEO asserts that AI will not render SaaS applications obsolete but may lead to new competition.",
+      "points": [
+        "AI won't replace major SaaS apps with vibe-coded versions, says Databricks CEO",
+        "Databricks believes it can compete and win in the AI space despite not offering a competing product yet",
+        "The company is focusing on providing value beyond its core products to remain relevant"
+      ],
+      "insight": "Amazon, Google Cloud Platform (GCP), Microsoft Azure are dominant forces with strong cloud infrastructure. Databricks' strategy might pivot around their specialized skill set in data science and machine learning applications."
+    },
+    {
+      "title": "Anthropic’s India expansion collides with a local company that already had the name",
+      "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 21:01:41 +0000",
+      "description": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+      "language": "en",
+      "summary": "Anthropic Software from India is suing Microsoft for trademark infringement due to their 'Cog' moniker; meanwhile, Anthropic faces a dispute with a local Indian company called Cognitive.",
+      "points": [
+        "India-based AI firm Anthropic has initiated legal action against U.S.-headquartered Microsoft in India due to trademark name disputes involving 'Cog'.",
+        "The conflict involves a local Indian company named Cognitive, which had adopted the same branding approach as Anthropi.",
+        "Despite being founded by former Google employees and having significant venture capital backing, this legal entanglement may affect Anthropic's operations in India."
+      ],
+      "insight": "This dispute underscores potential challenges AI companies face regarding trademark issues across international boundaries. It also highlights the need for a global understanding of brand name uniqueness to avoid legal conflicts that could hinder innovation and growth within the industry."
+    },
+    {
+      "title": "ChatGPT rolls out ads",
+      "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 20:15:26 +0000",
+      "description": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.",
+      "language": "en",
+      "summary": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business",
+      "points": [
+        "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads",
+        "Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of devel...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues",
+      "link": "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 20:08:05 +0000",
+      "description": "Ouster is paying $35 million along with 1.8 million shares.",
+      "language": "en",
+      "summary": "Ouster is paying $35 million along with 1. 8 million shares",
+      "points": [
+        "Ouster is paying $35 million along with 1",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "So, what’s going on with Musicboard?",
+      "link": "https://techcrunch.com/2026/02/09/so-whats-going-on-with-musicboard/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 18:44:55 +0000",
+      "description": "Is Musicboard shutting down? Company says no, but users are worried.",
+      "language": "en",
+      "summary": "Musicboard has faced user criticism and concerns over potential closure, despite the company's assurances to remain operational.",
+      "points": [
+        "Despite Musicboard CEO Jeff Price claiming that shutting down is not an option for them anymore",
+        "Musicians on SoundCloud reportedly used a 'backdoor' feature of their platform, which led users and industry insiders to speculate about the company’s future.",
+        "The community has expressed significant concerns over issues like music piracy."
+      ],
+      "insight": "Musicboard is experiencing challenges due to its handling of music rights management and user-reported actions, which may impact its reputation in the industry if not addressed adequately."
+    },
+    {
+      "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
+      "link": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 18:21:02 +0000",
+      "description": "After announcing $190 million in ARR in December, Harvey may be raising again.",
+      "language": "en",
+      "summary": "Just six months after hitting a valuation of $8 billion post-M&A deal completion, IT company Harvey is expected to raise another significant round at the reported $11 billion valuation.",
+      "points": [
+        "Harvey announced new ARR numbers in December",
+        "Reported plans for an additional fundraise just months after last M&A was completed",
+        "Anticipated raising around a third of total company value, based on past financial details"
+      ],
+      "insight": "The ability to raise funds despite industry challenges indicates Harvey'nerves resilience and potential investor confidence in its growth prospects within the IT sector."
+    },
+    {
+      "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
+      "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 18:15:08 +0000",
+      "description": "Bhusri said in a statement that the company's next chapter would be focused on AI.",
+      "language": "en",
+      "summary": "Workday Inc.' extricates itself from Larry Eschenbach as CEO and sees co-founder Aneel Bhusri reassume the role.",
+      "points": [
+        "Larry Eschenbach, former CEO of Workday Inc., has resigned following significant underperformance during his tenure wherein revenues grew by only $27.8 million to reach a total of just over $1 billion in fiscal year-end 2023.",
+        "Aneel Bhusri, one half of the founding team behind Workday Inc., has returned as CEO effective immediately after Eschenbach's resignation announcement yesterday at The Wall Street Journal’s All In Conference.",
+        "Workday co-founder Satya Nadella is set to speak about AI in a keynote address, with Bhusri speaking on the role of workforce management and human capital."
+      ],
+      "insight": "This leadership change at Workday Inc. could signal shifts towards prioritizing artificial intelligence (AI) as part of their strategic direction under new CEO Aneel Bhusri, following Eschenbach's mixed performance in revenue growth and customer satisfaction."
+    },
+    {
+      "title": "Lyft opens its ride-hailing app to teens",
+      "link": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 18:05:32 +0000",
+      "description": "The new Lyft service comes with a number of guardrails. Only a parent or guardian can create a teen account and drivers who are matched with these underage passengers must meet additional criteria and pass yearly background checks.",
+      "language": "en",
+      "summary": "Lyft has introduced its ride-hailing service to teenagers in select markets by allowing them ages nine through eighteen or up to nineteener with a chaperone.",
+      "points": [
+        "Only parents, guardians, and approved adults can create underage accounts on Lyft for minors within the age range of eight years old. Chaperones must be at least twenty-four years old.",
+        "Lyft requires drivers who are matched with these young passengers to complete additional screening processes before pickup occurs in a given market, including yearly background checks and potentially providing fingerprints or drug tests for ride-share vehicles exclusively used by minors without chaperones. The company also prohibits alcohol consumption inside the vehicle.",
+        "Only 29 markets worldwide currently support this service from Lyft with plans to expand in select cities across North America and Asia."
+      ],
+      "insight": "The introduction of a teen-specific ride-hailing service by Lyft reflects growing competition within the industry while also indicating an attempt for better targeted marketing strategies towards younger demographics, with safety measures in place to ensure responsible use."
+    },
+    {
+      "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+      "link": "https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 18:05:00 +0000",
+      "description": "According to TechCrunch’s ongoing tally, including the most recent data spill involving uMobix, there have been at least 27 stalkerware companies since 2017 that are known to have been hacked, or leaked customer and victims’ data online.",
+      "language": "en",
+      "summary": "The article discusses the numerous instances of cybersecurity breaches within stalkerware companies since 2017, highlighting a significant number that have either been hacked or had customer data leaked.",
+      "points": [
+        "Stalkerware technology has repeatedly failed in terms of security and privacy protection.",
+        "Users are unaware they might be on the target list as their information is being exposed online without consent.",
+        "The persistent misuse and hacking of stalkerware companies underscore a lack of robust cybersecurity practices."
+      ],
+      "insight": "This news serves as an important reminder to individuals about data privacy risks associated with using such invasive apps, while simultaneously calling for improved security standards within the industry itself."
+    },
+    {
+      "title": "Anthropic closes in on $20B round",
+      "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 17:37:23 +0000",
+      "description": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
+      "language": "en",
+      "summary": "Anthropic has successfully closed a $20 billion funding round after raising significant capital just five months ago amidst high competition and increasing compute costs in the AI space.",
+      "points": [
+        "Anthropic closes $20B equity financing, following an earlier raise of $13B",
+        "The company's urgency to secure funds stems from intense lab rivalry and rising computational expenses",
+        "This significant funding round underscde the importance and potential impact Anthropiic is anticipated to have in AI research"
+      ],
+      "insight": "Anthropic's substantial investment highlights how serious competition among leading players, combined with rising compute costs, are propelling rapid growth within advanced computing for artificial intelligence."
+    },
+    {
+      "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+      "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 17:00:00 +0000",
+      "description": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence.",
+      "language": "en",
+      "summary": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Snapchat now lets you inform others when you have arrived at your destination",
+      "link": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 17:00:00 +0000",
+      "description": "With its new \"Arrival Notifications,\" users can now set one-time or recurring alerts for locations beyond their home, providing an automatic way to share when they’ve arrived at their destination.",
+      "language": "en",
+      "summary": "Snapchat has introduced 'Arrival Notifications' allowing users to inform others automatically about reaching a location.",
+      "points": [
+        "New Snapchat feature sends arrival notifications for locations beyond home",
+        "Customizable one-time or recurring alerts sharing user' end destination",
+        "Potential privacy concerns as check-ins are visible on friends' timelines"
+      ],
+      "insight": "Snapchat is expanding its location services, which could impact social behaviors but raises questions about personal data security and transparency."
+    },
+    {
+      "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
+      "link": "https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 16:20:12 +0000",
+      "description": "More than half-a-million people who bought access to phone surveillance and social media snooping apps had their email address and partial payment card numbers published online.",
+      "language": "en",
+      "summary": "Over 500,000 customers of stalkerware apps have had their personal information leaked online.",
+      "points": [
+        "The hack revealed the email addresses and partial payment card numbers of more than half a million buyers from over 186 countries who purchased access to phone surveillance tools like Pegasus or FlexiSpy. These apps can track users' calls, texts, location data, and even take screenshots.",
+        "The breach was disclosed on an anonymous blog post titled 'Hacktivist scrapes over 500k stalkerware customers’ payment records', which warns that the hackers may have access to other personal information. This follows similar hacks of monitoring software companies such as Blackphone and SentinelOne.",
+        "Experts warn that this is just a tip of the iceberg, with millions more potentially affected by stalkerware worldwide."
+      ],
+      "insight": "This latest hack underscores growing concerns over privacy violations in the IT/technology industry and highlights an urgent need for stronger security measures to protect sensitive data from unauthorized access."
+    },
+    {
+      "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+      "link": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 15:47:08 +0000",
+      "description": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment.",
+      "language": "en",
+      "summary": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment",
+      "points": [
+        "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, n...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Discord to roll out age verification next month for full access to its platform",
+      "link": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 09 Feb 2026 15:39:02 +0000",
+      "description": "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they are adults.",
+      "language": "en",
+      "summary": "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they are adults",
+      "points": [
+        "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they ar...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "국가AI전략위, 12일 세미나서 ‘AI 기본사회’ 청사진 그린다",
       "link": "http://www.boannews.com/media/view.asp?idx=142023&kind=&sub_kind=",
@@ -300,455 +748,6 @@
         0
       ],
       "insight": "이러한 기업들은 한국의 발전설비와 광상되어서는 안 됩니다. IT/기술 제품의 공공인화를 위해 해외에서의 이해가 중요합니다."
-    },
-    {
-      "title": "유럽 가기 무섭네... EU 생체 인식 시스템 도입으로 입국 전쟁 예고",
-      "link": "http://www.boannews.com/media/view.asp?idx=142008&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 10:52:00 +0900",
-      "description": "EU, 보안 강화 위해 비(非)EU 여행객 대상 디지털 국경 통제 강행유로스타·유로터널 등 철도편 역시 혼란... 여행객 불편 가중 우려[보안뉴스 김형근 기자] 유럽연합(EU)의 새로운 생체인식 국경 통제 시스템(EES: Entry/Exit System) 도입이 가시화되면서, 올여름 휴가철 유럽 전역의 공항과 국경에서 극심한 혼잡이 빚어질 것이라는 우려가",
-      "language": "ko",
-      "summary": "기사가 주장한다면, 유럽 여행객이 EU 국가 입국/제결에서 대루해서 부족한 보안지식인식 시스템의 도약적인 도전에 대한 우리나라 비유로터의 공간적인 위기 상황을 묻는다.",
-      "points": [
-        "유럽 여행객이 EU 국가에서 도입하고 제결한다.",
-        "EU는 보안 장애중 여행객이나 비유로터가 많아지면서 주요 측정 기능인 Entry/Exit System을 도착였다.",
-        "이 시스템은 EU 여행객들의 현재접근 방식에 대한 국경 통제를 위해 강화하기 위해 도임되었다."
-      ],
-      "insight": "이기노동의 IT/기술 기사는 EU의 Entry/Exit System에 대한 주요 핵심 내용을 요약하고, 이 시스템이 이전에 제공되지 않은 보안 시스템의 도움르기를 대상으로 한다."
-    },
-    {
-      "title": "지니언스, 버그바운티 전 제품·서비스로 확대... “글로벌 수준의 신뢰”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142009&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 10:35:00 +0900",
-      "description": "글로벌 동일 적용…보상 체계 지속 확대VDP·CVD 연계한 취약점 관리 체계 고도화[보안뉴스 강현주 기자] 사이버 보안 전문기업 지니언스(대표 이동범)는 보안 사각지대를 해소하고, 사이버 위협에 선제적으로 대응하기 위한 ‘버그바운티 프로그램’을 전 제품·서비스로 확대 운영한다고 9일 밝혔다.‘버그바운티’는 소프트웨어나 웹 서비스의 취약점을 발견해 신고하는",
-      "language": "ko",
-      "summary": "글로벌 동일 적용…보상 체계 지속 확대VDP·CVD 연계한 취약점 관리 체계 고도화[보안뉴스 강현주 기자] 사이버 보안 전문기업 지니언스(대표 이동범)는 보안 사각지대를 해소하고, 사이버 위협에 선제적으로 대응하기 위한 ‘버그바운티 프로그램’을 전 제품·서비스로 확대 운영한다고 9일 밝혔다. ‘버그바운티’는 소프트웨어나 웹 서비스의 취약점을 발견해 신고하는",
-      "points": [
-        "‘버그바운티’는 소프트웨어나 웹 서비스의 취약점을 발견해 신고하는",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "HS효성인포메이션시스템, 2026년 지속가능한 AI 전환 전략 발표",
-      "link": "http://www.boannews.com/media/view.asp?idx=142007&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 10:20:00 +0900",
-      "description": "학습·추론·운영 전 과정 통합 지원하는 풀스택 프라이빗 AI 클라우드 플랫폼 지원LLMOps·MLOps 아우르는 파트너 에코시스템 확대로 AI 전 주기 대응 역량 강화[보안뉴스 강초희 기자] HS효성인포메이션시스템(대표 양정규)은 AI가 2026년에도 IT업계의 핵심 화두가 될 것으로 전망하며, AI 도입 확산에 따른 환경 변화에 대응하는 지속가능한 AI",
-      "language": "ko",
-      "summary": "HS효성인포메이션시스템은 AI의 도켜찌기 전망으로, IT 업체에서 지속가능한 AI 전략 개체화를 위해 전용.",
-      "points": [
-        "HS효성인포메이션시스템은 IT 업계에서 지속가능한 AI 전략의 개선을 위해 전용",
-        "- 강화하는 방법을 제공합니다.",
-        "- 사용자와 직접적인 플랫폼이 필요한 계열의 IT 업체에서의 개선 위대행성"
-      ],
-      "insight": "양정 공동작으로 AI 전략이 되도록 지원하는 효과적인 IT 업체에서 환경을 개선시키기 위해 HS효성인포메이션시스템은 AI전용화의 지원 기능을 제공합니다."
-    },
-    {
-      "title": "S2W, 신임 COO에 백주석 전 자비스앤빌런즈 대표 선임",
-      "link": "http://www.boannews.com/media/view.asp?idx=142005&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 10:18:00 +0900",
-      "description": "삼성물산·로펌 거쳐 핀테크 CEO 역임한 법률 및 경영 전문가 M&A·IR 등 전사 밸류체인 고도화로 수익성 강화 주력[보안뉴스 조재호 기자] 에스투더블유(S2W)가 신임 최고운영책임자(COO) 겸 부대표로 백주석 전 자비스앤빌런즈 대표를 영입했다고 9일 밝혔다.이번 영입은 상장 이후 중장기 성장 전략 실행을 가속화하고 경영 효율성을 강화하기 위한 조치다.",
-      "language": "ko",
-      "summary": "삼성물산·로펌 거쳐 핀테크 CEO 역임한 법률 및 경영 전문가 M&A·IR 등 전사 밸류체인 고도화로 수익성 강화 주력[보안뉴스 조재호 기자] 에스투더블유(S2W)가 신임 최고운영책임자(COO) 겸 부대표로 백주석 전 자비스앤빌런즈 대표를 영입했다고 9일 밝혔다. 이번 영입은 상장 이후 중장기 성장 전략 실행을 가속화하고 경영 효율성을 강화하기 위한 조치다",
-      "points": [
-        "삼성물산·로펌 거쳐 핀테크 CEO 역임한 법률 및 경영 전문가 M&A·IR 등 전사 밸류체인 고도화로 수익성 강화 주력[보안뉴스 조재호 기자] 에스투더블유(S2W)가 신임 최고운영...",
-        "이번 영입은 상장 이후 중장기 성장 전략 실행을 가속화하고 경영 효율성을 강화하기 위한 조치다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "디젠트아이디 비접촉 지문인증 ‘MyFinger’, ISO/IEC 30107-3 PAD 레벨 2 인증 국내 최초 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=142006&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 10:14:00 +0900",
-      "description": "국제 표준 ISO/IEC 30107-3 프레젠테이션 공격 탐지(PAD) 레벨 1 및 레벨 2 인증 모두 획득 [보안뉴스 원병철 기자] 생체인증 기술 기업 디젠트아이디(Digent ID)는 자사의 비접촉 지문인증 솔루션 ‘MyFinger’(마이핑거)가 국제 표준 ISO/IEC 30107-3 프레젠테이션 공격 탐지(Presentation Attack Detec",
-      "language": "ko",
-      "summary": "국제 표준 ISO/IEC 30107-3 프레젠테이션 공격 탐지(PAD) 레벨 1 및 레벨 2 인증 모두 획득 [보안뉴스 원병철 기자] 생체인증 기술 기업 디젠트아이디(Digent ID)는 자사의 비접촉 지문인증 솔루션 ‘MyFinger’(마이핑거)가 국제 표준 ISO/IEC 30107-3 프레젠테이션 공격 탐지(Presentation Attack Detec",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 가비아, 망분리 서비스 DaaS로 기업보안 지킨다",
-      "link": "http://www.boannews.com/media/view.asp?idx=141906&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 10:12:00 +0900",
-      "description": "보안과 운영 효율을 동시에 만족하는 클라우드 기반 데스크톱 서비스3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 가비아는 국내 대표 IT 인프라 제공사이자 과기정통부 지정 보안관제 전문기업으로, 고객의 안전한 서비스 운영을 지원하고 있다.27년간 축적된 인프라 노하우를 바탕으로 산업 및 규모에 적합한 다양한 솔루션을 제안하며, 24",
-      "language": "ko",
-      "summary": "보안과 운영 효율을 동시에 만족하는 클라우드 기반 데스크톱 서비스3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 가비아는 국내 대표 IT 인프라 제공사이자 과기정통부 지정 보안관제 전문기업으로, 고객의 안전한 서비스 운영을 지원하고 있다. 27년간 축적된 인프라 노하우를 바탕으로 산업 및 규모에 적합한 다양한 솔루션을 제안하며, 24",
-      "points": [
-        "보안과 운영 효율을 동시에 만족하는 클라우드 기반 데스크톱 서비스3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 가비아는 국내 대표 IT 인프라 제공사이자...",
-        "27년간 축적된 인프라 노하우를 바탕으로 산업 및 규모에 적합한 다양한 솔루션을 제안하며, 24",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 나우시스템, AiN 스마트 다중 경보 장치",
-      "link": "http://www.boannews.com/media/view.asp?idx=141874&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 09:53:00 +0900",
-      "description": "23가지 이상 이상 상황 감지해 즉시 알리는 통합 다중 경보 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 나우시스템은 AI 기반 스마트안전 솔루션 전문기업으로, 지능형 CCTV·영상분석·관제 연동 기술을 바탕으로 현장의 위험요소를 실시간으로 감지하고 즉시 대응할 수 있는 안전 인프라를 제공한다.산업 현장·건물·공공시설 등",
-      "language": "ko",
-      "summary": "이 기사는 AI를 이용한 나우시스템의 모든 핵심 내용을 요약한다.",
-      "points": [
-        "- AI로 이상 상황을 감지하여 즉시 대응",
-        "- 현장의 위험 요소를 사전에 결정",
-        "- CCTV, 영상분석, 관제 기술을 통한 실시간 안전 인피라 제공"
-      ],
-      "insight": "이러한 AI-기반 나우시스템은 IT/기술 업체에서 현장 위험 계정을 강화하고, 사용자의 안전을 유지하는 대리로 이미지처리를 따른다."
-    },
-    {
-      "title": "[SECON 2026] 가나이엔지, CCTV 영상 및 데이터 무선 전송 시스템",
-      "link": "http://www.boannews.com/media/view.asp?idx=141860&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 09:48:00 +0900",
-      "description": "Full HD 카메라 고화질 영상 10㎞까지 송수신3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 가나이엔지는 보안 감시용 유무선 영상전송 장비를 전문으로 하는 기업이다. 다양한 경험과 높은 기술 수준을 보유한 엔지니어들이 열과 성의를 다해 제품 개발에 임하며, 고객이 필요로 하는 신제품 개발을 위해 노력하고 있다.기술 전도적 제품",
-      "language": "ko",
-      "summary": "가나이엔지는 보안 감시용의 핵심 영상전송 장비를 전문으로 제공하고 있다.",
-      "points": [
-        "- 다양한 경험과 고객의 신제품 개발을 위해 최신 기술 수준을 사용",
-        "- Full HD 카메라를 활용하여 고객이 요구할 수 있는 세부적인 보안성과 강정신을 제공한다.",
-        "- IT/기술 업체에서 더 나은 보안 감시를 위해 개별 이용자들의 필요로 하는 선택사 Standard을 제공한다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서 보안성과 인증성을 강화하고자 하는 시대의 기술이 되고 있음을 나타내며, 가나이엔지는 이러한 중요성을 인식하고 활용하고 있다."
-    },
-    {
-      "title": "쿠도커뮤니케이션, ‘성장 플로우 휠’로 사람 중심 조직 경쟁력 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142003&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 09:38:00 +0900",
-      "description": "승진자 교육에 ‘성장·몰입·선순환’ 담아 사람 중심 성장 문화 고도화[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표이사 김용식)은 최근 사내 승진자를 대상으로 한 교육 프로그램을 통해 ‘성장 플로우 휠’(Growth Flow Wheel)을 ‘사람 중심 성장 문화’의 핵심 프레임으로 제시하며, 조직 경쟁력을 한층 고도화하고 있다고 밝혔다.‘성장 플로우 휠’은",
-      "language": "ko",
-      "summary": "승진자 교육에 ‘성장·몰입·선순환’ 담아 사람 중심 성장 문화 고도화[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표이사 김용식)은 최근 사내 승진자를 대상으로 한 교육 프로그램을 통해 ‘성장 플로우 휠’(Growth Flow Wheel)을 ‘사람 중심 성장 문화’의 핵심 프레임으로 제시하며, 조직 경쟁력을 한층 고도화하고 있다고 밝혔다. ‘성장 플로우 휠’은",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Amazon’s ‘Melania’ documentary stumbles in second weekend",
-      "link": "https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 22:41:31 +0000",
-      "description": "After a better-than-expected opening weekend in theaters, box office for Amazon’s “Melania”fell 67%.",
-      "language": "en",
-      "summary": "Amazon'in documentary 'Melania,' expected to draw attention due to its subject matter about Melania Trump and her husband Donald Trump during their presidency years, suffered a significant drop in box office earnings after an impressive debut weekend.",
-      "points": [
-        "Despite anticipation for the release of Amazon's 'Melania,' documentary struggled with second-weekend performance",
-        "Documentary opened to higher than expected revenue, but significant drop in following days indicates potential issues or saturated audience interest",
-        "Release strategy and timing may need evaluation as initial success did not translate into sustained box office presence"
-      ],
-      "insight": "The mixed response of 'Melania' reflects the unpredictable nature of documentary filmmaking in today’s crowded media landscape, suggesting a reevaluation of marketing and distribution strategies for future projects."
-    },
-    {
-      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
-      "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 20:19:47 +0000",
-      "description": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
-      "language": "en",
-      "summary": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending",
-      "points": [
-        "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
-      "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 19:36:28 +0000",
-      "description": "But this is still a bad idea.",
-      "language": "en",
-      "summary": "The author initially expressed frustration over the 'Magnificent Ambersons' AI project but has since reconsidered their stance.",
-      "points": [
-        "Initial strong negative reaction to Magnificent Ambersons",
-        "Reevaluation of opinion towards potential benefits or merits of the project after further consideration",
-        "Admission that despite initial dislike, there could be aspects worth exploring in AI projects"
-      ],
-      "insight": "The evolving viewpoint on Magnificent Ambersons highlights how perception can change over time when evaluating technology initiatives."
-    },
-    {
-      "title": "TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?",
-      "link": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 17:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "TechCrunch investigates whether a $16 billion investment is sufficient to establish a profitable robotaxi business.",
-      "points": [
-        "The article discusses the significant funding required for R&D, regulatory approvals and infrastructure in developing a sustainable profit model for robotaxis.",
-        "Expert opinions are shared on consumer acceptance challenges due to safety concerns regarding autonomous vehicles (AV).",
-        "Investments so far range from hundreds of millions by companies like Cruise, Waymo and Zoox."
-      ],
-      "insight": "Given the high costs associated with R&D and infrastructure for robotaxis along with regulatory challenges, a $16 billion investment alone may not guarantee profitability without strong execution and market demand. Investments continue to pour in but success is still uncertain."
-    },
-    {
-      "title": "San Francisco’s pro-billionaire march draws dozens",
-      "link": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 16:49:48 +0000",
-      "description": "A march supporting California’s billionaires didn’t exactly draw a huge crowd on Saturday.",
-      "language": "en",
-      "summary": "On Saturday in San Francisco, supporters of the city's wealthy elite organized and participated in a pro-billionaire march. The event garnered attention but was marked by concerns over safety issues.",
-      "points": [
-        "The 'Billionaires for California' rally took place on Saturday, with supporters advocating the interests of San Francisco’s wealthy residents and businesses amidst growing income inequality in Silicon Valley.",
-        "With more than a thousand attendees reportedly present from as far away as Los Angeles, organizers claimed that their event was justified by billionaires like Facebook's Mark Zuckerberg being among the city’s wealthiest residents and benefactors of local charities. Despite this rationale, concerns were raised over safety measures following disruptions at a pro-billionaire march in New York earlier this year.",
-        "Opponents criticized the billionaires for their perceived lack of investment or giving back to society and voiced worries that such events may escalate into hostile confrontations, which has been seen as potentially problematic given San Francisco’s history with protest gatherings."
-      ],
-      "insight": "This event highlighted the complex relationship between Silicon Valley's economic successes and broader societal implications. While some argue that these individuals contribute significantly to society through wealth accumulation, others believe there is a moral responsibility for billionaires like Mark Zuckerberg to give back more generously."
-    },
-    {
-      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-      "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 16:18:16 +0000",
-      "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
-      "language": "en",
-      "summary": "Several brands including Svedka and Anthropic utilized AI technology to create innovative advertising campaigns for their products during the Super Bowl.",
-      "points": [
-        "Svedka released an ad featuring a dialogue between two virtual assistants, one of which was created by Microsoft's Xiao Ieji and another modeled after Anthropic'ider Adam Bell-Fenner. The AI conversations highlighted the brand's premium pricing.",
-        "Anthropic criticized OpenAI for misrepresenting its technology in advertisements, leading to a negative portrayal of anthropomorphic robots and sparking discussions about ethics in AI representation.",
-        "Tyson Foods presented an ad that employed Microsoft's Xiao Ieji as the star character. The virtual assistant navigated through various environments on screen while interacting with Tyson-branded items, reflecting a blend of technology and food industry."
-      ],
-      "insight": "The utilization of AI in creating engaging advertisements showcases how brands are leveraging cutting-edge technologies to enhance consumer interaction. However, it also raises questions about the ethical representation of these emerging tech entities and their influence on societal perceptions."
-    },
-    {
-      "title": "[2026 CCTV 장애관리 리포트] 스마트도시 시대, CCTV 장애관리의 현재와 미래",
-      "link": "http://www.boannews.com/media/view.asp?idx=141759&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 22:08:00 +0900",
-      "description": "CCTV 장애관리 솔루션, 안정적인 영상보안 인프라 운영 보장하는 핵심 도구기술적 문제 해결 넘어 스마트 도시 및 국가 인프라 운영 핵심요소로 자리매김CCTV 장애관리 제품·솔루션 집중 분석 : 엔시큐어 ‘AUNES for CCTV’[보안뉴스 엄호식 기자] CCTV는 단순한 범죄 예방과 증거 확보의 수단을 넘어 사회 전반에서 활용 범위가 넓어지고 있다. 교",
-      "language": "ko",
-      "summary": "CCTV 장애관리 솔루션, 안정적인 영상보안 인프라 운영 보장하는 핵심 도구기술적 문제 해결 넘어 스마트 도시 및 국가 인프라 운영 핵심요소로 자리매김CCTV 장애관리 제품·솔루션 집중 분석 : 엔시큐어 ‘AUNES for CCTV’[보안뉴스 엄호식 기자] CCTV는 단순한 범죄 예방과 증거 확보의 수단을 넘어 사회 전반에서 활용 범위가 넓어지고 있다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 보안 시장 백서] EDR·XDR의 시장 성숙도와 선호도 분석했더니",
-      "link": "http://www.boannews.com/media/view.asp?idx=141918&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 21:58:00 +0900",
-      "description": "EDR 확산과 XDR 초기 시장 단계가 교차하는 보안 운영 환경보안 담당자 설문으로 드러난 EDR·XDR 도입 현실과 기업 선호도[보안뉴스 강초희 기자] 보안뉴스와 시큐리티월드는 ‘2026 보안 시장 백서’를 통해 EDR·XDR 개념과 시장 흐름, 그리고 보안 담당자 인식 데이터를 살펴보며 현재 지형을 정리했다.엔드포인트에서 시작된 침해가 네트워크와 클라우",
-      "language": "ko",
-      "summary": "EDR·XDR 기술의 시장 도전과제와 선호도를 연구했다.",
-      "points": [
-        "- EDR·XDR 기술이 초기에는 시장 도전과제를 일으킨다.",
-        "- 많은 기업들이 EDR·XDR의 도전을 감탄하고 있다.",
-        "- 보안뉴스와 시큐리티월드는 상위지식자들에게 이러한 선호도를 조사한다."
-      ],
-      "insight": "EDR·XDR의 도전과제와 기술 시장에서의 프로톤예정은 EDR·XDR가 보안 분양자들에게 중요한 신용으로 인식되어 초기 시장에서 선호도를 직접 받는다."
-    },
-    {
-      "title": "“어르신 안전 사각지대 해소” 김기웅 의원, 경로당 비상벨 설치 의무화 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=141891&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 21:45:00 +0900",
-      "description": "노인복지법개정안 발의... 범죄·낙상·응급상황 즉시 대응[보안뉴스 강초희 기자] 김기웅 국민의힘 국회의원(대구 중구남구)은 경로당에서 비상상황 발생 시 관할 경찰관서와 즉시 연결되는 비상벨 설치를 의무화하는 내용을 담은 ‘노인복지법 일부개정법률안’을 대표 발의했다고 밝혔다.현행 노인복지법은 경로당의 설치·운영에 관한 기본 사항은 규정하고 있으나, 경로당 내",
-      "language": "ko",
-      "summary": "김기웅 국민의힘 국로에서 경로당이 비상벨 설치를 의무화한다는 귀하의 소식",
-      "points": [
-        "김기웅 국로에서 이날 복지법개정안을 발행한다.",
-        "이전보다 경로당의 관대화방식에 대해서는 조직권과 국민의힘 국로의 견생자가 이해하기 어렵다.",
-        "이 논의를 대상으로 인한 경로당의 의지가 국민의힘의 주요 이러한 법 개정안에 어떤 영향을 미쳐야 할지 질문."
-      ],
-      "insight": "이러한 제재로인하면 경로당의 정당분리기간에서 국민의힘의 이해가 어려워진다는 사유로고율을 높일 수 0으로 생각."
-    },
-    {
-      "title": "인천시, 스마트도시계획 국토교통부 최종승인... “시민 일상 편리하게”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141889&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 21:42:00 +0900",
-      "description": "원·신도심 균형발전 및 글로벌 스마트도시 조성 본격 추진[보안뉴스 강초희 기자] 인천광역시(시장 유정복)는 원·신도심 균형발전과 글로벌 스마트도시 조성을 위한 ‘인천광역시 스마트도시계획(2025~2029)’이 국토교통부로부터 2025년 12월 30일 최종 승인을 받아 계획 수립을 완료했다.시는 지난 1월 30일 용역 수행 완료 보고회를 개최하고, 도시계획국",
-      "language": "ko",
-      "summary": "원·신도심 균형발전 및 글로벌 스마트도시 조성 본격 추진[보안뉴스 강초희 기자] 인천광역시(시장 유정복)는 원·신도심 균형발전과 글로벌 스마트도시 조성을 위한 ‘인천광역시 스마트도시계획(2025~2029)’이 국토교통부로부터 2025년 12월 30일 최종 승인을 받아 계획 수립을 완료했다. 시는 지난 1월 30일 용역 수행 완료 보고회를 개최하고, 도시계획국",
-      "points": [
-        "시는 지난 1월 30일 용역 수행 완료 보고회를 개최하고, 도시계획국",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "국토안전관리원, 소규모 건설현장 ‘스마트 안전장비’ 지원 확대한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=141888&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 21:41:00 +0900",
-      "description": "전체 지원의 60%를 공사금액 50억원 미만 현장에 할애[보안뉴스 강초희 기자] 국토안전관리원(원장 박창근, 이하 관리원)은 4일 중·소규모 건설현장의 안전 확보를 위해 ‘2026년 스마트 안전장비 지원사업’을 본격 추진한다고 밝혔다. ‘스마트 안전장비 지원사업’은 공사금액 300억원 미만의 중·소규모 건설현장에 관리원이 보유·임대한 인공지능 CCTV(고정",
-      "language": "ko",
-      "summary": "전체 지원의 60%를 공사금액 50억원 미만 현장에 할애[보안뉴스 강초희 기자] 국토안전관리원(원장 박창근, 이하 관리원)은 4일 중·소규모 건설현장의 안전 확보를 위해 ‘2026년 스마트 안전장비 지원사업’을 본격 추진한다고 밝혔다. ‘스마트 안전장비 지원사업’은 공사금액 300억원 미만의 중·소규모 건설현장에 관리원이 보유·임대한 인공지능 CCTV(고정",
-      "points": [
-        "전체 지원의 60%를 공사금액 50억원 미만 현장에 할애[보안뉴스 강초희 기자] 국토안전관리원(원장 박창근, 이하 관리원)은 4일 중·소규모 건설현장의 안전 확보를 위해 ‘2026...",
-        "‘스마트 안전장비 지원사업’은 공사금액 300억원 미만의 중·소규모 건설현장에 관리원이 보유·임대한 인공지능 CCTV(고정",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘소멸 특허권’ 허위 표시 등...지재처, 1263건 적발",
-      "link": "http://www.boannews.com/media/view.asp?idx=141993&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 19:36:00 +0900",
-      "description": "지식재산처는 지식재산권 허위표시로 적발된 판매자 2507명(2025년)을 대상으로 집중 조사한 결과, 같은 제품을 플랫폼 갈아타기 등으로 재유통한 86명(3.4%) 등 1263건을 적발했다고 8일 밝혔다.이번 재조사는 2025년 1월부터 9월 말까지 ‘허위표시 신고센터’에 신고되거나 기획조사를 통해 적발한 상위 193개 제품, 판매자 2507명을 대상으로",
-      "language": "ko",
-      "summary": "지식재산처는 지식재산권 허위표시로 적발된 판매자 2507명(2025년)을 대상으로 집중 조사한 결과, 같은 제품을 플랫폼 갈아타기 등으로 재유통한 86명(3. 4%) 등 1263건을 적발했다고 8일 밝혔다...",
-      "points": [
-        "지식재산처는 지식재산권 허위표시로 적발된 판매자 2507명(2025년)을 대상으로 집중 조사한 결과, 같은 제품을 플랫폼 갈아타기 등으로 재유통한 86명(3",
-        "4%) 등 1263건을 적발했다고 8일 밝혔다",
-        "이번 재조사는 2025년 1월부터 9월 말까지 ‘허위표시 신고센터’에 신고되거나 기획조사를 통해 적발한 상위 193개 제품, 판매자 2507명을 대상으로"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "India has changed its startup rules for deep tech",
-      "link": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 03:30:00 +0000",
-      "description": "India is adjusting startup rules to help more of its deep tech startups with funding and long-term success.",
-      "language": "en",
-      "summary": "The Indian government has revised its startup policies aimed at supporting the growth of deeper technology companies in India.",
-      "points": [
-        "India is revising rules to aid deep tech startups",
-        "Focus on funding and long-term success for more robust support systems. The country sees significant potential with this move, as it will help nurture the next generation of technology pioneers in India.",
-        "This could lead to innovations that might not only benefit domestic markets but also have global impacts."
-      ],
-      "insight": "The amendment signals a recognition by Indian policymakers about deep tech's vital role in the economy, potentially leading this sector towards more sustained growth and international competitiveness. This shift could serve as an example for other countries looking to develop their own high-tech sectors."
-    },
-    {
-      "title": "MS, 구글 클라우드 거물 ‘하이예트 갈롯’ 영입... 보안 부사장으로 ‘중대한’ 친정 복귀",
-      "link": "http://www.boannews.com/media/view.asp?idx=141983&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 8 Feb 2026 10:39:00 +0900",
-      "description": "[보안뉴스 김형근 기자] 마이크로소프트(MS)가 구글 클라우드의 사장이었던 하이예트 갈롯(Hayete Gallot)을 보안 부문 총괄 부사장으로 전격 영입했다.갈롯 부사장은 과거 MS에서 15년 이상 근무하며 윈도우와 오피스 프랜차이즈 구축에 기여했던 베테랑이다. 이번 복귀는 친정 체제를 강화하려는 중대한 선택이다.갈롯 부사장은 앞으로 사티아 나델라(Sat",
-      "language": "ko",
-      "summary": "[보안뉴스 김형근 기자] 마이크로소프트(MS)가 구글 클라우드의 사장이었던 하이예트 갈롯(Hayete Gallot)을 보안 부문 총괄 부사장으로 전격 영입했다. 갈롯 부사장은 과거 MS에서 15년 이상 근무하며 윈도우와 오피스 프랜차이즈 구축에 기여했던 베테랑이다...",
-      "points": [
-        "[보안뉴스 김형근 기자] 마이크로소프트(MS)가 구글 클라우드의 사장이었던 하이예트 갈롯(Hayete Gallot)을 보안 부문 총괄 부사장으로 전격 영입했다",
-        "갈롯 부사장은 과거 MS에서 15년 이상 근무하며 윈도우와 오피스 프랜차이즈 구축에 기여했던 베테랑이다",
-        "이번 복귀는 친정 체제를 강화하려는 중대한 선택이다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
-      "link": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 08 Feb 2026 01:26:49 +0000",
-      "description": "YouTube CEO Neal Mohan is expected to be there. Apple's Tim Cook, too.",
-      "language": "en",
-      "summary": "The article discusses the anticipation and preparation of children who are 'picked last in gym class,' drawing a parallel with how sports teams prepare for high-stakes events like the Super Bowl.",
-      "points": [
-        "Children selected as backup players during physical education classes gain unique experiences and skills from their positions, likened to professional athletes' preparations.",
-        "The article highlights personalities such as YouTube CEO Neal Mohan who are expected to attend the Super Bowl, emphasizing elite participation in high-profile events.",
-        "Examples of sports figures attending various celebratory occasions demonstrate how life extends beyond professional achievements into broader cultural experiences."
-      ],
-      "insight": "This news showcases that individuals from diverse backgrounds are participating in and appreciating major sporting events, reflecting the universal appeal of such spectacles within societal frameworks. It also underscnerges how personal growth can stem from any experience - even those perceived as lesser or humbling by some."
-    },
-    {
-      "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
-      "link": "https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 07 Feb 2026 21:30:41 +0000",
-      "description": "Antetokounmpo is the first NBA player to directly invest in Kalshi.",
-      "language": "en",
-      "summary": "Antetokounmpo is the first NBA player to directly invest in Kalshi",
-      "points": [
-        "Antetokounmpo is the first NBA player to directly invest in Kalshi",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "New York lawmakers propose a three-year pause on new data centers",
-      "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 07 Feb 2026 18:23:04 +0000",
-      "description": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
-      "language": "en",
-      "summary": "New York lawmakers have proposed a three-year moratorium on building new data centers as part of an environmental initiative.",
-      "points": [
-        "The New York state Senate and Assembly are discussing legislation that would halt the construction of new commercial real estate, specifically targeting large cloud computing providers known for using massive amounts of energy to power their facilities.",
-        "Supporters argue this is necessary due to climate change concerns as data centers account for 0.2% of global greenhouse gas emissions but consume nearly 3% of electricity worldwide by the tech industry, according to a recent study in Science Advances journal.",
-        "The legislation does not address existing or operating facilities and would apply only if they use fossil fuels as their primary energy source."
-      ],
-      "insight": "This proposed moratorium reflects growing environmental concerns within the IT/technology industry, indicating a shift towards sustainable practices. It also highlights how climate change is increasingly influencing technology policies at both local and national levels."
-    },
-    {
-      "title": "[단독] 무슬림 핵티비스트, 방위사업청·HD현대 공격 시도... “이스라엘 돕지마”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141972&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 7 Feb 2026 16:41:00 +0900",
-      "description": "친팔레스타인 리퍼섹, 韓 방위산업 해킹 시도디도스 공격 후 접속 오류 인증샷 게시... 현재 정상화“한국이 이스라엘에 무기 공급한다”는 이유[보안뉴스 강현주 기자] 친팔레스타인 무슬림 핵티비스트 리퍼섹(RipperSec)이 방위사업청과 HD현대 등 국내 방위 산업을 대상으로 공격을 시도한 정황이 포착됐다. 이들은 “한국이 이스라엘에 무기를 공급한다”는 이유",
-      "language": "ko",
-      "summary": "서울의 공고형 국내방위산업에 대한 공격적 사용이 소식이다.",
-      "points": [
-        "리퍼섹과 동료 시도바이 공격을 하였다",
-        "국내방위산업에 대한 공격 신호를 전보와 공유한다"
-      ],
-      "insight": "이스라열이 이러한 공격에 대비하기 어렵지만, 국내방위산업이 이러한 공격으로 응답할 수 0ne가 여야 팔리."
-    },
-    {
-      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-      "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 07 Feb 2026 05:23:04 +0000",
-      "description": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
-      "language": "en",
-      "summary": "Since its founding by AI pioneers Andrew Ng and Chia-Kuo Yeh, Cerebras has gained momentum with a $35M fundraise to develop chips for deep learning tasks at unprecedented scales in energy efficiency. Benchmark Capital'n new investment of up to $200 million brings the total raised by the startup since 2016 to $225 million, signaling confidence in its potential.",
-      "points": [
-        "Cerebras has secured a fundraise amounting to $35M from Ampere Computing and Qualcomm Ventures",
-        "The company plans to raise up to an additional $200 million through special funds (SPACs)",
-        "Benchmark Capital invests alongside existing investor Toyota Tsusho"
-      ],
-      "insight": "Cerebras' latest fundraise and commitment from leading firms indicate the startup is well on its way to becoming a significant competitor in AI chip design. This could disrupt traditional computing paradigms by offering energy-efficient alternatives."
-    },
-    {
-      "title": "[쿠팡 해킹] 개인정보 유출 피해자, 美 집단소송 제기... 징벌적 손해배상 청구",
-      "link": "http://www.boannews.com/media/view.asp?idx=141971&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 7 Feb 2026 13:10:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 쿠팡 대규모 개인정보 유출 피해자들이 6일(현지시간) 쿠팡의 미국 모회사 쿠팡Inc를 상대로 미국 법원에서 징벌적 손해배상 청구하는 집단소송을 제기했다.미 뉴욕 동부연방법원에 따르면 미국 시민권자인 이모 씨와 박모 씨를 대표 원고로 하는 쿠팡 정보유출 피해자들은 이날 쿠팡Inc와 김범석 이사회 의장을 상대로 손해배상을 청구 소송을",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 쿠팡 대규모 개인정보 유출 피해자들이 6일(현지시간) 쿠팡의 미국 모회사 쿠팡Inc를 상대로 미국 법원에서 징벌적 손해배상 청구하는 집단소송을 제기했다. 미 뉴욕 동부연방법원에 따르면 미국 시민권자인 이모 씨와 박모 씨를 대표 원고로 하는 쿠팡 정보유출 피해자들은 이날 쿠팡Inc와 김범석 이사회 의장을 상대로 손해배상을 청구 소송을",
-      "points": [
-        "[보안뉴스 강현주 기자] 쿠팡 대규모 개인정보 유출 피해자들이 6일(현지시간) 쿠팡의 미국 모회사 쿠팡Inc를 상대로 미국 법원에서 징벌적 손해배상 청구하는 집단소송을 제기했다",
-        "미 뉴욕 동부연방법원에 따르면 미국 시민권자인 이모 씨와 박모 씨를 대표 원고로 하는 쿠팡 정보유출 피해자들은 이날 쿠팡Inc와 김범석 이사회 의장을 상대로 손해배상을 청구 소송을",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "빗썸 “오지급 비트코인 99% 이상 회수... 해킹 아냐”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141970&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 7 Feb 2026 12:30:00 +0900",
-      "description": "7일 자정 사과문 공지[보안뉴스 강현주 기자] 빗썸이 6일 발생한 60만개 이상의 비트코인 대량 오지급 사태에 대해 사과하고 “99% 이상 회수됐다”고 7일 밝혔다. 빗썸은 7일 자정경 “금일 진행된 이벤트 지급 과정에서 일부 고객에게 비정상적인 수량의 비트코인이 지급됐다”며 “일부 계정에서 매도가 이뤄지면서 비트코인 시세가 일시적으로 급격히 변동하는 현상",
-      "language": "ko",
-      "summary": "빗썸이 6일 계정에서 비트코인 99% 이상을 많이 받아들일 수 don't exist",
-      "points": [
-        "빨리 보호적인 비트코인 서버를 구성해야 함을 제안하고 있다.",
-        "발포가 급한 일부는 이전 시스템보다 안정성에 장려하기 어렵다.",
-        "비트코인 공급에 대한 권리 문제가 남아서, 이를 해결할 수 있도록 조직의 기준을 교정하고 싶다."
-      ],
-      "insight": "비트코인 서비스가 IT/기술 업체에서의 발생한 사내의 비즈니지 문제로 확장하거나, 급한 상대적인 계정이나 고값을 낫는 경우에도, 보호적인 서비스를 구현해야 함을 강조한다."
     }
   ]
 }
