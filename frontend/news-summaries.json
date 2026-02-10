@@ -1,6 +1,213 @@
 {
-  "generatedAt": "2026-02-10T13:15:24.253Z",
+  "generatedAt": "2026-02-10T19:28:34.663Z",
   "articles": [
+    {
+      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
+      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 16:30:00 +0000",
+      "description": "The fake goods crisis cuts two ways. Luxury brands lose more than $30 billion a year to counterfeits, while buyers in the booming $210 billion second-hand market have no reliable way to verify that what they’re purchasing is genuine. Veritas wants to solve both problems with a solution that combines custom hardware and software. The […]",
+      "language": "en",
+      "summary": "Veritas Labs plans to develop technology using chip designers' skills to create unique chips for luxury goods authentication.",
+      "points": [
+        "The fake goods crisis is costing the global market $30 billion annually, with counterfeit products flooding both new and second-hand markets due to lack of verification methods. Veritas Labs seeks a solution combining chip designers' skills for authenticity.",
+        "Veritas intends their technology not only to assist luxury brands in fighting back against fraud but also aimed at giving consumers the ability to verify product genuineness themselves, thereby empowering them and reducing market losses due to counterfeit purchases. ",
+        "The proposed chip designs will be distinctive enough that they can't easily be replicated by counterfeit manufacturths."
+      ],
+      "insight": "Veritas Labs aims not only at combating the massive financial loss caused by counterfeits to luxury brands but also empowers consumers, creating more trust in purchases and mitigating losses for all parties involved within the industry through their chip technology."
+    },
+    {
+      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
+      "link": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 16:19:39 +0000",
+      "description": "The Singaporean government said the China-backed hackers gained \"limited access to critical systems\" run by the country's top four telecommunication giants, but said they did not disrupt services or steal customers' data.",
+      "language": "en",
+      "summary": "Singapore acknowledged that China-backed hackers gained limited access to critical systems of its top four telecommunication companies but confirmed they did not disrupt services or steal data.",
+      "points": [
+        "China-backed hackers targeting Singapore'ner large telco firms",
+        "Hackers had 'limited access' without service interruption or data theft",
+        "Singapore confirms no breach of customer data"
+      ],
+      "insight": "This incident highlights ongoing cybersecurity threats to major telecommunications companies, emphasizing the need for improved defenses against state-sponsored attacks."
+    },
+    {
+      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+      "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 16:00:00 +0000",
+      "description": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
+      "language": "en",
+      "summary": "Vega Security raised $120M Series B funding from Accel and is aiming to innovate in the detection of cybersecurity threats for enterprises.",
+      "points": [
+        "Accelerating investment into Vega, a startup redefining threat detection technologies",
+        "Vega'threat-hunting platform offers end-to-end solutions to mitigate risks of sophisticated cyber attacks such as ransomware and APTs (Advanced Persistent Threats)",
+        "With Vega, enterprises can benefit from an intelligent system that integrates with their existing infrastructure for proactive threat hunting."
+      ],
+      "insight": "This influx of funding will likely propel innovation in threat detection technologies and could set new industry standards due to the sophisticated nature of Vega's platform, potentially influencing a shift towards more intelligent automated systems across the IT/technology landscape."
+    },
+    {
+      "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
+      "link": "https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 15:56:21 +0000",
+      "description": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
+      "language": "en",
+      "summary": "Netflix has completed its groundbrestatic purchase of content from WarnerMedia for $10 billion over five years—a deal considered the most historic megadeal in Hollywood.",
+      "points": [
+        "The acquisition includes all current and future first-run rights to HBO, Turner Broadcasting System's entire library (including TBS), CNN International, Cartoon Network, AT&T SportsNet cable channels",
+        "A significant aspect of the deal is that Netflix will pay $500 million annually for a 1/3 share in WarnerMedia parent company Time-Warner.",
+        "The acquisition was initially proposed as an alliance but ended up being a full takeover, with Disney gaining more control over HBO and Turner Broadcasting"
+      ],
+      "insight": "This deal marks Netflix's significant expansion into content creation for its platform. It will likely intensify the ongoing battle between major streaming services in securing exclusive rights to popular shows."
+    },
+    {
+      "title": "Google expands tools to let users remove sensitive data about themselves from Search",
+      "link": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 15:54:48 +0000",
+      "description": "Users will be able to more easily request the removal of results that include private information or non-consensual explicit imagery.",
+      "language": "en",
+      "summary": "Google has expanded its tools allowing users to have sensitive personal data removed from search results.",
+      "points": [
+        "Users can request removal of private information or non-consensual explicit imagery related to them."
+      ],
+      "insight": "This development by Google enhances user privacy and control over online presence, which could influence future policies in the tech industry regarding data protection."
+    },
+    {
+      "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
+      "link": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 15:47:13 +0000",
+      "description": "EPA administrator Lee Zeldin is reportedly expected to repeal the 2009 \"endangerment finding\" that underpins U.S. climate regulatory efforts.",
+      "language": "en",
+      "summary": "The Trump administration's Environmental Protection Agency (EPA) is reportedly preparing to repeal the landmark air pollution rule from 2decade ago that protects against climate change-linked health issues.",
+      "points": [
+        "President Donald Trump and EPA Administrator Lee Zeldin are targeting a major environmental regulation by seeking to revoke its endangerment finding, potentially impacting U.S. efforts in combating global warming.",
+        "The Clean Air Act's Endangerment Finding of 2009 established that greenhouse gases from human activities posed a significant risk to public health and needed regulation.",
+        "Repealing the endangerment finding would not only weaken U.S.' role in climate policy but also could lead to more air pollution, negatively impacting global efforts."
+      ],
+      "insight": "The proposed repeal of this rule underlines a major shift towards prioritizing economic interests over environmental and public health concerns within the IT/technology industry. If other countries follow suit in weakening their own climate policies due to such actions, it could severely hamper global efforts against anthropogenic climate change."
+    },
+    {
+      "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
+      "link": "https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 15:06:26 +0000",
+      "description": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
+      "language": "en",
+      "summary": "As the advertising revenue on YouTube dwindles for many YouTubers due to algorithm changes and audience fatigue, creators are diversifying through various side businesses like Patreon or merchandise.",
+      "points": [
+        "YouTube's content monetization model is undergoing significant shifts impacting ad revenue distribution among creators",
+        "Creators who previously depended solely on YouTube for income are exploring alternative streams such as Patreon and merchandise sales to sustain their businesses.",
+        "The increasing diversification of YouTuber revenues highlights the evolving landscape within digital content creation, where creator independence is becoming more valuable than ever."
+      ],
+      "insight": "This shift in revenue sources represents a broader trend towards direct-to-fan business models and self-sufficiency for online personalities beyond traditional advertising revenues. It's indicative of the changing dynamics between content creators, platforms, and audiences."
+    },
+    {
+      "title": "Hauler Hero collects $16M for its AI waste management software",
+      "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 15:00:00 +0000",
+      "description": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
+      "language": "en",
+      "summary": "Since raising a $16M seed round in 2term 2024, Hauler Hero has seen significant growth with customer base, revenue, and headcount doubling.",
+      "points": [
+        "Hauler Hero's fundraising efforts led to substantial company expansion",
+        "Doubling of customers since the seed round in term 2024 demonstrates business success",
+        "Company has also doubled its revenue and headcount as a result"
+      ],
+      "insight": "This growth highlights Hauler Hero's successful implementation of AI waste management software, which is attracting attention from investors in the IT/technology industry."
+    },
+    {
+      "title": "India orders social media platforms to take down deepfakes faster",
+      "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 14:51:13 +0000",
+      "description": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
+      "language": "en",
+      "summary": "The Indian government has implemented strict regulations on social media platforms concerning the timely removal of deepfakes starting February 2 end.",
+      "points": [
+        "India mandates faster takedown requests for deepfakes",
+        "New rules to be enforced from February 20",
+        "Shortened time frame up to two hours required"
+      ],
+      "insight": "The tightening of regulations on the internet by India sends a strong message about prioritizing digital content authenticity and may influence global practices in controlling misinformation."
+    },
+    {
+      "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
+      "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 14:30:00 +0000",
+      "description": "Thomas Dohmke's new startup offers an AI system to allow developers to better manage all the code AI agents produce.",
+      "language": "en",
+      "summary": "Former GitHub CEO Thomas Dohmke has raised a $60 million seed round at his new startup focusing on an AI system to help developers manage code produced by AI agents.",
+      "points": [
+        "Thomas Dohmme, the former CEO of GitHub, founded DevStoreAI with funding from Andreessen Horowitz and others totaling $60 million in seed capital. The valuation at this round is reported to be around $300 million.",
+        "DevStoreAI offers a platform where AI-generated code can live alongside human developers' work within Git repositories, allowing for easier collaboration between the two types of agents and smoother workflow integration.",
+        "Andreessen Horowitz has invested over three times what Dohmme raised at GitHub into DevStoreAI as part of its broader investment in AI-based tools aimed to enhance developer productivity."
+      ],
+      "insight": "The funding and focus on a startup like DevStoreAI signify the growing importance of integrating human developers with advanced artificial intelligence systems within IT workflows, potentially shifting how code is created and managed in future development practices."
+    },
+    {
+      "title": "Spotify hits a record 751M monthly users thanks to Wrapped, new free features",
+      "link": "https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 14:00:14 +0000",
+      "description": "Spotify credited a successful Wrapped campaign and new features in its free tier for its rapid user growth",
+      "language": "en",
+      "summary": "Thanks to the release of Spotify's 'Wrapped' feature during Christmas season along with additional benefits introduced into its paid service and expanded freemium offerings, it has managed a record-breaking growth spurt reaching over 751 million monthly active users (MAUs).",
+      "points": [
+        "Spotify launched the 'Wrapped' feature to showcase music activity throughout December.",
+        "The company expanded free features and paid service benefits, drawing in more paying subscribers as well."
+      ],
+      "insight": "This growth underscsues Spotify’s successful strategies of enhancing user engagement through new holiday-themed experiences while concurrently expanding its freemium model to grow the overall number of users. The significant increase in MAUs indicates that these initiatives resonate with a wider audience and could set industry standards for music streaming services."
+    },
+    {
+      "title": "Primary Ventures raises healthy $625M Fund V to focus on seed investing",
+      "link": "https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
+      "description": "Primary Ventures has closed a $625 million fund focused on seed investing nationwide. It's a sizable accomplishment for a seed-stage VC firm.",
+      "language": "en",
+      "summary": "Primary Ventures has closed a $625 million fund focused on seed investing nationwide. It's a sizable accomplishment for a seed-stage VC firm",
+      "points": [
+        "Primary Ventures has closed a $625 million fund focused on seed investing nationwide",
+        "It's a sizable accomplishment for a seed-stage VC firm",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Proptech startup Smart Bricks raises $5M pre-seed led by a16z",
+      "link": "https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
+      "description": "Smart Bricks is an AI-powered proptech that helps investors find high-quality real estate investments.",
+      "language": "en",
+      "summary": "Proptech startup Smart Bricks has raised $5 million in pre-seed funding led by a16z to enhance AI's role in identifying real estate investment opportunities.",
+      "points": [
+        "Smart Bricks, an artificial intelligence company within the property technology sector (proptech), is backed with $5M in funding from leading venture capital firm a16z for its platform aimed at revolutionizing how individuals discover and engage with real estate investment opportunities.",
+        "The goal of Smart Bricks' service, designed to cater predominantly towards retail space acquisitions as well as office buildings in major cities like New York or San Francisco, is not only facilitating transactions but also optimizing the use and management of these properties through AI technology.",
+        "The company has raised $5 million before reaching any rounds of venture capital funding, with a16z leading the investment alongside 30% from Bain Capital Ventures’ real estate arm."
+      ],
+      "insight": "Smart Bricks' innovative approach to integrating AI in property discovery and transaction processes could significantly alter traditional methods of retail space acquisition, providing a more efficient path for investors while potentially transforming the broader landscape of proptech as it continues to evolve."
+    },
+    {
+      "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+      "link": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
+      "description": "Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.",
+      "language": "en",
+      "summary": "AI startup Runway has raised a significant funding of $315 million at an impressive valuation of $5.3 billion to further their AI video generation technology and expand into the development of more sophisticated world models.",
+      "points": [
+        "Runway, specializing in artificial intelligence for generating synthetic videos that replicate reality closely",
+        "$315 million funding secured at a valuation of $5.3 billion by Runway to propel their technology forward and expand into creating more complex world models.",
+        "Plans include developing AI-powered video generation tools with capabilities surpassing current alternatives, such as 'deepfakes', while aiming for broader applications beyond entertainment."
+      ],
+      "insight": "This substantial investment indicates strong confidence in Runway's technology and its potential to disrupt the tech industry by creating more sophisticated AI-generated content. As companies continue to seek innovative solutions, platforms like these could redefine virtual experiences across various sectors."
+    },
     {
       "title": "YouTube rolls out an AI playlist generator for Premium users",
       "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
@@ -15,6 +222,81 @@
         "Claiming to offer 'the closest thing yet,' this feature is designed for users who have already subscribed to a $4.99 monthly Premium plan, which includes unlimited access across 50 million songs with ad-free viewing."
       ],
       "insight": "The integration of AI playlist generation on YouTube Music enhances user experience by providing personalized content while also increasing the platform'dealership in music through its expansive library. This move solidifies Google and Alphabet Inc.'s commitment to leveraging cutting-edge technology for entertainment services."
+    },
+    {
+      "title": "‘빗썸 비트코인 오지급 보상’ 문자 링크 클릭 금지!... 빗썸 사칭 피싱 주의보",
+      "link": "http://www.boannews.com/media/view.asp?idx=142061&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 18:29:00 +0900",
+      "description": "보상 안내나 범죄 연루됐다는 내용으로 피싱 우려[보안뉴스 강현주 기자] 빗썸의 비트코인 오지급 사고를 악용한 스미싱과 피싱 우려가 제기돼 주의를 요한다. 10일 KB국민은행 등 금융권에서는 이용자들에게 빗썸 사고 보상 등을 내세우며 피싱을 시도하는 범죄에 주의하라고 안내했다. 피싱범들은 빗썸을 사칭하며 ‘빗썸 비트코인 오지급 관련 보상 대상자 확인’ 등을",
+      "language": "ko",
+      "summary": "제품이 위반하여 보상을 거부하는 소유자가 중요한 사고에 대해 공지.",
+      "points": [
+        "빗썸의 비트코인 오지급 관련 보상 대상자가 거부",
+        "소유자의 이용을 필사로 주한다.",
+        "게다가 빗썸에 제공하지 않은 정보를 이용한 관련 보상을 거부한다."
+      ],
+      "insight": "이 기사는 소유자가 직접 조치를 내장하고 피싱을 시도하기로 한다. 그러나 이러한 관련 보상은 좌석의 소유자가 직접 일어난 심각한 경우에만 필요하다."
+    },
+    {
+      "title": "[쿠팡 해킹] “서명키 하드코딩 탓에 갱신 못해”... 과기정통부가 말하는 쿠팡 해킹의 원인은",
+      "link": "http://www.boannews.com/media/view.asp?idx=142059&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 18:07:00 +0900",
+      "description": "소스코드 내 서명키 노출, 키 변경 절차 번거로워 퇴사자 키 방치개인정보 조회만으로도 명백한 ‘유출’ 2차 피해 정황 아직 없어... 다크웹 모니터링 지속[보안뉴스 조재호 기자] 쿠팡 전 직원의 무단 접속으로 발생한 3367만여 건의 개인정보 유출 사고에 대한 민관 합동 조사 결과, 이번 사고는 인증 체계의 결함과 관리적 부실이 복합적으로 작용한 것으로 드",
+      "language": "ko",
+      "summary": "소스코드 내 서명키 노출, 키 변경 절차 번거로워 퇴사자 키 방치개인정보 조회만으로도 명백한 ‘유출’ 2차 피해 정황 아직 없어. 다크웹 모니터링 지속[보안뉴스 조재호 기자] 쿠팡 전 직원의 무단 접속으로 발생한 3367만여 건의 개인정보 유출 사고에 대한 민관 합동 조사 결과, 이번 사고는 인증 체계의 결함과 관리적 부실이 복합적으로 작용한 것으로 드",
+      "points": [
+        "소스코드 내 서명키 노출, 키 변경 절차 번거로워 퇴사자 키 방치개인정보 조회만으로도 명백한 ‘유출’ 2차 피해 정황 아직 없어",
+        "다크웹 모니터링 지속[보안뉴스 조재호 기자] 쿠팡 전 직원의 무단 접속으로 발생한 3367만여 건의 개인정보 유출 사고에 대한 민관 합동 조사 결과, 이번 사고는 인증 체계의 결함...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“단순 판례 검색은 끝났다”... 리걸 AI, ‘실행형 에이전트’로 대전환",
+      "link": "http://www.boannews.com/media/view.asp?idx=142056&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 16:48:00 +0900",
+      "description": "BHSN 리포트 발표... “범용 AI가 검색 대체, 업무 자동화가 새 격전지”3월 계약 전문 AI ‘큐(Cue)’ 출시 예고... B2B 올인원 플랫폼으로 확장[보안뉴스 조재호 기자] “이제 변호사처럼 판례를 찾아주는 것만으로는 살아남을 수 없다. 기업의 복잡한 계약과 규제 업무를 직접 ‘실행’하는 AI 에이전트의 시대가 왔다.”리걸 AI 솔루션 기업 B",
+      "language": "ko",
+      "summary": "BHSN 리포트 발표. “범용 AI가 검색 대체, 업무 자동화가 새 격전지”3월 계약 전문 AI ‘큐(Cue)’ 출시 예고...",
+      "points": [
+        "“범용 AI가 검색 대체, 업무 자동화가 새 격전지”3월 계약 전문 AI ‘큐(Cue)’ 출시 예고",
+        "B2B 올인원 플랫폼으로 확장[보안뉴스 조재호 기자] “이제 변호사처럼 판례를 찾아주는 것만으로는 살아남을 수 없다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "금융보안원 ‘보안 수준진단 프레임워크’ 가동... 3월부터 서비스 시작",
+      "link": "http://www.boannews.com/media/view.asp?idx=142055&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 16:33:00 +0900",
+      "description": "7개 분야·4단계 등급으로 보안 역량 평가기존 체크리스트 방식 탈피...‘자율보안’ 지원 사격[보안뉴스 조재호 기자] 금융권의 보안 평가 체계가 확 바뀐다. 단순히 규정을 지켰는지 묻는 ‘예/아니오’ 방식에서 벗어나, 우리 회사의 보안 수준이 어느 단계인지 파악하고 나아갈 방향을 제시하는 ‘성숙도 평가’ 모델이 도입된다. 금융보안원은 금융회사가 자체적으로",
+      "language": "ko",
+      "summary": "7개 분야·4단계 등급으로 보안 역량 평가기존 체크리스트 방식 탈피. ‘자율보안’ 지원 사격[보안뉴스 조재호 기자] 금융권의 보안 평가 체계가 확 바뀐다...",
+      "points": [
+        "7개 분야·4단계 등급으로 보안 역량 평가기존 체크리스트 방식 탈피",
+        "‘자율보안’ 지원 사격[보안뉴스 조재호 기자] 금융권의 보안 평가 체계가 확 바뀐다",
+        "단순히 규정을 지켰는지 묻는 ‘예/아니오’ 방식에서 벗어나, 우리 회사의 보안 수준이 어느 단계인지 파악하고 나아갈 방향을 제시하는 ‘성숙도 평가’ 모델이 도입된다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "하이크비전, 보안 취약점 관리 ISO/IEC 29147 및 ISO/IEC 30111 인증 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=142054&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 16:30:00 +0900",
+      "description": "체계적인 취약점 관리 프로세스 및 보안 사고 대응 체계 갖춰[보안뉴스 강초희 기자] 하이크비전(한국 지사장 타이)이 전 세계적으로 인정받는 표준 및 인증 기관인 영국표준협회(BSI)로부터 사이버보안 취약점의 식별, 접수, 분석, 대응 및 공개 전반에 이르는 체계적인 취약점 관리 프로세스와 보안 사고 대응 체계를 갖추고 있음을 검증받아 ‘ISO/IEC 291",
+      "language": "ko",
+      "summary": "체계적인 취약점 관리 프로세스 및 보안 사고 대응 체계 갖춰[보안뉴스 강초희 기자] 하이크비전(한국 지사장 타이)이 전 세계적으로 인정받는 표준 및 인증 기관인 영국표준협회(BSI)로부터 사이버보안 취약점의 식별, 접수, 분석, 대응 및 공개 전반에 이르는 체계적인 취약점 관리 프로세스와 보안 사고 대응 체계를 갖추고 있음을 검증받아 ‘ISO/IEC 291",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     },
     {
       "title": "전남교육청, ‘안전한 학교’ 위한 CCTV 업무 체계 정립",
@@ -75,6 +357,21 @@
         "This overwork may lead to employee burnout as they attempt to do more than what is humanly possible within the reduced amount of required effort."
       ],
       "insight": "The mismanagement of increased availability due to AI could harm both employees' wellbeing and businesses in the long run, potentially leading to decreased productivity and higher turnover rates. Companies need to better manage workloads with technology advancements."
+    },
+    {
+      "title": "오픈클로, 바이러스토탈과 손잡고 ‘에이전트 트로이 목마’ 사칭기술 소탕 나서",
+      "link": "http://www.boannews.com/media/view.asp?idx=142050&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Feb 2026 14:47:00 +0900",
+      "description": "바이러스토탈 연동으로 클로허브 스킬 악성코드 사전 차단AI 에이전트 확산에 따른 섀도우 AI·데이터 유출 위험 확대[보안뉴스 김형근 기자] 자율형 개인 AI 비서 플랫폼 오픈클로(OpenClaw)가 구글 산하의 보안 서비스 바이러스토탈(VirusTotal)과 기술 제휴를 맺고, 자사의 스킬 마켓플레이스인 클로허브(ClawHub) 내 악성 코드 유포를 차단하",
+      "language": "ko",
+      "summary": "바이러스토탈 연동으로 클로허브 스킬 악성코드 사전 차단AI 에이전트 확산에 따른 섀도우 AI·데이터 유출 위험 확대[보안뉴스 김형근 기자] 자율형 개인 AI 비서 플랫폼 오픈클로(OpenClaw)가 구글 산하의 보안 서비스 바이러스토탈(VirusTotal)과 기술 제휴를 맺고, 자사의 스킬 마켓플레이스인 클로허브(ClawHub) 내 악성 코드 유포를 차단하",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     },
     {
       "title": "[쿠팡 해킹] “배송지·현관 비번까지 털렸다” 쿠팡 3,300만 건 유출의 전말",
@@ -448,306 +745,6 @@
         "This significant funding round underscde the importance and potential impact Anthropiic is anticipated to have in AI research"
       ],
       "insight": "Anthropic's substantial investment highlights how serious competition among leading players, combined with rising compute costs, are propelling rapid growth within advanced computing for artificial intelligence."
-    },
-    {
-      "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
-      "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 09 Feb 2026 17:00:00 +0000",
-      "description": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence.",
-      "language": "en",
-      "summary": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Snapchat now lets you inform others when you have arrived at your destination",
-      "link": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 09 Feb 2026 17:00:00 +0000",
-      "description": "With its new \"Arrival Notifications,\" users can now set one-time or recurring alerts for locations beyond their home, providing an automatic way to share when they’ve arrived at their destination.",
-      "language": "en",
-      "summary": "Snapchat has introduced 'Arrival Notifications' allowing users to inform others automatically about reaching a location.",
-      "points": [
-        "New Snapchat feature sends arrival notifications for locations beyond home",
-        "Customizable one-time or recurring alerts sharing user' end destination",
-        "Potential privacy concerns as check-ins are visible on friends' timelines"
-      ],
-      "insight": "Snapchat is expanding its location services, which could impact social behaviors but raises questions about personal data security and transparency."
-    },
-    {
-      "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
-      "link": "https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 09 Feb 2026 16:20:12 +0000",
-      "description": "More than half-a-million people who bought access to phone surveillance and social media snooping apps had their email address and partial payment card numbers published online.",
-      "language": "en",
-      "summary": "Over 500,000 customers of stalkerware apps have had their personal information leaked online.",
-      "points": [
-        "The hack revealed the email addresses and partial payment card numbers of more than half a million buyers from over 186 countries who purchased access to phone surveillance tools like Pegasus or FlexiSpy. These apps can track users' calls, texts, location data, and even take screenshots.",
-        "The breach was disclosed on an anonymous blog post titled 'Hacktivist scrapes over 500k stalkerware customers’ payment records', which warns that the hackers may have access to other personal information. This follows similar hacks of monitoring software companies such as Blackphone and SentinelOne.",
-        "Experts warn that this is just a tip of the iceberg, with millions more potentially affected by stalkerware worldwide."
-      ],
-      "insight": "This latest hack underscores growing concerns over privacy violations in the IT/technology industry and highlights an urgent need for stronger security measures to protect sensitive data from unauthorized access."
-    },
-    {
-      "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-      "link": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 09 Feb 2026 15:47:08 +0000",
-      "description": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment.",
-      "language": "en",
-      "summary": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment",
-      "points": [
-        "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, n...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Discord to roll out age verification next month for full access to its platform",
-      "link": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 09 Feb 2026 15:39:02 +0000",
-      "description": "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they are adults.",
-      "language": "en",
-      "summary": "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they are adults",
-      "points": [
-        "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they ar...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "국가AI전략위, 12일 세미나서 ‘AI 기본사회’ 청사진 그린다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142023&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 18:52:00 +0900",
-      "description": "고용 불안·소득 격차 등 AI 발 사회 문제에 대한 선제적 대응 행안부·복지부 등 범정부 머리 맞대 ‘정책 실효성’ 제고[보안뉴스 조재호 기자] 대통령 직속 국가인공지능전략위원회가 오는 12일 오후 3시 30분부터 ‘AI 기본사회 세미나’를 개최한다. 이번 세미나는 AI 기술 확산이 가져올 경제·사회적 변화에 선제적으로 대응하고, 이에 부합하는 새로운 사회",
-      "language": "ko",
-      "summary": "고용 불안·소득 격차 등 AI 발 사회 문제에 대한 선제적 대응 행안부·복지부 등 범정부 머리 맞대 ‘정책 실효성’ 제고[보안뉴스 조재호 기자] 대통령 직속 국가인공지능전략위원회가 오는 12일 오후 3시 30분부터 ‘AI 기본사회 세미나’를 개최한다. 이번 세미나는 AI 기술 확산이 가져올 경제·사회적 변화에 선제적으로 대응하고, 이에 부합하는 새로운 사회",
-      "points": [
-        "고용 불안·소득 격차 등 AI 발 사회 문제에 대한 선제적 대응 행안부·복지부 등 범정부 머리 맞대 ‘정책 실효성’ 제고[보안뉴스 조재호 기자] 대통령 직속 국가인공지능전략위원회가...",
-        "이번 세미나는 AI 기술 확산이 가져올 경제·사회적 변화에 선제적으로 대응하고, 이에 부합하는 새로운 사회",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "개인정보위, 보건의료 데이터 ‘규제 족쇄’ 푼다... 현장서 해법 모색",
-      "link": "http://www.boannews.com/media/view.asp?idx=142024&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 18:49:00 +0900",
-      "description": "송경희 위원장, 서울대병원 찾아 의료계·산업계 애로사항 청취 서울아산병원·카카오헬스케어 등 11개 기관 참여해 제도 개선 논의[보안뉴스] 개인정보보호위원회가 보건복지부와 공동으로 의료 데이터 활용의 걸림돌을 제거하기 위한 현장 행보에 나섰다.9일 개인정보위는 서울 종로구 서울대학교병원에서 ‘보건의료 분야 개인정보 규제 합리화를 위한 현장 간담회’를 개최했다",
-      "language": "ko",
-      "summary": "서울대학교 의학과에서 개인정보보호를 중요시하는 현장 간담회에 참여했다.",
-      "points": [
-        "- 개인정보위가 보건의료분야에 미치게 연결되어 의사의 근원을 강화하는 중요한 통과",
-        "- 개인정보보호 위원회가 보건복지부와 공동으로 의사의 권리에 대해서 제시한 규제 족쇄",
-        "- IT/기술 업체에서의 개인정보보호 이행 방법과 방화요구에 대해 광고되어 자세히 설명되어 있다."
-      ],
-      "insight": "이 뉴스는 IT/기술 업체에서의 개인정보보호를 중요하게 강조한다고 포인트가 된다."
-    },
-    {
-      "title": "삼정KPMG, CMMC 전담팀 가동 “美 방산 수출 ‘필수 관문’ 뚫는다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142025&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 18:44:00 +0900",
-      "description": "美 국방부 및 연방 공급망 진출 기업 대상 원스톱 컨설팅 제공 2026년 11월부터 CMMC 레벨 2 의무화 확대... 선제적 대응 지원[보안뉴스 조재호 기자] 삼정KPMG(회장 김교태)가 국내 방산 및 보안 기업들의 미국 국방부(DoD) 공급망 진출을 돕기 위해 나섰다.9일 삼정KPMG는 미국 국방부를 중심으로 한 글로벌 방산·연방 공급망 진출을 준비하는",
-      "language": "ko",
-      "summary": "美 국방부 및 연방 공급망 진출 기업 대상 원스톱 컨설팅 제공 2026년 11월부터 CMMC 레벨 2 의무화 확대. 선제적 대응 지원[보안뉴스 조재호 기자] 삼정KPMG(회장 김교태)가 국내 방산 및 보안 기업들의 미국 국방부(DoD) 공급망 진출을 돕기 위해 나섰다...",
-      "points": [
-        "美 국방부 및 연방 공급망 진출 기업 대상 원스톱 컨설팅 제공 2026년 11월부터 CMMC 레벨 2 의무화 확대",
-        "선제적 대응 지원[보안뉴스 조재호 기자] 삼정KPMG(회장 김교태)가 국내 방산 및 보안 기업들의 미국 국방부(DoD) 공급망 진출을 돕기 위해 나섰다",
-        "9일 삼정KPMG는 미국 국방부를 중심으로 한 글로벌 방산·연방 공급망 진출을 준비하는"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "국민대 이옥연 교수팀, 유·무선 통합 ‘하이브리드 양자 보안 VPN’ 개발 성공",
-      "link": "http://www.boannews.com/media/view.asp?idx=142026&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 18:37:00 +0900",
-      "description": "美 NIST 표준 및 韓 KpqC 알고리즘 탑재한 PQC-TLS 솔루션 개발유선 QKD와 무선 5G 구간 연동해 ‘End-to-End’ 양자 보안 실현... 기술이전 통해 상용화 추진[보안뉴스 조재호 기자] 국민대학교(총장 정승렬) 정보보안암호수학과 이옥연 교수 연구팀이 유선의 양자키분배(QKD) 기술과 무선의 양자내성암호(PQC) 기술을 결합한 하이브리드",
-      "language": "ko",
-      "summary": "국민대학교의 정보보안과학연구팀이 '하이브리드 양자 보안 VPN'를 개발해서 성공적으로 시작했다.",
-      "points": [
-        "- 국민대학교에서 프로톤의 정보보안악용질판과 유선 양자키분배(QKD)을 합성한 것이 '하이브리드 양자 보안 VPN'",
-        "- 이특적인 기술로, 질의방식으로 분석받을 수도 있는 국민대학교가 개발한다.",
-        "- 'End-to-End' 양자 보안이 확인되어 기술이전 세계에서 사용하지 않았음"
-      ],
-      "insight": "국민대학교가 이미 '하이브리드 양자 보안 VPN'를 개발하는 것은 IT/기술 업계에서 이전의 보안 직업 제도보다 현대 인프라 시대에 강해줄 의미이다."
-    },
-    {
-      "title": "Omada, 라이프타임 워런티로 기업용 네트워크 신뢰도 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142029&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 18:30:00 +0900",
-      "description": "글로벌 생산 및 R&D 역량 기반 국내 파트너와의 네트워크 신뢰성 강화[보안뉴스 강초희 기자] 티피링크(TP-Link)의 기업용 네트워크 브랜드 Omada는 국내 파트너와의 장기적인 비즈니스 협력을 강화하기 위해 지정된 Omada 제품군을 대상으로 라이프타임 워런티(Lifetime Warranty) 정책을 지속 운영한다고 밝혔다.이번 정책은 기업 및 공공,",
-      "language": "ko",
-      "summary": "Omada 회사는 파트너와의 관련있는 장기적인 협력을 강화하기 위해 라이프타임 워런티를 지원한다.",
-      "points": [
-        "Omada 회사는 국내 파트너와의 관련있는 장기적인 협력을 강화하기 위해 Lifetime Warranty를 지원한다.",
-        "이 정책은 회사가 판매한 제품에 대한 신뢰성과 최종적인 관련잇력을 강화하기 위한 중요한 부분으로 생각된다.",
-        "이러한 Lifetime Warranty를 구성하는 이유와 경험에 따라 더욱 안전한 IT/기술 서비스를 제공하는 것이다."
-      ],
-      "insight": "라이프타임 워런티는 IT/기술 서비스의 안전성과 신뢰성을 강화하는 중요한 정책이다."
-    },
-    {
-      "title": "[eGISEC 2026] 네오드림스, 모바일 완전 삭제 솔루션 선봬",
-      "link": "http://www.boannews.com/media/view.asp?idx=141908&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 18:21:00 +0900",
-      "description": "100% 복구 불가능한 모바일 기기의 데이터 완전 삭제3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 네오드림스는 2000년에 설립된 IT 전문기업으로, IT 시스템 개발·보안 솔루션·헬스케어 서비스 등 다양한 분야에서 기술력을 축적해 왔다.10건의 특허 등록과 50건 이상의 소프트웨어 등록을 보유한 개발 중심 기업이며, 국무총리",
-      "language": "ko",
-      "summary": "네오드림스가 IT 시스템 개발량을 강화하여 IT/공동보안업체에서의 본질적인 삽질이 진행되고, 모바일 기기의 데이터 삭제는 3~5년을 건드리는 시기로 가정",
-      "points": [
-        "네오드림스는 IT/공동보안 시스템 개발 업체로서이다.",
-        "...",
-        "..."
-      ],
-      "insight": "네오드림스는 IT 컨송에서의 전문성을 강조하며, 모바일 기기의 안전성에 대한 관심가능성을 보여줍니다."
-    },
-    {
-      "title": "효성중공업, DNV로부터 산업제어시스템 보안 국제표준 인증 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=142027&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 17:58:00 +0900",
-      "description": "‘IEC 62443-4-1’ 인증 획득... 전력 인프라 보안 경쟁력 입증HVDC 등 전력계통 ‘보안 내재화’로 전력망 안전 위협하는 해킹 선제적 대응[보안뉴스 강초희 기자] 효성중공업(대표이사 사장 우태희)은 글로벌 인증기관 DNV로부터 산업용 사이버보안 국제표준 인증을 획득했다고 밝혔다.이번에 취득한 IEC 62443-4-1은 국제전기기술위원회(IEC)",
-      "language": "ko",
-      "summary": "기사는 대표이사 사장 우태희가 IEC 62443-4-1인 산업제어시스템 보안 국제표준 인증에 대한정보를 제공하고, DNV이전력계통 안전화학 기술에 대해서는 신중한 보호 위험을 방지하는 ‘보안 내재화’의 개인적인 지향성 방안이다.",
-      "points": [
-        "대표이사 사장 우태희가 IEC 62443-4 end 국제전기기술위원회에서 산업제어시스템 보안 국제표준 인증이 잘못된다고 글로벌 소재 DNV이 전적을 더욱 확신하게 조사한다.",
-        "보안 내재화의 개인적인 지향성이 중요한 HVDC 등의 전력계통에서의 안전화학 기술과정에서는 이러한 주장이 일어나지만.",
-        "대표이사 사장 우태희가 IEC 62443-4-1 인증을 받았다."
-      ],
-      "insight": "기사는 전력계통에서의 안전화학이 DNV이 신뢰할만한 지향성 방안을 가지고 있다는 말을 드러내며, 이를 '보안 내재화'라는 개인적인 지향성이 중요한 HVDC 등의 전력계통에서의 안전과정에서만 사용하도록 강조한다."
-    },
-    {
-      "title": "서울과기대-ETRI-T3Q, ‘클라우드 기반 경계감시 인공지능 통합 운용 플랫폼’ 개발",
-      "link": "http://www.boannews.com/media/view.asp?idx=142028&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 17:56:00 +0900",
-      "description": "개인장병 경계감시 능력 향상... 육해공군 작전부대에서 클라우드 활용한 AI 활성화 가능성 제시[보안뉴스 원병철 기자] 서울과학기술대학교(총장 김동환, 이하 서울과기대)와 한국전자통신연구원(원장 방승찬, ETRI), DX/AX 전주기 공통플랫폼 전문기업 티쓰리큐(대표 박병훈)는 ‘클라우드 기반 경계감시 인공지능 통합 운용 플랫폼’을 성공적으로 개발했다고 밝",
-      "language": "ko",
-      "summary": "개인장병 경계감시 능력 향상. 육해공군 작전부대에서 클라우드 활용한 AI 활성화 가능성 제시[보안뉴스 원병철 기자] 서울과학기술대학교(총장 김동환, 이하 서울과기대)와 한국전자통신연구원(원장 방승찬, ETRI), DX/AX 전주기 공통플랫폼 전문기업 티쓰리큐(대표 박병훈)는 ‘클라우드 기반 경계감시 인공지능 통합 운용 플랫폼’을 성공적으로 개발했다고 밝",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 네오와인, 복제 방지칩(ALPU)으로 글로벌 시장 공략",
-      "link": "http://www.boannews.com/media/view.asp?idx=141876&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 16:28:00 +0900",
-      "description": "전자기기 시스템 소프트웨어의 불법 복제 원천 차단3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 네오와인은 보안 IC를 설계 및 판매하는 팹리스 기업이다. 2002년 설립 이후 복제 방지칩, 데이터 보안 및 인증칩 등 보안 ASIC와 관련 솔루션을 전문적으로 개발해 공급해 왔다.최근에는 축적된 기술력을 바탕으로 AI 모델 및 NPU",
-      "language": "ko",
-      "summary": "네오와인이 AI 모델 및 NPU를 통해 복제 방지 기술에서 전문적인 도구를 제공한다.",
-      "points": [
-        "- 네오와인이 2002년에 소유가 발명한 보안 IC",
-        "- AI 모델과 NPU를 통해 복제 방지칩, 데이터 보안, 인증칩 시스템을 개발한다.",
-        "- IT/기술 공급자들에게 고수급 보안 서비스를 제공한다."
-      ],
-      "insight": "이러한 기술적인 진전은 네오와인이 IT/기술 업계에서의 생산성과 상장이나 공급시장에 큰 영향을 미칠 가능성으로, 보안 IC 제4회 홍보는 투자자에게 중요한 기입이다."
-    },
-    {
-      "title": "[SECON 2026] 경인씨엔에스, 무인 주차장 장애 관리 시스템",
-      "link": "http://www.boannews.com/media/view.asp?idx=141862&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 16:22:00 +0900",
-      "description": "무인 주차설비 장애 시 즉각적이며 현장 방문 최소화3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 경인씨엔에스는 국내 보안업계에 ‘장애 관리’라는 영역을 처음 소개한 기업이다. 영상감시(CCTV) 시스템 분야의 풍부한 경험을 바탕으로 설계와 시공뿐 아니라 유지관리와 효율성 증대를 위한 다양한 기기를 개발·생산하고 있다.그동안 장애관",
-      "language": "ko",
-      "summary": "무인 주차설비 장애 시 즉각적이며 현장 방문 최소화3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 경인씨엔에스는 국내 보안업계에 ‘장애 관리’라는 영역을 처음 소개한 기업이다. 영상감시(CCTV) 시스템 분야의 풍부한 경험을 바탕으로 설계와 시공뿐 아니라 유지관리와 효율성 증대를 위한 다양한 기기를 개발·생산하고 있다",
-      "points": [
-        "무인 주차설비 장애 시 즉각적이며 현장 방문 최소화3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 경인씨엔에스는 국내 보안업계에 ‘장애 관리’라는 영역을 ...",
-        "영상감시(CCTV) 시스템 분야의 풍부한 경험을 바탕으로 설계와 시공뿐 아니라 유지관리와 효율성 증대를 위한 다양한 기기를 개발·생산하고 있다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[보안 최전선 ①] 문광석 코리안리 파트장 “보안은 비용 아닌 보험, 멈추면 ‘기술 파산’ 온다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=141813&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 15:29:00 +0900",
-      "description": "“보안팀은 평소엔 유령, 사고 터지면 소방수... 선제적 대응이 살길”AI는 조수일 뿐... 보안 전문가는 비즈니스 설계하는 ‘아키텍트’로 남아야기술 부채 쌓지 않는 ‘평생 공부’가 보안인의 숙명[보안뉴스 조재호 기자] “보안팀은 평소엔 유령 같은 존재입니다. 아무 문제 없을 땐 투명 인간이다가 사고가 터지면 ‘아, 저 사람이 있었구나’ 하지요.”서울 종로",
-      "language": "ko",
-      "summary": "“보안팀은 평소엔 유령, 사고 터지면 소방수. 선제적 대응이 살길”AI는 조수일 뿐...",
-      "points": [
-        "“보안팀은 평소엔 유령, 사고 터지면 소방수",
-        "보안 전문가는 비즈니스 설계하는 ‘아키텍트’로 남아야기술 부채 쌓지 않는 ‘평생 공부’가 보안인의 숙명[보안뉴스 조재호 기자] “보안팀은 평소엔 유령 같은 존재입니다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "엔피코어, SOC 프라임 국내 독점 공급 개시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142021&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 15:25:00 +0900",
-      "description": "글로벌 최대 위협 탐지 플랫폼으로 한국 시장 본격 공략[보안뉴스 강현주 기자] AI 기반 신·변종 악성코드 대응 솔루션 전문기업 엔피코어(대표 한승철)는 글로벌 최대 위협 탐지 규칙(Detection Rule) 플랫폼인 SOC 프라임(SOC Prime)의 국내 독점 공급을 본격 개시한다고 9일 밝혔다. 엔피코어는 SOC 프라임과 지난해 11월 전략적 파트너",
-      "language": "ko",
-      "summary": "글로벌 최대 위협 탐지 플랫폼으로 한국 시장 본격 공략[보안뉴스 강현주 기자] AI 기반 신·변종 악성코드 대응 솔루션 전문기업 엔피코어(대표 한승철)는 글로벌 최대 위협 탐지 규칙(Detection Rule) 플랫폼인 SOC 프라임(SOC Prime)의 국내 독점 공급을 본격 개시한다고 9일 밝혔다. 엔피코어는 SOC 프라임과 지난해 11월 전략적 파트너",
-      "points": [
-        "엔피코어는 SOC 프라임과 지난해 11월 전략적 파트너",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[한국정보공학기술사 보안을 論하다-33] AI 시대, 개인정보보호 담당자의 새로운 역할",
-      "link": "http://www.boannews.com/media/view.asp?idx=142020&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 15:17:00 +0900",
-      "description": "규정 기반 통제에서 ‘리스크 기반 통제’로의 패러다임 전환 필요 AI 위협 대비하는 리스크 관리자이자 안전한 활용 이끄는 데이터 전략가합성데이터·규제 샌드박스 등 제도와 기술의 유연한 활용 능력 필수[보안뉴스= 이제원 기술사/차세대수치예보모델개발사업단] 바야흐로 AI 기술이 기업의 생존을 결정짓는 핵심 경쟁력으로 부상한 지금, 개인정보의 안전한 관리를 책임",
-      "language": "ko",
-      "summary": "기사는 AI 기술이 개인정보보호에 어떠한 의미나 인사이트를 둔드리다.",
-      "points": [
-        "- AI 위협을 해결하기 위해서는 '리스크 관리자' 역할이 중요한",
-        "- 정보·규제 샌드박스의 등장에 대한 기술의 다양성과 유연성이 필수",
-        "- 개인정보보호를 위한 최신 기술들이 개인 관리자에서도 중요"
-      ],
-      "insight": "이러한 AI 기술은 개인정보보호의 필수와 이상적으로 이 시대를 처음으로 다뤄오게 된다."
-    },
-    {
-      "title": "[IP인사] 지식재산처",
-      "link": "http://www.boannews.com/media/view.asp?idx=142019&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 14:44:00 +0900",
-      "description": "◇국장급 전보△지식재산보호협력국장 김용훈 △특허심판원 수석심판장 신상곤(2026년 2월 9일자)[IP전략연구소 (kdong@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "국장급 전보가 지식재산처를 위한 협상과 연구을 촉진하고 있습니다.",
-      "points": [
-        "국장급 전보이름인 지식재산처가 이미 이주에서의 협상과 연구를 통해 기술적 자가작성과 발전에 대한 지원을 받았다.",
-        "국장급 전보는 IT/기술 업계에서의 환경과 문화, 아이디어를 정보처리로 합읠여 지식재산처가 발침작동하도록 제출한다.",
-        "국장급 전보는 기술적 자가작作과 시대판별에서의 중요성을 인정하고, 이해와 지원을 제공한다."
-      ],
-      "insight": "지식재산처는 IT/기술 업계에서 중요한 역할을 하며, 국장급 전보의 도입은 이를 강화하고, 자가작은 시대적인 지식재산을 유지하는 데에 효과적으로 기여한다."
-    },
-    {
-      "title": "“구글의 신뢰를 훔치다” 파이어베이스 개발자 계정 악용한 피싱 급증",
-      "link": "http://www.boannews.com/media/view.asp?idx=142017&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 13:44:00 +0900",
-      "description": "구글 파이어베이스 도메인 신뢰도 악용 피싱 공격도메인 평판 기반 보안 체계의 구조적 취약성[보안뉴스 김형근 기자] 사이버 범죄자들이 구글 파이어베이스(Google Firebase) 무료 계정을 방패 삼아 대규모 피싱을 전개하고 있다. firebaseapp.com 도메인의 높은 신뢰도를 악용해 기존 보안 필터를 정밀하게 우회하는 방식이다.공격자들은 구글 브랜",
-      "language": "ko",
-      "summary": "구글 Firebase 도메인에서 사용자의 신뢰도를 행위한 방식을 보삠리기 위해 이전에 정의되어야만했다고 가정하여, 개인정보 보안에 대한 문제로 관계를 가지고 있음",
-      "points": [
-        "구글 Firebase 도메인을 이전에 정의되어야 할 보안 기준으로 살질한다.",
-        "구글 Firebase 도메인 사용자들의 신뢰도를 이전에 정의되어야 행위하지만, 현재 구글 Firebase 도메인 사용자들은 이전보다 시스템 보안에 제한적으로 신뢰를 지정해 유지한다.",
-        "보안 분석기마다 공격없이 일정 시간동안 예상치 오히는 구글 Firebase 도메인에서의 신뢰 지정 방식이 다음과 같아, 보안 개선을 위해 이전 기준을 고를 수 0."
-      ],
-      "insight": "구글 Firebase 도메인에서의 신뢰 지정에 대한 비즈니톤 법칙은 '세션 오탈바라기'를 일으켜야 할 수 discrepancies between the way Google Firebase domain user trust is currently being misused and how it should have been originally designed according to basic principles of cybersecurity."
     }
   ]
 }
