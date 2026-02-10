@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-10T07:10:16.841Z",
+  "generatedAt": "2026-02-10T13:15:24.253Z",
   "articles": [
+    {
+      "title": "YouTube rolls out an AI playlist generator for Premium users",
+      "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Feb 2026 11:52:39 +0000",
+      "description": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
+      "language": "en",
+      "summary": "Premium YouTube Music subscribers can now generate personalized AI-powered music playlists using simple text prompts on iOS and Android devices.",
+      "points": [
+        "YouTube is introducing an AI feature that enables Premium users to create customizable music playlists with just a few words as input, accessible via both iOS and Android platforms.",
+        "The new service utilizes artificial intelligence technology developed in partnership between YouTube Music's parent company Alphabet Inc. and the audio platform Ten Spot Labs.",
+        "Claiming to offer 'the closest thing yet,' this feature is designed for users who have already subscribed to a $4.99 monthly Premium plan, which includes unlimited access across 50 million songs with ad-free viewing."
+      ],
+      "insight": "The integration of AI playlist generation on YouTube Music enhances user experience by providing personalized content while also increasing the platform'dealership in music through its expansive library. This move solidifies Google and Alphabet Inc.'s commitment to leveraging cutting-edge technology for entertainment services."
+    },
     {
       "title": "전남교육청, ‘안전한 학교’ 위한 CCTV 업무 체계 정립",
       "link": "http://www.boannews.com/media/view.asp?idx=142053&kind=&sub_kind=",
@@ -733,21 +748,6 @@
         "보안 분석기마다 공격없이 일정 시간동안 예상치 오히는 구글 Firebase 도메인에서의 신뢰 지정 방식이 다음과 같아, 보안 개선을 위해 이전 기준을 고를 수 0."
       ],
       "insight": "구글 Firebase 도메인에서의 신뢰 지정에 대한 비즈니톤 법칙은 '세션 오탈바라기'를 일으켜야 할 수 discrepancies between the way Google Firebase domain user trust is currently being misused and how it should have been originally designed according to basic principles of cybersecurity."
-    },
-    {
-      "title": "“끊김 없는 설 연휴 만든다”... 이동통신 3사, 보안·인프라 비상 체제 가동",
-      "link": "http://www.boannews.com/media/view.asp?idx=142018&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Feb 2026 13:39:00 +0900",
-      "description": "연휴 기간 느슨해진 보안 틈새 노린 공격 원천 봉쇄화재 등 물리적 재난 상황에도 ‘통신 끊김 없음’ 목표[보안뉴스 조재호 기자] SK텔레콤, KT, LG유플러스 등 이동통신 3사가 다가오는 설 연휴와 동계올림픽 기간을 맞아 보안 위협 차단과 트래픽 관리를 포괄하는 ‘특별 소통 대책’을 일제히 가동한다.9일 업계에 따르면 이통 3사는 설 연휴 기간 급증하는",
-      "language": "ko",
-      "summary": "이동통신 3사가 설 연휴 기간에서 보안위제도를 구성한다.",
-      "points": [
-        "- SK텔레코마 등 3사는 급증한 설 연휴 기간을 가지고 보안 위제도를 개시.",
-        "- 이러한 대책은 트랜드 환경에서의 공격으로 인한 위험을 줄여야 한다.",
-        "- 이동통신 3사는 전문가가 소통하기 데스크플에서의 조정과 추가적으로 보안을 위해 진행한다."
-      ],
-      "insight": "이동통신 3사는 전자문화와 IT/기술 서비스의 안정성을 강제로 유지하고 있음을 밝혔다."
     }
   ]
 }
