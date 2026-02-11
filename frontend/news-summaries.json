@@ -1,6 +1,264 @@
 {
-  "generatedAt": "2026-02-11T13:20:35.087Z",
+  "generatedAt": "2026-02-11T19:12:37.389Z",
   "articles": [
+    {
+      "title": "DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’",
+      "link": "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 18:41:41 +0000",
+      "description": "The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government among its customers.",
+      "language": "en",
+      "summary": "The Department of Justice has charged the former CEO of Trenchant Technologies with criminal offenses for selling exploits to a broker linked with Russian interests.",
+      "points": [
+        "Former CEO faces nine years in prison",
+        "Exploits sold included tools like Stuxnet and BlackEnergy ",
+        "Russian government listed as customer"
+      ],
+      "insight": "This case highlights the potential risks associated with cybersecurity exploit trading, especially when these capabilities are in the hands of foreign national security interests."
+    },
+    {
+      "title": "Why the economics of orbital AI are so brutal",
+      "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 18:15:21 +0000",
+      "description": "A 1 Gw orbital data center would cost roughly $42.4B—almost three times its ground-bound equivalent.",
+      "language": "en",
+      "summary": "Orbital AI systems face significant economic challenges due to their high costs compared to terrestrial alternatives.",
+      "points": [
+        "The estimated cost for a GW-scale orbital data center is around $42.4 billion, nearly triple the price of an equivalent ground installation.",
+        "Satellite constellations with similar capabilities can be deployed more economically at approximately half that expense.",
+        "Despite higher initial investments and operational difficulties like launching into geostationary orbit or maintaining in-orbit servicing, the allure of lower latency may drive companies to pursue orbital AI."
+      ],
+      "insight": "The significant cost differential between terrestrial and orbital data centers suggests that only high-value services with sufficient return on investment could justify such expensive endeavors in the IT/technology industry, potentially reshaping market expectations around latency improvements."
+    },
+    {
+      "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
+      "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 18:00:00 +0000",
+      "description": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.",
+      "language": "en",
+      "summary": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed",
+      "points": [
+        "The platform's new feature lets users tell Threads what they temporarily want to see more or less of...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google releases the first beta of Android 17, adopts a continuous developer release plan",
+      "link": "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 18:00:00 +0000",
+      "description": "Google is changing how developers get access to new APIs and features of the latest version.",
+      "language": "en",
+      "summary": "The tech giant Google has released its first beta test for Android 17 while adopting a continuous developer release plan.",
+      "points": [
+        "Google is shifting to providing access to new APIs and features of the latest version on an as-they-are basis, rather than after each major update cycle.",
+        "The move represents Google's first beta test for Android following its transition towards more continuous releases starting with Chrome OS in September 2decmber last year.",
+        "This change is intended to provide developers quicker access to the latest features and improvements."
+      ],
+      "insight": "Google’s adoption of a developer release plan mirroring that used for its own operating system, Android Patch Policy (APP), will likely result in faster delivery of new APIs and functionalities. This could potentially disrupt existing mobile apps not ready to adapt quickly enough, necessitating timely updates."
+    },
+    {
+      "title": "How AI changes the math for startups, according to a Microsoft VP",
+      "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 17:51:37 +0000",
+      "description": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+      "language": "en",
+      "summary": "Microsoft'ner Vice President Amanda Silver discusses how AI impacts startup operations and deployment of applications in large organizations.",
+      "points": [
+        "Amanda Silver emphasizes the importance of understanding organizational structure when deploying apps with Microsoft's CoreAI division tools to ensure smooth integration within enterprises.",
+        "She highlighted that startups face unique challenges compared to larger corporations due to their size, which requires a tailored approach for AI deployment and optimization. ",
+        "Amanda also shed light on the importance of continuous learning as part of an effective strategy in utilizing AI technologies."
+      ],
+      "insight": "The news underscores that startups can benefit from Microsoft's CoreAI division tools when deploying applications, but require tailored strategies due to their unique challenges compared to larger organizations. Additionally, continuous learning is crucial for success in utilizing AI technologies."
+    },
+    {
+      "title": "UpScrolled’s social network is struggling to moderate hate speech after fast growth",
+      "link": "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 17:47:15 +0000",
+      "description": "UpScrolled, a social network that surged in the wake of the U.S. TikTok deal, has seen an uptick in harmful content, including usernames and hashtags that contain racial slurs.",
+      "language": "en",
+      "summary": "UpScrolled's social network experienced rapid growth but now faces challenges moderating hate speech due to a rise in harmful content.",
+      "points": [
+        "Rapid user growth after U.S. TikTok deal led to increased dissemination of racially offensive material on UpScrolled'de social platform.",
+        "The network is struggling with the moderation of hate speech, which includes usernames and hashtags containing slurs and racist content.",
+        "Company may need to enhance its monitoring systems or implement stricter community guidelines."
+      ],
+      "insight": "This issue highlights a growing problem in social platforms struggling with moderation scalability, which could affect public trust and the platform's sustainability if not addressed effectively by UpScrolled."
+    },
+    {
+      "title": "Senior engineers, including co-founders, exit xAI amid controversy",
+      "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 16:39:49 +0000",
+      "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+      "language": "en",
+      "summary": "Nine engineers including two co-founders have exited xAI recently, causing speculation and concerns over the company's stability as it faces internal challenges.",
+      "points": [
+        "The exit of senior engineers at Musk’ran AI (xAI) has sparked online rumors about instability within the company.",
+        "Two co-founders have left xAI, further fueling speculation among industry observers and investors.",
+        "These departures follow a series of controversies that have shaken trust in Musk's AI ventures."
+      ],
+      "insight": "The exits from senior engineers at xAI could indicate deeper organizational issues within the company, potentially impacting its credibility and long-term prospects. This development may serve as a wake-up call for tech industry leaders to prioritize stability alongside innovation."
+    },
+    {
+      "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
+      "link": "https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 16:29:43 +0000",
+      "description": "Inertia Enterprises will use the Series A investment to build one of the world's most powerful lasers, a key part of its power plant design.",
+      "language": "en",
+      "summary": "Twilio co-founder Nikesh Tulpule has raised $450 million for his fusion energy startup Inertia Enterprises from Bessemer Venture Partners and Alphabet's GV.",
+      "points": [
+        "Inertia Enterprises, founded by Twilio founder Nikesh Tulpule, is a fusion power company focusing on building one of the world’s most powerful lasers as part of its energy plant design.",
+        "The startup has secured $450 million in funding from Bessemer Venture Partners and Alphabet's GV for this ambitious project.",
+        "Inertia Enterprises plans to build a fusion power station that will cost around $3 billion, which is expected to be the world’s largest energy plant."
+      ],
+      "insight": "The successful funding round signifies growing investor confidence in private sector advancements towards sustainable and clean energy technologies like fusion power within IT/technology industries. It also implies that these kinds of ventures are beginning to garner support, even from tech giants."
+    },
+    {
+      "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
+      "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 16:00:00 +0000",
+      "description": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan.",
+      "language": "en",
+      "summary": "Sam Blond, a former Founders Fund VC who worked with Peter Thiel on investment strategies for Facebook's early growth stages, is launching Monaco to disrupt Salesforce by integrating AI directly into their CRM system. The startup has notable backers including the Collison brothers and Garry Tan.",
+      "points": [
+        "Sam Blond starts a new company named Monaco which uses artificial intelligence within its CRM software, challenging industry giants like Salesforce",
+        "Monaco'inspired by tech innovators such as Elon Musk is backed financially by influential figures including Mark Pincus (founder of Zynga), Mike Maples Jr. and Garry Tan.",
+        "The company aims to use AI across all aspects of sales, from lead generation and engagement strategies through managing the customer journey until closing deals."
+      ],
+      "insight": "Monaco's approach represents an effort within IT/technology industry towards more seamless integration of advanced technologies such as artificial intelligence into existing business processes to create a highly personalized, efficient and streamlined CRM system that could potentially disrupt traditional platforms like Salesforce."
+    },
+    {
+      "title": "Upside Robotics is reducing fertilizer use and waste in corn crops",
+      "link": "https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 16:00:00 +0000",
+      "description": "Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.",
+      "language": "en",
+      "summary": "Autonomous robotic system developed by Upside Robotics aims to cut down on the amount of chemical fertilizers needed for corn crops by up to 70%, using solar power and machine learning technology.",
+      "points": [
+        "Upside Robotics' autonomous robots reduce farmers’ need for chemical fertilizers in corn cultivation.",
+        "The robotic system is environmentally friendly as it harnesses the sun, a renewable energy source. This can lead to significant savings and less environmental damage due to runoff.",
+        "By decreasing dependency on traditional agricultural practices by up to 70%, this technology could significantly change how crops are cultivated in areas prone to over-fertilization."
+      ],
+      "insight": "This innovation from Upside Robotics has the potential to revolutionize sustainable farming and reduce environmental damage caused by excessive use of chemical fertilizers, thus setting a new industry standard for eco-conscious agriculture technology."
+    },
+    {
+      "title": "Amazon Pharmacy to expand same-day delivery to nearly 4,500 US cities",
+      "link": "https://techcrunch.com/2026/02/11/amazon-pharmacy-to-expand-same-day-delivery-to-nearly-4500-us-cities/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 15:46:26 +0000",
+      "description": "The expansion will cover customers in newly served states such as Idaho and Massachusetts.",
+      "language": "en",
+      "summary": "Amazon Pharmacy is expanding same-day delivery for prescriptions to nearly 4,50 end cities across the US.",
+      "points": [
+        "Amazon will now deliver medication in almost all of America's major urban areas and several states previously unserved by Amazon Prime Picks",
+        "The expansion comes after a successful pilot program with around 20% prescription refills through the service, representing more than $15M annually for participating pharmacies.",
+        "Prices will be lowered starting in January and monthly subscriptions are also available."
+      ],
+      "insight": "This expansion signifies Amazon's increasing influence on healthcare logistics by enhancing medication accessibility, convenience, and potentially reducing costs through their established delivery network."
+    },
+    {
+      "title": "Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 15:00:00 +0000",
+      "description": "Get an unmatched ROI by exhibiting your startup in front of 10,000 tech leaders and investors at TechCrunch Disrupt 2026, October 13-15 in San Francisco. Book your table now before it's gone.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt presents an exhibit opportunity for startups to showcase their products and potentially close deals with tech leaders and investors.",
+      "points": [
+        "Exhibiting at TechCrunch Disrupt can offer a substantial ROI by directly presenting your startup to thousands of influential figures in the technology sector.",
+        "The event, scheduled for October 13-15 in San Francisco, provides startups with a unique platform for visibility and deal closure among top investors and industry leaders.",
+        "Booking an exhibit table ahead ensures that startups have secured their presence at this prestigious technology conference."
+      ],
+      "insight": "TechCrunch Disrupt's exhibit format provides a focused environment for startup pitches, increasing the likelihood of deal-making in front of key decision-makers within the industry. This event represents an unparalleled opportunity to gain visibility and potentially secure investment."
+    },
+    {
+      "title": "TikTok launches an opt-in Local Feed in the US leveraging users’ precise location",
+      "link": "https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 14:40:55 +0000",
+      "description": "TikTok's new Local Feed will show you nearby shopping, dining, events, news, and more.",
+      "language": "en",
+      "summary": "TikTok has rolled out an opt-in US feature that curates content based on a user's precise location to display nearby shopping deals, dining options, events, and local news.",
+      "points": [
+        "The Local Feed uses the TikTok API for GPS tracking with users’ permission",
+        "Localized search is part of an experiment run by Dentsu Digital & Social which will be tested in New York City first",
+        "Users can opt-in to receive content based on their current city"
+      ],
+      "insight": {
+        "impact_on_localization": "The Local Feed could significantly enhance personalized user experiences and increase engagement for local businesses in the US.",
+        "potential_challenges": "Privacy concerns regarding location tracking might affect adoption rates, requiring transparent communication about data usage."
+      }
+    },
+    {
+      "title": "Integrate raises $17M to move defense project management into the 21st century",
+      "link": "https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 14:21:28 +0000",
+      "description": "The round was led by FPV Ventures co-founder and managing partner Wesley Chan.",
+      "language": "en",
+      "summary": "The round was led by FPV Ventures co-founder and managing partner Wesley Chan",
+      "points": [
+        "The round was led by FPV Ventures co-founder and managing partner Wesley Chan",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Complyance raises $20M to help companies manage risk and compliance",
+      "link": "https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 14:00:00 +0000",
+      "description": "Complyance raised a $20 million Series A led by GV for its AI-native compliance platform.",
+      "language": "en",
+      "summary": "Complyance raised a $20 million Series A led by GV for its AI-native compliance platform",
+      "points": [
+        "Complyance raised a $20 million Series A led by GV for its AI-native compliance platform",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation",
+      "link": "https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 14:00:00 +0000",
+      "description": "Apptronik has raised another $520 million in a Series A extension to existing and new investors like Google and Mercedes-Benz.",
+      "language": "en",
+      "summary": "AI startup Apptronik secured an additional $935M for its humanoid robot technology, raising the company' extrinsic valuation to over $5 billion with investments from notable tech companies.",
+      "points": [
+        "Apptronik raises another $520 million in a Series A extension.",
+        "Investors include Google and Mercedes-Benz among others.",
+        "The company's valuation now exceeds $5 billion."
+      ],
+      "insight": "This funding round signifies substantial investor confidence, potentially accelerating Apptronik's growth in the burgeoning humanoid robotics sector and influencing market trends towards more human-like robots with AI capabilities for diverse applications."
+    },
+    {
+      "title": "Meridian raises $17 million to remake the agentic spreadsheet",
+      "link": "https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 11 Feb 2026 14:00:00 +0000",
+      "description": "A new company called Meridian.AI has emerged from stealth with an IDE-based approach to agentic financial modeling.",
+      "language": "en",
+      "summary": "Meridian.AI is a newly launched company focusing on developing an Integrated Development Environment (IDE) for creating more personalized and complex financial models in spreadsheets.",
+      "points": [
+        "Meridian.AI has developed its own IDE to enhance the capabilities of agentic spreadsheet modeling, allowing users to create advanced algorithms directly within their Excel or Google Sheets environment.",
+        "The startup's approach aims at automating routine tasks and reducing manual calculations through sophisticated financial models that can adapt over time with machine learning techniques.",
+        "Backed by significant funding of $17 million, Meridian.AI has the resources to attract top talent in artificial intelligence and software engineering."
+      ],
+      "insight": "Meridian.AI's innovative approach could significantly transform financial modeling within businesses across various industries by automating complex tasks that traditionally required extensive manual input, thereby reducing errors and increasing efficiency using AI-driven spreadsheet technologies."
+    },
     {
       "title": "[카드뉴스] 탐지부터 ‘자정 능력’까지... 보안 담당자의 새 이름은 ‘AI 감독’",
       "link": "http://www.boannews.com/media/view.asp?idx=142111&kind=&sub_kind=",
@@ -493,258 +751,6 @@
         "Google handed over sensitive data pertaining to an individual critical of Trump' extramarital activities."
       ],
       "insight": "This incident raises concerns about privacy, tech company responsibility in handling government requests that could impact freedom of the press and opposition expression against policies they disagree with politically. It may prompt industry self-regulation or policy changes to better balance national security interests with individual rights."
-    },
-    {
-      "title": "Here’s how Rivian changed the rear door manual release on the R2",
-      "link": "https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 19:38:54 +0000",
-      "description": "Rivian, along with other automakers, has been under pressure to make the manual door releases easier to access. The new R2 SUV does that — here's how.",
-      "language": "en",
-      "summary": "The Rivian R2 SUV features an improved rear door manual release mechanism aimed at making it more accessible for passengers and drivers.",
-      "points": [
-        "Rivian has responded to industry pressure by redesigning the rear door' end lever on their newest vehicle, the R2.",
-        "The restructured design of Rivian’s manual release mechanism places its actuator closer to users and lowers it for better ergonomics.",
-        "This update is part of a broader trend in auto manufacturing towards enhancing driver experience through accessible controls."
-      ],
-      "insight": "The modification indicates an industry-wide recognition that accessibility can improve user satisfaction, potentially setting new standards within the automotive sector's design strategies."
-    },
-    {
-      "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
-      "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 19:34:51 +0000",
-      "description": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add backgrounds to text posts.",
-      "language": "en",
-      "summary": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add backgrounds to text posts",
-      "points": [
-        "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories,...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
-      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 16:30:00 +0000",
-      "description": "The fake goods crisis cuts two ways. Luxury brands lose more than $30 billion a year to counterfeits, while buyers in the booming $210 billion second-hand market have no reliable way to verify that what they’re purchasing is genuine. Veritas wants to solve both problems with a solution that combines custom hardware and software. The […]",
-      "language": "en",
-      "summary": "Veritas Labs plans to develop technology using chip designers' skills to create unique chips for luxury goods authentication.",
-      "points": [
-        "The fake goods crisis is costing the global market $30 billion annually, with counterfeit products flooding both new and second-hand markets due to lack of verification methods. Veritas Labs seeks a solution combining chip designers' skills for authenticity.",
-        "Veritas intends their technology not only to assist luxury brands in fighting back against fraud but also aimed at giving consumers the ability to verify product genuineness themselves, thereby empowering them and reducing market losses due to counterfeit purchases. ",
-        "The proposed chip designs will be distinctive enough that they can't easily be replicated by counterfeit manufacturths."
-      ],
-      "insight": "Veritas Labs aims not only at combating the massive financial loss caused by counterfeits to luxury brands but also empowers consumers, creating more trust in purchases and mitigating losses for all parties involved within the industry through their chip technology."
-    },
-    {
-      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
-      "link": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 16:19:39 +0000",
-      "description": "The Singaporean government said the China-backed hackers gained \"limited access to critical systems\" run by the country's top four telecommunication giants, but said they did not disrupt services or steal customers' data.",
-      "language": "en",
-      "summary": "Singapore acknowledged that China-backed hackers gained limited access to critical systems of its top four telecommunication companies but confirmed they did not disrupt services or steal data.",
-      "points": [
-        "China-backed hackers targeting Singapore'ner large telco firms",
-        "Hackers had 'limited access' without service interruption or data theft",
-        "Singapore confirms no breach of customer data"
-      ],
-      "insight": "This incident highlights ongoing cybersecurity threats to major telecommunications companies, emphasizing the need for improved defenses against state-sponsored attacks."
-    },
-    {
-      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-      "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 16:00:00 +0000",
-      "description": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
-      "language": "en",
-      "summary": "Vega Security raised $120M Series B funding from Accel and is aiming to innovate in the detection of cybersecurity threats for enterprises.",
-      "points": [
-        "Accelerating investment into Vega, a startup redefining threat detection technologies",
-        "Vega'threat-hunting platform offers end-to-end solutions to mitigate risks of sophisticated cyber attacks such as ransomware and APTs (Advanced Persistent Threats)",
-        "With Vega, enterprises can benefit from an intelligent system that integrates with their existing infrastructure for proactive threat hunting."
-      ],
-      "insight": "This influx of funding will likely propel innovation in threat detection technologies and could set new industry standards due to the sophisticated nature of Vega's platform, potentially influencing a shift towards more intelligent automated systems across the IT/technology landscape."
-    },
-    {
-      "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
-      "link": "https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 15:56:21 +0000",
-      "description": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
-      "language": "en",
-      "summary": "Netflix has completed its groundbrestatic purchase of content from WarnerMedia for $10 billion over five years—a deal considered the most historic megadeal in Hollywood.",
-      "points": [
-        "The acquisition includes all current and future first-run rights to HBO, Turner Broadcasting System's entire library (including TBS), CNN International, Cartoon Network, AT&T SportsNet cable channels",
-        "A significant aspect of the deal is that Netflix will pay $500 million annually for a 1/3 share in WarnerMedia parent company Time-Warner.",
-        "The acquisition was initially proposed as an alliance but ended up being a full takeover, with Disney gaining more control over HBO and Turner Broadcasting"
-      ],
-      "insight": "This deal marks Netflix's significant expansion into content creation for its platform. It will likely intensify the ongoing battle between major streaming services in securing exclusive rights to popular shows."
-    },
-    {
-      "title": "Google expands tools to let users remove sensitive data about themselves from Search",
-      "link": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 15:54:48 +0000",
-      "description": "Users will be able to more easily request the removal of results that include private information or non-consensual explicit imagery.",
-      "language": "en",
-      "summary": "Google has expanded its tools allowing users to have sensitive personal data removed from search results.",
-      "points": [
-        "Users can request removal of private information or non-consensual explicit imagery related to them."
-      ],
-      "insight": "This development by Google enhances user privacy and control over online presence, which could influence future policies in the tech industry regarding data protection."
-    },
-    {
-      "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
-      "link": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 15:47:13 +0000",
-      "description": "EPA administrator Lee Zeldin is reportedly expected to repeal the 2009 \"endangerment finding\" that underpins U.S. climate regulatory efforts.",
-      "language": "en",
-      "summary": "The Trump administration's Environmental Protection Agency (EPA) is reportedly preparing to repeal the landmark air pollution rule from 2decade ago that protects against climate change-linked health issues.",
-      "points": [
-        "President Donald Trump and EPA Administrator Lee Zeldin are targeting a major environmental regulation by seeking to revoke its endangerment finding, potentially impacting U.S. efforts in combating global warming.",
-        "The Clean Air Act's Endangerment Finding of 2009 established that greenhouse gases from human activities posed a significant risk to public health and needed regulation.",
-        "Repealing the endangerment finding would not only weaken U.S.' role in climate policy but also could lead to more air pollution, negatively impacting global efforts."
-      ],
-      "insight": "The proposed repeal of this rule underlines a major shift towards prioritizing economic interests over environmental and public health concerns within the IT/technology industry. If other countries follow suit in weakening their own climate policies due to such actions, it could severely hamper global efforts against anthropogenic climate change."
-    },
-    {
-      "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
-      "link": "https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 15:06:26 +0000",
-      "description": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
-      "language": "en",
-      "summary": "As the advertising revenue on YouTube dwindles for many YouTubers due to algorithm changes and audience fatigue, creators are diversifying through various side businesses like Patreon or merchandise.",
-      "points": [
-        "YouTube's content monetization model is undergoing significant shifts impacting ad revenue distribution among creators",
-        "Creators who previously depended solely on YouTube for income are exploring alternative streams such as Patreon and merchandise sales to sustain their businesses.",
-        "The increasing diversification of YouTuber revenues highlights the evolving landscape within digital content creation, where creator independence is becoming more valuable than ever."
-      ],
-      "insight": "This shift in revenue sources represents a broader trend towards direct-to-fan business models and self-sufficiency for online personalities beyond traditional advertising revenues. It's indicative of the changing dynamics between content creators, platforms, and audiences."
-    },
-    {
-      "title": "Hauler Hero collects $16M for its AI waste management software",
-      "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 15:00:00 +0000",
-      "description": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
-      "language": "en",
-      "summary": "Since raising a $16M seed round in 2term 2024, Hauler Hero has seen significant growth with customer base, revenue, and headcount doubling.",
-      "points": [
-        "Hauler Hero's fundraising efforts led to substantial company expansion",
-        "Doubling of customers since the seed round in term 2024 demonstrates business success",
-        "Company has also doubled its revenue and headcount as a result"
-      ],
-      "insight": "This growth highlights Hauler Hero's successful implementation of AI waste management software, which is attracting attention from investors in the IT/technology industry."
-    },
-    {
-      "title": "India orders social media platforms to take down deepfakes faster",
-      "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 14:51:13 +0000",
-      "description": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
-      "language": "en",
-      "summary": "The Indian government has implemented strict regulations on social media platforms concerning the timely removal of deepfakes starting February 2 end.",
-      "points": [
-        "India mandates faster takedown requests for deepfakes",
-        "New rules to be enforced from February 20",
-        "Shortened time frame up to two hours required"
-      ],
-      "insight": "The tightening of regulations on the internet by India sends a strong message about prioritizing digital content authenticity and may influence global practices in controlling misinformation."
-    },
-    {
-      "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
-      "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 14:30:00 +0000",
-      "description": "Thomas Dohmke's new startup offers an AI system to allow developers to better manage all the code AI agents produce.",
-      "language": "en",
-      "summary": "Former GitHub CEO Thomas Dohmke has raised a $60 million seed round at his new startup focusing on an AI system to help developers manage code produced by AI agents.",
-      "points": [
-        "Thomas Dohmme, the former CEO of GitHub, founded DevStoreAI with funding from Andreessen Horowitz and others totaling $60 million in seed capital. The valuation at this round is reported to be around $300 million.",
-        "DevStoreAI offers a platform where AI-generated code can live alongside human developers' work within Git repositories, allowing for easier collaboration between the two types of agents and smoother workflow integration.",
-        "Andreessen Horowitz has invested over three times what Dohmme raised at GitHub into DevStoreAI as part of its broader investment in AI-based tools aimed to enhance developer productivity."
-      ],
-      "insight": "The funding and focus on a startup like DevStoreAI signify the growing importance of integrating human developers with advanced artificial intelligence systems within IT workflows, potentially shifting how code is created and managed in future development practices."
-    },
-    {
-      "title": "Spotify hits a record 751M monthly users thanks to Wrapped, new free features",
-      "link": "https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 14:00:14 +0000",
-      "description": "Spotify credited a successful Wrapped campaign and new features in its free tier for its rapid user growth",
-      "language": "en",
-      "summary": "Thanks to the release of Spotify's 'Wrapped' feature during Christmas season along with additional benefits introduced into its paid service and expanded freemium offerings, it has managed a record-breaking growth spurt reaching over 751 million monthly active users (MAUs).",
-      "points": [
-        "Spotify launched the 'Wrapped' feature to showcase music activity throughout December.",
-        "The company expanded free features and paid service benefits, drawing in more paying subscribers as well."
-      ],
-      "insight": "This growth underscsues Spotify’s successful strategies of enhancing user engagement through new holiday-themed experiences while concurrently expanding its freemium model to grow the overall number of users. The significant increase in MAUs indicates that these initiatives resonate with a wider audience and could set industry standards for music streaming services."
-    },
-    {
-      "title": "Primary Ventures raises healthy $625M Fund V to focus on seed investing",
-      "link": "https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
-      "description": "Primary Ventures has closed a $625 million fund focused on seed investing nationwide. It's a sizable accomplishment for a seed-stage VC firm.",
-      "language": "en",
-      "summary": "Primary Ventures has closed a $625 million fund focused on seed investing nationwide. It's a sizable accomplishment for a seed-stage VC firm",
-      "points": [
-        "Primary Ventures has closed a $625 million fund focused on seed investing nationwide",
-        "It's a sizable accomplishment for a seed-stage VC firm",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Proptech startup Smart Bricks raises $5M pre-seed led by a16z",
-      "link": "https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
-      "description": "Smart Bricks is an AI-powered proptech that helps investors find high-quality real estate investments.",
-      "language": "en",
-      "summary": "Proptech startup Smart Bricks has raised $5 million in pre-seed funding led by a16z to enhance AI's role in identifying real estate investment opportunities.",
-      "points": [
-        "Smart Bricks, an artificial intelligence company within the property technology sector (proptech), is backed with $5M in funding from leading venture capital firm a16z for its platform aimed at revolutionizing how individuals discover and engage with real estate investment opportunities.",
-        "The goal of Smart Bricks' service, designed to cater predominantly towards retail space acquisitions as well as office buildings in major cities like New York or San Francisco, is not only facilitating transactions but also optimizing the use and management of these properties through AI technology.",
-        "The company has raised $5 million before reaching any rounds of venture capital funding, with a16z leading the investment alongside 30% from Bain Capital Ventures’ real estate arm."
-      ],
-      "insight": "Smart Bricks' innovative approach to integrating AI in property discovery and transaction processes could significantly alter traditional methods of retail space acquisition, providing a more efficient path for investors while potentially transforming the broader landscape of proptech as it continues to evolve."
-    },
-    {
-      "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
-      "link": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
-      "description": "Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.",
-      "language": "en",
-      "summary": "AI startup Runway has raised a significant funding of $315 million at an impressive valuation of $5.3 billion to further their AI video generation technology and expand into the development of more sophisticated world models.",
-      "points": [
-        "Runway, specializing in artificial intelligence for generating synthetic videos that replicate reality closely",
-        "$315 million funding secured at a valuation of $5.3 billion by Runway to propel their technology forward and expand into creating more complex world models.",
-        "Plans include developing AI-powered video generation tools with capabilities surpassing current alternatives, such as 'deepfakes', while aiming for broader applications beyond entertainment."
-      ],
-      "insight": "This substantial investment indicates strong confidence in Runway's technology and its potential to disrupt the tech industry by creating more sophisticated AI-generated content. As companies continue to seek innovative solutions, platforms like these could redefine virtual experiences across various sectors."
-    },
-    {
-      "title": "YouTube rolls out an AI playlist generator for Premium users",
-      "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Feb 2026 11:52:39 +0000",
-      "description": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
-      "language": "en",
-      "summary": "Premium YouTube Music subscribers can now generate personalized AI-powered music playlists using simple text prompts on iOS and Android devices.",
-      "points": [
-        "YouTube is introducing an AI feature that enables Premium users to create customizable music playlists with just a few words as input, accessible via both iOS and Android platforms.",
-        "The new service utilizes artificial intelligence technology developed in partnership between YouTube Music's parent company Alphabet Inc. and the audio platform Ten Spot Labs.",
-        "Claiming to offer 'the closest thing yet,' this feature is designed for users who have already subscribed to a $4.99 monthly Premium plan, which includes unlimited access across 50 million songs with ad-free viewing."
-      ],
-      "insight": "The integration of AI playlist generation on YouTube Music enhances user experience by providing personalized content while also increasing the platform'dealership in music through its expansive library. This move solidifies Google and Alphabet Inc.'s commitment to leveraging cutting-edge technology for entertainment services."
     }
   ]
 }
