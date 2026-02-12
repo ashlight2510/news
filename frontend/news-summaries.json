@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-02-12T13:36:16.390Z",
+  "generatedAt": "2026-02-12T19:09:04.686Z",
   "articles": [
+    {
+      "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
+      "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 19:02:07 +0000",
+      "description": "WP Engine claims Automattic was going to target more hosting companies with royalty fees.",
+      "language": "en",
+      "summary": "Automattic may impose its own 'royalty' fee on competing webhosting services as a means of extending control over the digital marketplace.",
+      "points": [
+        "Automattic plans to charge royalty fees from other hosting companies for using WordPress templates and plugins",
+        "The move is seen by some within Automattic, such as CEO Matt Mullenweg, as a way of protecting the market without price hikes.",
+        "Critics argue that this strategy could distort competition in favor of one company."
+      ],
+      "insight": "Automattic'sin move to charge royalty fees from competitors may signify an aggressive approach towards securing a dominant market position, but it raises questions about the implications for fair competition within the web hosting industry."
+    },
+    {
+      "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+      "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 18:30:12 +0000",
+      "description": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
+      "language": "en",
+      "summary": "Spotify's top developers have been assisted by an AI since December, leading to faster software creation without writing code themselves.",
+      "points": [
+        "Claude Code and Honk are internal tools used for automating parts of the Spotify development process.",
+        "The collaboration between these tools led to a significant boost in productivity among developers at Spotify'in December.",
+        "AI-driven coding has become an integral part of how some software is developed, as demonstrated by this initiative."
+      ],
+      "insight": "This development shows the increasing role AI can play within IT and technology industries to enhance productivity without traditional human intervention. It may pave the way for more widespread use of AI in software development processes across various companies, potentially reshaping job roles."
+    },
+    {
+      "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+      "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 18:00:00 +0000",
+      "description": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
+      "language": "en",
+      "summary": "A recent update to OpenAI's Codex now leverages a bespoke AI-optimized chip for faster code generation and development tasks.",
+      "points": [
+        "The updated version of OpenAI’s Codex utilizes a specialty processor dedicated for artificial intelligence applications, improving its efficiency in generating source codes by an estimated factor of about two times.",
+        "This partnership between the AI firm and chipmaker is hailed as 'the first milestone' due to their collaboration with respects towards Codex development.",
+        "The new version also improves code-generation time for developers, aiming at a near real-time experience."
+      ],
+      "insight": "This innovative use of dedicated AI chips in tools like OpenAI's Codex could potentially revolutionize the way development tasks are executed within IT/technology industry. The partnership between AI firms and chip manufacturers might become a common practice, enhancing productivity."
+    },
+    {
+      "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+      "link": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 17:58:30 +0000",
+      "description": "CEO Chris Urmson called it a “superhuman” moment, adding that Aurora’s trucks can now carry freight 1,000 miles in 15 hours — faster than what a human driver can legally accomplish.",
+      "language": "en",
+      "summary": "Aurora's autonomous trucks have achieved unprecedented speed and distance capabilities for robotic vehicles.",
+      "points": [
+        "- Aurora's driverless truck can carry freight up to 1,000 miles in just 15 hours.",
+        "-This represents a record-breaking performance that surpasses the legal limits of human drivers on the road.",
+        "-The achievement marks progress towards broader commercial adoption and regulatory changes for autonomous vehicles."
+      ],
+      "insight": "Aurora's breakthrough in driverless truck technology could expedite its acceptance within various industries, pushing regulations to adapt accordingly."
+    },
+    {
+      "title": "More US investors sue South Korean government over handling of Coupang data breach",
+      "link": "https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 16:56:32 +0000",
+      "description": "Coupang’s massive data breach has sparked U.S. investor lawsuits against the South Korean government over alleged discrimination.",
+      "language": "en",
+      "summary": "Following a substantial data breach at Coupang in November involving personal information of millions, U.S investors have filed lawsuits against the South Korean government for alleged discrimination and lackluster response.",
+      "points": [
+        "Coupang suffered one of its largest-ever security incidents with sensitive user data compromised",
+        "U.investors, who own shares in Coupang through ETFs such as the iShares South Korea ETF (IK BX), are suing for discrimination and an alleged lackluster government response to cybersecurity threats.",
+        "The data breach exposed personal information of 160 million users, raising concerns about privacy practices at large."
+      ],
+      "insight": "This series of lawsuits could signal a shift in international legal approaches towards holding governments accountable for the cybersecurity policies they implement and their direct impact on private sector entities such as Coupang. It suggests that investors are increasingly aware of privacy risks associated with data breaches, prompting them to take more assertive actions against perceived negligence."
+    },
+    {
+      "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
+      "link": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 15:34:11 +0000",
+      "description": "The show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions.",
+      "language": "en",
+      "summary": "Apple has acquired all rights to the TV series 'Severance,' which explores workers who have undergenerated severance procedures keeping them alive while working in a secret division of their company. The show is set to run for four seasons with potential spin-offs, prequels, and foreign versions.",
+      "points": [
+        "Apple has acquired all rights to the TV series 'Severance,'",
+        "The first season will focus on workers in a secret division of their company dealing with severance procedures.",
+        "The show is expected to span at least four seasons, and there are talks about future expansions like spin-offs or prequels."
+      ],
+      "insight": "Apple's decision to produce 'Severance' in-house not only shows their confidence in the potential of original content but also reflects a broader trend among tech giants towards greater control and customization within their entertainment offerings. This move could signify an increased investment by Apple into creating immersive experiences that blur the lines between work, technology, and narrative."
+    },
+    {
+      "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+      "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 14:40:03 +0000",
+      "description": "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.",
+      "language": "en",
+      "summary": "The FTC has raised concerns with Apple regarding allegations that its App Store's 'Apple News' feature may suppress right-leaning news content.",
+      "points": [
+        "FTC chair Andrew Ferguson cited Media Research Center reports accusing Apple of excluding right-wing outlets from the top articles on Apple News.",
+        "The FTC letter does not provide direct evidence but indicates concerns about potential bias in app ranking algorithms affecting news content visibility.",
+        "Media Resources Group, a firm specializing in digital measurement and analysis for media publishers, is investigating whether all-business apps are ranked higher than other categories by the App Store."
+      ],
+      "insight": "This development may prompt Apple to review its app ranking practices and ensure neutrality, which could impact how news content reaches users across different platforms in the future."
+    },
+    {
+      "title": "Eclipse backs all-EV marketplace Ever in $31M funding round",
+      "link": "https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 14:00:09 +0000",
+      "description": "The San Francisco-based startup says its AI-first approach has allowed it to scale faster.",
+      "language": "en",
+      "summary": "The San Francisco-based startup says its AI-first approach has allowed it to scale faster",
+      "points": [
+        "The San Francisco-based startup says its AI-first approach has allowed it to scale faster",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "개인정보 유출 과징금, 전체 매출 10%까지 부과... 개정안 국회 본회의 통과",
       "link": "http://www.boannews.com/media/view.asp?idx=142162&kind=&sub_kind=",
@@ -628,126 +748,6 @@
         "Russian government listed as customer"
       ],
       "insight": "This case highlights the potential risks associated with cybersecurity exploit trading, especially when these capabilities are in the hands of foreign national security interests."
-    },
-    {
-      "title": "Why the economics of orbital AI are so brutal",
-      "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 18:15:21 +0000",
-      "description": "A 1 Gw orbital data center would cost roughly $42.4B—almost three times its ground-bound equivalent.",
-      "language": "en",
-      "summary": "Orbital AI systems face significant economic challenges due to their high costs compared to terrestrial alternatives.",
-      "points": [
-        "The estimated cost for a GW-scale orbital data center is around $42.4 billion, nearly triple the price of an equivalent ground installation.",
-        "Satellite constellations with similar capabilities can be deployed more economically at approximately half that expense.",
-        "Despite higher initial investments and operational difficulties like launching into geostationary orbit or maintaining in-orbit servicing, the allure of lower latency may drive companies to pursue orbital AI."
-      ],
-      "insight": "The significant cost differential between terrestrial and orbital data centers suggests that only high-value services with sufficient return on investment could justify such expensive endeavors in the IT/technology industry, potentially reshaping market expectations around latency improvements."
-    },
-    {
-      "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
-      "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 18:00:00 +0000",
-      "description": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.",
-      "language": "en",
-      "summary": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed",
-      "points": [
-        "The platform's new feature lets users tell Threads what they temporarily want to see more or less of...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google releases the first beta of Android 17, adopts a continuous developer release plan",
-      "link": "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 18:00:00 +0000",
-      "description": "Google is changing how developers get access to new APIs and features of the latest version.",
-      "language": "en",
-      "summary": "The tech giant Google has released its first beta test for Android 17 while adopting a continuous developer release plan.",
-      "points": [
-        "Google is shifting to providing access to new APIs and features of the latest version on an as-they-are basis, rather than after each major update cycle.",
-        "The move represents Google's first beta test for Android following its transition towards more continuous releases starting with Chrome OS in September 2decmber last year.",
-        "This change is intended to provide developers quicker access to the latest features and improvements."
-      ],
-      "insight": "Google’s adoption of a developer release plan mirroring that used for its own operating system, Android Patch Policy (APP), will likely result in faster delivery of new APIs and functionalities. This could potentially disrupt existing mobile apps not ready to adapt quickly enough, necessitating timely updates."
-    },
-    {
-      "title": "How AI changes the math for startups, according to a Microsoft VP",
-      "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 17:51:37 +0000",
-      "description": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
-      "language": "en",
-      "summary": "Microsoft'ner Vice President Amanda Silver discusses how AI impacts startup operations and deployment of applications in large organizations.",
-      "points": [
-        "Amanda Silver emphasizes the importance of understanding organizational structure when deploying apps with Microsoft's CoreAI division tools to ensure smooth integration within enterprises.",
-        "She highlighted that startups face unique challenges compared to larger corporations due to their size, which requires a tailored approach for AI deployment and optimization. ",
-        "Amanda also shed light on the importance of continuous learning as part of an effective strategy in utilizing AI technologies."
-      ],
-      "insight": "The news underscores that startups can benefit from Microsoft's CoreAI division tools when deploying applications, but require tailored strategies due to their unique challenges compared to larger organizations. Additionally, continuous learning is crucial for success in utilizing AI technologies."
-    },
-    {
-      "title": "UpScrolled’s social network is struggling to moderate hate speech after fast growth",
-      "link": "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 17:47:15 +0000",
-      "description": "UpScrolled, a social network that surged in the wake of the U.S. TikTok deal, has seen an uptick in harmful content, including usernames and hashtags that contain racial slurs.",
-      "language": "en",
-      "summary": "UpScrolled's social network experienced rapid growth but now faces challenges moderating hate speech due to a rise in harmful content.",
-      "points": [
-        "Rapid user growth after U.S. TikTok deal led to increased dissemination of racially offensive material on UpScrolled'de social platform.",
-        "The network is struggling with the moderation of hate speech, which includes usernames and hashtags containing slurs and racist content.",
-        "Company may need to enhance its monitoring systems or implement stricter community guidelines."
-      ],
-      "insight": "This issue highlights a growing problem in social platforms struggling with moderation scalability, which could affect public trust and the platform's sustainability if not addressed effectively by UpScrolled."
-    },
-    {
-      "title": "Senior engineers, including co-founders, exit xAI amid controversy",
-      "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 16:39:49 +0000",
-      "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
-      "language": "en",
-      "summary": "Nine engineers including two co-founders have exited xAI recently, causing speculation and concerns over the company's stability as it faces internal challenges.",
-      "points": [
-        "The exit of senior engineers at Musk’ran AI (xAI) has sparked online rumors about instability within the company.",
-        "Two co-founders have left xAI, further fueling speculation among industry observers and investors.",
-        "These departures follow a series of controversies that have shaken trust in Musk's AI ventures."
-      ],
-      "insight": "The exits from senior engineers at xAI could indicate deeper organizational issues within the company, potentially impacting its credibility and long-term prospects. This development may serve as a wake-up call for tech industry leaders to prioritize stability alongside innovation."
-    },
-    {
-      "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
-      "link": "https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 16:29:43 +0000",
-      "description": "Inertia Enterprises will use the Series A investment to build one of the world's most powerful lasers, a key part of its power plant design.",
-      "language": "en",
-      "summary": "Twilio co-founder Nikesh Tulpule has raised $450 million for his fusion energy startup Inertia Enterprises from Bessemer Venture Partners and Alphabet's GV.",
-      "points": [
-        "Inertia Enterprises, founded by Twilio founder Nikesh Tulpule, is a fusion power company focusing on building one of the world’s most powerful lasers as part of its energy plant design.",
-        "The startup has secured $450 million in funding from Bessemer Venture Partners and Alphabet's GV for this ambitious project.",
-        "Inertia Enterprises plans to build a fusion power station that will cost around $3 billion, which is expected to be the world’s largest energy plant."
-      ],
-      "insight": "The successful funding round signifies growing investor confidence in private sector advancements towards sustainable and clean energy technologies like fusion power within IT/technology industries. It also implies that these kinds of ventures are beginning to garner support, even from tech giants."
-    },
-    {
-      "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
-      "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 16:00:00 +0000",
-      "description": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan.",
-      "language": "en",
-      "summary": "Sam Blond, a former Founders Fund VC who worked with Peter Thiel on investment strategies for Facebook's early growth stages, is launching Monaco to disrupt Salesforce by integrating AI directly into their CRM system. The startup has notable backers including the Collison brothers and Garry Tan.",
-      "points": [
-        "Sam Blond starts a new company named Monaco which uses artificial intelligence within its CRM software, challenging industry giants like Salesforce",
-        "Monaco'inspired by tech innovators such as Elon Musk is backed financially by influential figures including Mark Pincus (founder of Zynga), Mike Maples Jr. and Garry Tan.",
-        "The company aims to use AI across all aspects of sales, from lead generation and engagement strategies through managing the customer journey until closing deals."
-      ],
-      "insight": "Monaco's approach represents an effort within IT/technology industry towards more seamless integration of advanced technologies such as artificial intelligence into existing business processes to create a highly personalized, efficient and streamlined CRM system that could potentially disrupt traditional platforms like Salesforce."
     }
   ]
 }
