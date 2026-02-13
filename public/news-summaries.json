@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-02-12T19:09:04.686Z",
+  "generatedAt": "2026-02-13T02:24:32.834Z",
   "articles": [
+    {
+      "title": "[카드뉴스] 기술 방어보다 시급한 ‘법률 안정성’... AI 보안 사고의 법적 책임 고리 규명해야",
+      "link": "http://www.boannews.com/media/view.asp?idx=142164&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 13 Feb 2026 10:41:00 +0900",
+      "description": "AI가 내린 잘못된 결정으로 인한 보안 사고 발생 시, 그 법적 책임은 도구가 아닌 인간(운영자 및 결정권자)에게 돌아갈 수 있다.2026년부터 AI 관련 첫 법정 다툼이 가시화되면서, 개발사·운영사 간의 책임 소재를 명확히 하는 ‘법적 책임의 고리’ 분석이 기업 보안의 필수 요소로 부상했다. 향후 보안 전략은 단순 기술적 방어를 넘어 법률적 안정성을 확보",
+      "language": "ko",
+      "summary": "AI 사용의 부창이 인위적으로 일어나면서 안전성을 말순화시킨 상황에서, AI 관련 법정 다투명이 의미를 부여하는 '법적 책임 고리'의 중요성 강조",
+      "points": [
+        "인구주도로 인간을 대상으로 인간의 보호와 안전성을 따른 '법적 책임 고리'에서 정의",
+        "2026년부터 이러한 다투명이 AI 사용자들의 챵양을 강제로 규명",
+        "보안 전략은 기술 방어가 아니라 '법적 책임 고리'을 환경적으로 준수하여 균정적인 안전성을 유지"
+      ],
+      "insight": "기사는 AI가 발생하여 일어나는 사고와 안전성에 대해 법적 책임의 중요성을 강조함"
+    },
+    {
+      "title": "[eGISEC 2026] 롤텍, 임퍼바 WAF",
+      "link": "http://www.boannews.com/media/view.asp?idx=141963&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 13 Feb 2026 09:55:00 +0900",
+      "description": "트래픽을 필터링해 위협을 차단하는 필수 보안 기술3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 롤텍은 경기도에 본사를 둔 IT 보안 전문 기업으로, 클라우드 보안·데이터 보안·시스템 보안·네트워크 보안 분야에서 종합적인 솔루션을 제공한다.클라우드 보안 분야에서는 CSPM(클라우드 보안 형상 관리), 컴플라이언스 모니터링, CIEM",
+      "language": "ko",
+      "summary": "eGISEC 2026에서 롤텍과 임퍼바 WAF는 구성된 IT/기술 보안 시스템을 제공하고, 이를 위한 몇 가지 필요대응 기술을 제공합니다.",
+      "points": [
+        "롤텍은 IT 보안 전문가로 인살된 솔루션을 제공한다.",
+        "기술은 CSPM, 컴플라이언스 모니터링과 같은 시스템보안 기술을 사용하고 있다.",
+        "IT 운영자들이 위한 필요대응에 사용할 수 있는 IT/기술 보안 기술을 제공한다."
+      ],
+      "insight": "이러한 기술은 구성된 보안 시스템에서의 필요대응과 IT/기술 보안 시스템을 강화하고, 위협을 차단하는 데 도움이 됩니다."
+    },
+    {
+      "title": "[SECON 2026] 세렉스, AI 스마트 침입감지시스템",
+      "link": "http://www.boannews.com/media/view.asp?idx=141951&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 13 Feb 2026 09:53:00 +0900",
+      "description": "침입감지율 99% 이상인 외부 침입 상황 실시간 인지 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 세렉스는 2003년부터 외산 제품에 의존하던 외곽 보안 시스템의 국산화를 목표로 연구개발을 지속해 온 보안 시스템 전문 기업이다.AI 기반 알고리즘과 센싱 기술을 탑재한 i-Guard 물리보안 솔루션을 통해 중요 시설 경계 시",
+      "language": "ko",
+      "summary": "세렉스이 AI 기기 i-Guard에의한 보안시스템은 외곽 보안 시스템의 공동잡음을 제거하여 99%의 알맘성체리성적인 침속추운에 대한 3월 18~2 end 일산 키넥테스트에서 연구받아.",
+      "points": [
+        "i-Guard, 공동잡음을 제거하고, 99%의 알맘성체리성적인 침속추운을 통해 AI 기기에 이어지며",
+        "i-Guard는 입찰 기기, 공급 전자, 점유와 연결된 소리를 인식하여 중요 시설 경계의 액세스 방ggi울이 피해질 수 있도록 하는 AI 기반 보안 시스템을 제공한다.",
+        "i-Guard은 기계학습으로 학습한 지식들을 활용하여, 인젤리기에서의 심위와, 입장공유없이도 항상 보호운전을 몸과 동시에 수원한다."
+      ],
+      "insight": "이 기사는 IT/기술 업계가 우리주의 방어기기 개발이나 논리적인 보안채전에서, i-Guard를 중요한 역할을 하게 강조한다. AI 기기는 공급자와 연동하지만, 이전의 공급방식과 달라진 신기세우롱 인공지성의 시스템을 통해 보호해제력과 보호체리성의 콘착화를 얻을 수 0ne가 아니라면, i-Guard이 기사에서 중요한 인사이트다."
+    },
+    {
+      "title": "[SECON 2026] 라온피플, Odin AI",
+      "link": "http://www.boannews.com/media/view.asp?idx=141933&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 13 Feb 2026 09:50:00 +0900",
+      "description": "고차원의 지능형 영상관제 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 라온피플은 검증된 인공지능(AI) 기술력과 통합 플랫폼 역량을 기반으로 산업 전반의 혁신을 선도하는 기업이다.머신비전 분야에서 쌓은 독보적인 노하우를 바탕으로 비전 AI부터 최신 생성형 AI까지 아우르는 기술 스택을 구축해 고객에게 실질적인 변화와 미래",
+      "language": "ko",
+      "summary": "라온플러스는 3~5홀에서 선수로 인공지능과 생성형 AI를 이어가고 있다.",
+      "points": [
+        "인공지능(AI)기술을 게시하는 라온플러스와",
+        "다음세계의 영상얻기를 위해 이전에 기존 AI로부터 발전한 생성형 AI를 이어가고 있다.",
+        "이 모델은 검증된 AI 기술력과 통합 플랫폼 역량을 기반에서 산업전용화를 위해 구축한다."
+      ],
+      "insight": "이러한 진 Academy를 유지하면서 AI의 활동성과 인간-AI 상호작용에 대한 염료가 될 수 0ne는 다소 아니한 속도로 이전세계 전문가들이 AI의 미래를 요구하고자 하는 경향성이 강조된다."
+    },
+    {
+      "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
+      "link": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 23:43:47 +0000",
+      "description": "The longevity-obsessed investor Bryan Johnson is charging $1 million to sign up for his \"Immortals\" program.",
+      "language": "en",
+      "summary": "Bryan Johnson offers a one-ofinish pay of $1 million for individuals interested in learning methods that could potentially extend human life through neuroscience research and personalized medicine.",
+      "points": [
+        "The 'Immortals' program led by Bryan Johnson charges up to $1 million per participant, focusing on longevity technologies based on neural science advancements",
+        "Participants in the study will undergo brain scans and other procedures as part of their commitment while contributing a yearly fee for research expenses",
+        "The program is currently accepting participants through an online application process, with further details available at www.immortalsprogram.com"
+      ],
+      "insight": "While the concept may seem fanciful to some, Bryan Johnson's 'Immortals' program represents a significant investment in longe0vity research within IT/technology industries and personalized medicine."
+    },
+    {
+      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+      "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 23:26:56 +0000",
+      "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+      "language": "en",
+      "summary": "Despite a disappointing quarterly earnings report, Pinterest saw more searches than ChatGPT and hopes to boost revenue with new features.",
+      "points": [
+        "Pinterest reported higher-than-expected usage during its recent dismal financial period.",
+        "The social media platform has been seeing an uptick in 'discovery' queries, which Pinterest believes could lead to increased revenue and user engagement through advertising and partnerships with brands like Chromecast or Amazon Alexa.",
+        "Pinterest plans to introduce new features designed specifically for discovery content as well as tools that make it easier for businesses of all sizes to use the platform."
+      ],
+      "insight": "The competition between Pinterest and AI-driven platforms like ChatGPT is intensifying, with user engagement metrics playing a significant role in shaping strategies within the technology industry. As social media companies explore new revenue streams through targeted advertising enabled by discovering content preferences of their users, they can capitalize on this data to increase ad effectiveness and ROI."
+    },
+    {
+      "title": "IBM will hire your entry-level talent in the age of AI",
+      "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 23:23:17 +0000",
+      "description": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+      "language": "en",
+      "summary": "In a strategic move for AI integration and talent retention, IBM plans to hire three times as many entry-level IT professionals by the year 2 end of 2026 in the U.S., with roles that are distinct from previous job requirements.",
+      "points": [
+        "IBM's goal is to triple its intake of fresh graduates and recent college hires into full-time positions, marking a significant shift towards aggressive recruitment strategies within the tech industry.",
+        "The evolving role for these entry-level workers at IBM entails being more involved in hands-on AI projects earlier on their career paths than ever before, rather than solely focusing on traditional software development tasks as done historically.",
+        "This hiring strategy by IBM reflects the industry's pivot to prioritize skills relevant for emerging technological trends and ensuring a competitive edge in the workforce."
+      ],
+      "insight": "IBM's change signals an increasing demand within the IT sector for employees with AI-centric skillsets, highlighting how companies are adapting to rapid tech advancements by restructuring entry-level positions accordingly. This approach may set new benchmarks in recruitment and workforce development strategies industry-wide."
+    },
+    {
+      "title": "Rivian was saved by software in 2025",
+      "link": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 23:17:32 +0000",
+      "description": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group.",
+      "language": "en",
+      "summary": "In a significant turn of events for the automotive industry in 2025, Rivian utilized software to enhance production and secure its financial stability.",
+      "points": [
+        "Rivian's collaboration with Volkswagen Group led to increased annual revenue through technology sharing.",
+        "The joint venture allowed for cost-effective manufacturing by optimizing assembly line robotics using AI algorithms.",
+        "Enhanced software integration improved vehicle customization options, attracting a larger customer base."
+      ],
+      "insight": "This event highlights the crucial role that technology and innovation play in maintaining industry viability, specifically how artificial intelligence can streamline production processes to boost revenue even for emerging companies like Rivian."
+    },
+    {
+      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+      "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 22:10:55 +0000",
+      "description": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+      "language": "en",
+      "summary": "Elon Musk envisions using Moonbase Alpha as a launch site for sending artificial intelligence (AI) satellite missions to deep space via mass drivers on the moon.",
+      "points": [
+        "Musk seeks an alternative vision by establishing Moonbase Alpha, targeted at exploring and utilizing lunar resources efficiently.",
+        "The proposed Moonbase Alpha would employ a 'mass driver' technology for propelling AI satellites towards deep space destinations such as Mars or asteroids with water deposits.",
+        "Such missions aim to advance scientific research, potential colonization efforts on other celestial bodies and secure future resource needs."
+      ],
+      "insight": "This news signifies a strategic pivot in the direction of lunar exploration by SpaceX. Utilizing Moonbase Alpha as an intermediary step for space missions could reduce reliance on Earth-based resources, cutting costs and travel time to deep space."
+    },
+    {
+      "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+      "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 20:31:47 +0000",
+      "description": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.",
+      "language": "en",
+      "summary": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 20:18:37 +0000",
+      "description": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+      "language": "en",
+      "summary": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI",
+      "points": [
+        "The infusion of funding for the AI startup takes place as it is vying for customers and cultural att...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "YouTube finally launches a dedicated app for Apple Vision Pro",
+      "link": "https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 20:14:15 +0000",
+      "description": "When Apple Vision Pro first came out two years ago, YouTube hesitated to release a dedicated app. Today is the day they officially launch one.",
+      "language": "en",
+      "summary": "YouTube has launched an official app for the Apple Vision Pro after initially refraining from doing so when it first came out two years ago.",
+      "points": [
+        "After a delay of over two years, YouTube releases dedicated application specifically tailored for Apple'ner’s new Oculus-like device known as ‘Apple Vision Pro.’",
+        "The app development was reportedly driven by demand and anticipation from the user community.",
+        "This launch signifies that major social media platforms recognize their need to adapt or risk losing a substantial portion of users who might shift towards emerging AR/VR devices."
+      ],
+      "insight": "Major IT companies must continuously innovate and provide apps compatible with cutting-edge hardware in order not to lose potential market share, especially as the use of VR technology becomes more mainstream among consumers. It also indicates a gradual acceptance within major tech firms towards new device ecosystems."
+    },
+    {
+      "title": "Hacker linked to Epstein removed from Black Hat cyber conference website",
+      "link": "https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 19:15:04 +0000",
+      "description": "Emails published by the Justice Department revealed cybersecurity veteran Vincenzo Iozzo emailed, and arranged to meet, Jeffrey Epstein multiple times between 2014 and 2018.",
+      "language": "en",
+      "summary": "Cybersecurity expert Vincenzo Iozzo emailed and met with Jeffrey Epstein despite knowing his legal troubles between 2014 to 2degrees of separation_CENTRAL AREA DEFINED. These emails, disclosed by the Justice Department, have raised concerns about professionalism within IT circles.",
+      "points": [
+        "Cybersecurity veteran Vincenzo Iozzo had direct contact with Jeffrey Epstein during his legal troubles",
+        "Emails reveal that these contacts occurred despite knowledge of Epstein's past misdemeanors and ongoing investigations",
+        "The incident prompts a reevaluation of professional conduct standards within IT communities"
+      ],
+      "insight": "This news highlights the potential for unprofessional behavior among technology professionals, suggesting that stricter ethical guidelines may be needed to maintain industry credibility."
+    },
+    {
+      "title": "Trump administration undermines EPA enforcement of Clean Air Act",
+      "link": "https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Feb 2026 19:13:31 +0000",
+      "description": "The EPA's new rule seeks to undo a 2009 finding that allowed the federal government to regulate six greenhouse gases.",
+      "language": "en",
+      "summary": "Under President Trump's administration, actions were taken to limit the EPA' extramural enforcement powers of Clean Air Act provisions relating to regulation six greenhouse gases.",
+      "points": [
+        "The new rule seeks to reverse a previous finding by undermining federal government’s authority over certain industries that emit harmful pollutants into the atmosphere. This change has faced criticism for disregarding climate science and international commitments.",
+        "By attempting to revise provisions of Clean Air Act, Trump administration's actions have sparked legal battles with environmental groups who argue it threatens public health and safety by allowing increased levels of pollutants in the air. The rule change also raises questions about whether businesses will continue adhering to stricter regulations voluntarily.",
+        "The move has potential global implications, as countries around the world are trying their best to work collectively against climate changes and harmful emissions."
+      ],
+      "insight": "This news highlights a tug of war between environmental protection measures for public health safety and business interests. It also raises questions about international cooperation on emission regulation, which could impact global efforts in mitigating climate change effects."
+    },
     {
       "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
       "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
@@ -540,214 +750,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 다원테크, CCTV 회전형 폴",
-      "link": "http://www.boannews.com/media/view.asp?idx=141869&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 12 Feb 2026 09:01:00 +0900",
-      "description": "조달청 특허 등록된 CCTV 회전형 폴3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 다원테크는 20여년의 축적된 기술력과 노하우를 바탕으로 CCTV 및 보안 관련 설비를 전문적으로 생산하는 기업이다. 카메라 폴, 브라켓, 함체, 모니터렉, 태양광 폴 및 브라켓, 터널표시 등 다양한 제품을 자체 설계 및 제작하고 있다.다원테크는 조",
-      "language": "ko",
-      "summary": "조달청 특허 등록된 CCTV 회전형 폴3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 다원테크는 20여년의 축적된 기술력과 노하우를 바탕으로 CCTV 및 보안 관련 설비를 전문적으로 생산하는 기업이다. 카메라 폴, 브라켓, 함체, 모니터렉, 태양광 폴 및 브라켓, 터널표시 등 다양한 제품을 자체 설계 및 제작하고 있다",
-      "points": [
-        "조달청 특허 등록된 CCTV 회전형 폴3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 다원테크는 20여년의 축적된 기술력과 노하우를 바탕으로 CCTV 및 ...",
-        "카메라 폴, 브라켓, 함체, 모니터렉, 태양광 폴 및 브라켓, 터널표시 등 다양한 제품을 자체 설계 및 제작하고 있다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "xAI lays out interplanetary ambitions in public all-hands",
-      "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 23:29:08 +0000",
-      "description": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
-      "language": "en",
-      "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available",
-      "points": [
-        "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-      "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 22:48:35 +0000",
-      "description": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
-      "language": "en",
-      "summary": "AI inference startup Modal Labs could raise $2.5 billion at a valuation with General Catalyst leading as investors' interest grows.",
-      "points": [
-        "General Catalyst is in talks to lead the round for AI startup Modal Labs, which has been valued between $1 billion and $1.3 billion before this potential funding",
-        "Modal Labs plans a post-money valuation of up to $2.5 billion after its latest round if all goes well",
-        "The company' endorses the 'AI first, data second,' approach which could attract more investments in AI"
-      ],
-      "insight": "This funding round indicates a growing confidence and belief among major venture capital firms that Modal Labs can deliver on its ambitious goals within the burgeoning artificial intelligence market."
-    },
-    {
-      "title": "OpenAI disbands mission alignment team",
-      "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 21:57:18 +0000",
-      "description": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
-      "language": "en",
-      "summary": "OpenAI disbands its mission alignment team but appoints a new leader within the organization.",
-      "points": [
-        "The OpenAI leadership has reassigned former members of their now-defunct 'mission' team, giving them different roles across the company",
-        "Former chief futurist and head curator Adam Kingsmith will lead the newly appointed mission alignment group within OpenAI.",
-        "Disbandment was due to a need for better internal focus on open AI directionality"
-      ],
-      "insight": "The disbursement of the team highlights potential issues with maintaining consistent and directed growth in ethical artificial intelligence, emphasizing an increased demand within organizations for clearer strategies."
-    },
-    {
-      "title": "Apple’s Siri revamp reportedly delayed… again",
-      "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 21:19:46 +0000",
-      "description": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
-      "language": "en",
-      "summary": "Apple's Siri revamp is delayed with certain enhanctheds expected to arrive post-iOS 26.4 update and others potentially introduced alongside iOS 27.",
-      "points": [
-        "The introduction of the revised version of Apple’s virtual assistant, Siri, has been pushed back beyond its initial rollout timeframe with some features getting delayed until May or September's iOS release.",
-        "Apple continues to refine and improve functionality for AI assistants even as updates are released.",
-        "The company did not specify which particular enhancements were being postponed, only that the rollout of certain improvements would be slower than anticipated."
-      ],
-      "insight": "This delay in updating Siri indicates Apple's commitment to delivering a polished and more advanced assistant experience; however, it might affect user satisfaction with frequent but incremental updates instead of consistent overhauls every year."
-    },
-    {
-      "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-      "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 21:07:37 +0000",
-      "description": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
-      "language": "en",
-      "summary": "Uber Eats has introduced an AI-driven Cart Assistant capable of creating shopping lists by adding products from the user's wishlist.",
-      "points": [
-        "The new 'Cart Assistant' feature enables automatic addition of items to online grocery carts via text or image prompts, drawing inspiration from AI-driven tools like Spoonbend."
-      ],
-      "insight": "This innovative integration could significantly reduce the time and effort users spend planning their meals while increasing accuracy in dietary management for individuals with specific food requirements. As it becomes more commonplace, similar features might further reshape online grocery shopping experiences across various e-commerce platforms."
-    },
-    {
-      "title": "Who will own your company’s AI layer? Glean’s CEO explains",
-      "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 20:49:07 +0000",
-      "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it? Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI […]",
-      "language": "en",
-      "summary": "The article discusses the evolution of Enterprise Artificial Intelligence (AI) from simple chatbots into systems capable of doing work across organizations. Glean is positioning its AI as a foundational layer that supports these advanced enterprise AIs, raising questions about ownership.",
-      "points": [
-        "Enterprise AI is evolving to perform tasks beyond answering queries and needs an underlying infrastructure for complex operations within organizations.",
-        "Glean has transformed from an enterprise search product into a comprehensive 'AI work assistant' that could become the essential backbone of modern Enterprise AI systems.",
-        "The article raises critical questions about who should own this pivotal layer in company infrastructure, implying its significance for competitive advantage."
-      ],
-      "insight": "As companies increasingly rely on complex enterprise AIs to gain a business edge, determining ownership of the foundational AI components becomes crucial. This will likely become an important strategic decision as technology continues to advance and reshape industries."
-    },
-    {
-      "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
-      "link": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 20:46:40 +0000",
-      "description": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file. Patch now.",
-      "language": "en",
-      "summary": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
-      "link": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 19:58:01 +0000",
-      "description": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
-      "language": "en",
-      "summary": "Joshua Lu from a16z shares insights into how companies can stand out in the competitive world of startup accelerators like Speedrun.",
-      "points": [
-        "a16z's Speedrun program is extremely selective, so standing out requires unique value propositions and clear business models",
-        "Prior experience with a360 or other mentorship programs can be beneficial due to the non-technical nature of early stage startup activities in accelerators",
-        "Having an end goal for joining Speedrun beyond just funding, such as specific industry connections and tailored feedback"
-      ],
-      "insight": "The article emphasizes that success within a16z's competitive programs like Speedrun requires more than technical excellence; it demands strategic planning with clear value propositions."
-    },
-    {
-      "title": "Cash App adds payment links so you can get paid in a DM",
-      "link": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 19:50:41 +0000",
-      "description": "The new feature allows users to share payment requests in a variety of digital settings.",
-      "language": "en",
-      "summary": "Cash App has introduced the ability for users to request and share payments through direct links within various digital platforms.",
-      "points": [
-        "The Cash App feature enables sharing payment requests using a unique link that can be accessed by others with your permission.",
-        "This new functionality extends beyond typical cash transfer methods, allowing transfers via email, text message (SMS), and social media direct messages (DM).",
-        "Cash Apple Pay is an optional service within the Cash App feature set."
-      ],
-      "insight": "The introduction of payment links in popular digital environments by a major player like Cash App could significantly change how payments are shared among friends and family, potentially affecting other financial services that rely on peer-todependent sharing models."
-    },
-    {
-      "title": "Amazon’s new eero Signal keeps you connected to the internet when outages occur",
-      "link": "https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 19:30:14 +0000",
-      "description": "A new device from eero will keep you online even if your ISP goes down.",
-      "language": "en",
-      "summary": "A new device from eero will keep you online even if your ISP goes down",
-      "points": [
-        "A new device from eero will keep you online even if your ISP goes down",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The search is on: 2026 Joseph C. Belden Innovation Award nominations are open",
-      "link": "https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 19:30:00 +0000",
-      "description": "Nominations for the 2026 Joseph C. Belden Innovation Award are open, inviting SMBs with groundbreaking innovation a chance to win scaling opportunities. Last day to apply is February 13.",
-      "language": "en",
-      "summary": "Small and medium-sized businesses (SMBs) can now nominate themselves or others for the Joseph C. Belden Innovation Award by February 13. The award recognizes innovative solutions that provide SMB recipients with a chance to scale their operations, potentially leading to rapid growth.",
-      "points": [
-        "The Joseph C. Belden Innovation Award has opened nominations for the upcoming event in 2026.",
-        "SMBs seeking groundbreaking innovations are invited to apply by February 13.",
-        "Winners will have scaling opportunities leading to potential rapid growth."
-      ],
-      "insight": "This award presents a significant opportunity for SMBs in the IT/technology industry, recognizing and enabling disruptive business solutions that facilitate expansion. The competition encourages innovative thinking within this sector and rewards those who can effectively scale their ideas into successful products or services."
-    },
-    {
-      "title": "Activist investor Ancora publicly opposes the WBD-Netflix deal",
-      "link": "https://techcrunch.com/2026/02/11/activist-investor-ancora-publicly-opposes-the-wbd-netflix-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 19:20:50 +0000",
-      "description": "An investment group is trying to sway Netflix shareholders to reject the WBD deal in favor of Paramount.",
-      "language": "en",
-      "summary": "Activist investor Ancora opposes a proposed merger between WarnerMedia and Discovery Communications (WBD), advocating for Netflix to merge with its rival Paramount instead.",
-      "points": [
-        "Ancora, an activist shareholder group of hedge fund Ridgewood Associates LP led by Roy C. Williams II has filed a proxy statement urging the rejection of WarnerMedia'ner Discovery merger in favor of Netflix and Paramount.",
-        "This unprecedented move seeks to merge WBD with itself, creating an entity that would be headquartered on Wall Street but owned by Hollywood through its ownership stake in ViacomCBS. The new combined company could compete directly against Disney+, HBO Max and Apple TV Plus.",
-        "The group argued Netflix's merger will provide it with the scale necessary to expand into original content production while Paramount has a proven track record of creating popular shows like Friends."
-      ],
-      "insight": "This news indicates that investor activism is becoming an influential force in shaping corporate strategies within the entertainment industry, as shareholders now have more leverage to propose and support alternative business models for companies under their control. The potential rivalry between Netflix-Paramount combo versus other streaming platforms like Disney+ could intensify competition."
-    },
-    {
-      "title": "DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’",
-      "link": "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Feb 2026 18:41:41 +0000",
-      "description": "The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government among its customers.",
-      "language": "en",
-      "summary": "The Department of Justice has charged the former CEO of Trenchant Technologies with criminal offenses for selling exploits to a broker linked with Russian interests.",
-      "points": [
-        "Former CEO faces nine years in prison",
-        "Exploits sold included tools like Stuxnet and BlackEnergy ",
-        "Russian government listed as customer"
-      ],
-      "insight": "This case highlights the potential risks associated with cybersecurity exploit trading, especially when these capabilities are in the hands of foreign national security interests."
     }
   ]
 }
