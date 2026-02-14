@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-02-13T18:54:58.333Z",
+  "generatedAt": "2026-02-14T02:01:08.668Z",
   "articles": [
+    {
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Feb 2026 22:12:26 +0000",
+      "description": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+      "language": "en",
+      "summary": "Airbnb has integrated artificial intelligence to handle a third of customer support inquiries within the US and Canada.",
+      "points": [
+        "A third of Airbnb's customer service is now managed by AI, particularly for handling basic queries like refund requests or account issues.",
+        "AI-driven chat system was rolled out first to hosts before expanding to guests in October last year and has been well received since its launch.",
+        "The company employs a mix of human customer service agents (150) and AI for the remaining two thirds, with plans to scale up this model."
+      ],
+      "insight": "This move by Airbnb signals an industry trend towards automation in customer support within IT services sector as businesses aim for efficiency. It raises questions about future employment roles and consumer expectations of technology-driven service interactions."
+    },
+    {
+      "title": "Fintech lending giant Figure confirms data breach",
+      "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Feb 2026 21:02:46 +0000",
+      "description": "The company said hackers downloaded “a limited number of files” after breaking into an employee’s account. The hacking group ShinyHunters took responsibility for the breach.",
+      "language": "en",
+      "summary": "Fintech lending company Figure has confirmed a data breach where hackers downloaded files from an employee' end of account after breaking in.",
+      "points": [
+        "Hacking group ShinyHunters confessed to the breach",
+        "Files were limited, found on only one user’s account",
+        "Breach timeline still unknown"
+      ],
+      "insight": "This data breach in a fintech company highlights potential vulnerabilities within employee accounts and underscores the need for robust cybersecurity measures. It also serves as a reminder of constant vigilance against evolving hacker tactics."
+    },
+    {
+      "title": "Why top talent is walking away from OpenAI and xAI",
+      "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Feb 2026 21:00:00 +0000",
+      "description": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature. Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony […]",
+      "language": "en",
+      "summary": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature...",
+      "points": [
+        "AI companies have been hemorrhaging talent the past few weeks",
+        "Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony […]",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Sex toys maker Tenga says hacker stole customer information",
+      "link": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Feb 2026 20:19:05 +0000",
+      "description": "The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.",
+      "language": "en",
+      "summary": "Tenga, Japan's sex toy manufacturer, reported a data breach where hackers accessed sensitive information such as names, email addresses, order details, and customer service interactions from an employee' end inbox.",
+      "points": [
+        "Japanese company Tenga reports hacker access resulting in theft of personal customer information including emails, correspondences, and transactions."
+      ],
+      "insight": "The data breach could erode trust among existing customers while prompting a reevaluation of cybersecurity measures within small to medium-sized businesses across various sectors."
+    },
     {
       "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
       "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
@@ -689,66 +747,6 @@
         "This launch signifies that major social media platforms recognize their need to adapt or risk losing a substantial portion of users who might shift towards emerging AR/VR devices."
       ],
       "insight": "Major IT companies must continuously innovate and provide apps compatible with cutting-edge hardware in order not to lose potential market share, especially as the use of VR technology becomes more mainstream among consumers. It also indicates a gradual acceptance within major tech firms towards new device ecosystems."
-    },
-    {
-      "title": "Hacker linked to Epstein removed from Black Hat cyber conference website",
-      "link": "https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Feb 2026 19:15:04 +0000",
-      "description": "Emails published by the Justice Department revealed cybersecurity veteran Vincenzo Iozzo emailed, and arranged to meet, Jeffrey Epstein multiple times between 2014 and 2018.",
-      "language": "en",
-      "summary": "Cybersecurity expert Vincenzo Iozzo emailed and met with Jeffrey Epstein despite knowing his legal troubles between 2014 to 2degrees of separation_CENTRAL AREA DEFINED. These emails, disclosed by the Justice Department, have raised concerns about professionalism within IT circles.",
-      "points": [
-        "Cybersecurity veteran Vincenzo Iozzo had direct contact with Jeffrey Epstein during his legal troubles",
-        "Emails reveal that these contacts occurred despite knowledge of Epstein's past misdemeanors and ongoing investigations",
-        "The incident prompts a reevaluation of professional conduct standards within IT communities"
-      ],
-      "insight": "This news highlights the potential for unprofessional behavior among technology professionals, suggesting that stricter ethical guidelines may be needed to maintain industry credibility."
-    },
-    {
-      "title": "Trump administration undermines EPA enforcement of Clean Air Act",
-      "link": "https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Feb 2026 19:13:31 +0000",
-      "description": "The EPA's new rule seeks to undo a 2009 finding that allowed the federal government to regulate six greenhouse gases.",
-      "language": "en",
-      "summary": "Under President Trump's administration, actions were taken to limit the EPA' extramural enforcement powers of Clean Air Act provisions relating to regulation six greenhouse gases.",
-      "points": [
-        "The new rule seeks to reverse a previous finding by undermining federal government’s authority over certain industries that emit harmful pollutants into the atmosphere. This change has faced criticism for disregarding climate science and international commitments.",
-        "By attempting to revise provisions of Clean Air Act, Trump administration's actions have sparked legal battles with environmental groups who argue it threatens public health and safety by allowing increased levels of pollutants in the air. The rule change also raises questions about whether businesses will continue adhering to stricter regulations voluntarily.",
-        "The move has potential global implications, as countries around the world are trying their best to work collectively against climate changes and harmful emissions."
-      ],
-      "insight": "This news highlights a tug of war between environmental protection measures for public health safety and business interests. It also raises questions about international cooperation on emission regulation, which could impact global efforts in mitigating climate change effects."
-    },
-    {
-      "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
-      "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Feb 2026 19:02:07 +0000",
-      "description": "WP Engine claims Automattic was going to target more hosting companies with royalty fees.",
-      "language": "en",
-      "summary": "Automattic may impose its own 'royalty' fee on competing webhosting services as a means of extending control over the digital marketplace.",
-      "points": [
-        "Automattic plans to charge royalty fees from other hosting companies for using WordPress templates and plugins",
-        "The move is seen by some within Automattic, such as CEO Matt Mullenweg, as a way of protecting the market without price hikes.",
-        "Critics argue that this strategy could distort competition in favor of one company."
-      ],
-      "insight": "Automattic'sin move to charge royalty fees from competitors may signify an aggressive approach towards securing a dominant market position, but it raises questions about the implications for fair competition within the web hosting industry."
-    },
-    {
-      "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
-      "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Feb 2026 18:30:12 +0000",
-      "description": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
-      "language": "en",
-      "summary": "Spotify's top developers have been assisted by an AI since December, leading to faster software creation without writing code themselves.",
-      "points": [
-        "Claude Code and Honk are internal tools used for automating parts of the Spotify development process.",
-        "The collaboration between these tools led to a significant boost in productivity among developers at Spotify'in December.",
-        "AI-driven coding has become an integral part of how some software is developed, as demonstrated by this initiative."
-      ],
-      "insight": "This development shows the increasing role AI can play within IT and technology industries to enhance productivity without traditional human intervention. It may pave the way for more widespread use of AI in software development processes across various companies, potentially reshaping job roles."
     }
   ]
 }
