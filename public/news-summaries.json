@@ -1,6 +1,65 @@
 {
-  "generatedAt": "2026-02-14T18:37:01.946Z",
+  "generatedAt": "2026-02-15T02:11:51.679Z",
   "articles": [
+    {
+      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Feb 2026 22:30:00 +0000",
+      "description": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.",
+      "language": "en",
+      "summary": "Homeland Security issued subpoenas for account holder identities linked with anti-ICE rhetin in tech platforms.",
+      "points": [
+        "Department of Homeland Security (DHS) sent hundreds of legal demands to unmask anonymous critics within the technology industry, specifically those targeting ICE policies and practices on various social media sites such as Twitter and Reddit",
+        "The push for account holder identification from DHS comes amid heightened national security concerns regarding immigration policy criticism.",
+        "Tech companies like Twitch are reassessing their user privacy terms to prevent similar law enforcement activities in the future."
+      ],
+      "insight": "This event suggests a potential conflict between government investigations and technology platforms' commitments to protecting users’ anonymity, which could lead tech companies to review or revise policies regarding data sharing with authorities. It also raises broader questions about freedom of speech online."
+    },
+    {
+      "title": "Is safety ‘dead’ at xAI?",
+      "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Feb 2026 21:55:44 +0000",
+      "description": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+      "language": "en",
+      "summary": "Former employee reveals Elon Musk wants AI like his Grok chatbot to be 'unhinged' for xAI platform",
+      "points": [
+        "Elon Musk is reportedly working on making the unsupervised language model ChatGPT more conversational and less constrained by its training data.",
+        "This effort aims at developing an AI that can learn from interactions without being restricted to factual accuracy, reflecting concerns about 'unhinged' chatbots causing harm or spread misinformation."
+      ],
+      "insight": "The push for more unrestrained language models in the IT industry raises questions around safety and ethics of AI communication. Balancing creativity with responsibility is becoming a growing concern as companies like Microsoft, Google, and Meta race to develop advanced chatbots that can converse naturally."
+    },
+    {
+      "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+      "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Feb 2026 20:37:42 +0000",
+      "description": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days",
+      "language": "en",
+      "summary": "Stacy Brown-Philpot at Cherryrock Capital emphasizes supporting overlooked founders with lesser funding rounds in a VC landscape that typically seeks higher valuation deals.",
+      "points": [
+        "The venture capital market is becoming increasingly competitive, focusing on high-profile AI startups and significant investment amounts. In this climate, Stacy Brown-Philpot at Cherryrock Capital chooses to support founders who may have been overlooked due to their less 'buzz'y business models or regional roots.",
+        "Brown-Philpot mentions that there is a lack of diversity within the tech industry and in VC dealings. By investing in companies founded by women, people of color, LGBTQ+ founders, immigrants, veterans, working class individuals or those with nontraditional backgrounds, she believes it's important to create more inclusive access within the tech community.",
+        "The VC firm has invested in around 30 companies this year and plans to invest a total of $5.6 million between now and December."
+      ],
+      "insight": "Stacy Brown-Philpot'thorough approach on supporting underrepresented founders challenges the traditional VC model, potentially leading to greater diversity within tech startups which could result in broader perspectives for innovation. Her methods indicate a pivot towards more inclusive investment strategies that recognize talent and potential beyond conventional metrics."
+    },
+    {
+      "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+      "link": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Feb 2026 19:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Alta LLC, a startup named after the '90s TV show 'Clueless', has partnered with public school brand Public School to integrate Alta's styling tools into their websites.",
+      "points": [
+        "Startup Alta partners with Public School for website integration of its own design technology",
+        "Alta introduces a browser-based interface for the 'Clueless'-inspired AI that assists non-designers to create visually appealing web content without coding knowledge.",
+        "This collaboration marks an increasing trend in leveraging artificial intelligence tools within education and public sector websites."
+      ],
+      "insight": "The partnership between Alta LLC and Public School demonstrates a significant shift towards user-friendly design technologies that democratize web development, making it accessible to non-designers. This trend could lead to more innovative educational resources as the barrier to entry lowers."
+    },
     {
       "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
       "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
@@ -689,66 +748,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘CVE-2026-25881’ 취약점, 샌드박스JS 보호막 무력화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142170&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Feb 2026 14:30:00 +0900",
-      "description": "격리된 환경의 핵심 보호 메커니즘이 사소한 로직 결함으로도 무너질 수 있다는 것 보여줘[보안뉴스 김형근 기자] 자바스크립트 라이브러리인 ‘샌드박스JS(SandboxJS)’에서 호스트 시스템을 장악할 수 있는 심각한 샌드박스 탈옥 취약점이 발견됐다. 이번 결함은 CVE-2026-25881로 추적되며, CVSS 점수 8.3점의 중대한 위험도를 기록해 업계의",
-      "language": "ko",
-      "summary": "CVE-2026-25881 감사업계에서 'SandboxJS'에서의 상당한 보호막 탈움점이 드문해서 무난한 정보격리가 되어 보호 메커니즘에 대해 다음과 같은 추가 차원을 제시함.",
-      "points": [
-        "SandboxJS라는 Java스크립트 라이브러리로 자바스크립트를 사용할 수 decrease으로 오작시의 보호를 위해서 가까이하는 CVE-2026-25881이 'SandboxJS'의 중지조치 방식을 통해 보호막이 결국 무난한 상태로 만들어내는 문제.",
-        "취약점은 'SandboxJS'가 확장성을 위해 자바스크립트에 부여하기 위한 모습이 발침적으로 수정이 되어있지 않는 것을 의미.",
-        "보호 막은 'SandboxJS'에서의 중지조치 취약점, CVE-2026-25881이나 그리고 동일한 문제점을 다른 라이브러리에서도 발침적으로 수정할 수 0가지니."
-      ],
-      "insight": "이 'SandboxJS' 기술자이상의 보호 막은 CVE-2026-25881에 관한 문제점은 IT/기술 업계 내에서 참조해야 할 'SandboxJS'의 보호 막이 현제로 인해서 개선이 필요한지 광범위한 보안 연구가 필요하다."
-    },
-    {
-      "title": "Digital First 정책으로 AI 행정 본격화하는 몽골",
-      "link": "http://www.boannews.com/media/view.asp?idx=142057&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Feb 2026 14:12:00 +0900",
-      "description": "행정·교통 현장에서 먼저 쓰이는 AI전자정부 기반 위에 AI 적용 본격화... 인력·연산 인프라는 과제[보안뉴스 강초희 기자] 몽골에서 인공지능(AI)이 정책과 산업 영역에서 본격적으로 논의되기 시작한 시점은 비교적 최근이다. 2016~2017년 무렵 핀테크, 전자정부, 교통관제 분야를 중심으로 AI와 빅데이터 개념이 소개됐지만, 초기에는 해외 솔루션을 활",
-      "language": "ko",
-      "summary": "몽골의 정책이 AI를 핵심로 구성하여 정보화 기반 전용 시스템을 도입하는 것에 대한 공지",
-      "points": [
-        "무렵 국내에서 AI의 기능과 연구가 비로마나 일어났다.",
-        "전자 정부는 AI를 적용시키고 기술적인 진전을 위해 피로만으로 대체한다.",
-        "국내에서도 무렵 몽골의 정책이 AI를 사용하여 교통관참조와 보안을 개선할 방향을 가지고 있다."
-      ],
-      "insight": "국내에서도 몽골의 AI는 시스템화와 정보처리를 강조하며, 핵심적인 전문가인 몽골의 브랑카드와 연구기에서도 AI의 이해와 장점을 강조하고 산업으로 맞추기 위해서 필요한 지식과 기술을 제공한다."
-    },
-    {
-      "title": "[eGISEC 2026] 링크넷코리아, 인공지능 융복합 도로진입차단시스템",
-      "link": "http://www.boannews.com/media/view.asp?idx=141964&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Feb 2026 13:59:00 +0900",
-      "description": "상시 무인자동제어와 실시간 관제 및 모니터링 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 링크넷코리아는 주요 정보통신시설과 금융권 및 민간기업과 연계해 망분리, 망연계, 시스템접근제어, 통합로그인 지원 생체인증 솔루션 등을 판매·구축·통합·유지보수하는 IT 전문 기업이다.현재는 다양한 도로교통안전&재난감지 솔루션 시스템을 새",
-      "language": "ko",
-      "summary": "상시 무인자동제어와 실시간 관제 및 모니터링 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 링크넷코리아는 주요 정보통신시설과 금융권 및 민간기업과 연계해 망분리, 망연계, 시스템접근제어, 통합로그인 지원 생체인증 솔루션 등을 판매·구축·통합·유지보수하는 IT 전문 기업이다. 현재는 다양한 도로교통안전&재난감지 솔루션 시스템을 새",
-      "points": [
-        "현재는 다양한 도로교통안전&재난감지 솔루션 시스템을 새",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 성현시스템, AI 데이터센터 통합관제 시스템",
-      "link": "http://www.boannews.com/media/view.asp?idx=141950&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Feb 2026 13:56:00 +0900",
-      "description": "운영 효율과 보안 신뢰도 동시 만족 차세대 데이터센터 보안 해법3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 성현시스템은 2010년 설립 이후 출입통제 및 인증 기술을 기반으로 보안·운영 솔루션을 제공해 온 전문 기업이다.전국 10여개 데이터센터에 출입통제 보안 솔루션을 구축하고 중앙관제 환경을 운영한 경험을 바탕으로, 고신뢰 인",
-      "language": "ko",
-      "summary": "성현시스템이 초기에 구축한 운영 환경과 인증 서비스를 공용체제로 제공하며, IT/기술 업체에서의 보안이 전문적인 관리에 가까이 삼성시프트에서의 최신 보안 소풍식 제품과 비슷하지만, 성현시스템은 그룹 세대가 동일한 인증 여부로 인정할 수 있다.",
-      "points": [
-        "성현시스템이 추가 제공할 기업인 솔루션과 전문 사이드와의 오페인성을 강조",
-        "광고를 지원하지만, 그래픽 광고에서는 보안 제품과 비슷한 광고로 다른 의미가 드는 경우",
-        "시스템이 2010년에 설치한 이후 구축하는 보안 기능을 IT/기술 업체에서의 고수준의 광고를 제공"
-      ],
-      "insight": "이 기사는 IT/기술 업계에서도 보안과 운영 효율에 대해 중요한 참조있어야 하며, 성현시스템은 IT/기술 업체에서의 광고와 보안 제품에 대해 전문적이진실천을 보장하는 중요한 시스템 구성이다."
     }
   ]
 }
