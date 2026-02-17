@@ -1,6 +1,241 @@
 {
-  "generatedAt": "2026-02-17T13:08:57.045Z",
+  "generatedAt": "2026-02-17T19:06:56.208Z",
   "articles": [
+    {
+      "title": "Anthropic releases Sonnet 4.6",
+      "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 18:00:00 +0000",
+      "description": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
+      "language": "en",
+      "summary": "Anthropiq has rolled out Sonnet 4.6 for AI research and application development.",
+      "points": [
+        "Sonnet models are released every four months by Anthropic as part of their commitment to advancing the field of artificial intelligence."
+      ],
+      "insight": "The constant release cycle reflects a rapidly evolving industry where AI capabilities must be regularly updated and refined, potentially setting new benchmarks for efficiency in language models like ChatGPT. This could inspire similar practices among other tech companies to maintain competitener status."
+    },
+    {
+      "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+      "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 17:22:09 +0000",
+      "description": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+      "language": "en",
+      "summary": "Mistral AI is set to acquire its first company, Koyeb, a Paris-based startup known for simplifying AI app deployment and managing infrastructure at scale.",
+      "points": [
+        "Mistral AI's purchase of Koyeb complements the startup’CTO's previous work on cloud computing tools during his time with French IT giant Bull."
+      ],
+      "insight": "The acquisition signifies Mistral AI taking a significant step towards establishing itself as an independent provider in the fast-evolving field of enterprise software for Artificial Intelligence, and could potentially disrupt traditional cloud service providers by offering more specialized services."
+    },
+    {
+      "title": "SpaceX vets raise $50M Series A for data center links",
+      "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 17:00:00 +0000",
+      "description": "Mesh aims to mass-produce optical transceivers for AI data centers.",
+      "language": "en",
+      "summary": "SpaceX's BlackRock Ventures and Bill Gates have invested $50 million in a company developing mass-produced optical transceivers for AI data centers.",
+      "points": [
+        "BlackRock, alongside SpaceX co-founder Elon Musk through his VC fund Armstrong Venture Capital",
+        "Investment totaling $50 million in the startup Epson XFab Technologies based near Tokyo aimed at creating affordable optical transceivers for data centers.",
+        "Epson is working on a 3D process to develop optics with no rough edges, allowing them to be used more effectively and efficiently within AI-focused facilities."
+      ],
+      "insight": "This investment could significantly lower the cost of optical transceivers for data centers, potentially accelerating growth in distributed computing infrastructrances such as edge computing where low latency is critical. This move also suggests increased interest and confidence from established tech entities into emerging AI-focused hardware developments."
+    },
+    {
+      "title": "Running AI models is turning into a memory game",
+      "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 16:44:14 +0000",
+      "description": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
+      "language": "en",
+      "summary": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+      "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 16:30:43 +0000",
+      "description": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
+      "language": "en",
+      "summary": "European Parliament lawmakers' devices were blocked from using in-built AI tools due to security concerns about sensitive data potentially being exposed on U.S.-based servers.",
+      "points": [
+        "U.S. government agencies and departments, including the European Parliament itself, have already banned facial recognition software for a year starting September 2021 as part of 'A New Pact'.",
+        "The EU has been tightening regulations on AI to prevent potential misuse such as mass surveillance or discriminatory biases.",
+        "Concerns include the possibility that sensitive data could turn up in U.S.-based servers, which may fall under different jurisdiction and privacy laws."
+      ],
+      "insight": "This news signifies growing awareness among lawm0rks of potential misuse of AI technologies by external entities like companies operating from the US, emphasizing data security within EU regulations. It reflects an urgent need for transparency and localized control in deploying critical technology such as face recognition."
+    },
+    {
+      "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+      "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 16:10:44 +0000",
+      "description": "The WordPress AI assistant doesn't need precisely tailored prompts, either.",
+      "language": "en",
+      "summary": "WordPress has launched an Artificial Intelligence (AI) Assistant that allows users to edit content, adjust styles, create images and more without needing precise tailored prompts.",
+      "points": [
+        "The WordPress AI assistant was introduced recently",
+        "This new technology enhances the usability of WordPress by eliminating specific prompt requirements for tasks like editing or creating posts",
+        "WordPress's CEO, Matt Mullenweg announced that this advancement would empower users to create content more efficiently"
+      ],
+      "insight": "The AI assistant represents a significant leap forward in making WordPress even more user-friendly and efficient for non-technical individuals by eliminating barriers traditionally associated with using the platform. It could potentially help democratize blogging and content creation."
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 15:59:38 +0000",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "language": "en",
+      "summary": "Australia initiated a ban in late 2de-cinty aimed at protecting young users from the dangers of social media.",
+      "points": [
+        "Australia implemented one of the first global bans on children's use of social media",
+        "The goal is to reduce risks like cyberbullying and exposure to predators",
+        "Social media addiction among youth has been a growing concern"
+      ],
+      "insight": "This ban reflects increasing global awareness about the negative impact of social media on children's mental health, safety, and development."
+    },
+    {
+      "title": "Amazon Fire TV’s new interface is now rolling out in the US",
+      "link": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 15:58:43 +0000",
+      "description": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
+      "language": "en",
+      "summary": "Amazon has launched a redesigned user interface for Fire TV in the US market. The update streamlines navigation with fewer menu options while introducing 'Alexa+' functionalities.",
+      "points": [
+        "Fire TV'selfs new UX simplifies layout and reduces menus",
+        "The revised UI is now available to users across all devices except for Android tablets, Amazon Echo Show, or Fire Tablet apps that were previously downloaded on the device before.",
+        "New features like Alexa+ are included in this update"
+      ],
+      "insight": "This change indicates a strategic move by Amazon to make its streaming devices more intuitive and voice-commanded friendly for users, potentially increasing user engagement with Fire TV."
+    },
+    {
+      "title": "[설날기획] 설 연휴 화제작 ‘휴민트’가 던진 보안 경고장...“가장 약한 고리는 사람”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142223&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Feb 2026 00:24:00 +0900",
+      "description": "류승완 감독 신작 ‘휴민트’, 첩보전 통해 사람이 지닌 보안 취약점 조명설 연휴 들뜬 심리 노린 스미싱 기승...사소한 질문 하나가 ‘딥보이스’도 막아내[보안뉴스 조재호 기자] 설 연휴, 류승완 감독의 신작 ‘휴민트(HUMINT)’가 극장가를 달구고 있다. 스크린 속 남북한 요원들의 심리전을 지켜보다 보면, 문득 기시감이 들기도 한다. 첩보원들의 심리전이",
+      "language": "ko",
+      "summary": "‘휴민트(HUMINT)’ 극장사에서 보안에 대한 경고를 제시하며, 이로써 보안적인 행동을 추천한다.",
+      "points": [
+        "- ‘휴민트(HUMINT)’극장사가 보안 경고를 같이 제시한다",
+        "- 기술이 지루하게 영향을 미치는 상황에 대한 인식",
+        "- 보안과정을 일컫는 사람의 중요성"
+      ],
+      "insight": "이 기사는 IT/기술 관련 분야에서 최소한의 보안을 유지하고 싶은 사람들에게, 현대적인 보안방식과 IT/기술 환경에서의 상태를 대로한다."
+    },
+    {
+      "title": "Apple Podcasts is getting an enhanced video experience this spring",
+      "link": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 15:06:48 +0000",
+      "description": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows.",
+      "language": "en",
+      "summary": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
+      "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 14:58:09 +0000",
+      "description": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
+      "language": "en",
+      "summary": "In a record year for AI funding within the U.in., several American companies have raised substantial capital amounts in early-stage financing.",
+      "points": [
+        "Three US-based AI firms completed more than $1 billion rounds of investment this year, showcasing confidence among large venture players and institutional backers like SoftBank Vision Fund II, Tencent Innovation Fund III & IV.",
+        "Among the most remarkable companies were Cerebra Health which raised a massive Series E round led by Sequoia with $208 million in funding; NextWave AI that closed its fourth tranche of financing at about $135m from SoftBank Vision Fund II.",
+        "Another standout was Reverie, which had raised a total of approximately $94.6M since 2021 and recently completed another round led by Tiger Global Management."
+      ],
+      "insight": "This unprecedented level of funding for early-stage US AI companies suggests heightened optimism in the industry's growth potential, with significant backing from top investment firms driving progress forward."
+    },
+    {
+      "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
+      "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 14:13:54 +0000",
+      "description": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
+      "language": "en",
+      "summary": "To bolster its share in the burgeoning artificial intelligence sector and enhance research capabilities, India plans to significantly increase its shared compute resources with a focus on GPUs.",
+      "points": [
+        "India adds 20,000 new GPUs for AI computing as part of an investment drive aimed at attracting over $200 billion in global funds by 2028",
+        "This move is a component of India's broader strategy to become self-reliant and gain leadership in high tech industries like semiconductors, software services, and artificial intelligence",
+        "India targets an investment influx exceeding $200 billion by 2028 for AI infrastructure"
+      ],
+      "insight": "This substantial planned expenditure in India's IT/technology sector signals a shift towards prioritizing high-tech industries, which could position the country as an emerging global powerhouse and influence investment trends worldwide."
+    },
+    {
+      "title": "Snapchat launches creator subscriptions in the US",
+      "link": "https://techcrunch.com/2026/02/17/snapchat-launches-creator-subscription-in-the-u-s/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 14:07:49 +0000",
+      "description": "Snapchat will let creators set their monthly subscription price.",
+      "language": "en",
+      "summary": "Snapchat will let creators set their monthly subscription price",
+      "points": [
+        "Snapchat will let creators set their monthly subscription price",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+      "link": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 14:00:00 +0000",
+      "description": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+      "language": "en",
+      "summary": "SpendRule has raised $2M in seed funding after debuting as a stealth project and now assists hospitals with tracking healthcare expenses using AI.",
+      "points": [
+        "SpendRule is an artificial intelligence-powered solution aimed at helping hospitals monitor spending",
+        "The startup has successfully secured $2M in seed funding from investors",
+        "With the new capital, SpendRule plans to expand its capabilities and assist a wider range of healthcare providers"
+      ],
+      "insight": "This development marks an important step towards more transparent spending practices within the IT/technology industry. As technology continues to evolve in supporting other sectors such as hospitality, education can benefit from similar innovations."
+    },
+    {
+      "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
+      "link": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 14:00:00 +0000",
+      "description": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
+      "language": "en",
+      "summary": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
+      "link": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 17 Feb 2026 13:08:46 +0000",
+      "description": "Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.",
+      "language": "en",
+      "summary": "Indian conglomerate Adani is set to invest $100 billion in AI-powered data centers which are expected to support up to 5 gigawatts of capacity.",
+      "points": [
+        "Adani Group plans a massive expansion into the global artificial intelligence (AI) industry by committing $100 billion towards building large scale, AI powered data centers.",
+        "The planned facilities will have an operational capacity between one to five gigawatts of load and are set up in collaboration with technology giants Google, Microsoft, and e-commerce platform Flipkart."
+      ],
+      "insight": "Adani's investment signals India's growing ambition to be a significant player on the global AI stage. This move could boost domestic technological capabilities while fostering international collaborations in technology development."
+    },
     {
       "title": "Airbnb expands its “Reserve Now, Pay Later” globally",
       "link": "https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/",
@@ -509,246 +744,6 @@
         "Blackstone led a group of backers to support Neysa's vision with an equity investment valued at $326 million and the issuance of convertible debt."
       ],
       "insight": "This financing round signals confidence in local AI infrastructure development, as Asian countries increasingly seek self-sufficiency to fuel their digital economies. Blackstone's investment not only supports Neysa but also highlights the growing role of private equity firms in driving innovation and expansion within the global tech industry."
-    },
-    {
-      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 22:28:02 +0000",
-      "description": "OpenAI said OpenClaw will live on as an open source project.",
-      "language": "en",
-      "summary": "OpenAI said OpenClaw will live on as an open source project",
-      "points": [
-        "OpenAI said OpenClaw will live on as an open source project",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-      "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 22:07:51 +0000",
-      "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
-      "language": "en",
-      "summary": "David Greene has filed a lawsuit against Google claiming he's been used as inspiration for the male voice in their new AI-powered tool NotebookLM without his consent.",
-      "points": [
-        "NPR’s David Greene files lawsuit alleging use of his identity to create NLP model voice",
-        "The Google notebook app released a male speaker named 'NotebookLM' with distinctive American English accent and tone matching the style of Morning Edition host.",
-        "Lack of transparency in AI technology development process highlighted by Greene’s lawsuit"
-      ],
-      "insight": "This case underscores growing concerns over personal identity protection, consent usage rights within technological innovations and calls for more transparent practices from tech companies."
-    },
-    {
-      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 21:11:28 +0000",
-      "description": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
-      "language": "en",
-      "summary": "Anthropic and the Pentagon are in a dispute regarding the use of their AI system Claude by defense forces.",
-      "points": [
-        "Claude is developed for natural language processing tasks.",
-        "The Pentagon considers using Claude to enhance domestic surveillnervation capabilities, which raises privacy concerns and ethical questions related to autonomous weapons systems. Anthropic opposes this usage of their technology citing the potential misuse and lack of safeguards in such applications.",
-        "This disagreement highlights a broader debate about AI's role in surveillance, national security, and the ethical implications thereof."
-      ],
-      "insight": "The dispute reflects significant concerns within the tech community regarding how advanced technologies like Claude are being utilized by government entities for purposes that may contravene individual privacy rights and escalate autonomous weaponry issues, underscoring a pressing need for ethical guidelines in AI deployment."
-    },
-    {
-      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 18:00:00 +0000",
-      "description": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-      "language": "en",
-      "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide",
-      "points": [
-        "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 17:30:00 +0000",
-      "description": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-      "language": "en",
-      "summary": "Glean is transitioning its focus towards creating a foundational technology platform that will serve as the 'middleware' beneath user interfaces in deploying enterprise-wide artificial intelligence systems.",
-      "points": [
-        "Arvind Jain, Glean CEO, talks about shifting from an interface to serving as backbone for AI implementations across businesses",
-        "The company aims to make it easier and more intuitive than ever before for organizations of any size to deploy enterprise-wide artificial intelligence solutions.",
-        "Glean's technology will streamline data discovery, analysis, visualization capabilities required by end users in their AI implementations."
-      ],
-      "insight": "This development could significantly lower barriers and costs associated with implementing effective enterprise AI systems within businesses of all sizes. It represents a strategic move to position Glean as an essential provider for comprehensive data management capabilities, which are integral components in building robust enterprise-wide artificial intelligence solutions."
-    },
-    {
-      "title": "TechCrunch Mobility: Rivian’s savior",
-      "link": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 17:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "TechCrunch reports that Rivian has received a substantial investment from Amazon CEO Jeff Bezos' $10 billion climate fund, providing the electric vehicle startup with much-nedependent financial support.",
-      "points": [
-        "Amazon founder and chief executive Jeff Bezos’s climate change initiative includes an infusion of cash into EV startups",
-        "Rivian will receive $200 million from Bezos' fund, which could help the company overcome liquidity issues.",
-        "The investment highlights a growing interest in sustainable transportation and electric vehicles."
-      ],
-      "insight": "This significant financial backing for Rivian not only addresses its immediate cash-flow concerns but also serves as an endorsement of EV technology, potentially encouraging more companies to explore similar ventures. It signifies a pivotal moment where major corporations are visibly investing in the future of eco-friendly transportation."
-    },
-    {
-      "title": "What the Epstein files reveal about EV startups and Silicon Valley",
-      "link": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 16:54:12 +0000",
-      "description": "Will the Epstein revelations lead to broader fallout in Silicon Valley?",
-      "language": "en",
-      "summary": "The article discusses how Jeffrey Epstein's criminal case has exposed potential misconduct among some of Silicon Valley's elite and raised concerns about the credibility and ethical standards within influential tech startups, particularly those in the electric vehicle (EV) sector.",
-      "points": [
-        "Jeffrey Epstein was accused by women he met through his associates at Palantier.com of sexual assaults dating back to as early as 2001.",
-        "The scandal has prompted a broader discussion about the credibility and ethical standards within influential tech startups, especially in EV companies like Tesla where Epstein had investments through his firm Dorilton Capital LLC.",
-        "Former US Attorney Rudy Guedea criticized Silicon Valley's elite for allowing people of dubious character to rise without challenge."
-      ],
-      "insight": "The Jeffrey Epstein scandal has highlighted potential ethical lapses within influential tech startups, which could lead to greater scrutiny and calls for transparency in Silicon Valley's corporate culture. This incident may affect investor confidence and demand stricter background checks among entrepreneurs."
-    },
-    {
-      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
-      "link": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 15:53:53 +0000",
-      "description": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
-      "language": "en",
-      "summary": "Joshua Lu from a16z provides advice on how to stand out in their competitive startup accelerator program called Speedrun.",
-      "points": [
-        "Understand the specific criteria used by speed run programs like a16z's, such as team dynamics and pitch skills",
-        "Develop a compelling narrative that highlights your passion for technology and its potential impact on society",
-        "Demonstrate technical expertise while maintaining clarity in communication during presentations"
-      ],
-      "insight": "The competition to enter programs like Speedrun is fierce, making it essential for startups to excel not just technically but also interpersonally and narratively."
-    },
-    {
-      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 15:41:16 +0000",
-      "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-      "language": "en",
-      "summary": "Hollywood entities are objecting to the new AI-driven video generator known as Seedance 2.0 due to its alleged role in copyright violations.",
-      "points": [
-        "The introduction of a sophisticated tool called Seedance 2.0 is causing discontent among Hollywood professionals for fostering unlawful replication and distribution of copyrighted content",
-        "Critics claim that the software's capabilities are being misused to bypass intellectual property rights, igniting legal disputes within the entertainment industry",
-        "Despite these concerns, proponents argue Seedance 2.0 is an innovative and indispensable platform for digital video creation"
-      ],
-      "insight": "This controversy underscores a growing tension between technological advancements in content generation tools like AI-driven generators and the protection of copyrighted materials within Hollywood, highlighting potential areas where regulations may need to evolve."
-    },
-    {
-      "title": "[eGISEC 2026] MAITUO, NSC-AR7A",
-      "link": "http://www.boannews.com/media/view.asp?idx=141995&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 15 Feb 2026 18:15:00 +0900",
-      "description": "파일 전송 속도가 빠르고 데이터 처리량이 많은 기업용 스토리지3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] MAITUO는 중국 선전에 본사를 둔 네트워크 보안 및 통신 하드웨어 전문 ODM 제조사로, 2012년에 설립됐다.네트워크 응용 하드웨어 플랫폼, 통신 응용 하드웨어 플랫폼, 스위치, 라우터, 게이트웨이, SD-WAN, uC",
-      "language": "ko",
-      "summary": "파일 전송 속도가 빠르고 데이터 처리량이 많은 기업용 스토리지3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] MAITUO는 중국 선전에 본사를 둔 네트워크 보안 및 통신 하드웨어 전문 ODM 제조사로, 2012년에 설립됐다. 네트워크 응용 하드웨어 플랫폼, 통신 응용 하드웨어 플랫폼, 스위치, 라우터, 게이트웨이, SD-WAN, uC",
-      "points": [
-        "파일 전송 속도가 빠르고 데이터 처리량이 많은 기업용 스토리지3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] MAITUO는 중국 선전에 본사를 둔 네트워크...",
-        "네트워크 응용 하드웨어 플랫폼, 통신 응용 하드웨어 플랫폼, 스위치, 라우터, 게이트웨이, SD-WAN, uC",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] AMAG Technology, Symmetry CONNECT 2.0",
-      "link": "http://www.boannews.com/media/view.asp?idx=141984&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 15 Feb 2026 18:13:00 +0900",
-      "description": "모듈식·확장 가능·미래에 적합한 신원 관리 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] AMAG Technology는 고객에게 포괄적인 솔루션을 제공하는 데 주력하는 글로벌 보안 솔루션 제조업체다.AMAG Technology의 강력하고 통합된 오픈 Symmetry 플랫폼은 접근 제어를 비롯한 비디오, 신원 관리, 방문객 관",
-      "language": "ko",
-      "summary": "AMAG Technology는 Symmetry CONNECT 2.0, 오픈 비디오, 신원 관리 시스템을 제공합니다.",
-      "points": [
-        "- 이 시스템은 모듈식 서비스를 제공하며, 미래에 기존 사용자의 더 나은 경향을 준수한다.",
-        "- AMAG Technology는 이 시스템들이 금방 모니터링과 확보를 통해 고객에게 안전한 인터뷰와 움직이기를 제공한다.",
-        "- 특히, 방문자의 신원 관리와 접근 제어는 고객의 정보를 관롭거나 공인 세보를 직접적으로 다루지 않아, 안전한 인터뷰가 확보되어 있다."
-      ],
-      "insight": "이 기사는 AMAG Technology가 IT/기술 업계에서 인정받을 수밖의 기초 보안 시스템입니다. Symmetry CONNECT 2.0이 모바일 시스템들과 호환독에서 강공균한 보호를 제공하는데 기여하며, 이를 통해 고객이 직접적으로 이용해도 전역저장 구조와 정보가치를 보호할 수 0pt에 허용됩니다."
-    },
-    {
-      "title": "[SECON 2026] 씨엠아이텍, EF-70",
-      "link": "http://www.boannews.com/media/view.asp?idx=141957&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 15 Feb 2026 18:11:00 +0900",
-      "description": "AI 트레킹 고속인증, 자동추적 멀티 생체인식기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨엠아이텍은 2009년부터 비접촉식 생체인식 기술의 선두주자로, 신뢰와 혁신을 바탕으로 생체인식 보안을 제공하고 있다.신원확인부터 출입통제·근태관리·본인확인 등 다양한 솔루션을 제공하며, 글로벌 시장에서도 더욱 단단한 입지를 다져가고 있다",
-      "language": "ko",
-      "summary": "AI 트레킹 고속인증, 자동추적 멀티 생체인식기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨엠아이텍은 2009년부터 비접촉식 생체인식 기술의 선두주자로, 신뢰와 혁신을 바탕으로 생체인식 보안을 제공하고 있다. 신원확인부터 출입통제·근태관리·본인확인 등 다양한 솔루션을 제공하며, 글로벌 시장에서도 더욱 단단한 입지를 다져가고 있다",
-      "points": [
-        "AI 트레킹 고속인증, 자동추적 멀티 생체인식기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨엠아이텍은 2009년부터 비접촉식 생체인식 기술의 선두주자...",
-        "신원확인부터 출입통제·근태관리·본인확인 등 다양한 솔루션을 제공하며, 글로벌 시장에서도 더욱 단단한 입지를 다져가고 있다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The great computer science exodus (and where students are going instead)",
-      "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 15 Feb 2026 08:40:27 +0000",
-      "description": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
-      "language": "en",
-      "summary": "While students' overall enthusiasm for computer science is waning slightly, there's a significant uptick in those pursuing AI-related studies.",
-      "points": [
-        "Despite declining interest in the general field of computer science among students, specific interests such as artificial intelligence are on the rise.",
-        "AI and data mining courses have seen an increased enrollment rate, indicating a shift towards more specialized AI education paths.",
-        "The growing popularity of AI studies raises concerns about future job opportunities for computer scientists without AI expertise."
-      ],
-      "insight": "This trend suggests that while the general field of computer science may see decreased interest, it's vital to keep evolving and specializing in tech fields such as artificial intelligence due to increasing demand. Educational institutions need to adapt accordingly by expanding AI-focused programs."
-    },
-    {
-      "title": "러시아 연계 ‘Prometei’ 봇넷, 윈도우 서버 노려 파상공격 재개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142236&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 15 Feb 2026 11:47:00 +0900",
-      "description": "원격 데스크톱 프로토콜(RDP)의 취약한 비밀번호나 초기 설정값 파고들어 시스템에 침투‘질투심 많은 세입자(Jealous Tenant)’... 다른 해커의 접근을 방화벽으로 차단해 독점적 권한 유지[보안뉴스 김형근 기자] 2016년부터 활동해 온 러시아 연계 봇넷 프로메테이(Prometei)가 최근 윈도우 서버를 대상으로 원격 접속 공격을 감행하고 있다.",
-      "language": "ko",
-      "summary": "Prometei 봇넷이 싱톤년에서 윈도우 서버로 공게를 탄생시켰다.",
-      "points": [
-        "- Prometei 봇넷은 원격 접속으로 윈도우 서버에 공격을 행한다.",
-        "- Jealous Tenant이나 스위치가 사유로하여 해외 IT 공격 시행",
-        "- Microsoft에서는 방화벽과 안전성을 강조하고 대응을 논의한다."
-      ],
-      "insight": "Prometei 봇넷이 원격적으로 윈도우 서버에 공격을 행한 이유가 아닌, 'Jealous Tenant'의 이름으로 인한 정보운전 요구와 안전성에 대해 모니터링하는 방식이다."
-    },
-    {
-      "title": "[eGISEC 2026] 삼오씨엔에스, 파르고스 v3.0",
-      "link": "http://www.boannews.com/media/view.asp?idx=141994&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 15 Feb 2026 11:32:00 +0900",
-      "description": "개인정보 접속기록 상시 모니터링 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 삼오씨엔에스는 개인정보 접속기록 관리 솔루션 및 빅데이터 분산처리 등 서비스 개발을 수행하는 IT 전문 기업으로, 선도적 플랫폼 개발 및 정보보안 전문 기업을 목표로 하고 있다.파르고스 v3.0은 이상행위(징후)를 인지·감시·감사할 수 있도록 하는",
-      "language": "ko",
-      "summary": "개인정보 접속기록 상시 모니터링 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 삼오씨엔에스는 개인정보 접속기록 관리 솔루션 및 빅데이터 분산처리 등 서비스 개발을 수행하는 IT 전문 기업으로, 선도적 플랫폼 개발 및 정보보안 전문 기업을 목표로 하고 있다. 0은 이상행위(징후)를 인지·감시·감사할 수 있도록 하는",
-      "points": [
-        "0은 이상행위(징후)를 인지·감시·감사할 수 있도록 하는",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 실리콘브릿지, 아이박스 v4",
-      "link": "http://www.boannews.com/media/view.asp?idx=141956&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 15 Feb 2026 11:31:00 +0900",
-      "description": "프리미엄 올인원 차량번호인식기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 실리콘브릿지는 사물인터넷 연동 클라우드 AI 통합플랫폼 솔루션 서비스를 제공한다. 전국 주요 아파트, 유료주차장, 지식산업센터, 놀이공원 등 현장별 최적화된 클라우드 기반의 무인 주차관제, 요금정산, 출입관제, 주차유도 시스템과 웹/앱 서비스를 공급하고 있",
-      "language": "ko",
-      "summary": "프리미엄 올인원 차량번호인식기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 실리콘브릿지는 사물인터넷 연동 클라우드 AI 통합플랫폼 솔루션 서비스를 제공한다. 전국 주요 아파트, 유료주차장, 지식산업센터, 놀이공원 등 현장별 최적화된 클라우드 기반의 무인 주차관제, 요금정산, 출입관제, 주차유도 시스템과 웹/앱 서비스를 공급하고 있",
-      "points": [
-        "프리미엄 올인원 차량번호인식기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 실리콘브릿지는 사물인터넷 연동 클라우드 AI 통합플랫폼 솔루션 서비스를 제공한...",
-        "전국 주요 아파트, 유료주차장, 지식산업센터, 놀이공원 등 현장별 최적화된 클라우드 기반의 무인 주차관제, 요금정산, 출입관제, 주차유도 시스템과 웹/앱 서비스를 공급하고 있",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
