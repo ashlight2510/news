@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-02-18T07:12:47.439Z",
+  "generatedAt": "2026-02-18T13:07:48.284Z",
   "articles": [
+    {
+      "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+      "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 13:01:04 +0000",
+      "description": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
+      "language": "en",
+      "summary": "India's Sarvam aims to democratize AI by bringing models onto feature phones, cars, and smart glasses.",
+      "points": [
+        "Sarvam is focusing on edge computing with AI using only megabytes of space that can run offline without requiring specialized hardware processors in vehicles or wearables like Google Glass.",
+        "The company's solution allows models to work within the constraints found in existing devices, such as phones and cars from companies including Mahindra, Honda, Nio (Tesla), BMW i3/i8 hybrpers, PSA vehicles, etc.",
+        "Sarvam is targeting both OEMs for vehicle manufacturing integration, along with various startups to include their AI models in smart glass and other wearable devices."
+      ],
+      "insight": "India's Sarvam has the potential to significantly reduce barriers associated with incorporating advanced AI into widely used consumer electronics like phones, cars, and eyewear. Their work could enable a broader range of users accessibility to smart features without needing high-end devices or constant internet connectivity."
+    },
+    {
+      "title": "Heron Power raises $140M to ramp production of grid-altering tech",
+      "link": "https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 13:00:00 +0000",
+      "description": "Tesla alumni Drew Baglino raises a large round to build a giga-scale factory, this time at his own startup.",
+      "language": "en",
+      "summary": "Heron Power has secured $140 million in funding and plans to expand its production of grid-altering technology within the next two years.",
+      "points": [
+        "Drew Baglino's startup, Heron Power, aims to produce at least one gigawener each year by building new factories or retrofitting existing ones as it ramp up with $140 million in funding",
+        "Heron plans to manufacture its turbines mostly offshore near the U.S.-Mexico border where there is already industrial infrastructure and labor availability.",
+        "With an expected production of 2 gigawinners over a two-year span, Heron's technology has potential implications for green energy solutions."
+      ],
+      "insight": "Heron Power's recent funding success signifies growing investor confidence in grid alteration technologies as viable alternatives to traditional renewable options. As the firm ramps up production and expands its presence, it could play a significant role in shaping future energy infrastructures."
+    },
+    {
+      "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
+      "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 12:55:20 +0000",
+      "description": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+      "language": "en",
+      "summary": "Sarvam AI lab has introduced several new open-source AI models with billions of parameters in various domains including text processing, speech synthesis and recognition, as well as document parsing.",
+      "points": [
+        "The introduction by Sarvam includes multiple large scale language models such as a highly parameterized (30 billion) model for natural language understanding tasks like classification and question answering. They have also developed an extensive multilingual text-to-speech system capable of producing more than ten languages, which is openly available.",
+        "Sarvam has extended its suite with the release of a speech recognition (ASR) service that handles various language models for different tasks and intends to expand this further. Additionally, they have released an optical character recognition model pre-trained on millions of documents in multiple Indian languages designed primarily for document processing.",
+        "To encourage collaboration within AI research communities globally, Sarvam has made these new resources freely accessible under open licenses."
+      ],
+      "insight": "Sarvam's initiative demonstrates a strong commitment to accelerating advancements in multilingual language processing and document understanding by making cutting-edge models available without restrictions. This could democratize AI development opportunities, especially for researchers working with Indian languages or those interested in open collaboration."
+    },
+    {
+      "title": "DG Matrix raises $60M to make data center power smarter",
+      "link": "https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 12:30:00 +0000",
+      "description": "The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks.",
+      "language": "en",
+      "summary": "DG Matrix has raised $60 million in funding for its solid-state transformer technology that intelligently aggregates power from various sources and delivers it to data center racks.",
+      "points": [
+        "DG Matrix' end goal is achieving a more efficient, cost effective, environmentally friendly alternative with better performance than traditional solutions",
+        "The company has raised $60 million in funding at the Series B round led by Insight Partners and including participation from previous investors GV (formerly Google Ventures) & Kleiner Perkins",
+        "DG Matrix plans to deliver its product within one year with an expected price point of less than a dollar per rack hour"
+      ],
+      "insight": "The funding and development efforts by DG Matrix could revolutionize data center power management, leading the industry towards more sustainable and efficient alternatives."
+    },
+    {
+      "title": "대규모 공급망 공격에 악용됐던 노트패드++, 지금 즉시 ‘보안 업데이트’ 하세요",
+      "link": "http://www.boannews.com/media/view.asp?idx=142292&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Feb 2026 18:38:00 +0900",
+      "description": "[3줄 요약] 1. 무료 오픈소스 텍스트 및 코드 편집기 노트패드++, 공급망 공격으로 해킹 피해2. 중국 연계 해킹그룹 ‘Lotus Panda’ 소행으로 추정 3. 보안 취약점 해결한 8.9.2 버전으로 업데이트 필수 [보안뉴스 김형근 기자] 지난해 발생한 대규모 공급망 공격에 악용된 텍스트 및 코드 편집기 노트패드++(Notepad++)의 보안 취약점을",
+      "language": "ko",
+      "summary": "무료 오픈소스 텍스트 및 코드 편집기 노트패드++, 공급망 공격으로 해킹 피해2. 중국 연계 해킹그룹 ‘Lotus Panda’ 소행으로 추정 3...",
+      "points": [
+        "무료 오픈소스 텍스트 및 코드 편집기 노트패드++, 공급망 공격으로 해킹 피해2",
+        "중국 연계 해킹그룹 ‘Lotus Panda’ 소행으로 추정 3",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "U.S. court bars OpenAI from using ‘Cameo’",
       "link": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
@@ -670,81 +745,6 @@
         "엑시스커뮤니케이션즈는 지금까지 3년만큼의 경흡을 유지하고 있다."
       ],
       "insight": "비디오 보안 기술회사인 엑시스커뮤니케이션즈는 지금까지 3년만큼의 경흡을 유지하고 있다. D4200-VE는 AI를 사용한 영상 및 오케인식 기술을 매우 확장시켜서 보안에 대한 비즈니리로, 인터넷으로부터의 오디오 광고를 제공하는 협력이 가능해진다."
-    },
-    {
-      "title": "[eGISEC 2026] 안랩, AhnLab XTG",
-      "link": "http://www.boannews.com/media/view.asp?idx=142182&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Feb 2026 08:55:00 +0900",
-      "description": "강력한 네트워크 통합 보안 제공하는 차세대 네트워크 보안 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 안랩은 글로벌 수준의 기술력과 전문성을 바탕으로 다양한 사이버 위협에 대응하는 통합 보안 기업으로, 30년 이상 축적한 위협 분석 데이터와 수천만 사용자 보호 경험을 기반으로 ‘안전해서 더욱 자유로운 세상’을 만들어 가고",
-      "language": "ko",
-      "summary": "eGISEC 2026 통합 보안 솔루션 제3전시장에서 강력한 네트워크 보안 시스템을 기주로 소유한 IT 업의 대표인 AhnLab XTG은 세계적인 위형성공과정에서 발침해와 인터넷화이스트와 결합한 다양한 보안 기능을 제공하고 있는데, 30년간의 위험 분석 데이터와 천만여명의 경험을 바탕으로 솔루션을 개립하고 있다.",
-      "points": [
-        "- AhnLab XTG는 세계적인 위형성공과정에서 보안으로 이어졌다.",
-        "- 30년간의 위험 분석 데이터와 천만여명의 경험을 기반으로 개립한다.",
-        "- 세계적인 위형성공과정에서 통합 보안 시스템을 소유한 IT 업의 AhnLab XTG은 고급 사이버 위협에도 대응하면서 '세계적인 위형성공과정'에서 보안 기술을 강화한다."
-      ],
-      "insight": "AhnLab XTG은 IT/기술 업계에서 세계적인 위형성공과정이나 보안 전략의 개념을 신뢰할 수 있게 한국어로 요약했더니, AhnLab XTG는 IT/기술 업계에서 세계적인 위형성공과정이나 보안 전략의 개념을 신뢰할 수 있게 요약했다. AhnLab XTG는 IT/기술 업계에서 세계적인 위형성공과정이나 보안 전략의 개념을 신뢰할 수 있게 요약했다."
-    },
-    {
-      "title": "[설날기획] 연휴에 뭐 보나... 한국 톱 해커가 추천하는 해킹 영화·드라마는?",
-      "link": "http://www.boannews.com/media/view.asp?idx=142212&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Feb 2026 08:35:00 +0900",
-      "description": "박세준·이종호·조정현 해커, 보안과 기술 다룬 수작들 추천스니커즈, 워게임스, 미스터 로봇, 인터스텔라 등[보안뉴스 강현주 기자] 밀린 영화나 드라마를 몰아볼 수 있는 설 연휴. 올해 설은 해킹과 함께 사는 시대를 맞아, 대한민국 톱클래스 해커들에게 추천 받은 작품을 즐겨보면 어떨까? 박세준 Pick: 해커 영화의 고전 ‘스니커즈’미국 데프콘 통산 9회 우",
-      "language": "ko",
-      "summary": "해커들이 연휴에서 추천한 영화나 드라마를 즐기고 있다.",
-      "points": [
-        "- 박세준 Pick는 스니커즈 등을 선정하였다.",
-        "- 해커들은 보안과 기술에 관심이 있어서 그들의 추천 판단이 이유가 된다.",
-        "- 시대와 문화적인 참가도 중요한 영화/드라마를 선정하는데 기여함을 보여준다."
-      ],
-      "insight": "해커들이 추천한 영화나 드라마들은 IT/기술 업계에서의 현명한 선택일뿐 아니라, 그들이 이를 맺고하는 데 의지도록 통신받을 수 0r 공간을 차지하는 방식도 중요한 인사이트다."
-    },
-    {
-      "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
-      "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Feb 2026 18:53:56 +0000",
-      "description": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
-      "language": "en",
-      "summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might",
-      "points": [
-        "According to a16z, it has eyes around the world in order to spot companies as early as local funds m...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
-      "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Feb 2026 17:00:00 +0000",
-      "description": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
-      "language": "en",
-      "summary": "The reason why this nascent startup had VCs lining up is the founders. They are so famed in the AI world, everyone tried to hire them",
-      "points": [
-        "The reason why this nascent startup had VCs lining up is the founders",
-        "They are so famed in the AI world, everyone tried to hire them",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
-      "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Feb 2026 14:00:00 +0000",
-      "description": "\"We're exploring a different set of tradeoffs.\"",
-      "language": "en",
-      "summary": "Aerospace engineers and AI researchers are considering flapping airplanes as an alternative to conventional aircraft designs due to their potential for sustainability.",
-      "points": [
-        "Engineering teams at Boeing, Airbus, DARPA (Defense Advanced Research Projects Agency), NASA's Ames facility and universities worldwide are exploring flapping airplanes or biomimetic aircraft designs inspired by birds as a means to reduce environmental impact.",
-        "The research is being driven not just by the idea of sustainability, but also due to limitations in conventional wing-based flight efficiency. Flapping wings can operate at lower speeds while consuming less energy than propeller systems and have high agility for maneuvers like takeoffs or landings.",
-        "AI plays a significant role as computers run simulations that help determine optimal designs, movement patterns, flapping frequencies, wing shapes – aspects vital to the practicality of these unconventional aircraft."
-      ],
-      "insight": "This emerging area has implications for future sustainable and efficient aviation solutions. It could potentially redefine air travel in terms of energy usage, speed restrictions, agility requirements, noise pollution impacts, landing gear design – among other things - while also pushing the boundaries on AI capabilities."
     }
   ]
 }
