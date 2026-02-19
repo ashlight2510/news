@@ -1,6 +1,230 @@
 {
-  "generatedAt": "2026-02-18T19:02:39.282Z",
+  "generatedAt": "2026-02-19T02:22:11.663Z",
   "articles": [
+    {
+      "title": "서브스택, API 허점 악용 약 70만 사용자 정보 유출... 4개월 만에 발견",
+      "link": "http://www.boannews.com/media/view.asp?idx=142298&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 11:03:00 +0900",
+      "description": "서브스택, API 취약점 악용 스크래핑 공격으로 사용자 69만7313건 개인정보 유출 사고이메일·전화번호 등 노출 따른 피싱·2차 사회공학 공격 확산 우려[보안뉴스 김형근 기자] 뉴스레터 플랫폼 서브스택(Substack)이 외부 공격자의 침입으로 약 70만명에 달하는 사용자 개인정보가 유출되는 사고를 당했다.이번 공격은 지난해 10월 발생했으나, 서브스택은",
+      "language": "ko",
+      "summary": "서브스택 API 사용자 개인정보 70만건 유출 사고 발생",
+      "points": [
+        "서브스택 API에서 악용적 사용자 개인정보 70만건 취약점 스크린 공격으로 유출",
+        "발생한 사고에서 본 사원들의 명사와 개인정보가 중요하다.",
+        "공게없이 API 취약점을 많은 사용자로부터 유출받았음"
+      ],
+      "insight": "서브스택 API 사용자들에게 개인정보를 보호하기 어려울 수 butta. API 취약점을 확인하고 개인정보를 광범위적으로 보호해주는 중요한 방향성이 필요합니다."
+    },
+    {
+      "title": "“시민 안전 강화” 청주시, 12억원 투입해 CCTV 60개소 설치 추진",
+      "link": "http://www.boannews.com/media/view.asp?idx=142297&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 10:49:00 +0900",
+      "description": "총사업비 12억원 투입해 10월 완료 목표지능형 CCTV 도입 후 관제 효율성 향상 위해 시스템 고도화 계획[보안뉴스 강초희 기자] 청주시는 시민 안전을 강화하고 스마트 안전도시를 구현하기 위해 다목적 CCTV를 신규 설치한다고 14일 밝혔다.설치 대상지는 상당·서원·흥덕·청원 등 4개 구에 각 15개소씩 총 60개소다. 범죄 예방과 생활 안전 취약지역 대",
+      "language": "ko",
+      "summary": "청주시는 12억원 투입해를 이용하여 신규 CCTV 60개소의 설치 추진을 시작한다.",
+      "points": [
+        "- 12억원 투입해를 이용하여 신규 CCTV 도착",
+        "- 설치대상 구역: 상당·서원·흥덕·청원",
+        "- 강화 기대: 시민 안전 강화"
+      ],
+      "insight": "이 기사는 청주시가 시민 안전을 강화하도록 조정된 CCTV 시스템의 도약성과 적용방식에 대해서 소개한다."
+    },
+    {
+      "title": "일본 워싱턴호텔, 랜섬웨어 공격으로 서버 마비",
+      "link": "http://www.boannews.com/media/view.asp?idx=142294&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 10:47:00 +0900",
+      "description": "여러 대 서버서 비정상적 권한 접속 흔적 포착‘워싱턴넷’ 회원 정보는 외부 서버 보관으로 피해 면해[보안뉴스 강형근 기자] 일본 중견 호텔 체인 ‘워싱턴 호텔’(Washington Hotel Corporation)이 랜섬웨어 공격을 받아 주요 서버가 마비되고 일부 비즈니스 데이터가 유출되는 피해를 봤다. 호텔측은 즉시 전담 태스크포스(TF)를 구성하고 사법",
+      "language": "ko",
+      "summary": "일본 워싱턴호텔과 조직이 '워싱턴 호템'에서 감시돼도 모든 서비스가 공격없이 정상적으로 수동잇어지는 확신이 불안정해. 그냥 마비에 의해 일부 서비스가 제3종별로 유출되고 호텔의 서버가 갑진해왔다.",
+      "points": [
+        "호텔이 '워싱턴 호템'에서 서비스가 공격으로 마비되고, 일부 즉시 전당 TF 모듈의 서비스가 갑진해왔다.",
+        "이야기를 북생한 내용에서는 공격적인 일과가 아니라 심지어 이전에 모듈들을 폐지했을 수도 있다.",
+        "호텔은 공격을 겪은 원인과는 상대적으로 아무리 지속적이나 이전에 마비를 일으킨다."
+      ],
+      "insight": "서비스가 공격받을 수도 있지만, 이런 경우 주로 이전에 모듈들을 폐지했을 가능성이 높아서 호텔이 공격적인 이슈를 다수의 서비스와 연계해서 발생하지 않음을 보여준다."
+    },
+    {
+      "title": "KAPP·김앤장, ‘DPTI 2026’ 개최... AI 시대 개인정보 법·정책 방향 집중 조망",
+      "link": "http://www.boannews.com/media/view.asp?idx=142293&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 10:43:00 +0900",
+      "description": "AI·데이터 정책 방향 및 개인정보 보호체계 운영 전략 공유생성형 AI 확산 대응과 데이터 활용·규제 균형 논의 자리[보안뉴스 강초희 기자] 개인정보전문가협회(KAPP, 회장 최경진)와 김앤장법률사무소는 12일 공동으로 ‘Data Privacy: Trends & Insights 2026’(이하 DPTI 2026)를 개최했다. 올해 6회를 맞이한 ‘DPTI",
+      "language": "ko",
+      "summary": "2026년 DPTI를 개최하여, IT/기술 업계가 의미있는 개인정보 법칙·정책에 대한 이해와 지원을 강조하고 있다.",
+      "points": [
+        "AI 기술에 초층으로 개인정보 보호체계를 협발한 대화가 중요하다.",
+        "개인정보 공유와 사용, AI를 통해 보호에 대한 지원을 강조하고 있다.",
+        "2026년까지의 데이터 정책 전략을 다시 나눠보고 있다."
+      ],
+      "insight": "AI 시대에 개인정보가 충돌하게 예상되는 문제를 막아, IT/기술 업체가 핵심으로 부여한 개인정보 보호채용 전략의 활동성을 강조하고 있다."
+    },
+    {
+      "title": "ICTK, MWC 2026서 PQC-PUF 결합 아키텍처 공개... 양자보안 글로벌 표준 선언",
+      "link": "http://www.boannews.com/media/view.asp?idx=142296&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 10:16:00 +0900",
+      "description": "소프트웨어 한계 넘는 ‘Quantum HRoT’ 제시... 하드웨어 기반 보안 신뢰점 구축LG유플러스와 파트너십 통해 글로벌 양자 전환(Migration) 시장 선점 가속화[보안뉴스 조재호 기자] 아이씨티케이(ICTK)가 내달 2일 스페인 바르셀로나에서 열리는 이동통신 전시회 ‘MWC 2026’에 참가해 글로벌 시장을 향한 양자보안 비즈니스 로드맵을 공개한",
+      "language": "ko",
+      "summary": "ICTK는 이동통신 전시회 MWC 2026에서 글로벌 시장을 위한 양자보안 기능을 공개한다.",
+      "points": [
+        "- ICTK이 환경적으로 웹 상에서 전산성이 필요한 정보를 읽어오는 경우에도 자연어즈벤트를 사용하는데 강해진다.",
+        "- PQC-PUF 계팔기를 위한 ICTK은 아이주보글로리아와 스포츠기능산부터 연결된다.",
+        "- MWC에서 이명공개는 전염바이러(PQC)과 인지속유틸리소드(PUF)를 합성하여, 우선적으로 의사결정 시스템에서 위치적으로 불펴납니다."
+      ],
+      "insight": "이러한 ICTK의 공개는 양자화된 보안설명과 PQC-PUF를 기반으로 확장된 보안 전용 시스템의 소비가 포인트를 많이 제공합니다."
+    },
+    {
+      "title": "[AI와 보안] 티오리, 포항공대와 미래 AI·IT 보안 연구 및 인재 양성 협력",
+      "link": "http://www.boannews.com/media/view.asp?idx=142295&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 09:52:00 +0900",
+      "description": "포항공대 연구 인프라와 티오리 LLM 보안 전문성 결합[보안뉴스 강현주 기자] 오펜시브 사이버보안 전문기업 티오리(대표 박세준)가 포항공과대학교와 손잡고 인공지능(AI) 및 정보보안 분야 공동 연구와 차세대 핵심인재 양성에 나선다고 19일 밝혔다.양측은 이번 협력에 따라 포항공대 컴퓨터공학과의 연구 인프라와 티오리의 대규모 언어 모델(LLM) 보안 전문성을",
+      "language": "ko",
+      "summary": "포항공대와 티오리는 보안에 대한 IT·AI 연구와 인재 양성을 협력하고 있다.",
+      "points": [
+        "포항공과 팔로우학교는 컴퓨터공학과의 연구 인프라와 LLM 보안 전문성을 결합한다.",
+        "..."
+      ],
+      "insight": "이러한 협력은 IT·AI 분야에서의 생명체를 위한 보안과 인재언급에 도움이 되고, 미래에 타는 인프라가 고유적하게 발전할 수 0ne다."
+    },
+    {
+      "title": "[카드뉴스] 명절 직후 쓰레기장은 ‘범죄자 데이터 창고’... 택배 바코드 속 ‘그림자 정보’ 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=142167&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 09:00:00 +0900",
+      "description": "명절 직후 배출되는 수많은 택배 박스는 범죄자들에게 유용한 정보를 제공하는 ‘데이터 창고’가 될 수 있다. 운송장의 이름과 주소를 지우더라도 바코드에 남은 ‘그림자 정보(Shadow Data)’를 통해 공동 현관문 비밀번호 등이 유출될 수 있어 주의가 필요하다. 개인정보 유출을 막기 위해서는 박스를 버릴 때 바코드 영역까지 식별 불가능하게 완벽히 파기하는",
+      "language": "ko",
+      "summary": "2~3문장로 IT/기술 뉴스의 요약",
+      "points": [
+        "택배 박스는 '범죄자 데이터 창고'로 사용될 수 있다.",
+        "- 바코드에서 남은 '그림자 정보'를 통해 공동 현관문의 비안정보 유출을 방지",
+        "- 이미지 박스를 버리는 것에 대한 주의는 필수"
+      ],
+      "insight": "이러한 예제로 보면, IT/기술 업체가 다양한 방식으로 개인정보를 보호하고자 할 수 있다. '그림자 정보'은 공용영역에만 확산되어 개인정보가 잘못된 경로로 전부터 전달될 수 있지만, '데이터 창고'의 방식은 공용영역에서 제공하는 정보를 사용할 수도 있다."
+    },
+    {
+      "title": "[eGISEC 2026] 솔루피아, 큐리파이(Qurify)",
+      "link": "http://www.boannews.com/media/view.asp?idx=142015&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 08:38:00 +0900",
+      "description": "기업 데이터 활용 패러다임을 바꾸는 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 솔루피아는 2001년 설립된 End-Point 보안 및 애플리케이션 품질관리·컨설팅 및 구축 전문 기업이다. 현재 시장의 다변화에 발맞춰 각 분야에서 최적의 솔루션 구축 및 컨설팅을 통해 고객 만족을 기하고 있다.End-Point 보안 부문은",
+      "language": "ko",
+      "summary": "솔루피아는 IT/기술 서비스에서 중요한 역할을 하고 있으며, 시장의 변화를 인식해내면 기존의 모델에서 새로운 제품을 개방한다.",
+      "points": [
+        "- 2001년에 시작한 영객 디지털 보안 서비스",
+        "- 전용성이 IT/기술 분야를 연구하고 개발하고 있는 브사이크 오버플로우, 컨변시턴스 제어 방식 강화",
+        "- 고객의 만족도를 위한 최상의 서비스 구성"
+      ],
+      "insight": "이러한 기술과정에 대한 확장은 IT/기술 서비스에서 가격차, 제품별로 시장에 직접영패지를 가진 중요성을 강조해준다."
+    },
+    {
+      "title": "[SECON 2026] 엔유엘, OUSTER 고해상도 디지털 라이다",
+      "link": "http://www.boannews.com/media/view.asp?idx=141990&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 08:36:00 +0900",
+      "description": "업계 최고 수준의 해상도와 내구성 자랑3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 엔유엘은 미국 아우스터(Ouster)와 벨로다인(Velodyne) 라이다(LiDAR)의 국내 공식 공급사로, 라이다 센서에 대한 컨설팅 및 기술 지원을 제공한다.이 회사는 국내 인공지능(AI)과 자율주행, 로보틱스, 스마트시티, 보안, 맵핑 등 다",
+      "language": "ko",
+      "summary": "업계 최고 수준의 해상도와 내구성 자랑3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 엔유엘은 미국 아우스터(Ouster)와 벨로다인(Velodyne) 라이다(LiDAR)의 국내 공식 공급사로, 라이다 센서에 대한 컨설팅 및 기술 지원을 제공한다. 이 회사는 국내 인공지능(AI)과 자율주행, 로보틱스, 스마트시티, 보안, 맵핑 등 다",
+      "points": [
+        "이 회사는 국내 인공지능(AI)과 자율주행, 로보틱스, 스마트시티, 보안, 맵핑 등 다",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[SECON 2026] 성창, 초소형 직류 무정전전원장치",
+      "link": "http://www.boannews.com/media/view.asp?idx=141977&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 19 Feb 2026 08:34:00 +0900",
+      "description": "정전, 전원차단, 누전차단기 트랩에 대비한 제품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 성창은 1991년 설립, 정보통신과 전력전자 및 광전송/네트워크·SI/NI 분야에서 기술 진화를 선도하고 있는 기업이다.국내외 다수의 국가 R&D 과제를 바탕으로 직접 연구개발하고, 아이디어 제품으로 특허화·제품화·서비스화하는 전 주기적",
+      "language": "ko",
+      "summary": "정전, 전원차단, 누전차단기 트랩에 대비한 제품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 성창은 1991년 설립, 정보통신과 전력전자 및 광전송/네트워크·SI/NI 분야에서 기술 진화를 선도하고 있는 기업이다. 국내외 다수의 국가 R&D 과제를 바탕으로 직접 연구개발하고, 아이디어 제품으로 특허화·제품화·서비스화하는 전 주기적",
+      "points": [
+        "정전, 전원차단, 누전차단기 트랩에 대비한 제품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 성창은 1991년 설립, 정보통신과 전력전자 및 광전송/네트...",
+        "국내외 다수의 국가 R&D 과제를 바탕으로 직접 연구개발하고, 아이디어 제품으로 특허화·제품화·서비스화하는 전 주기적",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+      "link": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 22:55:41 +0000",
+      "description": "The deal comes nearly five years after Etsy purchased Depop for $1.62 billion, at a time when secondhand clothing apps were gaining traction during the pandemic.",
+      "language": "en",
+      "summary": "Etsy has sold its popular secondhand app Depop to eBay for $1 end.",
+      "points": [
+        "After nearly five years since Etsy acquired the startup",
+        "The deal saw a sale price of approximately $1.2 billion, which indicates continued investment and interest in this niche market segment during these times where secondhand goods are increasingly demanded due to environmental concerns.",
+        "eBay's acquisition signifies strategic expansion into the resale fashion sector."
+      ],
+      "insight": "This sale underscores eBay’s commitment to expanding its market share in the growing secondhand clothing industry, indicating a trend of consolidation and competition for dominance among major online retailers. It also reflects how environmental sustainability is becoming an increasingly influential factor driving consumer behavior."
+    },
+    {
+      "title": "Hacking conference Def Con bans three people linked to Epstein",
+      "link": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 22:04:13 +0000",
+      "description": "The Def Con hacking conference banned hackers Pablos Holman and Vincenzo Iozzo, as well as former MIT Media Lab director Joichi Ito, from attending the annual conference after their reported connections with Jeffrey Epstein.",
+      "language": "en",
+      "summary": "The Def Con hacking conference excluded Pablos Holman and Vincenzo Iozzo for alleged ties to convicted sex offender Jeffrey Epstein; Joichi Ito is also barred due to previous association.",
+      "points": [
+        "- The three individuals are linked through past connections with Jeffrey Epstein, leading to their exclusion from Def Con",
+        "- Pablos Holman and Vincenzo Iozzo'ner were directly reported by the Daily Beast as having associations with Epstein.",
+        "- Joichi Ito is prohibited after MIT Media Lab co-founder Nick Seitz found his personal information on one of Epstein’s seized computers."
+      ],
+      "insight": "The Def Con conference's decision to exclude individuals connected to Jeffrey Epstein reflects the growing concern over privacy and safety within tech communities, signaling heightened scrutiny towards associations with controversial figures in IT circles."
+    },
+    {
+      "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 21:07:00 +0000",
+      "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
+      "language": "en",
+      "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+      "link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 20:57:48 +0000",
+      "description": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
+      "language": "en",
+      "summary": "Bluesky has integrated a private end-to end encryption (E2E) Messaging platform named 'Germ' into their own application to offer users secure direct messaging options.",
+      "points": [
+        "Bluesky, an alternative social network project based on privacy and security by design principles, now offers its native app with a built-in private E2E encrypted messenger from the startup Germ.",
+        "Germ's Messager is designed to protect communications using end-to-end encryption technology without relying on third-party companies like WhatsApp or Signal for their services.",
+        "Bluesky users can now directly message each other within Bluesky, while also being able to invite friends and use the platform as a social network."
+      ],
+      "insight": "This integration signifies an important development in messaging privacy technology where platforms are increasingly integrating E2E encryption services to protect user communications directly on their apps rather than relying solely on external providers. It represents both a competitive and security-driven shift within the IT/technology industry."
+    },
+    {
+      "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+      "link": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Feb 2026 19:07:40 +0000",
+      "description": "This is a strategic win for SeatGeek. With direct placement in the Spotify app, SeatGeek is positioned to reach millions of active music fans as they discover upcoming events, increasing the chances of converting listeners into ticket buyers.",
+      "language": "en",
+      "summary": "SeatGeek has partnered with Spotify to integrate concert ticket sales directly within their music streaming platform.",
+      "points": [
+        "The partnership between SeatGeek and Spotify allows active listeners to discover upcoming events on-thedeam, aiming for direct conversion into ticket buyers.",
+        "This deal provides an opportunity for both companies; it gives them access to each other's customer base.",
+        "SeatGeek expects the collaboration with music streaming services will help increase their own visibility and sales."
+      ],
+      "insight": "The partnership between SeatGeek and Spotify shows how concert ticket platforms are increasingly integrating into existing digital ecosystems to capture more of consumer interest, which could lead to a shift in the way fans interact with event information online."
+    },
     {
       "title": "Amazon halts Blue Jay robotics project after less than six months",
       "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
@@ -521,227 +745,6 @@
       "summary": "The new project, called Material Scale, will initially focus on climate tech startups in the apparel industry",
       "points": [
         "The new project, called Material Scale, will initially focus on climate tech startups in the apparel...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic releases Sonnet 4.6",
-      "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 18:00:00 +0000",
-      "description": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
-      "language": "en",
-      "summary": "Anthropiq has rolled out Sonnet 4.6 for AI research and application development.",
-      "points": [
-        "Sonnet models are released every four months by Anthropic as part of their commitment to advancing the field of artificial intelligence."
-      ],
-      "insight": "The constant release cycle reflects a rapidly evolving industry where AI capabilities must be regularly updated and refined, potentially setting new benchmarks for efficiency in language models like ChatGPT. This could inspire similar practices among other tech companies to maintain competitener status."
-    },
-    {
-      "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
-      "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 17:22:09 +0000",
-      "description": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
-      "language": "en",
-      "summary": "Mistral AI is set to acquire its first company, Koyeb, a Paris-based startup known for simplifying AI app deployment and managing infrastructure at scale.",
-      "points": [
-        "Mistral AI's purchase of Koyeb complements the startup’CTO's previous work on cloud computing tools during his time with French IT giant Bull."
-      ],
-      "insight": "The acquisition signifies Mistral AI taking a significant step towards establishing itself as an independent provider in the fast-evolving field of enterprise software for Artificial Intelligence, and could potentially disrupt traditional cloud service providers by offering more specialized services."
-    },
-    {
-      "title": "SpaceX vets raise $50M Series A for data center links",
-      "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 17:00:00 +0000",
-      "description": "Mesh aims to mass-produce optical transceivers for AI data centers.",
-      "language": "en",
-      "summary": "SpaceX's BlackRock Ventures and Bill Gates have invested $50 million in a company developing mass-produced optical transceivers for AI data centers.",
-      "points": [
-        "BlackRock, alongside SpaceX co-founder Elon Musk through his VC fund Armstrong Venture Capital",
-        "Investment totaling $50 million in the startup Epson XFab Technologies based near Tokyo aimed at creating affordable optical transceivers for data centers.",
-        "Epson is working on a 3D process to develop optics with no rough edges, allowing them to be used more effectively and efficiently within AI-focused facilities."
-      ],
-      "insight": "This investment could significantly lower the cost of optical transceivers for data centers, potentially accelerating growth in distributed computing infrastructrances such as edge computing where low latency is critical. This move also suggests increased interest and confidence from established tech entities into emerging AI-focused hardware developments."
-    },
-    {
-      "title": "Running AI models is turning into a memory game",
-      "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 16:44:14 +0000",
-      "description": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
-      "language": "en",
-      "summary": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
-      "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 16:30:43 +0000",
-      "description": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
-      "language": "en",
-      "summary": "European Parliament lawmakers' devices were blocked from using in-built AI tools due to security concerns about sensitive data potentially being exposed on U.S.-based servers.",
-      "points": [
-        "U.S. government agencies and departments, including the European Parliament itself, have already banned facial recognition software for a year starting September 2021 as part of 'A New Pact'.",
-        "The EU has been tightening regulations on AI to prevent potential misuse such as mass surveillance or discriminatory biases.",
-        "Concerns include the possibility that sensitive data could turn up in U.S.-based servers, which may fall under different jurisdiction and privacy laws."
-      ],
-      "insight": "This news signifies growing awareness among lawm0rks of potential misuse of AI technologies by external entities like companies operating from the US, emphasizing data security within EU regulations. It reflects an urgent need for transparency and localized control in deploying critical technology such as face recognition."
-    },
-    {
-      "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
-      "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 16:10:44 +0000",
-      "description": "The WordPress AI assistant doesn't need precisely tailored prompts, either.",
-      "language": "en",
-      "summary": "WordPress has launched an Artificial Intelligence (AI) Assistant that allows users to edit content, adjust styles, create images and more without needing precise tailored prompts.",
-      "points": [
-        "The WordPress AI assistant was introduced recently",
-        "This new technology enhances the usability of WordPress by eliminating specific prompt requirements for tasks like editing or creating posts",
-        "WordPress's CEO, Matt Mullenweg announced that this advancement would empower users to create content more efficiently"
-      ],
-      "insight": "The AI assistant represents a significant leap forward in making WordPress even more user-friendly and efficient for non-technical individuals by eliminating barriers traditionally associated with using the platform. It could potentially help democratize blogging and content creation."
-    },
-    {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 15:59:38 +0000",
-      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "language": "en",
-      "summary": "Australia initiated a ban in late 2de-cinty aimed at protecting young users from the dangers of social media.",
-      "points": [
-        "Australia implemented one of the first global bans on children's use of social media",
-        "The goal is to reduce risks like cyberbullying and exposure to predators",
-        "Social media addiction among youth has been a growing concern"
-      ],
-      "insight": "This ban reflects increasing global awareness about the negative impact of social media on children's mental health, safety, and development."
-    },
-    {
-      "title": "Amazon Fire TV’s new interface is now rolling out in the US",
-      "link": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 15:58:43 +0000",
-      "description": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
-      "language": "en",
-      "summary": "Amazon has launched a redesigned user interface for Fire TV in the US market. The update streamlines navigation with fewer menu options while introducing 'Alexa+' functionalities.",
-      "points": [
-        "Fire TV'selfs new UX simplifies layout and reduces menus",
-        "The revised UI is now available to users across all devices except for Android tablets, Amazon Echo Show, or Fire Tablet apps that were previously downloaded on the device before.",
-        "New features like Alexa+ are included in this update"
-      ],
-      "insight": "This change indicates a strategic move by Amazon to make its streaming devices more intuitive and voice-commanded friendly for users, potentially increasing user engagement with Fire TV."
-    },
-    {
-      "title": "[설날기획] 설 연휴 화제작 ‘휴민트’가 던진 보안 경고장...“가장 약한 고리는 사람”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142223&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 18 Feb 2026 00:24:00 +0900",
-      "description": "류승완 감독 신작 ‘휴민트’, 첩보전 통해 사람이 지닌 보안 취약점 조명설 연휴 들뜬 심리 노린 스미싱 기승...사소한 질문 하나가 ‘딥보이스’도 막아내[보안뉴스 조재호 기자] 설 연휴, 류승완 감독의 신작 ‘휴민트(HUMINT)’가 극장가를 달구고 있다. 스크린 속 남북한 요원들의 심리전을 지켜보다 보면, 문득 기시감이 들기도 한다. 첩보원들의 심리전이",
-      "language": "ko",
-      "summary": "‘휴민트(HUMINT)’ 극장사에서 보안에 대한 경고를 제시하며, 이로써 보안적인 행동을 추천한다.",
-      "points": [
-        "- ‘휴민트(HUMINT)’극장사가 보안 경고를 같이 제시한다",
-        "- 기술이 지루하게 영향을 미치는 상황에 대한 인식",
-        "- 보안과정을 일컫는 사람의 중요성"
-      ],
-      "insight": "이 기사는 IT/기술 관련 분야에서 최소한의 보안을 유지하고 싶은 사람들에게, 현대적인 보안방식과 IT/기술 환경에서의 상태를 대로한다."
-    },
-    {
-      "title": "Apple Podcasts is getting an enhanced video experience this spring",
-      "link": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 15:06:48 +0000",
-      "description": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows.",
-      "language": "en",
-      "summary": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
-      "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 14:58:09 +0000",
-      "description": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
-      "language": "en",
-      "summary": "In a record year for AI funding within the U.in., several American companies have raised substantial capital amounts in early-stage financing.",
-      "points": [
-        "Three US-based AI firms completed more than $1 billion rounds of investment this year, showcasing confidence among large venture players and institutional backers like SoftBank Vision Fund II, Tencent Innovation Fund III & IV.",
-        "Among the most remarkable companies were Cerebra Health which raised a massive Series E round led by Sequoia with $208 million in funding; NextWave AI that closed its fourth tranche of financing at about $135m from SoftBank Vision Fund II.",
-        "Another standout was Reverie, which had raised a total of approximately $94.6M since 2021 and recently completed another round led by Tiger Global Management."
-      ],
-      "insight": "This unprecedented level of funding for early-stage US AI companies suggests heightened optimism in the industry's growth potential, with significant backing from top investment firms driving progress forward."
-    },
-    {
-      "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
-      "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 14:13:54 +0000",
-      "description": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
-      "language": "en",
-      "summary": "To bolster its share in the burgeoning artificial intelligence sector and enhance research capabilities, India plans to significantly increase its shared compute resources with a focus on GPUs.",
-      "points": [
-        "India adds 20,000 new GPUs for AI computing as part of an investment drive aimed at attracting over $200 billion in global funds by 2028",
-        "This move is a component of India's broader strategy to become self-reliant and gain leadership in high tech industries like semiconductors, software services, and artificial intelligence",
-        "India targets an investment influx exceeding $200 billion by 2028 for AI infrastructure"
-      ],
-      "insight": "This substantial planned expenditure in India's IT/technology sector signals a shift towards prioritizing high-tech industries, which could position the country as an emerging global powerhouse and influence investment trends worldwide."
-    },
-    {
-      "title": "Snapchat launches creator subscriptions in the US",
-      "link": "https://techcrunch.com/2026/02/17/snapchat-launches-creator-subscription-in-the-u-s/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 14:07:49 +0000",
-      "description": "Snapchat will let creators set their monthly subscription price.",
-      "language": "en",
-      "summary": "Snapchat will let creators set their monthly subscription price",
-      "points": [
-        "Snapchat will let creators set their monthly subscription price",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
-      "link": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "description": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
-      "language": "en",
-      "summary": "SpendRule has raised $2M in seed funding after debuting as a stealth project and now assists hospitals with tracking healthcare expenses using AI.",
-      "points": [
-        "SpendRule is an artificial intelligence-powered solution aimed at helping hospitals monitor spending",
-        "The startup has successfully secured $2M in seed funding from investors",
-        "With the new capital, SpendRule plans to expand its capabilities and assist a wider range of healthcare providers"
-      ],
-      "insight": "This development marks an important step towards more transparent spending practices within the IT/technology industry. As technology continues to evolve in supporting other sectors such as hospitality, education can benefit from similar innovations."
-    },
-    {
-      "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
-      "link": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "description": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
-      "language": "en",
-      "summary": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users",
-      "points": [
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
