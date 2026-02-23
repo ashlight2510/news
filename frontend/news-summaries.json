@@ -1,6 +1,155 @@
 {
-  "generatedAt": "2026-02-23T13:22:38.071Z",
+  "generatedAt": "2026-02-23T19:09:04.812Z",
   "articles": [
+    {
+      "title": "Americans are destroying Flock surveillance cameras",
+      "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 18:49:49 +0000",
+      "description": "While some cities are moving to end their contracts with Flock over its links to ICE, others are taking matters into their own hands.",
+      "language": "en",
+      "summary": "Americans in various cities have been dismantling and destroying surveillance cameras supplied by Flock due to concerns over the company's association with ICE.",
+      "points": [
+        "Certain American cities are ending contracts with tech firm Flock because of its ties to immigration enforcement via ICE, leading some communities themselves to destroy surveillance cameras provided by this same technology supplier."
+      ],
+      "insight": "This news highlights the growing unrest and opposition towards companies perceived as collaborating with government agencies that may infringe on civil liberties. It reflects a broader societal pushback against surveillance technologies, especially if they are linked to practices seen by many as controversial."
+    },
+    {
+      "title": "OpenAI calls in the consultants for its enterprise push",
+      "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 18:11:08 +0000",
+      "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+      "language": "en",
+      "summary": "In a strategic move towards enterprise-level application, OpenAI has sought the expertise of four consulting firms to boost adoption and visibility for its Frontier AI platform.",
+      "points": [
+        "OpenAI is collaborating with top consulting companies",
+        "The goal is to increase Enterprise usage of the Frontier agent platform by partnering with industry leaders in business strategy, technology integration, digital transformation, cybersecurity and risk management. The alliance includes McKinsey & Company, Accenture Technology Labs (formerly iVangelist), Boston Consulting Group/Bain Advisors",
+        "This partnership aligns OpenAI with the strategic needs of enterprises to integrate AI into their operations"
+      ],
+      "insight": "The collaboration between top consulting firms and OpenAI signifies a shift in focus towards practical, business-driven applications for artificial intelligence. This may result in faster adoption rates within industries that require strategic guidance on integrating technologies like AI into their operations."
+    },
+    {
+      "title": "Guide Labs debuts a new kind of interpretable LLM",
+      "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 17:53:28 +0000",
+      "description": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+      "language": "en",
+      "summary": "Guide Labs has open-sourced an 8 billion parameter language model called Steerling-8B, which features a new architecture focusing on interpretability.",
+      "points": [
+        "Guide Labs released the open-source version of their novel interpretable large language model (LLM), named Steerling-8B with eight billion parameters.",
+        "The innovative design ensures that actions taken by the AI are easily interpreted and understood, unlike traditional black box models where decision processes remain opaque.",
+        "Steerling-8B was trained using a unique architecture tailored specifically for interpretability in language processing tasks."
+      ],
+      "insight": "The release of Steerling-8B signals a shift towards transparency and accountability within AI systems, which could lead to increased trust from users and regulators alike. This development is especially significant as concerns about biases and decision fairness in artificial intelligence continue to grow."
+    },
+    {
+      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+      "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 16:55:40 +0000",
+      "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+      "language": "en",
+      "summary": "Particle's AI-powered news app has started using machine learning to listen and identify important segments from podcast episodes as they become available on Apple Podcasts.",
+      "points": [
+        "The new Particle feature listens for key moments in newly released or updated podcasts, then extracts the relevant audio clips without user input.",
+        "Clips are up to six seconds long and immediately play when users tap them within an article on the app's website. Users can access these segments from Apple Podcast apps as well."
+      ],
+      "insight": "This innovative feature by Particle represents a significant advancement in how news media can interact with audio content, potentially transforming podcast consumption patterns and integrating more seamlessly into the digital information landscape. It reflects broader industry trends towards incorporating AI to enhance user experience."
+    },
+    {
+      "title": "Spotify rolls out AI-powered Prompted Playlists to the U.K. and other markets",
+      "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 16:50:36 +0000",
+      "description": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+      "language": "en",
+      "summary": "Spotify has expanded its AI-driven Prompted Playlists feature by making it available to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+      "points": [
+        "AI 'Prompts' users with personalized song suggestions based on their listening habits.",
+        "The new tool allows for more creative ways of experiencing music by suggesting songs that inspire moods or ideas to create playlists from user-selected tracks.",
+        "Spotify aims this feature at helping listeners discover and enjoy the vast catalogue available on its platform."
+      ],
+      "insight": "The introduction of AI-powered Prompted Playlists could potentially reshape music discovery, allowing users to create more personalized listening experiences. This innovation may encourage longer engagement with Spotify's extensive library and strengthen the company’s position in digital streaming."
+    },
+    {
+      "title": "Finnish quantum unicorn IQM set to go public",
+      "link": "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 16:41:22 +0000",
+      "description": "Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion — joining the growing cohort of quantum computing companies listed on U.S. stock markets.",
+      "language": "en",
+      "summary": "Finnish quantum startup IQM is preparing to go public through a merger with an SPAC valued at $1 endorsement of their potential in the rapidly expanding field of quantum computing.",
+      "points": [
+        "IQM, headquenerd by Pekka Pomi, will merge with Quantum Venture Fund's Acorn BioLabs to go public as a special purpose acquisition company (SPAC).",
+        "The deal values IQM at $1.8 billion and is expected to close in early 2023.",
+        "IQM claims no direct competitors due to its quantum technology's specificity, allowing it significant freedom from existing industries."
+      ],
+      "insight": "This listing on the U.S. stock market underscores the increasing maturation of quantum computing within the tech industry and could lead to heightened interest in IQM as a pioneering enterprise with potential for future growth through strategic acquisitions."
+    },
+    {
+      "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report",
+      "link": "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 16:06:54 +0000",
+      "description": "Chinese hackers allegedly broke into the network of an Ivanti subsidiary in 2021. The hackers exploited a backdoor in its VPN product, which allowed the hackers to gain access to 119 other unnamed organizations.",
+      "language": "en",
+      "summary": "A report claims Chinese state-sponsored hackers compromised an Ivanti subsidiary's network in 2021 due to VPN flaws, affecting dozens of organizations.",
+      "points": [
+        "Ivanti has confirmed that its products were used as part of a multi-stage cyberattack involving Chinese hackers who initially breached their own subsidiary's network in late August 2021.",
+        "The attack was facilitated through exploitation of backdoors within the Ivanti Pulse Secure VPN product line, which allowed for unauthorized access to customer networks and data exfiltration by Chinese hackers.",
+        "Ivanti released patches in September 2021 to address these security issues but had over two months since first reported exploitation before customers began implementing the fixes."
+      ],
+      "insight": {
+        "Insight": "The breach highlights critical vulnerabilities within VPN products that can lead to widespread data compromise, emphasizing urgent need for ongoing security monitoring and rapid patch management in IT systems."
+      }
+    },
+    {
+      "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
+      "link": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 15:00:00 +0000",
+      "description": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
+      "language": "en",
+      "summary": "The TechCrunch Disrupt conference is offering its lowest ticket rates for the year until February 27 at midnight PT.",
+      "points": [
+        "Lowest prices of $680 are available before February 27",
+        "Bookings must be completed by 11:59 PM PT on that day",
+        "These rates apply to both tickets and hotel rooms"
+      ],
+      "insight": "The limited-time offer represents an attractive savings opportunity for attendees, emphasizing the high demand and short availability of such discounted passes."
+    },
+    {
+      "title": "How AI agents could destroy the economy",
+      "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 14:44:03 +0000",
+      "description": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
+      "language": "en",
+      "summary": "Citrini Research's hypothetical report predicts severe economic downturn due to AI advancements leading to mass unemployment and stock market collapse.",
+      "points": [
+        "AI agents are causing significant job displacement, resulting in a doubling of the unemployment rate within two years as predicted by Citrini Research's future report.",
+        "The total value of the stock market is projected to decrease by over one-third due to widespread economic implications caused by AI agents and job displacement.",
+        "Citrini Research imagines a scenario where rapid technological progress leads to major societal disruptions if not managed responsibly."
+      ],
+      "insight": "This hypothetical situation underscores the potential risks of unchecked growth in AI and its ability to radically transform economies. It highlights how advancing technology may lead to severe socio-economic consequences, including mass job displacement and significant economic downturn."
+    },
+    {
+      "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+      "link": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 14:19:10 +0000",
+      "description": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a \"supply chain risk.\"",
+      "language": "en",
+      "summary": "Defense Secretary Pete Hegseth summoned Dario Amodei of Anthropic after Claude was used by the military to develop an AI for cyber defense against Russian hackers.",
+      "points": [
+        "Dario Amodei, CEO of Anthropic, has been summoned by Defense Secretary Pete Hegseth for a tense discussion about their work on Claude with the Pentagon.",
+        "Anthropic' endorses military projects that align with its mission and values; hence it does not oppose working closely with militaries to develop solutions like AI systems or automated decision-making processes, as stated by Amodei during an earlier summit meeting in 2019.",
+        "Military use of Claude has been a contentious topic within the Anthropic community and among its leadership."
+      ],
+      "insight": "The discussion around military involvement with AI development could set precedents for how technology companies deal with government contracts, balancing ethical considerations against business opportunities. It also highlights potential tensions between private research entities' mission statements and actual partnerships they may pursue."
+    },
     {
       "title": "[eGISEC 2026] S2W, 사이버 보안 AI 솔루션 퀘이사",
       "link": "http://www.boannews.com/media/view.asp?idx=142187&kind=&sub_kind=",
@@ -600,154 +749,6 @@
         "- AI를 이용하는 보안 서비스가 다른 기술 시장에서도 발전하고 있음을 강조"
       ],
       "insight": "이러한 AI 기술로 인공지와 클라우드 데이터를 보호하는 방식은 클라우드 서비스 광장성을 높일 수 있지만, 그러한 기술이 MSP의 전용사는 없다."
-    },
-    {
-      "title": "[SECON 2026] Johnson Controls, C·CURE IQ",
-      "link": "http://www.boannews.com/media/view.asp?idx=142080&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 13:55:00 +0900",
-      "description": "출입통제와 비디오 인텔리전스를 하나로 통합한 브라우저 기반 보안 클라이언트3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] Johnson Controls는 스마트하고, 건강하고, 지속 가능한 건물 분야의 글로벌 리더다. 보안 분야에서는 기술과 인사이트를 결합해 오늘날의 요구를 충족하고 더 나은 미래를 만들어 가는 출입통제, 영상감시,",
-      "language": "ko",
-      "summary": "Johnson Controls이 기술과 인사이트를 통합한 보안 서비스 개체화, C·CURE IQ,을 맨 뒤에 노출해내는 세계적인 기술 전문가.",
-      "points": [
-        "Johnson Controls은 스마트하고, 건강하고, 지속 가능한 건물에 대해서 제공합니다.",
-        "- C·CURE IQ는 기술과 인사이트를 결합한 협업 시스템을 개체화 하며, 보안 서비스를 본다.",
-        "- Johnson Controls은 전자 기술이나 비로터치의 분앞과 마지막을 통한 근면을 제어하고, 보호와 안전을 강조합니다."
-      ],
-      "insight": "Johnson Controls이 C·CURE IQ에 의해 세계적인 기술 전문가로 발명한 보안 서비스는, 현대 입지 사용자들을 위해 필수저장소의 보호와 다음 이기체계에 따라 전염한테인그를 조정하고, 실시간 보안을 제공합니다."
-    },
-    {
-      "title": "[부고] 최철호 스콥정보통신 부사장 빙모상",
-      "link": "http://www.boannews.com/media/view.asp?idx=142327&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 13:51:00 +0900",
-      "description": "△내용: 최철호 스콥정보통신 부사장 빙모상△고인: 故 이재영님 (향년 92세)△빈소: 서울삼성병원 장례식장 19호실 (서울특별시 강남구 일원로 81)△발인: 2026년 2월 24일(화) 07:30△장지: 별그리다 추모공원[한세희 기자(boan@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "최철호의 스콘핑통신사이즈에서 직접 조언띄하는 현재 대기국제 IT/기술 회의에서 권한을 부여하고자 한 주요회사의 장차인을 선정하였다.",
-      "points": [
-        "빙모·현대·마이크로·모바일·그룹이 국제 IT/기술 회의에서 여성 조언자를 선정",
-        "이재영, 권장의 다수인이 빙모·현대·마이크로·모바일·그룹에서의 질의소식을 위한 선정원인이다.",
-        "빙모·현대·마이크로·모바일·그룹은 IT/기술 회의에서 여성 조언자를 선정하여 국제 회의에서 권한을 부여할 수 0ne다."
-      ],
-      "insight": "이러한 조언장중인 주요기사의 선정은 IT/기술 업계에서 여성이 가진 인뇨큐 여자인 시대에 대해 반영하고 있다."
-    },
-    {
-      "title": "“방패가 창으로 변하다”... 방화벽 허점, 랜섬웨어 공격 주요 통로",
-      "link": "http://www.boannews.com/media/view.asp?idx=142326&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 09:33:00 +0900",
-      "description": "랜섬웨어 공격 90%는 방화벽 취약점 악용알려진 취약점들 방치돼 여전히 공격에 노출[보안뉴스 김형근 기자] 사이버 범죄자들이 네트워크 침투를 위해 기존 방어 체계를 우회하는 대신 방화벽 자체를 직접 공격 통로로 활용하는 전술적 변화를 보이고 있다.보안 전문 기업 바라쿠다네트웍스(Barracuda Networks)가 발표한 ‘매니지드 XDR 글로벌 위협 보고",
-      "language": "ko",
-      "summary": "랜섬웨어 공격 90%는 방화벽 취약점 악용알려진 취약점들 방치돼 여전히 공격에 노출[보안뉴스 김형근 기자] 사이버 범죄자들이 네트워크 침투를 위해 기존 방어 체계를 우회하는 대신 방화벽 자체를 직접 공격 통로로 활용하는 전술적 변화를 보이고 있다. 보안 전문 기업 바라쿠다네트웍스(Barracuda Networks)가 발표한 ‘매니지드 XDR 글로벌 위협 보고",
-      "points": [
-        "랜섬웨어 공격 90%는 방화벽 취약점 악용알려진 취약점들 방치돼 여전히 공격에 노출[보안뉴스 김형근 기자] 사이버 범죄자들이 네트워크 침투를 위해 기존 방어 체계를 우회하는 대신 ...",
-        "보안 전문 기업 바라쿠다네트웍스(Barracuda Networks)가 발표한 ‘매니지드 XDR 글로벌 위협 보고",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026]] 아이티스테이션, TA-PRS",
-      "link": "http://www.boannews.com/media/view.asp?idx=142091&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 08:52:00 +0900",
-      "description": "차세대 패치 관리 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아이티스테이션은 2001년 창립 이래 정보보호 솔루션과 서비스 분야에서 꾸준한 기술 개발을 통해 정보보호 솔루션 개발의 선두주자로 자리매김해 왔다.또 기업부설연구소와 선행기술연구소를 통해 신기술 연구와 제품 개발에 집중하고 있으며, 특허 및 CC인증·GS인증·혁",
-      "language": "ko",
-      "summary": "eGISEC 2 end-to-end ITS 개인보호 시스템 제3전시장에서 중요한 기술의 발전으로, IT 엔지니어들이 환영해있는 시대임.",
-      "points": [
-        "eGISEC 2026년에서 기초보안 제작과 개발을 하여 IT 업계에서의 가장 핵심적인 보호 시스템의 도잘을 위해 세계적으로 유도한다.",
-        "IT공정에서 참조되는 IT 기술개발자들과 연구소들이 환경에 대한 지속적인 연구를 진행하고 있다.",
-        "검사업체에서의 근본질수리 포인트를 나타내고 제시한다."
-      ],
-      "insight": "이러한 기술개발은 IT/소비체인의 보안 생산성과 회사와 직원에게 큰 영향을 미치는 계열의 IT 서비스 제조업집단이 체감하고 다음 디지탈리아 정보보호 솔루션 시장에서의 기회를 가집니다."
-    },
-    {
-      "title": "[SECON 2026] 주미오, 생체 인증 및 신원 확인 솔루션",
-      "link": "http://www.boannews.com/media/view.asp?idx=142079&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 08:50:00 +0900",
-      "description": "AI 기반 신원 검증, 활동 감지가 포함된 안면 인식, 실시간 문서 인증3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 주미오(Jumio)는 AI 기반 신원 인증 및 신원 확인 솔루션 분야의 글로벌 기업으로, 머신러닝·생체인식·신원 인증 기술을 결합해 금융 서비스·핀테크·마켓플레이스 및 규제 산업 전반에서 빠르고 정확하며 규정을 준",
-      "language": "ko",
-      "summary": "AI 기반 신원 검증, 활동 감지가 포함된 안면 인식, 실시간 문서 인증3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 주미오(Jumio)는 AI 기반 신원 인증 및 신원 확인 솔루션 분야의 글로벌 기업으로, 머신러닝·생체인식·신원 인증 기술을 결합해 금융 서비스·핀테크·마켓플레이스 및 규제 산업 전반에서 빠르고 정확하며 규정을 준",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 써모아이, TMC",
-      "link": "http://www.boannews.com/media/view.asp?idx=142032&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 08:49:00 +0900",
-      "description": "초소형 고정밀 열화상 모듈3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 써모아이(Thermoeye)는 반도체, 2차전지, 디스플레이, 스마트팩토리 등 정밀 온도 제어가 필수적인 첨단 산업 공정을 위한 산업용 열화상 비전 솔루션을 개발·공급하는 기업이다.써모아이의 솔루션은 글로벌 반도체 장비사와의 협업을 통해 성능과 신뢰성을 검증받",
-      "language": "ko",
-      "summary": "초소형 고정밀 열화상 모듈3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 써모아이(Thermoeye)는 반도체, 2차전지, 디스플레이, 스마트팩토리 등 정밀 온도 제어가 필수적인 첨단 산업 공정을 위한 산업용 열화상 비전 솔루션을 개발·공급하는 기업이다. 써모아이의 솔루션은 글로벌 반도체 장비사와의 협업을 통해 성능과 신뢰성을 검증받",
-      "points": [
-        "써모아이의 솔루션은 글로벌 반도체 장비사와의 협업을 통해 성능과 신뢰성을 검증받",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Sam Altman would like remind you that humans use a lot of energy, too",
-      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 21 Feb 2026 21:38:01 +0000",
-      "description": "\"It also takes a lot of energy to train a human.\"",
-      "language": "en",
-      "summary": "Sam Altman highlights the significant amount of energy used by humans and AI systems alike.",
-      "points": [
-        "The process to produce food for livestnerity consumes substantial amounts of fossil fuels, leading to environmental degradation such as air pollution that contributes significantly to greenhouse gas emissions."
-      ],
-      "insight": "This news prompts a broader discussion on sustainable energy use within the AI industry and society at large. It underscores the need for consciousness about our carbon footprint in all aspects of life, including technology development."
-    },
-    {
-      "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
-      "link": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 21 Feb 2026 20:20:15 +0000",
-      "description": "Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.",
-      "language": "en",
-      "summary": "Wikipedia editors have decided to remove all links to Archive.today after alleging it has been linked to over 695,000 times on the site.",
-      "points": [
-        "Wikipedia removed thousands of links due to a suspected DDoS attack involving Archive.today",
-        "Archive.today's team denied responsibility but acknowledged potential issues with their system and network traffic control strategies",
-        "This decision highlights the challenges digital preservation services face when under scrutiny for security incidents"
-      ],
-      "insight": "The news underscores how significant allegations of misuse can lead to swift action by knowledge-sharing platforms and raises awareness about network traffic management among web archiving tools."
-    },
-    {
-      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-      "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 21 Feb 2026 17:41:27 +0000",
-      "description": "Is Microsoft's gaming division doubling down on AI?",
-      "language": "en",
-      "summary": "Is Microsoft's gaming division doubling down on AI",
-      "points": [
-        "Is Microsoft's gaming division doubling down on AI",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google VP warns that two types of AI startups may not survive",
-      "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 21 Feb 2026 16:00:00 +0000",
-      "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-      "language": "en",
-      "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
