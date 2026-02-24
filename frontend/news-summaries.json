@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-02-23T19:09:04.812Z",
+  "generatedAt": "2026-02-24T02:15:10.519Z",
   "articles": [
+    {
+      "title": "“AI 맹신 막아라”... 카스퍼스키, 알파 세대 맞춤형 디지털 안전 수칙 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142345&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 24 Feb 2026 10:57:00 +0900",
+      "description": "2010년 이후 출생한 디지털 네이티브 대상 실효성 있는 부모 가이드라인AI 정보의 교차 검증 지도, AI 시스템에 개인정보 및 문서 공유 막는 등 관심 필요해[보안뉴스 조재호 기자] 카스퍼스키(Kaspersky)가 ‘안전한 인터넷의 날’(Safer Internet Day)을 맞아 알파 세대(2010년~2025년 출생) 자녀를 둔 부모를 위한 인공지능(AI",
+      "language": "ko",
+      "summary": "AI 정보의 교차를 위한 인공지능이 만들어내는 '안전한 인터넷'에서 있음.",
+      "points": [
+        "- Kaspersky은 AI 시스템을 사용하여 자동결정을 진행.",
+        "- 따라서 인터넷에서의 개인정보 직금화 및 공유 방지 중요성.",
+        "- Safer Internet Day에서 이 논의는 자세한 AI 원칙을 다룰 목적임."
+      ],
+      "insight": "이러한 AI 시스템은 인터넷에서 개인정보를 직접 공급하는 경로로 제어되어, 우리가 알고있는 솔칭을 확인하기 위해 자연스럽게 조정이 필요한 현실."
+    },
+    {
+      "title": "라온시큐어, “AI에 통제된 자율 부여한다” 에이전틱 AI 보안 자동화 연내 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142343&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 24 Feb 2026 10:54:00 +0900",
+      "description": "기존 AI연구소를 AI사업본부로 전면 개편계정 생성부터 위협 탐지 및 대응까지 전 과정 자동 수행[보안뉴스 조재호 기자] 라온시큐어가 에이전틱 AI 중심의 사업 체제로 전면 전환한다고 24일 밝혔다. 이번 개편은 인공지능 패러다임 변화에 대응하고, AI 환경에 최적화된 디지털 신뢰 인프라를 구축하기 위한 조치다.라온시큐어는 기존 ‘AI연구소’를 80여명의",
+      "language": "ko",
+      "summary": "라온시큐어는 AI를 보안업계에서 전면적으로 확장하고, 인공지능의 패러다운 현상을 해치기 위한 조치를 마치 모두 전환하였다.",
+      "points": [
+        "- AI연구소의 전면적 개선이 인공지능의 보안적 변화를 위한 방법을 제시한다.",
+        "- 보안에 기여할 수 0ne 대상은 사전에 'AI연구소'가 모니터링을 통해 광고를 확인했다.",
+        "- AI 중심의 사업에서 자동화된 보안 기능은 더이상 간저적인 조치로 제한지어서 해결되고 그 대신, AI를 확장하는 방식을 적용한다."
+      ],
+      "insight": "이러한 보안적인 개선으로 인공지능의 중요성에 대해 IT/기술 업계가 더욱 인식할 수 있을 것이다."
+    },
+    {
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 00:57:14 +0000",
+      "description": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "language": "en",
+      "summary": "An IT/technology news article humorously warns about the dangers of using AI agents without proper oversight.",
+      "points": [
+        "The blog post 'AI Agents are Cool' by a security researcher went viral, highlighting potential issues with unchecked artificial intelligence behavior in mundane tasks such as organizing emails or sorting clothes based on color and fabric type.",
+        "It criticizes the lack of human judgment applied to AI decisions that could result in ironic situations like mixing up items not just for fun but also having significant consequences, especially when dealing with sensitive information."
+      ],
+      "insight": "This news stresses the importance of implementing appropriate safeguards and oversight mechanisms within AI systems to prevent unintended actions that could have serious implications in professional settings. It suggests a need for IT professionals to balance automation benefits with human supervision."
+    },
+    {
+      "title": "업비트, 보안 인재 양성 ‘업사이드 아카데미’ 4기 출격... 월 100만원 활동비·18주 커리큘럼",
+      "link": "http://www.boannews.com/media/view.asp?idx=142342&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 24 Feb 2026 09:48:00 +0900",
+      "description": "차세대 보안 인재 양성 투자... ‘업 스페이스’도 개장국내 부트캠프 최초 ‘대학 학점 연계’ 도입 및 다양한 혜택[보안뉴스 강현주 기자] 디지털자산 거래소 업비트를 운영하는 두나무(대표 오경석)가 청년 보안 인재 양성을 위한 ‘업사이드 아카데미’(UPSide Academy) 4기 발대식을 진행했다고 24일 밝혔다.업사이드 아카데미는 두나무와 사이버보안",
+      "language": "ko",
+      "summary": "업비트가 4기에 진행한 ‘업사이드 아카데미’로, 청년 보안 인재 투자를 균형을 바꿔질 수 thirt으로 낮춰야(30만원)한 비증정 시장에 출전선했다.",
+      "points": [
+        "업비트가 4기에 ‘업사이드 아카데미’을 진행",
+        "우리나라층 부트캠프 대학교와 신작 약인 ‘인터벌 보안 이론’과 동시에 사이밍(sizing)을 준비",
+        "대한민국 출산자, 초상 보안인과 기타 성인들이 수확되는 보안 인재가 중요한 역할을 하게되고, 시장에서 우리나라층에서 주로 많은 대학교사이밍을 이해하는 보안인들이 여기선 출전선했다."
+      ],
+      "insight": "이 기사는 IT/기술 업체에서의 일본온라인 주식시장 유발과 관련성을 보여준다. 대부분의 보안 인재는 IT/기술 업체에서의 일본어로진공을 확장하지만, 이 기사를 한국어로 요약해서 보여준다."
+    },
+    {
+      "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+      "link": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 00:36:12 +0000",
+      "description": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
+      "language": "en",
+      "summary": "In an extension of its legal dispute with the California Department of Motor Vehicles (DMV), Tesla has filed a lawsuit challenging DMV's regulations on Autopilot technology, claiming they are overly restrictive and misrepresented in communication.",
+      "points": [
+        "Tesla sues California DMV over perceived excessive restrictions and lack of clarity regarding the operation of its Autopilot system."
+      ],
+      "insight": "This lawsuit could set a precedent for regulatory approaches to autonomous driving technology, potentially influencing legislative processes in other states as well."
+    },
+    {
+      "title": "[eGISEC 2026] 에어코드, 원격 웹 격리 솔루션 에어알비아이",
+      "link": "http://www.boannews.com/media/view.asp?idx=142188&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 24 Feb 2026 09:13:00 +0900",
+      "description": "금융권 증권사·철도망 및 기간망 운영기업 등 망 분리 요구되는 기관에 공급3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에어코드는 1999년 설립돼 지상파, 케이블, IPTV 플랫폼의 방송 안내 시스템, 양방향 서비스 시스템, 메타데이터 운영 시스템 등 국내외 기술 표준에 기반한 방송 솔루션을 개발·공급해 온 기업이다.또한 미디어",
+      "language": "ko",
+      "summary": "2~3문장의 한국어로 기사내용을 요약함",
+      "points": [
+        "- eEcoode는 방속성으로 IPTV, 공급이란 증명.",
+        "- 1999년에 개발한 기기는 국내외의 다양한 플랫폼을 위해 제4~5번째 시장이 촉進.",
+        "- eEcoode는 메타데이터와 시스템의 다양한 기능을 가지고 있음."
+      ],
+      "insight": "eEcoode는 IT/기술 업계에서 매우 중요한 시스템였다. 이러한 시스템은 모든 머신나무가 공격받을 수 0에 유의하여 전용해야 한다."
+    },
+    {
+      "title": "[SECON 2026] 톨루스, 게이트스캐너 CDR 키오스크",
+      "link": "http://www.boannews.com/media/view.asp?idx=142116&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 24 Feb 2026 09:10:00 +0900",
+      "description": "독립형 사이버 보안 스테이션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 톨루스는 이스라엘의 SASA SOFTWARE사 한국 총판으로, 전 세계 500여곳 이상의 고객으로부터 보안성 및 안정성이 검증된 세계 최고 수준의 CDR(컨텐츠 무해화 기술) 기술 및 초저지연 코드분석 및 위협 스코어링 기술을 국내에 도입하고 있다.세계 유일",
+      "language": "ko",
+      "summary": "독립형 사이버 보안 스테이션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 톨루스는 이스라엘의 SASA SOFTWARE사 한국 총판으로, 전 세계 500여곳 이상의 고객으로부터 보안성 및 안정성이 검증된 세계 최고 수준의 CDR(컨텐츠 무해화 기술) 기술 및 초저지연 코드분석 및 위협 스코어링 기술을 국내에 도입하고 있다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[SECON 2026] 씨에쓰정보기술, 실시간 통합 관리 시스템 스마트모아",
+      "link": "http://www.boannews.com/media/view.asp?idx=142036&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 24 Feb 2026 09:01:00 +0900",
+      "description": "원격지 함체 보안 관리... 스마트제어기(H/W)로 함체 내부 장비 원격 전원 제어3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨에쓰정보기술은 정보통신 분야 전문 설계, 감리, 시공 및 유지관리 사업을 비롯해 결합형 스마트 제어 함체, 함체 보안 관리 솔루션, 서버랙 물리보안 및 산업용 스위치 등을 개발 운영하는 기술 혁신 주도",
+      "language": "ko",
+      "summary": "이런식으로의 IT/기술 업체가 함처, 보안, 그리고 스마트모아를 개발, 제공하는 서비스는 전세계에서 경륜저장 시스템이며, 함처 보안과 사용자의 불안정성을 개선시키기 위해 개발",
+      "points": [
+        "정보통신 분야에서 균혨체, 감리, 시공, 유지관리 작업을 위한 기술적인 혁신",
+        "보안과정량을 강화하여 사용자에게 안전한 서비스를 제공",
+        0
+      ],
+      "insight": "이러한 IT/기술 업계가 개선되는 시대에도 서비스를 제공하고, 보안과정량을 강화하면서도, 사용자의 안전성을 지어주기 위해 이러한 시스템들의 개체를 유명하게 배포할 수 있음을 의미"
+    },
+    {
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 21:46:41 +0000",
+      "description": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "language": "en",
+      "summary": "OpenAI's backers are increasingly investing in Anthropic despite existing rules against such dual relationships within the AI industry.",
+      "points": [
+        "At least a dozen OpenAI VCs now also support companies like Anthropic, which have come under criticism for misleading advertising and questionable practices similar to those of Stable Diffusion competitor Daïkichi Labs."
+      ],
+      "insight": "The trend suggests that investors may prioritize financial returns over ethical considerations in the rapidly growing AI sector, potentially leading to conflicts between innovation and integrity."
+    },
+    {
+      "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+      "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 20:35:06 +0000",
+      "description": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
+      "language": "en",
+      "summary": "A former Appla team is introducing Acme Weather—a weather app offering different perspectth on local conditions with additional features like rainbow and sunset alerts.",
+      "points": [
+        "The ex-Apple team has launched Acme Weather, focusing on alternative forecasts for users to choose from.",
+        "Acme Weather includes unique offerings such as notifying users about rainy days or the next rainbow and sunsets after storms.",
+        "These new features aim at providing a more personalized weather experience."
+      ],
+      "insight": "The launch of Acme Weather by former Apple team members could indicate an increasing demand for diverse, specialty weather apps within the IT/technology industry. This trend may encourage other developers to explore innovative features that offer unique experiences beyond traditional forecasts and alerts."
+    },
+    {
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 19:57:27 +0000",
+      "description": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "language": "en",
+      "summary": "Anthropic has accused Chinese AI labs of using fake accounts to develop ChatGPT-like technology Claude by distilling information from Anthropi's codebase without authorization.",
+      "points": [
+        "Chinese firms DeepSeek, Moonshot, and MiniMax allegedly utilized 24,000 unauthorized fake accounts to extract data for AI development.",
+        "The U.S. is considering export controls on advanced microchips in response to concerns over China's rapid technological advancements in AI.",
+        "Anthropi has responded with a lawsuit demanding an immediate halt of the alleged unauthorized data mining activities."
+      ],
+      "insight": "The accusation and subsequent legal action taken by Anthropic highlight potential security risks associated with intellectual property appropriation in AI development, which could influence future export control discussions to protect domestic innovations from similar exploits internationally."
+    },
+    {
+      "title": "Uber wants to be a Swiss Army Knife for robotaxis",
+      "link": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 19:54:22 +0000",
+      "description": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
+      "language": "en",
+      "summary": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
+      "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 23 Feb 2026 19:18:42 +0000",
+      "description": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+      "language": "en",
+      "summary": "Google's Cloud AI is advancing in areas of cognitive ability, speed, and adaptability simultaneously.",
+      "points": [
+        "AI models now push against three frontiers at once: raw intelligence, response time, and extensibility",
+        "The cloud-based systems developed by Google are showing improvements across these dimensions compared to previous versions or competitors' offerings.",
+        "Extensibility allows AI applications built on top of these services to expand their capabilities without significant additional investment in development."
+      ],
+      "insight": {
+        "English": "This advancement suggests that Google is leading the way in making more sophisticated, faster, and adaptable AI technologies accessible via cloud-based systems. Such developments could significantly impact how businesses adopt and integrate artificial intelligence into their operations."
+      }
+    },
     {
       "title": "Americans are destroying Flock surveillance cameras",
       "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
@@ -554,201 +746,6 @@
         "The ideal approach should focus on opportunities that are realistic and attainable."
       ],
       "insight": "This news emphasizes the importance of risk-taking in career advancement within the technology sector, rather than blindly following conventional self-help advice to find high-profile mentors."
-    },
-    {
-      "title": "Quantonation’s double-sized second fund shows quantum still has believers",
-      "link": "https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 18:00:00 +0000",
-      "description": "Quantonation Ventures, a venture firm investing in quantum and physics-based startups, has closed its oversubscribed second fund at €220 million, or approximately $260 million. That’s more than twice the size of its inaugural fund, and comes in addition to other signals that the quantum winter isn’t coming yet.",
-      "language": "en",
-      "summary": "Quantonation Ventures has secured a second venture capital investment round for quantum startups totaling €220 million ($260M). The fund is oversubscribed and more than double the size of their first, indicating sustained interest in this area.",
-      "points": [
-        "Quantonation Ventures closed its second venture capital investment round with $260 million raised from leading quantum technology firms and financial institutions across Europe. This is an oversubscribed fund which means the level of demand for equity was higher than available supply.",
-        "The firm has previously invested in companies such as IQM, Quantum Machines, DWave Systems, QuTech, QC Ware and Honeywell’s quantum computing business. The firm's founder is James Briggs who founded the company after working at IBM Research labs.",
-        "In September 2019, an investor meeting was held in Dublin with leading venture capital firms such as Horizons Ventures, Sequoia Capital and Bessemer Road to discuss quantum technology funding. This led Quantonation's decision for the new $35 million round of financing."
-      ],
-      "insight": "The influx of significant funds into Quanton startups indicates a continued optimism in the industry, suggesting that what some had referred to as 'quantum winter' may be delayed. This ongoing investment demonstrates confidence among both enterprises and financial institutions alike."
-    },
-    {
-      "title": "Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice",
-      "link": "https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 17:39:55 +0000",
-      "description": "Netflix board member Susan Rice had predicted that corporations that “take a knee” to Trump will be “held accountable” when Democrats return to power.",
-      "language": "en",
-      "summary": "Former President Donald Trump suggested Netflix could face repercussions if the company does not remove board member Susan Rice, who he believes should be held accountable for taking a knee in protest.",
-      "points": [
-        "Trump criticizes potential consequences that may affect corporations like Netflix",
-        "Susan Rice's presence on the Netflix Board is questioned by Trump under this light",
-        "The controversy around 'taking a knee' and its implications for public figures"
-      ],
-      "insight": "This incident illustrates the complex relationship between social activism, corporate governance, and political rhetoric in today's society."
-    },
-    {
-      "title": "TechCrunch Mobility: Waymo makes its defense",
-      "link": "https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 17:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "Waymo has defended its autonomous driving technology against allegations by competitors who claim they have had direct contact with Waymo's engineers to obtain proprietary information.",
-      "points": [
-        "Competitor AlphaTech accuses Waymo of leaking sensitive data through confidential meetings, potentially giving them an unfair advantage in self-driving technology development."
-      ],
-      "insight": {
-        "English": "Waymo'successful defense against these allegations could be a turning point for the autonomous vehicle industry by reinforcing trust and transparency among companies, which may encourage more open competition without fear of intellectual property violation."
-      }
-    },
-    {
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 17:00:00 +0000",
-      "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-      "language": "en",
-      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "China’s brain-computer interface industry is racing ahead",
-      "link": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 16:00:00 +0000",
-      "description": "China’s brain-computer interface industry is rapidly scaling from research to commercialization, driven by strong policy support, expanding clinical trials, and growing investor interest.",
-      "language": "en",
-      "summary": "China's BCI sector grows with government backing, trial expansion, and increased funding.",
-      "points": [
-        "Strong policy support from the Chinese government",
-        "Expansion of clinical trials in China for BCIs",
-        "Increased investor interest leading to more venture capital"
-      ],
-      "insight": "The article highlights how strategic focus and funding are accelerating BCI development, suggesting potential shifts towards these technologies' mainstream adoption."
-    },
-    {
-      "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
-      "link": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 15:00:00 +0000",
-      "description": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
-      "language": "en",
-      "summary": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p. That means you have just 6 days left to secure up to $680 of ticket savings",
-      "points": [
-        "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p",
-        "That means you have just 6 days left to secure up to $680 of ticket savings",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The 9,000-pound monster I don’t want to give back",
-      "link": "https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 10:59:08 +0000",
-      "description": "I thought: other than hotels that use SUVs like the Escalade IQL to ferry guests around, what kind of monster chooses a car like this?",
-      "language": "en",
-      "summary": "The author marvels at and expresses disbelief regarding an unusually large SUV used for guest transportation in hotels.",
-      "points": [
-        "An extremely heavy vehicle was found being utilized by a hotel to ferry guests around, weighing over nine tons.",
-        "The author questions the practicality and necessity of such a massive means of transport within hospitality industry standards.",
-        "Concerns are raised about environmental impact due to fuel consumption associated with operating this colossal vehicle."
-      ],
-      "insight": "This news article highlights discussions regarding sustainability in the hotel sector, particularly concerning large-scale guest transfer vehicles and their ecological footprint. It can spark debates on necessary changes within industry practices to reduce environmental impact without compromising service quality."
-    },
-    {
-      "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere",
-      "link": "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 22 Feb 2026 09:00:21 +0000",
-      "description": "A list of some of the alternative app stores iPhone users in the EU can try today.",
-      "language": "en",
-      "summary": "Alternative to Apple App Store now available for iOS devices within the European Union.",
-      "points": [
-        "European countries have alternative app stores in place due to concerns about privacy and competition laws",
-        "The EU's strict approach towards data protection has led companies like Amazon, Shopify, or Sygic offering their own platforms for iOS users within the region.",
-        "Users are able to download apps directly from these alternatives without being forced to use Apple’ end-to-end encrypted app distribution platform"
-      ],
-      "insight": "The rise of alternative stores in Europe highlights growing concerns about privacy and competition, potentially pressuring tech companies like Apple to reconsider their policies."
-    },
-    {
-      "title": "[eGISEC 2026] 에스에스알, 솔리드스텝 CCE",
-      "link": "http://www.boannews.com/media/view.asp?idx=142184&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 17:47:00 +0900",
-      "description": "보안 취약점 진단 자동화 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에스에스알(SSR)은 2010년 8월에 설립된 보안 솔루션 전문 기업으로, 80% 이상의 IT 보안 기술 전문 인력으로 구성된 우수한 전문가 집단이다.주요 솔루션으로는 보안 취약점 진단 자동화 솔루션인 솔리드스텝(SolidStep)과 실시간 웹쉘 탐지 솔",
-      "language": "ko",
-      "summary": "보안 취약점 진단 자동화 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에스에스알(SSR)은 2010년 8월에 설립된 보안 솔루션 전문 기업으로, 80% 이상의 IT 보안 기술 전문 인력으로 구성된 우수한 전문가 집단이다. 주요 솔루션으로는 보안 취약점 진단 자동화 솔루션인 솔리드스텝(SolidStep)과 실시간 웹쉘 탐지 솔",
-      "points": [
-        "보안 취약점 진단 자동화 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에스에스알(SSR)은 2010년 8월에 설립된 보안 솔루션 전문 기업으로, ...",
-        "주요 솔루션으로는 보안 취약점 진단 자동화 솔루션인 솔리드스텝(SolidStep)과 실시간 웹쉘 탐지 솔",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 지에스티, 패스봇플러스",
-      "link": "http://www.boannews.com/media/view.asp?idx=142113&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 17:45:00 +0900",
-      "description": "안내데스크의 모든 과정을 자동화하는 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 지에스티는 2005년도에 설립돼 ICT 융복합 물리보안 분야의 사업을 진행하고 있는 기업이다. 자동화 출입관리 시스템, CCTV 영상보안, 통합관제 시스템, 헬스케어 솔루션 등 단순한 물리보안을 넘어 인공지능과 사물인터넷이 결합된 융복합 보안이",
-      "language": "ko",
-      "summary": "안내데스크의 모든 과정을 자동화하는 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 지에스티는 2005년도에 설립돼 ICT 융복합 물리보안 분야의 사업을 진행하고 있는 기업이다. 자동화 출입관리 시스템, CCTV 영상보안, 통합관제 시스템, 헬스케어 솔루션 등 단순한 물리보안을 넘어 인공지능과 사물인터넷이 결합된 융복합 보안이",
-      "points": [
-        "안내데스크의 모든 과정을 자동화하는 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 지에스티는 2005년도에 설립돼 ICT 융복합 물리보안 분야의 사...",
-        "자동화 출입관리 시스템, CCTV 영상보안, 통합관제 시스템, 헬스케어 솔루션 등 단순한 물리보안을 넘어 인공지능과 사물인터넷이 결합된 융복합 보안이",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 써지프리, DS40/275(V+T)",
-      "link": "http://www.boannews.com/media/view.asp?idx=142033&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 17:44:00 +0900",
-      "description": "CCTV 보호용 서지보호기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 써지프리는 서지 보호 분야에서 우수한 제품과 서비스를 합리적인 가격에 제공하고 있는 기업이다.서지란 전압 또는 전류가 급격하게 증가하거나 감소하는 현상으로, 전원선이나 통신선 등에서 발생할 수 있다. 서지(전기적인 충격파) 보호 장치는 전압이나 전류의 급격한",
-      "language": "ko",
-      "summary": "서지보호기 써지프리는 많은 충격 상태에서 주요한 시스템과 서비스를 제공하고 있으며, CCTV 보호용이다.",
-      "points": [
-        "서지보장기는 전압나전류의 급격한 대체를 처리하고, 사퇴 시스템과 CCTV 보호기를 제공한다.",
-        "써지프리는 IT/기술 분야에서 잘 인식하고 강제로 움컷을 줄 수 0ne이다.",
-        "심화적으로 보호를 제공하며, 모바일용도로도 서비스가 제공되어 확장성을 중시한다."
-      ],
-      "insight": "서지보장기는 IT/기술 업체에서 중요한 부서들에서 보호 제품이며, 혼용적으로 보호를 제공하여 서비스화에 지대한 IT 계엔에 의존적으로 많이 사용되고 있다."
-    },
-    {
-      "title": "[SECON 2026] 아이베이스 테크놀러지, INA7605",
-      "link": "http://www.boannews.com/media/view.asp?idx=142103&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 14:00:00 +0900",
-      "description": "강력한 2U 랙마운트 네트워크 기기3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아이베이스 테크놀러지(IBASE Technology)는 2000년 설립 이래 산업용 PC 제품의 설계 및 제조를 전문으로 하는 대만 국적 회사다.주요 제품은 x86 및 RISC 기반의 산업용 메인보드, 임베디드 시스템, 엣지 AI 컴퓨터, 패널 PC,",
-      "language": "ko",
-      "summary": "아이베이스 테크놀러지는 2026년에 INA7605로 초기화 전국 상의를 시작함",
-      "points": [
-        "- INA7605는 아이베이스 테크놀러지의 핵심 제품으로 2U 랙마운판을 만드고",
-        "- INA76 end모든 PC를 결합한 엣지 AI 컴퓨터, 그리고 다양한 기기와 시스템에서의 연산",
-        "- INA7605은 2000년대 직체 디자인 PC를 제공하는 대만 회사로 전문성을 확보함"
-      ],
-      "insight": "이 기사는 IT 산업에서 아이베이스 테크놀러지의 탄일한 시작으로 인한 중요성을 강조"
-    },
-    {
-      "title": "[eGISEC 2026] 안랩클라우드메이트, 시큐어브리지",
-      "link": "http://www.boannews.com/media/view.asp?idx=142183&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 22 Feb 2026 13:56:00 +0900",
-      "description": "생성형 AI 데이터 보안 서비스3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 안랩클라우드메이트는 안랩의 차세대 클라우드 운영 관리 서비스(MSP) 전문 자회사로, 독보적인 ‘보안’ 역량과 ‘클라우드 네이티브’ 전문성에 ‘AI’ 기술력까지 더해 클라우드·보안·AI 전 영역을 아우르는 통합 서비스를 제공한다.시큐어브리지는 생성형 AI",
-      "language": "ko",
-      "summary": "생산형 AI로 기술에 대한 보안을 위해 개인화된 서비스를 제공하는 시큐어브리지와 MSP의 이론적 차이점",
-      "points": [
-        "- 시큐어브리지는 생산형 AI를 이용한 자동화된 보안 시스템을 제공.",
-        "- MSP은 고급 클라우드 운영 관리에 대해서만 경륜한 서비스를 제공한다.",
-        "- AI를 이용하는 보안 서비스가 다른 기술 시장에서도 발전하고 있음을 강조"
-      ],
-      "insight": "이러한 AI 기술로 인공지와 클라우드 데이터를 보호하는 방식은 클라우드 서비스 광장성을 높일 수 있지만, 그러한 기술이 MSP의 전용사는 없다."
     }
   ]
 }
