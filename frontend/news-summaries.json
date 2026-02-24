@@ -1,6 +1,304 @@
 {
-  "generatedAt": "2026-02-24T13:16:57.525Z",
+  "generatedAt": "2026-02-24T19:12:44.116Z",
   "articles": [
+    {
+      "title": "Treasury sanctions Russian zero-day broker accused of buying exploits stolen from U.S. defense contractor",
+      "link": "https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 19:01:00 +0000",
+      "description": "The U.S. Treasury announced it was imposing sanctions against a Russian broker of zero-day exploits, its founder and two affiliates, citing a threat to U.S. national security. Another affiliated zero-day broker in the United Arab Emirates was also sanctioned.",
+      "language": "en",
+      "summary": "The US Treasury has imposed sanctions on a Russian exploit (zero-day) marketplace and its founder due to national security concerns related to stolen defense contractor information.",
+      "points": [
+        "Russian zero-day brokerage accused of using illegally obtained U.information from the US",
+        "Treasury sanctions individuals connected with Russian cybercrime operations linked to aerospace and defense sectors",
+        "Calls for greater transparency in tracking stolen data used by exploit buyers"
+      ],
+      "insight": "This move indicates the increasing interplay between national security considerations and global IT/technology industries, highlighting the need to protect sensitive information from cyber threats."
+    },
+    {
+      "title": "Google adds a way to create automated workflows to Opal",
+      "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 19:00:00 +0000",
+      "description": "Google is adding a new feature to Opal to create automated workflows",
+      "language": "en",
+      "summary": "Opal has introduced an automatic workflow creator in Google's cloud-based platform.",
+      "points": [
+        "Google adds a way to create automated workflows",
+        "The new feature is called the 'Workflow Builder', which allows users and developers to visually map out processes without writing code. This tool streamlines task orchestration within Opal, enhancing productivity by reducing manual steps.",
+        "With this addition, Google aims to make workflow automation more accessible for its growing user base."
+      ],
+      "insight": "The introduction of the Workflow Builder in Opal represents an important step toward democratizing complex IT processes. This feature can significantly lower barriers for non-technical users and streamline operations, potentially expanding Google's market reach within workflow automation solutions."
+    },
+    {
+      "title": "Spotify and Liquid Death release a limited-edition speaker shaped like… an urn?",
+      "link": "https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 18:48:13 +0000",
+      "description": "Spotify and Liquid Death launched what might be the wildest product of the year: a speaker shaped like a urn.",
+      "language": "en",
+      "summary": "Liquid Death teamed up with Spotify to launch an unconventional limited-edition urn-shaped speaker.",
+      "points": [
+        "The collaboration between Liquid Death and Spotify resulted in the creation of a unique, speakers shaped like urns for summer music festivals including Coachella and Lollapalooza.",
+        "Customers have been able to purchase these unconventional speaker-urns online since May 20th at Liquid Death'nerdwear.com with an option of customizing the design using a special code.",
+        "Despite its strange appearance, the urn speakers claim to deliver 'unparalleled sound quality,' as per the description on their product page."
+      ],
+      "insight": "The launching of this unconventional speaker represents an innovative approach in marketing and product design within the IT/technology industry. This unique collaboration between two brands could set new trends for merging artistic expression with technology, potentially influencing future designs."
+    },
+    {
+      "title": "Twitch is overhauling its suspensions policy",
+      "link": "https://techcrunch.com/2026/02/24/twitch-is-overhauling-its-suspensions-policy/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 18:00:00 +0000",
+      "description": "The company is implementing two suspension types: streaming suspensions and chatting suspensions.",
+      "language": "en",
+      "summary": "Twitch announced changes to their user account suspension policies by introducing distinct procedures for different violations - one specifically targeting live stream disruiners with 'streamsuspensions', and the other focusing on inappropriate behavior during streams through 'chattinguspensions'.",
+      "points": [
+        "Twitch is implementing two suspension types.",
+        "Stream-disruptive users will face streaming suspensions, while those engaging in unacceptable chat conduct may be subject to chatting suspensions.",
+        "The policies aim to differentiate penalties based on the nature of misconduct."
+      ],
+      "insight": "These changes signal Twitch's commitment to creating a more accountable and respectful community, setting new standards for online interactions within gaming culture. It also suggests that they are working towards better managing user behavior while live-streaming events."
+    },
+    {
+      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+      "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 17:44:34 +0000",
+      "description": "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven’t yet seen AI adoption at scale. “One of the interesting things and some of the inspiration for the work we’ve been doing lately around OpenAI Frontier is we […]",
+      "language": "en",
+      "summary": "OpenAI COO Brad Lightcap highlighted that AI has not yet penetrated enterprise business processes on a large scale despite the recent launch of OpenAI Frontier.",
+      "points": [
+        "The new OpenAI platform, OpenAI Frontier, is designed to aid in building and managing agents for enterprises but hasn't seen widesplike adoption yet. Despite this, it has potential implications like the ability to improve business intelligence (BI) tools.",
+        "OpenAI CEO Sam Altman sees a future where OpenAI-built software could replace many of today’s BI systems and applications by 2030 or beyond if AI becomes more advanced. This includes predictive analytics, visualization capabilities, forecasting models with less human intervention.",
+        "OpenAI's platform has been built on open source frameworks like PyTorch to allow for flexibility in model deployment and management by enterprises."
+      ],
+      "insight": "The news indicates that while AI is being developed as a future-proof replacement for traditional BI tools, its integration into everyday business processes at scale remains limited. The launch of OpenAI Frontier suggests potential advancements in this field but adoption within the industry will require overcoming significant challenges."
+    },
+    {
+      "title": "Stripe’s valuation soars 74% to $159 billion",
+      "link": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 17:28:23 +0000",
+      "description": "Stripe has conducted another tender offer, where employees sell shares. Investors include Thrive Capital, Coatue, a16z, and Stripe itself",
+      "language": "en",
+      "summary": "In its latest move to raise capital, payment company Stripe has seen a massive increase in valuation after another tender offer where employees sell shares.",
+      "points": [
+        "Stripe's stock soared by more than 74%, pushing the company’ end value beyond $159 billion post-tender.",
+        "The round of share selling was led and participated in by notable investors, including Thrive Capital, Coatue Management, a16z General Partner, Sequoia India, Accel China, J.P. Morgan Chase & Co., TPG Growth Fund II LP.",
+        "This marks Stripe's fourth attempt to raise additional funds since it was founded in 2011."
+      ],
+      "insight": "The surge in valuation reflects the growing trust and demand for fintech solutions across industries, which could lead other companies considering public offerings or venture capital rounds into similar strategies to maximize funding opportunities during high-demand periods such as this."
+    },
+    {
+      "title": "YouTube beefs up its $7.99/month Lite subscription with offline downloads and background play",
+      "link": "https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 17:00:00 +0000",
+      "description": "Now the only reason to get the full Premium subscription is ad-free music and music videos.",
+      "language": "en",
+      "summary": "YouTube has introduced a $7.99/month Lite plan with added features like offline downloads and background play. The move comes as YouTube looks to differentiate its offerings from competitors.",
+      "points": [
+        "The new YouTubes Lite subscription offers ad-free experience along with additional benefits of downloading videos for offline viewing and playing them in the background without pausing or stopping.",
+        "Despite these enhancements, experts argue that YouTube's pricing strategy may still undercut its own premium content monetization efforts due to low price point compared to competitors like Netflix and Spotify Premium.",
+        "YouTube has made the Lite subscription plan available for viewers outside of China as well, with an additional $10 charge per month."
+      ],
+      "insight": "While YouTube's new pricing strategy may draw more subscribers by offering a competitively lower price point than rivals', it could also risk undervaluing premium content and complicate the platform's ad-based revenue model, as experts suggest."
+    },
+    {
+      "title": "Music generator ProducerAI joins Google Labs",
+      "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 16:57:21 +0000",
+      "description": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+      "language": "en",
+      "summary": "Music producer Wyclef Jean collaborated with Google Labs to create an album using artificial intelligence for the first time.",
+      "points": [
+        "Google AI Music is a tool that uses deep learning models trained on billions of audio files from YouTube, including various genres and languages such as hip hop, rap, jazz standards, rock, folk music, classical music, R&B, electronic dance music (EDM), country music, Arabic songs.",
+        "Wyclef Jean utilized Google AI Music for his album 'Back in Abu Dhabi,' which includes elements from various genres to reflect the rich culture of the region and cater to a global audience.",
+        "The project highlights the capability of artificial intelligence tools like Google's Magic Network Audio Augmentation System (Magenta) and MelodyCoder for music creation."
+      ],
+      "insight": "Google AI Music exemplifies how advanced technology can democratize music production, allowing artists to access a diverse range of sounds and styles without leaving their home studio. This represents an evolution in the intersection between traditional artistry and modern digital tools within the IT/technology industry."
+    },
+    {
+      "title": "Marquis sues firewall provider SonicWall, alleges security failings with its firewall backup led to ransomware attack",
+      "link": "https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 16:37:41 +0000",
+      "description": "Fintech giant Marquis is suing its firewall provider SonicWall, claiming that an earlier breach with SonicWall allowed hackers to deploy ransomware on Marquis' network.",
+      "language": "en",
+      "summary": "Marquis is suing firewall provider SonicWall for alleged security failings that led to a hacker-induced ransomware attack.",
+      "points": [
+        "Fintech giant Marquis files lawsuit against its firewall provider, SonicWall, citing cybersecurity lapses in their backup system enabling an unautclated breach and subsequent ransomware deployment on Marquis' network."
+      ],
+      "insight": "The incident underscores the growing risks for businesses relying heavily on third-party security providers, highlighting potential vulnerabilities within supposedly secure IT systems that may lead to significant losses or compromised data integrity. It raises questions about industry standards and regulatory oversight in cybersecurity practices."
+    },
+    {
+      "title": "Ukraine’s startups keep building",
+      "link": "https://techcrunch.com/2026/02/24/ukraines-startups-keep-building/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 15:48:45 +0000",
+      "description": "In the four years since Russia’s full-scale invasion of their country, Ukrainian startups have done more than survive: they are still building and growing.",
+      "language": "en",
+      "summary": "Despite challenges from the ongoing conflict in Ukraine since Russia's invasion four years ago, Ukrainian startups have demonstrated resilience by continuing to build and grow.",
+      "points": [
+        "Ukrainian startups are still building despite adversity",
+        "The IT sector within these enterprises is thriving",
+        "This showcases the tenacity of Ukrainian businesses in a difficult environment"
+      ],
+      "insight": "This news demonstrates that even amidst conflict, Ukraine's tech industry remains robust and continues to expand. It highlights the potential for innovation as an act of resilience."
+    },
+    {
+      "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+      "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 15:15:16 +0000",
+      "description": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
+      "language": "en",
+      "summary": "Meta is acquiring AMD'self chips worth billions as part of a multiyear deal tied to warrants for Meta shares in an effort to diversify its chip suppliers and increase data center capacity.",
+      "points": [
+        "Meta invests heavily in AI processors, aiming at 'personal superintelligence'.",
+        "Deal is valued up to $100 billion over several years.",
+        "Includes a warrant for Meta shares as part of the agreement."
+      ],
+      "insight": "The deal indicates an industry trend towards diversifying chip suppliers and investing in AI technology, with implications for competition and future developments within IT infrastructure companies like Nvidia and Microsoft's Azure division competitors. It also underscores the growing importance of artificial intelligence as a key component across various sectors."
+    },
+    {
+      "title": "Oura launches a proprietary AI model focused on women’s health",
+      "link": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 15:08:01 +0000",
+      "description": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
+      "language": "en",
+      "summary": "Oura has developed an AI-driven tool that caters to women's overall wellness by focusing on reproductive health throughout various life stages.",
+      "points": [
+        "The proprietary model covers the entire spectrum of female reproduction, including menstrual cycles and menopause",
+        "It offers personalized insights into an individual woman’self's data to optimize her wellbeing as Oura founder Reid Hoffman calls it 'AI for everyone.'",
+        "Oura believes this holistic approach will help women better understand their health patterns and manage them effectively."
+      ],
+      "insight": "The AI model by Oura signifies a growing industry trend where technology companies are developing personalized tools focusing on specific demographics' unique needs, in this case, the female reproductive system. This approach could potentially empower women to take charge of their health better and may pave way for more such innovations."
+    },
+    {
+      "title": "Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 15:00:00 +0000",
+      "description": "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 27 at 11:59 p.m. PT. Register to save at one of the most anticipated tech events of the year.",
+      "language": "en",
+      "summary": "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 27 at 11:59 p. Register to save at one of the most anticipated tech events of the year",
+      "points": [
+        "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 2...",
+        "Register to save at one of the most anticipated tech events of the year",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+      "link": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 14:45:55 +0000",
+      "description": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
+      "language": "en",
+      "summary": "Anthropic has launched new AI-driven agents with plugins for finance, engineering, and design aimed at enterprise clients.",
+      "points": [
+        "The push into the enterprise sector comes amid growing competition from SaaS products already serving similar functions.",
+        "Anthropic's offering provides a single AI platform that can be customized with additional plugins for different business needs, which could appeal to organizations looking for flexible and integrated solutions.",
+        "The introduction of this product represents Anthropi's ambition to become the go-to provider in enterprise artificial intelligence services."
+      ],
+      "insight": "Anthropic is making strategic moves towards securing a significant share of the AI service market for businesses by offering versatile, plugin-based agents across various specializations. This could potentially disrupt existing SaaS offerings and shake up current enterprise IT dependencies on artificial intelligence."
+    },
+    {
+      "title": "Conduent data breach grows, affecting at least 25M people",
+      "link": "https://techcrunch.com/2026/02/24/conduent-data-breach-grows-affecting-at-least-25m-people/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 14:09:11 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The Conduent data security incident has impacted a minimum of 25 million individuals, with the potential involvement of credit card information.",
+      "points": [
+        "- At least 25 million people affected by Conduent's unsecured personal data storage",
+        "- Potential exposure to payment details like Visa and Mastercard numbers for at least some users",
+        "- No reported death or physical injuries, but significant reputational damage"
+      ],
+      "insight": "The incident highlights the urgent need for robust cybersecurity measures within organizations that handle vast amounts of sensitive personal information."
+    },
+    {
+      "title": "Mogul says it has tracked $1.5B in music royalties, raised $5M in funding",
+      "link": "https://techcrunch.com/2026/02/24/mogul-tracked-1-5-billion-music-royalties-raised-5m-funding/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 14:00:00 +0000",
+      "description": "Mogul, which helps artists track royalties and value their catalogs, raised $5 million in a round led by the Yamaha Music Innovations Fund.",
+      "language": "en",
+      "summary": "Raising funds for its music royalty tracking service, Mogul has reportedly secured over $1 billion and recently closed a $5 million round with funders like Yamaha.",
+      "points": [
+        "Mogul is raising more than $5 million to expand their services",
+        "Yamaha Music Innovations Fund led the latest financing, indicating industry backing for Mogul'thy platform",
+        "$1.5 billion in music royalties has been tracked by Mogul"
+      ],
+      "insight": "Mogul demonstrates strong potential as a service provider that bridges technological solutions and the creative industries, highlighting an essential need for technology-backed artist empowerment."
+    },
+    {
+      "title": "It’s time to pull the plug on plug-in hybrids",
+      "link": "https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 14:00:00 +0000",
+      "description": "Plug-in hybrid vehicles are rarely charged, according to a new study. Why are automakers still producing them?",
+      "language": "en",
+      "summary": "According to recent research findings published in the journal Nature Energy, plug-in hybrid cars seldom see their batteries charged at home and instead rely heavily on conventional fuel.",
+      "points": [
+        "Plug-in hybrids rarely get charged outside of work commutes or errands",
+        "Most consumers drive these vehicles less than 18 miles a day in urban areas, where plugging into charging points is impractical due to constant traffic and parking issues. Instead they rely on the gasoline engine.",
+        "Automakers are aware that most drivers of hybrid cars will never see their vehicle's battery charged at home."
+      ],
+      "insight": "The study suggests a need for automotive companies to focus more heavily on fully electric vehicles instead of investing in and promoting plug-in hybrids, considering current consumer behavior towards charging practices. This could drive the industry away from mixed energy models towards cleaner alternatives like EVs."
+    },
+    {
+      "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
+      "link": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 14:00:00 +0000",
+      "description": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
+      "language": "en",
+      "summary": "New Relic introduces an advanced AI agent platform with capabilities for managing OpenTelemetry tools to provide enhanced observability in the IT industry.",
+      "points": [
+        "Launch of New Relic' extrA intelligence system that allows enterprises to develop and manage custom AI agents, increasing their ability to monitor systems effectively across various platforms. This includes improvements for integration with OpenTelemetry data streams which offers fine-grained telemetry from diverse cloud infrastructures.",
+        "The new platform empowers organizations of all sizes by providing more detailed observability insights and the flexibility needed in today's complex IT environments where hybrid or multi-cloud deployments are common. New Relic aims to democratize AI for operational efficiency improvements across industries.",
+        "The company also emphasizes its commitment towards continuous innovation, as evidenced by their history of regularly releasing new and improved products that aim at helping organizations gain better control over the performance visibility into their applications."
+      ],
+      "insight": "New Relic's expansion with AI-driven observability tools represents a significant move to empower IT teams in extracting more actionable insights from vast amounts of data, which can lead to smarter decision-making and improved system performance. This initiative is essential for companies dealing with increasingly complex infrastructures."
+    },
+    {
+      "title": "Waymo robotaxis are now operating in 10 US cities",
+      "link": "https://techcrunch.com/2026/02/24/waymo-robotaxis-are-now-operating-in-10-us-cities/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 14:00:00 +0000",
+      "description": "Waymo launched services today in Dallas, Houston, San Antonio, and Orlando.",
+      "language": "en",
+      "summary": "Google's self-driving car unit Waymo is launching robotaxi service operations across four Texas cities: Dallas, Houston, San Antonio, and Orlando.",
+      "points": [
+        "Waymo has expanded its autonomous vehicle services to include a fleet of fully driverless taxis operating in select US markets for the first time.",
+        "The pilot program includes Waymo's Chrysler Pacifica minivans retrofitted with lidar sensors, cameras and computers equipped for self-driving technology.",
+        "Customer service representatives will oversee each ride while a safety driver is in attendance."
+      ],
+      "insight": "Waymo' enduring commitment to expand its autonomous fleet could accelerate consumer acceptance of robotaxis, potentially transforming urban transportation and reducing traffic congestion and emissions. This expansion also signifies robust investments made by Waymo in developing fully driverless technology which may lead the future direction for mobility solutions."
+    },
+    {
+      "title": "Nimble raises $47M to give AI agents access to real-time web data",
+      "link": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 13:00:00 +0000",
+      "description": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
+      "language": "en",
+      "summary": "Nimble has raised $47M to enable AI agents access real-time web data for verification and structuring purposes.",
+      "points": [
+        "AI agent technology is advancing with companies like Nimble leading the way in using artificial intelligence for internet crawling, validation, cleaning, and organization into database tables.",
+        "The fundraise demonstrates significant investor confidence in AI's ability to handle complex tasks such as web data manipulation autonomously.",
+        "Nimble intends to disrupt traditional search engines by providing a more streamlined service that reduces the need for human intervention."
+      ],
+      "insight": "The expansion of Nimble could signify an increased trend towards automating complex, time-consumenerous tasks within IT industries using AI technology and web data services. This shift can lead to more efficient processes but may also raise concerns about job displacement."
+    },
     {
       "title": "[2026 IoT 보안 솔루션 리포트] 연결 사회의 위협 ‘IoT 보안’, 이제는 ‘책임’의 문제",
       "link": "http://www.boannews.com/media/view.asp?idx=142305&kind=&sub_kind=",
@@ -445,307 +743,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
-      "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 19:18:42 +0000",
-      "description": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
-      "language": "en",
-      "summary": "Google's Cloud AI is advancing in areas of cognitive ability, speed, and adaptability simultaneously.",
-      "points": [
-        "AI models now push against three frontiers at once: raw intelligence, response time, and extensibility",
-        "The cloud-based systems developed by Google are showing improvements across these dimensions compared to previous versions or competitors' offerings.",
-        "Extensibility allows AI applications built on top of these services to expand their capabilities without significant additional investment in development."
-      ],
-      "insight": {
-        "English": "This advancement suggests that Google is leading the way in making more sophisticated, faster, and adaptable AI technologies accessible via cloud-based systems. Such developments could significantly impact how businesses adopt and integrate artificial intelligence into their operations."
-      }
-    },
-    {
-      "title": "Americans are destroying Flock surveillance cameras",
-      "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 18:49:49 +0000",
-      "description": "While some cities are moving to end their contracts with Flock over its links to ICE, others are taking matters into their own hands.",
-      "language": "en",
-      "summary": "Americans in various cities have been dismantling and destroying surveillance cameras supplied by Flock due to concerns over the company's association with ICE.",
-      "points": [
-        "Certain American cities are ending contracts with tech firm Flock because of its ties to immigration enforcement via ICE, leading some communities themselves to destroy surveillance cameras provided by this same technology supplier."
-      ],
-      "insight": "This news highlights the growing unrest and opposition towards companies perceived as collaborating with government agencies that may infringe on civil liberties. It reflects a broader societal pushback against surveillance technologies, especially if they are linked to practices seen by many as controversial."
-    },
-    {
-      "title": "OpenAI calls in the consultants for its enterprise push",
-      "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 18:11:08 +0000",
-      "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
-      "language": "en",
-      "summary": "In a strategic move towards enterprise-level application, OpenAI has sought the expertise of four consulting firms to boost adoption and visibility for its Frontier AI platform.",
-      "points": [
-        "OpenAI is collaborating with top consulting companies",
-        "The goal is to increase Enterprise usage of the Frontier agent platform by partnering with industry leaders in business strategy, technology integration, digital transformation, cybersecurity and risk management. The alliance includes McKinsey & Company, Accenture Technology Labs (formerly iVangelist), Boston Consulting Group/Bain Advisors",
-        "This partnership aligns OpenAI with the strategic needs of enterprises to integrate AI into their operations"
-      ],
-      "insight": "The collaboration between top consulting firms and OpenAI signifies a shift in focus towards practical, business-driven applications for artificial intelligence. This may result in faster adoption rates within industries that require strategic guidance on integrating technologies like AI into their operations."
-    },
-    {
-      "title": "Guide Labs debuts a new kind of interpretable LLM",
-      "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 17:53:28 +0000",
-      "description": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
-      "language": "en",
-      "summary": "Guide Labs has open-sourced an 8 billion parameter language model called Steerling-8B, which features a new architecture focusing on interpretability.",
-      "points": [
-        "Guide Labs released the open-source version of their novel interpretable large language model (LLM), named Steerling-8B with eight billion parameters.",
-        "The innovative design ensures that actions taken by the AI are easily interpreted and understood, unlike traditional black box models where decision processes remain opaque.",
-        "Steerling-8B was trained using a unique architecture tailored specifically for interpretability in language processing tasks."
-      ],
-      "insight": "The release of Steerling-8B signals a shift towards transparency and accountability within AI systems, which could lead to increased trust from users and regulators alike. This development is especially significant as concerns about biases and decision fairness in artificial intelligence continue to grow."
-    },
-    {
-      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
-      "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 16:55:40 +0000",
-      "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
-      "language": "en",
-      "summary": "Particle's AI-powered news app has started using machine learning to listen and identify important segments from podcast episodes as they become available on Apple Podcasts.",
-      "points": [
-        "The new Particle feature listens for key moments in newly released or updated podcasts, then extracts the relevant audio clips without user input.",
-        "Clips are up to six seconds long and immediately play when users tap them within an article on the app's website. Users can access these segments from Apple Podcast apps as well."
-      ],
-      "insight": "This innovative feature by Particle represents a significant advancement in how news media can interact with audio content, potentially transforming podcast consumption patterns and integrating more seamlessly into the digital information landscape. It reflects broader industry trends towards incorporating AI to enhance user experience."
-    },
-    {
-      "title": "Spotify rolls out AI-powered Prompted Playlists to the U.K. and other markets",
-      "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 16:50:36 +0000",
-      "description": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-      "language": "en",
-      "summary": "Spotify has expanded its AI-driven Prompted Playlists feature by making it available to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-      "points": [
-        "AI 'Prompts' users with personalized song suggestions based on their listening habits.",
-        "The new tool allows for more creative ways of experiencing music by suggesting songs that inspire moods or ideas to create playlists from user-selected tracks.",
-        "Spotify aims this feature at helping listeners discover and enjoy the vast catalogue available on its platform."
-      ],
-      "insight": "The introduction of AI-powered Prompted Playlists could potentially reshape music discovery, allowing users to create more personalized listening experiences. This innovation may encourage longer engagement with Spotify's extensive library and strengthen the company’s position in digital streaming."
-    },
-    {
-      "title": "Finnish quantum unicorn IQM set to go public",
-      "link": "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 16:41:22 +0000",
-      "description": "Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion — joining the growing cohort of quantum computing companies listed on U.S. stock markets.",
-      "language": "en",
-      "summary": "Finnish quantum startup IQM is preparing to go public through a merger with an SPAC valued at $1 endorsement of their potential in the rapidly expanding field of quantum computing.",
-      "points": [
-        "IQM, headquenerd by Pekka Pomi, will merge with Quantum Venture Fund's Acorn BioLabs to go public as a special purpose acquisition company (SPAC).",
-        "The deal values IQM at $1.8 billion and is expected to close in early 2023.",
-        "IQM claims no direct competitors due to its quantum technology's specificity, allowing it significant freedom from existing industries."
-      ],
-      "insight": "This listing on the U.S. stock market underscores the increasing maturation of quantum computing within the tech industry and could lead to heightened interest in IQM as a pioneering enterprise with potential for future growth through strategic acquisitions."
-    },
-    {
-      "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report",
-      "link": "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 16:06:54 +0000",
-      "description": "Chinese hackers allegedly broke into the network of an Ivanti subsidiary in 2021. The hackers exploited a backdoor in its VPN product, which allowed the hackers to gain access to 119 other unnamed organizations.",
-      "language": "en",
-      "summary": "A report claims Chinese state-sponsored hackers compromised an Ivanti subsidiary's network in 2021 due to VPN flaws, affecting dozens of organizations.",
-      "points": [
-        "Ivanti has confirmed that its products were used as part of a multi-stage cyberattack involving Chinese hackers who initially breached their own subsidiary's network in late August 2021.",
-        "The attack was facilitated through exploitation of backdoors within the Ivanti Pulse Secure VPN product line, which allowed for unauthorized access to customer networks and data exfiltration by Chinese hackers.",
-        "Ivanti released patches in September 2021 to address these security issues but had over two months since first reported exploitation before customers began implementing the fixes."
-      ],
-      "insight": {
-        "Insight": "The breach highlights critical vulnerabilities within VPN products that can lead to widespread data compromise, emphasizing urgent need for ongoing security monitoring and rapid patch management in IT systems."
-      }
-    },
-    {
-      "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
-      "link": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 15:00:00 +0000",
-      "description": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
-      "language": "en",
-      "summary": "The TechCrunch Disrupt conference is offering its lowest ticket rates for the year until February 27 at midnight PT.",
-      "points": [
-        "Lowest prices of $680 are available before February 27",
-        "Bookings must be completed by 11:59 PM PT on that day",
-        "These rates apply to both tickets and hotel rooms"
-      ],
-      "insight": "The limited-time offer represents an attractive savings opportunity for attendees, emphasizing the high demand and short availability of such discounted passes."
-    },
-    {
-      "title": "How AI agents could destroy the economy",
-      "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 14:44:03 +0000",
-      "description": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
-      "language": "en",
-      "summary": "Citrini Research's hypothetical report predicts severe economic downturn due to AI advancements leading to mass unemployment and stock market collapse.",
-      "points": [
-        "AI agents are causing significant job displacement, resulting in a doubling of the unemployment rate within two years as predicted by Citrini Research's future report.",
-        "The total value of the stock market is projected to decrease by over one-third due to widespread economic implications caused by AI agents and job displacement.",
-        "Citrini Research imagines a scenario where rapid technological progress leads to major societal disruptions if not managed responsibly."
-      ],
-      "insight": "This hypothetical situation underscores the potential risks of unchecked growth in AI and its ability to radically transform economies. It highlights how advancing technology may lead to severe socio-economic consequences, including mass job displacement and significant economic downturn."
-    },
-    {
-      "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
-      "link": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 14:19:10 +0000",
-      "description": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a \"supply chain risk.\"",
-      "language": "en",
-      "summary": "Defense Secretary Pete Hegseth summoned Dario Amodei of Anthropic after Claude was used by the military to develop an AI for cyber defense against Russian hackers.",
-      "points": [
-        "Dario Amodei, CEO of Anthropic, has been summoned by Defense Secretary Pete Hegseth for a tense discussion about their work on Claude with the Pentagon.",
-        "Anthropic' endorses military projects that align with its mission and values; hence it does not oppose working closely with militaries to develop solutions like AI systems or automated decision-making processes, as stated by Amodei during an earlier summit meeting in 2019.",
-        "Military use of Claude has been a contentious topic within the Anthropic community and among its leadership."
-      ],
-      "insight": "The discussion around military involvement with AI development could set precedents for how technology companies deal with government contracts, balancing ethical considerations against business opportunities. It also highlights potential tensions between private research entities' mission statements and actual partnerships they may pursue."
-    },
-    {
-      "title": "[eGISEC 2026] S2W, 사이버 보안 AI 솔루션 퀘이사",
-      "link": "http://www.boannews.com/media/view.asp?idx=142187&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 19:02:00 +0900",
-      "description": "외부 위협 요소에 대한 자동화된 데이터 수집 및 분석 기능 제공3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] S2W는 2018년 설립된 안보 및 산업 분야의 비정형 빅데이터 분석을 수행하는 ‘글로벌 빅데이터 분석 AI 기업’으로, 세계경제포럼(WEF) ‘2023년 100대 기술 선도기업’으로 선정됐다.△공공·정부기관용 안보 AI",
-      "language": "ko",
-      "summary": "이런 사록에서, '안보 AI'기술 회사가 S2W이고, 여러국가들의 IT/운전화학과와 다음세계 기업집단을 위한 비정형 보안에 대해 선수로 영구적으로 받아들여진다.",
-      "points": [
-        "안보 AI는 외부 위협 요소의 자동화된 데이터 수집과 분석에 관한 새로운 사용으로서, 세계 기업들이 보안에 어바시 점유와 지대적인 근본적인 가치를 눌아내고 싶다는 의미로 중요한 회사이다.",
-        "...",
-        "..."
-      ],
-      "insight": ""
-    },
-    {
-      "title": "[SECON 2026] 케이제이테크, 손바닥 혈관 인식 솔루션 FE-700VE",
-      "link": "http://www.boannews.com/media/view.asp?idx=142115&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 18:59:00 +0900",
-      "description": "슬림 디자인, 손바닥 혈관 1만개·얼굴 1만개·카드 2만개 등록3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 케이제이테크(KJTECH)는 초고속 보안 알고리즘 기반의 얼굴·지문 인식기를 개발 및 제조, 유통하는 전문 회사다.안정적인 솔루션을 제공하기 위해 Security 분야의 선두주자인 HID GLOBAL의 공식 대리점으로서 계",
-      "language": "ko",
-      "summary": "KJTECH는 손바닥 혈관을 인식하기 위한 얼굴 및 영역 추적처리 알고리즘을 FE-70xx 모음에서 제공중 하나인 FE-700VE이며, HID GLOBAL에서 공식 대리점으로서 솔루션을 개발하고 제조.",
-      "points": [
-        "KJTECH은 초고속 보안 알고리즘 기반의 얼굴·지문 인식 쿠키를 제공합니다.",
-        "이 컨셉은 혈관의 흔적을 잘 처리하여 보안력을 강화하여 업무에서의 바람직한 시스템이라는 몇가지 밸런싱과 관련성을 명시합니다.",
-        "KJTECH의 FE-700VE는 3~5홀 일산에서 1~2월 이후 18~20일 카드 등록을 기한시점으로서, 작성기의 결과를 나타낸다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서 보안을 위한 솔루션으로 인식하여 혈관의 지름이나 흔적에 대한 정보를 추적하는 KJTECH FE-700VE가 시장에서 소비되는 기능을 강조하고, 이를 HID GLOBAL과의 팀으로서 공식 대리점으로서 제작체감을 줄입니다."
-    },
-    {
-      "title": "[SECON 2026] 씨아이즈, ALL IN ONE AC 전원 제어기 ‘SC-HPC63’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142035&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 18:57:00 +0900",
-      "description": "PoE 스위치 탑재... 설치 및 유지보수 효율성 극대화3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨아이즈는 네트워크 전송 솔루션 전문 기업으로, 1999년 창립 이래로 CCTV 영상전송장치 제품 등 영상감시기기 관련 업계 최고를 지향하는 회사다.국내외 한화비전 CCTV 서비스와 교육을 통해 고객 감동을 실현하고 있으며, 대단",
-      "language": "ko",
-      "summary": "설치 및 유지보수 효율성 극대화3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨아이즈는 네트워크 전송 솔루션 전문 기업으로, 1999년 창립 이래로 CCTV 영상전송장치 제품 등 영상감시기기 관련 업계 최고를 지향하는 회사다. 국내외 한화비전 CCTV 서비스와 교육을 통해 고객 감동을 실현하고 있으며, 대단",
-      "points": [
-        "설치 및 유지보수 효율성 극대화3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨아이즈는 네트워크 전송 솔루션 전문 기업으로, 1999년 창립 이래로 CC...",
-        "국내외 한화비전 CCTV 서비스와 교육을 통해 고객 감동을 실현하고 있으며, 대단",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "삼성SDS “2026년 보안 최대 화두는 AI... 응답자 81% AI 기반 위협 우려”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142338&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 17:51:00 +0900",
-      "description": "667명 보안 전문가 설문 기반 ‘2026년 5대 사이버 위협 트렌드’ 발표자율 진화형 ‘에이전틱 AI’의 오용·악용에 따른 새로운 보안 공백 발생 예고AI 모델 취약점 노린 공격 가속화... ‘AI 레드팀’ 통한 선제적 방어 권고[보안뉴스 조재호 기자] 삼성SDS(대표 이준희)가 인공지능(AI) 기술의 급격한 확산에 따른 지능화된 보안 위협에 대비해 ‘2",
-      "language": "ko",
-      "summary": "667명 보안 전문가 설문 기반 ‘2026년 5대 사이버 위협 트렌드’ 발표자율 진화형 ‘에이전틱 AI’의 오용·악용에 따른 새로운 보안 공백 발생 예고AI 모델 취약점 노린 공격 가속화. ‘AI 레드팀’ 통한 선제적 방어 권고[보안뉴스 조재호 기자] 삼성SDS(대표 이준희)가 인공지능(AI) 기술의 급격한 확산에 따른 지능화된 보안 위협에 대비해 ‘2",
-      "points": [
-        "667명 보안 전문가 설문 기반 ‘2026년 5대 사이버 위협 트렌드’ 발표자율 진화형 ‘에이전틱 AI’의 오용·악용에 따른 새로운 보안 공백 발생 예고AI 모델 취약점 노린 공격...",
-        "‘AI 레드팀’ 통한 선제적 방어 권고[보안뉴스 조재호 기자] 삼성SDS(대표 이준희)가 인공지능(AI) 기술의 급격한 확산에 따른 지능화된 보안 위협에 대비해 ‘2",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "해커들의 놀이터 된 ‘오픈클로우’... API 키 탈취와 악성코드의 심각한 온상돼",
-      "link": "http://www.boannews.com/media/view.asp?idx=142341&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 17:47:00 +0900",
-      "description": "오픈클로우 대규모 RCE 취약점 악용 및 API 키 탈취 확산마켓플레이스 기반 공급망 공격과 AI 프레임워크 보안 공백 노출[보안뉴스 김형근 기자] 과거 몰트봇(MoltBot)으로 알려진 오픈소스AI 프레임워크 ‘오픈클로우’(OpenClaw)가 여러 해킹 그룹의 공격 목표가 됐다. 컴퓨터를 사실상 원격으로 통제할 수 있을 만큼 강력한 기능을 제공해 해커들이",
-      "language": "ko",
-      "summary": "오픈클로우 OpenClaw의 RCE 취약점을 이용한 게시버튼에서 공급망과 API 키를 활용하여 안전한 연동성품의 보호가 필요해졌다.",
-      "points": [
-        "OpenClaw의 RCE 취약점을 이용한 게시버튼이 API 키 탈취에 대한 방어를 준비하고",
-        "해커들은 공급망과 아이디어가 일수하게 이용하여 오픈소스AI에서의 보호공간이 없다.",
-        "몇몇 IT/소프트웨어 업체는 OpenClaw에 대한 보안과정진을 방어하고자 한다."
-      ],
-      "insight": "이러한 공급망의 활용은 IT/소프트웨어 업체에 대한 보안점정이 유리로 인식될 것이다."
-    },
-    {
-      "title": "인천 미추홀구의 ‘안전 파수꾼’, CCTV가 주민 일상 지킨다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142337&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 17:10:00 +0900",
-      "description": "AI 기반 실시간 선별 관제로 치매 어르신 구조·범죄 해결 112건 성과 창출방범·재난·산불·불법주정차 연계 통한 생활 안전 통합 플랫폼 구축[보안뉴스 강초희 기자] 인천 미추홀구(구청장 이영훈)의 방범용 CCTV가 단순한 ‘감시 장비’를 넘어 주민의 일상을 지키는 ‘보이지 않는 안전 파수꾼’ 역할을 톡톡히 하고 있다.지난해 새벽, 주안동에서 길을 잃고 배",
-      "language": "ko",
-      "summary": "AI 기반 실시간 선별 관제로 치매 어르신 구조·범죄 해결 112건 성과 창출방범·재난·산불·불법주정차 연계 통한 생활 안전 통합 플랫폼 구축[보안뉴스 강초희 기자] 인천 미추홀구(구청장 이영훈)의 방범용 CCTV가 단순한 ‘감시 장비’를 넘어 주민의 일상을 지키는 ‘보이지 않는 안전 파수꾼’ 역할을 톡톡히 하고 있다. 지난해 새벽, 주안동에서 길을 잃고 배",
-      "points": [
-        "지난해 새벽, 주안동에서 길을 잃고 배",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "에스에스알, 트리니티소프트 품고 ‘통합 보안 플랫폼’ 전략 본격 가동",
-      "link": "http://www.boannews.com/media/view.asp?idx=142340&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 17:04:00 +0900",
-      "description": "인프라·애플리케이션 아우른 통합 보안 포트폴리오 구축기술과 조직 일원화 통해 경쟁력 강화하고 기업가치 제고 기반 마련할 것[보안뉴스 조재호 기자] 정보보호 컨설팅 및 보안 솔루션 전문기업 에스에스알(대표 고필주)이 애플리케이션 보안 전문기업이자 자회사인 트리니티소프트를 흡수합병한다고 23일 밝혔다. 이번 합병은 에스에스알이 99% 지분을 보유한 자회사 합병",
-      "language": "ko",
-      "summary": "에스에스알이 트리니티소프트와 99%의 지분을 공유한 합병이다.",
-      "points": [
-        "에스에스알이 트리니티소프트와 합병한다",
-        "입장자는 99%의 전기주식을 공유한다.",
-        "다음 합병은 IT/보안 엡격에서 이루어지도록 핵심 보안 전문기업의 일원화를 통해 진정한 경쟁력을 강화시킬 것으로 여긴다."
-      ],
-      "insight": "이러한 IT/보안 합병은 IT/기술 업체에서 전문기업의 혁신과 경쟁력 강화를 통해 다수의 기업가침을 더욱이 합병하거나 그들에 공백을 느끼여 인위조사하게 한다."
-    },
-    {
-      "title": "Wispr Flow launches an Android app for AI-powered dictation",
-      "link": "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 08:01:00 +0000",
-      "description": "AI-powered dictation startup Wispr Flow has launched its Android app today. The company released its app for Mac and Windows first, then launched on iOS in June 2025. On iOS, users could use Wispr Flow through a dedicated keyboard. On Android, the interface is a bit different, as you can access the dictionary through a […]",
-      "language": "en",
-      "summary": "AI-powered dictation startup Wispr Flow launches an Android app that allows users to record audio for transcription using artificial intelligence technology.",
-      "points": [
-        "Wispr Flow has launched its first iOS version of the AI-driven dictation application, which includes a dedicated keyboard on Mac and Windows devices. The iPhone/iPad release will include native integration with Siri or Google Assistant for hands-free operation.",
-        "The Android app differs from its counterparts as it offers an interface where users can access the dictionary directly without needing to switch applications, streamlining dictation tasks on mobile platforms.",
-        "With Wispr Flow'ths latest release, companies and individuals seeking efficient transcription services will have a unified experience across iOS devices while benefiting from AI-powered improvements in accuracy compared to traditional voice recognition tools."
-      ],
-      "insight": "The launch of the Wispr Flow Android app signifies an increasing trend towards integrating artificial intelligence into mobile dictation solutions, providing efficiency and improved transcription services for businesses relying on accurate recordings across various platforms. This development could influence competitors in AI-based voice recognition software to enhance their own offerings."
-    },
-    {
-      "title": "개인정보위, 글로벌 AI 프라이버시 공동선언 채택",
-      "link": "http://www.boannews.com/media/view.asp?idx=142339&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 23 Feb 2026 16:58:00 +0900",
-      "description": "국제 개인정보 감독기구 협의체(GPA) 소속 52개국 61개 기구 글로벌 연대 구축AI 개발·활용 시 동의 없는 성적 콘텐츠 생성 방지, 신속 삭제 절차 등 4대 핵심 원칙 규정[보안뉴스 조재호 기자] 개인정보보호위원회는 23일 국제 개인정보 감독기구 협의체(GPA)의 ‘인공지능 생성 콘텐츠와 개인정보 보호에 관한 공동선언문’ 채택에 참여했다고 밝혔다. 최",
-      "language": "ko",
-      "summary": "국제 개인정보 감독기구 협의체(GPA) 소속 52개국 61개 기구 글로벌 연대 구축AI 개발·활용 시 동의 없는 성적 콘텐츠 생성 방지, 신속 삭제 절차 등 4대 핵심 원칙 규정[보안뉴스 조재호 기자] 개인정보보호위원회는 23일 국제 개인정보 감독기구 협의체(GPA)의 ‘인공지능 생성 콘텐츠와 개인정보 보호에 관한 공동선언문’ 채택에 참여했다고 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
