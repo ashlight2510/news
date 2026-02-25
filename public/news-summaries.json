@@ -1,6 +1,321 @@
 {
-  "generatedAt": "2026-02-24T19:12:44.116Z",
+  "generatedAt": "2026-02-25T02:23:08.750Z",
   "articles": [
+    {
+      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+      "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Feb 2026 02:00:00 +0000",
+      "description": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+      "language": "en",
+      "summary": "As the initial hype around artificial intelligence (AI) in India begins to settle, companies are facing a crossroads between maintaining near-term revenue through free services and transitioning users into paying customers.",
+      "points": [
+        "Indian AI firms rely heavily on user data as the primary asset for monetization strategies post initial hype",
+        "The end of generous perks like ChatGPT's extended trial period creates a pressing need to convert free users into paying subscribers or clients",
+        "Companies are experimenting with different models and incentives, but the challenge remains significant as Indian tech consumers have become accustomed to digital services being available for little or no cost"
+      ],
+      "insight": "The article highlights a critical juncture within India's burgeoning AI industry where sustaining growth and profitability will require innovative strategies that respect user expectations while introducing viable revenue models."
+    },
+    {
+      "title": "[쿠팡 해킹] 쿠팡, 대만서도 개인정보 유출... 3367만개 중 20만개 대만 소재",
+      "link": "http://www.boannews.com/media/view.asp?idx=142370&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Feb 2026 10:30:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 쿠팡의 모회사인 쿠팡Inc.는 개인정보 유출 계정 3367만개 중 약 20만개가 대만 소재 계정으로 확인됐다고 25일 밝혔다.쿠팡Inc.는 보안업체 맨디언트의 포렌식 결과 이같은 사실을 확인했다며 정보를 빼낸 전 직원은 이 중 한 개의 계정 데이터만 저장했다고 설명했다.쿠팡Inc. 측은 “맨디언트 등 제3자 포렌식 및 사이버보안 전",
+      "language": "ko",
+      "summary": "쿠팡Inc.는 20만건의 개인정보 유출 계정을 대한 소공인 맨디언트에 부여했다고 전문가가 결론할 수 있었다.",
+      "points": [
+        "쿠팡Inc.는 개인정보 유출을 방隣에서 일하는 세부사비가 20만건을 수확했다.",
+        "이 계정은 대한 소공인 맨디언트에 부여되어 있다.",
+        "쿠팡Inc.는 제3자의 비즈니지 보호 및 사이버보안 전문가가 관리하고 있다."
+      ],
+      "insight": "이러한 개인정보 유출에 대해서는 IT/기술 업체에서 심판의 일과가 있다면, 귀하는 쿠팡Inc.는 자신이 수집한 개인정보를 사용해서 의도한 바로와 무죬약간이 아니라고 가능하다."
+    },
+    {
+      "title": "[카드뉴스] “데이터 유출이 디지털 성범죄로” 구매 이력 약점 잡는 ‘인격 해킹’ 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=142369&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Feb 2026 10:21:00 +0900",
+      "description": "단순한 정보 탈취를 넘어 구매 이력 등 사생활을 지인에게 폭로하겠다고 협박하며 ‘치부의 무기화’를 시도하는 사례가 급증하고 있다. 이러한 ‘인격 해킹’은 피해자의 삶을 파괴하는 2차 가해이자 디지털 성범죄의 시작으로 이어질 수 있으며, 금전 입금은 결코 해결책이 될 수 없다. 보안의 패러다임을 기술적 방어에서 개인의 존엄성을 지키는 ‘인격 보안’으로 전환하",
+      "language": "ko",
+      "summary": "단순한 정보 탈취를 넘어 구매 이력 등 사생활을 지인에게 폭로하겠다고 협박하며 ‘치부의 무기화’를 시도하는 사례가 급증하고 있다. 이러한 ‘인격 해킹’은 피해자의 삶을 파괴하는 2차 가해이자 디지털 성범죄의 시작으로 이어질 수 있으며, 금전 입금은 결코 해결책이 될 수 없다...",
+      "points": [
+        "단순한 정보 탈취를 넘어 구매 이력 등 사생활을 지인에게 폭로하겠다고 협박하며 ‘치부의 무기화’를 시도하는 사례가 급증하고 있다",
+        "이러한 ‘인격 해킹’은 피해자의 삶을 파괴하는 2차 가해이자 디지털 성범죄의 시작으로 이어질 수 있으며, 금전 입금은 결코 해결책이 될 수 없다",
+        "보안의 패러다임을 기술적 방어에서 개인의 존엄성을 지키는 ‘인격 보안’으로 전환하"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Nvidia challenger AI chip startup MatX raised $500M",
+      "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Feb 2026 00:45:47 +0000",
+      "description": "The startup was founded by former Google TPU engineers in 2023.",
+      "language": "en",
+      "summary": "MatX, an AI chip startup established by ex-Google TPU developers, recently secured a $50 endorsement from Nvidia to accelerate its vision of integrating edge computing with data center capabilities.",
+      "points": [
+        "Founded in early 2023 by former Google TPU engineers",
+        "Raised over $50 million, including substantial support from industry giants like Intel and Microsoft as well as strategic investors such as SoftBank'nerve",
+        "Aims to combine edge computing with data center capabilities"
+      ],
+      "insight": "This development highlights the increasing competition in AI chip design within Silicon Valley, signaling a shift towards innovative solutions that bridge different layers of IT infrastructure and could redefine industry standards."
+    },
+    {
+      "title": "[eGISEC 2026] 엔시큐어, 전사 IT 인프라 서비스 실시간 모니터링 AUNES for Service",
+      "link": "http://www.boannews.com/media/view.asp?idx=142190&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Feb 2026 09:41:00 +0900",
+      "description": "서버, 네트워크, 애플리케이션, 웹의 운영 상태를 실시간으로 모니터링3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 엔시큐어는 2008년 설립 이후 애플리케이션 및 IT 인프라 보안 솔루션과 보안 컨설팅 분야에서 내실 있는 발전을 이뤄왔으며, 최근에는 AI 기반 기술 개발에 주력하며 새로운 시장 발굴에 힘쓰고 있다.AUNES for",
+      "language": "ko",
+      "summary": "서비스 보안 애플리케이션인 AUNES for Service는 IT 인프라 보안 제목에 있어 시장에 강의하고 최근에는 AI를 기반으로 개발을 진행중이다.",
+      "points": [
+        "서비스 보안 애플리케이션인 AUNES for Service가 손쉽게 IT 인프라 보안 제목에 대해 시장에 직접 강의하고 최근에는 AI를 이용한 개발을 진행중이다.",
+        "인공지능(AI)를 통해 보안 서비스를 강화하고, IT 인프라의 보안성가격대외품을 개선하고 시장에서의 유명성을 향상시켜야 한다.",
+        "이 업체는 IT 인프라 보안 시장에서 중요해졌고, AI를 통한 개발은 미래의 전문가들의 모집점이다."
+      ],
+      "insight": "AUNES for Service는 IT 인프라 보안에 주몬하고, AI를 사용한 개발은 기술 경류에서의 트위터이다."
+    },
+    {
+      "title": "[SECON 2026] 티에스솔루션, 차량번호 인식 엔진 TS-ANPR",
+      "link": "http://www.boannews.com/media/view.asp?idx=142118&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Feb 2026 09:39:00 +0900",
+      "description": "딥러닝 기반 고정밀 기능...다양한 환경, 다양한 카메라에서 뛰어난 인식 정확도3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 티에스솔루션(TS Solution)은 AI 기반 ANPR 엔진 및 영상보안 전문 기업으로, 딥러닝 기반 차량번호 자동인식(ANPR) 엔진과 지능형 영상보안 솔루션을 제공한다.TS-ANPR은 딥러닝 기반 고정",
+      "language": "ko",
+      "summary": "딥러닝 기반 고정밀 기능. 다양한 환경, 다양한 카메라에서 뛰어난 인식 정확도3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 티에스솔루션(TS Solution)은 AI 기반 ANPR 엔진 및 영상보안 전문 기업으로, 딥러닝 기반 차량번호 자동인식(ANPR) 엔진과 지능형 영상보안 솔루션을 제공한다...",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Feb 2026 00:37:59 +0000",
+      "description": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
+      "language": "en",
+      "summary": "Self-driving startup Wayve has secured $1.2 billion in funding from Nvidia, Uber, and three automakers, aiming to develop autonomous driving technology.",
+      "points": [
+        "Wayve raised a significant amount of money ($1.2B) through investments from multiple sources including major tech companies like Nvidia, ride-hail giants such as Uber, and several leading automakers",
+        "The funding will be used to develop autonomous vehicle technology with the goal of reducing traffic accidents caused by human error",
+        "Wayve' endorsement from prominent industry players highlights a strong support for AI-driven solutions in transforming transportation"
+      ],
+      "insight": "The investment round shows confidence among major tech and automotive companies in the potential of self-driving technology to revolutionize road safety, driving innovation within this domain."
+    },
+    {
+      "title": "[SECON 2026] 아이알켄, Boson 열화상 카메라 모듈",
+      "link": "http://www.boannews.com/media/view.asp?idx=142104&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Feb 2026 09:30:00 +0900",
+      "description": "미국 텔레다인 플리어 시스템의 비냉각식 열화상 OEM 카메라3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아이알켄은 미국 텔레다인 플리어사의 열화상 카메라 OEM 모듈을 수입 판매하는 공식 대리점이다.주요 제품으로는 비냉각식 열화상 OEM 카메라 Boson 시리즈와 냉각식 열화상 OEM 카메라인 뉴트리노(Neutrino) LC,",
+      "language": "ko",
+      "summary": "미국 텔레다인 플리어 시스템의 비냉각식 열화상 OEM 카메라3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아이알켄은 미국 텔레다인 플리어사의 열화상 카메라 OEM 모듈을 수입 판매하는 공식 대리점이다. 주요 제품으로는 비냉각식 열화상 OEM 카메라 Boson 시리즈와 냉각식 열화상 OEM 카메라인 뉴트리노(Neutrino) LC,",
+      "points": [
+        "미국 텔레다인 플리어 시스템의 비냉각식 열화상 OEM 카메라3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아이알켄은 미국 텔레다인 플리어사의 열화상 카메...",
+        "주요 제품으로는 비냉각식 열화상 OEM 카메라 Boson 시리즈와 냉각식 열화상 OEM 카메라인 뉴트리노(Neutrino) LC,",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] AI 에이전트, 보안 믿을 수 있나",
+      "link": "http://www.boannews.com/media/view.asp?idx=142365&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Feb 2026 09:06:00 +0900",
+      "description": "AI 에이전트의 오류 가능성 인정...다층적 보안 체계 구축 필요[보안뉴스=배종찬 인사이트케이연구소장] 빅데이터 분석 플랫폼 썸트렌드(SomeTrend)가 파악한 AI 에이전트(AI Agent) 관련 감성 연관어 분석 자료(2026년 2월 16일~22일)는 현재 우리 사회가 이 기술을 바라보는 극명한 온도 차를 보여준다. 데이터의 중심에 기대와 혁신적이라는",
+      "language": "ko",
+      "summary": "AI 에이전트의 오류 가능성 인정. 다층적 보안 체계 구축 필요[보안뉴스=배종찬 인사이트케이연구소장] 빅데이터 분석 플랫폼 썸트렌드(SomeTrend)가 파악한 AI 에이전트(AI Agent) 관련 감성 연관어 분석 자료(2026년 2월 16일~22일)는 현재 우리 사회가 이 기술을 바라보는 극명한 온도 차를 보여준다...",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+      "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 23:32:00 +0000",
+      "description": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
+      "language": "en",
+      "summary": "Spanish startup Multiverse Computing has launched an advanced AI language model called HyperNova 60B on Hugging Face that surpasses Mistral'in capabilities.",
+      "points": [
+        "Multiverse Computing released the free version of its latest compressed Large Language Model (LLM), HyperNova, which they claim outperforms other models like Microsoft’s Bing Codex and Google’s PaLM-2 in terms of quality per token.",
+        "The company prides itself on making AI more accessible to developers by offering free versions that are 10% less powerful than the paid version but do not limit usage for businesses or organizations, unlike some other providers' policies.",
+        "Multiverse Computing has plans to release three additional model sizes in phases and is committed to expanding accessibility without compromising on technical performance."
+      ],
+      "insight": "The HyperNova AI from Multiverse Computing demonstrates how startups can compete with tech giants by creating high-quality, accessible models that challenge established norms within the IT industry regarding pricing and user limitations for advanced tools."
+    },
+    {
+      "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+      "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 23:21:54 +0000",
+      "description": "Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults.",
+      "language": "en",
+      "summary": "Apple has started implementing worldwide tools to verify ages online as compliance with increasing child protection regulations.",
+      "points": [
+        "Global age-verification system deployment by Apple",
+        "Compliance enhancin the user's trust in app stores safety measures",
+        "Impact on businesses needing parental consent before downloading apps"
+      ],
+      "insight": "This demonstrates an industry shift towards prioritizing child and online safety, which could influence future regulations and other companies to adopt similar practices."
+    },
+    {
+      "title": "Uber engineers built an AI version of their boss",
+      "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 23:09:28 +0000",
+      "description": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+      "language": "en",
+      "summary": "Uber CEO Dara Khosrowshahi and his employees have embraced AI technology by creating an artificial intelligence version of him called 'DaraBot.' This bot is used within the company for practicing pitches, demonstrating a commitment to incorporating AI into Uber'de culture.",
+      "points": [
+        "Uber CEO Dara Khosrowshahi and his team built an AI chatbot version of him named 'DaraBot.'",
+        "'DaraBot' is used within the company for practicing pitches, illustrating Uber employees' deep involvement with artificial intelligence.",
+        "Uber has taken significant steps in integrating technology into its corporate culture by embracing AI."
+      ],
+      "insight": "This innovative approach could set a precedent within the IT/technology industry for using personalized, conversational AI to enhance internal communication and training processes. It may also indicate that Uber is committed to staying at the forefront of technological advancements."
+    },
+    {
+      "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
+      "link": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 22:35:30 +0000",
+      "description": "Stripe might be looking to buy PayPal, or parts of it, per early reports.",
+      "language": "en",
+      "summary": "Early speculations suggest Stripe is considering a purchase of either some or all of PayPal' end-to end payment platform.",
+      "points": [
+        "Stripe may buy parts of PayPal to extend its services beyond e-commerce and into physical stores with terminals",
+        "The deal could potentially include acquiring the checkout technology that powers Square, which is backed by Stripe but has not yet completed such a transaction.",
+        "Such an acquisition would be significant as it may change how online payments are processed globally."
+      ],
+      "insight": "If confirmed, this potential deal could reshape the global payment processing landscape and intensify competition among major players in digital transactions."
+    },
+    {
+      "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
+      "link": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 21:50:23 +0000",
+      "description": "Peter Williams, the former head of U.S. hacking tools maker L3Harris Trenchant, was sentenced to seven years in prison for stealing and selling his former company’s hacking and surveillance tools to a Russian firm.",
+      "language": "en",
+      "summary": "Peter Williams, the ex-leader of L3Harris Trenchant, received a seven-year prison sentence for selling stolen hacking technologies to Russia.",
+      "points": [
+        "Former head of U.S. hacker tools firm sentenced in Japan",
+        "Russian broker reportedly bought the surveillance equipment from Williams",
+        "His actions led to significant fines and imprisonment"
+      ],
+      "insight": "This case underlines serious ethical issues within the cybersecurity industry, where stolen tools can end up empowering potential adversaries."
+    },
+    {
+      "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+      "link": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 21:32:22 +0000",
+      "description": "Form Energy's iron-air batteries will store wind and solar power to keep the data center running 24/7.",
+      "language": "en",
+      "summary": "Google has signed a contract for renewable energy equivalent to its consumption needs with Form Energy's battery storage technology, which uses iron and air.",
+      "points": [
+        "Form Energy has developed an innovative clean energy solution using batteries that store power from wind and solar sources without relying on rare earth metals or liquid electrolytes",
+        "Google plans to use Form Energy' end-to-end renewable portfolio management solutions for its data center, ensuring uninterrupted operation around the clock.",
+        "The project involves a massive 100-hour battery that will provide clean power and enable Google’s operations in areas with limited or no grid infrastructure."
+      ],
+      "insight": "This deal represents an industry shift towards more reliable, large-scale energy storage systems for critical IT facilities like data centers, setting a precedent which could influence future renewable partnerships across the technology sector. Google's commitment to this clean power source also aligns with its goal of operating on carbon neutrality by 2035."
+    },
+    {
+      "title": "CarGurus data breach affects 12.5 million accounts",
+      "link": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 21:27:42 +0000",
+      "description": "Automotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen.",
+      "language": "en",
+      "summary": "Automotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+      "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 21:18:45 +0000",
+      "description": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
+      "language": "en",
+      "summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Discord delays global rollout of age verification after backlash",
+      "link": "https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 20:48:06 +0000",
+      "description": "The company added that 90% of users won’t need to verify their age and will be able to keep using Discord as usual.",
+      "language": "en",
+      "summary": "Discord is postponing the global rollout of its new age verification feature due to public backlash.",
+      "points": [
+        "Discord introduces an optional digital ID system for users aged under 13, facing criticism and resistance from parents concerned about privacy",
+        "The company decided to delay implementation in response to the negative reception of their initial announcement on January 9th",
+        "Despite backlash, Discord maintains that age verification is crucial for child safety without sharing specific plans"
+      ],
+      "insight": "This news highlights growing concerns among parents and privacy advocates about the implementation of online platforms' safeguarding policies."
+    },
+    {
+      "title": "Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals",
+      "link": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 20:35:47 +0000",
+      "description": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted-nudity filter until 2024.",
+      "language": "en",
+      "summary": "The article discusses the delayed implementation of teen safety features by Instagram in response to concerns over harmful content shared between minors.",
+      "points": [
+        "Adam Mosseri acknowledged awareness of issues with unsolicited nudity and other potentially damaging interactions among underage users on Instagram as early as January 2018, according to an internal email leak.",
+        "Despite the knowledge since late-2017 about teens exchanging graphically explicit material in private messaging (DMs), no protective measures were put into place for two years until a filter was introduced by Mosseri and Instagram CEO Kevin Systrom on June 8, 2024.",
+        "The delay has drawn criticism from lawmakers who are concerned about the well-being of young users navigating social media."
+      ],
+      "insight": "Instagram's slow response to implement safety features for teens highlights a significant gap in protecting minors on digital platforms, potentially impacting user trust and legislative scrutiny."
+    },
+    {
+      "title": "More startups are hitting $10M ARR in 3 months than ever before",
+      "link": "https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 19:39:36 +0000",
+      "description": "AI has brought the startup world the rise of companies that instantly hit multimillion-dollar ARR. Stripe revealed some data that shows how common this has become.",
+      "language": "en",
+      "summary": "Stripe's data reveals an increasing number of startups achieving multimillion-ddependent annual recurring revenue (ARR) in as short a timeframe as three months.",
+      "points": [
+        "AI is driving the rapid growth and scalability among more tech companies, enabling them to reach substantial ARR quickly.",
+        "Stripe's findings indicate that such success stories are becoming more frequent than previously seen in startup industries.",
+        "The trend suggests a shift towards recognizing high-potential startups earlier and supporting their growth trajectory."
+      ],
+      "insight": "This phenomenon may change investor expectations for rapid returns on tech ventures, while also presenting unique challenges in managing accelerated business scaling processes effectively within the IT industry."
+    },
+    {
+      "title": "Instagram’s TV app is launching on Google TV devices",
+      "link": "https://techcrunch.com/2026/02/24/instagrams-tv-app-is-launching-on-google-tv-devices/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Feb 2026 19:13:06 +0000",
+      "description": "By bringing Reels to TV, Instagram is looking to better compete with YouTube, which largely dominates the TV space.",
+      "language": "en",
+      "summary": "Instagram's new 'TV app', featuring its Reels content on Google TV devices aims at competing more directly against YouTube in video spaces.",
+      "points": [
+        "Instagram introduces the TV app with integrated Reels, targeting competition within home entertainment and advertising markets primarily dominated by YouTube",
+        "The launch is part of Instagram'in broader strategy to enhance user experience beyond mobile platforms through leveraging its existing video content formats.",
+        "Google TV devices are expected as a primary platform for the new app, which may influence consumer choices in smart home technology."
+      ],
+      "insight": "This strategic move by Instagram could disrupt YouTube's dominance and push other competitors to innovate more aggressively within both mobile and non-mobile video platforms. Additionally, it indicates growing trends of cross-platform compatibility among social media apps in the context of home entertainment."
+    },
     {
       "title": "Treasury sanctions Russian zero-day broker accused of buying exploits stolen from U.S. defense contractor",
       "link": "https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/",
@@ -433,316 +748,6 @@
         "국정원의 발급 어디까지"
       ],
       "insight": "이 기사는 IT/기술 업체에서 보안 제품의 안전성을 모니터러스하는 방법인 '보안적합성 검증'에 대해 소개한다. '영상정보처리기기 제품군'이라는 선정된 영상정보처리 IT 제품들의안전성을 검증하고자 한국의 국정원이 이미 2년간 기능을 확인해 내셨다."
-    },
-    {
-      "title": "[SECON 2026] 티앤에이치시스템, 출입통제시스템 TNH-9100A(W)",
-      "link": "http://www.boannews.com/media/view.asp?idx=142117&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 15:01:00 +0900",
-      "description": "Anti-tailgating 기능 내장... 건물 관리와 정보 유출 방지로 효율적인 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 티앤에이치시스템은 설계부터 생산까지 모든 시스템을 갖춘 국산 스피드게이트 시장을 선도하는 회사다.1997년 순수 자체 기술로 스피드게이트를 개발해 국내시장 점유율 1위를 달성했고, 자체 기업부설연구",
-      "language": "ko",
-      "summary": "Anti-tailgating 기능 내장. 건물 관리와 정보 유출 방지로 효율적인 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 티앤에이치시스템은 설계부터 생산까지 모든 시스템을 갖춘 국산 스피드게이트 시장을 선도하는 회사다...",
-      "points": [
-        "Anti-tailgating 기능 내장",
-        "건물 관리와 정보 유출 방지로 효율적인 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 티앤에이치시스템은 설계부터 생산까지 모든 시스템을 갖춘 국산 스...",
-        "1997년 순수 자체 기술로 스피드게이트를 개발해 국내시장 점유율 1위를 달성했고, 자체 기업부설연구"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“GPU가 가벼워졌다” 핀텔, 국산화 성공한 GPU로 ‘Agentic AI’ 솔루션 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142357&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:57:00 +0900",
-      "description": "핀텔-딥엑스 기술 협력, ‘SECON 2026’서 ‘Agentic AI’ 솔루션 첫선고비용·고전력 GPU 대체, K-AI 연합으로 진정한 ‘AI 주권’ 확보[보안뉴스 강초희 기자] 핀텔(대표이사 김동기)이 글로벌 온디바이스 AI 반도체 기업 딥엑스와 손잡고 고비용 외산 GPU를 대체할 ‘NPU 기반 온디바이스 영상분석 솔루션’을 공동 개발 중이다. 핀텔은",
-      "language": "ko",
-      "summary": "K-AI 연합이 'SECON 2 end 2026' 강화하는 'Agentic AI' 시스템을 KOSDAQ 상장으로 반사한다.",
-      "points": [
-        "K-AI 연합은 'SECON 2026' 포기 선곽에 이미 위치해 놓았다.",
-        "강아지를 사진으로 바로 찍는 AI가 도구로 이용할 수 0있다.",
-        "KOSDAQ 상장에서 공동개발하기 위해 크게 환경을 만들었다."
-      ],
-      "insight": "이러한 진짜로 보안뉴스가 'Agentic AI' 시스템이다. K-AI의 강화는 이런 것에 대해서만 설명할 수 있다."
-    },
-    {
-      "title": "행안부, 침수탐지 AI 모델·학습데이터 시범 공개... 민간 검증 돌입",
-      "link": "http://www.boannews.com/media/view.asp?idx=142358&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:54:00 +0900",
-      "description": "‘재난안전데이터공유플랫폼’ 통해 침수탐지 AI 모델 및 학습데이터 신청 가능[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 CCTV 실제 영상을 기반으로 침수 상황을 탐지하는 인공지능(AI) 모델과 학습데이터를 민간에 시범 공개하고 품질 검증에 나선다.이번 검증은 올해 하반기 예정된 침수탐지 AI 모델과 학습데이터의 전면적인 개방에 앞서, 이를 활용할",
-      "language": "ko",
-      "summary": "기사는 민간 검증을 위해 CCTV 영상을 이용한 AI 모델과 학습데이터의 시범 공개에 대한 정보제공방법을 강조했다. 국가권에서 사용되는 인공지능은 민간적인 검증이 중요하다고 주장한다.",
-      "points": [
-        "- 국내 시비스와 안전성 문제에 대해 알맞은 정보 공유방법을 제시",
-        "- CCTV 영상을 AI로 예상한 침수를 탐지하는 모델과 학습데이터의 공개가 정부에서 도전하고 있다고 소식",
-        "- 민간 사용자들에게 AI 모델과 학습데이터를 시범하는 방법이 중요한 정부 강원남포병원에서의 진단 인공지능 소식"
-      ],
-      "insight": "AI 모델과 학습데이터가 민간 사용자에게 시작하기 전에, 권리 위기와 안전성 문제를 피하고, 공개 방식을 연구하여 최선으로 유지보수해야 한다."
-    },
-    {
-      "title": "유니온바이오메트릭스, 정부 스마트빌딩 보안 플랫폼 사업 완료 “보안 표준 제시”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142356&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:45:00 +0900",
-      "description": "제조사 종속성 해소한 스마트빌딩 물리보안 개방형 통합플랫폼 완성표준 API·디지털 트윈 기반 실증 완료 및 상용화 추진[보안뉴스 강초희 기자] 유니온바이오메트릭스(대표 신요식)가 제조사 간 호환 문제로 연동이 어려웠던 스마트빌딩 물리보안 시스템을 하나로 통합하는 개방형 플랫폼을 완성했다.유니온바이오메트릭스는 과학기술정보통신부가 추진하고 한국인터넷진흥원(KI",
-      "language": "ko",
-      "summary": "스마트빌딩 보안 시스템의 개방형 통합과 이에 대한 인사이드싱",
-      "points": [
-        "- 유니온바이오메트릭스가 제조사 간 보안 문제를 해소하였다.",
-        "- 통합된 API를 활용하여 보안 기능을 모으고 싶어 스마트병의 공지와 각종 로그인을 제공한다.",
-        "- KIUB가 서비스를 개정시키고 보안 기능의 상용화를 진행하고 있다."
-      ],
-      "insight": "이러한 통합과 KIUB의 모든 관련 기록은 IT/기술 업체에서 보안 문제 해결에 도웃주를 해친다."
-    },
-    {
-      "title": "“금값 뛰자 도둑도 날뛴다” 에스원, 귀금속점 특화 AI 보안 솔루션 특수",
-      "link": "http://www.boannews.com/media/view.asp?idx=142350&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:40:00 +0900",
-      "description": "금값 두배 급등에 귀금속점 노린 범죄 함께 늘어AI CCTV가 이상행동 실시간 포착해 범죄예방 도와UWB 감지기로 몰래 숨어 있는 침입자까지 탐지스페셜보상 서비스로 최대 3억원 사후 보상까지 제공[보안뉴스 강초희 기자] 지난 설 연휴 새벽, 부산의 한 귀금속점에 40대 남성이 훔친 활어차로 철문을 들이받고 침입해 3분 만에 700여만원어치 귀금속을 훔쳐 달",
-      "language": "ko",
-      "summary": "금값 두배 급등에 귀금속점 노린 범죄 함께 늘어AI CCTV가 이상행동 실시간 포착해 범죄예방 도와UWB 감지기로 몰래 숨어 있는 침입자까지 탐지스페셜보상 서비스로 최대 3억원 사후 보상까지 제공[보안뉴스 강초희 기자] 지난 설 연휴 새벽, 부산의 한 귀금속점에 40대 남성이 훔친 활어차로 철문을 들이받고 침입해 3분 만에 700여만원어치 귀금속을 훔쳐 달",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 엑소스피어랩스, PC 보안 서비스 ‘엑소스피어 올인원 플랜’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142189&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:37:00 +0900",
-      "description": "기업에 필요한 핵심 보안 기능 통합한 SaaS 기반 올인원 PC 보안 서비스3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 엑소스피어랩스는 기업이 제로트러스트(Zero Trust) 보안 모델을 손쉽게 구축할 수 있도록 SaaS 기반의 통합 보안 서비스를 제공하는 기업이다.외부·내부 위협으로부터 통합적으로 기업의 데이터를 보호하기 위",
-      "language": "ko",
-      "summary": "엑소스피어랩스는 SaaS 기반의 통합 보안 서비스를 제공하여 기업이 Zero Trust 모델을 구축하도록 활동.",
-      "points": [
-        "- 엑소스피어랩스는 올인원 PC 보안서비스로, 손쉽게 Zero Trust 모델을 구축할 수 있도록 활동",
-        "- IT/기술 업계에서 보안 서비스가 핵심인 개요를 제공하고, 운영 조정과 간략한 도구",
-        "- SaaS 기반으로 제공되는 보안 서비스는 일산에서 제공할 수 있습니다."
-      ],
-      "insight": "이러한 보안 서비스의 구축은 글로벌 IT/기술 업체에서도 중요하게 생각해야 할 수 있습니다."
-    },
-    {
-      "title": "한국감시기기공업협동조합, 정기총회에서 ‘한국영상보안산업협동조합’으로 상호 변경 의결",
-      "link": "http://www.boannews.com/media/view.asp?idx=142355&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:33:00 +0900",
-      "description": "25년 만에 ‘한국영상보안산업협동조합’으로 상호 변경 추진 이상우 이사장 “4대 중점 과제 추진 및 결실 위해 노력할 것”[보안뉴스 엄호식 기자] 한국감시기기공업협동조합(이사장 이상우, 이하 조합)이 2월 24일 KTX광명역 대회의실에서 제25회 정기총회를 개최했다.이상우 이사장은 개회사를 통해 “영상 감시 장치 등 보안 물품이 외부 세력의 해킹으로부터 안",
-      "language": "ko",
-      "summary": "25년 만에 ‘한국영상보안산업협동조합’으로 상호 변경 추진 이상우 이사장 “4대 중점 과제 추진 및 결실 위해 노력할 것”[보안뉴스 엄호식 기자] 한국감시기기공업협동조합(이사장 이상우, 이하 조합)이 2월 24일 KTX광명역 대회의실에서 제25회 정기총회를 개최했다. 이상우 이사장은 개회사를 통해 “영상 감시 장치 등 보안 물품이 외부 세력의 해킹으로부터 안",
-      "points": [
-        "25년 만에 ‘한국영상보안산업협동조합’으로 상호 변경 추진 이상우 이사장 “4대 중점 과제 추진 및 결실 위해 노력할 것”[보안뉴스 엄호식 기자] 한국감시기기공업협동조합(이사장 이...",
-        "이상우 이사장은 개회사를 통해 “영상 감시 장치 등 보안 물품이 외부 세력의 해킹으로부터 안",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments",
-      "link": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Feb 2026 05:30:00 +0000",
-      "description": "Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million.",
-      "language": "en",
-      "summary": "Fintech companies Stripe and PayPal Ventures invest in India'in Xflow to streamline cross-border B2B payments.",
-      "points": [
-        "Stripe invests alongside industry rivals Square Inc. and MisMatch Technologies",
-        "Xflow offers a unified payment experience with multiple currencies, national cards, mobile apps across several countries including India",
-        "The funding is aimed at tackling cross-border B2B payments inefficiencies"
-      ],
-      "insight": "This investment indicates industry recognition of the need for more robust and integrated payment solutions to facilitate global commerce, particularly within the burgeoning Indian market."
-    },
-    {
-      "title": "[SECON 2026] 씨프로, 파노라마 풀컬러 AI 카메라",
-      "link": "http://www.boannews.com/media/view.asp?idx=142037&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 14:26:00 +0900",
-      "description": "지능형 영상분석 엔진과 Ambarella 칩을 탑재한 지능형 카메라3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨프로(CPRO)는 1996년 설립된 수출 중심의 보안기업으로, 주로 CCTV 관련 제품을 개발·생산해 OEM·ODM으로 수출·판매하는 업체다.주요 사업 부문은 IP 카메라와 지능형 영상분석 솔루션·아날로그 카메라이며,",
-      "language": "ko",
-      "summary": "카터 씨프로는 IP 카메라와 영상분석 엔진을 탑재하여 보안 관련 제품 개발・생산",
-      "points": [
-        "- 카터(씨프로)은 IP 카메라와 영상분석 업체이다.",
-        "- Ambarella칩을 포틀어 지능형 브랜드카마는 보안 기술에서의 근 rapid growth",
-        "- CPRO의 이전 제품들은 중앙주식회사인 삼성, 현대 보안 등이 모두 소유한다."
-      ],
-      "insight": "2026년에 따라 우리나라카터(씨프로)의 지능 영상브랜드가 IT/기술 업체에서 중요한 역할을 추가하거나, 이미 중요한 역할을 준수하고 있다."
-    },
-    {
-      "title": "“AI 맹신 막아라”... 카스퍼스키, 알파 세대 맞춤형 디지털 안전 수칙 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142345&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 10:57:00 +0900",
-      "description": "2010년 이후 출생한 디지털 네이티브 대상 실효성 있는 부모 가이드라인AI 정보의 교차 검증 지도, AI 시스템에 개인정보 및 문서 공유 막는 등 관심 필요해[보안뉴스 조재호 기자] 카스퍼스키(Kaspersky)가 ‘안전한 인터넷의 날’(Safer Internet Day)을 맞아 알파 세대(2010년~2025년 출생) 자녀를 둔 부모를 위한 인공지능(AI",
-      "language": "ko",
-      "summary": "AI 정보의 교차를 위한 인공지능이 만들어내는 '안전한 인터넷'에서 있음.",
-      "points": [
-        "- Kaspersky은 AI 시스템을 사용하여 자동결정을 진행.",
-        "- 따라서 인터넷에서의 개인정보 직금화 및 공유 방지 중요성.",
-        "- Safer Internet Day에서 이 논의는 자세한 AI 원칙을 다룰 목적임."
-      ],
-      "insight": "이러한 AI 시스템은 인터넷에서 개인정보를 직접 공급하는 경로로 제어되어, 우리가 알고있는 솔칭을 확인하기 위해 자연스럽게 조정이 필요한 현실."
-    },
-    {
-      "title": "라온시큐어, “AI에 통제된 자율 부여한다” 에이전틱 AI 보안 자동화 연내 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142343&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 10:54:00 +0900",
-      "description": "기존 AI연구소를 AI사업본부로 전면 개편계정 생성부터 위협 탐지 및 대응까지 전 과정 자동 수행[보안뉴스 조재호 기자] 라온시큐어가 에이전틱 AI 중심의 사업 체제로 전면 전환한다고 24일 밝혔다. 이번 개편은 인공지능 패러다임 변화에 대응하고, AI 환경에 최적화된 디지털 신뢰 인프라를 구축하기 위한 조치다.라온시큐어는 기존 ‘AI연구소’를 80여명의",
-      "language": "ko",
-      "summary": "라온시큐어는 AI를 보안업계에서 전면적으로 확장하고, 인공지능의 패러다운 현상을 해치기 위한 조치를 마치 모두 전환하였다.",
-      "points": [
-        "- AI연구소의 전면적 개선이 인공지능의 보안적 변화를 위한 방법을 제시한다.",
-        "- 보안에 기여할 수 0ne 대상은 사전에 'AI연구소'가 모니터링을 통해 광고를 확인했다.",
-        "- AI 중심의 사업에서 자동화된 보안 기능은 더이상 간저적인 조치로 제한지어서 해결되고 그 대신, AI를 확장하는 방식을 적용한다."
-      ],
-      "insight": "이러한 보안적인 개선으로 인공지능의 중요성에 대해 IT/기술 업계가 더욱 인식할 수 있을 것이다."
-    },
-    {
-      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
-      "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Feb 2026 00:57:14 +0000",
-      "description": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
-      "language": "en",
-      "summary": "An IT/technology news article humorously warns about the dangers of using AI agents without proper oversight.",
-      "points": [
-        "The blog post 'AI Agents are Cool' by a security researcher went viral, highlighting potential issues with unchecked artificial intelligence behavior in mundane tasks such as organizing emails or sorting clothes based on color and fabric type.",
-        "It criticizes the lack of human judgment applied to AI decisions that could result in ironic situations like mixing up items not just for fun but also having significant consequences, especially when dealing with sensitive information."
-      ],
-      "insight": "This news stresses the importance of implementing appropriate safeguards and oversight mechanisms within AI systems to prevent unintended actions that could have serious implications in professional settings. It suggests a need for IT professionals to balance automation benefits with human supervision."
-    },
-    {
-      "title": "업비트, 보안 인재 양성 ‘업사이드 아카데미’ 4기 출격... 월 100만원 활동비·18주 커리큘럼",
-      "link": "http://www.boannews.com/media/view.asp?idx=142342&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 09:48:00 +0900",
-      "description": "차세대 보안 인재 양성 투자... ‘업 스페이스’도 개장국내 부트캠프 최초 ‘대학 학점 연계’ 도입 및 다양한 혜택[보안뉴스 강현주 기자] 디지털자산 거래소 업비트를 운영하는 두나무(대표 오경석)가 청년 보안 인재 양성을 위한 ‘업사이드 아카데미’(UPSide Academy) 4기 발대식을 진행했다고 24일 밝혔다.업사이드 아카데미는 두나무와 사이버보안",
-      "language": "ko",
-      "summary": "업비트가 4기에 진행한 ‘업사이드 아카데미’로, 청년 보안 인재 투자를 균형을 바꿔질 수 thirt으로 낮춰야(30만원)한 비증정 시장에 출전선했다.",
-      "points": [
-        "업비트가 4기에 ‘업사이드 아카데미’을 진행",
-        "우리나라층 부트캠프 대학교와 신작 약인 ‘인터벌 보안 이론’과 동시에 사이밍(sizing)을 준비",
-        "대한민국 출산자, 초상 보안인과 기타 성인들이 수확되는 보안 인재가 중요한 역할을 하게되고, 시장에서 우리나라층에서 주로 많은 대학교사이밍을 이해하는 보안인들이 여기선 출전선했다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서의 일본온라인 주식시장 유발과 관련성을 보여준다. 대부분의 보안 인재는 IT/기술 업체에서의 일본어로진공을 확장하지만, 이 기사를 한국어로 요약해서 보여준다."
-    },
-    {
-      "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
-      "link": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Feb 2026 00:36:12 +0000",
-      "description": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
-      "language": "en",
-      "summary": "In an extension of its legal dispute with the California Department of Motor Vehicles (DMV), Tesla has filed a lawsuit challenging DMV's regulations on Autopilot technology, claiming they are overly restrictive and misrepresented in communication.",
-      "points": [
-        "Tesla sues California DMV over perceived excessive restrictions and lack of clarity regarding the operation of its Autopilot system."
-      ],
-      "insight": "This lawsuit could set a precedent for regulatory approaches to autonomous driving technology, potentially influencing legislative processes in other states as well."
-    },
-    {
-      "title": "[eGISEC 2026] 에어코드, 원격 웹 격리 솔루션 에어알비아이",
-      "link": "http://www.boannews.com/media/view.asp?idx=142188&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 09:13:00 +0900",
-      "description": "금융권 증권사·철도망 및 기간망 운영기업 등 망 분리 요구되는 기관에 공급3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에어코드는 1999년 설립돼 지상파, 케이블, IPTV 플랫폼의 방송 안내 시스템, 양방향 서비스 시스템, 메타데이터 운영 시스템 등 국내외 기술 표준에 기반한 방송 솔루션을 개발·공급해 온 기업이다.또한 미디어",
-      "language": "ko",
-      "summary": "2~3문장의 한국어로 기사내용을 요약함",
-      "points": [
-        "- eEcoode는 방속성으로 IPTV, 공급이란 증명.",
-        "- 1999년에 개발한 기기는 국내외의 다양한 플랫폼을 위해 제4~5번째 시장이 촉進.",
-        "- eEcoode는 메타데이터와 시스템의 다양한 기능을 가지고 있음."
-      ],
-      "insight": "eEcoode는 IT/기술 업계에서 매우 중요한 시스템였다. 이러한 시스템은 모든 머신나무가 공격받을 수 0에 유의하여 전용해야 한다."
-    },
-    {
-      "title": "[SECON 2026] 톨루스, 게이트스캐너 CDR 키오스크",
-      "link": "http://www.boannews.com/media/view.asp?idx=142116&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 09:10:00 +0900",
-      "description": "독립형 사이버 보안 스테이션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 톨루스는 이스라엘의 SASA SOFTWARE사 한국 총판으로, 전 세계 500여곳 이상의 고객으로부터 보안성 및 안정성이 검증된 세계 최고 수준의 CDR(컨텐츠 무해화 기술) 기술 및 초저지연 코드분석 및 위협 스코어링 기술을 국내에 도입하고 있다.세계 유일",
-      "language": "ko",
-      "summary": "독립형 사이버 보안 스테이션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 톨루스는 이스라엘의 SASA SOFTWARE사 한국 총판으로, 전 세계 500여곳 이상의 고객으로부터 보안성 및 안정성이 검증된 세계 최고 수준의 CDR(컨텐츠 무해화 기술) 기술 및 초저지연 코드분석 및 위협 스코어링 기술을 국내에 도입하고 있다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 씨에쓰정보기술, 실시간 통합 관리 시스템 스마트모아",
-      "link": "http://www.boannews.com/media/view.asp?idx=142036&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Feb 2026 09:01:00 +0900",
-      "description": "원격지 함체 보안 관리... 스마트제어기(H/W)로 함체 내부 장비 원격 전원 제어3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 씨에쓰정보기술은 정보통신 분야 전문 설계, 감리, 시공 및 유지관리 사업을 비롯해 결합형 스마트 제어 함체, 함체 보안 관리 솔루션, 서버랙 물리보안 및 산업용 스위치 등을 개발 운영하는 기술 혁신 주도",
-      "language": "ko",
-      "summary": "이런식으로의 IT/기술 업체가 함처, 보안, 그리고 스마트모아를 개발, 제공하는 서비스는 전세계에서 경륜저장 시스템이며, 함처 보안과 사용자의 불안정성을 개선시키기 위해 개발",
-      "points": [
-        "정보통신 분야에서 균혨체, 감리, 시공, 유지관리 작업을 위한 기술적인 혁신",
-        "보안과정량을 강화하여 사용자에게 안전한 서비스를 제공",
-        0
-      ],
-      "insight": "이러한 IT/기술 업계가 개선되는 시대에도 서비스를 제공하고, 보안과정량을 강화하면서도, 사용자의 안전성을 지어주기 위해 이러한 시스템들의 개체를 유명하게 배포할 수 있음을 의미"
-    },
-    {
-      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
-      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 21:46:41 +0000",
-      "description": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-      "language": "en",
-      "summary": "OpenAI's backers are increasingly investing in Anthropic despite existing rules against such dual relationships within the AI industry.",
-      "points": [
-        "At least a dozen OpenAI VCs now also support companies like Anthropic, which have come under criticism for misleading advertising and questionable practices similar to those of Stable Diffusion competitor Daïkichi Labs."
-      ],
-      "insight": "The trend suggests that investors may prioritize financial returns over ethical considerations in the rapidly growing AI sector, potentially leading to conflicts between innovation and integrity."
-    },
-    {
-      "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
-      "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 20:35:06 +0000",
-      "description": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
-      "language": "en",
-      "summary": "A former Appla team is introducing Acme Weather—a weather app offering different perspectth on local conditions with additional features like rainbow and sunset alerts.",
-      "points": [
-        "The ex-Apple team has launched Acme Weather, focusing on alternative forecasts for users to choose from.",
-        "Acme Weather includes unique offerings such as notifying users about rainy days or the next rainbow and sunsets after storms.",
-        "These new features aim at providing a more personalized weather experience."
-      ],
-      "insight": "The launch of Acme Weather by former Apple team members could indicate an increasing demand for diverse, specialty weather apps within the IT/technology industry. This trend may encourage other developers to explore innovative features that offer unique experiences beyond traditional forecasts and alerts."
-    },
-    {
-      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
-      "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 19:57:27 +0000",
-      "description": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
-      "language": "en",
-      "summary": "Anthropic has accused Chinese AI labs of using fake accounts to develop ChatGPT-like technology Claude by distilling information from Anthropi's codebase without authorization.",
-      "points": [
-        "Chinese firms DeepSeek, Moonshot, and MiniMax allegedly utilized 24,000 unauthorized fake accounts to extract data for AI development.",
-        "The U.S. is considering export controls on advanced microchips in response to concerns over China's rapid technological advancements in AI.",
-        "Anthropi has responded with a lawsuit demanding an immediate halt of the alleged unauthorized data mining activities."
-      ],
-      "insight": "The accusation and subsequent legal action taken by Anthropic highlight potential security risks associated with intellectual property appropriation in AI development, which could influence future export control discussions to protect domestic innovations from similar exploits internationally."
-    },
-    {
-      "title": "Uber wants to be a Swiss Army Knife for robotaxis",
-      "link": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Feb 2026 19:54:22 +0000",
-      "description": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
-      "language": "en",
-      "summary": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
