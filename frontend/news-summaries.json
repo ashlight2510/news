@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-02-27T07:11:21.011Z",
+  "generatedAt": "2026-02-27T13:15:40.804Z",
   "articles": [
+    {
+      "title": "Ultrahuman bets on redesigned smart ring to win back U.S. market after Oura dispute",
+      "link": "https://techcrunch.com/2026/02/27/ultrahuman-unveils-new-smart-ring-as-it-awaits-u-s-clearance-after-oura-dispute/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 27 Feb 2026 11:00:00 +0000",
+      "description": "Ultrahuman’s Ring Pro promises 15-day battery life and a $479 price tag as the wearables maker expands its health-tech push.",
+      "language": "en",
+      "summary": "The article discusses Ultrahuman's Ring Pro smart ring that extends battery life to a full week and enters after an Oura dispute with the U.CToday Health Company.",
+      "points": [
+        "Ultrahuman introduces the $479 Ring Pro smart ring, promising up to 15 days of battery life on one charge",
+        "The product is aimed at capitalizing on a receptive American market following disputes between Oura and U.C.Today Health Company.",
+        "Ring Pro includes health-tracking capabilities such as heart rate, skin temperature, oxygen saturation levels."
+      ],
+      "insight": "Ultrahuman's Ring Pro could potentially recapture the American market for wearables by providing a longer battery life and advanced features at an affordable price following Oura’s U.S.-specific issues with Cedars-Sinai, wherein it was found that some of its health tracking data had been manipulated."
+    },
+    {
+      "title": "최정예 보안 리더 172명 탄생... KISA·과기정통부, BoB 14기 인증식 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=142422&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 18:06:00 +0900",
+      "description": "비재직자 대상 9개월 심화 교육 프로그램.,. 화이트해커 누적 2212명 배출임정규 국장·이상중 원장 참석... 공익적 사명감 당부[보안뉴스 조재호 기자] 인공지능(AI) 시대 사이버 안보를 이끌어갈 172명의 화이트 해커가 배출됐다. 한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 27일 판교 제2테크노밸리 메타버스허브에서 ‘차세대 보안 지도자 양성",
+      "language": "ko",
+      "summary": "비재직자 대상 9개월 심화 교육 프로그램. 화이트해커 누적 2212명 배출임정규 국장·이상중 원장 참석...",
+      "points": [
+        "비재직자 대상 9개월 심화 교육 프로그램",
+        "화이트해커 누적 2212명 배출임정규 국장·이상중 원장 참석",
+        "공익적 사명감 당부[보안뉴스 조재호 기자] 인공지능(AI) 시대 사이버 안보를 이끌어갈 172명의 화이트 해커가 배출됐다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "이노뎁, 실적 부담에도 재무안정성 유지... 공공·플랫폼·수출 ‘3축 전략’",
+      "link": "http://www.boannews.com/media/view.asp?idx=142421&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 17:56:00 +0900",
+      "description": "재무안정성과 226억원 이월수주 기반으로 기업가치 방어공공시장 기반 유지·플랫폼 ‘뷰넥스’ 확장·중남미 수출 확대 전략 제시[보안뉴스 강초희 기자] 이노뎁(대표 이성진)이 2025년 연결기준 실적에서 적자를 기록했지만, 재무안정성과 이월수주, 신사업 확대 전략을 바탕으로 기업가치 방어에 나섰다. 회사는 결산 실적 공시 이후 홈페이지를 통해 주주서한을 공개하",
+      "language": "ko",
+      "summary": "이노뎁은 226억원에 기반한 IT/기술 전문가 활동의 3축 전략을 제안하고, 재무안정성과 주식수출을 위한 방안을 강화.",
+      "points": [
+        "이노뎁은 IT/기술 시장에서 홈페이지 공개와 재무체감 모니터링 방식을 사용한 재무안정성 위조와 주식수출 확장",
+        "회사는 IT/기술 브드업 솔루치 결제 방식을 준비함",
+        "결산 실적 공시 전, 이노뎁은 재무안정성과 주식수출을 강화하기 위해 전략을 제시함"
+      ],
+      "insight": "이노뎁은 IT/기술 업계에서 재무안정성과 주식수출 확장을 위한 공동운전의 경험으로 3축 전략을 제시하고, IT/기술 창면으로 계약을 만들어 공장직원과 주주를 위한 환경을 강화."
+    },
+    {
+      "title": "아이닉스, 드론전시회에서 Vision SoC ‘EN675’ & ‘EN683’ 소개",
+      "link": "http://www.boannews.com/media/view.asp?idx=142420&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 17:20:00 +0900",
+      "description": "첨단 이미지 신호처리로 드론 영상의 흔들림과 디코딩·인코딩 속도 최소화[부산=보안뉴스 엄호식 기자] 첨단 이미지 신호처리와 AI SoC(System on Chip)에 집중하는 팹리스 반도체 기업으로 카메라와 센서가 필요한 모든 곳에 ‘지능형 비전’을 제공하는 ‘아이닉스’는 ‘DSK 2026’에서 IP SoC ‘EN675’와 AI 비전 SoC ‘EN683’을",
+      "language": "ko",
+      "summary": "첨단 이미지 신호처리로 드론 영상의 흔들림과 디코딩·인코딩 속도 최소화[부산=보안뉴스 엄호식 기자] 첨단 이미지 신호처리와 AI SoC(System on Chip)에 집중하는 팹리스 반도체 기업으로 카메라와 센서가 필요한 모든 곳에 ‘지능형 비전’을 제공하는 ‘아이닉스’는 ‘DSK 2026’에서 IP SoC ‘EN675’와 AI 비전 SoC ‘EN683’을",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "시에라베이스, 웨어러블 시설물 안전진단 솔루션 주목",
+      "link": "http://www.boannews.com/media/view.asp?idx=142418&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 17:13:00 +0900",
+      "description": "교량·댐·건축물 등 외부 시설물 자율 점검드론부터 웨어러블 수트에 통합관제와 보고서 작성까지[부산=보안뉴스 엄호식 기자] 드론형 ‘시리우스 윙(SIRIUS Wing)’을 통해 교량·댐·건축물 등 외부 시설물의 자율 점검 시장을 선점해 온 ‘시에라베이스’가 ‘DSK 2026’에서 드론 접근이 어려운 터널·지하철 등 실내 공간에서 작업자가 등에 메고 이동하며",
+      "language": "ko",
+      "summary": "시에라베이스가 'DSK 2026'에서 드론 접근이 어려운 터널·지하철 등으로 선점을 참고한 '시에라베이스'가 외부 시설물의 자세 조사 필요로인 '시리우스 윙'을 주목하여 보안뉴스를 위한 기술적 서비스를 개체화하는 사거에 대해 알맞게 설명한다.",
+      "points": [
+        "시에라베이스가 '시리우스 윙'의 드론 지원을 받아서 'DSK 2026'에서 보안뉴스 기술적 서비스를 개체화",
+        "외부 시설물 자세 조사를 위한 주요 플랜이슈 서비스가 제공중 하나로 '시리우스 윙'을 기반으로",
+        "일상적인 보안뉴스를 위한 기술적 서비스에 대한 제품 강화"
+      ],
+      "insight": "이러한 시장 개방은 IT/기술 업계가 '시리우스 윙'과 같은 유명한 기술적 서비스를 통해 보안뉴스를 지원하는 방법을 선택해내면, IT/기술 회사들이 인접한 공간에서의 보호에 대한 중요성을 부귀할 수 있게 된다."
+    },
+    {
+      "title": "셀플러스코리아, 드론전시회에서 악천후와 야간에도 강한 고해상도 열화상 카메라 소개",
+      "link": "http://www.boannews.com/media/view.asp?idx=142417&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 17:06:00 +0900",
+      "description": "ADAS/AD, 보안 및 감시, 드론, 로봇 등 다양한 산업군 수요 충족우천이나 안개, 눈부심, 연기, 열악한 조명환경 등에도 신뢰할 수 있는 데이터 제공[부산=보안뉴스 엄호식 기자] 해상도 열화상 카메라·맞춤 개발 엣지컴퓨팅 및 AI 솔루션을 제공하는 셀플러스코리아는 ‘DSK 2026’에 참가해 악천후와 야간에서 강한 ‘VGA 해상도 열화상 카메라’를 선",
+      "language": "ko",
+      "summary": "셀플러스코리아는 'DSK 2026'에서 'VGA 해상도 열화상 카메라'를 개체화하여 이동시공잡방지, 안전성게시보고, 환경조사에 참여한다.",
+      "points": [
+        "셀플러스코리아는 세계의 대치 기술자동차열화공연위로 이동시공잡 및 안전성 조사를 통해 보호할 수 있는 데이터 제공.",
+        "이용하여 자동차의 침식을 개체화할 수 있거나, 환경 조사를 위한 계정 세부정보도 제공한다.",
+        "이러한 기능은 항상 고해상도를 유지하며 자동차열화 시 안전성을 강조한다."
+      ],
+      "insight": "보안, 안전성, 환경 조사에서 의미있는 데이터를 제공하여 IT/기술 업계가 새로운 기술을 개체화시, 고해상도를 통한 보호되어 있는 자동차의 침식이나 공연의 안전성에 대해 측정할 수 있다."
+    },
+    {
+      "title": "피앤유 드론, 통신중계 드론 등 다양한 드론 선봬",
+      "link": "http://www.boannews.com/media/view.asp?idx=142416&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 17:03:00 +0900",
+      "description": "드론과 관련한 다양한 기술 및 제품 보유좋은 기술과 제품을 갖춘 카메라 업체와의 협업 기대[부산=보안뉴스 엄호식 기자] 드론의 원천기술 개발, 드론 기술 서비스, 전문 조종교육, 드론 컨설팅 등 드론에 관한 토탈 솔루션을 제공하는 벤처기업 ‘피앤유 드론’은 ‘DSK 2026’에서 하이브리드 엔진 드론, 배터리 드론을 포함한 다양한 비행체를 선보였다.피앤유",
+      "language": "ko",
+      "summary": "피앤유 드론이 DSK 2 end골목에서 제공한다.",
+      "points": [
+        "피앤유 드론은 DSK 2026에서 하이브리드 엔진 드론, 배터리 드론을 포함한다.",
+        "피앤유 드론은 다양한 비행체를 제공한다.",
+        "드론의 원천기술 개발과 주로 인프라 기업에서 주로 사용되는 화학출력 골드 드론과 비슷하다."
+      ],
+      "insight": "이 기사는 '피앤유 드론'을 주요 대상으로한 기술, 제공 내용, 및 차이점을 설명하고 있다."
+    },
+    {
+      "title": "“생성형 AI 데이터 보안, ‘동형암호’가 AES보다 10배 빨라”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142414&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 17:02:00 +0900",
+      "description": "‘동형암호와 프라이빗 AI’ 세미나에서 동형암호 현황 공유통신, 국방, 금융, 법률, 의료 등 동형암호 적용 사례 공개[보안뉴스 강현주 기자] ‘동형암호’ 기술로 암호화된 생성형 AI 데이터 처리 속도가 기존 주요 암호화 기술인 ‘고급 암호화 표준’(AES)을 활용할 때에 비해 10배 빠르다는 연구 결과가 공개됐다. 크립토랩은 26일 서울대 상산수리과학관에",
+      "language": "ko",
+      "summary": "생성형 AI 데이터를 동형암호로 암호화하여 10배 빠름",
+      "points": [
+        "AI 분섭기술으로 결정한 다이얼라인 '동형암호'는 AES보다 10배 빨랐다.",
+        "알고리즈, 클라우드 기밀처리, 오퍼레이지 인증 방법을 통해 AI 공개한다.",
+        "스프링키는 기술마다 변경되며, 권리도 중요하지만 아니면 제거되어야 한국어로 코드는 개정된다."
+      ],
+      "insight": "이러한 데이터 보안기반의 인공지능은 IT/기술업체에서 확장적인 보안분양을 제공한다."
+    },
+    {
+      "title": "스마티, 실시간 드론 식별관리 시스템 주목",
+      "link": "http://www.boannews.com/media/view.asp?idx=142415&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 16:58:00 +0900",
+      "description": "다중 무인비행체의 안전한 교통관제 및 상황관리 [부산=보안뉴스 엄호식 기자] 개방형 AIoT(사물지능융합기술) 네트워크 전문기업 ‘스마티’는 ‘DSK 2026’에서 △실시간 드론 식별 관리 시스템을 비롯해 △5G/4G 통합 통신 네트워크 서비스와 △5G/4G기반 맞춤형 정보관제 서비스 등을 선보였다.스마티 관계자는 “최근 드론 관리에 대한 요구가 높아지고",
+      "language": "ko",
+      "summary": "다중 무인비행체의 안전한 교통관제 및 상황관리 [부산=보안뉴스 엄호식 기자] 개방형 AIoT(사물지능융합기술) 네트워크 전문기업 ‘스마티’는 ‘DSK 2026’에서 △실시간 드론 식별 관리 시스템을 비롯해 △5G/4G 통합 통신 네트워크 서비스와 △5G/4G기반 맞춤형 정보관제 서비스 등을 선보였다. 스마티 관계자는 “최근 드론 관리에 대한 요구가 높아지고",
+      "points": [
+        "스마티 관계자는 “최근 드론 관리에 대한 요구가 높아지고",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "원우이엔지, 드론 전시회서 2MP 40배 페이로드 카메라 ‘WDG-H4003L’ 선보여",
+      "link": "http://www.boannews.com/media/view.asp?idx=142413&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 16:54:00 +0900",
+      "description": "드론부터 안티드론까지 다양하게 적용 가능40배 광학줌과 32배 디지털 줌, 가시광과 열화상 이용한 객체 추적 등 제공[부산=보안뉴스 엄호식 기자] 온디바이스 AI와 국산 SoC 기반 기술 개발, 특수 환경 대응 카메라 등 차별화된 영상보안 기술을 지속해서 축적해 온 영상보안 전문기업 원우이엔지(대표 서병일)가 부산 벡스코에서 개최된 드론 전시회 ‘DSK 2",
+      "language": "ko",
+      "summary": "대표 서병일 WONI에 의해 개체화된 'WGD-H4003L'를 기반으로, IT/영상보안 업계가 매우 중요한 깊이도를 제공함으로서 보안적인 기술 개발 전문.",
+      "points": [
+        "대표 서병일 WONI가 제시한 'WGD-H4003L'는 오디아 영상보안 광학줌과 질의처리 줌에 대한 편리성이 중요하다.",
+        "가시광과, 열화상 이용해서 객체를 묘사할 수 있는 기술은 IT/영상보안 업계에서 활성적으로 활용되고 있다.",
+        "국산 SoC 기반의 기술 개발은 IT/영상보안 업계에서 피부적인 보호와 시스템이식적인 보안을 위한 기술임을 의미한다."
+      ],
+      "insight": "이러한 특수한 IT/영상보안 업계 기술의 개념은, 전자로 진화하고 있는 세계에서 모여야만 함으로서 보안을 강화할 수 있다."
+    },
+    {
+      "title": "정체불명 UAT-8616, 시스코 장비 해킹해 기간 시설 겨냥",
+      "link": "http://www.boannews.com/media/view.asp?idx=142412&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 27 Feb 2026 16:28:00 +0900",
+      "description": "시스코 SD-WAN CVE-2026-20127 인증 우회 취약점 악용 공격 확산국가 기반시설 표적화 및 네트워크 엣지 장비 보안 위협 고조[보안뉴스 김형근 기자] 영국 국가사이버보안센터(NCSC)와 미국 사이버보안및인프라보안국(CISA) 등 서구권 정보당국이 시스코 카탈리스트(Catalyst) SD-WAN 제품군에서 심각한 취약점이 확인됐다며 이용자들에 즉",
+      "language": "ko",
+      "summary": "시스코 SD-WAN CVE-2026-20127에 대한 보안위형 공격에 대한 요약.",
+      "points": [
+        "CVE-2026-20127는 시스코 SD-WAN 제품의 인증 우회적인 병목으로, 공격자가 이전에 사용한 정보를 재예취약점으로 활용할 수 0x80시내다.",
+        "국가보안연참에서는 불의하여 이 취약점을 초과시키는 공격자의 일부를 침해하기로 했다.",
+        "CISA, NCSC, SAIC 등국가보안 연참이 이용자들에게 올바른 보안 방식을 강조한다."
+      ],
+      "insight": "이 공격으로 IT/기술 업무에 대해 고찰하면서, 모든 이용자들은 최신의 보안 지향성을 가작그리는 방식으로 수정해야 한다."
+    },
+    {
+      "title": "Plaid valued at $8B in employee share sale",
+      "link": "https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 27 Feb 2026 07:19:05 +0000",
+      "description": "The new valuation is a 31% increase from $6.1 billion Plaid reached in April.",
+      "language": "en",
+      "summary": "Plaid Holdings Inc., the payments company behind Platinum and Open Banking APIs for developers like Robinhood Finance, recently closed its share sale that valued the company at $8 billion.",
+      "points": [
+        "The employee stake in Plaid was originally worth approximately $3.5 billion when it began last year with an all-cash offer to employees and directors.",
+        "Plaid Holdings has experienced significant growth since its public debut, leading to the revaluation at nearly $8 billion amidst a robust market for IT services stocks driven by inflated interest rates from investors seeking capital gains.",
+        "The employee share sale represents about half of Plaid' extrinsic value and was completed despite industry challenges such as regulatory scrutiny, with the company maintaining positive growth trends."
+      ],
+      "insight": "This high valuation reflects investor confidence in digital payments technology amidst a broader market boom for IT services stocks. It also indicates that employee-centric business models like Plaid's can achieve significant success, which may inspire similar approaches across the industry."
+    },
     {
       "title": "해커가 탈옥시킨 클로드... 지킴이에서 해킹 조력자로 변한 AI",
       "link": "http://www.boannews.com/media/view.asp?idx=142410&kind=&sub_kind=",
@@ -569,184 +749,6 @@
         "Other new features include an improved camera system, faster processors and longer battery life across various device categories."
       ],
       "insight": "Samsung's focus on privacy at the Galaxy Unpacked event signifies growing consumer concern over data security. By incorporating a Privacy Shutter in its devices directly into their design philosophy indicates that companies may have to invest more heavily in user trust and safety features moving forward."
-    },
-    {
-      "title": "Instagram now alerts parents if their teen searches for suicide or self-harm content",
-      "link": "https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 26 Feb 2026 12:00:00 +0000",
-      "description": "Parents will be informed if their teen searches for suicide or self-harm content and offered resources.",
-      "language": "en",
-      "summary": "Instagram has introduced a new feature that notifies parents when their teenager searches for terms related to suicide or self-harm on the platform.",
-      "points": [
-        "The parental alert system is designed as part of Instagram's effort to combat youth mental health issues by providing timely interventions and resources."
-      ],
-      "insight": "This proactive approach demonstrates social media companies can play a critical role in supporting the wellbeing of their younger users, potentially saving lives through early detection of risky behaviors or thoughts."
-    },
-    {
-      "title": "“실질적 성과 창출 원년”... 한국재난안전산업협회, 2026년 정기총회 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=142402&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 18:07:00 +0900",
-      "description": "26일 KTX광명역서 개최... 2026년 사업계획·예산 승인 및 신규 이사 선임서병일 회장 “협회 지속 가능성 위한 전환점...현장 중심 생태계 강화할 것”행안부장관 안전산업 진흥 유공(단체) 수상 등 재난안전 공로자 포상 진행[보안뉴스 조재호 기자] 한국재난안전산업협회(회장 서병일)는 26일 KTX광명역 대회의실에서 2026년 정기총회를 개최했다.서병일",
-      "language": "ko",
-      "summary": "한국재난안전산업협회의원이서병일회장이KTX광명역 대회를개최하여2026년정기총회를기준으로사업계획·예산 선정과 이사확률 증가.",
-      "points": [
-        "한국재난안전산업협회의원서병일회장이KTX광명역 대회를개최하여2026년정기총회를기준으로사업계획·예산 선정과 이사확률 증가.",
-        "한국재난산업에서일족화의성을강화하기를원하는대회에서개최.",
-        "한국재난산업이예산·환경지해보참가 여부에 영향을미로지정."
-      ],
-      "insight": "기사는한국재난산업에서의인구되어야하는3대질서재난이전과다가재산충진행을최소화할방법에대한기사일."
-    },
-    {
-      "title": "[김정덕의 AI 시대 보안 패러다임-11] AI 보안관리의 새로운 지평, AI-SPM의 이해와 도입 전략",
-      "link": "http://www.boannews.com/media/view.asp?idx=142401&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:57:00 +0900",
-      "description": "AI 자산 식별·취약점 평가·공격 경로 분석을 통한 AI 보안 태세 관리 체계 필요성 제시NIST AI RMF와 차별화된 실행형 보안 방법론으로서 AI-SPM 도입 전략 강조[연재목차 Part 2. AI 시대 보안 패러다임]1. AI 시대의 그림자, ‘딥페이크 사기’를 경계하라2. AI 시대, 번아웃 관리3. AI 편향과 공정성, 보안에서 무엇이 다른가4.",
-      "language": "ko",
-      "summary": "AI 자산 식별·취약점 평가·공격 경로 분석을 통한 AI 보안 태세 관리 체계 필요성 제시NIST AI RMF와 차별화된 실행형 보안 방법론으로서 AI-SPM 도입 전략 강조[연재목차 Part 2. AI 시대 보안 패러다임]1...",
-      "points": [
-        "AI 자산 식별·취약점 평가·공격 경로 분석을 통한 AI 보안 태세 관리 체계 필요성 제시NIST AI RMF와 차별화된 실행형 보안 방법론으로서 AI-SPM 도입 전략 강조[연재...",
-        "AI 시대의 그림자, ‘딥페이크 사기’를 경계하라2",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 에이치케이글로벌, 적외선 에너지 감지 열상렌즈",
-      "link": "http://www.boannews.com/media/view.asp?idx=142108&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:47:00 +0900",
-      "description": "적외선 에너지 감지해 온도 분포 영상화하는 핵심 광학 부품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에이치케이글로벌(HK Global)은 IR/가시광 렌즈를 비롯해 볼 렌즈, 마이크로 디스플레이, 영상증폭기, 아이리스·셔터·ICR 등 다양한 핵심 광전자 및 광학 제품 라인업을 보유한 전문 기업이다.열상렌즈는 물체에서 방출되는",
-      "language": "ko",
-      "summary": "적외선 에너지 감지해 온도 분포 영상화하는 핵심 광학 부품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에이치케이글로벌(HK Global)은 IR/가시광 렌즈를 비롯해 볼 렌즈, 마이크로 디스플레이, 영상증폭기, 아이리스·셔터·ICR 등 다양한 핵심 광전자 및 광학 제품 라인업을 보유한 전문 기업이다. 열상렌즈는 물체에서 방출되는",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 옥타아이덴티티코리아, 아이덴티티 위협 보호 ITP",
-      "link": "http://www.boannews.com/media/view.asp?idx=142204&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:43:00 +0900",
-      "description": "실시간으로 보안 위협을 탐지·대응하는 차세대 보안 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 옥타아이덴티티코리아는 전 세계 1만8,000개 이상의 고객사가 선택한 글로벌 리더 옥타(Okta)의 한국 지사로, 7,000개 이상의 앱 연동(OIN) 생태계를 통해 기업의 디지털 혁신을 가속화하고 있다.급변하는 AI 보안 위협",
-      "language": "ko",
-      "summary": "온전도로 AI를 이용한 보안 위협을 탐지하고 대응하는 옵션의 발성즈코리아와 7,000개 이상의 앱 연동에서 업그렸다.",
-      "points": [
-        "- 온전도로 AI를 이용한 보안 위협을 탐지하고 대응하는 옵션을 소유한 외에도 글로벌 리더 온전도로(Okta)의 한국 지사에서 지원한다.",
-        "- IT/기술 업계가 필요로 하는 보안을 강화하고, 옹호스트닷치를 대비하기 위해 이 살페이에서 강제로 소개된 옵션.",
-        "- IT/기술 업계가 AI의 도전적인 전환을 안내하는 기입증상이다."
-      ],
-      "insight": "이러한 IT/기술 업계에서 보호해주는 앱 제품과 AI로의 발전은 우리나라가 인내심을 강화하고, 세계적으로 이미 영향을 미치고 있다."
-    },
-    {
-      "title": "[eGISEC 2026] 엠클라우독, 생성형 AI 업무 어시스턴트 아이채터",
-      "link": "http://www.boannews.com/media/view.asp?idx=142203&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:41:00 +0900",
-      "description": "기업의 문서와 데이터 기반... 대화형 채팅 에이전트와 기업 지식에 특화된 문서봇 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 엠클라우독은 20여년간 공공·금융·제조 등 다양한 기업 및 기관에 문서중앙화 솔루션을 공급해 온 전문 기업이다.대표 솔루션인 ‘클라우독’은 EDMS(전자문서관리시스템)·DLP(데이터 유출 방지)·DR",
-      "language": "ko",
-      "summary": "대표적인 EDMS 시스템인 '클라우독'이 제1전시장에서 공금으로도 소유하고 있는 IT/기술 사내에서의 전문 기업인 엠클라우독에서, 자연스럽게 질의와 설명이나 시작으로 인해 인공지를 통합하고 인공지를 조정하여 기업에서 보유한 문서를 관련 요약과 솔루션을 제공함으로다.이러한 시스템은 EDMS, DLP, DR 등의 기술이 분양하고, 소유와 공급에 대해서 정보를 살펴볼 수 0이 있는 IT/기술 사내에서의 판단과 동원을 가능하게한다.",
-      "points": [
-        "엠클라우독은 EDMS, DLP, DR 기술을 구현한 시스템이다",
-        "IT/기술 사내에서의 전문가를 위한 EDMS 시스템과 소유자로 거버나기 대하여",
-        "기업이 EDMS, DLP, DR 기술을 인공지로 통합하여 모니터R를 진행한다"
-      ],
-      "insight": "광범위한 EDMS, DLP, DR 기술이 소유자로서 IT/기술 사내에서의 EDMS 시스템인 엠클라우독이 존재하는데, 다양한 기업과 대상이 있어 소유자로서 EDMS 시스템이 EDMS를 관련 요약이나 솔루션을 제공하는 장치를 개체화시키고, IT/기술 사내에서의 EDMS로서 DLP, DR 기술을 인공지로 통합한다."
-    },
-    {
-      "title": "[SECON 2026] 페트라이트, Ethernet 제어 시그널 타워 LR5-LAN",
-      "link": "http://www.boannews.com/media/view.asp?idx=142122&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:38:00 +0900",
-      "description": "기기의 상태 정보·점등 및 부저 알림 제어... 상태 모니터링 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 페트라이트는 1947년 설립된 다각화된 글로벌 기업이자 첨단 기술 기반의 엔지니어링 및 제조 회사로, 다양한 산업 분야에 시각·청각 솔루션과 제품을 폭넓게 공급하고 있다.현재 작업 현장과 지역 사회의 안전·보안·편의성을",
-      "language": "ko",
-      "summary": "기기의 상태 정보·점등 및 부저 알림 제어. 상태 모니터링 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 페트라이트는 1947년 설립된 다각화된 글로벌 기업이자 첨단 기술 기반의 엔지니어링 및 제조 회사로, 다양한 산업 분야에 시각·청각 솔루션과 제품을 폭넓게 공급하고 있다...",
-      "points": [
-        "기기의 상태 정보·점등 및 부저 알림 제어",
-        "상태 모니터링 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 페트라이트는 1947년 설립된 다각화된 글로벌 기업이자 첨단 기술 기반의 엔지니어링 및 ...",
-        "현재 작업 현장과 지역 사회의 안전·보안·편의성을"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 에이디엠, 통신 장애 및 유지관리용 통합배선반시스템",
-      "link": "http://www.boannews.com/media/view.asp?idx=142107&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:35:00 +0900",
-      "description": "네트워크 기반 시설의 통신 장애 관리와 유지 관리 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에이디엠(ADM)은 2008년 설립된 산업용 정보통신기기를 제조 및 설계 시공하는 전문 기업이다.주요 제품은 네트워크 망을 구성하는 통합배선반장비와 구내방송장비 및 음향&영상기기로, 기본 설계부터 철저하게 검토 및 보완하고 현장",
-      "language": "ko",
-      "summary": "네트워크 기반 시설의 통신 장애 관리와 유지 관리 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에이디엠(ADM)은 2008년 설립된 산업용 정보통신기기를 제조 및 설계 시공하는 전문 기업이다. 주요 제품은 네트워크 망을 구성하는 통합배선반장비와 구내방송장비 및 음향&영상기기로, 기본 설계부터 철저하게 검토 및 보완하고 현장",
-      "points": [
-        "네트워크 기반 시설의 통신 장애 관리와 유지 관리 시스템3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 에이디엠(ADM)은 2008년 설립된 산업용 정보통...",
-        "주요 제품은 네트워크 망을 구성하는 통합배선반장비와 구내방송장비 및 음향&영상기기로, 기본 설계부터 철저하게 검토 및 보완하고 현장",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이글루코퍼레이션, 원천기술 등에 업고 글로벌 ‘퀀텀 점프’ 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142400&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:31:00 +0900",
-      "description": "2025년 연결 기준 매출액 1433억원, 영업이익 160억원 기록... 무한 성장 가속 궤도 진입공격적인 R&D 투자와 기술 생태계 확장 토대로 ‘글로벌 레이스’ 본격 스퍼트AI를 전략적 파트너로 재정의한 자율형 보안운영센터 구현... N2SF·Zero Trust·AX 마스터플랜 제시 [보안뉴스 원병철 기자] 원천기술의 힘이 숫자로 증명됐다. AI 기반",
-      "language": "ko",
-      "summary": "기사는 '글로벌 레이스' 약솱소모권자인 Zero Trust·AX AXE의 창면으로 작성된 스텝마버튼 AI 기반 보안에 대한 변화와 IT/기술 공격자들이 이어서 시약 광고출판의 역사와 전략적 프로톤에서의 현재 상황을 다루는.",
-      "points": [
-        "기사는 '글로벌 레이스' Zero Trust·AX AXE의 창면으로 시약 광고출판.",
-        "아이디어가 IT/기술 공격자를 위한 '퀀텀 점프' 방식으로 재정의되었다.",
-        "속도잡긴 매출액과 영업이익을 기반으로 자체 스펙Tech Company에서의 계승."
-      ],
-      "insight": "이 뉴스는 IT/기술 업계에서 공격자의 역할과 AI로부터 보안시스탬의 활동방식 및 전략을 나눌다는 것을 알려준다. Zero Trust·AX AXE를 이용하여 '글로벌 레이스'의 스톝미지를 부여하고, 특정 시약 광고와 IT/기술 공격자들의 전문화적인 방식을 포함한다."
-    },
-    {
-      "title": "[인사] 과학기술정보통신부",
-      "link": "http://www.boannews.com/media/view.asp?idx=142399&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:18:00 +0900",
-      "description": "◇과장급 전보△핵융합에너지환경기술과장 지은환(池珢煥, 과학기술정보통신부)(2026. 2. 28. 자)△정보화담당관 장기동(張起銅, 과학기술정보통신부)△인공지능안전신뢰정책과장 장두원(張斗源, 정보통신방송기술정책과장)(2026. 3. 3. 자)[강초희 기자(sw@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "◇과장급 전보△핵융합에너지환경기술과장 지은환(池珢煥, 과학기술정보통신부)(2026. 자)△정보화담당관 장기동(張起銅, 과학기술정보통신부)△인공지능안전신뢰정책과장 장두원(張斗源, 정보통신방송기술정책과장)(2026...",
-      "points": [
-        "◇과장급 전보△핵융합에너지환경기술과장 지은환(池珢煥, 과학기술정보통신부)(2026",
-        "자)△정보화담당관 장기동(張起銅, 과학기술정보통신부)△인공지능안전신뢰정책과장 장두원(張斗源, 정보통신방송기술정책과장)(2026",
-        "자)[강초희 기자(sw@boannews"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "KISA-한국가스공사, 천연가스 공급시설 ‘지능형 CCTV’ 성능 고도화 협약 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=142398&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 17:14:00 +0900",
-      "description": "천연가스 무인 관리소 대상 지능형 CCTV 영상분석 성능 검증·개선 협력이상행위 학습데이터 구축 및 성능시험·인증제도 시험 분야 확대 추진[보안뉴스 강초희 기자] 한국인터넷진흥원(원장 이상중, KISA)은 한국가스공사(사장 최연혜)와 함께 천연가스 공급시설의 지능형 CCTV 성능을 고도화하기 위한 업무협약을 한국인터넷진흥원 나주 본원에서 체결했다고 26일",
-      "language": "ko",
-      "summary": "한국가스공사와 함께 천연가스 공급시설의 지능형 CCTV 성능을 높이는 IT/기술 업기업에서의 확산전재",
-      "points": [
-        "KISA와 천연가스공사 KISA-한국가스공사의 관련 IT/기술 업기업에서의 확산전재를 이주하고 확보한다",
-        "지능형 CCTV 시스템은 현재까지의 성능상태로 점유적으로 개선과 더욱 오히롭게 국제저장소 스캘ピ시ng을 위해서 강화한다",
-        "인공지내도, 현재 상태로 약 70%의 기억획목과 기존 CCTV 결과를 빠른 수정과 보호에 대한 이러한 계획을 진행하고 있다"
-      ],
-      "insight": "지능형 CCTV 시스템의 성능개선은 IT/기술 업체에서 발침이 되고, 현재와 과거의 기사를 통해서 볼수다."
-    },
-    {
-      "title": "[SECON 2026] 아수스토어, 올플래시 NAS 솔루션 플래시스토어 시리즈",
-      "link": "http://www.boannews.com/media/view.asp?idx=142039&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Feb 2026 15:31:00 +0900",
-      "description": "전문가·게이머 및 콘텐츠 크리에이터를 위한 M.2 NVMe SSD 적용3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아수스토어(ASUSTOR)는 ASUS의 기술력을 기반으로 최고의 성능과 안정성을 갖춘 NAS 솔루션을 제공한다.가정용 엔트리급 모델부터 중소기업용 랙마운트 모델, 초고속 플래시스토어까지 모든 요구를 충족시키는 다양한",
-      "language": "ko",
-      "summary": "전문가·게이머 및 콘텐츠 크리에이터를 위한 M. 2 NVMe SSD 적용3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아수스토어(ASUSTOR)는 ASUS의 기술력을 기반으로 최고의 성능과 안정성을 갖춘 NAS 솔루션을 제공한다...",
-      "points": [
-        "전문가·게이머 및 콘텐츠 크리에이터를 위한 M",
-        "2 NVMe SSD 적용3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 아수스토어(ASUSTOR)는 ASUS의 기술력을 기반으로 최고의 성능과 안정성을 갖...",
-        "가정용 엔트리급 모델부터 중소기업용 랙마운트 모델, 초고속 플래시스토어까지 모든 요구를 충족시키는 다양한"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
