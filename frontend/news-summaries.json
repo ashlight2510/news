@@ -1,6 +1,261 @@
 {
-  "generatedAt": "2026-03-02T18:56:27.368Z",
+  "generatedAt": "2026-03-03T02:39:08.559Z",
   "articles": [
+    {
+      "title": "카스퍼스키, 위협 탐지 강화 ‘헌트허브’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142437&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 11:02:00 +0900",
+      "description": "공격 탐지 원리, 탐지 이유, 공격 기법 보여주는 투명한 보안 환경 제공[보안뉴스 강현주 기자] 사이버 보안 기업 카스퍼스키(한국지사장 이효은)는 공격 탐지 이유 및 공격 기법을 명확히 보여주는 투명한 보안 환경을 제공하는 위협 탐지 성능을 강화한 ‘헌트 허브’(Hunt Hub)를 출시한다고 3일 밝혔다.카스퍼스키는 기업과 조직이 사이버 공격을 보다 쉽게",
+      "language": "ko",
+      "summary": "카스퍼스키는 '헌트 허브'을 출시하여 공격 탐지 이유와 공격 기법을 명확히 보여준 투명한 보안 환경을 제공한다.",
+      "points": [
+        "카스퍼스키 출시 '헌트 허브'",
+        "공격 탐지 원리, 이유, 공격 기법 보여주기 위해 제공",
+        "간헌 환경으로 살펴보할 수 있는 공격 관련 기술"
+      ],
+      "insight": "이러한 출시는 공격 업계가 공격 공동체의 보호와 탐지 기능을 완벽하게 독려하게 새로운 방안을 제시한다."
+    },
+    {
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "description": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "language": "en",
+      "summary": "Cursor, a four-year-in-age startup, has reportedly surpassed $2 billion in annualized revenue by doubling its revenue run rate over the past three months.",
+      "points": [
+        "Cursor, a four-year-old startup, has reportedly surpassed $2 billion in annualized revenue.",
+        "The company's revenue run rate has doubled over the past three months.",
+        "Cursor has achieved a significant growth in revenue within a short span of time."
+      ],
+      "insight": "Cursor's success indicates a growing trend in the IT/technology industry towards successful startups achieving exponential growth, impacting investment and funding decisions."
+    },
+    {
+      "title": "윈도우 탐색기가 악성 서버 연결 통로로... WebDAV 취약점 주의보",
+      "link": "http://www.boannews.com/media/view.asp?idx=142436&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 10:48:00 +0900",
+      "description": "MS가 2023년 폐지한 기능 악용해 웹 마크(MoTW) 보안 경고 무력화악성 .url·.lnk 파일 통해 원격 서버를 로컬 공유 드라이브처럼 위장[보안뉴스 김형근 기자] 윈도우 파일 탐색기에 남은 WebDAV 프로토콜을 악용해 웹 브라우저 보안 경고를 우회하는 공격 캠페인이 확산하고 있다. 여러 종류의 원격 제어 트로이목마(RAT)를 유포하는 것으로 확인",
+      "language": "ko",
+      "summary": "윈도우 탐색기가 악용해 웹DAV 프로토콜을 이용해 데이터 착용 공격 사건에 대한 공지입니다.",
+      "points": [
+        "윈도우 탐색기는 원격 서버로부터 로컬 공유 드라이브처럼 악용해 웹 마크에서 사용되는 WebDAV 프로토콜에 대해 악용해 착용되었다고 나온 것입니다.",
+        "여러 종류의 원격 제어 트로이목마(RAT)를 착용하여 보안을 위반하고 있다는 사건으로, 확산이 이어지고 있음을 나타냅니다.",
+        "이러한 공격 캬리는 모바일 버퍼 또한 웹 브라우저에서 발생하며, 웹 마큘 사건이 이어지고 있습니다."
+      ],
+      "insight": "윈도우 탐색기의 이어지고 있는 이벤트는 우리의 웹 서비스 안전성을 매우 잡힐 것입니다. 일반적으로 다운샷을 시작하여 이벤트를 신속히 이어지기 위해 준비해야 합니다."
+    },
+    {
+      "title": "스펙 대신 해킹 실력... 엔키화이트햇, ‘채용 직결형 CTF’ 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=142434&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 10:25:00 +0900",
+      "description": "21일 온라인 개인전 진행우수 참가자 1차 면접 면제... 정규직 입사하면 최대 300만원 보너스[보안뉴스 조재호 기자] 엔키화이트햇이 해킹 실력만으로 인재를 선발하는 채용 연계형 해킹 대회를 개최한다. 수상자 및 우수 참가자에겐 입사 지원할 때 1차 면접을 면제하고 최대 300만원의 사이닝 보너스를 지급한다. 엔키화이트햇은 21일 오전 11시부터 24시간",
+      "language": "ko",
+      "summary": "채용 연계형 해킹 대회 'CTF'를 개최하여 IT/기술 업체 인적자인을 선택",
+      "points": [
+        "스펙 대신 해킹이 임의 참가자를 선정함으로써 IT/기술 업체에서 최고의 인적자를 선보일 예정",
+        "임의 참가자는 24시간 동안 처음 시작하여 임의의 해석 근원을 이해하도록 도케",
+        "최대 30table 300만원의 보상을 300만원보다 훨씬 더 큰 보상을 풍긴 것은 아니지만, 최대 300만원의 보너스를 지급한다"
+      ],
+      "insight": "이러한 대회는 IT/기술 업계가 직업 인적자를 강화하고 기술에 액세스할 수 s랑, 특히 기술 학습을 최대한 활성화하여 최종 선정 대상인적자를 더졌다."
+    },
+    {
+      "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
+      "link": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 03 Mar 2026 01:15:00 +0000",
+      "description": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market.",
+      "language": "en",
+      "summary": "Pronto, an Indian platform, has seen its valuation soar 8-fold in just over a year by handling daily bookings for house help and planning for expansion. The company's success highlights the growing trend of digitizing India's traditionally offline home services market.",
+      "points": [
+        "Pronto, based in Bengaluru, has processed over 18,000 daily bookings for home cleaning services since its launch in November 2018.",
+        "The company's valuation has risen from $10 million to $80 million in just over a year, reflecting its rapid growth and market penetration.",
+        "Pronto's strategy involves leveraging data and technology to connect homeowners with local and affordable home help services, and it plans to expand its operations across multiple cities in India."
+      ],
+      "insight": "Pronto's success demonstrates the significant potential for digitizing India's home services sector, which is largely dependent on offline bookings and interactions. The company's approach could serve as a blueprint for other startups aiming to tap into this growing market."
+    },
+    {
+      "title": "HID 글로벌, ‘2026 보안 및 신원 현황 보고서’ 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=142432&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 09:49:00 +0900",
+      "description": "신뢰, 보호, 선택 중심 7대 보안 트렌드 ‘제시’전 세계 조직들 신뢰 구축, 보호 수준 강화, 사용자 선택권 보장에 방점“2026년 강력한 보안 유지와 솔루션 선택권을 제공하는 기업이 성공할 것”[보안뉴스 엄호식 기자] 글로벌 트러스티드 ID 솔루션 선도기업 HID 글로벌(HID Global)은 ‘2026 보안 및 신원 현황 보고서(2026 State o",
+      "language": "ko",
+      "summary": "기사는 HID Global의 2026년 보안 및 신원 현황 보고서에 대해 글로벌 대리칭 회사가 새로운 보안 전략과 사용자 선택권을 제공하여 2026년 보안 강화와 솔루션 선택을 통해 보호를 강화하는 대리칭 기업의 발평서 제출을 설명한다.",
+      "points": [
+        "HID Global은 2026년 보안 전략과 사용자 선택권을 제공하여 보호를 강화하며, 솔루션 선택권을 통해 사용자와의 의존성을 줄일 수 0ne가능",
+        "다음 목표는 보호 수준을 높이고 사용자의 발언에 따라 솔루션을 선택할 수 tho3s가능",
+        "글로벌 대리칭 회사는 더욱 더 높은 보호 수준과 더욱 많은 선택 도구를 제공하여 사용자의 신뢰와 약손을 보장한다."
+      ],
+      "insight": "이 기사는 IT/기술 업체가 보호 전략의 중요성을 인사이트로 제시하고, 사용자 선택을 통해 보호 솔루션을 선택할 수 있는 방법을 강력하게 강조한다."
+    },
+    {
+      "title": "AI스페라, ‘RSAC 2026’서 공격 표면 위협 인텔리전스 선보여... 단독 부스 참가",
+      "link": "http://www.boannews.com/media/view.asp?idx=142431&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 09:48:00 +0900",
+      "description": "AI·오픈소스 인텔리전스기반 외부 공격 표면 가시성 강화글로벌 보안 운영 실전 전략 공개[보안뉴스 강현주 기자] 사이버 보안 기술 전문 기업 AI스페라(대표 강병탁)가 ‘RSAC 2026’에서 자사의 AI 기반 사이버 위협 인텔리전스 플랫폼 ‘크리미널 IP’(Criminal IP)를 중심으로 공격 표면 인텔리전스 전략을 선보인다고 3일 밝혔다. AI스페라는",
+      "language": "ko",
+      "summary": "AI스페라가 ‘RSAC 2ner’ 서 공격 표면 위협을 선보인다. 이로써 앱 공격 방식에 대한 이해와 공격 방식 및 이러한 공격에 대한 기술적 보안 약점을 잘못한 것인지와 달성자의 전반적인 목표를 포함해야 한다.",
+      "points": [
+        "AI스페라가 ‘RSAC 2ner’에서 공격 표면 위협을 통한 공격 방식을 선보인다.",
+        "이 공격 방식은 공격자가 사용한 AI 기반 소스로 부인한 공격으로 인해 일반적으로 참진공격으로 간주된다.",
+        "이러한 공격은 결국 공격자의 목표와 관꼞이하여 인정되지만, 공격자의 계좌 정보도 보증할 수 있다."
+      ],
+      "insight": "이러한 공격이 IT/기술 업체에서 일반적으로 자신의 창립 소스보안 전문가와 관련이 있어야 한다. 이러한 공격은 공격자의 참진공격 목표에 짧걸립함으로써 공격자의 소재질이나 직업에 대한 몇몇 포인트에 큰 영향을 미칠 수 있다."
+    },
+    {
+      "title": "휴먼인텍, 차세대 ‘비접촉 장정맥 인식’ 출입통제 솔루션 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=142430&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 09:46:00 +0900",
+      "description": "위·변조 불가능한 장정맥 패턴 정보로 보안성 극대화비접촉 편의성 확보로 공공·금융·데이터센터 공략0.3초 이내 초고속 인증 및 대규모 사용자 수용[보안뉴스 엄호식 기자] 생체인식 보안 솔루션 전문 기업 휴먼인텍(대표이사 변병주)이 오는 3월 18일부터 킨텍스에서 열리는 ‘세계보안엑스포(SECON) 2026’에 참가해 국내 기술로 개발한 차세대 장정맥 인식",
+      "language": "ko",
+      "summary": "휴먼인텍이 차세대 장정맥 인식코딩 솔루션 공개하여 IT/기술 보안 올바른 절차로 보호를 강화",
+      "points": [
+        "휴먼인텍이 이 생체인식 솔루션을 공개한다는 것",
+        "이 솔루션은 국내 기술로 개발되었다는 점",
+        "이 솔루션은 보안성을 극대화하고 사용자를 통제하여 보호를 강화한다"
+      ],
+      "insight": "이러한 솔루션은 IT/기술 업체에서 보안적용 방안을 제시하며 보안성을 강화하고자 한다."
+    },
+    {
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 03 Mar 2026 00:03:37 +0000",
+      "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "language": "en",
+      "summary": "After Microsoft's ChatGPT faced criticism for a Department of Defense contract, many users uninstalled the app, while Claude's usage increased.",
+      "points": [
+        "Microsoft's ChatGPT experienced a surge in uninstallations following its DoD deal.",
+        "Microsoft's ChatGPT uninstalls surged by 295% after the DoD deal was revealed.",
+        "Conversely, Claude saw an increase in downloads during the same period."
+      ],
+      "insight": "The ChatGPT news could impact Microsoft's reputation and user trust in AI technology, highlighting the need for transparency and ethical considerations in AI deployment."
+    },
+    {
+      "title": "Stripe wants to turn your AI costs into a profit center",
+      "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 02 Mar 2026 23:18:27 +0000",
+      "description": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees.",
+      "language": "en",
+      "summary": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees",
+      "points": [
+        "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a p...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "link": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 02 Mar 2026 23:01:57 +0000",
+      "description": "The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion).",
+      "language": "en",
+      "summary": "The IPO of PayPay, backed by SoftBank, has faced delays due to geopolitical issues, aiming for a valuation of $10 billion.",
+      "points": [
+        "PayPay's IPO delays due to geopolitical issues.",
+        "Targeted public valuation of $10 billion.",
+        "SoftBank's support for PayPay's IPO."
+      ],
+      "insight": "The delay in PayPay's IPO could impact investor confidence in Asian tech companies, highlighting the vulnerability of the tech industry to geopolitical risks."
+    },
+    {
+      "title": "[eGISEC 2026] 인스피언, BizInsider SIEM",
+      "link": "http://www.boannews.com/media/view.asp?idx=142230&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 08:00:00 +0900",
+      "description": "다양한 IT 시스템 통합 보안 관리(SIEM) 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 인스피언은 EAI, 보안 솔루션, EDI 분야를 아우르는 IT 통합 인프라 전문 기업이다.주요 솔루션으로 BizInsider SIEM과 xCon for SAP을 비롯해 로그 분석, 개인정보 보호, 접근 통제, 암호화 등 기업 보안 전",
+      "language": "ko",
+      "summary": "다양한 IT 시스템 통합 보안 관리(SIEM) 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 인스피언은 EAI, 보안 솔루션, EDI 분야를 아우르는 IT 통합 인프라 전문 기업이다. 주요 솔루션으로 BizInsider SIEM과 xCon for SAP을 비롯해 로그 분석, 개인정보 보호, 접근 통제, 암호화 등 기업 보안 전",
+      "points": [
+        "다양한 IT 시스템 통합 보안 관리(SIEM) 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 인스피언은 EAI, 보안 솔루션, EDI 분야를 아우르...",
+        "주요 솔루션으로 BizInsider SIEM과 xCon for SAP을 비롯해 로그 분석, 개인정보 보호, 접근 통제, 암호화 등 기업 보안 전",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 02 Mar 2026 22:59:10 +0000",
+      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+      "language": "en",
+      "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "[SECON 2026] 원캐스트, 관리형 통합배선반",
+      "link": "http://www.boannews.com/media/view.asp?idx=142218&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 07:59:00 +0900",
+      "description": "QR코드 기반의 배선 관리 및 네트워크 관리 기술 적용3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 원캐스트는 ‘네트워크 기반 방송 시스템’ 전문 기업으로, 방송 음향·재난 예경보·보안 안전·통합 배선·자동 계측의 원천 기술과 ICT 서비스 기술을 융합하는 제품 개발 체계를 구축하고 있다.주로 디지털 네트워크 전관방송시스템과 IP",
+      "language": "ko",
+      "summary": "QR코드 기반의 배선 관리 및 네트워크 관리 기술 적용3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 원캐스트는 ‘네트워크 기반 방송 시스템’ 전문 기업으로, 방송 음향·재난 예경보·보안 안전·통합 배선·자동 계측의 원천 기술과 ICT 서비스 기술을 융합하는 제품 개발 체계를 구축하고 있다. 주로 디지털 네트워크 전관방송시스템과 IP",
+      "points": [
+        "주로 디지털 네트워크 전관방송시스템과 IP",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[SECON 2026] 원우이엔지, ZOOM MODULES",
+      "link": "http://www.boannews.com/media/view.asp?idx=142217&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 3 Mar 2026 07:58:00 +0900",
+      "description": "색 번짐 현상 등을 개선한 자동 초점 줌 모듈3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 원우이엔지는 영상 솔루션 전문 기업으로, 실시간 영상신호처리 기술을 바탕으로 단순한 실내용 돔 카메라부터 극한의 환경에서 동작하는 방폭 카메라까지 다양한 카메라 제품군을 보유하고 있다.원우이엔지의 영상보안 제품은 주로 범죄 예방과 시설 관리",
+      "language": "ko",
+      "summary": "색 번짐 현상 등을 개선한 자동 초점 줌 모듈3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 원우이엔지는 영상 솔루션 전문 기업으로, 실시간 영상신호처리 기술을 바탕으로 단순한 실내용 돔 카메라부터 극한의 환경에서 동작하는 방폭 카메라까지 다양한 카메라 제품군을 보유하고 있다. 원우이엔지의 영상보안 제품은 주로 범죄 예방과 시설 관리",
+      "points": [
+        "원우이엔지의 영상보안 제품은 주로 범죄 예방과 시설 관리",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "A new app alerts you if someone nearby is wearing smart glasses",
+      "link": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 02 Mar 2026 22:40:00 +0000",
+      "description": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade people's privacy.",
+      "language": "en",
+      "summary": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade people's privacy",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Instagram tracked growing usage while targeting teens, lawyers argue",
+      "link": "https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 02 Mar 2026 22:23:48 +0000",
+      "description": "The company said usage grew from 40 minutes per day in 2023 to 46 minutes in 2026. Other documents referenced teens as being a top priority for the app before asking existing users for birthdays.",
+      "language": "en",
+      "summary": "Instagram reported a growth in daily usage from 40 minutes in 2023 to 46 minutes in 2026. Teens were considered a top priority for the app, which has raised concerns among lawyers.",
+      "points": [
+        "Instagram's daily usage per user grew from 40 to 46 minutes between 2023 and 2026.",
+        "The company prioritized teens for the app's focus.",
+        "Lawyers are concerned about the implications of Instagram's strategy on teens."
+      ],
+      "insight": "The increasing time teens spend on Instagram suggests the platform is effectively engaging this demographic, but it also raises questions about the potential impact on their well-being and development, as lawyers worry about the unaddressed implications of this strategy."
+    },
     {
       "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
       "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
@@ -495,261 +750,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 이스트시큐리티, 통합 보안 솔루션 알약",
-      "link": "http://www.boannews.com/media/view.asp?idx=142227&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:58:00 +0900",
-      "description": "자체 개발한 듀얼 엔진 구조 탑재3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 이스트시큐리티는 국내 대표 백신 ‘알약’의 보안 기술력과 노하우를 바탕으로 고도화된 지능형 보안 위협에도 대응할 수 있는 다양한 보안 제품과 솔루션을 제공하는 기업이다.알약은 수십만건의 실제 위협 데이터를 바탕으로 자체 개발한 듀얼 엔진 구조를 탑재해,",
-      "language": "ko",
-      "summary": "이스트시큐리티는 이스트시큐리아의 IT/기술 산업에서 보안 제품과 솔루션을 제공하여 인공지원약용체(IUAC)에서 국내 대표 백신 '알약'의 보안 기술력과 노하우를 바탕으로 다양한 보안 제품과 솔루션을 제공",
-      "points": [
-        "이스트시큐리아의 IT/기술 산업에서 고위급 IT/기술 보안 제품과 솔루션을 제공하는 기업이다.",
-        "인공지원약용체(IUAC)의 국내 대표 백신 '알약'를 바탕으로 자체 개발한 듀얼 엔진 구조를 탑재하고 IT/기술 보안에 대한 전문성과 잘못되지 않게 제어해주고, 이용자들에게 일반화된 보안 시스템을 생산",
-        "이스트시큐리아의 IT/기술 산업은 근대한 웹사이스 서비스 내에서 전문성과 분석 기술을 통해 자동화된 인안 기준을 구현하고, 국가보안에 중요한 IT/기술의 병산질서를 관리함으로썰진다."
-      ],
-      "insight": "이러한 모든 보호 솔루션과 제품은 IT/기술에 종사하는 여성인원의 수백명의 인구로, 서비스가 전용하고 일관유주인식이나 노하우를 바탕으로 개체적으로 지속할 수 0있는 고층인노해와, IT/기술의 전문성과 소재가 포인트이다."
-    },
-    {
-      "title": "[eGISEC 2026] 이글루코퍼레이션, SIEM 스파이더 이엑스디",
-      "link": "http://www.boannews.com/media/view.asp?idx=142226&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:56:00 +0900",
-      "description": "일원화된 ‘고급 탐지-분석-대응’ 기능을 구현하는 SIEM3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 이글루코퍼레이션은 국내 최초로 보안 정보 및 이벤트 관리(SIEM) 솔루션을 개발한 기업으로, 보안 운영/위협 대응 자동화(SOAR)·사이버물리시스템(CPS) 보안·클라우드 보안·보안관제·보안컨설팅 영역을 아우르는 다양한 보안",
-      "language": "ko",
-      "summary": "국내최초로 발표한 SIEM3월 18~2 end에서 개발한 기업의 매물리시스템은 보안 이론과 IT/기술 업계에서 영향을 미치고 있다.",
-      "points": [
-        "국내최초로 SIEM을 구현하여 보안 추가",
-        "솔루션은 SIA로 확장",
-        "다양한 기업에서의 소유와 관련이 있다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에 의존하여 보안 시스템이 전문 개밤을 가진 선도가 현재에서 영향을 미치고 있다는 사실을 강조한다."
-    },
-    {
-      "title": "[SECON 2026] 오큐솔루션, 클리닝 기술 내장 TOUGHEYE 1700",
-      "link": "http://www.boannews.com/media/view.asp?idx=142201&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:48:00 +0900",
-      "description": "고성능 카메라·자가 클리닝 장치가 일체형으로 통합된 모델3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 오큐솔루션은 스마트 센서와 특수 장비 전문업체로, 국방과 경찰·소방·산림청 등 정부 기관에서 운용하는 다양한 센서와 특수 보안 시스템에 최적의 솔루션을 제공하고 있다.주요 제품들은 국가 중요시설에 대한 감시 정찰 체계와 유무인 체",
-      "language": "ko",
-      "summary": "고성능 카메라·자가 클리닝 장치가 일체형으로 통합된 모델3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 오큐솔루션은 스마트 센서와 특수 장비 전문업체로, 국방과 경찰·소방·산림청 등 정부 기관에서 운용하는 다양한 센서와 특수 보안 시스템에 최적의 솔루션을 제공하고 있다. 주요 제품들은 국가 중요시설에 대한 감시 정찰 체계와 유무인 체",
-      "points": [
-        "주요 제품들은 국가 중요시설에 대한 감시 정찰 체계와 유무인 체",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 오즈레이, 열화상 카메라",
-      "link": "http://www.boannews.com/media/view.asp?idx=142200&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:45:00 +0900",
-      "description": "별도의 광원 없이 대상체의 온도를 기반으로 영상 획득3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 오즈레이(OZRAY)는 국내에서 적외선 카메라를 직접 개발·생산하는 전문 기업으로, 자체 연구개발 및 제조 역량을 바탕으로 SWIR 및 초분광·MWIR·LWIR(열화상) 전 파장대 제품을 공급하고 있다.이번 전시회에서는 국산화에 성공",
-      "language": "ko",
-      "summary": "별도의 광원 없이 대상체의 온도를 기반으로 영상 획득3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 오즈레이(OZRAY)는 국내에서 적외선 카메라를 직접 개발·생산하는 전문 기업으로, 자체 연구개발 및 제조 역량을 바탕으로 SWIR 및 초분광·MWIR·LWIR(열화상) 전 파장대 제품을 공급하고 있다. 이번 전시회에서는 국산화에 성공",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 오아이씨코리아, LED 비디오 월",
-      "link": "http://www.boannews.com/media/view.asp?idx=142199&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:42:00 +0900",
-      "description": "무한한 확장 안정적인 구성방식·다양한 영상 표출 가능한 디스플레이3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 오아이씨코리아(OIC Korea)는 비디오 월 및 CCTV 전용 LCD·LED 모니터, 고화질 방송용 모니터 등을 개발·제조하는 업체다.2002년 미국 판매를 시작으로 유럽 등 전 세계로 제품을 수출하고 있다. 또한 자사",
-      "language": "ko",
-      "summary": "무한한 확장 안정적인 구성방식·다양한 영상 표출 가능한 디스플레이3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 오아이씨코리아(OIC Korea)는 비디오 월 및 CCTV 전용 LCD·LED 모니터, 고화질 방송용 모니터 등을 개발·제조하는 업체다. 2002년 미국 판매를 시작으로 유럽 등 전 세계로 제품을 수출하고 있다",
-      "points": [
-        "2002년 미국 판매를 시작으로 유럽 등 전 세계로 제품을 수출하고 있다",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 윈스테크넷, AI 보안 솔루션 스나이퍼 에이아이백스",
-      "link": "http://www.boannews.com/media/view.asp?idx=142211&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:40:00 +0900",
-      "description": "개인식별정보(PII)와 기밀정보 실시간으로 감지하고 보호3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 윈스테크넷은 대표 브랜드인 ‘스나이퍼(SNIPER)’를 앞세워 고성능 보안 솔루션과 관제, 컨설팅, AI·클라우드 보안 등의 보안 토털 서비스를 제공하고 있다.스나이퍼 에이아이백스(SNIPER AIVAX)는 개인식별정보(PII)와",
-      "language": "ko",
-      "summary": "스나이퍼 에이아이백스는 개인식별정보(PII)와 기밀정보를 실시간으로 감지하고 보호하는 솔루션을 제공한다.",
-      "points": [
-        "- 개인식별정보(PII)와 기밀정보를 실시간으로 감지",
-        "- 고성재 보안 솔루션 제공",
-        "- AI·클라우드 보안 기능"
-      ],
-      "insight": "이러한 보안 서비스는 IT/기술 업계에서 개인정보를 강elyeong하게 유지함을 촉진시키고, 공제에서 소표롯되십니까."
-    },
-    {
-      "title": "[eGISEC 2026] 위즈코리아, IRM 위즈 블랙박스 시리즈",
-      "link": "http://www.boannews.com/media/view.asp?idx=142210&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:35:00 +0900",
-      "description": "기업정보처리시스템의 통합 보안 제공하는 IRM 솔루션3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 위즈코리아는 개인정보 접속기록 관리 분야의 새로운 패러다임을 제시하는 내부 정보 보호 전문 기업이다.내부 정보 보호 및 데이터 보안에 최적화된 토털 솔루션을 제공하며, 공공기관 및 민간 기업의 보안 컴플라이언스 준수를 선도하고 있다.",
-      "language": "ko",
-      "summary": "위즈코리아는 개인정보 접속기록 관리에 이득한 내부 정보 보호 제공 기술을 활용하여 IT/기술 업체에서 더욱 의사를 보장",
-      "points": [
-        "위즈코리아는 개인정보 접속기록 관리에서 이득한 내부 정보 보호 제공 기술을 활용하여 IT/기술 업체에서 더욱 의사를 보장",
-        "위즈코리아는 IRM 솔루션이며, 공공기관과 민간 기업에서 보안 컴플라이언스를 선도",
-        "보안 제공 기술은 IT/기술 업체가 최적화하도록 해준다."
-      ],
-      "insight": "위즈코리아는 내부정보보호에 직접 기여하고 IT/기술 업계에서의 전문성을 강조한다."
-    },
-    {
-      "title": "[eGISEC 2026] 위드네트웍스, 취약점 통합 관리 솔루션 withVTM",
-      "link": "http://www.boannews.com/media/view.asp?idx=142209&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:27:00 +0900",
-      "description": "자산 및 보안 취약점 통합 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 위드네트웍스는 보안 솔루션 개발 및 구축·운영 전문 기술력을 바탕으로, 고객사 환경에 맞춰 최적화된 보안 솔루션을 제공하는 통합 보안 플랫폼 전문기업이다.회사는 지난 2019년 방화벽 정책 관리 솔루션 ‘위드플로우(withFLOW) 1.0’을 출시한 이후",
-      "language": "ko",
-      "summary": "자산 및 보안 취약점 통합 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 위드네트웍스는 보안 솔루션 개발 및 구축·운영 전문 기술력을 바탕으로, 고객사 환경에 맞춰 최적화된 보안 솔루션을 제공하는 통합 보안 플랫폼 전문기업이다. 회사는 지난 2019년 방화벽 정책 관리 솔루션 ‘위드플로우(withFLOW) 1",
-      "points": [
-        "자산 및 보안 취약점 통합 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 위드네트웍스는 보안 솔루션 개발 및 구축·운영 전문 기술력을 바탕으로, 고객...",
-        "회사는 지난 2019년 방화벽 정책 관리 솔루션 ‘위드플로우(withFLOW) 1",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The trap Anthropic built for itself",
-      "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 01 Mar 2026 00:08:58 +0000",
-      "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-      "language": "en",
-      "summary": "Anthropic faces potential consequences for failing self-governance amidst technology industry peers.",
-      "points": [
-        "Google DeepMind and Anthropi faced the UK's Information Commissioner’ endorsement despite misconduct, suggesting a gap in accountability measures within AI firms.",
-        "Anthropic has experienced significant growth after being acquired by Microsoft but is now grappling with issues related to its workforce diversity and public image following internal investigations.",
-        "The article highlights that some companies may rely on legal endorsements rather than addressing underlying ethical concerns."
-      ],
-      "insight": "Anthropic's struggles indicate a pressing need for comprehensive self-governance policies and transparency within the AI industry to maintain public trust and mitigate risks of misconduct."
-    },
-    {
-      "title": "미국-이스라엘, 이란 대상 ‘사이버 공격’도 진행했나?",
-      "link": "http://www.boannews.com/media/view.asp?idx=142428&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 1 Mar 2026 09:08:00 +0900",
-      "description": "예루살렘 포스트 등 주요 외신들, 이란 통신망 및 주요 기반 시설 마비 알려 넷블록스 “이란 인터넷 연결 평소 4% 수준이며, 미국과 이스라엘 공격 이후 벌어진 일”[보안뉴스 원병철 기자] 미국과 이스라엘이 28일 아침, 이란의 수도 테헤란과 핵시설 등 이란 전역을 폭격한 가운데, 대규모 사이버 공격도 함께 진행한 것으로 보인다. 이스라엘 일간지 ‘예루살렘",
-      "language": "ko",
-      "summary": "예루살렘 포스트 등 주요 외신들, 이란 통신망 및 주요 기반 시설 마비 알려 넷블록스 “이란 인터넷 연결 평소 4% 수준이며, 미국과 이스라엘 공격 이후 벌어진 일”[보안뉴스 원병철 기자] 미국과 이스라엘이 28일 아침, 이란의 수도 테헤란과 핵시설 등 이란 전역을 폭격한 가운데, 대규모 사이버 공격도 함께 진행한 것으로 보인다. 이스라엘 일간지 ‘예루살렘",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
-      "link": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 22:07:48 +0000",
-      "description": "Netflix's co-CEO reportedly told Trump, \"I took your advice.\"",
-      "language": "en",
-      "summary": "After initially agreeing to acquire Warner Bros., Netflix reversed its decision due to various factors including the cost and timing of completion.",
-      "points": [
-        "Netflix canceled plans for a $100 billion merger with WarnerMedia, citing disagreements on several fronts",
-        "Craig Hammill'nerfelt told President Trump that he took his advice to 'go big or go home', but Netflix decided not to merge due to the deal being too costly and taking a long time to complete",
-        "Netflix is now focusing on content creation without an acquisition, aiming for its own high-quality original productions"
-      ],
-      "insight": "The backtrack by Netflix highlights challenges in large IT/technology industry consolidations and the importance of timing and cost management."
-    },
-    {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "link": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 21:28:06 +0000",
-      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-      "language": "en",
-      "summary": "The article discusses the proposed sale of Warner Bros. Discovery by AT&T for approximately $111 billion and its potential implications on Paramount' end deal with ViacomCBS.",
-      "points": [
-        "Warner Bros. Discovery is set to be sold, marking a historic megadeal in Hollywood worth around $111 billion as AT&T seeks buyers for the assets of Time Warner and Turner Broadcasting System.",
-        "The deal could affect Paramount's pending acquisition with ViacomCBS due to possible conflicts between competitors controlling vast entertainment content, technology services, or programming areas.",
-        "This landmark transaction is significant as it represents one of the largest non-financial deals in history and involves leading media companies."
-      ],
-      "insight": "The sale could redefine industry dynamics by consolidating key players within a single corporation, potentially impacting competition for content creation, distribution rights, and streaming services while posing regulatory scrutiny due to its size."
-    },
-    {
-      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-      "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 21:05:06 +0000",
-      "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-      "language": "en",
-      "summary": "Following a dispute over copyright fees between Anthropic and the Pentagon concerning Claude's use in training AI models, Claude has climbed to number two on Apple App Store download charts.",
-      "points": [
-        "Anthropic’s chatbot 'Claude' becomes second most downloaded app after Microsoft Flight Simulator post-dispute with Pentagon over copyright fees.",
-        "'We were never asked or expected to pay any royalty, and our work has been used in multiple projects,' says Anthropic founder Dario Giuliani.",
-        "Anthropic's disagreement with the US Army about Claude’s use led them into a dispute over potential copyright fees for its training data."
-      ],
-      "insight": "The controversy around Claude and its negotiations with Pentagon highlight how AI development increasingly intersects with government interests, potentially affecting future access to public datasets used in machine learning research."
-    },
-    {
-      "title": "The billion-dollar infrastructure deals powering the AI boom",
-      "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 20:41:55 +0000",
-      "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-      "language": "en",
-      "summary": "The article discusses significant investments in AI infrastructure by tech giants like Meta, Oracle, Microsoft, Google, and OpenAI.",
-      "points": [
-        "Meta is heavily funding the construction of new data centers as part of its push for advancing large language models (LLMs).",
-        "Oracle has announced a partnership with TSMC to produce AI accelerators using NAND flash memory technology.",
-        "Microsoft invested $4 billion into Azure'in infrastructure, doubling down on cloud and data center expansion."
-      ],
-      "insight": "The massive spending by these tech companies signifies the critical importance of robust computing resources in scaling AI technologies effectively. The investments are expected to result in substantial innovation boosts within their respective sectors, leading towards a more sophisticated and capable generation of artificial intelligence."
-    },
-    {
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-      "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 16:17:36 +0000",
-      "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "language": "en",
-      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic",
-      "points": [
-        "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that be...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
-      "link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 15:09:03 +0000",
-      "description": "We round up everything Xiaomi announced at its Mobile World Congress event.",
-      "language": "en",
-      "summary": "Xiaomi unveiled a new Ultra smartphone series called the Mi 17, which is designed to be an AirTag clone with ultra-slim features and integrated foldable glass technology.",
-      "points": [
-        "- Xiaomi announced its latest line of Ultra phones at MWC event: the 'Mi 17'.",
-        "- The Mi 17 is a smartphone incorporating an AirTag-like tracker for asset management, along with foldable glass technology.",
-        "- It'these features include integrated charging capabilities and miniaturized sensors to track items without the need of physical tags."
-      ],
-      "insight": "The launch of Xiaomi Mi 17 demonstrates a strong trend towards integrating asset tracking technologies directly into smartphones, which could influence similar developments in competing brands and lead to broader adoption across industries reliant on equipment management."
-    },
-    {
-      "title": "Why China’s humanoid robot industry is winning the early market",
-      "link": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Feb 2026 15:00:00 +0000",
-      "description": "China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a still-nascent market.",
-      "language": "en",
-      "summary": "China's humanoid robot industry is advancing rapidly due to domestic companies outpacing their US counterparts by shipping more units and innovating quicker in an early market.",
-      "points": [
-        "Domestic Chinese firms are leading the production of humanoid robots with faster iteration cycles compared to U.S. competitors.",
-        "The burgeoning domestic market within China is driving demand for these robotics, despite it being a nascent industry globally.",
-        "China's governmental support and investment in technology are propelling its humanoid robot sector forward."
-      ],
-      "insight": "This early momentum suggests that if current trends continue, China could become the dominant player in next-generation human-like robots. It may also indicate a shift in technological innovation centers of gravity within fields such as artificial intelligence and robotics."
     }
   ]
 }
