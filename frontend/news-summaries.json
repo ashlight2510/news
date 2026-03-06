@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-03-06T13:18:38.171Z",
+  "generatedAt": "2026-03-06T18:59:42.164Z",
   "articles": [
+    {
+      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 18:09:11 +0000",
+      "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
+      "language": "en",
+      "summary": "Anthropic's failed Pentagon contract due to disagreements over AI control has led to the Pentagon pursuing OpenAI instead, resulting in a significant increase in ChatGPT usage as a replacement. The incident highlights the potential risks for startups when dealing with sensitive federal contracts.",
+      "points": [
+        "Anthropic was designated a Pentagon supply-chain risk after failing to agree on AI model control.",
+        "The Pentagon awarded OpenAI Anthropic's contract, leading to a ChatGPT surge.",
+        "Disagreements over AI control highlight risks for startups in federal contracts."
+      ],
+      "insight": "The Anthropic case serves as a cautionary tale about the importance of clear agreements on AI governance and control when entering federal contracts, which can impact both the startup's future and broader industry perceptions."
+    },
+    {
+      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 17:56:07 +0000",
+      "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+      "language": "en",
+      "summary": "Claude, an AI-driven app, is experiencing significant growth in new installs and daily active users despite a setback in a Pentagon deal. The app continues to gain traction, with more daily active users than ChatGPT and nearly twice the daily new installs.",
+      "points": [
+        "Claude, an AI-driven app, continues to see growth in new installs and daily active users despite a Pentagon deal debacle.",
+        "Claude now has more daily active users than ChatGPT and nearly twice the daily new installs.",
+        "The surge in Claude's growth demonstrates its potential in the AI app market, even after a controversial deal."
+      ],
+      "insight": "Claude's resilience in the face of a controversial Pentagon deal highlights its strong market position and potential to shape the future of AI-driven apps."
+    },
+    {
+      "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
+      "link": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 17:51:49 +0000",
+      "description": "Pandemic-driven lockdowns exposed many people in India to PCs for the first time, expanding the country's PC userbase and creating demand for upgrades as those devices age.",
+      "language": "en",
+      "summary": "India has experienced a significant increase in PC shipments, surpassing the pandemic peak. The lockdowns during the pandemic led to many first-time users who are now upgrading their devices.",
+      "points": [
+        "The COVID-19 pandemic and associated lockdowns have led to a surge in PC shipments in India, as more people have been introduced to personal computers.",
+        "The increase in PC shipments has been driven by a mix of new and upgrading users, many of whom had previously not owned or used a PC.",
+        "The trend towards upgrading PCs suggests a growing maturity of the PC market in India, with demand for better and more capable devices."
+      ],
+      "insight": "The rise in PC shipments in India post-pandemic reflects a broader digital transformation, with new users becoming tech-savvy and demanding better devices, which could potentially stimulate the local IT/technology industry."
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 16:00:56 +0000",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "language": "en",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
+      "link": "https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 14:28:31 +0000",
+      "description": "Health tech giant TriZetto has confirmed that more than 3.4 million people had personal and health information stolen in a 2024 cyberattack, which the company failed to detect for almost a year.",
+      "language": "en",
+      "summary": "TriZetto, a health tech company, experienced a significant data breach in 2curent. Over 3.4 million individuals' personal and health data were compromised. The breach, undetected for almost a year, was not discovered until a whistleblower revealed the extent of the damage.",
+      "points": [
+        "Over 3.4 million individuals had personal and health data stolen in a 2024 cyberattack.",
+        "The breach went undetected for almost a year.",
+        "The extent of the damage was revealed by a whistleblower."
+      ],
+      "insight": "This data breach underscores the importance of robust cybersecurity measures and quick detection systems within the IT/technology industry to prevent and mitigate the impact of such attacks on sensitive personal and health information."
+    },
+    {
+      "title": "Indonesia outlines plan to limit under-16s’ access to social media",
+      "link": "https://techcrunch.com/2026/03/06/indonesia-outlines-plan-to-limit-under-16s-access-to-social-media/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 14:18:16 +0000",
+      "description": "Indonesia has outlined new regulations that would restrict users under 16 from accessing digital platforms.",
+      "language": "en",
+      "summary": "Indonesia plans to restrict users under the age of 1 end from accessing digital platforms, including social media, as part of new regulations.",
+      "points": [
+        "Indonesia's new regulations will restrict access to digital platforms for users under 16.",
+        "The restriction is aimed at protecting children from inappropriate content and ensneration.",
+        "The plan includes potential penalties for non-compliance."
+      ],
+      "insight": "Indonesia's initiative to limit social media access for under-16s highlights the growing global concern for child online safety and the efforts to create a safer digital environment for young users."
+    },
+    {
+      "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+      "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 14:00:00 +0000",
+      "description": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+      "language": "en",
+      "summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami",
+      "points": [
+        "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Quantum scale-up Pasqal plans $2B SPAC listing, promises to ‘remain French’",
+      "link": "https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 13:44:18 +0000",
+      "description": "A SPAC deal that is set to take French quantum company Pasqal public on the Nasdaq values the company at $2 billion pre-money.",
+      "language": "en",
+      "summary": "A SPAC deal that is set to take French quantum company Pasqal public on the Nasdaq values the company at $2 billion pre-money",
+      "points": [
+        "A SPAC deal that is set to take French quantum company Pasqal public on the Nasdaq values the compan...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "India’s Karnataka signals intent to ban social media for under-16s",
+      "link": "https://techcrunch.com/2026/03/06/indias-karnataka-signals-intent-to-ban-social-media-for-under-16s/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 13:35:57 +0000",
+      "description": "Karnataka's proposal highlights a growing global debate over children’s rights and online policy.",
+      "language": "en",
+      "summary": "Karnataka, India, is considering a proposal to ban social media for users under the age of 16 as part of a broader discussion on children's rights and online policy.",
+      "points": [
+        "Karnataka, India, has proposed a ban on social media for users under 16 years old.",
+        "The move is part of a wider global debate on children's rights and online safety.",
+        "The state's government plans to draft new regulations in response to growing concerns about the impact of social media on young minds."
+      ],
+      "insight": "The proposed ban in Karnataka could influence similar policies worldwide, signifying a shift towards prioritizing children's online safety and wellbeing."
+    },
+    {
+      "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+      "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Mar 2026 13:20:43 +0000",
+      "description": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
+      "language": "en",
+      "summary": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "“서른해 자부심으로 백년 지평 연다”...한국정보공학기술사회 30주년 도약 선언",
       "link": "http://www.boannews.com/media/view.asp?idx=142507&kind=&sub_kind=",
@@ -600,156 +750,6 @@
         "GPT-5.4 represents the culmination of continuous AI advancements and sets a new standard for professional AI tools."
       ],
       "insight": "The release of GPT-5.4 with its Thinking variant is indicative of the increasing sophistication of AI tools in understanding and interacting with complex professional environments, potentially transforming how industries leverage AI for efficiency and innovation."
-    },
-    {
-      "title": "Cursor is rolling out a new kind of agentic coding tool",
-      "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 17:00:00 +0000",
-      "description": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
-      "language": "en",
-      "summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
-      "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 16:50:20 +0000",
-      "description": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
-      "language": "en",
-      "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses",
-      "points": [
-        "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage",
-        "But an investigation found that subcontractors are reviewing footage from customers' glasses",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
-      "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 16:45:51 +0000",
-      "description": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
-      "language": "en",
-      "summary": "Anthropic CEO Dario Amodei is attempting to secure a deal with the Pentagon for an AI project, but conflicts regarding military access to the AI caused a previous $200 million contract to fail.",
-      "points": [
-        "Anthropic' end-of-contract issues with the Pentagon.",
-        "Disagreements over Anthropic AI access.",
-        "The company aims to finalize the deal by June."
-      ],
-      "insight": "This news indicates the challenges in balancing AI's ethical use with military interests, and Anthropic's potential to secure significant government contracts could influence AI development strategies in the industry."
-    },
-    {
-      "title": "Oura acquires Doublepoint, a startup that specializes in gesture recognition technology",
-      "link": "https://techcrunch.com/2026/03/05/oura-acquires-doublepoint-a-startup-that-specializes-in-gesture-recognition-technology/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 16:41:50 +0000",
-      "description": "The company believes its next phase of wearable AI will be powered by a combination of voice and gesture.",
-      "language": "en",
-      "summary": "Oura has acquired Doublepoint, a startup specializing in gesture recognition technology, to enhance its wearable AI capabilities with voice and gesture interaction.",
-      "points": [
-        "Oura has acquired gesture recognition technology startup Doublepoint.",
-        "The deal is expected to advance Oura'ner's wearable AI towards voice and gesture interaction.",
-        "This acquisition aligns with the growing demand for multimodal AI interfaces in wearables."
-      ],
-      "insight": "This acquisition by Oura signifies the increasing importance of gesture recognition in wearable devices, potentially setting a new standard in the wearable industry for a more natural user interface."
-    },
-    {
-      "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
-      "link": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 16:19:57 +0000",
-      "description": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
-      "language": "en",
-      "summary": "Netflix has acquired AI filmmaking company InterPositive, which specializes in creating a model to assist production teams with editing footage from their own productions post-production. InterPositive does not create AI actors but instead aids in the editing process.",
-      "points": [
-        "Netflix's acquisition of InterPositive, an AI filmmaking company.",
-        "InterPositive's AI model assists in editing footage from Netflix productions.",
-        "InterPositive focuses on post-production, not creating AI actors or synthetic performances."
-      ],
-      "insight": "Netflix's acquisition of InterPositive demonstrates the industry's increasing reliance on AI for post-production efficiency, potentially revolutionizing the way films and series are edited."
-    },
-    {
-      "title": "Match Group COO out, as dating apps struggle to connect with Gen Z",
-      "link": "https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 15:36:14 +0000",
-      "description": "Match Group eliminates the COO role as CEO Spencer Rascoff has been managing operations.",
-      "language": "en",
-      "summary": "Match Group eliminates the COO role as CEO Spencer Rascoff has been managing operations",
-      "points": [
-        "Match Group eliminates the COO role as CEO Spencer Rascoff has been managing operations",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Zeno raises $25M to speed up production of its battery-swap motorbikes",
-      "link": "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 15:02:23 +0000",
-      "description": "The startup, co-founded by Tesla and Apple alumni, has sold nearly 1,000 of its motorbikes so far.",
-      "language": "en",
-      "summary": "Zeno, a startup co-founded by Tesla and Apple alumni, has recently secured $25 million in funding to accelerate the production of its innovative battery-swap motorbikes. The company has already sold nearly 1,000 bikes, and this latest funding will enable it to expand its operations.",
-      "points": [
-        "Zeno, a startup founded by Tesla and Apple alumni, has raised $25 million to speed up battery-swap motorbike production.",
-        "The company has sold nearly 1,000 of its motorbikes so far.",
-        "The funding will help Zeno expand its production and sales."
-      ],
-      "insight": "This news highlights the growing interest in sustainable transportation solutions within the IT/technology industry, as evidenced by Zeno's recent funding and sales successes. The expansion of battery-swap motorbikes could significantly impact the future of eco-friendly commuting."
-    },
-    {
-      "title": "Meta will allow rival AI chatbots on WhatsApp in Europe, but for a fee",
-      "link": "https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 14:24:44 +0000",
-      "description": "Meta will allow rival AI chatbot providers to offer their services on WhatsApp for a fee, which ranges from €0.0490 to €0.1323 per \"non-template message,\" depending on the country.",
-      "language": "en",
-      "summary": "Meta has decided to allow rival AI chatbot providers to offer their services on WhatsApp for a fee, varying from €0.0490 to €0.1323 per message in different European countries.",
-      "points": [
-        "Meta will charge AI chatbot providers to use WhatsApp's messaging platform.",
-        "The fee for using WhatsApp is set to vary between €0.0490 and €0.1323 per message.",
-        "This fee structure is based on the country within Europe."
-      ],
-      "insight": "Meta's decision to charge fees to rival AI chatbot providers on WhatsApp could create a new revenue stream for the company while also possibly raising concerns about competition and user experience."
-    },
-    {
-      "title": "Science Corp. raises $230M as it races to bring its brain implant to market",
-      "link": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 14:00:00 +0000",
-      "description": "A source close to the company says the round assigns Science a post-money valuation of $1.25 billion.",
-      "language": "en",
-      "summary": "A source close to the company says the round assigns Science a post-money valuation of $1",
-      "points": [
-        "A source close to the company says the round assigns Science a post-money valuation of $1",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
-      "link": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 13:15:00 +0000",
-      "description": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada.",
-      "language": "en",
-      "summary": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
