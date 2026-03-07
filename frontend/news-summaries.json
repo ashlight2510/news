@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-07T02:13:22.080Z",
+  "generatedAt": "2026-03-07T06:42:20.853Z",
   "articles": [
+    {
+      "title": "美 “FBI 전산망 해킹 배후는 중국”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142509&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 7 Mar 2026 12:52:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 미국이 연방수사국(FBI) 전산망 해킹 배후로 중국을 지목했다.6일(현지시간) 월스트리트저널 등 외신은 최근 발생한 FBI 전산망 침입 사건과 관련해 미국 당국이 이 같은 예비 결론을 내리고 지난달 수사에 착수했다고 보도했다.보도에 따르면 중국과 연계된 것으로 추정되는 해커들은 범죄 용의자와 감시 대상자의 영장 정보가 저장된 FBI",
+      "language": "ko",
+      "summary": "[보안뉴스 강현주 기자] 미국이 연방수사국(FBI) 전산망 해킹 배후로 중국을 지목했다. 6일(현지시간) 월스트리트저널 등 외신은 최근 발생한 FBI 전산망 침입 사건과 관련해 미국 당국이 이 같은 예비 결론을 내리고 지난달 수사에 착수했다고 보도했다...",
+      "points": [
+        "[보안뉴스 강현주 기자] 미국이 연방수사국(FBI) 전산망 해킹 배후로 중국을 지목했다",
+        "6일(현지시간) 월스트리트저널 등 외신은 최근 발생한 FBI 전산망 침입 사건과 관련해 미국 당국이 이 같은 예비 결론을 내리고 지난달 수사에 착수했다고 보도했다",
+        "보도에 따르면 중국과 연계된 것으로 추정되는 해커들은 범죄 용의자와 감시 대상자의 영장 정보가 저장된 FBI"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Robinhood’s startup fund stumbles in NYSE debut",
+      "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 07 Mar 2026 02:04:43 +0000",
+      "description": "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and Stripe, with plans to expand its portfolio.",
+      "language": "en",
+      "summary": "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and Stripe, with plans to expand its portfolio",
+      "points": [
+        "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and S...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "“북한, 국가 예산 절반 사이버 범죄로 조달”",
       "link": "http://www.boannews.com/media/view.asp?idx=142508&kind=&sub_kind=",
@@ -720,36 +750,6 @@
         "The updated app brings a redesigned user interface and improved functionality."
       ],
       "insight": "This enhancement in the Fire TV app by Amazon signifies a step towards more integrated entertainment experiences, where devices and services converge, simplifying user interactions and providing more flexibility in consuming media content."
-    },
-    {
-      "title": "BYD rolls out EV batteries with 5-minute ‘flash charging’ — but there’s a catch",
-      "link": "https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 20:34:37 +0000",
-      "description": "The Chinese automaker's new Blade Battery 2.0 is capable of charging at up to 1.5 megawatts, dramatically slashing the time it takes to fill up.",
-      "language": "en",
-      "summary": "BYD has unveiled its new Blade Battery 2.0 for electric vehicles, which can charge at up to 1.5 megawatts, potentially reducing charging time to as little as five minutes. However, this technology comes with significant cost implications and infrastructure requirements.",
-      "points": [
-        "BYD introduces Blade Battery 2.0 with a 5-minute charging capability.",
-        "The new battery can charge at up to 1.5 megawatts, a substantial improvement over current standards.",
-        "Despite its efficiency, the technology has a substantial cost and infrastructure burden."
-      ],
-      "insight": "The development of faster EV charging technology like BYD's Blade Battery 2.0 is a positive step for the industry, but it highlights the need for substantial infrastructure investments and cost considerations."
-    },
-    {
-      "title": "Italian prosecutors confirm journalist was hacked with Paragon spyware",
-      "link": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 05 Mar 2026 20:32:57 +0000",
-      "description": "Italian authorities are making progress in their investigation into a wide-ranging spyware scandal in Italy involving Paragon spyware. But the mystery of who hacked two Italian journalists with Paragon spyware continues.",
-      "language": "en",
-      "summary": "Italian journalists were hacked with Paragon spyware, yet the identity of the hackers remains unknown. Authorities are investigating but progress is slow.",
-      "points": [
-        "Italian journalists hacked with Paragon spyware.",
-        "Authorities investigating the hack, slow progress.",
-        "Identity of hackers unknown."
-      ],
-      "insight": "This spyware scandal highlights the increasing sophistication of cyber threats and the need for robust digital security measures in journalism."
     }
   ]
 }
