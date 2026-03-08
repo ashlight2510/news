@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-08T12:52:52.615Z",
+  "generatedAt": "2026-03-08T18:43:01.065Z",
   "articles": [
+    {
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 08 Mar 2026 16:30:00 +0000",
+      "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+      "language": "en",
+      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields",
+      "points": [
+        "AI data center developers are increasingly relying on a style of camp popularized as housing for men...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s R2 gambit",
+      "link": "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 08 Mar 2026 16:03:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "language": "en",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation",
+      "points": [
+        "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "[SECON 2026] 티피링크, 산업 현장 최적 CCTV 솔루션 VIGI CCTV 카메라",
       "link": "http://www.boannews.com/media/view.asp?idx=142283&kind=&sub_kind=",
@@ -720,36 +750,6 @@
         "워크숍의 주목사작은 개인정보책임에 대한 정신적인 지침이다."
       ],
       "insight": "이 기사는 IT/기술 업계에서 개인정보보호 정책의 업데이트와 강화를 중요하게 강사하며, 이를 위해 2026년으로부터 AI 시대에 따라 인공지능이 개인정보에 대한 접근성을 강화한다고 주장한다."
-    },
-    {
-      "title": "ExpressJS 생태계 강타한 ‘multer’ 취약점... 서버 자원 고갈 DoS 주의보",
-      "link": "http://www.boannews.com/media/view.asp?idx=142499&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 6 Mar 2026 15:56:00 +0900",
-      "description": "Node.js 미들웨어 ‘multer’에서 CVSS 8.7 고위험도 취약점(CVE-2026-3304) 발견대규모 네트워크 트래픽 없이 소량의 악성 요청만으로도 시스템 마비크리밋 김태범 리드 “보안 패치 주기 앞당기는 예방적 보안 전략 필요해”[보안뉴스 조재호 기자] Node.js 웹 프레임워크인 엑스프레스JS(ExpressJS) 생태계에서 널리 사용되는 파",
-      "language": "ko",
-      "summary": "js 미들웨어 ‘multer’에서 CVSS 8. 7 고위험도 취약점(CVE-2026-3304) 발견대규모 네트워크 트래픽 없이 소량의 악성 요청만으로도 시스템 마비크리밋 김태범 리드 “보안 패치 주기 앞당기는 예방적 보안 전략 필요해”[보안뉴스 조재호 기자] Node...",
-      "points": [
-        "js 미들웨어 ‘multer’에서 CVSS 8",
-        "7 고위험도 취약점(CVE-2026-3304) 발견대규모 네트워크 트래픽 없이 소량의 악성 요청만으로도 시스템 마비크리밋 김태범 리드 “보안 패치 주기 앞당기는 예방적 보안 전략 ...",
-        "js 웹 프레임워크인 엑스프레스JS(ExpressJS) 생태계에서 널리 사용되는 파"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "슈프리마, 서울지하철 ‘러너지원공간’에 무인 운영 출입인증 인프라 구축",
-      "link": "http://www.boannews.com/media/view.asp?idx=142495&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 6 Mar 2026 14:32:00 +0900",
-      "description": "클라우드 기반 출입인증 서비스 클루(CLUe) 공급5호선 광화문역, 4호선 회현역, 6호선 월드컵경기장역 역사 내에 조성안전하고 편리한 공공 생활 체육 공간 운영 지원[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)는 서울시와 서울교통공사가 조성한 지하철역 ‘러너지원공간’(Runner’s Base)에",
-      "language": "ko",
-      "summary": "서울지하철 ‘러너지원공간’에서 무인 출입 관리를 위한 클러스 인프라 구축임",
-      "points": [
-        "서울지하철은 출입 관리를 위해 클러스 인프라를 구축하고 있다.",
-        "인프라는 광고된 데이터와 직접적으로 다니면서 공급5호선, 4호선 회현역, 6호선 월드컵경기장역에서 추가되었다.",
-        "이를 위해 통합 보안 및 출입통제 솔루션을 통해 AI 기반으로 이전에는 충전을 위한 방식으로 개발한다."
-      ],
-      "insight": "슈프리마는 AI를 이용한 추가적인 보안을 강화하고, 자연어 인식과 통합으로 인증 과정을 쉽게하기 위해 개발한 솔루션이다."
     }
   ]
 }
