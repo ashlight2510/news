@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-03-10T07:16:17.042Z",
+  "generatedAt": "2026-03-10T13:15:12.699Z",
   "articles": [
+    {
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Mar 2026 12:40:37 +0000",
+      "description": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+      "language": "en",
+      "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer",
+      "points": [
+        "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "AI network startup Eridu emerges from stealth with hefty $200M Series A",
+      "link": "https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Mar 2026 12:00:00 +0000",
+      "description": "Unlike a vibe-coded product built by a college dropout, Eridu's co-founder, Drew Perkins, has been inventing networking tech since the dawn of the internet.",
+      "language": "en",
+      "summary": "AI startup Eridu announces a $200M Series A funding round, emerging from stealth mode. Drew Perkins, a networking tech pioneer, founded the company with a vision to revolutionize network efficiency and security.",
+      "points": [
+        "Eridu, a stealth AI networking startup, has secured a $200 million Series A funding round.",
+        "The company' extricates itself from stealth mode after nearly a decade of development.",
+        "Drew Perkins, founder of Eridu, brings a background of over 20 years in networking technology."
+      ],
+      "insight": "Eridu's substantial Series A funding and expertise suggest a strong potential for innovation in network efficiency and security, which could shape the future of IT infrastructure."
+    },
+    {
+      "title": "Whoop launches a new blood test focused on women’s health",
+      "link": "https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Mar 2026 10:00:00 +0000",
+      "description": "The wearable maker is launching a new panel focused on women's health through its Whoop Labs blood testing service. It's also adding a new feature to its app that surfaces information about hormonal changes during menstrual cycles.",
+      "language": "en",
+      "summary": "Whoop, a wearable technology company, introduces a new blood test service called Whoop Labs, which focuses on women'selfs health by monitoring hormonal changes during menstrual cycles. They have also developed a new feature in their app to display this information.",
+      "points": [
+        "Whoop introduces a new blood test service called Whoop Labs focused on women's health.",
+        "The new service monitors hormonal changes during menstrual cycles.",
+        "Whoop also adds a new feature in its app to surface information about hormonal changes."
+      ],
+      "insight": "The launch of Whoop Labs and the new feature in its app show the growing trend of integrating women's health into wearable technology, potentially revolutionizing how women monitor their health and wellness."
+    },
+    {
+      "title": "북한 해킹조직, 위장 취업 공격 고도화... 내부망 침투 후 악성코드 유포",
+      "link": "http://www.boannews.com/media/view.asp?idx=142553&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Mar 2026 17:36:00 +0900",
+      "description": "북한 해킹조직, 에이전틱 AI 위장 취업 공격... LLM 기반 가짜 이력서 생성내부망 침투 및 가짜 기업 사이트 구축[보안뉴스 김형근 기자] 북한 연계 해킹 조직이 인공지능(AI)을 활용해 위장 취업 사기의 규모와 정밀도를 크게 높이는 정황이 발견됐다. 마이크로소프트(MS) 위협 정보팀은 이와 같은 사실을 공개하고 관련 기업 및 기관의 대응을 촉구했다.재",
+      "language": "ko",
+      "summary": "북한 해킹조직이 위장 취업에 활용한 LLM 기반의 가짜 이력서 생성, 내부망 침투, 악성코드 유포",
+      "points": [
+        "북한 해킹조직이 AI를 활용해 LLM 기반 가짜 이력서 얻기",
+        "내부망 침투 활성화",
+        "악성코드 유포"
+      ],
+      "insight": "해킹조직이가 AI를 이용한 위장 취업 공격으로 인공지능과 관련된 위반으로 인한 규모와 정밀도의 발생이 북한 및 이웃 국가에서 인정받는데, 이로써 인공지능의 공격으로 인해 정보보안에 질처불려진 상황이다."
+    },
+    {
+      "title": "오픈소스 악용해 아시아 인프라 공격... 깊어지는 中 사이버 첩보 위협",
+      "link": "http://www.boannews.com/media/view.asp?idx=142545&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Mar 2026 17:27:00 +0900",
+      "description": "Unit 42, CL-UNK-1068 조직의 다단계 침투 전술 폭로탐지 피하기 위해 교묘하게 조작된 윈라 및 스크립트 동원[보안뉴스 김형근 기자] 중국 해킹 조직 ‘CL-UNK-1068’이 동아시아와 동남아시아의 항공, 에너지, 정부 등 핵심 인프라를 대상으로 사이버 첩보 활동을 벌인 정황이 확인됐다. 이들은 윈도우와 리눅스 환경을 넘나들며 각종 해킹 도구",
+      "language": "ko",
+      "summary": "Unit 42, CL-UNK-1068 조직의 다단계 침투 전술 폭로탐지 피하기 위해 교묘하게 조작된 윈라 및 스크립트 동원[보안뉴스 김형근 기자] 중국 해킹 조직 ‘CL-UNK-1068’이 동아시아와 동남아시아의 항공, 에너지, 정부 등 핵심 인프라를 대상으로 사이버 첩보 활동을 벌인 정황이 확인됐다. 이들은 윈도우와 리눅스 환경을 넘나들며 각종 해킹 도구",
+      "points": [
+        "이들은 윈도우와 리눅스 환경을 넘나들며 각종 해킹 도구",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "서울시, CCTV 설치 등 공공시설 최적의 입지 찾아준다 “데이터 기반 행정 확대”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142557&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Mar 2026 17:24:00 +0900",
+      "description": "CCTV·전기차충전소 등 5종 50m 격자 기반 자동 분석1개월 걸리던 분석, 1시간으로 단축... 누적 12억원 절감 효과서울형 표준분석모델, 자치구 공동 활용 체계 확산[보안뉴스 강초희 기자] 서울시(시장 오세훈)가 공공시설 설치 위치를 자동으로 추천하는 데이터 기반 분석체계를 본격 가동한다. 이제 CCTV, 전기차 충전소, 스마트쉼터, 키즈카페, 가로",
+      "language": "ko",
+      "summary": "서울시는 CCTV 설치 위치를 자동으로 추천하는 데이터 기반 분석체계를 시작한다.",
+      "points": [
+        "서울시는 공공시설 설치 위치를 자동으로 추천하는 데이터 기반 분석체계를 시작한다.",
+        "이러한 시스템은 CCTV, 전기차 충전소, 스마트쉰터, 키즈카페, 가로구로 각각의 시스템으로 5종 50m 격자 기반 자동 분석을 1시간으로 단축하고 최적의 입지를 찾아낸다.",
+        "이로써 12억원의 절감 효과를 가증함"
+      ],
+      "insight": "이 뉴스는 IT/기술 업계에서 공공시설 설치 위치 추천에 대한 더욱더 효율적인 방법의 소유보다 더욱 더 점점 분석이 되고 있는 것을 나타낸다."
+    },
+    {
+      "title": "서울 9호선, 전 객실 CCTV 통합관리 체계로 ‘실시간 모니터링’ 가능해진다",
+      "link": "http://www.boannews.com/media/view.asp?idx=142558&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Mar 2026 17:21:00 +0900",
+      "description": "2026년 5월까지 전 편성 확대 예정... 신속 대응 기반 마련[보안뉴스 강초희 기자] 서울시메트로9호선(대표이사 박성주)은 3월 6일 전동차 객실 상황을 종합관제센터에서 실시간으로 확인할 수 있는 ‘전동차 객실 내 영상 표출 시스템 구축 사업’ 계약을 체결했다고 9일 밝혔다.이번 사업은 전동차 전 객실 상황을 종합관제센터에서 실시간으로 모니터링하는 통합",
+      "language": "ko",
+      "summary": "서울 9호선은 실시간 모니터링 기능을 확인할 수 00으로써 3월 6일에 계약을 체결할 것으로 전제된다.",
+      "points": [
+        "서울시 9호선이 전동차 객실 내 영상 표출 시스템을 구축하는 통합으로 계약을 체결한다.",
+        "계약에 의해 실시간 모니터링이 가능해질 것이다.",
+        "종합관제센터에서 이 실시간 모니터링 기능을 확인할 수 있는 환자를 구축한다."
+      ],
+      "insight": "이 기사는 서울시 9호선이 새로운 실시간 모니터링 기술을 구축하여 직접 제품에 접속할 수 있는 기능으로 이난 6일에 계약을 체결한다는 것을 나타낸다."
+    },
+    {
+      "title": "노조미 네트웍스, 가트너 CPS 보호 부문 2년 연속 리더 달성",
+      "link": "http://www.boannews.com/media/view.asp?idx=142552&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 10 Mar 2026 17:17:00 +0900",
+      "description": "산업 프로토콜 및 네트워크 트래픽 분석 역량 인정받아고객 만족도 조사에서도 최고 평가 획득하며 시장 지배력 과시[보안뉴스 조재호 기자] 노조미 네트웍스가 글로벌 평가 기관 가트너의 사이버물리시스템(CPS) 보호 플랫폼 부문에서 2년 연속 리더 기업으로 선정되며 글로벌 시장에서 기술력과 시장 지배력을 입증했다. 노조미 네트웍스(대표 에드가르 캡데빌)는 가트",
+      "language": "ko",
+      "summary": "노조미 네트웍스가 2년 연속 리더로 선정된 다음과 같다.",
+      "points": [
+        "노조미 네트웍스는 2년 연속 리더로 선정되었다.",
+        "그림자 캡처 악호에 대해서도 글로벌 시장에서 최고 평가를 받았다.",
+        "노조미 네트웍스는 전기 기술 기반적인 노조미 코인으로서 노조미 네트웍스의 노조미 네트웍스가 2년 연속 리더로 선정된다."
+      ],
+      "insight": "노조미 네트웍스는 기술 업체입장을 능가하는데 노조미 네트웍스가 그레이칭 및 업무 솔루션에 직접 기여했다. 이로써 노조미 네트웍스는 그 업체에서 글로벌 시장에 대한 지배력을 입지했다."
+    },
+    {
+      "title": "Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B",
+      "link": "https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 10 Mar 2026 07:15:00 +0000",
+      "description": "Uzum now reaches 20 million users and processes $11B in payments as it expands its e-commerce and fintech ecosystem across Uzbekistan.",
+      "language": "en",
+      "summary": "Uzum has experienced over 50% growth in valuation to $2.3B, reaching 20 million users and handling $11B in payments within seven months as it expands its digital services in Uzbekistan.",
+      "points": [
+        "Uzum's valuation has surged to $2.3 billion, representing a more than 50% increase in less than eight months.",
+        "The company has grown its user base to 20 million and has facilitated $11 billion in payments.",
+        "Uzum's expansion across Uzbekistan is part of a broader trend in the region's digital economy."
+      ],
+      "insight": "The rapid growth of Uzum indicates a significant shift in the Central Asian digital marketplace, potentially setting a new standard for regional digital ecosystems."
+    },
     {
       "title": "Apple now makes one in four iPhones in India: report",
       "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
@@ -612,141 +747,6 @@
       "points": [
         "AI 시대의 제로트러스트, 맥락 단위의 접근 제어와 의미 단위의 통제 판단 결과의 실시간 검증과 맥락 생성 과정의 추적 가능성 포함하는 구조로 확장돼야[보안뉴스= 조재원 기술사/O...",
         "많은 기업이 이미 AI를 도입했고, 이제는 Agentic AI를 통해 실제 업무를 자동화",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 한국아이티에스, AI 포지셔닝 카메라 KITS-PMS6000/8000",
-      "link": "http://www.boannews.com/media/view.asp?idx=142288&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 17:42:00 +0900",
-      "description": "DD 모터 적용... 정확도와 내구성이 향상된 저소음·저전력 제품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 한국아이티에스는 국내 최초로 DD(Direct Drive) 모터 방식을 적용한 회전형 카메라를 개발했고, AI 관련 연구를 통해 문화유산 방재 시스템 및 IoT 시스템을 개발·운영하는 기업이다.2023년에는 조달청 영상",
-      "language": "ko",
-      "summary": "정확도와 내구성이 향상된 저소음·저전력 제품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 한국아이티에스는 국내 최초로 DD(Direct Drive) 모터 방식을 적용한 회전형 카메라를 개발했고, AI 관련 연구를 통해 문화유산 방재 시스템 및 IoT 시스템을 개발·운영하는 기업이다. 2023년에는 조달청 영상",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 한국씨텍, IP 카메라 토털 솔루션",
-      "link": "http://www.boannews.com/media/view.asp?idx=142287&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 17:39:00 +0900",
-      "description": "조달청 우수제품으로 지정된 IP 카메라 토털 솔루션 제품3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 한국씨텍은 20여년간 시큐리티 산업 한 분야에 집중해 온 전문 기술기업으로, 숙련된 엔지니어링 역량을 기반으로 제조·설치·유지보수를 아우르는 ONE-STOP 솔루션을 제공한다. 제품 공급을 넘어 고객의 운영 환경을 분석한 맞춤형",
-      "language": "ko",
-      "summary": "한국씨텍은 이란 기술기업로서 제안받은 IP 카메라 토털 솔루션 제품을 제출한 3~5홀 일산 시장에서 제공한다.",
-      "points": [
-        "한국씨텍은 시큐리티 산업 이래 동안 기술기업에서 제공하고 있는 최신 기술기업으로 살아있다.",
-        "이 솔루션은 제조·설치·유지보수를 쉽게 하기 위해 특성적한 아우렁형 매매 협업 시스템을 제공한다.",
-        "고객의 운영 환경을 분석하여 맞춘 매매 솔루션을 제공한다."
-      ],
-      "insight": "이 솔루션은 IT/기술 업체가 움직입니다."
-    },
-    {
-      "title": "[SECON 2026] 핀텔, 에이전틱 AI 플랫폼 프리벡스",
-      "link": "http://www.boannews.com/media/view.asp?idx=142286&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 17:37:00 +0900",
-      "description": "상황을 예측하고 스스로 대응3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 핀텔은 AX(AI Transformation) 시대를 선도하는 AI 솔루션 기업으로, 인공지능 기술로 스마트 도시의 새로운 기준을 제시하고 있다.2015년 설립 이후 독자적인 AI 기술 개발에 집중해 온 핀텔은 2022년 코스닥 상장을 통해 기술력과 성장 가",
-      "language": "ko",
-      "summary": "핀텔은 AI 기술으로 스마트 도시의 새로운 기준을 제시하고, 이 시장에서 선수로 등장할 것으로 기대되며 2022년 코스닐텍스 상장에서 기술력과 성장을 통해 시장에 출발할 예정입니다.",
-      "points": [
-        "핀텔은 2015년에 시작하여 AI 기술에 직접 초심, 스마트 도시 생산성을 높이는 데에 직접 착응했다.",
-        "2CTX 플루팅(커먰어)와 인공지능 플루팅(AI)이 자동차, 운전 및 도시 시스템 시스템의 시스템화 중에 중요한 역할을 해내고 있다.",
-        "이후 최근 정부에서의 안전한 지원 및 혁신적인 기술에 따른 선례 기반 발전으로 2026년 때까지 추가적으로 성장을 기대합니다."
-      ],
-      "insight": "핀텔은 AI를 활용하여 스마트 도시 생산성을 확보하고 있으며, 코스닐텍스 상장에서의 성공적인 기술 발전으로 인기를 얻을 것으로 예측됩니다."
-    },
-    {
-      "title": "[eGISEC 2026] 한국보안인증, 물리적 사이버 금고 디포트리스",
-      "link": "http://www.boannews.com/media/view.asp?idx=142275&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 17:17:00 +0900",
-      "description": "랜섬웨어로부터 데이터 완벽하게 격리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 한국보안인증(KSA)은 급변하는 IT 인프라에 최적화된 맞춤형 솔루션을 제시하고 있는 기업이다.디지털 자산 보호와 네트워크 가용성 확보를 위한 한국보안인증의 ‘3-Step’ 솔루션은 다음과 같다.△‘BaroPAM’는 다계층 2차 인증으로 해커의 권한",
-      "language": "ko",
-      "summary": "eGISEC 2026의 한국보안인증은 IT 인프라의 최적화와 최신 접솜으로 인한 보안적 발생점을 예방하는 3-Step 솔루션으로, 대안적인 결정을 내리고 있으며, 특힐인증 프레임워크인 ‘BaroPAM’과 같은 새로운 솔루션을 제시한다.",
-      "points": [
-        "한국보안인증(KSA)은 IT 인프라의 최적화와 최신 접속으로 인한 보안적 위기를 잡아내고 있으며, 3-Step 솔루션과 BaroPAM 기능을 환자에게 제공한다.",
-        "KSA는 자산보호와 환불 가용성을 위한 필자 보안 제품을 제공하며, 처음으로 가득쳤으나 이탈을 충졊하게 도전하고 있습니다.",
-        "갈증이나 일산 킨텍스 제1전시장에서의 선언은 KSA의 많은 충성이 드묘한 환자를 보여준다."
-      ],
-      "insight": "이러한 한국보안인증의 추진은 IT 업체에서 확보된 물리적 보호와 전반적인 보안 제품의 추세와 연결되고 있습니다. 즉시보안 시스템을 이용하는 국내접근이 폐쇄하며 최신 접속으로 인해 보안적인 위기로 움직이고 있습니다."
-    },
-    {
-      "title": "[eGISEC 2026] 프렌트리, 제로트러스트 보안 플랫폼 아큐녹스",
-      "link": "http://www.boannews.com/media/view.asp?idx=142274&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 17:14:00 +0900",
-      "description": "프레미스와 멀티 클라우드 환경 모두 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 프렌트리는 개인정보 검출 관리, 클라우드 보안, 공급망 보안 등 다수의 프로젝트로 검증된 구축 역량과 안정적인 서비스를 제공하는 정보보호 전문 기업이다.주요 제품은 AI 도입을 위한 보안 플랫폼 ‘아큐녹스(AccuKnox)’와 글로벌 No.1 개",
-      "language": "ko",
-      "summary": "프레미스와 멀티 클라우드 환경 모두 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 프렌트리는 개인정보 검출 관리, 클라우드 보안, 공급망 보안 등 다수의 프로젝트로 검증된 구축 역량과 안정적인 서비스를 제공하는 정보보호 전문 기업이다. 주요 제품은 AI 도입을 위한 보안 플랫폼 ‘아큐녹스(AccuKnox)’와 글로벌 No",
-      "points": [
-        "프레미스와 멀티 클라우드 환경 모두 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 프렌트리는 개인정보 검출 관리, 클라우드 보안, 공급망 보안 등 다...",
-        "주요 제품은 AI 도입을 위한 보안 플랫폼 ‘아큐녹스(AccuKnox)’와 글로벌 No",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "9월부터 개인정보 유출 기업 매출 10%까지 과징금... 개인정보보호법 개정",
-      "link": "http://www.boannews.com/media/view.asp?idx=142535&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 17:09:00 +0900",
-      "description": "징벌적 과징금, CEO·CPO 책임성 강화, ISMS-P 인증 의무화 등[보안뉴스 강현주 기자] 2026년 9월 11일부터 개인정보 유출 사고를 당한 기업에게 전체 매출의 최대 10%까지 과징금을 부과하게 된다. 유출 ‘가능성’도 통지 의무화된다. 개인정보보호위원회(위원장 송경희)는 징벌적 과징금 도입, 개인정보 보호책임자 역할 강화 및 개인정보보호 관리체",
-      "language": "ko",
-      "summary": "9월부터 개인정보 유출 사고에 대한 과징금을 제공하여, 개인정보 보호 책임과 징벌적 금을 줄이고 보호매커니즘을 강화한다.",
-      "points": [
-        "9월 부터 개인정보 유출 사고에 대한 과징금을 부과하여 개인정보 보호 책임을 강화",
-        "과징금은 징벌적으로 10% 이상이 매출에 적합한 제한으로 지정",
-        "개인정보 보호위원회(위원장 송경희)이 보호 관리를 더 강화"
-      ],
-      "insight": "이러한 보호 규칙으로 인증된 개인정보 보호 책임자들이 개인정보 보호총권을 강화하도록 돕는 정치적인 조치이다."
-    },
-    {
-      "title": "[eGISEC 2026] 프라이빗테크놀로지, 제로트러스트 접근 제어 플랫폼 패킷고 ZTNA",
-      "link": "http://www.boannews.com/media/view.asp?idx=142273&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 16:58:00 +0900",
-      "description": "경계 기반 보안의 사각지대 해소3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 박미영 기자] 프라이빗테크놀로지는 제로트러스트 원칙에 기반한 안전한 통신 환경 구현을 목표로 하는 보안 기업으로, 애플리케이션 단위의 트래픽 식별·제어 기술을 통해 ZTNA·SASE 시장을 선도하고 있다.대표 솔루션인 패킷고와 프라이빗 커넥트는 기존 인프라 변경 없이",
-      "language": "ko",
-      "summary": "프라이빗테크놀로지는 제로트러스트 원칙에 기반한 안전한 통신 환경을 구현하기 위해 패킷고와 프라이빗 커넥트를 활용하고 있다.",
-      "points": [
-        "이러한 프라이빗테크놀로지는 트랜잭션 식별 기능으로 인프라 변경 없이 제로트러스트 접근 제어 시장을 선보이고 있다.",
-        "접근 제어를 위해 프라이빗 커넥트를 활용하여 ZTNA·SASE 시장을 선호할 수 0ne다.",
-        "프라이빗테크놀로지는 기존 인프라 변경이 필요없이 보안 전문가에까지 공유하고 있다."
-      ],
-      "insight": "이 기사는 프라이빗테크놀로지의 중요성과 시장에 어떤 영향을 미치게 되는지에 대한 이해를 제공한다. 프라이빗 기술이 발전하여 IT/기술 업체에서 보안에 영향을 미칠 수 thru 이러한 기술들이 적용된다는 뜻이다."
-    },
-    {
-      "title": "美, 암호화폐·블록체인 보호 나서... 기술은 보호하고 불법 자금줄은 끊는다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142531&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 16:49:00 +0900",
-      "description": "미국 사이버보안 전략에 암호화폐·블록체인 공식 포함금융 범죄 단속 강화·양자내성암호 도입 추진[보안뉴스 김형근 기자] 미국 정부가 처음으로 국가 사이버보안 전략에 암호화폐와 블록체인 기술을 포함했다.3월 6일 공개된 보고서는 기술 개발부터 배포까지 사용자 개인정보 보호와 안전한 기술 공급망 구축을 목표로 하며, 이 과정에서 암호화폐와 블록체인 보안 지원을",
-      "language": "ko",
-      "summary": "미국 사이버보안 전략에 암호화폐·블록체인 공식 포함금융 범죄 단속 강화·양자내성암호 도입 추진[보안뉴스 김형근 기자] 미국 정부가 처음으로 국가 사이버보안 전략에 암호화폐와 블록체인 기술을 포함했다. 3월 6일 공개된 보고서는 기술 개발부터 배포까지 사용자 개인정보 보호와 안전한 기술 공급망 구축을 목표로 하며, 이 과정에서 암호화폐와 블록체인 보안 지원을",
-      "points": [
-        "미국 사이버보안 전략에 암호화폐·블록체인 공식 포함금융 범죄 단속 강화·양자내성암호 도입 추진[보안뉴스 김형근 기자] 미국 정부가 처음으로 국가 사이버보안 전략에 암호화폐와 블록체...",
-        "3월 6일 공개된 보고서는 기술 개발부터 배포까지 사용자 개인정보 보호와 안전한 기술 공급망 구축을 목표로 하며, 이 과정에서 암호화폐와 블록체인 보안 지원을",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“스스로 취약점 찾고 해결책까지 제안한다” 오픈AI, AI 보안 요원 ‘코덱스 시큐리티’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142534&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 9 Mar 2026 16:46:00 +0900",
-      "description": "코드 취약점 자동 탐지 AI 보안 요원 ‘코덱스 시큐리티’오픈소스 120만 저장소 분석·취약점 자동 검증 시스템[보안뉴스 김형근 기자] 오픈AI가 코드의 취약점을 스스로 찾아 검증하고 해결책까지 제안하는 AI 보안 요원 ‘코덱스 시큐리티’(Codex Security)를 전격 출시했다. 이 기능은 챗GPT 유료 고객(프로, 엔터프라이즈 등)을 대상으로 연구",
-      "language": "ko",
-      "summary": "코드 취약점 자동 탐지 AI 보안 요원 ‘코덱스 시큐리티’오픈소스 120만 저장소 분석·취약점 자동 검증 시스템[보안뉴스 김형근 기자] 오픈AI가 코드의 취약점을 스스로 찾아 검증하고 해결책까지 제안하는 AI 보안 요원 ‘코덱스 시큐리티’(Codex Security)를 전격 출시했다. 이 기능은 챗GPT 유료 고객(프로, 엔터프라이즈 등)을 대상으로 연구",
-      "points": [
-        "이 기능은 챗GPT 유료 고객(프로, 엔터프라이즈 등)을 대상으로 연구",
-        "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
