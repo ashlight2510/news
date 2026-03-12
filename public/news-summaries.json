@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-03-12T02:36:51.717Z",
+  "generatedAt": "2026-03-12T07:11:17.057Z",
   "articles": [
+    {
+      "title": "인증 없이 관리자 권한 강탈... 포티매니저 취약점 공개, 온프레미스 기업 ‘비상’",
+      "link": "http://www.boannews.com/media/view.asp?idx=142601&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 15:44:00 +0900",
+      "description": "포티매니저 ‘fgtupdates’ 서비스 내 스택 기반 버퍼 오버플로 취약점(CVE-2025-54820) 발견인증 없는 원격 공격으로 사내 연결된 하위 보안 장비 전체 통제권 탈취 가능성 고조[보안뉴스 김형근 기자] 포티넷의 중앙 관리 플랫폼 ‘포티매니저’(FortiManager)에서 인증 절차 없이 원격으로 악성 명령을 실행할 수 있는 고위험 취약점이 발",
+      "language": "ko",
+      "summary": "기사는 온프레미스 기업에서 스택 기반 버퍼 오버플로와 특정 하위 보안 장비 전체 통제권 탈취가능성을 가 포티매니저 서비스 내 취약점에 대해 고매입니다.",
+      "points": [
+        "인증이 있어도 추가적으로 필요한 권한을 가지고 있는 권한 강탈",
+        "인증 절차 없이 원격적으로 악용을 할 수 0r할 수 있는 취약점",
+        "포티매니저 서비스에서 이 취약점을 본인에게 업데이트받으면 안전한 사용이 가능"
+      ],
+      "insight": "이 기사는 인증 절차 없이 관리자 권한 강탈 및 악용을 할 수 있는 취약점을 강한 소표현하고, 이러한 취약점이 위험한 영향을 IT/기술 업체에 미치는 영향으로 직접적으로 연결하는 잘못된 권한 조율약점에 대해 강조하여 업계에게 관련 의사소통으로 관련 문제를 조직하게 다루기 위해 제시합니다."
+    },
+    {
+      "title": "[2026 인증보안 솔루션 리포트] 사람과 AI 에이전트 공존하는 미래 업무 환경... 이제 인증이 보안 핵심",
+      "link": "http://www.boannews.com/media/view.asp?idx=142602&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 14:39:00 +0900",
+      "description": "인증 뚫리면 시스템 방어 속수무책인데... 신원 정보 대량 유통되는 현실사용자 편의성과 보안 모두 잡는 패스워드리스 인증사람과 AI 에이전트 공존하는 디지털 플랫폼... 머신ID 관리도 숙제인증보안 솔루션 집중 분석: 펜타시큐리티, 사이버아크[보안뉴스 한세희 기자] 지난해 11월, 국민 e커머스 쿠팡에서 3370만개 계정 고객정보가 유출되는 사건이 발생했다",
+      "language": "ko",
+      "summary": "인증 뚫리면 시스템 방어 속수무책인데. 신원 정보 대량 유통되는 현실사용자 편의성과 보안 모두 잡는 패스워드리스 인증사람과 AI 에이전트 공존하는 디지털 플랫폼...",
+      "points": [
+        "신원 정보 대량 유통되는 현실사용자 편의성과 보안 모두 잡는 패스워드리스 인증사람과 AI 에이전트 공존하는 디지털 플랫폼",
+        "머신ID 관리도 숙제인증보안 솔루션 집중 분석: 펜타시큐리티, 사이버아크[보안뉴스 한세희 기자] 지난해 11월, 국민 e커머스 쿠팡에서 3370만개 계정 고객정보가 유출되는 사건이...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[부고] 박용구 위메이드 CISO 본인상",
+      "link": "http://www.boannews.com/media/view.asp?idx=142597&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 13:02:00 +0900",
+      "description": "△내용: 박용구 위메이드 CISO 본인상△고인: 故 박용구님△빈소: 강원도원주의료원장례식장 10호실△발인: 2026년 3월 14일(토) 08시 30분△장지: 원주추모공원[원병철 기자(boanone@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
+      "language": "ko",
+      "summary": "박용구의 위메이드 CISO 본인상에 대한 소식이 나온 후에 언제인가.",
+      "points": [
+        "박용구의 위메이드 CISO 본인상이 3월 14일에 광린하게 점진해야 함.",
+        "이 경우에 대해 중요한 포인트는 그 시간대와 시장에 대한 업무에 대해 설명할 필요가 있음.",
+        "이러한 책임에 직응할 수 dependent임."
+      ],
+      "insight": "이러한 변경은 위메이드 CISO의 권법과 책임성격에 대한 인식을 높이는 것이 중요."
+    },
+    {
+      "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
+      "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 12 Mar 2026 04:00:00 +0000",
+      "description": "This is the largest early-stage funding in China’s brain computer interface industry.",
+      "language": "en",
+      "summary": "Chinese brain interface startup Gestala has raised $21 million in funding just two months after its launch, marking the largest early-stage funding in China' extramural neural field.",
+      "points": [
+        "Gestala, a brain-computer interface startup from Beijing, secured $21 million in funding only two months after its launch.",
+        "The investment is the largest early-stage financing in China's brain-computer interface field.",
+        "Gestala plans to expand its brain implantable device by developing new products and exploring broader markets beyond brain-computer interfaces."
+      ],
+      "insight": "Gestala's rapid funding success demonstrates the growing interest and investment potential in the brain-computer interface industry, which has implications for both research and commercialization in the IT sector."
+    },
+    {
+      "title": "세이퍼존 AI-DLP, QUIC AI 애플리케이션 차단 최초 지원",
+      "link": "http://www.boannews.com/media/view.asp?idx=142596&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 11:44:00 +0900",
+      "description": "QUIC 프로토콜 사용 AI 애플리케이션 데이터 유출 제어[보안뉴스 원병철 기자] 엔드포인트 AI DLP와 네트워크 AI DLP 모두를 보유한 세이퍼존(대표 권창훈)은 AI 앱 보안의 사각지대로 꼽히는 QUIC UDP 프로토콜을 사용하는 AI 애플리케이션의 정보 유출을 차단한다고 밝혔다. QUIC은 AI 앱 보안의 큰 사각지대다. 기존 네트워크 AI DLP",
+      "language": "ko",
+      "summary": "QUIC 프로토콜 사용 AI 애플리케이션 데이터 유출 제어[보안뉴스 원병철 기자] 엔드포인트 AI DLP와 네트워크 AI DLP 모두를 보유한 세이퍼존(대표 권창훈)은 AI 앱 보안의 사각지대로 꼽히는 QUIC UDP 프로토콜을 사용하는 AI 애플리케이션의 정보 유출을 차단한다고 밝혔다. QUIC은 AI 앱 보안의 큰 사각지대다...",
+      "points": [
+        "QUIC은 AI 앱 보안의 큰 사각지대다",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "롯데카드 해킹, 과징금 96억원... “주민번호 처리 의무 위반”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142595&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 11:41:00 +0900",
+      "description": "96억2000만원, 과태료 480만원 부과“개인정보 보호체계 전반 점검 및 CPO 책임·독립성 강화”[보안뉴스 강현주 기자] 해킹으로 이용자 개인정보 유출 사고를 겪은 롯데카드에 96억200만원의 과징금과 480만원의 과태료가 부과됐다. ‘주민번호 처리 의무’ 위반이 주요 내용이다. 개인정보보호위원회(위원장 송경희)는 11일 제4회 전체회의를 열고 이같이",
+      "language": "ko",
+      "summary": "롯데카드 해킹 과징금과 과태료 부당 사고를 처우왔다. 개인정보 보호 위원회에게 신청하려고 한국 경찰 대표가 곁로케.",
+      "points": [
+        "롯데카드 해킹 사고가 96억200만원과 480만원 부당",
+        "과징금과 과태료 부당을 가진 사고가 이미 결국으로 나타나고 있다.",
+        "한국 경찰 대표가 곁로케 롯데카드의 개인정보 보호 위원회에 신청하려고 한다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업계에서 개인정보 보호에 대한 문제점을 표시한다. 롯데카드 사고가 발생한 이유와 해결 방안에 대해 질문을 빌려준다."
+    },
+    {
+      "title": "케이씨에스, 양자암호칩(QKEV7) 기반 ‘QC-VPN’ 보안기능확인서 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=142594&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 11:23:00 +0900",
+      "description": "QKEV7기반 차세대 Quantum Crypto VPN으로 공공·국방망 보안 인프라 시장 공략[보안뉴스 엄호식 기자] 시스템 보안 전문 기업 케이씨에스(KCS)는 자사의 네트워크 구간 암호화 보안 장비 QC-VPN 제품군이 국가 보안 검증 제도인 보안기능확인서를 획득했다고 밝혔다. 보안기능확인서는 공공기관에서 사용하는 정보보호 제품이 정부 보안 요구사항을",
+      "language": "ko",
+      "summary": "QKEV7기반 차세대 Quantum Crypto VPN으로 공공·국방망 보안 인프라 시장 공략[보안뉴스 엄호식 기자] 시스템 보안 전문 기업 케이씨에스(KCS)는 자사의 네트워크 구간 암호화 보안 장비 QC-VPN 제품군이 국가 보안 검증 제도인 보안기능확인서를 획득했다고 밝혔다. 보안기능확인서는 공공기관에서 사용하는 정보보호 제품이 정부 보안 요구사항을",
+      "points": [
+        "보안기능확인서는 공공기관에서 사용하는 정보보호 제품이 정부 보안 요구사항을",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "소만사, 클라우드PC · VDI 시장서 외산솔루션 15번 ‘윈백’",
+      "link": "http://www.boannews.com/media/view.asp?idx=142593&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 11:20:00 +0900",
+      "description": "접속시간 30% 단축... 엔드포인트 보안에이전트 충돌 최소화외산 개별 솔루션 대비 강점 뚜렷[보안뉴스 강현주 기자] 소만사는 자사 클라우드PC · VDI 솔루션 ‘VD-i’가 최근 외산 솔루션을 누르고 누적 15회 ‘윈백’했다고 12일 밝혔다. 소만사 솔루션은 특히 은행, 증권, 저축은행, 전자, 에너지, 디스플레이, 발전사 등 민간기업에 구축사례가 집중",
+      "language": "ko",
+      "summary": "접속시간 30% 단축. 엔드포인트 보안에이전트 충돌 최소화외산 개별 솔루션 대비 강점 뚜렷[보안뉴스 강현주 기자] 소만사는 자사 클라우드PC · VDI 솔루션 ‘VD-i’가 최근 외산 솔루션을 누르고 누적 15회 ‘윈백’했다고 12일 밝혔다...",
+      "points": [
+        "엔드포인트 보안에이전트 충돌 최소화외산 개별 솔루션 대비 강점 뚜렷[보안뉴스 강현주 기자] 소만사는 자사 클라우드PC · VDI 솔루션 ‘VD-i’가 최근 외산 솔루션을 누르고 누...",
+        "소만사 솔루션은 특히 은행, 증권, 저축은행, 전자, 에너지, 디스플레이, 발전사 등 민간기업에 구축사례가 집중",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] ‘사이버 전쟁’으로 이란 압도하는 트럼프",
+      "link": "http://www.boannews.com/media/view.asp?idx=142592&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 12 Mar 2026 11:15:00 +0900",
+      "description": "미국-이스라엘-이란전에서 보인 사이버 공격... 완성형 사이버 전쟁을 보여주다이란 내 인터넷 마비... 정보 차단 넘어 사회적 혼란과 불안 가중시켜[보안뉴스= 배종찬 인사이트케이 소장] 2026년 3월, 중동의 지평선 위로 화염이 치솟기 전, 이란의 핵심 네트워크는 이미 마비 상태에 빠졌다. 미국과 이스라엘이 감행한 이번 이란 공격은 전통적인 군사 전략의",
+      "language": "ko",
+      "summary": "미국-이스라엘-이란전에서 보인 사이버 공격. 완성형 사이버 전쟁을 보여주다이란 내 인터넷 마비...",
+      "points": [
+        "미국-이스라엘-이란전에서 보인 사이버 공격",
+        "완성형 사이버 전쟁을 보여주다이란 내 인터넷 마비",
+        "정보 차단 넘어 사회적 혼란과 불안 가중시켜[보안뉴스= 배종찬 인사이트케이 소장] 2026년 3월, 중동의 지평선 위로 화염이 치솟기 전, 이란의 핵심 네트워크는 이미 마비 상태에..."
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "딥노이드, ‘SECON 2026’ 참가... “신기능 탑재로 보안 효율성과 안정성 높여”",
       "link": "http://www.boannews.com/media/view.asp?idx=142583&kind=&sub_kind=",
@@ -615,141 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Zoox plans to put its robotaxis on the Uber app in Vegas this year",
-      "link": "https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Mar 2026 12:00:00 +0000",
-      "description": "The purpose-built robotaxis will be available on Uber's app in Las Vegas this year, and Los Angeles next year, if Zoox gets the federal approval it's been seeking.",
-      "language": "en",
-      "summary": "The purpose-built robotaxis will be available on Uber's app in Las Vegas this year, and Los Angeles next year, if Zoox gets the federal approval it's been seeking",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Health insurance startup Alan reaches €5B valuation",
-      "link": "https://techcrunch.com/2026/03/11/health-insurance-startup-alan-reaches-e5b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 11 Mar 2026 10:00:00 +0000",
-      "description": "French health insurance startup Alan is now valued at €5 billion — approximately $5.83 billion, up from $4.5 billion in 2024.",
-      "language": "en",
-      "summary": "French health insurance startup Alan has achieved a valuation of €5 billion, marking a significant rise since 2decade. The company is now backed by $5.83 billion in U.S. dollars.",
-      "points": [
-        "French health insurance startup Alan reaches €5B valuation.",
-        "Alan's valuation increased from $4.5 billion in 2024 to approximately $5.83 billion in U.S. dollars.",
-        "The company's growth reflects the expanding role of digital solutions in healthcare and insurance industries."
-      ],
-      "insight": "The success of French health insurance startup Alan demonstrates the increasing value and impact of technology-driven solutions in the healthcare sector."
-    },
-    {
-      "title": "[AI와 보안] 엘라스틱 “2026년은 컨텍스트 엔지니어링의 해”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142581&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:50:00 +0900",
-      "description": "‘엘라스틱 엔터프라이즈 리더스 커넥트’ 성료‘벡터 데이터베이스’ 강조... “AI, 보안 분석가의 아이언맨 수트”[보안뉴스 강현주 기자] 벡터 데이터베이스 기반 검색 및 AI 보안 기업인 엘라스틱이 올해 AI 기반 보안의 핵심 기술로 ‘컨텍스트 엔지니어링’(Context Engineering)을 제시했다. 파편화된 데이터를 통합해 AI 답변의 정확도를 극대",
-      "language": "ko",
-      "summary": "컨텍스트 엔지니어링을 이용한 AI 기반 보안 기능을 제시한 업체 엔터프라이즈 회사와 강화된 데이터베이스에 기반한 보안 분석 기술을 배워내세요.",
-      "points": [
-        "업체 엔터프라이즈 회사인 엘라스틱이 출시한 컨텍스트 엔지니어링",
-        "강화된 데이터베이스 기반의 AI 분석기기",
-        "컨텍스트 엔지니어링으로 통합된 데이터의 변형으로 AI 분석의 확장"
-      ],
-      "insight": "이러한 팩토로 기술을 통해 IT 분야에서의 보안이 되러지고 있습니다."
-    },
-    {
-      "title": "행안부, ‘2026 CCTV 통합관제 콘퍼런스’에서 AI 영상분석·지자체 관제 사례 발표",
-      "link": "http://www.boannews.com/media/view.asp?idx=142470&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:41:00 +0900",
-      "description": "행안부, 3월 18일 ‘2026 CCTV 통합관제 콘퍼런스’ 개최AI 영상분석·지자체 관제 사례 공유[보안뉴스 강초희 기자] 행정안전부가 지방정부 CCTV 통합관제 정책과 인공지능(AI) 기반 영상분석 기술 동향을 공유하는 ‘2026 CCTV 통합관제 콘퍼런스’(Integrated CCTV Control Conference 2026)를 개최한다.행정안전부가",
-      "language": "ko",
-      "summary": "행안부, 3월 18일 ‘2026 CCTV 통합관제 콘퍼런스’ 개최AI 영상분석·지자체 관제 사례 공유[보안뉴스 강초희 기자] 행정안전부가 지방정부 CCTV 통합관제 정책과 인공지능(AI) 기반 영상분석 기술 동향을 공유하는 ‘2026 CCTV 통합관제 콘퍼런스’(Integrated CCTV Control Conference 2026)를 개최한다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "제14회 전자정부 정보보호 콘퍼런스 2026, 18일부터 20일까지 킨텍스 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=142486&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:38:00 +0900",
-      "description": "3일간 4개 트랙, 52개 강연 진행. AI부터 N2SF, 양자보안 등 다양한 보안 이슈 다뤄SECON&eGISEC 2026, 3월 18일~20일 일산 킨텍스에서 개최... 다양한 동시개최 행사 열려[보안뉴스 원병철 기자] 대한민국 전자정부의 정보보호 강화를 위한 논의가 3월 18일부터 20일까지 일산 킨텍스에서 개최되는 ‘SECON&eGISEC 2026’",
-      "language": "ko",
-      "summary": "14번 제14회 전자정부 정보보호 콘텐츠 이슈에 대해 논의하고자 한국 전자정부의 정보보호 개입창이 준비중인 2026년 킨텍스 참석으로 예상되는 세계 IT 업체에게 논의한다.",
-      "points": [
-        "일산 킨텍스에서 예상되는 정보보호 논의",
-        "정보보호 이슈로 인한 개선 패스편",
-        "약손절을 위한 비즈니톤 업체에서 예상되는 세계 IT 업체의 참석을 기대한다."
-      ],
-      "insight": "이러한 논의는 전자정부의 정보보호 노레스트링을 강화하고 비즈니톤 업체에서의 예상적인 인식과 기술의 협력에 집ve처를 받게 하며, 이러한 논의는 세계 IT 업체에서 체감하고 이러한 논의에 의해 새로운 정보보호 기술이나 방식을 통합하여 시약장에서 활용하도록 할 수 0이라는 반면 추가적으로 논의는 지속적으로 진행되어야 합니다."
-    },
-    {
-      "title": "디지털 행정서비스 장애 진단·복구 세미나, 18일 킨텍스에서 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=142497&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:36:00 +0900",
-      "description": "디지털 행정서비스 안정성 강화 정책부터 재해 복구와 복원력 강화 사례까지 논의SECON&eGISEC 2026, 3월 18일~20일 일산 킨텍스에서 개최... 다양한 동시 개최 행사 열려[보안뉴스 원병철 기자] 디지털 행정서비스의 안정성 강화 정책과 장애진단 및 복구 관련 최신 기술 동향을 공유함으로써 행정·공공기관의 장애 대응 역량 강화 지원을 위한 ‘디지",
-      "language": "ko",
-      "summary": "디지털 행정서비스 안정성 강화 정책부터 재해 복구와 복원력 강화 사례까지 논의SECON&eGISEC 2026, 3월 18일~20일 일산 킨텍스에서 개최. 다양한 동시 개최 행사 열려[보안뉴스 원병철 기자] 디지털 행정서비스의 안정성 강화 정책과 장애진단 및 복구 관련 최신 기술 동향을 공유함으로써 행정·공공기관의 장애 대응 역량 강화 지원을 위한 ‘디지",
-      "points": [
-        "디지털 행정서비스 안정성 강화 정책부터 재해 복구와 복원력 강화 사례까지 논의SECON&eGISEC 2026, 3월 18일~20일 일산 킨텍스에서 개최",
-        "다양한 동시 개최 행사 열려[보안뉴스 원병철 기자] 디지털 행정서비스의 안정성 강화 정책과 장애진단 및 복구 관련 최신 기술 동향을 공유함으로써 행정·공공기관의 장애 대응 역량 강...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘영상언어모델(VLM) 기술 콘퍼런스’에서 생성형 AI·멀티모달 기술 동향 논의한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142517&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:35:00 +0900",
-      "description": "서울대·KETI 등 참여... 영상보안 분야 VLM 활용 가능성 논의[보안뉴스 강초희 기자] 영상언어모델(VLM: Vision Language Model)과 생성형 AI 기술 동향을 공유하는 ‘영상언어모델(VLM) 기술 콘퍼런스’가 오는 3월 19일 일산 킨텍스에서 열린다.오지큐 기술연구소(GYN)가 주최하고 한국영상정보연구조합이 주관하는 이번 콘퍼런스는",
-      "language": "ko",
-      "summary": "서울대·KETI 등 참여. 영상보안 분야 VLM 활용 가능성 논의[보안뉴스 강초희 기자] 영상언어모델(VLM: Vision Language Model)과 생성형 AI 기술 동향을 공유하는 ‘영상언어모델(VLM) 기술 콘퍼런스’가 오는 3월 19일 일산 킨텍스에서 열린다...",
-      "points": [
-        "영상보안 분야 VLM 활용 가능성 논의[보안뉴스 강초희 기자] 영상언어모델(VLM: Vision Language Model)과 생성형 AI 기술 동향을 공유하는 ‘영상언어모델(VL...",
-        "오지큐 기술연구소(GYN)가 주최하고 한국영상정보연구조합이 주관하는 이번 콘퍼런스는",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 에스큐브아이, 웹쉘 탐지 솔루션 ‘쉘캅’으로 디지털 자산 방어",
-      "link": "http://www.boannews.com/media/view.asp?idx=142529&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:33:00 +0900",
-      "description": "국내 웹쉘 탐지 시장 주도... 기업 핵심 디지털 자산 방어3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 한세희 기자] 에스큐브아이는 보안 솔루션, 유지보수, SI 서비스를 원스톱으로 제공하는 정보보호 전문 기업이다. ‘보안을 넘어 신뢰를 만든다’는 철학 아래, 전문 인재 양성과 사회적 공헌을 실천하며 ESG 우수 중소기업 인증 및 정보보호산업",
-      "language": "ko",
-      "summary": "국내 웹쉘 탐지 시장 주도. 기업 핵심 디지털 자산 방어3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 한세희 기자] 에스큐브아이는 보안 솔루션, 유지보수, SI 서비스를 원스톱으로 제공하는 정보보호 전문 기업이다...",
-      "points": [
-        "기업 핵심 디지털 자산 방어3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 한세희 기자] 에스큐브아이는 보안 솔루션, 유지보수, SI 서비스를 원스톱으로 제공하는 정보보...",
-        "‘보안을 넘어 신뢰를 만든다’는 철학 아래, 전문 인재 양성과 사회적 공헌을 실천하며 ESG 우수 중소기업 인증 및 정보보호산업",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[SECON 2026] 뷰런테크놀로지, 라이다 기반 ADAS 솔루션 ‘VueOne’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142526&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 11 Mar 2026 17:32:00 +0900",
-      "description": "자율주행 및 ADAS 적용위해 개발된 LiDAR 기반 인지 소프트웨어3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 엄호식 기자] 뷰런테크놀로지는 LiDAR 센서 데이터와 AI 기술을 기반으로 고정밀 인지 소프트웨어를 개발하는 기업으로, 자율주행·ADAS부터 스마트 인프라까지 다양한 환경에 적용 가능한 인지 기술을 제공한다.LiDAR 기반 스마트",
-      "language": "ko",
-      "summary": "뷰런테크놀로지는 LiDAR 센서 데이터와 AI를 이용한 고속 자율주행·ADAS 시스템을 개밤한다.",
-      "points": [
-        "뷰런테크놀로지는 LiDAR 센서를 이용한 인지 기술을 제공한다.",
-        "Ai 기술을 활용한 자동차 운전 시스템을 개밤한다.",
-        "스마트 운전에 활용할 수 있는 인지 기술을 제공한다."
-      ],
-      "insight": "이 기사는 LiDAR 기반 인지 기술을 이용한 자율주행·ADAS 시스템의 개념을 소개한다. 이러한 시스템은 운전 안전성을 높이고 스마트 인플리토리얼 운전에 활용되도록 할 수 있다."
     }
   ]
 }
