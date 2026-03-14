@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-03-14T12:52:58.223Z",
+  "generatedAt": "2026-03-14T18:40:46.527Z",
   "articles": [
+    {
+      "title": "Honda is killing its EVs — and any chance of competing in the future",
+      "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Mar 2026 17:23:24 +0000",
+      "description": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+      "language": "en",
+      "summary": "Honda has decided to discontinue development of its electric vehicle (EV) projects in the United States.",
+      "points": [
+        "The move signifies Honda's decision against investing heavily into EV technology and infrastructure within North America, a region where it previously had plans for an all-electric SUV named 'e:Neer', as well as two other electric models known collectively as the C+ series.",
+        "This strategic pivot is influenced by Honda's analysis of declining battery costs and increasing EV sales in markets such as China, Europe, Japan, South Korea, and Taiwan. Despite this growth trend for EVs globally since 2016—which has seen nearly a tripling of global electric vehicle registrations to reach over eight million by the end of last year's second quarter alone—the automotor giant views these developments with skepticism.",
+        "In line with its decision, Honda will focus on gasoline-powered vehicles and hybrids in North America for now."
+      ],
+      "insight": "Honda’s withdrawal from the U.S. EV market could have implications not only within automotive industry competitiveness but also signal broader challenges faced by legacy car manufacturers when transitioning to new technologies in markets where they previously had plans for electric models."
+    },
+    {
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Mar 2026 16:28:42 +0000",
+      "description": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "language": "en",
+      "summary": "Meta is reportedly contemplating significant layoffs that could impact up to one-fifth of its workforce. This move might be aimed at balancing the company's hefty investments in AI infrastructure, acquisitions related to artificial intelligence, and hiring.",
+      "points": [
+        "Meta is considering massive layoffs which may affect around 20% of its employees",
+        "The proposed cutback could help balance Meta'th aggressive spending on AI-related infrastructure and acquisitions",
+        "Layoffs might also offset the company's extensive hiring in response to growing demand for artificial intelligence"
+      ],
+      "insight": "If true, these layoffs may signal a strategic shift within Meta/Facebook towards optimizing its workforce structure amid significant investments and expansion into AI-driven technologies."
+    },
+    {
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Mar 2026 16:00:00 +0000",
+      "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "language": "en",
+      "summary": "The article reviews several technology applications designed to facilitate the formation and maintenance of new friendships.",
+      "points": [
+        "Apps such as BFF help users find friends with similar interests by allowing them to fill out profiles or send requests for friendship",
+        "Timeleft focuses on organizing social events, enabling members who are nearby in real-time to connect and meet each other.",
+        "Other apps like Friendzz facilitate finding potential friendships through shared activities such as sports."
+      ],
+      "insight": "While these friendship applications offer a modern approach for individuals looking to expand their social circle, they might not fully replicate the depth of real-life interactions and experiences. Their success largely depends on users' genuine engagement with others beyond just swiping or clicking."
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 14 Mar 2026 13:00:00 +0000",
+      "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "language": "en",
+      "summary": "The article guides users on integrating popular third-party applications like DoorDash, Spotify, Figma, Expedia with the new features of OpenAI's ChatGPT for enhanced functionality.",
+      "points": [
+        "OpenAI has integrated various apps such as Uber, Airbnb, and others into ChatGPT to facilitate on-theinfluence interactions within these platforms.",
+        "Users can easily add their favorite third-party services like Pinterest or TikTok directly in the chat window using a few prompts provided by OpenAI for each platform. These integrations allow users not onlyto interact with other ChatGPT users, but also to perform tasks within these platforms.",
+        "Some of the most popular third-party services that can be integrated into ChatGPT include Uber and Lyft (for ride sharing), Airbnb (shortlisted travel options based on user's preferences) , Pinterest (to discover new DIY craft ideas or recipes using pins)."
+      ],
+      "insight": "These integrations of popular apps into ChatGPT are significant as they enhance the platform usability by providing direct access to these third-party services, thereby creating an interactive and efficient user experience. It also shows a potential direction for AI in seamlessly bridging different digital platforms."
+    },
     {
       "title": "인젝션 공격 자동 차단 믿음 깨졌다... Node.js ORM 취약점 패치 배포",
       "link": "http://www.boannews.com/media/view.asp?idx=142575&kind=&sub_kind=",
@@ -690,66 +750,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "하와이대 암센터 랜섬웨어 피해... 120만명 정보 유출 막기 위해 몸값 지불",
-      "link": "http://www.boannews.com/media/view.asp?idx=142604&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 09:31:00 +0900",
-      "description": "작년 8월 탐지된 공격으로 SSN 및 다민족코호트(MEC) 연구 데이터 8만여건 노출FBI 지불 지양 권고에도 불구하고 다크웹 유출 차단 위해 해커와 협상 진행[보안뉴스 김형근 기자] 美 하와이대학 암센터가 120만명의 민감 정보 유출을 막기 위해 랜섬웨어 해커 조직과 협상한 것으로 알려지며, 철저한 노후 데이터 관리 및 백업 시스템의 중요성이 대두되고",
-      "language": "ko",
-      "summary": "대학교는 민감 정보 유출을 막기 위해 해커와 협상한다. 암센서와 협상에서는 연구 데이터 보호와 백업 시스템의 중요성에 초점을 맞추고 있다.",
-      "points": [
-        "대학교와 해커와 협상",
-        "민감 정보 유출으로 인한 노후 질투",
-        "연구 데이터 보호와 백업 시스템의 중요성"
-      ],
-      "insight": "이러한 약손절을 위해 대학교는 해커와 협상을 추진하고 있으며, 이는 더 나은 철저한 노후 데이터 관리 및 백업 시스템의 중요성에 액세스함을 의미한다."
-    },
-    {
-      "title": "샤이니헌터스, 구글 보안도구 ‘아우라인스펙터’ 무기화... 세일즈포스 고객사 400곳 노렸다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142598&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 09:28:00 +0900",
-      "description": "오픈소스 보안도구 ‘AuraInspector’ 개조한 데이터 탈취 공격세일즈포스 Experience Cloud 설정 허점 악용, 400개 기업 침투 주장[보안뉴스 김형근 기자] 구글 맨디언트의 오픈소스 보안 도구인 ‘아우라인스펙터’(AuraInspector)를 악용해 세일즈포스 고객사를 겨냥한 대규모 공격을 벌이고 있는 것으로 나타났다.공격자들은 원래 취약",
-      "language": "ko",
-      "summary": "오픈소스 보안도구 ‘AuraInspector’ 개조한 데이터 탈취 공격세일즈포스 Experience Cloud 설정 허점 악용, 400개 기업 침투 주장[보안뉴스 김형근 기자] 구글 맨디언트의 오픈소스 보안 도구인 ‘아우라인스펙터’(AuraInspector)를 악용해 세일즈포스 고객사를 겨냥한 대규모 공격을 벌이고 있는 것으로 나타났다. 공격자들은 원래 취약",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-      "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Mar 2026 23:25:39 +0000",
-      "description": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream.",
-      "language": "en",
-      "summary": "Nvidia begins its GTC conference with a keynote from CEO Jensen Huang, which will be available for live viewing or as a recording later. The keynote promises to reveal insights into the company's future directions, especially regarding AI, data center, and driver developments.",
-      "points": [
-        "Jensen Huang, CEO of Nvidia, will deliver a keynote at the GTC 2026 event.",
-        "The keynote will touch on advancements in AI, data centers, and drivers for the first time in five years.",
-        "The conference will start with the keynote, which is available live or through a livestream, and will continue with a mix of talks and workshops."
-      ],
-      "insight": "Jensen Huang's keynote is highly anticipated as it may reveal significant progress and future plans in Nvidia's AI, data center, and driver development, which are key areas of the company's growth."
-    },
-    {
-      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-      "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Mar 2026 22:25:50 +0000",
-      "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
-      "language": "en",
-      "summary": "Sales automation startup Rox AI, founded by a former chief growth officer of New Relic, has achieved a $1.2B valuation.",
-      "points": [
-        "Rox AI offers an AI-native alternative to traditional CRM tools.",
-        "Founded in 2neral in 2024.",
-        "Rox AI has achieved a $1.2B valuation."
-      ],
-      "insight": "Rox AI's success indicates a growing market for AI-driven sales solutions and highlights the increasing importance of innovative approaches in the CRM industry."
     }
   ]
 }
