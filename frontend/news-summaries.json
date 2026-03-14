@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-14T06:58:47.994Z",
+  "generatedAt": "2026-03-14T12:52:58.223Z",
   "articles": [
+    {
+      "title": "인젝션 공격 자동 차단 믿음 깨졌다... Node.js ORM 취약점 패치 배포",
+      "link": "http://www.boannews.com/media/view.asp?idx=142575&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 14 Mar 2026 17:13:00 +0900",
+      "description": "ORM 내부에서 SQL 조립되는 구조적 특성으로 웹방화벽(WAF) 탐지 한계 드러나단순 JSON 문자열로 위장해 보안망 우회... 패치 누락 시 DB 전체 탈취 위험크리밋 김동현 대표 “코드 안에서 터지는 취약점... 시프트 레프트로 선제 차단해야”[보안뉴스 조재호 기자] “ORM을 쓰면 SQL 인젝션은 걱정 없다”는 현장의 통념이 흔들리고 있다. SQL",
+      "language": "ko",
+      "summary": "ORM 내부에서 SQL 조립되는 구조적 특성으로 웹방화벽(WAF) 탐지 한계 드러나단순 JSON 문자열로 위장해 보안망 우회. 패치 누락 시 DB 전체 탈취 위험크리밋 김동현 대표 “코드 안에서 터지는 취약점...",
+      "points": [
+        "ORM 내부에서 SQL 조립되는 구조적 특성으로 웹방화벽(WAF) 탐지 한계 드러나단순 JSON 문자열로 위장해 보안망 우회",
+        "패치 누락 시 DB 전체 탈취 위험크리밋 김동현 대표 “코드 안에서 터지는 취약점",
+        "시프트 레프트로 선제 차단해야”[보안뉴스 조재호 기자] “ORM을 쓰면 SQL 인젝션은 걱정 없다”는 현장의 통념이 흔들리고 있다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "유로폴, 이란 분쟁발 유럽 내 테러·사이버 위협 경고... “민관 통합 방어 시급”",
       "link": "http://www.boannews.com/media/view.asp?idx=142624&kind=&sub_kind=",
@@ -735,21 +750,6 @@
         "Rox AI has achieved a $1.2B valuation."
       ],
       "insight": "Rox AI's success indicates a growing market for AI-driven sales solutions and highlights the increasing importance of innovative approaches in the CRM industry."
-    },
-    {
-      "title": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
-      "link": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 12 Mar 2026 20:27:17 +0000",
-      "description": "The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.",
-      "language": "en",
-      "summary": "Channel Surfer is a web app that mimics the experience of watching cable TV in the '90s, allowing users to switch between YouTube channels easily.",
-      "points": [
-        "Channel Surfer emulates the old-school cable TV channel surfing experience.",
-        "The app uses a simple interface to navigate YouTube channels.",
-        "Designed with nostalgia, Channel Surfer appeals to those who remember the '90s."
-      ],
-      "insight": "Channel Surfer could attract a niche audience that values the nostalgic aspect of media consumption, though its success in the competitive streaming app market remains uncertain."
     }
   ]
 }
