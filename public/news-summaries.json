@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-03-15T12:56:24.508Z",
+  "generatedAt": "2026-03-15T18:41:27.462Z",
   "articles": [
+    {
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 15 Mar 2026 17:19:47 +0000",
+      "description": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "language": "en",
+      "summary": "Unacademy is set to be acquired by upGrad through a share-swap deal amidst challenges in the Indian edtech industry.",
+      "points": [
+        "India's once booming edtech sector faces struggles with Unacademy experiencing plummeting valuation",
+        "Share price dips and cash burn concerns may affect future of many startups including Oyo, Urbanclap, Vedantu among others in India’s $15 billion market.",
+        "Unacademy shares have declined by 40% over the past year"
+      ],
+      "insight": "The Unacademy acquisition highlights a trend of consolidation within the Indian edtech sector as startups navigate financial difficulties and decreased valuations."
+    },
+    {
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 15 Mar 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "The article discusses Travis Kalanick's return as CEO to Uber amidst allegations of discrimination and management issues within the company.",
+      "points": [
+        "Travis Kalanick, once ousted from Uber in August due to internal strife related to sexual harassment claims against him, is set to resume his role as CEO for a third stint at the ride-hailing service after settling with employees and regulators.",
+        "The return comes amid ongoing discrimination allegations within Uber's ranks; Kalanick reportedly made derogatory comments about women, which he later apologized for. His reappointment has been met with criticism by some who believe his leadership style contributes to the company’typo culture.",
+        "The settlement between Kalanick and former employees is seen as a necessary step before he can regain control of Uber's strategic direction."
+      ],
+      "insight": "Travis Kalanick's return raises questions about whether his leadership style will foster positive changes in the company culture, given previous allegations. The settlement could indicate an effort to reconcile with internal stakeholders and improve relations within Uber moving forward."
+    },
+    {
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 15 Mar 2026 15:30:33 +0000",
+      "description": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "language": "en",
+      "summary": "Shardul Shah provides an in-depth look at Google'clargest investment to date: its $32 billion purchase of X.",
+      "points": [
+        "Google has acquired a company named X for approximately $32 billion, marking the tech giant's largest acquisition ever.",
+        "The deal is significant because it demonstrates Google’s continued investment in artificial intelligence and machine learning technologies by acquiring a major player in this field.",
+        "Despite some critics questioning whether such an expensive buy was necessary, the purchase shows how valuable these AI capabilities are to many of today's top technology companies."
+      ],
+      "insight": "This acquisition highlights that artificial intelligence and machine learning technologies continue to be a high priority in tech industry investments. It reflects Google’s ambition for growth through consolidation, which may signal further major transactions within the IT/technology sector."
+    },
+    {
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 15 Mar 2026 14:30:00 +0000",
+      "description": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
+      "language": "en",
+      "summary": "CEO of Rivian, RJ Scaringe discusses the future vision for robots at a press conference announcing his new company, Mind Robotics.",
+      "points": [
+        "Rivian CEO RJ Scaringe announced plans to create mind-controlled service robot companions through his startup, Mind Robotics.",
+        "Scaringe argues that the way we currently think about robots is misaligned with human psychology and societal needs.",
+        "Mind Robotics aims for their products to be designed in collaboration with mental health professionals."
+      ],
+      "insight": "This news indicates an emerging trend of considering service robot companions not just as machines, but also as potential tools for psychological wellbeing and companionship within the industry."
+    },
     {
       "title": "AI 어시스턴트 ‘ZeptoClaw’ 고위험 취약점... 웹훅 인증 우회로 ‘신원 스푸핑’ 노출",
       "link": "http://www.boannews.com/media/view.asp?idx=142635&kind=&sub_kind=",
@@ -690,66 +750,6 @@
         "개인정보 안전 지킴이는 인사혁신체에서 주관하며, 이 논인이 인공지능과 기술에 촛손한 경력을 가지고 있다."
       ],
       "insight": "기사에서 나온 정보앞後에서 이 퇴직공무원들이 작업하는 개인정보 안전 지킴이 운영주제인 '인사혁신체'에서 출발하기로 한다."
-    },
-    {
-      "title": "세이퍼존 AI-DLP, 챗GPT 통한 기업 정보 유출 막는다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142616&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 14:11:00 +0900",
-      "description": "세이퍼존 AI-DLP, QUIC AI 어플리케이션 차단 최초 지원네트워크 AI DLP, AI 프로그램 제어 못하는 문제 해결[보안뉴스 한세희 기자] 엔드포인트 AI DLP와 네트워크 AI DLP 모두를 보유한 세이퍼존(대표 권창훈)은 AI 앱 보안 사각지대 QUIC UDP 프로토콜을 사용하는 AI 어플리케이션까지 정보 유출을 차단하는 기능을 제공한다고 13",
-      "language": "ko",
-      "summary": "세이퍼존 AI-DLP, QUIC AI 어플리케이션 차단 최초 지원네트워크 AI DLP, AI 프로그램 제어 못하는 문제 해결[보안뉴스 한세희 기자] 엔드포인트 AI DLP와 네트워크 AI DLP 모두를 보유한 세이퍼존(대표 권창훈)은 AI 앱 보안 사각지대 QUIC UDP 프로토콜을 사용하는 AI 어플리케이션까지 정보 유출을 차단하는 기능을 제공한다고 13",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "과천시, 안심귀갓길 범죄 취약지역에 AI CCTV 확대 설치",
-      "link": "http://www.boannews.com/media/view.asp?idx=142610&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 14:08:00 +0900",
-      "description": "안심귀갓길 범죄 취약지역 중심 CCTV 확대 설치·노후 장비 교체AI CCTV 99대 도입, 선별관제 기반 관제 효율·범죄 대응력 강화[보안뉴스 강초희 기자] 경기 과천시(시장 신계용)는 시민이 안심하고 귀가할 수 있는 환경을 조성하기 위해 ‘2026년 안심귀갓길 방범용 폐쇄회로 텔레비전 확대 설치 및 교체 사업’을 추진한다고 밝혔다. 사업은 6월까지 진행",
-      "language": "ko",
-      "summary": "과천시는 '안심귀갓길 방범용 폐쇄회로 텔레비전 확산'을 시작한다. 6월부터 귀가 시작하기 전에, 알파 기반 관제 시스템이 이 범죄 취약지역을 강화한다.",
-      "points": [
-        "과천시는 AI CCTV 확산 설치를 시작하며, 방범용 폐쇄회로에 대한 범죄 취약지역 정책을 강화하기 위한 기능을 볼 수 s있다.",
-        "6월까지 진행하고 있는 설치와 교체 설치 움컷에 대한 법률이 필요하다.",
-        "귀가 없는 안심귀갓길 범죄 취약지역이 만들어진다."
-      ],
-      "insight": "과천시의 이 설치는 AI 기기가 폐쇄회로 정보를 기반으로 범죄 취약지역을 강화하도록 할 수 있다. 이런 시대의 보호 예산은 좀 더 충분하지만, 이겨도 시민의 안심이 발침될 수 있다."
-    },
-    {
-      "title": "광주시, 경기도 민원실 최초 ‘AI 모자이크 CCTV’ 도입... 개인정보보호 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142611&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 14:07:00 +0900",
-      "description": "민원실 CCTV 영상 얼굴·신체 자동 모자이크 처리 AI 시스템 도입악성 민원 대응 강화·영상 유출 2차 피해 예방 기대[보안뉴스 강초희 기자] 광주시(시장 방세환)는 민원실 내 안전 확보와 개인정보 보호 강화를 위해 경기도 민원실 가운데 최초로 ‘지능형(AI) 모자이크 CCTV’를 도입했다고 밝혔다.이번에 도입된 지능형 모자이크 CCTV는 민원실 내 촬영",
-      "language": "ko",
-      "summary": "민원실 CCTV 영상 얼굴·신체 자동 모자이크 처리 AI 시스템 도입악성 민원 대응 강화·영상 유출 2차 피해 예방 기대[보안뉴스 강초희 기자] 광주시(시장 방세환)는 민원실 내 안전 확보와 개인정보 보호 강화를 위해 경기도 민원실 가운데 최초로 ‘지능형(AI) 모자이크 CCTV’를 도입했다고 밝혔다. 이번에 도입된 지능형 모자이크 CCTV는 민원실 내 촬영",
-      "points": [
-        "이번에 도입된 지능형 모자이크 CCTV는 민원실 내 촬영",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“스마트도시 조성사업 추진” 교통·환경·안전 도시 문제, AI로 해결",
-      "link": "http://www.boannews.com/media/view.asp?idx=142612&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 14:02:00 +0900",
-      "description": "2026년 거점형·특화단지 공모사업 및 2027년 강소형 지원사업 안내지방정부 6곳 이내 선정, 3년간 국비 최대 560억원 규모 지원[보안뉴스 강초희 기자] 교통 혼잡, 기후위기, 안전 문제 등 도시 생활 속 불편을 인공지능(AI)과 스마트기술로 해결하는 스마트도시 조성사업이 올해도 추진된다.국토교통부(장관 김윤덕)는 교통, 환경, 안전 등 다양한 도시",
-      "language": "ko",
-      "summary": "2027년 강소형 시골 조성사업이 시대의 필요없이 시작되었다.",
-      "points": [
-        "교통·환경·안전 문제를 인공지능과 스마트기술로 해결하여 이 녹산 도시 조성",
-        "국토교통부가 선정받을 수  endpoint 매장 6개 이내 구조화된 공모사업",
-        "2년간 국비 최대 560억원 지원 모니터링을 위한 기술적인 지원"
-      ],
-      "insight": "이 기사는 우리나라의 인공지능이 시대의 모든 문제를 예방하고 있는 방법을 녹산 시입을 압박할 수 있는 녹산 도시 조성으로 시입한다."
     }
   ]
 }
