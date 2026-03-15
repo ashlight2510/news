@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-15T06:57:59.635Z",
+  "generatedAt": "2026-03-15T12:56:24.508Z",
   "articles": [
+    {
+      "title": "AI 어시스턴트 ‘ZeptoClaw’ 고위험 취약점... 웹훅 인증 우회로 ‘신원 스푸핑’ 노출",
+      "link": "http://www.boannews.com/media/view.asp?idx=142635&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 15 Mar 2026 16:05:00 +0900",
+      "description": "‘GenericWebhook’ 채널의 ‘sender’, ‘chat_id’ 값 맹목적 신뢰...CVSS 8.2 고위험 취약점안전하지 않은 직접 객체 참조(IDOR) 악용 시 다른 사용자 채팅방 오염 및 세션 탈취 가능[보안뉴스 조재호 기자] 개인용 AI 어시스턴트 플랫폼인 ‘ZeptoClaw’에서 외부 공격자가 내부 사용자로 완벽하게 위장해 시스템을 장악할",
+      "language": "ko",
+      "summary": "‘GenericWebhook’ 채널의 ‘sender’, ‘chat_id’ 값 맹목적 신뢰. 2 고위험 취약점안전하지 않은 직접 객체 참조(IDOR) 악용 시 다른 사용자 채팅방 오염 및 세션 탈취 가능[보안뉴스 조재호 기자] 개인용 AI 어시스턴트 플랫폼인 ‘ZeptoClaw’에서 외부 공격자가 내부 사용자로 완벽하게 위장해 시스템을 장악할",
+      "points": [
+        "‘GenericWebhook’ 채널의 ‘sender’, ‘chat_id’ 값 맹목적 신뢰",
+        "2 고위험 취약점안전하지 않은 직접 객체 참조(IDOR) 악용 시 다른 사용자 채팅방 오염 및 세션 탈취 가능[보안뉴스 조재호 기자] 개인용 AI 어시스턴트 플랫폼인 ‘ZeptoC...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "TTA 정보보호안전연구소, 디지털 리스크 시대의 새로운 보안 패러다임의 탄생",
+      "link": "http://www.boannews.com/media/view.asp?idx=142554&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 15 Mar 2026 16:00:00 +0900",
+      "description": "디지털 기술 도입 및 운영에서 발생할 수 있는 디지털 리스크 사전 검증 전담개인정보 보호와 안전한 데이터 활용, AI 보안, 재난 및 공공안전 등 검증보안, 눈에 보이는 성과보다 사고가 발생하지 않았을 때 비로소 의미가 드러나는 영역[보안뉴스 엄호식 기자] 한국정보통신기술협회(TTA)는 1988년 정보통신기술 표준 개발 및 보급과 시험인증 지원을 위해 설립",
+      "language": "ko",
+      "summary": "디지턴 기술의 도입으로 인양한 보호와 안전 사용 문제가 발생하고, 이를 AI로 해결할 수 없는 심각한 어려움을 가진 IT/기술 업체들에서 정보보호 탄젼이 필요하다고 말했다.",
+      "points": [
+        "디지턴 기술의 도착에 인양한 전용 보호와 안전 공급이 수요일 신청과 조사에서 알려진 문제가 있다고 해온다.",
+        "비로소를 인식하여 IT/기술 회사들은 이러한 어렵고 엄격한 문제를 AI로의 해결에 필요한 지원을 보장받아야 했다.",
+        "이러한 IT/기술 회사들은 생산운영과 공급업체에서 정보보호 탑시를 지어야 했다."
+      ],
+      "insight": "디지턴 기술이 인양한 보호와 공급에 대한 문제를 AI로의 해결을 요구하고 있다는 심각한 IT/기술 분야에서 비로소를 인식하여 이를 개선하도록 보호와 탐지 제어를 진행하는 정신으로써 IT/기술 회사들은 결국 비로소에 대한 인식과 개선을 이해할 수 0가지고 있다."
+    },
     {
       "title": "N2SF, 올해부터 전면 확산 나선다... KISA “보안 신기술 실증 끝나”",
       "link": "http://www.boannews.com/media/view.asp?idx=142634&kind=&sub_kind=",
@@ -720,36 +750,6 @@
         "2년간 국비 최대 560억원 지원 모니터링을 위한 기술적인 지원"
       ],
       "insight": "이 기사는 우리나라의 인공지능이 시대의 모든 문제를 예방하고 있는 방법을 녹산 시입을 압박할 수 있는 녹산 도시 조성으로 시입한다."
-    },
-    {
-      "title": "3월 14일부터 ‘대형산불 특별대책기간’ 가동, 범정부 대응체계 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142613&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 13 Mar 2026 14:00:00 +0900",
-      "description": "최근 10년간 대형산불 74%가 3~4월에 집중, 국가 가용자원 총동원산불 예방 홍보·단속 강화 및 위반 행위 엄정 처벌[보안뉴스 강초희 기자] 정부는 봄철 산불 위험에 대비해 3월 14일부터 4월 19일까지를 ‘대형산불 특별대책기간’으로 지정하고 범정부 차원의 협력 대응체계를 본격 가동한다.2016년부터 2025년까지 10년간 전체 산불의 46%, 피해",
-      "language": "ko",
-      "summary": "이러한 대형산불이 일부로 예방되며, 범정부는 이러한 위험으로 대체되고 있음",
-      "points": [
-        "대형산불 특별대책 기간 지정",
-        "범정부의 대체으로 진입",
-        "완전 대체으로 수행 가능성"
-      ],
-      "insight": "이러한 대책이 이러한 위험을 방지하며, 범정부는 이러한 위험을 잡아내고 피해와 대체할 수 0ne입니다."
-    },
-    {
-      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-      "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 13 Mar 2026 05:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "A startup called IonQ aims to create a quantum computing service accessible to enterprises before quantum computers become widely available. The company emphasizes preparing for the quantum era with specialized hardware and software.",
-      "points": [
-        "IonQ, a quantum computing startup, is focusing on creating a service for enterprises to use quantum computing before it'termally arrives in the market.",
-        "The startup has developed specialized hardware and software to support quantum computing needs, and is currently providing access to over 200 companies.",
-        "IonQ is taking steps to prepare the industry for the quantum era, with the potential of quantum computers to revolutionize industries like medicine, energy, and transportation."
-      ],
-      "insight": "IonQ's approach to creating a quantum computing service before it becomes widely available highlights the importance for enterprises to prepare for this next-generation technology and its potential impact on various industries."
     }
   ]
 }
