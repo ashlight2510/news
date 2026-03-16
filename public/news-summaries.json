@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-03-16T13:18:09.073Z",
+  "generatedAt": "2026-03-16T19:07:17.432Z",
   "articles": [
+    {
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 18:36:42 +0000",
+      "description": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+      "language": "en",
+      "summary": "Apple has released its newest addition to the Mac lineup - the affordable and highly repairable MacBook Neo.",
+      "points": [
+        "The MacBook Neo boasts a design that allows for easy disassembly, making it Apple's most easily repairable laptop in about fourteen years according to iFixit.",
+        "This repair-friendly aspect of the newest Mac may challenge conventional wisdom and shift focus on affordable computing.",
+        "The tech community is interested to see if other manufacturers will follow suit with similar design changes for their products."
+      ],
+      "insight": "The creation of a highly repairable laptop by Apple can potentially disrupt the repair culture in technology, and it opens doors for consumers who want or need an affordable Mac but cannot bear its usual high prices due to potential maintenance issues. Additionally, this move could encourage other tech companies to reconsider their product designs towards more sustainability."
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 17:51:46 +0000",
+      "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+      "language": "en",
+      "summary": "Nvidia CEO Jensen Huang is set to deliver a keynote at GTC discussing his vision for the company’s impact on artificial intelligence (AI) and computing's future.",
+      "points": [
+        "Jensen Huang will focus Nvidia's role in AI during GTC",
+        "The event is significant as it showcases new products, partnerships, and visions for the industry annually.",
+        "Huang aims to address future of computing at this major IT conference"
+      ],
+      "insight": "This keynote underscores Nvidia's commitment to AI advancement within its corporate mission. The insights from Huang’s speech could influence the trajectory for how both industries perceive and approach future computing technology."
+    },
+    {
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 17:47:32 +0000",
+      "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "language": "en",
+      "summary": "Frore develops a new cooling technology to keep data center servers running efficiently and cooled effectively without noise, leading them to achieve unicorn status.",
+      "points": [
+        "Liquid-cooling tech helps Frore reduce energy consumption by over half compared to traditional methods",
+        "Frore's cooler does not require racks or specialized infrastructure unlike other systems in the market",
+        "$143 million raised from Nvidia CEO Jensen Huang, among others"
+      ],
+      "insight": "This breakthrough indicates a trend towards more energy-efficient data centers which can significantly reduce operational costs and environmental impact."
+    },
+    {
+      "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
+      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 17:43:27 +0000",
+      "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "language": "en",
+      "summary": "Fuse has raised $25M to provide an alternative loan origination system using AI technology targeting US credit unions with outdated systems. Alongside this funding round, Fuse announced a rescue fund of $5 million aimed at assisting these institutions in transition from legacy software solutions.",
+      "points": [
+        "Fuse raised $25M to launch an AI-native loan origination platform for US credit unions",
+        "The startup has also set aside $5 million as a 'rescue fund' specifically designed for the replacement of outdated systems with their proprietary solution.",
+        "This initiative could potentially accelerate modernization efforts among legacy institutions within the financial sector."
+      ],
+      "insight": "Fuse is challenging traditional loan origination processes by leveraging AI, offering a cost-effective and efficient alternative to older systems. This move not only benefits individual credit unions but also encourages wider adoption of innovative technologies within the financial industry."
+    },
+    {
+      "title": "The dictionary sues OpenAI",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 17:38:34 +0000",
+      "description": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "language": "en",
+      "summary": "Encyclopedia Britannica and Merriam-Webster have accused OpenAI of copyright infringement after they used thousands of articles without permission.",
+      "points": [
+        "OpenAI trained its large language model (LLM) using over 95,00 extraneous copies from their archives which were not licensed for such use by Encyclopedia Britannica and Merriam-Webster as stated in the complaint filed to federal court.",
+        "The copyrighted material used included articles published between October 1783 until September of this year with various subjects ranging from science, history to politics.",
+        "OpenAI's training methods for LLM have raised concerns regarding intellectual property and fair use in the tech industry."
+      ],
+      "insight": "This lawsuit could set a precedent on how AI companies like OpenAI acquire knowledge without directly copying from copyrighted sources, potentially impacting future technology developments. It also highlights tensions between open-source information and intellectual property rights in the tech sector."
+    },
+    {
+      "title": "Antonio Gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos",
+      "link": "https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 15:57:02 +0000",
+      "description": "Antonio Gracias talks at the Upfront Summit in LA about the future of technology.",
+      "language": "en",
+      "summary": "In his discussion on 'proentropic' startups that are resilient to chaos and designed for longevity, Antonio Gracias emphasizes adaptability as a key factor for success in the technology industry.",
+      "points": [
+        "Antonio Gracias identifies proentropic startups built with an inherent capability to endure tumultuous times due to their design principles that prioritize agility and customer focus over rapid scaling or high valuations, highlighting these companies as the true pioneers in technology.",
+        "The Upfront Summit provided Antonio Gracias a platform where he stressed on entrepreneurial flexibility with an example of his own startup, which has seen significant challenges yet managed to survive and thrive since its inception three years ago by consistently delivering exceptional user experiences.",
+        "Antonio encourages technology companies today not only focusing on quick growth or high stock prices but rather building robust systems that endure economic downturns, pointing out the need for adaptability as a crucial skill set to prepare young entrepreneurs and tech industry veterans alike."
+      ],
+      "insight": "The emphasis on proentropic startups suggests Antonio Gracias is advocating for resilience over rapid expansion in technology, with an end goal of long-term sustainability rather than short-lived success spurred by market hype or speculative investments."
+    },
+    {
+      "title": "Shopify is preparing for AI shopping agents to change everything, exec says",
+      "link": "https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 15:56:39 +0000",
+      "description": "Shopify is preparing for an e-commerce transformation via AI shopping agents, says president Harley Finkelstein.",
+      "language": "en",
+      "summary": "Harley Finkelstein, President of Shopify, anticipates a significant shift in the online retail landscape with the introduction of AI shopping agents.",
+      "points": [
+        "Shopify is getting ready for an e-commerce revolution by bringing artificial intelligence into customer interactions through conversational and visual experiences to help users find products more effectively."
+      ],
+      "insight": "The adoption of Shopify'ner AI agents suggests a move towards personalized, efficient shopping that could redefine user expectations in the e-commerce industry. This represents potential competitive advantages for those embracing these technologies ahead of others."
+    },
+    {
+      "title": "Apple quietly launches AirPods Max 2",
+      "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 16 Mar 2026 14:12:50 +0000",
+      "description": "The successor to its premium headphones cost $549 and are launching with enhanced active noise cancellation, the H2 chip, live translation, better sound quality, and more.",
+      "language": "en",
+      "summary": "Apple quietly introduced AirPods Max 2 at a price of $549 with improved features like active noise cancellation (H2 chip), live translation, better sound quality and more.",
+      "points": [
+        "The successor to Apple's premium headphones launches",
+        "AirPods Max 2 cost $549",
+        "Features include enhanced active noise cancellation (H2 chip), live translation, better sound quality and more"
+      ],
+      "insight": "The release of AirPods Max 2 is a reminder that despite the availability of cheaper alternatives, Apple still maintains its loyal customer base with high-end products. It also shows how important personalized experiences are in tech industry to keep customers engaged and retain market share."
+    },
     {
       "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets",
       "link": "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/",
@@ -629,126 +747,6 @@
         "시프트 레프트로 선제 차단해야”[보안뉴스 조재호 기자] “ORM을 쓰면 SQL 인젝션은 걱정 없다”는 현장의 통념이 흔들리고 있다"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "유로폴, 이란 분쟁발 유럽 내 테러·사이버 위협 경고... “민관 통합 방어 시급”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142624&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 14 Mar 2026 12:52:00 +0900",
-      "description": "중동 분쟁 여파로 유럽 내 단독 테러, 허위 정보 유포, 사이버 공격 증가 우려민간 분야 협력 통한 제로트러스트 기반 사이버 방어망 및 자금 차단 체계 구축 강조[보안뉴스 김형근 기자] 유럽 경찰기구인 유로폴(Europol)이 중동 분쟁으로 인해 EU 내 테러와 사이버공격 위협이 급증할 것이라고 경고하며, 민관이 협력한 선제적 방어체계 구축을 당부했다.유로",
-      "language": "ko",
-      "summary": "중동 분쟁 여파로 유럽 내 단독 테러, 허위 정보 유포, 사이버 공격 증가 우려민간 분야 협력 통한 제로트러스트 기반 사이버 방어망 및 자금 차단 체계 구축 강조[보안뉴스 김형근 기자] 유럽 경찰기구인 유로폴(Europol)이 중동 분쟁으로 인해 EU 내 테러와 사이버공격 위협이 급증할 것이라고 경고하며, 민관이 협력한 선제적 방어체계 구축을 당부했다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 레드펜소프트, 런타임 공격 표면 식별하는 ‘XSCAN Server Runtime’ 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142629&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 14 Mar 2026 12:50:00 +0900",
-      "description": "Runtime SBOB으로 ASM 식별, 국가망 보안체계(N2SF) 완벽 준수 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 조재호 기자] 레드펜소프트가 오는 3월 일산 킨텍스에서 열리는 아시아 최대 통합보안 전시회 ‘SECON & eGISEC 2026’에 참가해 소프트웨어 공급망의 런타임 위협을 해결할 ‘엑스스캔 서버 런타임’(XSCAN",
-      "language": "ko",
-      "summary": "eGISEC 2don't forget it started in Asia",
-      "points": [
-        "eGISEC Server Runtime를 시작했다.",
-        "ASM(Application Security Manager)을 사용하여 레전타임 검색에 대한 서버를 개발",
-        "XSCAN Server Runtime는 국가망의 보안측면에서 플러스트 캐시에 의해 유지하고 있다."
-      ],
-      "insight": "이러한 서버 레전타임 검색기기는 레전타임을 위한 보안준수에 필요한 지속적인 자원이 충막되지만, 스마트하이드 기반의 XSCAN Server Runtime는 ASM을 사용한다면, 대부분의 플랫토리에서의 근인 공격과 익명적인 레전타임 모니터Race condition가 어떻게 되고, 그러면 XSCAN Server Runtime는 플랫톤이의 보안을 강화하도록 시스템으로 만들어주었다."
-    },
-    {
-      "title": "[eGISEC 2026] 마블시스템, 포트 관리 솔루션 ‘엔스카우터’ 전시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142630&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 14 Mar 2026 12:49:00 +0900",
-      "description": "열린 포트 상시 점검 및 네트워크 자산 효율적 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 조재호 기자] 마블시스템이 오는 3월 일산 킨텍스에서 열리는 아시아 최대 통합보안 전시회 ‘SECON & eGISEC 2026’에 참가해 해킹의 주요 침입 경로를 차단하는 네트워크 포트 관리 전문 솔루션 ‘엔스카우터’(N-Scouter)를 선보인다고",
-      "language": "ko",
-      "summary": "열린 포트 상시 점검 및 네트워크 자산 효율적 관리3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 조재호 기자] 마블시스템이 오는 3월 일산 킨텍스에서 열리는 아시아 최대 통합보안 전시회 ‘SECON & eGISEC 2026’에 참가해 해킹의 주요 침입 경로를 차단하는 네트워크 포트 관리 전문 솔루션 ‘엔스카우터’(N-Scouter)를 선보인다고",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[eGISEC 2026] 뮤즈블라썸, AI 기반 비가청·비가시 워터마크 솔루션 ‘Contents Defence’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142631&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 14 Mar 2026 12:48:00 +0900",
-      "description": "보이지 않는 마커 삽입해 유출 탐지 및 포렌식 원스톱 지원3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 조재호 기자] 콘텐츠 및 음성 보안기술 전문기업 뮤즈블라썸이 미디어 콘텐츠의 데이터 유출을 탐지하고 추적하는 AI 기반 워터마크 솔루션 ‘콘텐츠 디펜스(Contents Defence)’를 SECON & eGISEC 2026에서 선보인다고 밝혔",
-      "language": "ko",
-      "summary": "eGISEC 2026에서 받은 소식에 따름, 뮤즈브랜드의 ‘Contents Defence’ AI 기능은 비가청·비가시의 마커 삽입과 유출을 탐지하는 솔루션으로, SECON & eGISEC에서 공객해본다.",
-      "points": [
-        "미디어 콘텐츠의 유출을 AI를 사용하여 탐지하고 관리하는 기능이 밝혔다.",
-        "eGISEC 2026에서 ‘Contents Defence’ AI 기능을 선보인다.",
-        "비가청·비가시의 피로트인 eGISEC 2026에서 받은 소식을 제시한다."
-      ],
-      "insight": "이러한 AI 기능이 IT/컴모지의 비가청·비가시에서 중요한 역할을 확보한다. 비가청·비가시의 계약성과 마케팩터맨기술이나 IT 업체에서도 이러한 AI를 사용하여 보호할 수 있는지, 그리고 다른 비가청·비가시나 미세스트레이집트에서도 유연한 비가청을 제공하기를 원한다."
-    },
-    {
-      "title": "[eGISEC 2026] 시큐어이즈, AI 건강체크 솔루션 ‘Healthbot’ 출품",
-      "link": "http://www.boannews.com/media/view.asp?idx=142632&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 14 Mar 2026 12:46:00 +0900",
-      "description": "rPPG 방식으로 혈압·맥박·음주 여부 등 건강 상태 실시간 측정3월 18~20일 일산 킨텍스 제1전시장 3~5홀[보안뉴스 조재호 기자] 시큐어이즈가 오는 3월 일산 킨텍스에서 열리는 아시아 최대 통합보안 전시회 ‘SECON & eGISEC 2026’에 참가해 산업현장 근로자의 건강 상태를 측정하고 출입을 통제하는 스마트 건강체크 키오스크 ‘헬스봇’(Hea",
-      "language": "ko",
-      "summary": "기사는 eGISEC 2026에서 ‘Healthbot’ AI 건강체크 시퀀스이다.",
-      "points": [
-        "Heartbeat을 따로 측정한 rPPG(속도복호화 혈압)방식을 사용한 Healthbot 솔루션이다.",
-        "맥박·음주 여부를 임의점 인증법과 같은 기능을 수행한다.",
-        "사용자 개인정보 유 Einzelnstein화되어 안전한 이용가능하다."
-      ],
-      "insight": "Healthbot은 IT/기술 업계에서 사회적 건강측정과 보호를 위해 도케오데이트되고 있다. 이러한 AI 기능들은 실시간 계신에 큰 의미가 있다."
-    },
-    {
-      "title": "[부고] 백건대 한국보안인증 대표 부친상",
-      "link": "http://www.boannews.com/media/view.asp?idx=142633&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 14 Mar 2026 11:01:00 +0900",
-      "description": "△내용: 백건대 한국보안인증 대표 부친상△고인: 故 백복현님 (향년 92세)△빈소: 은하수공원장례식장 9호실 (세종 정안세종로 1527)△발인: 2026년 3월 14일(토) 09시△장지: 장군면 선영[조재호 기자(zephyr@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "△내용: 백건대 한국보안인증 대표 부친상△고인: 故 백복현님 (향년 92세)△빈소: 은하수공원장례식장 9호실 (세종 정안세종로 1527)△발인: 2026년 3월 14일(토) 09시△장지: 장군면 선영[조재호 기자(zephyr@boannews. com)]<저작권자: 보안뉴스(www...",
-      "points": [
-        "△내용: 백건대 한국보안인증 대표 부친상△고인: 故 백복현님 (향년 92세)△빈소: 은하수공원장례식장 9호실 (세종 정안세종로 1527)△발인: 2026년 3월 14일(토) 09시...",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 14 Mar 2026 00:12:22 +0000",
-      "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-      "language": "en",
-      "summary": "Elon Musk's xAI lab is restarting its development of an AI coding tool due to previous setbacks. Two new executives from Cursor are joining to lead the project.",
-      "points": [
-        "Elon Musk'ner's AI lab is revamping its AI coding tool project.",
-        "Two new executives from Cursor are joining the project.",
-        "The project is restarting due to previous setbacks."
-      ],
-      "insight": "This news reflects the complexity of developing AI tools and the need for experienced leadership, suggesting that while challenges are common in the AI industry, perseverance and strategic hires can lead to success."
-    },
-    {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 14 Mar 2026 00:01:02 +0000",
-      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "language": "en",
-      "summary": "Lawyer Mark O'Mara, who represents victims of AI psychosis, warns of the potential for AI-driven mass casualty incidents as technology advances outpace safety measures. He emphasizes the urgency for companies like Microsoft, Apple, and Google to address the issue.",
-      "points": [
-        "AI chatbots have been linked to suicides for years, with recent cases involving mass casualties.",
-        "The technology is advancing rapidly, with AI systems becoming increasingly sophisticated and autonomous.",
-        "Companies like Microsoft, Apple, and Google have been criticized for not doing enough to address the issue."
-      ],
-      "insight": "The growing risk of AI-driven mass casualty incidents underscores the urgent need for companies to prioritize ethical considerations and implement robust safety measures to protect vulnerable individuals."
     }
   ]
 }
