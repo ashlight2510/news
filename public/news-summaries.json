@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-03-18T02:15:42.403Z",
+  "generatedAt": "2026-03-18T07:18:55.311Z",
   "articles": [
+    {
+      "title": "국민 중심의 디지털 행정서비스 안정성 강화 정책 열린다",
+      "link": "http://www.boannews.com/media/view.asp?idx=142686&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Mar 2026 15:47:00 +0900",
+      "description": "행정안전부 ‘디지털 행정서비스 장애 진단·복구 세미나’, SECON 2026 동시 개최 행사로 열려국정자원 화재로 드러난 문제점 해결 위한 9가지 정책 방향 발표[보안뉴스 원병철 기자] 디지털 행정이 우리 일상에 꼭 필요한 필수 인프라로 자리 잡으면서 문제 발생시 서비스 장애를 즉각적으로 진단하고 복구하는 것이 매우 중요해졌다. 이에 행정안전부는 디지털 행",
+      "language": "ko",
+      "summary": "국민 중심의 디지털 행정서비스를 강화하기 위한 9가지 정책 방안을 제시한다.",
+      "points": [
+        "디지털 행정서비스 안전성을 보장하는 9가지 정챴 방식이 개강에서 소개",
+        "운영중인 문제 발생시 진단과 경영진의 즉각적인 조치 필요성에 대한 강조",
+        "지원되는 다양한 정챴 전략을 소개"
+      ],
+      "insight": "이러한 정챨 유도를 통해 IT/기술 업계가 디지털 시스템의 안전성을 보장하고 항상 일하는 서비스 관리자는 IT 문제점에 대응할 수 s가 되도록 만들어야 함"
+    },
+    {
+      "title": "소프트캠프 “실드게이트, N2SF 환경서도 안전한 AI 활용”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142684&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Mar 2026 14:48:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 소프트캠프는 18일부터 20일까지 일산 킨텍스 제 1전시장에서 열리는 ‘SECON & eGISEC 2026’에서 원격 브라우저 격리(RBI) 기술 기반 제로트러스트 보안 원격 접속 서비스 실드게이트를 선보였다. 실드게이트는 국가 망 보안체계(N2SF) 환경에서도 안전한 AI 활용을 가능하게 하는 솔루션이다. SaaS 사용 확대와 생",
+      "language": "ko",
+      "summary": "소프트캐패의 실드게이드 서비스는 N2SF 환경에서 안전한 AI를 사용하도록 만들어졌다. RBI 기술자가 발행하며, SaaS 사용이 확대되고 있다.",
+      "points": [
+        "소프트캠픽은 SECON & eGISEC에서 발행한 실드게이드 서비스로, RBI 기술자의 역할을 하고 있다.",
+        "안전 운영 상태를 유지하면서 AI를 사용할 수 0ne가 되길 바람직했다.",
+        "RBI의 코드 공개도 N2SF에서 일어나고 있는데, 이를 통해 국가보안에도 효과적인 처리를 할 수 있다."
+      ],
+      "insight": "이러한 AI 보안서비스는 기술에 의해 영향을 미치며, 국가 보안과 IT 업체가 공급 할 수 있다."
+    },
+    {
+      "title": "‘AI와 공존하는 세상, 신뢰 초석 놓는다’... SECON & eGISEC 2026 개막",
+      "link": "http://www.boannews.com/media/view.asp?idx=142682&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Mar 2026 14:41:00 +0900",
+      "description": "아시아 최대 규모 통합보안 전시회 ‘세계보안엑스포 & 전자정부 정보보호 솔루션 페어’ (SECON & eGISEC 2026)... 물리보안 및 사이버보안 솔루션 총망라 3월 18일~20일, 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최 총 19개국 412개 기업, 1770부스에서 첨단 보안 솔루션과 기술 전시전자정부 정보보호 콘퍼런스와 시큐리티월드 콘퍼",
+      "language": "ko",
+      "summary": "아시아 최대 규모 통합보안 전시회 ‘세계보안엑스포 & 전자정부 정보보호 솔루션 페어’ (SECON & eGISEC 2026). 물리보안 및 사이버보안 솔루션 총망라 3월 18일~20일, 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최 총 19개국 412개 기업, 1770부스에서 첨단 보안 솔루션과 기술 전시전자정부 정보보호 콘퍼런스와 시큐리티월드 콘퍼",
+      "points": [
+        "아시아 최대 규모 통합보안 전시회 ‘세계보안엑스포 & 전자정부 정보보호 솔루션 페어’ (SECON & eGISEC 2026)",
+        "물리보안 및 사이버보안 솔루션 총망라 3월 18일~20일, 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최 총 19개국 412개 기업, 1770부스에서 첨단 보안 솔루션과 기술 전...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "트루엔, 아시아 최대 보안 엑스포 ‘SECON 2026’서 온디바이스 AI 카메라 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=142685&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Mar 2026 14:32:00 +0900",
+      "description": "GPU 없이 영상분석 수행... 공공·산업 현장 확장 가능한 고성능 AI 보안 솔루션 강조[보안뉴스 엄호식 기자] 트루엔은 이번 행사에서 하이엔드 온디바이스 AI(인공지능) 카메라 ‘TA시리즈’를 선보인다. TA시리즈는 20 TOPS 연산력을 기반으로 한 고성능 AI SoC(시스템 온 칩)를 탑재해 AI 노이즈 제거 기술과 다이나믹 타일링(Dynamic T",
+      "language": "ko",
+      "summary": "GPU 없이 영상분석 수행. 공공·산업 현장 확장 가능한 고성능 AI 보안 솔루션 강조[보안뉴스 엄호식 기자] 트루엔은 이번 행사에서 하이엔드 온디바이스 AI(인공지능) 카메라 ‘TA시리즈’를 선보인다...",
+      "points": [
+        "공공·산업 현장 확장 가능한 고성능 AI 보안 솔루션 강조[보안뉴스 엄호식 기자] 트루엔은 이번 행사에서 하이엔드 온디바이스 AI(인공지능) 카메라 ‘TA시리즈’를 선보인다",
+        "TA시리즈는 20 TOPS 연산력을 기반으로 한 고성능 AI SoC(시스템 온 칩)를 탑재해 AI 노이즈 제거 기술과 다이나믹 타일링(Dynamic T",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[카드뉴스] “셀카 한 장에 뚫리는 보안?” 3D 안면 복제 기술이 부른 생체 보안의 종말",
+      "link": "http://www.boannews.com/media/view.asp?idx=142683&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 18 Mar 2026 13:24:00 +0900",
+      "description": "고해상도 사진 한 장에서 AI가 안면 구조를 3D로 완벽 복원하는 기술이 발전함에 따라, 기존의 2D 기반의 안면인식 시스템이 무력화될 위험이 커지고 있다. 이를 방어하기 위해 눈 깜빡임, 미세 근육, 혈류 등을 실시간으로 분석해 실제 살아있는 사람인지 식별하는 ‘라이브니스(Liveness)’ 기술이 필수 보안 요소로 부상하고 있다. 편리함 위주의 보안에서",
+      "language": "ko",
+      "summary": "고해상도 사진 한 장에서 AI가 안면 구조를 3D로 완벽 복원하는 기술이 발전함에 따라, 기존의 2D 기반의 안면인식 시스템이 무력화될 위험이 커지고 있다. 이를 방어하기 위해 눈 깜빡임, 미세 근육, 혈류 등을 실시간으로 분석해 실제 살아있는 사람인지 식별하는 ‘라이브니스(Liveness)’ 기술이 필수 보안 요소로 부상하고 있다...",
+      "points": [
+        "고해상도 사진 한 장에서 AI가 안면 구조를 3D로 완벽 복원하는 기술이 발전함에 따라, 기존의 2D 기반의 안면인식 시스템이 무력화될 위험이 커지고 있다",
+        "이를 방어하기 위해 눈 깜빡임, 미세 근육, 혈류 등을 실시간으로 분석해 실제 살아있는 사람인지 식별하는 ‘라이브니스(Liveness)’ 기술이 필수 보안 요소로 부상하고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "델 테크놀로지스, ‘엔비디아 기반 델 AI 데이터 플랫폼’ 제품군 확대",
       "link": "http://www.boannews.com/media/view.asp?idx=142680&kind=&sub_kind=",
@@ -671,79 +746,6 @@
         "Nvidia ensured the security of its AI agents by building them on top of an enterprise-grade OS and limiting their capabilities."
       ],
       "insight": "The release demonstrates Nvidia's commitment to addressing cybersecurity issues in bot technology, which could encourage more robust protection measures across the industry. As AI becomes increasingly embedded into business processes, companies like Nvidia lead by example with secure alternatives."
-    },
-    {
-      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Mar 2026 21:41:37 +0000",
-      "description": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-      "language": "en",
-      "summary": "Jensen Huang has projected Nvidia's chip sales to reach a staggering $1 trillion in future revenue streams.",
-      "points": [
-        "Nvidia CEO Jensen Huang expects orders for the company’s chips worth around $1 trillion going forward, reports Wired. The projection comes during an earnings call this Tuesday morning where Nvidia will report its second quarter revenue and profit.",
-        "According to the plan set out by CEO Huang last night on a private Zoom chat with investors that was leaked ahead of time, there are three pillars for reaching $1 trillion in chip sales: more data centers being built around AI-powered systems; continued growth and adoption of autonomous vehicles (and the corresponding increase in computer vision chips); a surge demand from consumers as well.",
-        "This projection has been viewed by some industry analysts with skepticism due to its magnitude, especially since Nvidia’s stock price actually dropped after Huang made his announcement yesterday."
-      ],
-      "insight": "Nvidia's ambitious revenue projections could reflect the company's confidence in AI and autonomous driving technologies as significant growth areas within IT/technology, even though skepticism remains among analysts given stock price movements."
-    },
-    {
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Mar 2026 20:58:36 +0000",
-      "description": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-      "language": "en",
-      "summary": "Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk",
-      "points": [
-        "Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Mar 2026 20:30:00 +0000",
-      "description": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
-      "language": "en",
-      "summary": "Memories.ai develops an extensive visual memory system to help wearable devices and robots recall past events through videos.",
-      "points": [
-        "The new technology allows physical AI systems like robotics or smart glasses, equipped with cameras for recording video memories of activities performed in the real world."
-      ],
-      "insight": "This innovation can enhance interaction between humans and machines by providing a more natural memory recall mechanism within wearable technologies. It may lead to significant advancterments in robotics, personal devices, accessibility for visually impaired individuals, entertainment applications like video games or virtual reality experiences."
-    },
-    {
-      "title": "Samsung bets this island startup can tame the grid with software and batteries",
-      "link": "https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Mar 2026 20:00:00 +0000",
-      "description": "GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures.",
-      "language": "en",
-      "summary": "Samsung invests in GridBeyond, a startup developing software and battery tech to manage electricity supply on the grid.",
-      "points": [
-        "GridBeyond creates hardware/software coordination for balancing electrical flow using batteries",
-        "Samsung Ventures funds this island-based innovation with potential impacts across markets",
-        "The technology targets integration within existing energy grids to optimize performance"
-      ],
-      "insight": "This partnership signals growing interest in software solutions for grid management, potentially revolutionizing how utilities maintain balance between supply and demand."
-    },
-    {
-      "title": "Apple acquires video editing software company MotionVFX",
-      "link": "https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 16 Mar 2026 19:23:44 +0000",
-      "description": "The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite.",
-      "language": "en",
-      "summary": "Apple has acquired a video editing software company called MotionVFX in an effort to enhance its capabilities against competitors like Adobe Premiere Pro and the broader Creative Cloud suite.",
-      "points": [
-        "The acquisition of MotionVFX by Apple",
-        "Intensified competition with Adobe' end-to end video editing solutions, such as Adobe Premiere Pro ",
-        "Potential to integrate acquired technology into the existing Applications ecosystem."
-      ],
-      "insight": "The acquisition of MotionVFX is strategic for Apple in consolidating its position within both hardware and software realms. This move will potentially boost competition, particularly with Adobe's offerings that have traditionally dominated the video editing market segment."
     }
   ]
 }
