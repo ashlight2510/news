@@ -1,6 +1,215 @@
 {
-  "generatedAt": "2026-03-18T13:15:03.306Z",
+  "generatedAt": "2026-03-18T19:07:01.540Z",
   "articles": [
+    {
+      "title": "FBI is buying location data to track US citizens, director confirms",
+      "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 18:32:32 +0000",
+      "description": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.",
+      "language": "en",
+      "summary": "The FBI Director confirmed to Congress that they're buying commercial GPS tracking information of U.S. citizens and doing so even without obtaining proper legal permissions.",
+      "points": [
+        "FBI director Kash Patel confirms agency purchases location data",
+        "Location data can track Americans without warrant, reports say",
+        "Concerns over privacy violations"
+      ],
+      "insight": "The news raises serious concerns about the potential for abuse of surveillance powers and infringement on personal freedoms within the IT/technology industry."
+    },
+    {
+      "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
+      "link": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 17:58:28 +0000",
+      "description": "He told the Wall Street Journal he thinks autonomous planes will be \"10 times harder than Nikola ever was.\"",
+      "language": "en",
+      "summary": "Trevor Milton, founder of Nikola Motors and previously pardoned for fraud charges related to his company's fundraising efforts, has embarked on a new venture attempting to raise $1 billion through crowd-funding for developing AI-powered autonomous planes. He predicts this challenge will be significantly more difficult than founding Nikola Motors.",
+      "points": [
+        "Trevor Milton, the founder of Nikola Motors and someone who previously pardoned after being accused in a fraud case against his company's fundraising efforts is trying to raise $1 billion for developing AI-powered autonomous planes.",
+        "The ambitious project expects crowdfunding as its main source of raising capital, while Milton acknowledges the challenge will be much harder than founding Nikola Motors in 2degrees and securing an investment from Warren Buffett's Berkshire Hathaway.",
+        "Milton has no prior experience or background related to aviation technology but is taking on this project despite his acknowledged lack of expertise, seeing it as a unique opportunity."
+      ],
+      "insight": "This news highlights the continuous risk-taking and entrepreneurial spirit in the IT/technology industry where seasoned professionals are willing to take seemingly insurmountable challenges based on their conviction of potential success, even without prior expertise."
+    },
+    {
+      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+      "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 17:54:31 +0000",
+      "description": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "language": "en",
+      "summary": "Jack Conte of Patreon criticizes the 'fair use' argument by AI companies and advocates for creators to be compensated when their work is used as training data.",
+      "points": [
+        "AI CEO Jack Conte rejects fair use defense on behdision that licensing from major publishers shouldn't negate payment obligations to content creators.",
+        "Training AI systems often rely heavily on large datasets of copyrighted material, potentially bypassing traditional compensation mechanisms for creators.",
+        "Patreon CEO suggests a model whereby using an individual’s work as training data mandates direct payment or royalties to the original content producers."
+      ],
+      "insight": "This news highlights growing tensions between AI development and copyright laws, potentially prompting calls for industry-wide standardized licensing practices to fairly compensate creators whose work is used in training data. The Patreon CEO's stance may inspire similar actions from other platforms or lead to legislative changes."
+    },
+    {
+      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+      "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 17:15:00 +0000",
+      "description": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+      "language": "en",
+      "summary": "Rebel Audio is a comprehensive AI-based tool designed to simplify podcast creation by offering recording, editing, content clipping for social media sharing, and publishing features all within the platform.",
+      "points": [
+        "The Rebel Audio allows first-time creators or those with minimal technical knowledge to produce professional-looking podcasts without requiring extensive audio production skills.",
+        "Within the tool's interface, users can easily record episodes directly and seamlessly edit them for clarity using AI assistance before publishing their work on various platforms simultaneously through Rebel Audio’static social feed integration."
+      ],
+      "insight": "This innovation could democratize podcast production by reducing entry barriers with its user-friendly design, potentially expanding the audience and diversifying voices within the IT/technology industry as more individuals are empowered to create content relevant to their fields of expertise."
+    },
+    {
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 16:43:18 +0000",
+      "description": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "language": "en",
+      "summary": "The article highlights various new tools developed by Microsoft's Beta version of AI called 'Gemini', which can be integrated into the G Suite (now Google Workspace). These features include summarizing emails, drafting content with appropriate tone and style, organizing data more efficiently than spreadsheets allow, tracking meetings across different time zones effectively.",
+      "points": [
+        "Summarization of lengthy emails is now easier",
+        "Gemini can create professional-quality written materials by following specific instructions (tone, content)",
+        "Data organization and analysis tools are built to work directly in Google Sheets"
+      ],
+      "insight": "The introduction of Gemini AI features into G Suite/Google Workspace could revolutionize how businesses handle their daily tasks with automated assistance. The ability for these systems to understand context, mood and style adds a new level of sophistication in content generation that was previously unattainable."
+    },
+    {
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "link": "https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 16:34:42 +0000",
+      "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "language": "en",
+      "summary": "The article discusses various distraction-focused applications designed to counteract the negative effects of excessively consuming news online.",
+      "points": [
+        "There are numerous apps aimed at redirecting users' attention away from harmful news consumption habits, known as doomscrolling.",
+        "These alternative content platforms offer a variety of entertainment options to break the cycle and promote engaging activities that could lead to productivity boosts for both individuals and companies in Silicon Valley.",
+        "The article specifically highlights 10 apps with diverse functionalities, ranging from personalized news filtering based on mood or time-of-day preferences (e.g., Patchwork) to curated content that enhances mental health awareness during challenging times such as the pandemic and social movements."
+      ],
+      "insight": "These distraction-focused applications provide a counterbalance to the negative effects of excessive doomscrolling and can foster better mental health, productivity, and overall personal growth. Their benefits extend beyond individual users as companies may see improvements in employee wellness."
+    },
+    {
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 16:30:00 +0000",
+      "description": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+      "language": "en",
+      "summary": "Arena has established itself as the primary public leaderboard for evaluating artificial intelligence language models (LLMs), impacting funding decisions and industry competition.",
+      "points": [
+        "The startup Arena, previously LM Arena, serves as a centralized platform to compare different AI language models based on various tasks.",
+        "Arena's leaderboard significantly influences the perception of model capabilities in the technology community, swaying funding choices and launch strategies for new entrants in the market.",
+        "The competitive nature of Arena’curve pushes AI developers to continuously improve their models without explicit gaming mechanisms."
+      ],
+      "insight": "Arena's role as a leaderboard provides valuable transparency and comparison opportunities for stakeholders, which could lead to more informed investment decisions in the artificial intelligence sector. It also fosters an environment that rewards genuine advancements rather than manipulative tactics."
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 16:00:00 +0000",
+      "description": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "language": "en",
+      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise",
+      "points": [
+        "The company has raised $12 million in seed funding to build an AI operating system for enterprise",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube",
+      "link": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 16:00:00 +0000",
+      "description": "Facebook says it paid creators nearly $3 billion through its monetization programs in 2025, a 35% increase from the previous year and its highest annual total to date.",
+      "language": "en",
+      "summary": "Facebook has significantly increased payments to creators through new monetization programs, aiming to attract popular content producers from TikTok and YouTube.",
+      "points": [
+        "Investment in Facebook'table",
+        "Launch of the 'Creator Fund', offering $100 million for short-form video creation across various platforms (instagram.com/creatorsfund)",
+        "Introduction of a subscription model that allows advertisers to target ads based on content creator preferences, providing monetization opportunities without compromising user experience"
+      ],
+      "insight": "Facebook's initiatives indicate an aggressive move towards becoming the go-to platform for popular creators looking for sustainable income and showcases Facebook's effort to compete with TikTok and YouTube."
+    },
+    {
+      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+      "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 15:58:50 +0000",
+      "description": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+      "language": "en",
+      "summary": "Sequen has raised $16 million in series A funding for their AI-powered platform designed to bring TikTok-style content ranking and personalization to consumer companies.",
+      "points": [
+        "Sequen's technology enables large consumer businesses to deliver engaging, unique user experiences with algorithmically generated short videos akin to those on TikTok. The company plans to charge its customers $0.50 per view or an annual subscription fee ranging from hundreds to thousands of dollars.",
+        "Sequen's platform leverages advanced AI and machine learning technologies developed at the Massachusetts Institute of Technology (MIT) by co-founder Tomasz Mazurkiewicz, which can deliver personalized content within 10 seconds. It has already demonstrated success with its test customers such as a Boston radio station.",
+        "Sequen's CEO Tymur Geller is optimistic about the growth potential of their technology in various industries and emphasizes that every industry they approach, including automotin-, healthcare- and financial services sectors, can benefit from personalized video content."
+      ],
+      "insight": "Sequen's cutting-edge AI platform presents a promising solution for businesses looking to enhance user engagement by delivering unique and highly relevant short videos. As more industries recognize the benefits of this technology, it could become a standard approach in digital content marketing."
+    },
+    {
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 15:33:49 +0000",
+      "description": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+      "language": "en",
+      "summary": "Microsoft has acquired the AI-driven collaboration platform Cove, which is shutting down as its team joins Microsoft'ty. The service ended on April 1 with customer data scheduled for deletion.",
+      "points": [
+        "AI startup Cove will cease operations after joining Microsoft",
+        "Customer data from Cove to be deleted post-acquisition",
+        "Microsoft acquires AI collaboration platform without immediate plans of integration"
+      ],
+      "insight": "The acquisition suggests a strategic move by tech giants like Microsoft for talent and innovation in the rapidly evolving field of AI, though it raises questions about service continuity."
+    },
+    {
+      "title": "Marquis says over 672,000 people had personal and financial data stolen in ransomware attack",
+      "link": "https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 14:37:15 +0000",
+      "description": "Fintech company Marquis is notifying hundreds of thousands of people that hackers stole their personal and financial information, including their Social Security numbers.",
+      "language": "en",
+      "summary": "Marquis Fintech disclosed a significant data breach where over 672,000 individuals had their private details compromised in a ransomware attack.",
+      "points": [
+        "Hackers have stolen personal and financial information from Marquis",
+        "Affected parties include Social Security numbers of several hundred thousand people",
+        "Marquis is the target of an ongoing cybercrime investigation"
+      ],
+      "insight": "This ransomware attack exposes vulnerabilities in data protection measures and stresses the importance for IT companies to invest in robust security systems."
+    },
+    {
+      "title": "Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools",
+      "link": "https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 14:00:00 +0000",
+      "description": "A suspected group of Russian government hackers was caught targeting Ukrainians with new iPhone hacking tools designed for espionage and potentially to steal crypto.",
+      "language": "en",
+      "summary": "Russian alleged state-sponsored hackers have been caught using advanced iOS hacks on Ukrainians' iPhones for espionage and to potentially steal cryptocurrency.",
+      "points": [
+        "A suspected group of Russian government hackers were targeting Ukrainian iPhone users with new sophisticated spy tools, aimed at gathering personal data.",
+        "The purpose behind these cyber-attacks is speculated to include espionage and potentially stealing cryptocurrency as a motivation for the intrusion.",
+        "These activities have raised concerns about state-sponsored cyber warfare tactics being deployed against neighboring countries."
+      ],
+      "insight": "The incident underscores an escalating concern over nation-state actors exploiting digital platforms and technologies to conduct espionage, impact national security policies across borders. It may prompt a reevaluation of cybersecurity measures in the tech industry, especially concerning state threats."
+    },
+    {
+      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+      "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 18 Mar 2026 13:40:43 +0000",
+      "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+      "language": "en",
+      "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Mave Health aims to improve attention and mood with its brain-stimulating headset",
       "link": "https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/",
@@ -533,216 +742,6 @@
       "points": [
         "제로트러스트 지향 무자각 지속 인증 등 지능형 보안 모델 제시20일 ‘AI 기반 무자각 지속 인증’ 주제로 기술 발표",
         "N2SF 전환 해법 공유[보안뉴스 조재호 기자] 한컴위드가 국내 최대 보안 전시회에서 차세대 보안 솔루션을 선보이며 제로트러스트 및 국가망 보안체계(N2SF) 전환을 위한 기술적 ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "한국디지털포렌식센터, 기업 내부감사 디지털포렌식 자동 솔루션 ‘PRISMA MINT’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142672&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 16:09:00 +0900",
-      "description": "기업 내부감사용 디지털포렌식 자동화 솔루션 ‘PRISMA MINT’ 출시내부 위협 대응·디지털 증거 확보·법적 효력 기반 감사 체계 지원[보안뉴스 강초희 기자] 경찰 사이버수사관 출신 디지털포렌식 전문가들이 설립한 한국디지털포렌식센터(대표 최운영)가 기업 내부감사 및 보안감사를 위한 디지털포렌식 자동화 솔루션 ‘프리즈마 민트’(PRISMA MINT)를 공식",
-      "language": "ko",
-      "summary": "한국디지털포렌식센터가 PRISMA MINT, 기업 내부위협대응과 보안감사를 위한 디지털화 시스톯를 개체내의 자동화약인이다.",
-      "points": [
-        "PRISMA MINT는 기업 내부 위협 대응, 보안감사 및 디지털 시스톰의 자동화를 제공한다.",
-        "이 코드는 법적 효과성을 도모하고 있다.",
-        "기업들은 PRISMA MINT을 이용해 보안감사의 신뢰성을 향상시키고, 위협 대응 능력을 강화한다."
-      ],
-      "insight": "PRISMA MINT는 IT/기술 업계에서 기술이 생산되고 있는 현상인 인터넷 오버파일(IPO)과 비승(IPO failure), 가격(IPO pricing failures) 와 광범위한 IT 시스템의 자동화를 다룰 방안을 제공한다."
-    },
-    {
-      "title": "유니온바이오메트릭스, 35개국 파트너와 UGC 2026 개최... 글로벌 확장 시동",
-      "link": "http://www.boannews.com/media/view.asp?idx=142671&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 15:56:00 +0900",
-      "description": "클라우드 기반 통합보안 플랫폼 ‘알페타 X’, 통합인증센터 전략 공개35개국 글로벌 파트너 참석한 가운데 보안·산업안전·바이오 신사업 확장 방향 제시[보안뉴스 강초희 기자] 유니온바이오메트릭스(대표이사 신요식)가 3월 17일 일산 소노캄에서 글로벌 파트너 콘퍼런스 ‘UGC 2026’을 개최하고 통합보안 플랫폼 전략과 글로벌 사업 확대 방향을 공개했다. 이날",
-      "language": "ko",
-      "summary": "기사는 유니온바이오메트릭스(DBS)의 통합보안 플랫폼 '알페타 X'을 개시한 및, UGC 2 end 가운데 35국 글로벌 파트너와의 방향을 공유한다.",
-      "points": [
-        "DBS은 알페타 X를 개시했다.",
-        "35개국 글로벌 파트너와의 연산자와 다수의 기술 인증서가 UGC 2026 이래에 참석한다.",
-        "이러한 시도는 IT/기술 업계에서 보안·산업안전·바이오 신사업 확장 방향을 제정한다."
-      ],
-      "insight": "이러한 DBS의 공식인은 IT/기술 업계가 보안적인, 산업안전한, 바이오 소프트웨어로부터의 영위시스티를 강화하고자 핀다."
-    },
-    {
-      "title": "안전한 보행환경 확보 위한 ‘보도 통행 단속장비’ 시범운영 실시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142654&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 15:53:00 +0900",
-      "description": "보행자 교통안전을 위협하는 법규 위반행위 근절 위한 ‘보도 통행 단속장비 도입’[보안뉴스 강초희 기자] 경찰청(청장 직무대행 유재성)은 보행자 교통안전을 위협하는 이륜차 등의 보도 통행 행위를 근절하기 위해 단속장비를 개발해 전국 5개소(서울 2, 수원 2, 울산 1)에서 시범운영을 추진한다.‘보도 통행 단속장비’란 보행자의 교통안전 확보를 위해 보도 혹은",
-      "language": "ko",
-      "summary": "국민군과 교통안전을 위한 제2차 보도 시장비 개발",
-      "points": [
-        "- 국민군과 교통안전을 추진하기 위해 보도 혹은 정보 시스템의 인터넷화 중심으로 개체한 단속장비 시벌와 연산자가 제2차로 개발",
-        "- 시민들과 군인들이 공권적으로 보도하는 방식에 대한 예전성으로 행위를 강제하기 위해 개발한다.",
-        "- 시민생산을 골라내며 국민군과 교통안전을 지원한다."
-      ],
-      "insight": "이 기사는 보행자의 공권로운 보도를 지원하는 국내의 신용제도가 개발되고 있는 밀리시간동안의 IT/기술 디자인이 나타났다. 이러한 시스템은 보도를 원칙적으로 추진하는 방식에서 정보 시스템을 사용한 '단속장비'로, 국민군과 교통안전을 더욱 강제로 행위를 결정하고 제2차로 개체화되었다."
-    },
-    {
-      "title": "보안 전문가 없어도 OK... 스패로우, AI바우처로 중소·의료기관 보안 사각지대 해소",
-      "link": "http://www.boannews.com/media/view.asp?idx=142665&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 15:39:00 +0900",
-      "description": "AI 기술 연계해 실제 발생 가능한 취약점 위주 조치 권고... 관리 피로도 대폭 감소디지털 전환 촉진을 위한 최대 2억원 규모 정부 지원 사업 통해 AI 솔루션 도입 가능[보안뉴스 조재호 기자] 스패로우가 ‘2026년 AI바우처 지원사업’ 공급기업으로 선정되면서 AI 기술을 접목한 ‘스패로우 클라우드’를 통해 국내 기업의 안전한 개발 환경 조성을 지원한다",
-      "language": "ko",
-      "summary": "AI 기술 연계해 실제 발생 가능한 취약점 위주 조치 권고. 관리 피로도 대폭 감소디지털 전환 촉진을 위한 최대 2억원 규모 정부 지원 사업 통해 AI 솔루션 도입 가능[보안뉴스 조재호 기자] 스패로우가 ‘2026년 AI바우처 지원사업’ 공급기업으로 선정되면서 AI 기술을 접목한 ‘스패로우 클라우드’를 통해 국내 기업의 안전한 개발 환경 조성을 지원한다",
-      "points": [
-        "AI 기술 연계해 실제 발생 가능한 취약점 위주 조치 권고",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이글루코퍼레이션, 사이버 공방 솔루션 ‘플롯 아레나’ 출시... “AI로 실전 대응력 강화”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142669&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 15:30:00 +0900",
-      "description": "실제 침해사고 시나리오 기반 가상훈련망에서 AI 전략 참모와 연계한 팀 단위 교전 훈련 지원전문가 수준 공격 전술·기술·절차(TTPs) 재현하는 시뮬레이터로 조직 실전 대응력 진단[보안뉴스 조재호 기자] 이글루코퍼레이션은 17일 실전형 사이버 훈련 솔루션 ‘플롯 아레나’(PLOT ARENA)를 출시하며 ‘AI 기반 오펜시브 시큐리티’ 라인업 강화에 나섰다.",
-      "language": "ko",
-      "summary": "PLOT ARENA는 AI를 이용한 IT/사이버 공방 전략 강화에 기여함으로써 연구중인 공격 시스템 재현성을 확보하고자 한다.",
-      "points": [
-        "이글루코퍼레이션은 신기동산주택 거주자가 시스템으로 인실 공격 대면에서의 작전을 수립한다.",
-        "AI는 알레인과 정보컷을 이용해 훈련시킨 가상 세계를 구성하고 있다.",
-        "AI로 강화된 방어전체는 공격 전술에 대한 진단과 조정을 도와줍니다."
-      ],
-      "insight": "이 기사는 AI가 수폐브 시스템의 강화와 전략성 광고에 대해 언급하며, IT/사이버 공방에서의 AI 기반 강화 현황과 전망을 제공한다."
-    },
-    {
-      "title": "슈프리마, ‘SECON 2026’에서 AI·영상·출입통제 결합한 차세대 통합보안 전략 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142660&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 15:25:00 +0900",
-      "description": "AI 통합보안 플랫폼 ‘바이오스타 X’ 비롯한 지능형 영상분석·출입통제 통합 전략 공개소버린 AI 기반 수색자 검색·로봇 연계 주거 보안·신규 인증 디바이스 라인업 발표[보안뉴스 강초희 기자] 슈프리마(대표 이재원, 김한철)가 18-20일 일산 킨텍스에서 개최되는 아시아 최대 통합보안 전시회 ‘세계보안엑스포(SECON) 2026’에 참가해 AI 기술을 핵심",
-      "language": "ko",
-      "summary": "AI 통합보안 플랫폼 ‘바이오스타 X’ 비롯한 지능형 영상분석·출입통제 통합 전략 공개소버린 AI 기반 수색자 검색·로봇 연계 주거 보안·신규 인증 디바이스 라인업 발표[보안뉴스 강초희 기자] 슈프리마(대표 이재원, 김한철)가 18-20일 일산 킨텍스에서 개최되는 아시아 최대 통합보안 전시회 ‘세계보안엑스포(SECON) 2026’에 참가해 AI 기술을 핵심",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[신간] 공정문화로 항공안전과 항공보안의 패러다임 전환 ‘JUST CULTURE : 항공안전·보안 통합 거버넌스’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142668&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 14:19:00 +0900",
-      "description": "항공안전과 항공보안을 연결하는 핵심 원리로 ‘공정문화’(Just Culture) 제시국내·외 제도와 사례 분석 통해 정책 설계와 행정집행의 구체적 쟁점 체크[보안뉴스 엄호식 기자] 항공산업은 지금 거대한 전환점에 서 있다. 항공운영 전반의 디지털 전환, 자동화의 확대, 사이버 위협과 내부자 위험의 증대는 전통적인 사고예방 체계를 넘어서는 새로운 접근을 요구",
-      "language": "ko",
-      "summary": "항공안전과 항공보안을 연결하는 핵심 원리로 ‘공정문화’(Just Culture) 제시국내·외 제도와 사례 분석 통해 정책 설계와 행정집행의 구체적 쟁점 체크[보안뉴스 엄호식 기자] 항공산업은 지금 거대한 전환점에 서 있다. 항공운영 전반의 디지털 전환, 자동화의 확대, 사이버 위협과 내부자 위험의 증대는 전통적인 사고예방 체계를 넘어서는 새로운 접근을 요구",
-      "points": [
-        "항공안전과 항공보안을 연결하는 핵심 원리로 ‘공정문화’(Just Culture) 제시국내·외 제도와 사례 분석 통해 정책 설계와 행정집행의 구체적 쟁점 체크[보안뉴스 엄호식 기자]...",
-        "항공운영 전반의 디지털 전환, 자동화의 확대, 사이버 위협과 내부자 위험의 증대는 전통적인 사고예방 체계를 넘어서는 새로운 접근을 요구",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "인텔리빅스, AI로 사상 최대 순이익 달성... 이달 말 상장 청구",
-      "link": "http://www.boannews.com/media/view.asp?idx=142666&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 14:13:00 +0900",
-      "description": "지난해 매출 466억·영업이익 49억 돌파, 당기순이익 54억원으로 93% 폭증AI 시장에서 13년 연속 흑자행동하는 AI·전천후 AI 카메라·순찰로봇 앞세워 K-AI 리더로 도약[보안뉴스 엄호식 기자] 안전 AI 딥테크 선도 기업 인텔리빅스(대표 최은수, 장정훈)가 2025년 당기순이익 54억원을 기록하며 매출, 영업이익, 순이익 전 부문에서 창사 이래",
-      "language": "ko",
-      "summary": "인텔리빅스는 AI를 사용해 기주채징이 뛰어나서 2025년에 54억원의 대비를 보상하고 있다.",
-      "points": [
-        "- 인텔리빅스는 AI로 제휴업이익 사상을 하여 3년간 최대한 증가",
-        "- AI를 사용해 계속적으로 당기순이익, 영업이응, 돌파 현황을 높여준 경우",
-        "- AI는 채징과 골드가 상한값으로 달성"
-      ],
-      "insight": "인텔리빅스의 AI를 이용해 일정폭증을 줄이고 연말 기록이야."
-    },
-    {
-      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Mar 2026 04:01:00 +0000",
-      "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-      "language": "en",
-      "summary": "Picsart is introducing an AI assistant hiring feature through its new Agent Marketplace where creators can customize and manage their own avatars with machine learning technology.",
-      "points": [
-        "Launching of Picsart's AI agent marketplace for managing digital assistants",
-        "Four initial agents available, expanding weekly with more specialized skills like pose editing and style transitions",
-        "AI-powered avatars can be customized by creators using machine learning techniques to express personality"
-      ],
-      "insight": "This innovative approach from Picsart marks a significant step in personalizing digital interactions, potentially setting new standards for AI engagement within the social media landscape and beyond."
-    },
-    {
-      "title": "세이퍼존, 독창적인 오프라인 엔드포인트 제로트러스트 제품 선보여",
-      "link": "http://www.boannews.com/media/view.asp?idx=142663&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 11:17:00 +0900",
-      "description": "디바이스 최종 기기(EndPoint)에서 발생하는 모든 접속 요청 식별하고 인증[보안뉴스 원병철 기자] AI DLP 보안기업 세이퍼존(대표 권창훈)은 엔드포인트 제로트러스트 SASE(SSE) 출시했다고 밝혔다. 세이퍼존 엔드포인트 제로트러스트는 디바이스 최종 기기(EndPoint)에서 발생하는 모든 접속 요청을 식별하고 인증한다. 특히 클라우드 내부 데이터",
-      "language": "ko",
-      "summary": "세이퍼존는 디바이스 최종 기기(EndPoint)에서 모든 접속 요청을 식별하고 인증하여 보안 및 DLP를 확보하도록 제공한다.",
-      "points": [
-        "- 세이퍼존은 디바이스 최종 기기(EndPoint)에서 모든 접속 요청을 식별하고 인증하는 SASE를 제공한다.",
-        "- 특히 클라우드 내부 데이터에 대해서만 보호 기술을 확보한다.",
-        "- DLP(Data Leakage Prevention)를 준수하며, 인증과 식별을 위한 최신 이용도로 전당한다."
-      ],
-      "insight": "세이퍼존의 제공할 SASE(SSE)는 엔드포인트 기기에서의 모든 접속을 보호하고, DLP를 강화하여 IT/기술 업계에서의 보안적용이 개선된다."
-    },
-    {
-      "title": "“분석부터 무해화까지 한 번에”... 지란지교-안랩, 지능형 위협 대응 공조",
-      "link": "http://www.boannews.com/media/view.asp?idx=142661&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 10:58:00 +0900",
-      "description": "안랩 MDS에 지란지교 새니톡스 CDR 탑재... 알려지지 않은 위협에 대응제로트러스트 보안 구현해 액티브 콘텐츠 원천 제거한 안전한 파일만 제공[보안뉴스 조재호 기자] 지란지교시큐리티가 안랩의 지능형 위협 대응 솔루션 ‘안랩 MDS’에 콘텐츠 무해화(CDR) 엔진 ‘새니톡스 SDK’를 공급해 분석·탐지부터 무해화로 이어지는 통합 보안 레이어를 구축했다고",
-      "language": "ko",
-      "summary": "한국어로 요약한 기사 내용: 지란지교시큐리티가 안랩 MDS에서 이미지 저장 방식을 수동으로 구성하는 새니톡스 SDK를 공급하여 콘텐츠 제거를 시작한다.",
-      "points": [
-        "지란지교시큐리티가 안랩 MDS에서 콘텐츠 무해화로 이어지는 SDK 제공",
-        "새니톡스 SDK를 활용하여 보안설계 전문가로 개인정보 보호",
-        0
-      ],
-      "insight": "이러한 공급및 모습은 전문가들로 개인정보를 보호하고 지란지교시큐리티가의 위협을 해방하는 사회절차의 시작으로서, IT/기술 업체에서의 공식적인 위협처럼이다."
-    },
-    {
-      "title": "악성 IP 4만5000개 날렸다... S2W, 인터폴 ‘시너지아 III’ 작전 참여",
-      "link": "http://www.boannews.com/media/view.asp?idx=142662&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 10:54:00 +0900",
-      "description": "세계 72개국 참여한 국제 공조 통해 악성 서버 폐쇄 및 연루자 200여 명 검거 지원로맨스 스캠부터 대규모 피싱 사이트까지... S2W 인텔리전스 기반 수사 실효성 확인[보안뉴스 조재호 기자] 에스투더블유(S2W)가 인터폴 주도 국제 사이버범죄 대응 작전인 ‘시너지아 III’(Operation Synergia III)에 참여해 악성 인프라 차단과 범죄자",
-      "language": "ko",
-      "summary": "세계 72개국 참여한 국제 공조 통해 악성 서버 폐쇄 및 연루자 200여 명 검거 지원로맨스 스캠부터 대규모 피싱 사이트까지. S2W 인텔리전스 기반 수사 실효성 확인[보안뉴스 조재호 기자] 에스투더블유(S2W)가 인터폴 주도 국제 사이버범죄 대응 작전인 ‘시너지아 III’(Operation Synergia III)에 참여해 악성 인프라 차단과 범죄자",
-      "points": [
-        "세계 72개국 참여한 국제 공조 통해 악성 서버 폐쇄 및 연루자 200여 명 검거 지원로맨스 스캠부터 대규모 피싱 사이트까지",
-        "S2W 인텔리전스 기반 수사 실효성 확인[보안뉴스 조재호 기자] 에스투더블유(S2W)가 인터폴 주도 국제 사이버범죄 대응 작전인 ‘시너지아 III’(Operation Synergi...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "SEC eyes shift to twice-yearly earnings reports",
-      "link": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 17 Mar 2026 00:27:10 +0000",
-      "description": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
-      "language": "en",
-      "summary": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ",
-      "points": [
-        "The SEC is working on a proposal to allow public companies to release earnings reports twice a year ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "진명아이앤씨, SECON 2026에서 조달청 우수제품 등 다양한 안전기술 선보인다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142659&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 17 Mar 2026 08:58:00 +0900",
-      "description": "통합 안전 시나리오 부스에 직관적으로 구현고객들이 기술의 진화와 활용 가치 직관적으로 이해하고 경험할 수 있는 공간으로 조성[보안뉴스 엄호식 기자] 지능형 영상감시장치·음향 시스템 전문기업 진명아이앤씨(대표이사 허미향)가 오는 18일 경기 고양시 킨텍스에서 개최하는 ‘제25회 세계 보안 엑스포(SECON 2026)’에 참가해 조달청 우수제품들을 선보인다.진",
-      "language": "ko",
-      "summary": "통합 안전 시나리오 부스에 직관적으로 구현고객들이 기술의 진화와 활용 가치 직관적으로 이해하고 경험할 수 있는 공간으로 조성[보안뉴스 엄호식 기자] 지능형 영상감시장치·음향 시스템 전문기업 진명아이앤씨(대표이사 허미향)가 오는 18일 경기 고양시 킨텍스에서 개최하는 ‘제25회 세계 보안 엑스포(SECON 2026)’에 참가해 조달청 우수제품들을 선보인다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
