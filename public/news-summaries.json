@@ -1,6 +1,139 @@
 {
-  "generatedAt": "2026-03-20T13:02:45.331Z",
+  "generatedAt": "2026-03-20T18:56:54.831Z",
   "articles": [
+    {
+      "title": "Why scientists can’t get a laugh",
+      "link": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 17:39:06 +0000",
+      "description": "Humor is hard to pull off in front of a cold audience, full stop.",
+      "language": "en",
+      "summary": "Scientists struggle with humor when presenting their findings due to the lack of warmth and familiarity required for effective comedy.",
+      "points": [
+        "The difficulty scientists face in eliciting laughs from an unengaged audience highlights a broader issue within scientific communication, where dry data presentation often fails to resonate on a human level.",
+        "To overcome this barrier and foster better connections with the public, experts suggest incorporating personal stories or relatable analogies into talks about their work.",
+        "The article suggests that while scientists are well-equipped in other areas of expertise, they must develop an appreciation for comedic timing and audience rapport to succeed where humor is concerned."
+      ],
+      "insight": "For the IT/technology industry, this news underscores the importance of effective communication skills beyond technical knowledge. To engage with a broader audience, professionals need to embrace storytelling techniques or comedic elements that make complex subjects more approachable and relatable."
+    },
+    {
+      "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
+      "link": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 17:21:18 +0000",
+      "description": "A French naval officer went on a run around the deck of the Charles de Gaulle aircraft carrier, inadvertently leaking the warship's location when he uploaded the workout to Strava.",
+      "language": "en",
+      "summary": "A French Navy officer unintentionally disclosed the position of an aircraft carrier by sharing his on-deck run data with a fitness app.",
+      "points": [
+        "French naval personnel mistakenly shared their running track via Strava, revealing sensitive military information.",
+        "The Charles de Gaulle was identified and localized through GPS coordinates posted in the workout log.",
+        "Strava users globally accessed this unintended data release during live sharing of exercise routines."
+      ],
+      "insight": "This incident highlights potential security vulnerabilities within social fitness platforms that may expose sensitive locations or operations if not carefully managed, suggesting a need for increased awareness and protocol adjustments among military personnel using these services."
+    },
+    {
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 16:43:09 +0000",
+      "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+      "language": "en",
+      "summary": "New AI agents on WordPress. com could lower barriers to publishing while increasing machine-generated content across the web",
+      "points": [
+        "New AI agents on WordPress",
+        "com could lower barriers to publishing while increasing machine-generated content across the web",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Jeff Bezos’ Blue Origin enters the space data center game",
+      "link": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 16:27:43 +0000",
+      "description": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit.",
+      "language": "en",
+      "summary": "Blue Origin is entering the space data center industry with a project that includes over 50,000 satellites for computing in Earth's orbits.",
+      "points": [
+        "Jeff Bezos’ Blue Origin has announced Project Sunrise to deploy more than 50,000 low-Earth orbit (LEO) satellites that will handle high-energy compute tasks.",
+        "The network of miniaturized computing units is expected to provide an alternative and potentially global communications infrastructure in space as well as on Earth.",
+        "Blue Origin's endeavor could significantly reduce latency issues for internet users by leveraging the unique properties of orbital paths."
+      ],
+      "insight": "This project represents a significant step towards utilizing low-Earth orbit satellites to provide global, high-speed data processing capabilities and may revolutionize how we approach communications infrastructure within IT industries worldwide."
+    },
+    {
+      "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
+      "link": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 16:18:57 +0000",
+      "description": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker.",
+      "language": "en",
+      "summary": "The U.S Justice Department has accused Iran' extranuclear activities of operating a hacker group called Handala that claimed responsibility for the hack against medical tech giant Stryker.",
+      "points": [
+        "Handala, an alleged fake activist persona linked to Tehran’s ministry of information and communication technology (ICT), targetted cybersecurity firm Dragos in a destructive attack dubbed 'Operation Cleaver'.",
+        "'Operation Carcano', another assault on US entities by Handala that was reportedly aimed at disrupting the upcoming elections, is believed to have been carried out with Russian assistance.",
+        "Iran's Ministry of ICT denies involvement in any group including 'Handala'."
+      ],
+      "insight": "This news underscores increasing cyber threats from state actors and the complexities involved, as countries engage in digital espionage or sabotage activities under various aliases."
+    },
+    {
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 16:14:04 +0000",
+      "description": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+      "language": "en",
+      "summary": "The U.S. government's new AI framework under President Trump aims to override state regulations in favor of federal oversight, boost innovation, and place more child safety responsibilities on parents while proposing less stringent rules for tech companies.",
+      "points": [
+        "President Donald Trump's executive order calls for increased AI development across government departments to maintain a competitive edge in the global marketplace."
+      ],
+      "insight": "This initiative could lead to inconsistencies between state and federal regulations, potentially stifling innovation due to an overly burdensome compliance landscape. Additionally, placing child safety largely on parents may not adequately protect children in a digitized world."
+    },
+    {
+      "title": "AI startups are eating the venture industry and the returns, so far, are good",
+      "link": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 15:41:21 +0000",
+      "description": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share.",
+      "language": "en",
+      "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share",
+      "points": [
+        "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta la...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
+      "link": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 15:01:39 +0000",
+      "description": "A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles.",
+      "language": "en",
+      "summary": "Drivers in the US are facing vehicle immobilization due to a cyberattack on a car breathalyzer company.",
+      "points": [
+        "Cyberattack leaves drivers stranded across United States",
+        "Breathalyzer devices affected by hacking incident",
+        "Disruption impacts safety and functionality of vehicles"
+      ],
+      "insight": "This cyberattack highlights the increasing intersection between technology reliance, vehicle security concerns, and transportation infrastructure resilience."
+    },
+    {
+      "title": "Amazon working on new smartphone with Alexa at its core, report says",
+      "link": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 14:51:30 +0000",
+      "description": "The device is being developed by the company's Devices and Services division, and it would feature personalized features aimed at making it easier to use Amazon's suite of apps, including Amazon shopping, Prime Video, and Prime Music, according to Reuters.",
+      "language": "en",
+      "summary": "Amazon is developing a smartphone that integrates Alexa with personalized features for ease of use within the company's suite of apps.",
+      "points": [
+        "Alexa core technology being integrated into new Amazon smartphone",
+        "Personalized features aimed at simplifying usage across various Amazon services",
+        "Development by Devices and Services division"
+      ],
+      "insight": "Amazon's move to incorporate Alexa in a dedicated device signals the growing trend of voice-controlled ecosystem interconnectivity, further blurring lines between individual devices."
+    },
     {
       "title": "The best AI investment might be in energy tech",
       "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
@@ -617,141 +750,6 @@
         "Incorporating conflict resolution skills into the company culture can promote a healthier working environment, enhancing communication and cooperation while preventing conflicts that could hinder productivity."
       ],
       "insight": "This news emphasizes how essential it is for startup founders to cultivate effective frameworks early on. It highlights conflict as an opportunity not only for personal growth but also a key factor in the company's resilience and success, ultimately promoting healthier work cultures."
-    },
-    {
-      "title": "Alphabet’s X has a new spinout, and it’s going after one of the world’s most expensive bureaucratic nightmares",
-      "link": "https://techcrunch.com/2026/03/19/alphabets-x-has-a-new-spinout-and-its-going-after-one-of-the-worlds-most-expensive-bureaucratic-nightmares/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 14:00:00 +0000",
-      "description": "Anori aims to shrink the pre-development process by getting all parties, including the city, on a unified platform from the start so that compliance conflicts are surfaced in weeks instead of months or years.",
-      "language": "en",
-      "summary": "Anori aims to shrink the pre-development process by getting all parties, including the city, on a unified platform from the start so that compliance conflicts are surfaced in weeks instead of months or years",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise",
-      "link": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 13:19:41 +0000",
-      "description": "Cloaked's latest round is a mix of equity and growth funding.",
-      "language": "en",
-      "summary": "Consumer privacy company Cloaked has secured $375 million in investment to grow its enterprise offerings.",
-      "points": [
-        "Cloaked' end-to end cloud services suite includes identity, access management and data encryption features for various industries.",
-        "$375 million funding round led by Silver Lake with participation from existing backers like Kleiner Perkins Caufield & Byers (KPCB).",
-        "Cloaked plans to expand its technology beyond the consumer market as it prepares new enterprise-grade product releases."
-      ],
-      "insight": "The massive funding round indicates that business organizations are increasingly concerned about privacy and data protection, which could influence future IT/technology trends towards integrated security solutions in cloud services. Cloaked's growth from consumer to enterprise reflects a significant shift within the industry."
-    },
-    {
-      "title": "Tubi joins forces with popular TikTokers to create original streaming content",
-      "link": "https://techcrunch.com/2026/03/19/tubi-joins-forces-with-popular-tiktokers-to-create-original-streaming-content/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 13:00:00 +0000",
-      "description": "Tubi launched its “Creatorverse Incubator” to help TikTokers create original shows exclusively for the streaming service.",
-      "language": "en",
-      "summary": "Streaming platform Tubi has partnered with popular TikTok creators through its Creatorverse Incubator to produce original content exclusively for the service.",
-      "points": [
-        "Launch of Tubi'self 'Creatorverse Incubator', a program designed in collaboration with successful TikTokers aiming at producing unique and exclusive shows, dances, songs or challenges just for Tubi audience. This move is part of the streaming service’s strategy to differentiate itself from competitors by creating an authentic community feel.",
-        "This new initiative will give creators access not only to a substantial viewership but also professional services like scriptwriting and production support, allowing them to produce content that might have otherwise been beyond their reach. This partnership indicates the growing recognition of TikTok’s influence in entertainment across platforms.",
-        "While this move will strengthen brand loyalty among its users by providing engaging original content tailored for it and cementing its appeal to younger audiences, however, maintaining authenticity might pose a challenge amid the commercial demands."
-      ],
-      "insight": "Tubi's collaboration with TikTok creators could revolutionize how streaming platforms engage their users by offering exclusively tailored and original content that resonates well in today’s fast-paced entertainment consumption, while also posing challenges for maintaining authenticity."
-    },
-    {
-      "title": "Arc expands into electric commercial and defense boats with $50M raise",
-      "link": "https://techcrunch.com/2026/03/19/arc-expands-into-electric-commercial-and-defense-boats-with-50m-raise/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 13:00:00 +0000",
-      "description": "The Los Angeles startup raised $50 million from Eclipse, a16z, Menlo Ventures, and others as it seeks to expand beyond sport boats.",
-      "language": "en",
-      "summary": "The Los Angeles startup raised $50 million from Eclipse, a16z, Menlo Ventures, and others as it seeks to expand beyond sport boats",
-      "points": [
-        "The Los Angeles startup raised $50 million from Eclipse, a16z, Menlo Ventures, and others as it seek...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Feds intensify investigation into Tesla’s Full Self-Driving (Supervised) software",
-      "link": "https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 12:32:47 +0000",
-      "description": "The National Highway Traffic Safety Administration has upgraded its probe after finding more instances of Tesla's driving software struggling in low-visibility conditions.",
-      "language": "en",
-      "summary": "Federal investigators are delving deeper into issues with Tesla'nerve_gating as they discover more instances where the Full Self-Driving software fails in fog or heavy rain conditions.",
-      "points": [
-        "The National Highway Traffic Safety Administration (NHTSA) has escalated its investigation of potential safety risks associated with Tesla's Full Self-Driving feature, following the discovery of more instances where drivers need to take control in low visibility conditions.",
-        "In at least one incident captured on video footage and shared by media outlets like Wired magazine, a driver is seen stepping onto his front passenger seat as he struggles with Tesla's Autopilot feature during heavy rain when the car could not detect parked cars or pedestrians.",
-        "While Elon Musk has claimed that there are no 'known safety issues,' and some incidents where drivers may have needed to take control were likely due to inexperience with Tesla's system, federal regulators remain concerned."
-      ],
-      "insight": "The intensified investigation by the NHTSA highlights a growing concern within the automotive industry about self-driving technology and its reliability, especially as it pertains to human oversight in low visibility situations. This could set precedents for future regulatory scrutiny of autonomous driving systems."
-    },
-    {
-      "title": "Amazon brings Alexa+ to the UK",
-      "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 12:27:24 +0000",
-      "description": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
-      "language": "en",
-      "summary": "Amazon has introduced its new AI assistant, 'Alexa+' to UK customers through a limited trial offer.",
-      "points": [
-        "Amazon introduces Alexa+ in the U.K with early access program",
-        "Early adopters can test Amazon'in latest evolution of Echo devices and voice-based AI assistant for free",
-        "Expected to launch officially on June 6, bringing new features like better home automation control"
-      ],
-      "insight": "The early release strategy allows Alexa+ potential improvements based on customer feedback before the official UK rollout. This could enhance user experience and adoption rates."
-    },
-    {
-      "title": "Uber taps Rivian to build robotaxis in deal worth up to $1.25B",
-      "link": "https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 12:00:00 +0000",
-      "description": "Uber is kicking off the partnership with an initial $300 million investment, while Rivian will provide as many as 50,000 autonomous R2 SUVs.",
-      "language": "en",
-      "summary": "Uber and Rivian have entered a multi-billion dollar partnership to create electric semi-autonomous vehicles known as 'robotaxis'. Uber will initially invest $300 million while Rivian commits up to providing 50,00th of their R2 SUV fleet for the project.",
-      "points": [
-        "Uber and Rivian enter a multi-billion dollar partnership",
-        "Initial Uber investment: $300 million",
-        "Rivian to provide up to 50,000 autonomous R2 SUVs"
-      ],
-      "insight": "This deal signals strong confidence in the potential of semi-autonomous vehicles and highlights a significant shift towards sustainable transportation within the IT/technology industry."
-    },
-    {
-      "title": "Inside a $1.1B deal to reshore critical minerals refining",
-      "link": "https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 11:00:00 +0000",
-      "description": "Critical minerals startup Nth Cycle is betting that its modular approach to nickel refining can make the practice viable in the U.S. and Europe.",
-      "language": "en",
-      "summary": "Nth Cycle invested $1.1 billion into a project aimed at making US/European nickel refining economically viable using its modular approach.",
-      "points": [
-        "Critical minerals startup Nth Cycle has made an investment of $1.1 billion towards developing a new way to process and recover metals like cobalt, lithium, nickel from ore concentrates in the US/European markets.",
-        "Nickel refining is set up on a modular basis at Nth Cycle's facility which allows for easier scaling of production based upon demand. The process also reduces environmental impact by being more energy efficient and producing less waste materials as compared to traditional methods.",
-        "The company plans to establish its nickel recovery hub in Wisconsin, with the first module projected to come online within two years."
-      ],
-      "insight": "This deal emphasizes a shift towards localized mineral processing and refining which could reduce reliance on countries like China for critical raw materials. It may also stimulate job creation and foster innovation in sustainable metal extraction techniques, signaling a new era of environmentally-conscious technological advancements within the industry."
-    },
-    {
-      "title": "아마존 베드락·랭스미스·SG랭 ‘보안 구멍’ 포착... 기업 기밀 유출 및 서버 장악 위험",
-      "link": "http://www.boannews.com/media/view.asp?idx=142709&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 19 Mar 2026 17:04:00 +0900",
-      "description": "[보안뉴스 김형근 기자] 아마존 베드락과 랭스미스(LangSmith), SG랭(SGLang) 등 생성형 AI 관련 주요 플랫폼에서 데이터 유출과 원격코드실행(RCE)이 가능한 치명적 결함이 공개됐다. 보안 기업 비욘드트러스트(BeyondTrust)는 아마존 베드락의 코드 해석기가 ‘네트워크 접속 차단’ 설정에서 외부 DNS 쿼리를 허용하는 결함을 발견했다고",
-      "language": "ko",
-      "summary": "AI '학습기' 모델에서 보안위대표의 AI인 SGLang(LangSmith)는 공개된 공개작잘들이 DNS 방문 차단을 허용하는 코드를 볼수 있다.",
-      "points": [
-        "- 아마존 베드락과 SGLang의 공개작잘에서 DNS 방문을 허용하는 '네트워크 접속 차단' 설정이 보안위대표 AI인 SGLang의 공개작잘에서 발결한 코드를 확인함",
-        "- 아마존 베드락이 설정을 꼭하게 만들어 보안의 개방을 확인할 수 있음",
-        "- DNS 방문을 허용하는 예상치에서 SGLang은 이전에 발생한 보안위대표 AI(ZeroKnow)가 '학습기'체인 모델의 공개작잘에서 보안근한한 게시된 내용이 살아나면서도 아마존 베드락과 그들에 대해서는 확인이 가능하다"
-      ],
-      "insight": "먼저, AI로 생성한 '학습기'체인 모델이 DNS 방문을 허용하는 예정된 코드가 보안위대표인 SGLang에 의해 공개되어있다. 그렇지만, AI가 학습하기 전에 보안에 관여한 제약을 줄 수 없는 '학습기'체인 모델이라면, 이전에 생성해둔 AI ZeroKnow가 보안위대훈 입니다. 아마존 베드락과 SGLang는 이전에 공개예정을 거oser세으신다."
     }
   ]
 }
