@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-03-20T18:56:54.831Z",
+  "generatedAt": "2026-03-21T02:08:28.760Z",
   "articles": [
+    {
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 21 Mar 2026 01:40:28 +0000",
+      "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+      "language": "en",
+      "summary": "The AI company Anthropic refutes Pentagon concerns about national security risks in a legal filing, alleging misunderstandings and unjustified claims by the government.",
+      "points": [
+        "Anthropic submits sworn declarations disputing 'unacceptable risk' claim",
+        "Government case rests on technical misconceptions not addressed during negotiations",
+        "The legal filing emphasizes alignment between Anthropi and Pentagon interests"
+      ],
+      "insight": "This development could signal a thaw in AI company-military relations, challenging previous assertions of discord."
+    },
+    {
+      "title": "北 해커, AI로 얼굴 바꾸고 미국 기업에 위장 취업... 美 재무부 제재",
+      "link": "http://www.boannews.com/media/view.asp?idx=142744&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 21 Mar 2026 09:08:00 +0900",
+      "description": "급여 상상 부분이 북한 미사일 프로그램 개발 자금으로 흘러가일부는 기업 기밀정보를 훔치거나 탈취한 데이터를 인질로 몸값 요구[보안뉴스 김형근 기자] 미국 재무부 해외자산통제국(OFAC)은 대량살상무기(WMD) 자금을 마련하기 위해 미국 기업을 속여온 북한 IT 노동자 6명과 기관 2곳을 제재했다. 이들은 가짜 서류와 훔친 신분, 조작된 페르소나를 활용해 북",
+      "language": "ko",
+      "summary": "미국 기업이 미사일 프로그램 훼동에 착전한 IT 노동자 6명과 OFAC에서 제재 대상으로 나오고 있다.",
+      "points": [
+        "미사일 프로그램을 활용하여 인질한 IT 노동자와 기관이 제재대상으로 나눌 때.",
+        "제재에 의해 대체 착전을 시도하지만, 크리스마니저 또는 그칠 경로를 선택한다.",
+        "미국 기업은 이러한 IT 노동자의 질서에 대해 문제가 있다."
+      ],
+      "insight": "IT 핸드스토리지 공격에 대한 불안정성이 미국 기업에 위치한다. IT 서비스 관련 위기와 상당재산이 핸드스토리지 공격과 대근하한의 조직 요구에 부가로 만들어진다."
+    },
+    {
+      "title": "퓨텍솔루션즈, 미국 바이디오 국내 총판 계약 “AI 영상분석 사업 본격화”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142714&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 21 Mar 2026 08:38:00 +0900",
+      "description": "VMS 연동·에이전틱 AI·VLM 기반 플랫폼으로 통합관제 고도화[보안뉴스 강초희 기자] 퓨텍솔루션즈(대표 양은아)는 AI 영상분석 솔루션의 글로벌 리더 미국 바이디오(Vaidio)와 국내 총판 계약을 체결하고, CCTV 통합관제의 필수 요소로 떠오르고 있는 AI 영상분석 시장 공략에 본격 나선다.퓨텍솔루션즈는 파트너십을 통해 누구나 설치, 설정, 운영 가",
+      "language": "ko",
+      "summary": "VMS 연동·에이전틱 AI·VLM 기반 플랫폼으로 통합관제 고도화[보안뉴스 강초희 기자] 퓨텍솔루션즈(대표 양은아)는 AI 영상분석 솔루션의 글로벌 리더 미국 바이디오(Vaidio)와 국내 총판 계약을 체결하고, CCTV 통합관제의 필수 요소로 떠오르고 있는 AI 영상분석 시장 공략에 본격 나선다. 퓨텍솔루션즈는 파트너십을 통해 누구나 설치, 설정, 운영 가",
+      "points": [
+        "퓨텍솔루션즈는 파트너십을 통해 누구나 설치, 설정, 운영 가",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "한국정보공학기술사회 ‘AI & 보안 심포지엄’ 성료... “2026년은 AI 실행의 해”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142741&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 21 Mar 2026 08:35:00 +0900",
+      "description": "문광석 원장 ‘KAPIE Top 10 Tech Trend’, 이아람 부원장 ‘종합 리스크 관리’ 세션 눈길총 15개 세션 통해 AI와 보안 융합 전략 및 실무 우수 사례 대거 공유[보안뉴스 조재호 기자] 한국정보공학기술사회(KAPIE)가 20일 일산 킨텍스 제1전시장 콘퍼런스룸 206호에서 ‘한국정보공학기술사회 AI & 보안 심포지엄’을 성황리에 개최했다.",
+      "language": "ko",
+      "summary": "KAPIE가 한국정보공학기술사회의 핵심 3가지 이미지를 AI와 보안 융합 전략으로 연결한 'AI & 보안 심포지엄'을 20일 일산 킨텍스 제1전시장에서 개체화한다.",
+      "points": [
+        "- AI와 보안 융합 전략이 서비스의 가능성을 확대한다.",
+        "- 이미지 기반 보안은 손상을 줄여내는 강공포저으로 제시한다.",
+        "- 인간의 많은 노용과 인식이 가능한 AI를 개선하고자 하는 것처럼 보았다."
+      ],
+      "insight": "AI와 보안 융합 전략이 다수의 IT/기술 회사에서 영향을 미리해둔다. KAPIE의 강공포적으로 인식한 'AI & 보안 심포지엄'은 이 운동이 아군체제와 상호작용하는 중요성을 강조한다."
+    },
+    {
+      "title": "서울올림픽기념국민체육진흥공단, KAIST 사이버보안연구센터와 협약 체결",
+      "link": "http://www.boannews.com/media/view.asp?idx=142742&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 21 Mar 2026 08:32:00 +0900",
+      "description": "불법 스포츠 도박 예방·단속을 위한 인공지능(AI) 등 신기술 교류 협력[보안뉴스 원병철 기자] 서울올림픽기념국민체육진흥공단(이사장 하형주, 이하 체육공단)이 한국과학기술원(KAIST, 이하 카이스트) 사이버보안연구센터(센터장 차상길)와 불법 스포츠 도박 예방·단속을 위한 인공지능(AI) 신기술 교류 업무협약(MOU)을 체결했다. 지난 17일(화) 서울올림",
+      "language": "ko",
+      "summary": "서울올림픽기념국민체육진흥공단과 KAIST의 신기술 교류 협약",
+      "points": [
+        "서울올림픽기념국민체육진흥공단이 KAIST에서의 창구 상호작용와 인공지능 교료",
+        "새로운 신기술 교류 협약을 선정 17일(화)에서 기상",
+        "스포츠 도박 예방과 AI를 이용한 불법 스포츠 운영 개선"
+      ],
+      "insight": "서울올림픽기념국민체육진흥공단과 KAIST의 신기술 교료 연산자 이랑 불법 스포츠 운영 방안을 AI를 사용하여 개선해 나감."
+    },
+    {
+      "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+      "link": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 23:29:17 +0000",
+      "description": "At the time, Musk had tweeted that Twitter had too many bots, which is why he was trying to renege on his commitment to buy the company.",
+      "language": "en",
+      "summary": "Elon Musk previously misled investors about bot-related issues during Twitter's acquisition talks and later attempted a backout.",
+      "points": [
+        "Musk falsely claimed that bots were why he wanted to exit the deal, causing confusion among stakeholders",
+        "After Musk announced his withdrawal from buying Twitter citing unforeseen challenges (bots issue), a jury found this statement misleading.",
+        "The backout has raised questions about trust and transparency in future tech acquisitions."
+      ],
+      "insight": "This case demonstrates the potential risks to investor confidence when leaders of high-profile companies make unsubstantiated claims, especially during significant business transactions like a company buyout."
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 20:53:09 +0000",
+      "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "language": "en",
+      "summary": "Microsoft has decided to reduce the number of Copilot AI entry points in its applications for Windows users.",
+      "points": [
+        "The reduction affects primarily Photos and Widget apps among others",
+        "Copilots have been criticized as being 'a bit bloated' within these programs previously",
+        "This is a response to user feedback, aiming at improving the experience"
+      ],
+      "insight": "Microsoft's action indicates its responsiveness to customer criticism and suggests they are taking steps towards creating more streamlined AI features in their applications."
+    },
+    {
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 20:02:35 +0000",
+      "description": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+      "language": "en",
+      "summary": "Nvidia's CEO Jensen Huang presented at GTC with a focus on the AI chip industry and its future growth; declared $1 trillion in projected sales by 2027, announced an 'OpenClaw strategy,' and closed his keynote with cutting-edge technology featuring Olaf robot.",
+      "points": [
+        "Nvidia projects $1 trillion in AI chip sales through 2027.",
+        "CEO Jensen Huang introduces the concept of an 'OpenClaw strategy' for companies to adopt.",
+        "Nvidia showcases advanced technology with Olaf robot at their keynote."
+      ],
+      "insight": "This announcement emphasizes Nvidia's confidence in its AI chip industry, highlighting a significant growth projection and the importance of strategic positioning for businesses looking to invest in this field. The demonstration with Olaf robot showcases cutting-edge technology that could potentially shape consumer experiences."
+    },
+    {
+      "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+      "link": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 19:15:55 +0000",
+      "description": "It's the latest escalation in a regulatory battle over the future of prediction markets.",
+      "language": "en",
+      "summary": "The company Kalshi faces legal challenges and has been temporarily banned from operating within Nevada due to concerns about its role in facilitating speculative trading.",
+      "points": [
+        "Kalshi, a prediction market platform with plans for an exchange-like model focusing on cryptocurrencies including Bitcoin futures and options",
+        "The company has been accused of promoting gambling through its predictive tools which regulators argue could lead to significant losses without corresponding educational benefits.",
+        "This temporary ban comes as the Nevada Gaming Control Board issues a warning that speculative investments must be regulated, drawing parallels between prediction markets and traditional casino environments."
+      ],
+      "insight": "The legal challenges Kalshi faces could set precedents for how regulatory bodies approach predictive technologies in the future. The tension highlights a broader debate about financial innovation versus consumer protection, with implications extending beyond cryptocurrencies and into other emerging markets."
+    },
+    {
+      "title": "Pinterest CEO calls on governments to ban social media for users under 16",
+      "link": "https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 20 Mar 2026 19:01:54 +0000",
+      "description": "Pinterest’s chief compares social media to tobacco and alcohol, saying children need similar protections.",
+      "language": "en",
+      "summary": "The CEO of Pinterest equates the dangers of social media with those posed by substances like nicotine and alcohol, advocating for legislation to protect children under a certain age.",
+      "points": [
+        "Pinterest's CEO draws parallels between social media risks and harmful substances",
+        "The call is made specifically targeting users below the age of sixteen with special protections or bans",
+        "CEO acknowledges that governments are taking steps, but suggests more could be done"
+      ],
+      "insight": "This news highlights growing concerns within the IT/technology industry regarding minors' access to social media and may influence future regulations."
+    },
     {
       "title": "Why scientists can’t get a laugh",
       "link": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
@@ -600,156 +750,6 @@
         "With this infusion of capital, industry insiders view a potential increase in innovation and expansion for geothermal energy solutions."
       ],
       "insight": "The successful fundraising by Fervo could signify more robust financial support within the niche market of clean tech startups fighting to secure their survival against harsh industry standards."
-    },
-    {
-      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-      "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 17:24:13 +0000",
-      "description": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-      "language": "en",
-      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google introduces a new way for users to sideload Android apps that still protects against scams",
-      "link": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 17:00:00 +0000",
-      "description": "Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multistep security process.",
-      "language": "en",
-      "summary": "Google has introduced an Advanced App Installation feature to simplify sideloading apps on Android while maintaining user protection against scams.",
-      "points": [
-        "The new Google Advanced App Installation allows users to bypass app verification after a multi-step security process, streamlining the sideloading experience for those with authorized access from enterprise IT departments or device management platforms like Samsung Knox and LG's Device Care.",
-        "This feature is exclusive to Android devices manufactured before October 2019 that do not have built-in factory resets, such as the Pixel 3a XL, OnePlus Infinity Fii, Motorola Edge Plus, Samsung Galaxy M31 and Z Flip.",
-        "Users must navigate through three steps to access this new feature: swipe down from the top left corner of a phone screen or tablet; tap the cogwheel icon next to Settings in System shortcuts for Android 8.0 (Oreo) devices, which is on either side when using landscape mode and at bottom near center-right with portrait orientation;"
-      ],
-      "insight": "The Advanced App Installation feature could shift some sideloading responsibilities from enterprise IT departments to individual users who possess the necessary verification process knowledge. This change might impact device management systems, potentially altering their roles and workflows."
-    },
-    {
-      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-      "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 16:14:00 +0000",
-      "description": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
-      "language": "en",
-      "summary": "DoorDash has introduced a new app called 'Tasks' that enables couriers to earn extra income by submitting videos of daily activities and multilingual speech for AI training.",
-      "points": [
-        "Couriers can now film everyday tasks like making coffee or doing laundry using the DoorDash Tasks app.",
-        "The platform pays couriers to submit clips that help train delivery company' extranet’s artificial intelligence system.",
-        "Tasks range from language learning to simple object recognition, providing valuable data for AI development."
-      ],
-      "insight": "This initiative demonstrates the growing intersection between gig economy services and technological advancements in automation. By investing couriers' on-the-job skills into creating an intelligent platform, DoorDash can enhance delivery efficiency while empowering workers with additional revenue opportunities."
-    },
-    {
-      "title": "Meta decides not to shut down Horizon Worlds on VR after all",
-      "link": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 15:36:32 +0000",
-      "description": "Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down.",
-      "language": "en",
-      "summary": "Meta nearly shuttered Horizon Worlds but ultimately decided against closing its VR platform.",
-      "points": [
-        "Horizon Worlds had been a key part of Meta's vision for social virtual reality experiences, which the company almost closed down.",
-        "The near-shutdown decision was based on users not adopting Horizon as an in-house network and criticisms over inclusivity issues within its community.",
-        "Despite nearly shutting it down, Meta decided to keep developing Horizon Worlds with plans for a more diverse environment."
-      ],
-      "insight": "This decision suggests that while there may have been challenges in the development of social VR communities like Horizon Worlds, companies are recognizing their potential and working towards making them better inclusive spaces."
-    },
-    {
-      "title": "FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack",
-      "link": "https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 15:10:32 +0000",
-      "description": "The FBI and the Justice Department took down two websites linked to the pro-Iranian hacktivist group Handala, which last week hacked medical tech giant Stryker.",
-      "language": "en",
-      "summary": "The FBI and Justice Department have shut down websites associated with the pro-Iranian cyber activist group Handala after they launched a disruptive hack against medical tech company Stryker.",
-      "points": [
-        "Two websites linked to Handala, a pro-Iranian hacker collective known for targeting Western entities",
-        "The FBI and Justice Department have collaborated in taking down the two sites after their involvement with the disruptive hack on Stryker.",
-        "This action represents an escalation of efforts to combat cyber threats posed by groups like Handala."
-      ],
-      "insight": "The FBI and Justice Department'nerce against pro-Iranian hacker collectives demonstrates a commitment to global cybersecurity, potentially deterring similar attacks on critical infrastructure in the future. It underscores an increased recognition of non-state actors as serious threats requiring substantial international cooperation."
-    },
-    {
-      "title": "CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices",
-      "link": "https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 15:08:31 +0000",
-      "description": "The U.S. cybersecurity agency urged companies to prevent access to systems used for remotely managing their fleets of employee devices after hackers broke into a major U.S. medical tech giant and remotely wiped thousands of phones and computers.",
-      "language": "en",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has urged companies to secure Microsoft Intune systems after a major U.table medical tech giant was hacked, leading to the remote wiping of thousands of devices.",
-      "points": [
-        "Hackers gained access to Stryker's fleet device management system and remotely erased data on phones and computers belonging to employees across multiple facilities in Texas. As a result CISA has called for companies using Intune systems to strengthen their cybersecurity measures.",
-        "The hack was discovered after an employee reported his compromised phone, which led investigators to find evidence of unauthorized access on other devices as well. The company claims that the hacker used a vulnerability in Stryker's system rather than traditional password cracking techniques for this attack.",
-        "The FBI has opened an investigation into whether there was any foreign interference and asked companies to report their data breaches within 24 hours as part of its efforts against potential cyber attacks during the presidential election season"
-      ],
-      "insight": "This news emphasizes on the importance for organizations across industries, not just healthcare or tech giants but also small businesses to prioritize and improve their device management systems. It brings attention towards enhancing cybersecurity measures in order to prevent such data breaches from occurring."
-    },
-    {
-      "title": "TechCrunch Startup Battlefield 200 nominations are still open",
-      "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 15:00:00 +0000",
-      "description": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
-      "language": "en",
-      "summary": "The TechCrunch Startup Battlefield event offers nominations for startups seeking up to $100,000 in equity-free funding and valuable VC access.",
-      "points": [
-        "TechCrunch's startup battle is open until May 27",
-        "Startups can compete for a chance at winning substantial funds without giving up equity",
-        "The competition also provides startups with potential connections to venture capitalists"
-      ],
-      "insight": "This event offers not only funding opportunities but also crucial VC access, potentially accelerating the growth and success of participating startups."
-    },
-    {
-      "title": "Rivian sacrifices 2027 profit goal to push deeper into autonomy",
-      "link": "https://techcrunch.com/2026/03/19/rivian-sacrifices-2027-profit-goal-to-push-deeper-into-autonomy/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 14:39:12 +0000",
-      "description": "Rivian admitted in a regulatory filing that it is delaying its goal of reaching \"positive EBITDA\" next year because of how much it is spending on developing self-driving technology.",
-      "language": "en",
-      "summary": "Rivian postponed achieving positive earnings before interest, taxes, depreciation, and amortization (EBITDA) in fiscal year 2027 due to significant investments into autonomous driving technology development.",
-      "points": [
-        "Rivian will delay reaching its goal of EBITDA positivity until after the third quarter for at least two years from now, originally planned post-production start.",
-        "The company anticipates these R&D efforts to increase production costs by approximately $150 million annually and potentially double Rivian'senviable assets per dollar invested in its fleet compared with other electric vehicle (EV) manufacturers at the end of 2030, assuming a normalized profit scenario.",
-        "Rivian plans to offer fully autonomous vehicles for ride-hailing and delivery services by as early as mid-decade."
-      ],
-      "insight": "The delay in achieving financial milestones indicates Rivian's strategic focus on technology development which could lead it closer to self-driving capabilities, potentially providing a competitive advantage if successful. However, the increased expenditure may impact profitability and investor perception."
-    },
-    {
-      "title": "K2 to launch its first high-powered satellite for space compute",
-      "link": "https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 14:00:00 +0000",
-      "description": "K2's Gravitas is an ambitious project that aims to demonstrate the tech needed to build data centers in space.",
-      "language": "en",
-      "summary": "K2 Space Technologies plans to launch its first high-powered satellite called Gravitas with a goal of demonstrating the technology necessary for building data centers in space.",
-      "points": [
-        "Ambition: K2' extraterrestrial tech project seeks ambitious goals by proving feasibility and practicality",
-        "Unique Approach: Gravitas aims to show that it’s possible for data centers in space, offering potential future benefits like reduced weight of servers and cost savings.",
-        "Partnership Goals: K2 has partnered with Microsoft Azure's Project Columbus team to develop cloud computing services within the satellite."
-      ],
-      "insight": "This initiative signifies a significant leap in IT infrastructure possibilities, potentially reshaping future space exploration and habitation by bringing Earth-like data center capabilities into orbit. It demonstrates that commercial technology can have high payloads beyond traditional applications with implications for the expansion of cloud computing services."
-    },
-    {
-      "title": "Tools for founders to navigate and move past conflict",
-      "link": "https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 19 Mar 2026 14:00:00 +0000",
-      "description": "Founders can create frameworks for working through conflict and change when the team is just two or three people, and if done correctly, it can scale with the company.",
-      "language": "en",
-      "summary": "The article discusses methods by which founders of small teams to manage conflict effectively as their companies grow.",
-      "points": [
-        "Founders can create frameworks for working through conflicts within just two or three-person teams when done correctly, providing a foundation that scales with company growth.",
-        "Addressing and resolving internal disputes at the early stages of startup development is crucial to foster team cohesion and resilience under stressful situations like raising capital from investors. It involves recognizing signs of discord among founders when it's still manageable before they become overwhin.",
-        "Incorporating conflict resolution skills into the company culture can promote a healthier working environment, enhancing communication and cooperation while preventing conflicts that could hinder productivity."
-      ],
-      "insight": "This news emphasizes how essential it is for startup founders to cultivate effective frameworks early on. It highlights conflict as an opportunity not only for personal growth but also a key factor in the company's resilience and success, ultimately promoting healthier work cultures."
     }
   ]
 }
