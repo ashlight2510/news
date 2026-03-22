@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-03-21T18:38:49.977Z",
+  "generatedAt": "2026-03-22T02:11:50.391Z",
   "articles": [
+    {
+      "title": "SECON & eGISEC 2026, 국내(Domestic)와 세계(Global) 시장을 연결하는 보안의 미래",
+      "link": "http://www.boannews.com/media/view.asp?idx=142555&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 22 Mar 2026 09:25:00 +0900",
+      "description": "SECON & eGISEC에서 확인하는 ‘2026년 보안 혁신’[보안뉴스 엄호식 기자] 2026년 보안 시장은 글로벌 트렌드와 국내 혁신이 맞물리며 새로운 도약을 준비하고 있다. 세계적으로는 AI·클라우드·양자보안 등 차세대 기술이 사이버 위협 대응의 핵심으로 부상하고 있으며, 국내 시장 역시 공공안전과 인프라 보호, 데이터 보안 강화를 중심으로 꾸준한 성",
+      "language": "ko",
+      "summary": "2026년에 게한 보안 시장의 확산과 혁신",
+      "points": [
+        "AI·데이터·양자보안 기버킷에서 새로운 추가성공",
+        "국내와 세계 사용자의 보안 신솜감증을 강화",
+        "세계적으로 AI·클라우드·양자보안 기술이 딱짓한 도켜졌다"
+      ],
+      "insight": "2026년에는 IT/기술 업계가 기체성을 완화시키고, AI·데이터·양자보안 관련 기술이 세계적으로 중요한 역할을 하게 될 것이다."
+    },
+    {
+      "title": "It’s been 20 years since the first tweet",
+      "link": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 21 Mar 2026 20:30:47 +0000",
+      "description": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+      "language": "en",
+      "summary": "Twitter has marked its 20th anniversary since the first tweet was made by Jack Dorsey on March 21, 2006.",
+      "points": [
+        "The first tweet ever sent into cyberspace came from an unlikely messenger: a Twitter co-founder named Jack Dorsey who posted 'just setting up my twittr' as his initial message to the world on March 21, 2006.",
+        "Twitter has undergone significant evolution since its inception; however, it still maintains some of its original features such as character limits and status updates via tweets that may include images or videos with extensions like 'tweet' (e.g., @Jack_Dorsey).",
+        "The company is known for popularizing social media platforms across the globe despite facing criticism over issues related to misinformation, hate speeches, privacy concerns."
+      ],
+      "insight": "Twitter has not only witnessed a dramatic growth and transformation in user engagement but also sparked discussions regarding its role as an information dissemination platform amidst the rise of social media challenges such as misinformation and online harassment."
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 21 Mar 2026 19:30:27 +0000",
+      "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "language": "en",
+      "summary": "The Hachette Book Group has decided against publishing 'Shy Girl' due to AI-generated content inaccuraty and ethical concerns about copyright ownership.",
+      "points": [
+        "Hachette Books is not going forward with the publication of 'Shy Girl'.",
+        "The reason for their decision was related to artificial intelligence creating parts of a novel, leading to various issues including accuracy and intellectual property questions.",
+        "Publisher's stance on AI-generated content as relates to ethical considerations in copyright."
+      ],
+      "insight": "This incident highlights growing concerns within the publishing industry regarding authorship attribution, originality verification, and potential legal complications arising from non-human text generation. It suggests an emerging need for clearer guidelines on AI's role in content creation."
+    },
     {
       "title": "Delve accused of misleading customers with ‘fake compliance’",
       "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
@@ -705,51 +750,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "코닉글로리 “풀 패킷 분석하는 TESS NDR, AI로 사내 정보 유출 원천 차단”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142718&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 20 Mar 2026 09:24:00 +0900",
-      "description": "[보안뉴스 조재호 기자] 코닉글로리는 20일까지 일산 킨텍스에서 열리는 ‘SECON & eGISEC 2026’에 참가해 네트워크 전 구간의 위협을 가시화하는 차세대 네트워크 탐지·대응 솔루션 ‘테스 엔디알’(TESS NDR)을 집중 소개했다.코닉글로리는 기존 주력 제품인 ‘테스 티엠에스’(TESS TMS)를 넘어, 네트워크 트래픽을 풀 패킷(Full Pac",
-      "language": "ko",
-      "summary": "제목에서 나온 정보로 요약: 'SECON & eGISEC 2 end 이나 공권 위험을 해소하는 네트워크 방식의 차세대 스위치맞춰진 네트워크 솔루션 '테스 엔디알'이라는 비오타가 공급되고, 이는 위협을 방針한다.",
-      "points": [
-        "기사에서 나온 'SECON & eGISEC 2026'인 세미나가 열리자. 이는 공급받은 네트워크 방식의 차세대 스위치로, '테스 엔디알'을 공정성과 안전성에 대해 강조하였다.",
-        "기사는 이전 '테스 티엠에스'를 제출한 내장 네트워크 시스템과의 차선을 강조하였다.",
-        "보안뉴스 조재호가 나타내는 '테스 엔디알'이 인터넷 공급에서 보호를 위한 일차로 발전한다."
-      ],
-      "insight": "제목과 기사 내용을 보면, IT/기술 업체에서 보호가 필요한 이유는 공급받는 네트워크 시스템의 안전성과 공식성에 대해 강조되어 있다. '테스 엔디알'라는 머니ette로 광고를 통한 IT/기술 업체에서의 보호운전이 중요하다는 시사가 있다."
-    },
-    {
-      "title": "2026 시큐리티월드 콘퍼런스, 선택이 아닌 필수가 된 AI 보안의 현황과 과제 공유",
-      "link": "http://www.boannews.com/media/view.asp?idx=142717&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 20 Mar 2026 09:24:00 +0900",
-      "description": "한-영 동시통역 진행물리보안과 사이버보안 아우르는 AI 보안 현황과 과제 논의[보안뉴스 엄호식 기자] 제25회 세계보안엑스포 및 제14회 전자정부 정보보호 솔루션 페어(SECON & eGISEC2026)의 메인 콘퍼런스인 ‘2026 시큐리티월드 콘퍼런스’가 19일 일산 킨텍스 제1전시장 콘퍼런스룸 212호에서 열렸다. ‘AI 시대, 신뢰를 세우는 보안’(E",
-      "language": "ko",
-      "summary": "한-영 동시통역 진행물리보안과 사이버보안 아우르는 AI 보안 현황과 과제 논의[보안뉴스 엄호식 기자] 제25회 세계보안엑스포 및 제14회 전자정부 정보보호 솔루션 페어(SECON & eGISEC2026)의 메인 콘퍼런스인 ‘2026 시큐리티월드 콘퍼런스’가 19일 일산 킨텍스 제1전시장 콘퍼런스룸 212호에서 열렸다. ‘AI 시대, 신뢰를 세우는 보안’(E",
-      "points": [
-        "‘AI 시대, 신뢰를 세우는 보안’(E",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "시큐레이어 “AI 품은 eyeCloudXOAR, 제로 트러스트 관제 자동화 선도”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142716&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 20 Mar 2026 09:22:00 +0900",
-      "description": "[보안뉴스 조재호 기자] 시큐레이어는 20일까지 일산 킨텍스에서 열리는 ‘SECON & eGISEC 2026’에 참가해 SIEM과 SOAR를 통합하고 AI 기술을 결합한 차세대 통합 보안 분석·대응 플랫폼 ‘아이클라우드 XOAR’(eyeCloudXOAR)를 집중 선보였다.시큐레이어는 이번 전시에서 보안 장비의 로그 수집부터 위협 탐지, 자동화된 대응까지 단",
-      "language": "ko",
-      "summary": "시큐레이어는 SIEM과 SOAR를 통합한 AI-기반 보안 시스템 ‘eyeCloudXOAR’을 제공했다. 'SECON & eGISEC 2curence'에서의 작성으로 이를 촉진할 것으로 보였다.",
-      "points": [
-        "- 시큐레이어는 'eyeCloudXOAR'로 통합 SIEM과 SOAR를 AI 기반으로 제공한다.",
-        "- 이 시스템은 보안 보건에 관련해서도 추가적으로 중요하다.",
-        "- 기술 기업들에 의해 통합 시스템이 새롭간 소비자에격점을 도입한다."
-      ],
-      "insight": "이러한 AI 기술의 추진은 보안 시스템의 최적화를 촉제하고자는 IT/기술 업계에서의 신호가 될 수 있다."
     }
   ]
 }
