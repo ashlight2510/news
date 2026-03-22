@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-03-22T06:52:50.637Z",
+  "generatedAt": "2026-03-22T12:54:37.961Z",
   "articles": [
+    {
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 22 Mar 2026 12:00:00 +0000",
+      "description": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "language": "en",
+      "summary": "Amazon unveiled Trainium Lab during its $50 billion investment in OpenAI; experts praise it as a game-changer for AI development.",
+      "points": [
+        "Exclusive tour of Amazon's new chip lab, Trainium",
+        "Trainium offers low latency and high performance ideal for large language models like GPT-4"
+      ],
+      "insight": "Amazon’s investment in custom silicon demonstrates their commitment to being a leader in AI hardware. This could signal increased competition within the industry, especially regarding advancements needed as languages evolve."
+    },
+    {
+      "title": "인도 연계 APT ‘SideWinder’, 글로벌 스파이로 진화해 동남아 노린다",
+      "link": "http://www.boannews.com/media/view.asp?idx=142752&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 22 Mar 2026 19:18:00 +0900",
+      "description": "‘낡은 무기’로 태국, 인도네시아 등 교묘히 침투[보안뉴스 김형 기자] 인도와 연계된 것으로 추정되는 해킹 조직 사이드와인더(SideWinder)가 최근 태국과 인도네시아를 포함한 동남아시아 전역으로 공격 범위를 크게 확장했다. 이들은 정부의 감사를 사칭한 스피어피싱 메일을 유포해 공무원과 국가 기관 종사자들의 클릭을 유도하는 수법을 쓴다. 다크리딩 등",
+      "language": "ko",
+      "summary": "‘낡은 무기’로 태국, 인도네시아 등 교묘히 침투[보안뉴스 김형 기자] 인도와 연계된 것으로 추정되는 해킹 조직 사이드와인더(SideWinder)가 최근 태국과 인도네시아를 포함한 동남아시아 전역으로 공격 범위를 크게 확장했다. 이들은 정부의 감사를 사칭한 스피어피싱 메일을 유포해 공무원과 국가 기관 종사자들의 클릭을 유도하는 수법을 쓴다",
+      "points": [
+        "‘낡은 무기’로 태국, 인도네시아 등 교묘히 침투[보안뉴스 김형 기자] 인도와 연계된 것으로 추정되는 해킹 조직 사이드와인더(SideWinder)가 최근 태국과 인도네시아를 포함한...",
+        "이들은 정부의 감사를 사칭한 스피어피싱 메일을 유포해 공무원과 국가 기관 종사자들의 클릭을 유도하는 수법을 쓴다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "‘보안 모범생’이던 이 회사에 왜... 롯데카드, 해킹 후 뼈아픈 성찰 나눠",
+      "link": "http://www.boannews.com/media/view.asp?idx=142751&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 22 Mar 2026 19:14:00 +0900",
+      "description": "[3줄 요약]1. CPO 워크숍서 ‘침해를 겪고야 보인 것들’ 발표 2. 5년간 1200억원 투자... ASM, EDR, AI SEIM 등 전면 도입 3 “진솔한 사고 경험 유익해” 현장 반응[보안뉴스 강현주 기자] “보안이 철저한 금융권 내에서도 손꼽히는 정보보호 모범 기업이었던 롯데카드에 왜 이런일이 생겼을까요? 사고를 겪고 나서야 보인 것들이 있었습니",
+      "language": "ko",
+      "summary": "롯데카드이 보안처럼 제품뿐만 아니라 계습한 보호 기능과 연균한 매청 수읍을 통해 IT 업체에서 확장하여 성공한다는 신의를 나타내고자한다.",
+      "points": [
+        "롯데카드이 CPO가 '침해를 겪고야 보인 것들'을 소개하여 IT 업체에서의 확장을 강조한다.",
+        "롯데카드이 5년간 1200억원 투자를 기반으로 IT 업체에서 도전하여 성공한다.",
+        "ASM, EDR, AI 등의 권위에서 도임한 매청과 연균한 수읍을 IT 업체에서도 통해 성공한다."
+      ],
+      "insight": "롯데카드이의 이야기는 IT/기술 업계를 보호하고자 한다. IT 업체에서도 '보안이 철저한 권위에서도 성공'을 의미한다."
+    },
     {
       "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
       "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
@@ -705,51 +749,6 @@
         "현재의 보안 위대한 암호화된 데이0.512, '냉동' 전략을 통해 HNDL은 시스텬에서 직접으로 수집한다."
       ],
       "insight": "이러한 보호전선의 유명성과 국가 인프라에 대해 권고나라는 PQC를 이용해서 '냉동' 암호화된 데이터를 해체하기로 한다."
-    },
-    {
-      "title": "OGQ, KIIA 영상언어모델(VLM) 기술 컨퍼런스 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=142722&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 20 Mar 2026 10:05:00 +0900",
-      "description": "영상언어모델(VLM), 생성형 AI 분야 기술교류 진행[보안뉴스 엄호식 기자] 오지큐 기술연구소(GYN)가 주최하고 한국영상정보연구조합(이사장 황정현, 이하 KIIA) 주관한 영상언어모델(VLM) 기술 컨퍼런스가 19일 일산 킨텍스에서 열렸다. 이번 행사는 VLM, 생성형AI 분야 기술교류를 목적으로 마련됐다.SECON 2026 동시개최 행사로 진행된 컨퍼",
-      "language": "ko",
-      "summary": "오지큐 연구소가 영상언어모델(VLM) 기술 컨파업을 시작한다.",
-      "points": [
-        "이러한 계사의 컨파옵스는 현재, 서비스와 인지와록스에서도 VLM 기술을 통해 일하고 있다.",
-        "전시 계사들은 이러한 기술로 더욱 현실적인 영상언어모델을 만들기 위해 지원하고 있다.",
-        "이러한 연구와 개인의 간접 지원은 대형직진(영상, 음성)언어모델이 되기를 위해 중요하다."
-      ],
-      "insight": "이러한 연구는 인공지원자인 우리 세계에서 영상언어모델(VLM)의 개선과 발전을 促進하고, 작성자나 소유자가 이러한 기술을 통해 인지와록스에서도 영상언어를 제공하는 방법과 다음 단계를 찾아내거나, 살질의(life) 모드로 VLM 기술을 활용하여 더욱 인지와록시화(realistic synthetic speech)를 만들어내는 일이다."
-    },
-    {
-      "title": "미국 국방 무기가 러시아 스파이 손에… ‘코루나’ 이어 ‘다크소드’까지 아이폰 침투 도구 확산 파문",
-      "link": "http://www.boannews.com/media/view.asp?idx=142721&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 20 Mar 2026 10:03:00 +0900",
-      "description": "강력한 아이폰 해킹 도구서방에서 개발... 중국-러시아로 넘어가[보안뉴스 김형근 기자] 러시아 정부와 연계된 것으로 추정되는 해킹 그룹 UNC6353이 우크라이나 아이폰 사용자들을 겨냥해 ‘다크소드’(Darksword)라는 고도의 해킹 도구를 유포했다. 구글과 보안기업 아이베리파이(iVerify), 룩아웃(Lookout)은 공동 분석을 통해 우크라이나 웹사",
-      "language": "ko",
-      "summary": "겨냥해 대한민국과 아이폰 사용자의 보호를위해 '다크소드'와 '코루나'에서 우크라이나 인터넷 해킹 도구를 유효했다.",
-      "points": [
-        "- UNC6353 겨냥해 '다크소드'의 고위율한 해킹 도구를 확산했다.",
-        "- Google, 보안기업 iVerify, 룩아웃이 유형분석 플랜을 각기십시오하여 우크라이나 인터넷 해킹 도구를 겨냥해 '다크소드'와 '코루나'에서 확산했다.",
-        "- 국방의 관공부족이 이 작업을 진짜로 간주할 수 0보다는 낫다."
-      ],
-      "insight": "이러한 아이폰 해킹 도구의 변화는 국방체기 공격에 대한 최소제기를 제공하고 인터넷 사용자들에게 안전성을 위해 강조할 수 있다."
-    },
-    {
-      "title": "이노뎁, AI 기반 영상관제 솔루션 ‘VURIX’ 공개... 정확성과 효율성 높였다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142720&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 20 Mar 2026 09:35:00 +0900",
-      "description": "SECON 2026서 AI 기반 영상관제 기술 및 신규 솔루션 공개자연어 검색·고속 분석·2차 이벤트 검증으로 관제 정확도 강화[보안뉴스 강초희 기자] 이노뎁이 ‘SECON & eGISEC 2026’에 참가해 AI 기반 영상관제 기술과 신규 솔루션 ‘VURIX’를 선보였다.이번 전시에서 이노뎁은 관제 효율성과 정확도를 높이기 위한 AI 기술을 중심으로 △고",
-      "language": "ko",
-      "summary": "SECON 2026서 AI 기반 영상관제 기술 및 신규 솔루션 공개자연어 검색·고속 분석·2차 이벤트 검증으로 관제 정확도 강화[보안뉴스 강초희 기자] 이노뎁이 ‘SECON & eGISEC 2026’에 참가해 AI 기반 영상관제 기술과 신규 솔루션 ‘VURIX’를 선보였다. 이번 전시에서 이노뎁은 관제 효율성과 정확도를 높이기 위한 AI 기술을 중심으로 △고",
-      "points": [
-        "이번 전시에서 이노뎁은 관제 효율성과 정확도를 높이기 위한 AI 기술을 중심으로 △고",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
