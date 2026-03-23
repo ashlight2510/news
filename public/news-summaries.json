@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-03-23T07:25:50.839Z",
+  "generatedAt": "2026-03-23T13:16:55.565Z",
   "articles": [
+    {
+      "title": "CVSS 9.8 보안 경보... 오라클 계정 관리 뚫는 RCE 취약점 주의보",
+      "link": "http://www.boannews.com/media/view.asp?idx=142769&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 23 Mar 2026 17:38:00 +0900",
+      "description": "인증 절차 없이 HTTP 네트워크 접근만으로 서버 권한 완벽하게 장악 가능해2025년 유사 취약점 KEV 등재 사례 비추어 볼 때 해커 표적 될 가능성 농후[보안뉴스 조재호 기자] 오라클의 핵심 계정 관리 솔루션에서 인증 없이 원격으로 코드를 실행할 수 있는 치명적인 보안 취약점(CVE-2026-21992)이 발견되어 전 세계 기업 보안망에 비상이 걸렸다.",
+      "language": "ko",
+      "summary": "2025년 인증 없이 서버 권한 완벽화를 위해 오라클 계정 관리 애플리켓에 있는 CVE-2026-21992 출린 보안 취약점",
+      "points": [
+        "인증이 아니라 HTTP 네트워크에서만 권한을 부여하고 원격으로 코드를 실행할 수 010 치명적 보안 위험점이 CVE-2026-21992",
+        "전세계 기업들이 발생하는 보안 위기사유로울 알러리스트에 확인되어 보안에 주의가했다.",
+        "기염이 오라클의 계정 관리 솔루션에서 원격접질을 통해 인증 없이 HTTP 방식으로 서버 권한을 부여하는 경우"
+      ],
+      "insight": "CVE-2026-21992를 포함한 오라클의 계정 관리 솔루션은, 권한을 부여하기 위해 HTTP만이 아니면 인증이 필요한지를 확인해야 한다."
+    },
+    {
+      "title": "학생이 제안하고 정부가 듣는다... 개인정보위, 차세대 개인정보 법제 개선 착수",
+      "link": "http://www.boannews.com/media/view.asp?idx=142767&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 23 Mar 2026 17:35:00 +0900",
+      "description": "이해하기 어려운 처리방침 등 현실적 한계 지적하며 실효성 있는 체계 요구아동단체들 법정대리인 동의 절차 개선 및 상담 일원화 창구 마련 한목소리[보안뉴스 조재호 기자] 개인정보보호위원회가 교육 현장을 찾아 아동과 청소년의 눈높이에 맞춘 실효성 있는 개인정보보호 법제 개선 방안을 모색했다.개인정보위는 23일 서울 마포구의 위치한 서울마포초등학교에서 초·중·고",
+      "language": "ko",
+      "summary": "이해하기 어려운 처리방침 등 현실적 한계 지적하며 실효성 있는 체계 요구아동단체들 법정대리인 동의 절차 개선 및 상담 일원화 창구 마련 한목소리[보안뉴스 조재호 기자] 개인정보보호위원회가 교육 현장을 찾아 아동과 청소년의 눈높이에 맞춘 실효성 있는 개인정보보호 법제 개선 방안을 모색했다. 개인정보위는 23일 서울 마포구의 위치한 서울마포초등학교에서 초·중·고",
+      "points": [
+        "개인정보위는 23일 서울 마포구의 위치한 서울마포초등학교에서 초·중·고",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "포티넷, RSAC 2026에서 에이전틱 AI 기반 통합 보안 전략 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=142766&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 23 Mar 2026 17:31:00 +0900",
+      "description": "Fortinet Security Fabric 중심 네트워크 통합 보안 방안 제시기존 API 연동 뛰어넘는 실시간 대응 시연...MS·인터폴과 범죄 근절 공조[보안뉴스 조재호 기자] 포티넷이 에이전틱 AI를 앞세워 지능형 자동 방어와 전체 네트워크 보호 기능을 하나로 묶는 통합 보안 청사진을 제시했다.포티넷이 오늘부터 26일까지 미국 샌프란시스코에서 개최되는",
+      "language": "ko",
+      "summary": "Fortinet Security Fabric 중심 네트워크 통합 보안 방안 제시기존 API 연동 뛰어넘는 실시간 대응 시연. MS·인터폴과 범죄 근절 공조[보안뉴스 조재호 기자] 포티넷이 에이전틱 AI를 앞세워 지능형 자동 방어와 전체 네트워크 보호 기능을 하나로 묶는 통합 보안 청사진을 제시했다...",
+      "points": [
+        "Fortinet Security Fabric 중심 네트워크 통합 보안 방안 제시기존 API 연동 뛰어넘는 실시간 대응 시연",
+        "MS·인터폴과 범죄 근절 공조[보안뉴스 조재호 기자] 포티넷이 에이전틱 AI를 앞세워 지능형 자동 방어와 전체 네트워크 보호 기능을 하나로 묶는 통합 보안 청사진을 제시했다",
+        "포티넷이 오늘부터 26일까지 미국 샌프란시스코에서 개최되는"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "발행주식 12.7% 태운 에스에스알... 잔여 자사주 전량 소각 ‘초강수’",
+      "link": "http://www.boannews.com/media/view.asp?idx=142768&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 23 Mar 2026 17:22:00 +0900",
+      "description": "지난 2월 38만 주 이어 이번 이사회서 38만2090주 추가 소각 전격 결정향후 매입되는 20억 원 규모의 자사주 역시 주주 환원 목적으로 활용 예정[보안뉴스 조재호 기자] 에스에스알은 이사회 결의를 통해 현재 보유 중인 자사주 382,090주를 전량 소각하기로 결정했다고 23일 공시했다. 이번 소각 규모는 발행주식총수의 약 6.78%에 해당하며, 지난",
+      "language": "ko",
+      "summary": "지난 2월 38만 주 이어 이번 이사회서 38만2090주 추가 소각 전격 결정향후 매입되는 20억 원 규모의 자사주 역시 주주 환원 목적으로 활용 예정[보안뉴스 조재호 기자] 에스에스알은 이사회 결의를 통해 현재 보유 중인 자사주 382,090주를 전량 소각하기로 결정했다고 23일 공시했다. 이번 소각 규모는 발행주식총수의 약 6...",
+      "points": [
+        "이번 소각 규모는 발행주식총수의 약 6",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "취약점 찾으려다 암호 다 털렸다... ‘Trivy’ 오염 사태 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=142760&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 23 Mar 2026 17:14:00 +0900",
+      "description": "방어 도구를 해킹 무기로 둔갑시킨 교묘한 소프트웨어 공급망 공격 발생실제 스캔 직전 악성 코드 실행해 AWS, Azure 등 핵심 클라우드 권한 유출[보안뉴스 김형근 기자] 보안 스캐너인 ‘트리비(Trivy)’의 공식 깃허브 액션이 통째로 해킹돼 악성 코드가 삽입되는 초유의 공급망 공격이 발생했다. 보안 취약점을 찾아내야 할 도구가 기업의 핵심 클라우드 자",
+      "language": "ko",
+      "summary": "방어 도구를 해킹 무기로 둔갑시킨 교묘한 소프트웨어 공급망 공격 발생실제 스캔 직전 악성 코드 실행해 AWS, Azure 등 핵심 클라우드 권한 유출[보안뉴스 김형근 기자] 보안 스캐너인 ‘트리비(Trivy)’의 공식 깃허브 액션이 통째로 해킹돼 악성 코드가 삽입되는 초유의 공급망 공격이 발생했다. 보안 취약점을 찾아내야 할 도구가 기업의 핵심 클라우드 자",
+      "points": [
+        "보안 취약점을 찾아내야 할 도구가 기업의 핵심 클라우드 자",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "[부고] 강현주 보안뉴스 차장 모친상",
       "link": "http://www.boannews.com/media/view.asp?idx=142765&kind=&sub_kind=",
@@ -672,79 +747,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Jeff Bezos’ Blue Origin enters the space data center game",
-      "link": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 20 Mar 2026 16:27:43 +0000",
-      "description": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit.",
-      "language": "en",
-      "summary": "Blue Origin is entering the space data center industry with a project that includes over 50,000 satellites for computing in Earth's orbits.",
-      "points": [
-        "Jeff Bezos’ Blue Origin has announced Project Sunrise to deploy more than 50,000 low-Earth orbit (LEO) satellites that will handle high-energy compute tasks.",
-        "The network of miniaturized computing units is expected to provide an alternative and potentially global communications infrastructure in space as well as on Earth.",
-        "Blue Origin's endeavor could significantly reduce latency issues for internet users by leveraging the unique properties of orbital paths."
-      ],
-      "insight": "This project represents a significant step towards utilizing low-Earth orbit satellites to provide global, high-speed data processing capabilities and may revolutionize how we approach communications infrastructure within IT industries worldwide."
-    },
-    {
-      "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
-      "link": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 20 Mar 2026 16:18:57 +0000",
-      "description": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker.",
-      "language": "en",
-      "summary": "The U.S Justice Department has accused Iran' extranuclear activities of operating a hacker group called Handala that claimed responsibility for the hack against medical tech giant Stryker.",
-      "points": [
-        "Handala, an alleged fake activist persona linked to Tehran’s ministry of information and communication technology (ICT), targetted cybersecurity firm Dragos in a destructive attack dubbed 'Operation Cleaver'.",
-        "'Operation Carcano', another assault on US entities by Handala that was reportedly aimed at disrupting the upcoming elections, is believed to have been carried out with Russian assistance.",
-        "Iran's Ministry of ICT denies involvement in any group including 'Handala'."
-      ],
-      "insight": "This news underscores increasing cyber threats from state actors and the complexities involved, as countries engage in digital espionage or sabotage activities under various aliases."
-    },
-    {
-      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 20 Mar 2026 16:14:04 +0000",
-      "description": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-      "language": "en",
-      "summary": "The U.S. government's new AI framework under President Trump aims to override state regulations in favor of federal oversight, boost innovation, and place more child safety responsibilities on parents while proposing less stringent rules for tech companies.",
-      "points": [
-        "President Donald Trump's executive order calls for increased AI development across government departments to maintain a competitive edge in the global marketplace."
-      ],
-      "insight": "This initiative could lead to inconsistencies between state and federal regulations, potentially stifling innovation due to an overly burdensome compliance landscape. Additionally, placing child safety largely on parents may not adequately protect children in a digitized world."
-    },
-    {
-      "title": "AI startups are eating the venture industry and the returns, so far, are good",
-      "link": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 20 Mar 2026 15:41:21 +0000",
-      "description": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share.",
-      "language": "en",
-      "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share",
-      "points": [
-        "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta la...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
-      "link": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 20 Mar 2026 15:01:39 +0000",
-      "description": "A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles.",
-      "language": "en",
-      "summary": "Drivers in the US are facing vehicle immobilization due to a cyberattack on a car breathalyzer company.",
-      "points": [
-        "Cyberattack leaves drivers stranded across United States",
-        "Breathalyzer devices affected by hacking incident",
-        "Disruption impacts safety and functionality of vehicles"
-      ],
-      "insight": "This cyberattack highlights the increasing intersection between technology reliance, vehicle security concerns, and transportation infrastructure resilience."
     }
   ]
 }
