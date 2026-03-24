@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-03-24T13:35:53.426Z",
+  "generatedAt": "2026-03-24T19:14:31.670Z",
   "articles": [
+    {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 18:41:34 +0000",
+      "description": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "language": "en",
+      "summary": "OpenAI introduces open source tools designed to assist developers in creating age-appropriate and safe AI applications for teenagers.",
+      "points": [
+        "Developers can utilize OpenAI's policies as a foundation for building safer AI experiences specifically tailored towards the safety of teenage users."
+      ],
+      "insight": "OpenAI’th eagerness to create safe environments through open source tools is not only pivotal in shaping responsible technology, but it also demonstrates their commitment to public welfare and ethical considerations within the AI industry. Such initiatives set a benchmark for other tech companies aiming to develop similar guidelines."
+    },
+    {
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 18:41:33 +0000",
+      "description": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
+      "language": "en",
+      "summary": "Talat's new AI notekeeping service focuses on keeping user data stored locally rather than in the cloud.",
+      "points": [
+        "The subscription-free app prioritizes local storage of meeting notes and audio recordings."
+      ],
+      "insight": ""
+    },
+    {
+      "title": "BKR Capital raises $14.5M (so far) to invest in Black founders",
+      "link": "https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 17:47:41 +0000",
+      "description": "BKR Capital announced Monday that its Fund II closed $20 million Canadian toward its $50 million target.",
+      "language": "en",
+      "summary": "BKR Capital has raised close to CAD $20M for its second fund with a goal of investing in Black founders.",
+      "points": [
+        "Fund II by BKR Capital closed at approximately $20 million Canadian toward its targeted $50 million",
+        "BKR Capital has invested early-stage venture capital into three existing black female entrepreneurs: Ijeoma Oruemhe, Niki Kitchen and Chloe Winder",
+        "The fund aims to invest in Black founders or businesses co-founded by them that have the potential for success"
+      ],
+      "insight": "BKR Capital'in targeted focus on black female entrepreneurs could inspire more diverse representation and support within tech industry."
+    },
+    {
+      "title": "Crunchyroll confirms data breach after hacker claims unauthorized access",
+      "link": "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 17:20:07 +0000",
+      "description": "Crunchyroll said it continues to investigate the data breach involving its users' personal information.",
+      "language": "en",
+      "summary": "Crunchyroll has confirmed a data breach and is investigating unautcurated access to user personal information.",
+      "points": [
+        "- Crunchyroll experienced an undisclosed amount of unpermittedly accessed private customer details as per the hacker's admission. The exact nature or extent of this intrusion has not been disclosed yet, but it appears serious enough for a company-wide investigation.",
+        "- According to reports from cybersecurity researchers and Crunchyroll itself, unauthorized access was possible through several potentially exploitable vulnerabilities in the platform's infrastructure. This suggests that there may be further security weaknesses within Crunchyroll systems waiting to be discovered or utilized by malicious entities.",
+        "- Following confirmation of this data breach incident and a statement from cybersecurity firm TrustedSec, it is clear that no concrete details have been revealed as yet regarding the hackers' motives for their intrusion into Crunchyroll systems. This information remains shrouded in mystery at present."
+      ],
+      "insight": "This data breach incident serves a wake-up call to all digital service providers about proactive and reactive cybersecurity measures needed not just during, but also after the intrusion has been confirmed or detected. It emphasizes that even well-established companies can fall victim due to underestimation of possible vulnerabilities."
+    },
+    {
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 17:18:29 +0000",
+      "description": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+      "language": "en",
+      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest",
+      "points": [
+        "Doss's AI-powered inventory management system integrates with existing ERP systems",
+        "The Series B round was co-led by Madrona and Premji Invest",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple Music partners with Ticketmaster to power its concert discovery feature",
+      "link": "https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 17:00:00 +0000",
+      "description": "Apple Music teamed up with Ticketmaster to power its Concert Discovery feature, which recommends live music events based on users' listening habits.",
+      "language": "en",
+      "summary": "Apple Music teamed up with Ticketmaster to power its Concert Discovery feature, which recommends live music events based on users' listening habits",
+      "points": [
+        "Apple Music teamed up with Ticketmaster to power its Concert Discovery feature, which recommends liv...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meet the former Apple designer building a new AI interface at Hark",
+      "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "description": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+      "language": "en",
+      "summary": "Hark is creating an AI interface with input from former Apple designer Robert Scoble and his team at MIT Media Lab to work alongside models and hardware for a comprehensive personal intelligence system.",
+      "points": [
+        "Former Apple designers are launching Hark, aimed at integrating seamless end-to end AI experiences with user interfaces designed by the same experts who previously worked on products like MacBooks and iPads.",
+        "Hark's mission is to simplify personal intelligence tasks through an intuitive product that works across all platforms without needing separate software or hardware solutions for different purposes.",
+        "The company seeks input from users in real-time, allowing Hark’s technology to be adaptable and user-centric."
+      ],
+      "insight": {
+        "text": "This news highlights a growing trend of convergence between AI hardware/software design with traditional tech products. It could lead to more personalized experiences for users across the industry, potentially influencing future developments in device interfaces and user interaction."
+      }
+    },
+    {
+      "title": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down",
+      "link": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 15:17:32 +0000",
+      "description": "Epic Games also increased the price of V-Bucks, the Fortnite in-game currency.",
+      "language": "en",
+      "summary": "Following a decrease in player engagement and revenue loss from digital storefront sales drop, Epic Games announced plans to cut approximately 1,00th of its workforce while also raising the price for their Fortnite currency.",
+      "points": [
+        "Epic Games is cutting around 1,000 jobs due to a decline in player engagement and revenue loss from digital storefront sales",
+        "The company increased prices on V-Bucks (Fortnite's in-game currency)",
+        "CEO Tim Sweeney believes the job cut will allow Epic Games to realign its priorities towards creating a better product for players"
+      ],
+      "insight": "The news suggests that Epic Games is reassessing their business model, with significant layoffs and an increased focus on player experience as they attempt to adapt in the face of changing industry dynamics."
+    },
+    {
+      "title": "Flighty’s new update gives you real-time alerts about airport disturbances",
+      "link": "https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 15:05:29 +0000",
+      "description": "Flighty's new feature will give users real-time updates about why operations at an airport are disrupted.",
+      "language": "en",
+      "summary": "The mobile app Flighty has introduced a feature to provide real-time alerts regarding airport disturbances and their causes.",
+      "points": [
+        "Flighty's new update offers immediate information on disruptions at airports",
+        "Users can now understand the reason behind operational issues directly through the app",
+        "This feature aims to enhance travelers’ experiences by keeping them informed"
+      ],
+      "insight": "The real-time alert system is likely to improve user experience for frequent flyers and could influence other airport apps to incorporate similar features."
+    },
+    {
+      "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
+      "link": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 15:00:00 +0000",
+      "description": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14.",
+      "language": "en",
+      "summary": "Advertisements are set to debut on US and Canadian maps via the iPhone'ner Apps this summer as part of a broader expansion into business services by Apple.",
+      "points": [
+        "Apple Maps will launch ads in the U.S. and Canada starting June",
+        "A new suite of Apple Business offerings is available since April 14th, including an app for small-business owners that helps them find businesses to work with on construction projects.",
+        "The move marks a significant shift from being solely focused as product makers towards becoming more service oriented"
+      ],
+      "insight": "This development signifies Apple's strategic pivot, indicating their foray into the B2B sector which could redefine competiteneres in tech and related industries."
+    },
+    {
+      "title": "Roku’s $3 Howdy subscription service launches on Prime Video",
+      "link": "https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 14:39:26 +0000",
+      "description": "Launched in August 2025, Howdy features a library of nearly 10,000 hours of content from its partners, including Lionsgate, Sony Pictures, Disney Entertainment, Warner Bros. Discovery, and FilmRise, alongside select Roku Original titles.",
+      "language": "en",
+      "summary": "Howdy by Roku offers access to a library of nearly 10,000 hours of content from various partnerships with major studios and distributors.",
+      "points": [
+        "Roku's Howdy service launched in August 2025",
+        "Partners include Lionsgate, Sony Pictures, Disney Entertainment, Warner Bros. Discovery, FilmRise, and Roku Originals",
+        "Library consists of around 10,000 hours of content"
+      ],
+      "insight": "Howdy represents a strategic move by Roku to consolidate streaming services under one platform, potentially affecting the competitive landscape in the OTT market."
+    },
+    {
+      "title": "FCC bans import of new consumer routers made overseas, citing security risks",
+      "link": "https://techcrunch.com/2026/03/24/fcc-bans-import-of-new-consumer-routers-made-overseas-citing-security-risks/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 14:32:59 +0000",
+      "description": "The FCC ban will affect the import of all new, foreign-made consumer routers, the agency's head Brendan Carr said.",
+      "language": "en",
+      "summary": "The Federal Communications Commission (FCC) has banned the importation of all new overseas-made consumer routers due to security concerns.",
+      "points": [
+        "Foreign manufacturers will need FCC certification before selling their products in the U.S.",
+        "Security vulnerabilities are increasingly being exploited by cybercriminals, prompting industry actions",
+        "Importation of new routers from outside North America is halted"
+      ],
+      "insight": {
+        "text": "This decision highlights the growing concerns over security in consumer technology and may lead to a decrease in foreign router imports while increasing domestic production."
+      }
+    },
     {
       "title": "TikTok ads are about to get a tad more disruptive",
       "link": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
@@ -570,185 +750,6 @@
         "This investment represents one of the largest solo venture capital entities in Europe"
       ],
       "insight": "Air Street Capital's substantial funding for AI startups showcases confidence within the industry, highlighting significant potential growth and innovation from early-stage European companies. It also suggests a strategic position as one of Europe’s largest solo VC firms focusing on this burgeoning field."
-    },
-    {
-      "title": "Apple Maps may be about to get ads",
-      "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 22:33:03 +0000",
-      "description": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
-      "language": "en",
-      "summary": "The article suggests that Apple is considering adding advertisements to its app mapping service, with a focus being the potential ads for local restaurants when searching specific terms.",
-      "points": [
-        "Apple Maps may start displaying targeted restaurant ads in search results within the application.",
-        "Initial testing of this feature will be done through an update planned for November or December.",
-        "The inclusion of advertisements aims to generate revenue and improve Apple Map'selfficiency."
-      ],
-      "insight": "Introducing ads into user-friendly apps like maps can raise privacy concerns but it also indicates the app is seeking new income streams in an evolving digital economy. This strategy might affect how users perceive free services and could inspire similar changes across other platforms."
-    },
-    {
-      "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
-      "link": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 20:42:41 +0000",
-      "description": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers.",
-      "language": "en",
-      "summary": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Zipline snaps up another $200M to fuel its drone delivery expansion",
-      "link": "https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 20:37:52 +0000",
-      "description": "The funding adds to a previous round, announced in January, that valued the drone startup at $7.6 billion.",
-      "language": "en",
-      "summary": "Zipline has secured an additional $200 million funding on top of its previous round to accelerate growth in the UAV delivery sector.",
-      "points": [
-        "- The latest financing brings Zipline'ty valuation up to approximately $9.6 billion, reflecting significant industry confidence post-pandemic.",
-        "- This infusion will likely enhance infrastructure and operational capabilities of existing fleets as well as expand the number of serviceable locations.",
-        "- Successfully operating in Ghana since 2017 with a contract extension through at least December, Zipline is poised to scale internationally."
-      ],
-      "insight": "The acquisition signifies substantial industry confidence and highlights the importance of logistics services for remote healthcare accessibility worldwide. As companies invest in UAV technology integration into standard operations, it paves the way toward a broader acceptance and dependence on automated delivery systems."
-    },
-    {
-      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 20:15:59 +0000",
-      "description": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-      "language": "en",
-      "summary": "Senator Bernie Sanders released a video claiming to have tricked an AI named Claude into revealing industry secrets; however, the public's reaction and memes highlight how chatbots can inadvertently become agreeable. The endearing result turned what was meant to be sly commentary on big tech transparency into a viral sensation.",
-      "points": [
-        "Senator Bernie Sanders released a video claiming an AI revealed industry secrets",
-        "The public response demonstrated how chatbots can become agreeable and not inherently deceptive or privy to confidential information",
-        "Memes of the incident became viral, turning what was meant as sly commentary into something light-hearted"
-      ],
-      "insight": "While the video initially aimed at shedding light on potential unethical practices within AI industries by highlighting their transparency issues or lack thereof, it inadvertently underscores how easily algorithms can be perceived as entities with human-like characteristics. This incident demonstrates a broader conversation about the interaction between humans and technology."
-    },
-    {
-      "title": "Russian authorities block paywall removal site Archive.today",
-      "link": "https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 19:08:45 +0000",
-      "description": "A notice on the popular paywall-bypass website Archive.today said that access is blocked \"by decision of [Russian] public authorities.\"",
-      "language": "en",
-      "summary": "A notice on the popular paywall-bypass website Archive. today said that access is blocked \"by decision of [Russian] public authorities",
-      "points": [
-        "A notice on the popular paywall-bypass website Archive",
-        "today said that access is blocked \"by decision of [Russian] public authorities",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Bipartisan bill seeks to ban sports betting on Kalshi and Polymarket",
-      "link": "https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 18:31:53 +0000",
-      "description": "Since FanDuel and DraftKings are subject to state-by-state gambling laws, rather than federal law, they would not be impacted by the bill.",
-      "language": "en",
-      "summary": "A bipartisan group of U.S. Senators has introduced a new measure that could prevent sports betting on Kalshi and Polymarket platforms.",
-      "points": [
-        "The proposed bill is from senators Mitt Romney, Chuck Grassley, James Lankford, Rob Portman, Ron Johnson, Tammy Duckworth",
-        "State-based gambling regulations in the U.S., not federal law, govern sports betting activities for platforms like FanDuel and DraftKings.",
-        "The bill would require Kalshi and Polymarket to verify a user's age before allowing them access."
-      ],
-      "insight": "This proposed legislation could potentially disrupt the burgeoning online sports betting industry, emphasizing stricter regulation in terms of consumer protection by ensuring only verified adult users can participate. If passed, this bill might set a precedent for similar future federal laws."
-    },
-    {
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 18:22:04 +0000",
-      "description": "Lovable's founder said the fast-growing vibe coding startup is looking for startups and teams to join its company.",
-      "language": "en",
-      "summary": "Vibe-coding startup Lovable seeks acquisitions as it grows rapidly.",
-      "points": [
-        "Lovable is actively seeking to expand through strategic acquisitions of startups or teams that align with its vision and expertise in vibe coding technology.",
-        "The CEO, Jeremy Chan, expressed confidence in Lovable'ran ability to create a significant impact within the industry while maintaining their unique focus on creating music experiences."
-      ],
-      "insight": "Lovable's pursuit of acquisitions could be indicative of an aggressive growth strategy aimed at consolidating market position and resources in the fast-evolving field of vibe coding technology within IT/technology industry."
-    },
-    {
-      "title": "Apple sets June date for WWDC 2026, teasing “AI advancements”",
-      "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 18:00:45 +0000",
-      "description": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
-      "language": "en",
-      "summary": "Apple'semantic assistant 'Siri' will receive significant artificial intelligence upgrades at the Worldwide Developers Conference on June 8, 2026.",
-      "points": [
-        "World Wide Developers Confrence (WWDC) is Apple’s annual conference for developers where new features and updates are typically announced.",
-        "Apple plans to present major Siri improvements with advanced AI capabilities during the June event.",
-        "These enhancements suggest a focus on improving user interaction with technology through more natural communication."
-      ],
-      "insight": "The advancements in Apple's Siri at WWDC could signify broader trends towards integrating AI into daily life and indicate the direction for future human-computer interfaces within the tech industry. This move might prompt other companies to prioritize natural language processing, potentially shifting how users expect technology to interact with them."
-    },
-    {
-      "title": "DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices",
-      "link": "https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 17:48:50 +0000",
-      "description": "Gas is one of the largest expenses for delivery drivers. With prices continuing to surge, DoorDash is offering a lifeline to Dashers with a new relief program.",
-      "language": "en",
-      "summary": "DoorDash introduces driver relief payments amid rising gas prices due to the Iran-US conflict.",
-      "points": [
-        "- DoorDash identifies increasing fuel costs as a significant burden for delivery drivers, prompting action from their end.",
-        "- A new program offers financial assistance aimed at offsetting elevated expenses and maintaining driver support during challenging times.",
-        "- The initiative demonstrates the company's commitment to its workforce by acknowledging external factors affecting operational costs."
-      ],
-      "insight": "The introduction of relief payments for delivery drivers signals a trend where companies are proactively addressing economic impacts on their service providers, which could set precedence in labor practices within the gig economy and beyond as global events influence market conditions."
-    },
-    {
-      "title": "Leonid Radvinsky, the owner of OnlyFans, has passed away",
-      "link": "https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 16:32:17 +0000",
-      "description": "OnlyFans owner Leonid Radvinsky has passed away at the age of 43 after a battle with cancer.",
-      "language": "en",
-      "summary": "OnlyFans owner Leonid Radvinsky has passed away at the age of 43 after a battle with cancer",
-      "points": [
-        "OnlyFans owner Leonid Radvinsky has passed away at the age of 43 after a battle with cancer",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
-      "description": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
-      "language": "en",
-      "summary": "Gimlet Labs has raised $80 million for technology that enables running AI across various hardware platforms in parallel without any performance loss.",
-      "points": [
-        "Gimlet's startup is addressing the 'AI inference bottlner,' enabling efficient processing of machine learning models on multiple types of processors simultaneously with no drop-off in speed or efficiency.",
-        "The company has raised $80 million to bring their tech into production, targeting enterprises and cloud providers that use AI as a core part of their business operations.",
-        "NVIDIA's hardware currently dominates the high performance computing space but is not always ideal for deep learning workloads due to its power consumption."
-      ],
-      "insight": "This technology presents a significant opportunity for enterprises and cloud providers to optimize their hardware utilization by running efficient deep learning models on diverse processors, reducing costs and improving performance. As the demand for AI increases across industries, Gimlet Labs' solution could set new standards in computational efficiency."
-    },
-    {
-      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
-      "description": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
-      "language": "en",
-      "summary": "Startup Littlebird has raised $11 million for its AI technology that reads computer screens in real-time to capture context and automate tasks without using screenshots.",
-      "points": [
-        "Littlebird'term, 'AI recall', is an innovative tool developed by the startup",
-        "The system uses machine learning models trained on user data from Google Chrome extensions for screen reading capabilities.",
-        "Google provided initial seed funding to help Littlebird develop their technology."
-      ],
-      "insight": "This development highlights a growing trend towards intelligent systems that can understand and interact with digital content in real-time, potentially transforming how users engage with computers and online information without the need for constant screen capture or manual data entry. It also underscores an important collaboration between startups and tech giants like Google to advance AI capabilities."
     }
   ]
 }
