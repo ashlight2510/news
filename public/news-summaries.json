@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-03-25T02:20:12.811Z",
+  "generatedAt": "2026-03-25T07:11:22.392Z",
   "articles": [
+    {
+      "title": "‘AI로 제로트러스트 가속’ 아카마이, 가디코어 세그멘테이션 기능 강화",
+      "link": "http://www.boannews.com/media/view.asp?idx=142810&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 15:54:00 +0900",
+      "description": "애플리케이션 동작 분석해 보안 정책 자동 생성 및 시뮬레이션 기능 제공증거 기반 정책 시행과 리스크 격리 연계해 공격 확산 범위 효과적 차단[보안뉴스 조재호 기자] 아카마이 테크놀로지스가 AI를 활용해 제로트러스트 보안의 핵심인 세그멘테이션 작업을 자동화하고 보안 정책 시행 방식을 혁신한다. 애플리케이션 동작을 실시간으로 분석해 정확한 정책을 생성해 기업이",
+      "language": "ko",
+      "summary": "애플리케이션 동작 분석해 보안 정책 자동 생성 및 시뮬레이션 기능 제공증거 기반 정책 시행과 리스크 격리 연계해 공격 확산 범위 효과적 차단[보안뉴스 조재호 기자] 아카마이 테크놀로지스가 AI를 활용해 제로트러스트 보안의 핵심인 세그멘테이션 작업을 자동화하고 보안 정책 시행 방식을 혁신한다. 애플리케이션 동작을 실시간으로 분석해 정확한 정책을 생성해 기업이",
+      "points": [
+        "애플리케이션 동작을 실시간으로 분석해 정확한 정책을 생성해 기업이",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "프라이빗테크놀로지, DPG 통합플랫폼 N2SF 실증 완료… ‘제로트러스트’ 기반 마련",
+      "link": "http://www.boannews.com/media/view.asp?idx=142811&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 15:50:00 +0900",
+      "description": "C·S·O 등 데이터 등급별 차등 보안 통제 실제 환경 운용 가능성 확인클라우드 및 생성형 AI 환경서도 논리적 분리 및 접근제어 효과 입증[보안뉴스 조재호 기자] 프라이빗테크놀로지는 지난해부터 추진해 온 `디지털플랫폼정부`(DPG) 통합플랫폼 대상 `국가 망 보안체계`(N2SF) 시범 실증 사업을 최종 완료했다고 25일 밝혔다. N2SF는 정보시스템과 데",
+      "language": "ko",
+      "summary": "N2SF에서 프라이빗테크놀로지 시보안력 검사를 완수할 수 있음",
+      "points": [
+        "국가 망 보안체계 N2SF는 정보시스템과 데이터의 보안을 강제로 처리한다.",
+        "프라이빗테크놀로지 시보안 검사에서 나타나는 경영진인 정부가 최종적으로 대상에 집중하고 있다.",
+        "이러한 보안시스템은 기계학습(AI)를 사용하여 실시간 관리를 완화시키고 있다."
+      ],
+      "insight": "이러한 보안체계는 IT/기술 업체에서 인접한 정보보안 책임과 상호작용하고, 일부 감시구조에서의 '제로트러스트'이기도록 환경을 진화시키고 있다."
+    },
+    {
+      "title": "빔 소프트웨어, “AI 시대에는 데이터 보호만으로는 역부족... 데이터 신뢰와 복원력이 곧 기업 경쟁력”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142812&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 15:46:00 +0900",
+      "description": "존 제스터 CRO, AI 도입 전 점검 과제로 ‘데이터 신뢰’, ‘규제 대응’, ‘복구 가능성’ 제시AI 도입 속도가 빨라질수록 데이터 가시성 약화... ‘데이터 신뢰’와 ‘복원력’이 핵심이 될 것빔 소프트웨어, 데이터 보호 글로벌 1위... 연간 반복 매출 20억 달러로 연간 15.2% 성장에이전트 커맨더... AI의 실수를 보다 정밀하게 되돌리고 수정이",
+      "language": "ko",
+      "summary": "AI의 도전성 확장에서 데이터 보호의 중요성이 높아질 것이다.",
+      "points": [
+        "빔 소프트웨어는 AI 도입 전에 '데이터 신뢰'가 최고점일뿐이다.",
+        "규제 대응과 복구력성은 AI의 영향을 강화하는 중요한 요소이다.",
+        "AI 도임에 데이터 보호손글씨가 늘어나고 있고, 기업들이 이를 우선적으로 강조해야 함다."
+      ],
+      "insight": "AI의 도전성에서는 '데이터 신뢰'과 '규제 대응'를 더 중요시하도록 노력해야 한다."
+    },
+    {
+      "title": "‘국비 100억 투입’ 과기정통부, 지역 거점 정보보호 클러스터 공모",
+      "link": "http://www.boannews.com/media/view.asp?idx=142804&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 14:48:00 +0900",
+      "description": "대구·경북 및 전라·제주 등 초광역권 지방정부 대상 4월 27일까지 접수선정된 1개 사업단에 200억 규모 인프라 구축 및 사이버보안 자생력 강화 지원[보안뉴스 조재호 기자] 과학기술정보통신부가 수도권에 편중된 정보보호 생태계를 전국으로 확산하기 위해 대규모 지역 거점 구축 사업에 시동을 걸었다.과기정통부와 한국인터넷진흥원(KISA)은 3월 25일부터 4월",
+      "language": "ko",
+      "summary": "대구·경북 및 전라·제주 등 초광역권 지방정부 대상 4월 27일까지 접수선정된 1개 사업단에 200억 규모 인프라 구축 및 사이버보안 자생력 강화 지원[보안뉴스 조재호 기자] 과학기술정보통신부가 수도권에 편중된 정보보호 생태계를 전국으로 확산하기 위해 대규모 지역 거점 구축 사업에 시동을 걸었다. 과기정통부와 한국인터넷진흥원(KISA)은 3월 25일부터 4월",
+      "points": [
+        "과기정통부와 한국인터넷진흥원(KISA)은 3월 25일부터 4월",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "국가AI전략위 조직 확대 개편... ‘보안 특별위’ 신설해 사이버 위협 대응 강화",
+      "link": "http://www.boannews.com/media/view.asp?idx=142807&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 14:43:00 +0900",
+      "description": "보안 특별위 가동해 국가안보실과 협업, AI 안전성 및 사이버 보안 정책 연계 확대이원태 국민대 특임교수가 위원장 맡아... 보안 업계와 학계의 핵심 전문가들 대거 참여전문성 중심 10개 분과 및 2개 특별위 체제 전환... 민간 위원 총 127명으로 확대 구성[보안뉴스 조재호 기자] 국가인공지능전략위원회(이하 국가AI전략위)가 AI 기술의 급격한 발전과",
+      "language": "ko",
+      "summary": "보안 특별위 가동해 국가안보실과 협업, AI 안전성 및 사이버 보안 정책 연계 확대이원태 국민대 특임교수가 위원장 맡아. 보안 업계와 학계의 핵심 전문가들 대거 참여전문성 중심 10개 분과 및 2개 특별위 체제 전환...",
+      "points": [
+        "보안 특별위 가동해 국가안보실과 협업, AI 안전성 및 사이버 보안 정책 연계 확대이원태 국민대 특임교수가 위원장 맡아",
+        "보안 업계와 학계의 핵심 전문가들 대거 참여전문성 중심 10개 분과 및 2개 특별위 체제 전환",
+        "민간 위원 총 127명으로 확대 구성[보안뉴스 조재호 기자] 국가인공지능전략위원회(이하 국가AI전략위)가 AI 기술의 급격한 발전과"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "전 세계 기업 3억개 vs CISO 3만명... “보안 사령관이 없다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142797&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 14:36:00 +0900",
+      "description": "포춘 500대 기업 제외한 전 세계 90% 중소기업 보안 전담 인력 전무MSP 및 MSSP 등 파트너사 활용한 서비스형 보안 리더십 도입 시급성 대두[보안뉴스 김형근 기자] 전 세계 기업 수가 3억5900만 개에 달하지만, 활동 중인 정보보호 최고책임자(CISO)는 고작 3만5000명에 불과해 글로벌 보안 리더십에 심각한 경고등이 켜졌다.글로벌 보안 기업",
+      "language": "ko",
+      "summary": "전 세계 90% 중소기업의 보안 활동이 어려워서 발생하고 있음",
+      "points": [
+        "전 세계 90% 중소기업가 글로벌 보안 리더십에 사용되지 않는다.",
+        "CISO는 상위 3만명만이 발생하며, 90%의 비중을 차지한다.",
+        "세계 기업들은 MSSP를 활용해서 보안 리더십 도커사에서만 이용하고 있다."
+      ],
+      "insight": "전세계 중소기업들은 보안에 대한 경륜과 지식이 부족해서 MSSP를 선호한다."
+    },
+    {
+      "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters",
+      "link": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Mar 2026 02:30:00 +0000",
+      "description": "Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry.",
+      "language": "en",
+      "summary": "A former Thiel fellow's startup, Brinc, has launched a new drone designed for rapid response during emergencies as an alternative to police helicopters.",
+      "points": [
+        "Brinc introduces the first FAA-certified drones specifically built and marketed towards public safety professionals like law enforcement officers.",
+        "The company's initial fleet consists of five autonomous flying robots capable of carrying a significant payload, including emergency medical supplies or non-lethal weapons such as tasers.",
+        "Brinc secured an agreement with the FAA to launch its drones in response to 911 calls within ten minutes from anywhere."
+      ],
+      "insight": "The release of Brinc's drone could lead to a shift in how emergency services are deployed, potentially improving efficiency and reducing costs for law enforcement agencies. This development underscores the growing role technology plays in public safety solutions within the IT/technology industry."
+    },
     {
       "title": "원모어시큐리티, 초격차 스타트업 선정... 3년간 최대 12억원 지원",
       "link": "http://www.boannews.com/media/view.asp?idx=142796&kind=&sub_kind=",
@@ -642,111 +747,6 @@
         "The market for such personal fitness technology is currently dominated largely due to Oura's innovative approach, with the company holding over 50% of global demand."
       ],
       "insight": "This news suggests that companies like Ultrahuman and others are vying for a share in an increasingly lucrative health-tech market driven by consumer adoption. Oura's stronghold indicates it might remain the preferred choice while other contenders jostle for position."
-    },
-    {
-      "title": "[RSAC 2026] 보안 오픈 커뮤니티 OWASP 서울 챕터, 샌프란시스코에서도 지식 공유",
-      "link": "http://www.boannews.com/media/view.asp?idx=142787&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 16:40:00 +0900",
-      "description": "OWASP 서울 챕터, RSAC 열린 샌프란시스코에서 지식 공유 [미국 샌프란시스코= 보안뉴스 특별취재팀] 보안 분야 글로벌 오픈 커뮤니티에서 활동하는 보안 전문가들이 샌프란시스코에 모였다. 23일(현지시간) 미국 샌프란시스코에서 개최된 세계 최대 사이버 보안 행사 RSAC 2026 참관객을 대상으로 OWASP 서울 챕터(리더 김동현) 회원들이 최신 정보보",
-      "language": "ko",
-      "summary": "23일(현지시간)에서 개최된 RSAC 2026 세계 최대 사이버 보안 행사에서 활동하는 미국 샌프란시스코의 OWASP 서울 챕터가 소개되었다.",
-      "points": [
-        "- 23일(현지시간)에서 개최된 RSAC 2026 세계 최대 사이버 보안 행사에서 보안 전문가들이 지식을 공유한다.",
-        "- OWASP 서울 챕터는 모바일 질의자(VU)과 관련된 IT/기술 계정들이 출시되어 전세계적으로 보안 지식을 공유할 수 0ne다.",
-        "- OWASP의 '균벌'를 통해서는 IT/기술 업계의 이해가 어떻게지세요?"
-      ],
-      "insight": "보안 전문가들이 인터뷰에서 공유하는 IT/기술 정보는 기업들이 보안적인 프로톤 방식을 구상시키고 연구한다. OWASP 서울 챕터는 IT/기술 공부를 결국해볼 수 있도록 해칩니다."
-    },
-    {
-      "title": "‘N2SF 전환 정조준’ 모니터랩, eGISEC 2026서 제로트러스트 솔루션 선봬",
-      "link": "http://www.boannews.com/media/view.asp?idx=142784&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 16:36:00 +0900",
-      "description": "구축형 및 구독형 제로트러스트 솔루션 총망라해 통합 시연 진행웹과 SaaS 애플리케이션 등 단일 정책 체계로 제어해 운영 효율성 제고[보안뉴스 조재호 기자] 모니터랩이 국가망 보안체계(N2SF) 전환에 맞춘 제로트러스트 전략과 핵심 솔루션을 대거 공개했다. 고객 환경에 맞춘 맞춤형 솔루션으로 공공과 금융, 민간 시장의 제로트러스트 보안 모델 정착을 지원한다",
-      "language": "ko",
-      "summary": "구축형 및 구독형 제로트러스트 솔루션 총망라해 통합 시연 진행웹과 SaaS 애플리케이션 등 단일 정책 체계로 제어해 운영 효율성 제고[보안뉴스 조재호 기자] 모니터랩이 국가망 보안체계(N2SF) 전환에 맞춘 제로트러스트 전략과 핵심 솔루션을 대거 공개했다. 고객 환경에 맞춘 맞춤형 솔루션으로 공공과 금융, 민간 시장의 제로트러스트 보안 모델 정착을 지원한다",
-      "points": [
-        "구축형 및 구독형 제로트러스트 솔루션 총망라해 통합 시연 진행웹과 SaaS 애플리케이션 등 단일 정책 체계로 제어해 운영 효율성 제고[보안뉴스 조재호 기자] 모니터랩이 국가망 보안...",
-        "고객 환경에 맞춘 맞춤형 솔루션으로 공공과 금융, 민간 시장의 제로트러스트 보안 모델 정착을 지원한다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘해킹 숨기면 철퇴’ 정보통신망법 개정안 국무회의 통과",
-      "link": "http://www.boannews.com/media/view.asp?idx=142785&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 16:34:00 +0900",
-      "description": "CISO 권한 대폭 강화하고 사고 반복 시 과징금 부과 규정 신설 정부의 선제적 현장 조사 근거 명문화해 사이버 침해사고 골든타임 사수 총력[보안뉴스 조재호 기자] 사이버 침해사고 예방부터 사후 대응까지 전 주기를 강화하는 ‘정보통신망법’ 개정안이 국무회의의 문턱을 넘었다. 기업의 보안 책임을 대폭 강화하고 반복되는 해킹 사고에 강력한 제재를 가해 국민의",
-      "language": "ko",
-      "summary": "CISO 권한 대폭 강화하고 사고 반복 시 과징금 부과 규정 신설 정부의 선제적 현장 조사 근거 명문화해 사이버 침해사고 골든타임 사수 총력[보안뉴스 조재호 기자] 사이버 침해사고 예방부터 사후 대응까지 전 주기를 강화하는 ‘정보통신망법’ 개정안이 국무회의의 문턱을 넘었다. 기업의 보안 책임을 대폭 강화하고 반복되는 해킹 사고에 강력한 제재를 가해 국민의",
-      "points": [
-        "기업의 보안 책임을 대폭 강화하고 반복되는 해킹 사고에 강력한 제재를 가해 국민의",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "과기정통부, 디지털 취약계층 노린 사이버 침해사고 ‘원천 봉쇄’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142786&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 16:33:00 +0900",
-      "description": "보이스피싱 예방 지원 및 해킹 피해 접수 등 촘촘한 안전망 구축 명문화배경훈 장관 “차별과 배제 없는 디지털 기술 혜택 누릴 수 있도록 할 것”[보안뉴스 조재호 기자] 고령층과 장애인 등 디지털 취약계층을 보이스피싱이나 해킹 위협으로부터 실질적으로 보호하기 위한 제도적 장치가 마련됐다. 피해 예방 교육을 지원하고 침해사고 전담 기관을 지정해 디지털 포용사회",
-      "language": "ko",
-      "summary": "국가의 보안 지원 협염과 해킹 위임으로 인해, IT/기술 취약계층이 받은 중요한 모니터링 사고에 대한 지원과 교육을 제안.",
-      "points": [
-        "국가보안력 확산으로 인해 IT/기술 취약계층이 중요한 문제점에 대한 모니터링 사고.",
-        "국가에서 피해 예방 교육을 지원하고, IT/기술 공학과 청구 및 정부운전기준을 지정합니다.",
-        "이를 위한 기업과 연금속인에게 제품 안내하여 IT/기술 충막으로 이어서 시스턴스화를 강조합니다."
-      ],
-      "insight": "국가의 보안 지원 협염이 IT/기술 취약계층과 발생하는 중요한 사고를 제어하여, 이를 해킹하여 인증성비로운 디지털 기술의 안전화동자를 위한 방식을 세부적으로 강조합니다."
-    },
-    {
-      "title": "‘서비스 오픈 전 보안 사각지대 없앤다’ 금융보안원, IT 인프라 가용성 테스트 개시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142783&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 16:31:00 +0900",
-      "description": "클라우드 및 자체 구축 인프라 대상 맞춤형 대용량 트래픽 부하 발생시켜 성능 정밀 검증지난해 시범 운영으로 실효성 입증 마쳐, 매년 3월부터 11월까지 상시 지원 서비스 제공[보안뉴스 조재호 기자] 금융보안원은 보안정책 검증과 신규 서비스 오픈 전 성능 확인 등을 돕는 ‘금융IT 인프라 가용성 테스트’를 본격 개시한다고 24일 밝혔다. 이번 테스트는 금융회",
-      "language": "ko",
-      "summary": "클라우드 및 자체 구축 인프라 대상 맞춤형 대용량 트래픽 부하 발생시켜 성능 정밀 검증지난해 시범 운영으로 실효성 입증 마쳐, 매년 3월부터 11월까지 상시 지원 서비스 제공[보안뉴스 조재호 기자] 금융보안원은 보안정책 검증과 신규 서비스 오픈 전 성능 확인 등을 돕는 ‘금융IT 인프라 가용성 테스트’를 본격 개시한다고 24일 밝혔다. 이번 테스트는 금융회",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이상우 아이엔아이 대표, 2026년 1분기 ‘자랑스러운 중소기업인’ 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=142778&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 15:35:00 +0900",
-      "description": "지능형 보안설비·AI 감시 시스템 개발 기업 아이엔아이 이상우 대표 선정기술개발·생산환경 개선·사회공헌 활동 등 공로 인정[보안뉴스 강초희 기자] 중소기업중앙회(회장 김기문)와 중소벤처기업부(장관 한성숙)는 2026년 1분기 ‘자랑스러운 중소기업인’으로 이상우 아이엔아이 대표를 선정했다고 밝혔다.아이엔아이는 보안 시스템 전문기업으로 지능형 보안설비와 CCT",
-      "language": "ko",
-      "summary": "이상우 아이엔아이 대표가 2026년 1분기에서 '자랑스러운 중소기업인'를 선정한다는 것을 기재한다.",
-      "points": [
-        "이상우 아이엔아이는 지능형 보안설비, AI 감시 시스템 개발 기업이다.",
-        "중소벤처기업부(장관 한성숙)와 중소기업중앙회(회장 김기문)는 이인원의 선정을 강조했다.",
-        "매칭이 되는 내용은 IT/공학적 업계에서 중소기업의 중요성과 역사를 가진 '자랑스러운 인원'로 확인할 수 0pt는 없다."
-      ],
-      "insight": "이상우 아이엔아이 대표의 선정은 IT/공직업에서 중소기업의 중요성과 역사를 가진 인원들의 자랑적인 인식을 나타내는 것이다."
-    },
-    {
-      "title": "모빌린트, 스피어AX와 AI 기반 안전·보안 및 스마트 인프라 사업 협력 MOU",
-      "link": "http://www.boannews.com/media/view.asp?idx=142779&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 15:34:00 +0900",
-      "description": "엣지 AI 기반 영상분석 솔루션 공동 개발산업 안전 모니터링 및 스마트 인프라 시장 공략[보안뉴스 강초희 기자] AI 반도체 전문기업 모빌린트(대표 신동주)가 AI 영상분석 솔루션 기업 스피어AX(대표이사 박윤하)와 AI 기반 안전·보안 및 스마트 인프라 사업 협력을 위한 전략적 업무협약(MOU)을 체결했다고 밝혔다.양사는 이번 협약을 통해 각 사가 보유한",
-      "language": "ko",
-      "summary": "엣지 AI 기반 영상분석 솔루션 공동 개발산업 안전 모니터링 및 스마트 인프라 시장 공략[보안뉴스 강초희 기자] AI 반도체 전문기업 모빌린트(대표 신동주)가 AI 영상분석 솔루션 기업 스피어AX(대표이사 박윤하)와 AI 기반 안전·보안 및 스마트 인프라 사업 협력을 위한 전략적 업무협약(MOU)을 체결했다고 밝혔다. 양사는 이번 협약을 통해 각 사가 보유한",
-      "points": [
-        "양사는 이번 협약을 통해 각 사가 보유한",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
