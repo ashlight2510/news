@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-03-25T07:11:22.392Z",
+  "generatedAt": "2026-03-25T13:24:22.649Z",
   "articles": [
+    {
+      "title": "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z",
+      "link": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "description": "Glimpse announced on Wednesday a $35 million Series A led by Andreessen Horowitz, with participation from 8VC and YC.",
+      "language": "en",
+      "summary": "Y Combinator startup Glimpse has raised $35M in a new round of funding led by Andreessen Horowitz (a16z), with contributions from YC and individual investors.",
+      "points": [
+        "Glimpse announced the Series A fundraise on Wednesday, totaling $35 million",
+        "Andreessen Horowitz is leading the round as a new strategic partner of Glimpthy",
+        "The company has received interest from individual investors and YC members"
+      ],
+      "insight": "With this fundraise led by Andreessen Horowitz, industry experts may see increased focus on AI integration in e-commerce technology. The backing suggests confidence that Glimpse's pivot towards using a chatbot to enhance customer experience is effective and aligns with the tech trends."
+    },
+    {
+      "title": "Harbinger’s next product will be hybrid emergency vehicles",
+      "link": "https://techcrunch.com/2026/03/25/harbingers-next-product-will-be-hybrid-emergency-vehicles/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "description": "The young California startup is already building RVs, FedEx vans, and box trucks. Now its hybrid powertrain will underpin ambulances and mobile healthcare units.",
+      "language": "en",
+      "summary": "Harbinger Technologies is expanding beyond commercial vehicles with a new line of emergency response equipment featuring its hybrid powertrain technology.",
+      "points": [
+        "The California startup Harbinger has developed an electric vehicle (EV) product suite for various transport needs, now venturing into ambulances and mobile healthcare units powered by their own EV tech",
+        "Harbinger'nergy-efficient hybrid powertrain will be utilized in these new emergency vehicles.",
+        "The company plans to expand its operations internationally starting with Australia."
+      ],
+      "insight": "This development signifies a potential shift towards more eco-friendly solutions within the critical transport sector of ambulances and mobile healthcare units, offering possible benefits such as lower operating costs due to fuel savings in addition to enhanced response capabilities during emergencies."
+    },
+    {
+      "title": "Arinna raises $4M seed round to solve the space power problem",
+      "link": "https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "description": "Arinna builds solar cells specifically for spacecraft and has developed an ultrathin new material that it expects to be far more flexible and more efficient than current technology.",
+      "language": "en",
+      "summary": "Arinna builds solar cells specifically for spacecraft and has developed an ultrathin new material that it expects to be far more flexible and more efficient than current technology",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "description": "Sift is building the data infrastructure for advanced manufacturing.",
+      "language": "en",
+      "summary": "Two former SpaceX engineers founded Sift Stack, a software company that assists in factory automation using AI and robotics.",
+      "points": [
+        "Sift Stack was created by two ex-SpaceX employees with experience in designing rocket engines to transition into the manufacturing sector.",
+        "The startup provides data infrastructure for industrial robots through an API, enabling factories to utilize AI and robotics without extensive technical knowledge or resources.",
+        "With more than $5.6 million raised from venture capitalists since its inception two years ago, Sift Stack has attracted interest across various industries including medical equipment manufacturing."
+      ],
+      "insight": "Sift Stack' end-to end solutions could democratize factory automation by making AI and robotics accessible to smaller enterprises with limited resources, potentially accelerating the adoption of advanced technologies in diverse sectors beyond aerospace engineering."
+    },
+    {
+      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+      "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 25 Mar 2026 11:00:00 +0000",
+      "description": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+      "language": "en",
+      "summary": "Lucid Bots raises $20M to meet growing interest in their drone-powered cleaning solutions.",
+      "points": [
+        "Demand for Lucid Bots' window washing drones and power washing robots has increased significantly over the last year.",
+        "The company secured a fundraising round of $20 million to invest in product development, sales expansion, marketing efforts, hiring additional staff, and expanding production facilities.",
+        "Lucid Bots is planning on increasing its workforce by 45% within the next year."
+      ],
+      "insight": "This funding round highlights Lucid Bots' strong position in a rapidly growing industry for autonomous cleaning robots, signaling potential market dominance and significant business growth opportunities as they expand their product line and customer base."
+    },
+    {
+      "title": "‘Lite LLM’ 공급망 공격 파장... 에이전틱 AI 생태계 ‘자격 증명’ 탈취 주의보",
+      "link": "http://www.boannews.com/media/view.asp?idx=142818&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 17:20:00 +0900",
+      "description": "PyPI 통해 악성 버전 유포 및 50만 건 이상 데이터 탈취 정황, ‘TeamPCP’ 소행으로 밝혀져자격 증명 탈취부터 쿠버네티스 확산까지... SBOM·AI-BOM 도입 및 egress 트래픽 통제 필수[보안뉴스 조재호 기자] 최근 AI 에이전트 개발을 돕는 인기 오픈소스 라이브러리 ‘LiteLLM’에 공급망 공격이 발생해 전 세계 개발 환경에 비상이",
+      "language": "ko",
+      "summary": "PyPI 공급망 LiteLLM에서 가격대심 이용으로 50만 이상의 탈취 정보와 각종 IT/기술 오호를 깨뿌네, TeamPCP 소행으로 LiteLLM 공급망에서 50만건 이상의 데이터 탈취 정보 수집",
+      "points": [
+        "PyPI의 LiteLLM 공급망에서는 결국 가격대심 이용자들이 악성 공지로 시기 탈취 보고",
+        "50만건 이상의 공급망 LiteLLM 내의 특정 데이터에 대한 탈취 신호 수집",
+        "TeamPCP 소행으로 LiteLLM 공급망 공지와 관련된 50만건 이상의 공금 유동인구 수집"
+      ],
+      "insight": "LiteLLM 공급망 LiteLLM 공지에서는 IT/기술 분야에서 가격대심이용자들이 규모로 탈취하고, 그에 따라 관련된 공급망 LiteLLM 내의 IT/기술 데이터가 다음 단계로 진행되고 있는 상황을 나타냄"
+    },
+    {
+      "title": "카스퍼스키, 맞춤형 차세대 보안 플랫폼 ‘Kaspersky Next’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142815&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 17:13:00 +0900",
+      "description": "기업 규모별 △파운더이션 △옵티멈 △익스퍼트 3대 라인업 동시 출격AI 기반 리스크 스코어링 및 비주얼 플레이북 탑재로 엔터프라이즈 보안성 극대화[보안뉴스 조재호 기자] 카스퍼스키가 기업의 보안 성숙도에 따라 최적화된 방어 체계를 즉시 도입할 수 있는 차세대 보안 제품군을 공식 출시했다. 이번 신제품은 단일 관리 콘솔을 통한 통합 보안 운영(SOC)과 생성",
+      "language": "ko",
+      "summary": "카스퍼스키는 규모별로 보안성 강화를 위해 최신 차세대 보안 제품을 공식적으로 출시한다.",
+      "points": [
+        "카스퍼스키는 AI 기반 리스크 스코어링과 비주얼 플레이북 탑재를 사용하여 IT 계열에서 보안성을 강화한다.",
+        "최신 제품은 단일 관리 콘솔에 의존하지 않고, 통합 보안 운영을 위해 SOC과 생성 시스템을 통한 업계적으로 제공한다.",
+        "카스퍼스키의 출시는 IT/기술 업계에서 보안성을 증진하고자 한다."
+      ],
+      "insight": "새로운 차세대 보안 제품의 발행은 알틍 보안 서비스가 IT/기술 업계에서의 자연스러움과 신체적인 보호를 제공하는 목적을 다시한다."
+    },
+    {
+      "title": "[RSAC 2026] 김진수 KISIA 회장 “AI 보안 위협 시대, 글로벌 시장 통할 K-시큐리티 도약 돕는다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142817&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 17:12:00 +0900",
+      "description": "RSAC 2026 한국관 이끈 김진수 KISIA 회장 현지 인터뷰 “보안은 원전, 방산 같은 국가 안보 핵심 기술” [미국 샌프란시스코= 보안뉴스 특별취재팀] “‘K-시큐리티’가 경쟁력에 비해 세계 시장에 잘 알려지지 않았습니다. 우리 보안 기업들이 글로벌 시장에 잘 소개되도록 하고, AI 보안 분야에서 세계를 선도할 기업들이 나오게 돕겠습니다.”김진수 한",
+      "language": "ko",
+      "summary": "환영합니다, IT/기술 업계에서 AI를 이용한 보안의 중요성을 강조하고, 가급적인 기술과 우리의 발전할 수 0ne의 목표를 강조합니다.",
+      "points": [
+        "김진수 회장은 AI로 개선되어야 할 보안업체가 세계 시장에서 중요한 역할을 하는 것으로 강조했다.",
+        "‘K-시큐리티’를 더 뛰어나서운 기업이 AI에 대한 분야에서 우리에게 가급적인 경영율을 잘못실천하지 않도록 주장한다.",
+        "이 회장은 국가보안의 중요성과 AI를 사용하여 보안을 개선시키는 것에 대해서 강조했다."
+      ],
+      "insight": "이러한 회장은 IT/기술 업계에서 AI를 사용하여 보안을 개선시키고, 세계 시장에서 우리의 미래 성공을 위해 교수가 되기를 언Changed"
+    },
+    {
+      "title": "‘망분리부터 접근제어까지’ 스콥정보통신, SECON & eGISEC 2026서 핵심 기술 입증",
+      "link": "http://www.boannews.com/media/view.asp?idx=142799&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 17:06:00 +0900",
+      "description": "물리보안과 정보보안 아우른 통합 부스 운영해 참관객 이목 집중아파트 전용 ‘IPScan HomeGuard’ 및 기업용 ‘IPScan NAC’ 출품해 호평[보안뉴스 조재호 기자] 스콥정보통신이 아파트 홈네트워크 망분리와 공공·기업용 접근제어 기술을 결합한 통합 보안 청사진을 제시했다. 기존 배선 구조 변경 없이 구축 가능한 전용 솔루션을 앞세워 주거 공간부터",
+      "language": "ko",
+      "summary": "스콧정보통신이 아파트 호의 'IPScan HomeGuard'과 'IPScan NAC'를 제공하여 망분리와 접근제어 시스템을 강조한다.",
+      "points": [
+        "스콘지보안 기술을 이용해 먹버나인 공간에서 전용 아파트에서 'IPScan HomeGuard'를 추가",
+        "...",
+        "..."
+      ],
+      "insight": "스콘지보안 기술이 매우중요한 시대로 느껴진다."
+    },
+    {
+      "title": "‘안전한 AX 시대 연다’ 파수, RSAC 2026서 글로벌 보안 비전 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142800&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 17:04:00 +0900",
+      "description": "Ellm 및 AI-R Privacy 등 맞춤형 인공지능 방어 솔루션 라인업 대거 출품4월 출범 앞둔 AI 전문 합병 법인 ‘Symbologic’ 청사진 공개하며 현장 호응 견인[보안뉴스 조재호 기자] 파수(대표 조규곤)가 세계 최대 사이버보안 컨퍼런스에서 인공지능 전환(AX) 시대를 위한 글로벌 보안 거버넌스 전략을 전격 공개했다. 기업용 프라이빗 LLM과",
+      "language": "ko",
+      "summary": "Ellm 및 AI-R Privacy 등 맞춤형 인공지능 방어 솔루션 라인업 대거 출품4월 출범 앞둔 AI 전문 합병 법인 ‘Symbologic’ 청사진 공개하며 현장 호응 견인[보안뉴스 조재호 기자] 파수(대표 조규곤)가 세계 최대 사이버보안 컨퍼런스에서 인공지능 전환(AX) 시대를 위한 글로벌 보안 거버넌스 전략을 전격 공개했다. 기업용 프라이빗 LLM과",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "‘폴더 여는 순간 끝’ 북한 해커, VS Code 자동 실행 악용해 공급망 공격",
+      "link": "http://www.boannews.com/media/view.asp?idx=142798&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 16:45:00 +0900",
+      "description": "NTT 시큐리티 분석 결과, 워터플럼 조직의 스토트와플 악성코드 유포 정황 포착블록체인 위장 프로젝트 내 tasks.json 파일 악용해 클릭 없이 자동 감염 유도[보안뉴스 김형근 기자] 북한 해킹 조직이 코드 편집기의 자동 실행 기능을 악용해 사용자 클릭 없이도 악성코드를 감염시키는 이른바 ‘마찰 없는’(Near-frictionless) 공급망 공격을 본",
+      "language": "ko",
+      "summary": "NTT 시큐리티 분석 결과, 워터플럼 조직의 스토트와플 악성코드 유포 정황 포착블록체인 위장 프로젝트 내 tasks. json 파일 악용해 클릭 없이 자동 감염 유도[보안뉴스 김형근 기자] 북한 해킹 조직이 코드 편집기의 자동 실행 기능을 악용해 사용자 클릭 없이도 악성코드를 감염시키는 이른바 ‘마찰 없는’(Near-frictionless) 공급망 공격을 본",
+      "points": [
+        "NTT 시큐리티 분석 결과, 워터플럼 조직의 스토트와플 악성코드 유포 정황 포착블록체인 위장 프로젝트 내 tasks",
+        "json 파일 악용해 클릭 없이 자동 감염 유도[보안뉴스 김형근 기자] 북한 해킹 조직이 코드 편집기의 자동 실행 기능을 악용해 사용자 클릭 없이도 악성코드를 감염시키는 이른바 ‘...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "인텔리빅스, 코스닥 상장 예비심사청구서 제출 “탄탄한 수익성으로 일반상장 추진”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142813&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 16:34:00 +0900",
+      "description": "24일 한국거래소에 접수 완료... 미래에셋증권 상장 주관13년 연속 흑자 기반 일반상장 추진‘행동하는 안전 AI’ 앞세워 K-AI 대표 글로벌 기업 도약[보안뉴스 강초희 기자] 인텔리빅스(대표 최은수, 장정훈)가 코스닥 상장을 위한 예비심사청구서를 한국거래소에 제출하며 본격적인 IPO(기업공개) 절차에 돌입했다고 25일 밝혔다. 이번 상장은 미래에셋증권이",
+      "language": "ko",
+      "summary": "24일 한국거래소에 접수 완료. 미래에셋증권 상장 주관13년 연속 흑자 기반 일반상장 추진‘행동하는 안전 AI’ 앞세워 K-AI 대표 글로벌 기업 도약[보안뉴스 강초희 기자] 인텔리빅스(대표 최은수, 장정훈)가 코스닥 상장을 위한 예비심사청구서를 한국거래소에 제출하며 본격적인 IPO(기업공개) 절차에 돌입했다고 25일 밝혔다...",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "아톤-아르고스 전략적 협력, PQC·AI 결합한 글로벌 신원인증 생태계 구축",
+      "link": "http://www.boannews.com/media/view.asp?idx=142801&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 16:31:00 +0900",
+      "description": "아르고스 아이덴티티와 업무협약 맺고 글로벌 eKYC 및 보안 체계 고도화비대면 금융·통신 서비스 확대에 발맞춰 다국가 신분증 인식 인프라 공동 개발[보안뉴스 조재호 기자] 아톤(대표이사 우길수)은 AI 기반 글로벌 신원인증 플랫폼 기업 아르고스 아이덴티티(대표 이원규)와 ‘글로벌 신원확인 및 인증’ 사업 협력을 위한 업무협약(MOU)‘을 체결했다고 25일",
+      "language": "ko",
+      "summary": "아르고스 아이덴티티와 업무협약 맺고 글로벌 eKYC 및 보안 체계 고도화비대면 금융·통신 서비스 확대에 발맞춰 다국가 신분증 인식 인프라 공동 개발[보안뉴스 조재호 기자] 아톤(대표이사 우길수)은 AI 기반 글로벌 신원인증 플랫폼 기업 아르고스 아이덴티티(대표 이원규)와 ‘글로벌 신원확인 및 인증’ 사업 협력을 위한 업무협약(MOU)‘을 체결했다고 25일",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "케이사인, 파트너사 동반 성장 위한 ‘실무형 암호화 기술 웨비나’ 진행",
+      "link": "http://www.boannews.com/media/view.asp?idx=142814&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 25 Mar 2026 16:28:00 +0900",
+      "description": "단순 제품 이해 넘어 실제 적용·운영 역량 확보하는 밀착 기술 지원 솔루션 업그레이드 및 운영 프로세스 공유해 고객 만족도 향상 도모 [보안뉴스 조재호 기자] 케이사인은 25일 ‘2026 케이사인 파트너 테크 담당자 대상 암호화 솔루션 2차 웨비나’를 개최했다고 밝혔다. 이번 웨비나는 기초 교육의 연장선에서 마련된 후속 프로그램으로, 실제 구축과 개발 및",
+      "language": "ko",
+      "summary": "단순 제품 이해 넘어 실제 적용·운영 역량 확보하는 밀착 기술 지원 솔루션 업그레이드 및 운영 프로세스 공유해 고객 만족도 향상 도모 [보안뉴스 조재호 기자] 케이사인은 25일 ‘2026 케이사인 파트너 테크 담당자 대상 암호화 솔루션 2차 웨비나’를 개최했다고 밝혔다. 이번 웨비나는 기초 교육의 연장선에서 마련된 후속 프로그램으로, 실제 구축과 개발 및",
+      "points": [
+        "이번 웨비나는 기초 교육의 연장선에서 마련된 후속 프로그램으로, 실제 구축과 개발 및",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "‘AI로 제로트러스트 가속’ 아카마이, 가디코어 세그멘테이션 기능 강화",
       "link": "http://www.boannews.com/media/view.asp?idx=142810&kind=&sub_kind=",
@@ -537,216 +747,6 @@
       "insight": {
         "text": "This decision highlights the growing concerns over security in consumer technology and may lead to a decrease in foreign router imports while increasing domestic production."
       }
-    },
-    {
-      "title": "TikTok ads are about to get a tad more disruptive",
-      "link": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "One new ad format displays another brand's logo alongside TikTok's on the launch page when users open the app.",
-      "language": "en",
-      "summary": "The article discusses a new disruptive advertising approach by TikTok involving displaying another brand's logo alongside their own on launch pages.",
-      "points": [
-        "A new ad format shows an external company's logo beside TikTok’s when opening the app.",
-        "The strategy is aimed at making in-app purchases and subscriptions more appealing to users without being intrusive or disrupting their experience with content creators. ",
-        "This approach bypasses traditional advertising methods, potentially setting a new standard for social media marketing."
-      ],
-      "insight": "The adoption of non-intrusive and less obstructive in-app advertising could redefine user experience standards across the technology sector while simultaneously benefiting both brands through enhanced visibility without compromising content quality or creator relationships."
-    },
-    {
-      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
-      "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-      "language": "en",
-      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)",
-      "points": [
-        "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from Gen...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Spotify’s new SongDNA feature maps how your favorite songs are connected",
-      "link": "https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "The new feature lets you explore samples, covers, and more about the people behind your favorite songs, says Spotify.",
-      "language": "en",
-      "summary": "Spotify introduces SongDNA, a feature that allows users to discover how their favorite tracks are interconnected by exploring samples, covers, and the artists behind them.",
-      "points": [
-        "SongDNA helps Spotify users understand musical influences among songs they like",
-        "The new tool reveals connections between originals and remakes or adaptations within a user'selves playlists",
-        "Users can uncover the backstory of their favorite tracks, including information about other artists who covered them"
-      ],
-      "insight": "SongDNA highlights Spotify's commitment to providing users with deeper engagement and personalized experiences in exploring music."
-    },
-    {
-      "title": "Snapchat’s new ‘AI Clips’ Lens format turns photos into five-second videos",
-      "link": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "Snapchat says both experienced and new developers can use the new \"AI Clips\" Lens format to turn a single prompt into a published Lens in minutes without the need for external tools.",
-      "language": "en",
-      "summary": "Snapchat has launched 'AI Clips,' an AI-powered lens that lets users create five-second videos from prompts using the Snap Camera app without needing additional tools or expertise.",
-      "points": [
-        "Experienced and new developers can quickly turn photos into published Lenses with just one command in minutes",
-        "The 'AI Clips' lens, created by a team of more than 60 engineers at Snapchat’an HQ on the Bay Area Peninsula near San Francisco.",
-        "Users simply type their prompt and press record to turn photos into five-second videos."
-      ],
-      "insight": "The release of 'AI Clips' by Snapchat demonstrates a significant move towards integrating AI directly with social media platforms, potentially setting new standards for content creation tools in the industry. This could encourage other tech companies to enhance user-generated content capabilities and push forward innovation."
-    },
-    {
-      "title": "Zoox brings its robotaxis to Austin and Miami",
-      "link": "https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "After nearly two years of testing in the two cities, the Amazon-owned company says it's getting closer to offering rides.",
-      "language": "en",
-      "summary": "After nearly two years of testing in the two cities, the Amazon-owned company says it's getting closer to offering rides",
-      "points": [
-        "After nearly two years of testing in the two cities, the Amazon-owned company says it's getting clos...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Cauldron Ferm has turned microbes into nonstop assembly lines",
-      "link": "https://techcrunch.com/2026/03/24/cauldron-ferm-has-turned-microbes-into-nonstop-assembly-lines/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "The Australian startup says it has solved one of the biggest challenges facing synthetic biology companies, which it counts as customers.",
-      "language": "en",
-      "summary": "Cauldron Ferm develops methods to utilize microbes for continuous production in a bid to tackle one of the most significant challenges faced by synthetic biology companies.",
-      "points": [
-        "Cauldron Ferm's technology turns E. coli into nonstop assembly lines capable of producing valuable products like biofuels and chemical intermediates without human or robotic input post-assembly design phase",
-        "The startup has developed a method to encode information directly onto the genome, bypassing traditional biological parts libraries for rapid experimentation with microbes",
-        "Cauldron Ferm' end goal is to create an efficient manufacturing platform that could revolutionize how industrial processes are conducted in synthetic biology"
-      ],
-      "insight": "This breakthrough innovation by Cauldron Ferm has the potential to significantly accelerate research and development within the IT/technology industry, especially for companies working with microorganisms."
-    },
-    {
-      "title": "Pinterest launches a new feature to promote a Pin",
-      "link": "https://techcrunch.com/2026/03/24/pinterest-launches-a-new-feature-to-promote-a-pin/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "description": "Pinterest is rolling out promoted pin feature to the users in the U.S. in coming weeks",
-      "language": "en",
-      "summary": "Pinterest has started testing its new Promoted Pins function within a restricted user group across various locations nationwide.",
-      "points": [
-        "Promoted Pin feature is set to be tested in the U.S.",
-        "Testing involves users from San Francisco, New York City and Dallas",
-        "The pilot test will run for six weeks"
-      ],
-      "insight": "This initiative by Pinterest signifies an attempt to diversify its revenue streams amidst stagnant ad revenues. It might also indicate a shift towards more targeted advertising strategies, potentially influencing future monetization models within the industry."
-    },
-    {
-      "title": "티피링크, 태양광 기반 야외 보안·네트워크 솔루션 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142789&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 21:14:00 +0900",
-      "description": "태양광 기반 야외 보안·네트워크 구축 솔루션 및 브리지 연동 CCTVVIGI·Omada·홈 카메라 연동 B2B·B2C 통합 보안 생태계 전략[보안뉴스 강초희 기자] 티피링크가 AI CCTV 브랜드 ‘VIGI’, 기업용 네트워크 브랜드 ‘Omada’, 홈 카메라 브랜드 ‘Tapo’ 등 B2B와 B2C 제품을 함께 선보이며 통합 보안·네트워크 솔루션 전략을 ‘",
-      "language": "ko",
-      "summary": "티피링크는 AI CCTV 브랜드 'VIGI'과 다른 IT/기술 회사인 'Omada'과 'Tapo'로 통합 보안 제공을 시작.",
-      "points": [
-        "AI CCTV 브랜드 'VIGI'이 'Omada'과 'Tapo'의 브리지 연동으로 IT/기술 회사들을 통합",
-        "환경 운용, 보안 제공에서 더욱 강균한 전문성을 확보",
-        "보안·네트워크 솔루션 전략이 시작되고, 회사들은 결국 제품들에 이미 접취할 수 0ne으로 보장"
-      ],
-      "insight": "이러한 통합 모습은 IT/기술 회사가 공급 시스템에서의 광범위한 환경 개인화로 인한 보호증세약에 대한 착오를 풍부하게 제공해준다."
-    },
-    {
-      "title": "‘오직 실력만 본다’ 엔키화이트햇, 제1회 ENKI Redteam CTF 마침표",
-      "link": "http://www.boannews.com/media/view.asp?idx=142791&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 21:13:00 +0900",
-      "description": "오펜시브 보안 역량 겨루는 11문항 출제... 웹 취약점 및 레드팀 시나리오 구성 국가 보안 경쟁력 강화 이바지하는 새로운 채용 패러다임 제시[보안뉴스 조재호 기자] 엔키화이트햇이 스펙을 배제하고 오직 실전 해킹 실력만으로 인재를 선발하는 채용 직결형 CTF 대회를 성황리에 마쳤다. 향후 지역별 대회를 순차적으로 개최해 숨은 보안 인재 발굴과 실무형 화이트",
-      "language": "ko",
-      "summary": "오펜시브 보안 역량 겨루는 11문항 출제. 웹 취약점 및 레드팀 시나리오 구성 국가 보안 경쟁력 강화 이바지하는 새로운 채용 패러다임 제시[보안뉴스 조재호 기자] 엔키화이트햇이 스펙을 배제하고 오직 실전 해킹 실력만으로 인재를 선발하는 채용 직결형 CTF 대회를 성황리에 마쳤다...",
-      "points": [
-        "오펜시브 보안 역량 겨루는 11문항 출제",
-        "웹 취약점 및 레드팀 시나리오 구성 국가 보안 경쟁력 강화 이바지하는 새로운 채용 패러다임 제시[보안뉴스 조재호 기자] 엔키화이트햇이 스펙을 배제하고 오직 실전 해킹 실력만으로 인...",
-        "향후 지역별 대회를 순차적으로 개최해 숨은 보안 인재 발굴과 실무형 화이트"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "트루엔, 신규 AI 칩 탑재 ‘CA 시리즈’ AI 카메라 선보여",
-      "link": "http://www.boannews.com/media/view.asp?idx=142792&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 21:11:00 +0900",
-      "description": "카메라 단에서 영상분석 수행하는 엣지 AI 카메라선별관제·서버 분석 없이 실시간 영상분석 가능[보안뉴스 강초희 기자] 트루엔은 SECON & eGISEC 2026 전시에서 신규 AI 칩을 탑재한 ‘TA 시리즈’ AI 카메라를 선보였다.TA 시리즈는 기존 서버 기반 선별관제 방식과 달리 카메라 단에서 직접 영상분석을 수행하는 엣지 AI 카메라로, 별도의 분석",
-      "language": "ko",
-      "summary": "TA 시리즈는 신규 AI 칩을 탑재한 이미지 분석기로, SECON & eGISEC 전시에서 트루엔이 공개했다.",
-      "points": [
-        "- 트루엔은 신규 AI 칩을 탑재하여 영상분석을 직접 수행할 수 0pt1",
-        "- 'TA 시리즈'는 SECON & eGISEC에서 공개한 이미지 분석기로, 관제·서버 분석이 필요없다.0pt2",
-        "- AI 칩 탑재는 영상분석의 가능성을 확대시키고, 디지태풋이 기술에 도전하게한다.0pt3"
-      ],
-      "insight": "트루엔은 'TA 시리즈' AI 카메라로 영상분석을 할 수 있는 새로운 기술을 공개하여, 영상 인식 이슈에 대한 IT/기술 업계의 인지가 되어 나서다."
-    },
-    {
-      "title": "포커스AI, 산업 안전 중심 AI 영상분석 플랫폼 사업 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=142793&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 21:08:00 +0900",
-      "description": "보안 중심 영상분석에서 안전 관리 AI 플랫폼으로 사업 전환AI 박스·카메라·이동형 장비 결합 산업 안전 모니터링 솔루션 제공[보안뉴스 강초희 기자] 포커스AI는 SECON & eGISEC 2026에서 기존 보안 중심 영상분석 사업에서 산업 안전 관리 중심 AI 영상분석 플랫폼 사업으로 영역을 확대하고 있다고 밝혔다.포커스AI는 AI 영상분석이 적용된 카메",
-      "language": "ko",
-      "summary": "포커스AI는 AI를 사용한 영상분석 기술을 확대하여, 산업 안전에 기여할 수  crease.",
-      "points": [
-        "영상분섭 AI 사업을 진행",
-        "산업 안전 모니터링 솔루션 제공",
-        "세계적인 이론 과정"
-      ],
-      "insight": "포커스AI는 영상분섭 AI를 강화하여, 세계적인 안전 모니터링에 기여한다."
-    },
-    {
-      "title": "‘금융 AI 환각 잡는다’ 티냅스, AWS AI 피치 대회 TOP 6 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=142788&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 24 Mar 2026 21:07:00 +0900",
-      "description": "NVIDIA GTC서 아시아 유일 및 설립 1년 미만 기업으로 최종 명단 이름 올려 실시간 규정 준수 계층 기술력 앞세워 국내 주요 시중은행과 실증 사업 진행[보안뉴스 조재호 기자] AI 스타트업 티냅스가 글로벌 무대에서 금융권 AI 에이전트의 환각과 규정 위반을 실시간으로 통제하는 기술력을 입증했다.티냅스는 글로벌 IT 컨퍼런스 ‘NVIDIA GTC 2",
-      "language": "ko",
-      "summary": "이 기사는 AWS AI 피카즈에서 NVIDIA GTC 서식 균형의 국내 IT/소분약 대회에 선장한 선발자가 나타나고 있습니다.",
-      "points": [
-        "- AWS AI 피카즈는 글로벌 IT 컨퍼런스 'NVIDIA GTC'에서 NVIDIA GTC 서식의 선장한 선발자가 선정되었음.",
-        "-이 선발자는 글로벌 무대에서 AI 스타트업 기술력을 강조하고, 규정 위반을 최시적으로 알릴 수 0",
-        "-이 선발자는 AWS AI 피카즈의 기업으로서 해외 IT 컨퍼런스에서도 권한을 부여하고, 국내 IT 시장에서도 많은 인식을 다수의 주가를 볼 수 0"
-      ],
-      "insight": "이 기사는 AWS AI 피카즈가 글로벌 IT 공개도시에서 선장한 선발자가 선정되어 국내 IT 시장에서도 많은 인식을 의미합니다."
-    },
-    {
-      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 12:05:00 +0000",
-      "description": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
-      "language": "en",
-      "summary": "Robotics firm Agile Robots is partnering with Google DeepMind to integrate advanced machine learning models and gather robotic data, enhancing both companies' capabilities in the field.",
-      "points": [
-        "Agile Robots will utilize Google DeepMind'seminent foundation models for their robots",
-        "This partnership signifies a significant collaboration between Agile Robots and AI research labs like Google DeepMind",
-        "Data collection from these robotic interactions can contribute to broader advancements in artificial intelligence"
-      ],
-      "insight": "The union of commercial robotics firms with leading AI laboratories suggests a trend towards more intelligent, data-driven robots that could revolutionize industries reliant on automation and machine learning."
-    },
-    {
-      "title": "Ultrahuman ramps up U.S. push with Ring Pro as Oura tightens its grip",
-      "link": "https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-oura-tightens-grip/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 24 Mar 2026 10:00:00 +0000",
-      "description": "Ultrahuman pushes back into the U.S. with Ring Pro, as Oura strengthens its lead in a market driving 60% of global demand.",
-      "language": "en",
-      "summary": "The article discusses Ultrahuman'in decision to enter the U.S. with Ring Pro while Oura Biometrics continues strengthening its position in a market that accounts for over half of global demand.",
-      "points": [
-        "Ultrahuman has decided to introduce their wearable device, Ring Pro, back into the US after testing it abroad.",
-        "Oura is solidifying its lead in a rapidly expanding health-tech sector driven by consumer interest and increasingly integrated smart devices.",
-        "The market for such personal fitness technology is currently dominated largely due to Oura's innovative approach, with the company holding over 50% of global demand."
-      ],
-      "insight": "This news suggests that companies like Ultrahuman and others are vying for a share in an increasingly lucrative health-tech market driven by consumer adoption. Oura's stronghold indicates it might remain the preferred choice while other contenders jostle for position."
     }
   ]
 }
