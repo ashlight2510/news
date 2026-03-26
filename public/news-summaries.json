@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-03-26T13:49:32.051Z",
+  "generatedAt": "2026-03-26T19:12:05.258Z",
   "articles": [
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 18:34:02 +0000",
+      "description": "It's only the latest of several side project that the AI startup has ditched over the past week.",
+      "language": "en",
+      "summary": "OpenAI is abandoning its erotic mode for ChatGPT after a series of experimental features were discontinued in recent weeks.",
+      "points": [
+        "The AI startup OpenAI has multiple side projects under development, including an erotic version of their chatbot known as 'ChatGPT Erotic'.",
+        "After initially receiving mixed responses from users and critics alike for the concept's novelty rather than substance or utility.",
+        "OpenAI is ceasing all work on ChatGPT Erotic, along with other experimental features like a robot that imitates human voices."
+      ],
+      "insight": "The discontinuation of unconventional AI projects such as the erotic chatbot indicates OpenAI's focus might be shifting towards more universally accepted and beneficial applications for its technology, rather than novelty features or gimmicks that may not necessarily provide value."
+    },
+    {
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 18:23:31 +0000",
+      "description": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "language": "en",
+      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
+      "link": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 18:05:51 +0000",
+      "description": "In one year, Shield AI's value has leaped 140%. This after it won a contract to be the software provider to Anduril's Fury fighter jet for the U.S. Air Force.",
+      "language": "en",
+      "summary": "Shield AI, an IT defense startup specializing in autonomous weapon systems like drones and fighter jets, has seen its valuation soar by over a hundred percent within one year after securing the US Air Force contract to provide software for Anduril's Fury jet.",
+      "points": [
+        "Shield AI secured a lucrative deal with the U.S. Air Force as their exclusive provider of software development and maintenance services for an autonomous fighter jet called 'Fury.'",
+        "The contract, worth $127 million dollars per year starting in 2023 through at least FY28.",
+        "Shield AI's valuation has increased by more than a hundred percent since it was founded on November 9th of the previous year."
+      ],
+      "insight": "The recent deal between Shield AI and Anduril, along with its significant increase in value, highlights growing interest within defense organizations towards software-driven autonomous technologies which could potentially lead to a shift away from traditional hardware solutions."
+    },
+    {
+      "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
+      "link": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 17:22:01 +0000",
+      "description": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in.",
+      "language": "en",
+      "summary": "Apple has improved iOS's defenses with version 26 but remains vulnerable to spyware attacks due to leaked hacking tools.",
+      "points": [
+        "Despite advancements in iOS security, older iPhone models remain susceptible to sophisticated spyware exploits using unsecured web links and email attachments with malicious software named Spirei-X or Pegasus. These attacks can lead to unauthorized access of personal data.",
+        "The NSO Group's surveillance tools, which have been used for targeted operations by governments against activists in regions like Ethiopia and Mexico since 2019, are at the core of these spyware threats. Apple devices that rely on outdated software versions can fall victim to these attacks.",
+        "Apple's security protocol enhancements aimed primarily at countering bots but have not yet been fully effective against sophisticated hacking tools like Pegasus, which demands urgent upgrades and vigilance."
+      ],
+      "insight": "The IT/technology industry must continuously evolve to protect devices from ever-evolving cyber threats that exploit vulnerabilities in older software versions. Apple's need for more robust defenses against advanced spyware is a pressing issue, calling for immediate attention and action."
+    },
+    {
+      "title": "Google is launching Search Live globally",
+      "link": "https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 16:37:38 +0000",
+      "description": "Search Live allows users to point their phone camera at objects to get real-time assistance, enabling back-and-forth conversations that draw on the visual context from the camera feed.",
+      "language": "en",
+      "summary": "Google's Search Live is a new tool for obtaining immediate help through phone cameras and real-time interactions.",
+      "points": [
+        "Search Live enables back-and-forth conversations with Google Assistant using the camera feed as context.",
+        "The feature allows users to seek assistance by pointing their smartphone's camera at objects of interest in real time.",
+        "Google is rolling out Search Live globally, making it accessible worldwide."
+      ],
+      "insight": "Search Live represents a step towards more interactive and context-aware AI assistants that can understand visual cues alongside voice commands. It could lead to increased user engagement with the search function as well as potential new applications for Google Assistant in various industries."
+    },
+    {
+      "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve",
+      "link": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 16:06:33 +0000",
+      "description": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+      "language": "en",
+      "summary": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware",
+      "points": [
+        "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 15:25:13 +0000",
+      "description": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "language": "en",
+      "summary": "ByteDance has introduced a new AI video generation tool called Dreamina Seedance 2 end to CapCut, focusing on real face creation while implementing safeguards against misuse of intellectual property.",
+      "points": [
+        "CapCut integrates ByteDance's AI model for generating high-quality videos from faces or unauteneralized IP",
+        "The new tool comes with inbuilt protections to prevent unethical use and copyright violations",
+        "ByteDance aims at revolutionizing video creation by leveraging advanced AI technologies"
+      ],
+      "insight": "This development is indicative of an increasing trend towards automated content generation tools, which can have significant implications for the future job market and copyright enforcement in the IT/technology industry."
+    },
+    {
+      "title": "Why hiring the weirdos works",
+      "link": "https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 14:38:00 +0000",
+      "description": "When you’re building at breakneck speed, hiring a trusted team is crucial for an early-stage startup. Bland CEO and co-founder Isaiah Granet has tactical advice on how the company managed to find hidden talent in unlikely places.",
+      "language": "en",
+      "summary": "Isaiah Granet discusses why hiring nontraditional candidates can benefit startups by bringing unique skills and perspectthinks that contribute to rapid innovation.",
+      "points": [
+        "Early-stage companies like Startup ABC found hidden talent in unlikely places such as online forums, unconventional educational backgrounds, or even through personal referrals from nontraditional sources.",
+        "The CEO emphasizes the importance of focusing on skills and mindset over conventional credentials when making hiring decisions to accelerate innovation within their fast-paced business environment.",
+        "Startup ABC shares success stories where oddball employees contributed significantly with unique solutions, driving substantial revenue growth for the company."
+      ],
+      "insight": "This news highlights a shift in startup hiring practices towards more diversity and inclusivity by valuing skills over traditional qualifications. It suggests that nontraditional candidates can be instrumental to innovation-driven companies, potentially encouraging other startups to adopt similar strategies."
+    },
+    {
+      "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.",
+      "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 14:09:40 +0000",
+      "description": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked online.",
+      "language": "en",
+      "summary": "Security experts have found new iPhone exploits called 'Coruna' and 'DarkSword.' The latter tool is currently accessible to the public via an infowar site. These tools could endanger millions of iPhones.",
+      "points": [
+        "Advanced hacking tools Coruna and DarkSword have been discovered by security researchers targeting iOS devices.",
+        "DarkSword, in particular, poses a significant threat as it has leaked online with an accompanying command-and-control infrastructure for potential misuse.",
+        "Millions of iPhone users could be at risk due to vulnerabilities exploited by these hacking tools."
+      ],
+      "insight": "The release of DarkSword indicates a growing trend in cybercriminal activities that leverage publicly available information and infowar tactics, posing increased threats to smartphone users worldwide. The IT industry must prioritize robust security measures against such vulnerabilities."
+    },
+    {
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 13:41:00 +0000",
+      "description": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "language": "en",
+      "summary": "Startup Conntour has raised $7M in funding from General Catalyst and YC to develop an AI search engine for security camera feeds using natural language.",
+      "points": [
+        "Conntour secured $7 million led by General Catalyst with participation from Y Combinator's Startup Studio",
+        "The startup is building a user-friendly AI tool that allows surveillneries to query security camera feeds using natural language.",
+        "Current fundraising round includes seed capital, bringing the total raised since inception nearly $17 million."
+      ],
+      "insight": "This investment will accelerate Conntour's development of an AI-powered search engine for security systems. With significant funds and industry backing from General Catalyst YC alumni, this company is expected to become a leading solution in the area of surveillance technology."
+    },
+    {
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 13:30:00 +0000",
+      "description": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "language": "en",
+      "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages",
+      "points": [
+        "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs f...",
+        "It currently supports 14 languages",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "WhatsApp can now draft AI-generated responses based on your conversations",
       "link": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
@@ -180,6 +345,21 @@
         "Verne is working closely with Rimac Group, Uber's partner for electric vehicle technology in its self-driving division Elevate"
       ],
       "insight": "This launch represents an early move by Croatia into the burgeoning robotaxi market and could signify a rise of European startups competing with American companies like Cruise, which have also shown interest."
+    },
+    {
+      "title": "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
+      "link": "https://techcrunch.com/2026/03/26/uber-invests-verne-ponyai-robotaxi-europe/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 08:15:00 +0000",
+      "description": "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia.",
+      "language": "en",
+      "summary": "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia",
+      "points": [
+        "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croati...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     },
     {
       "title": "美 은행·통신사 마비시킨 러시아 해커의 최후... 징역 7년에 120억원 배상 판결",
@@ -566,184 +746,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[RSAC 2026] 한국정보인증, 글로벌 국가 보안 인프라 시장 공략",
-      "link": "http://www.boannews.com/media/view.asp?idx=142805&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Mar 2026 03:36:00 +0900",
-      "description": "RSAC 2026 한국관 참여 아시아·아프리카·남미 수출 성공한 ‘K-인증’ 시스템 선보여 [미국 샌프란시스코= 보안뉴스 특별취재팀] 대한민국 1호 공인인증기관 한국정보인증(KICA)이 23-26일(현지시간) 미국 샌프란시스코에서 열린 RSAC 2026에서 세계 시장을 겨냥한 글로벌 인증 솔루션을 선보인다.한국정보인증은 국내에서 7000만건 이상의 디지털",
-      "language": "ko",
-      "summary": "RSAC 2026 한국관 참여 아시아·아프리카·남미 수출 성공한 ‘K-인증’ 시스템 선보여 [미국 샌프란시스코= 보안뉴스 특별취재팀] 대한민국 1호 공인인증기관 한국정보인증(KICA)이 23-26일(현지시간) 미국 샌프란시스코에서 열린 RSAC 2026에서 세계 시장을 겨냥한 글로벌 인증 솔루션을 선보인다. 한국정보인증은 국내에서 7000만건 이상의 디지털",
-      "points": [
-        "한국정보인증은 국내에서 7000만건 이상의 디지털",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[RSAC 2026] 크로스허브, 개인정보 노출 없는 신원 인증 솔루션 ‘ID블록’으로 글로벌 시장 진출",
-      "link": "http://www.boannews.com/media/view.asp?idx=142803&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Mar 2026 03:34:00 +0900",
-      "description": "RSAC 2026 한국관 참여 블록체인 기반 자기주권신원, 영지식증명 활용 [미국 샌프란시스코= 보안뉴스 특별취재팀] 23-26일(현지시간) 미국 샌프란시스코에서 열리는 보안 컨퍼런스 RSAC 2026에서 크로스허브가 블록체인 기반 차세대 신원 인증 기술 ‘ID블록’(IDBlock)을 선보였다. ID블록은 개인이 자신의 데이터에 대한 안전한 통제권과 소유권",
-      "language": "ko",
-      "summary": "ID블록은 개인의 데이터에 대한 안전 통제권과 소유권을 제공하여, 규모적이지 않은 ID블록체인 기술을 3년이내로 미국 샌펜드 시스톯 아시아에서 선보치한다.",
-      "points": [
-        "RSAC에서 기원한 ID블록은 개인의 데이터에 대한 안전 통제권과 소유권을 제공한 신원 인증 애픽",
-        "ID블록는 3년으로 미국의 샌펜드 시스톰에서 소모하고 작동한다.",
-        "이 기술은 신원 인증에 필요한 ID보다는 ID블록의 제공이라는 것을 강조한다."
-      ],
-      "insight": "ID블록는 개인정보를 유지하고 작업에 필요한 부분만만물으로, IT 시장에서의 신원 인증 관련 기술이다."
-    },
-    {
-      "title": "Jury finds Meta and Google negligent in landmark social media addiction trial",
-      "link": "https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 17:50:36 +0000",
-      "description": "The jury says Meta and YouTube will have to pay $3 million in damages.",
-      "language": "en",
-      "summary": "In a significant ruling for the tech industry, a US jury found Meta (parent company of Facebook) and Google's YouTube guilty of negligence that led to addiction among their users. They are mandated to pay $3 million in damages.",
-      "points": [
-        "A US jury ruled Meta and YouTube responsible for user addiction leading to a mandate to pay $3 million."
-      ],
-      "insight": "The ruling may prompt the tech industry to rethink their designs, policies on content moderation, and address concerns about social media usage'destinations.'"
-    },
-    {
-      "title": "Meta is cutting several hundred jobs",
-      "link": "https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 17:49:07 +0000",
-      "description": "The cuts will impact employees in the U.S. and other international markets.",
-      "language": "en",
-      "summary": "Meta Platforms Inc., formerly known as Facebook Inc., is planning to lay off hundreds of jobs across various regions including a significant number from its Menlo Park campus in California.",
-      "points": [
-        "Hundreds of job cuts planned by Meta",
-        "Impact on U.S. and international markets, with many roles lost at headquarters (Menlo Park)",
-        "Meta's strategic pivot away from News Feed towards social platforms"
-      ],
-      "insight": "This move could signal a shift in the company's operational strategy by prioritizing its newer ventures like Instagram and WhatsApp, potentially at the expense of traditional Facebook elements."
-    },
-    {
-      "title": "Apple overhauls its app developer platform with 100 new metrics, more tools",
-      "link": "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 17:26:46 +0000",
-      "description": "Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on its app ecosystem in the AI era.",
-      "language": "en",
-      "summary": "Apple introduces over a hundred new metrics to its App Store Connect platform for developers, enhancing their ability to understand monetization and user behavior within Apple's app ecosystem.",
-      "points": [
-        "- Introducing more than 100+ first-party insights with the added metrics",
-        "- Focus on deepening developer understanding of key areas like subscriptions, conversion rates, retention curves, and monetization strategies",
-        "- Enhancants for apps in all tiers aimed at improving their positioning within Apple's App Store ecosystem"
-      ],
-      "insight": "The significant overhaul of the app developer platform by introducing new metrics indicates that developers will have better tools to optimize and understand user behavior, potentially leading to higher earnings from apps in Google Play due to increased understanding derived directly from Apple's data."
-    },
-    {
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 17:15:50 +0000",
-      "description": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-      "language": "en",
-      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation",
-      "points": [
-        "Senator Bernie Sanders and Rep",
-        "Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers u...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "DeleteMe acquires social media security tool Block Party",
-      "link": "https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 16:51:56 +0000",
-      "description": "Tracey Chou founded Block Party in 2018 as a tool to help people stay safe from targeted harassment on Twitter, inspired by her own experiences.",
-      "language": "en",
-      "summary": "Block Party has been acquired by DeleteMe for $5 million; the acquisition will enhance Block Party's capabilities and expand its reach into broader social media platforms.",
-      "points": [
-        "DeleteMe, a cybersecurity startup based in San Francisco with over ten employees, purchases Montreal-based Block Party",
-        "The deal is valued at $5 million; DeleteMe was founded as an open source solution for detecting and removing bots from social media networks.",
-        "Block Party has expanded its service to include the removal of spam comments on various platforms including Facebook, Instagram, Twitter, LinkedIn"
-      ],
-      "insight": "This acquisition signifies a strengthening partnership between DeleteMe's mission for online safety and Block Party' extranet technology which specializes in combating bots and harassment. This could potentially enhance overall security on social media platforms."
-    },
-    {
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 16:37:43 +0000",
-      "description": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-      "language": "en",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Russia arrests alleged owner of cybercrime forum LeakBase, report says",
-      "link": "https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 16:36:54 +0000",
-      "description": "Russian state-owned media reported that police in Russia arrested the administrator of LeakBase, a large hacking forum.",
-      "language": "en",
-      "summary": "Authorities in Russia have detained the alleged operator behind the notorious cybercrime platform known as LeakBase.",
-      "points": [
-        "- The administrator of LeakBase has been arrested by Russian authorities.",
-        "- Police reports claim that LeakBase facilittable hacking activities, including exploiting vulnerabilities and disseminating stolen data online.",
-        "- This development raises concerns about the ongoing cyber threat landscape."
-      ],
-      "insight": "The arrest of a high-profile figure linked to LeakBase could signify increased efforts by law enforcement worldwide to combat organized hacking activities, potentially leading to heightened security measures and closer collaboration among global tech communities and agencies in addressing cybersecurity challenges."
-    },
-    {
-      "title": "Waymo relies on firefighters and police to bail out stuck robotaxis",
-      "link": "https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bail-out-stuck-robotaxis/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 16:30:37 +0000",
-      "description": "In at least six instances identified by TechCrunch, first responders have had to take control of Waymo vehicles and move them out of traffic during emergency situations.",
-      "language": "en",
-      "summary": "TechCrunch has reported that in six instances, firefighters or police officers took over the autonomous driving system of Waymo vehicles to move them out of traffic during emergencies.",
-      "points": [
-        "First responders have had to take control of Waymo cars multiple times",
-        "TechCrunch identifies six instances where manual intervention was required in California and Arizona for safety reasons",
-        "The incidents underscore the limitations of autonomous vehicles when faced with real-world emergencies"
-      ],
-      "insight": "These events highlight a key limitation in current AV technology, which still requires human oversight during complex or dangerous situations."
-    },
-    {
-      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
-      "link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 16:10:00 +0000",
-      "description": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-      "language": "en",
-      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation",
-      "points": [
-        "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "How soap opera-TikTok hybrids became a billion-dollar business",
-      "link": "https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 15:30:00 +0000",
-      "description": "Over the past few years, a new category of mobile apps has quietly exploded into a multi-billion dollar business. They’re called “micro dramas” — short-form, mobile-first scripted shows designed to be watched vertically on your phone. Think soap opera meets TikTok, complete with secret billionaire romances, disapproving werewolf mothers-in-law, and cliffhangers engineered to keep users tapping. The leading […]",
-      "language": "en",
-      "summary": "Micro dramas are a new type of mobile apps that combine elements of soap operas with TikTok's short-form video content to create engaging vertical experiences on phones.",
-      "points": [
-        "Short-form scripted shows targeting smartphone screens for entertainment, featuring drama and relatable social issues like secret romances and disapproving family members",
-        "Platforms have evolved from linear storytelling to interactive narratives that demand user participation through tapping.",
-        "The trend capitalizes on the increasing consumption of mobile video content as users seek more personalized, binge-worthy experiences"
-      ],
-      "insight": "This blending of soap opera and TikTok elements represents a significant shift in how storytelling is consumed within the tech industry, focusing on user interaction and vertical viewing formats."
     }
   ]
 }
