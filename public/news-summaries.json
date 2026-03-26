@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-03-26T07:26:59.665Z",
+  "generatedAt": "2026-03-26T13:49:32.051Z",
   "articles": [
+    {
+      "title": "WhatsApp can now draft AI-generated responses based on your conversations",
+      "link": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 13:00:00 +0000",
+      "description": "The Meta-owned messaging platform is also launching a way to free up space, the ability to touch up photos with Meta AI, and more.",
+      "language": "en",
+      "summary": "WhatsApp has introduced features for auto-generating responses using AI based on prior conversations, a photo enhancement tool powered by Meta'inlfusion of the text with 'Enhanced WhatsApp now lets you touch up photos directly within messaging.' and no specifics about space freeing mechanism. Additionally, new privacy measures will let users change their default call/text notifications settings.",
+      "points": [
+        "WhatsApp can generate AI-generated responses based on prior conversations",
+        "Meta AI introduces photo enhancement tool within WhatsApp messaging platform",
+        "Users have control over changing privacy measures for calls and texts"
+      ],
+      "insight": "The introduction of these features indicates a trend towards more intelligent, interactive communication platforms that go beyond simple text-based interactions to include advanced image editing tools directly within the messaging experience."
+    },
+    {
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 12:00:00 +0000",
+      "description": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+      "language": "en",
+      "summary": "Senator Mark Warner proposes a solution for AI-driven job losses by suggesting that data centers be taxed.",
+      "points": [
+        "AI is causing significant fear of job loss in the workforce, leading to backlash against entities like data centers.",
+        "Sen. Mark Warner has suggested levying a 'pound of flesh' from these industries through new or higher taxes.",
+        "The proposed measure aims at funding programs that help workers adapt and survive during the transition caused by AI advancements."
+      ],
+      "insight": "Sen. Mark Warner’s proposal could potentially mitigate negative impact on employment while generating funds to upskill affected individuals, which might set an example for other nations grappling with similar issues."
+    },
+    {
+      "title": "Mistral releases a new open-source model for speech generation",
+      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 11:30:00 +0000",
+      "description": "Mistral's new speech model can run on a smartwatch or a smartphone.",
+      "language": "en",
+      "summary": "Startup Mistral has released an open-source machine learning model capable of generating natural human-like responses to spoken prompts using conversational text as input.",
+      "points": [
+        "Mistral introduces a speech generation technology that functions on various devices, including smartwatches and phones",
+        "The system is built with GPT-3.5 architecture for better understanding of natural language inputs",
+        "Open access to the model allows companies worldwide to integrate it into their own applications"
+      ],
+      "insight": "Mistral'sim open-source approach can democratize advanced speech technology, potentially leading to broader innovation and adoption in conversational AI across different industries."
+    },
+    {
+      "title": "네트워크 장비를 장기 거점으로... 진화하는 해킹 조직의 인프라 침투 공식",
+      "link": "http://www.boannews.com/media/view.asp?idx=142860&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:40:00 +0900",
+      "description": "NSHC 보고서 발간, 네트워크 장비 및 VPN 취약점 36개 CVE 집중 분석중국계 ‘SectorB’ 공격 과반 차지... 미국, 한국 등 글로벌 ICT 허브 집중 공략Ivanti, Cisco 등 경계 자산 취약점 악용 및 정상 서비스 무기화 뚜렷[보안뉴스 조재호 기자] 2025년 정보통신 산업을 겨냥한 사이버 위협은 단순한 단말기 감염을 넘어 통신망,",
+      "language": "ko",
+      "summary": "이 기사는 국내에서 공격으로 인피에용 네트워크 장비와 CVE 집중 탐지 실천에 대한 경험을 공유한다.",
+      "points": [
+        "국내의 'SectorB'와 같은 네트워크 장비 인피용 시스템이 충증을 수용하고 있다.",
+        "SectorB의 경우, '뉴마니온 네트워크'과 같은 IT 기술 회사가 이전에 고유한 CVE를 36개 중에서 지속적으로 검색하며 보호하고 인피용 시스템을 강화한다.",
+        "이 경우, 대한민국과 미국이 네트워크 장비와 VPN에 관해 보안 취약점을 강화하는 방안을 제시한다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서 공격으로 인피받은 네트워크 장비와 VPN의 보호속요소가 현재 국내로 유명해지고 있어, 'SectorB'이 이미 인식되어 모시기에 관련잇물을 탐재한다는 사상이다."
+    },
+    {
+      "title": "인콘, 차세대 융복합 지능형 이벤트 관리 시스템으로 맞춤형 솔루션 제공",
+      "link": "http://www.boannews.com/media/view.asp?idx=142861&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:36:00 +0900",
+      "description": "TRIUM i, 통합관제 VMS에 시나리오 기반 AI 분석 결합한 능동형 AI VMS 솔루션차세대 안전관리 솔루션, 스마트 AI 인파관리 시스템도 소개[보안뉴스 엄호식 기자] 인콘은 CCTV·DVR·VMS 등 네트워크 영상보안장비 제조와 스마트시티·재난안전 분야에 강점이 있는 회사다. 또한 영상보안·관제 솔루션을 중심으로 공공조달플랫폼과 바이오·AI 사업까",
+      "language": "ko",
+      "summary": "TRIUM i, 통합관제 VMS에 시나리오 기반 AI 분석 결합한 능동형 AI VMS 솔루션차세대 안전관리 솔루션, 스마트 AI 인파관리 시스템도 소개[보안뉴스 엄호식 기자] 인콘은 CCTV·DVR·VMS 등 네트워크 영상보안장비 제조와 스마트시티·재난안전 분야에 강점이 있는 회사다. 또한 영상보안·관제 솔루션을 중심으로 공공조달플랫폼과 바이오·AI 사업까",
+      "points": [
+        "또한 영상보안·관제 솔루션을 중심으로 공공조달플랫폼과 바이오·AI 사업까",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“여러 출입보안 시스템 한 화면에서” 성현시스템, 출입통제·로봇 통합관제 솔루션 선봬",
+      "link": "http://www.boannews.com/media/view.asp?idx=142833&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:27:00 +0900",
+      "description": "다양한 보안 장비를 하나의 플랫폼에서 통합관리3D 도면 기반 장비 위치와 상태, 연결 현황 등을 한 화면에서 모니터링[보안뉴스 강초희 기자] 성현시스템은 SECON & eGISEC 2026에서 AI 기반 출입보안 통합관제 솔루션을 선보였다.이번 전시에서 공개한 솔루션은 다양한 출입통제 리더기와 보안 장비, 순찰 로봇, 스마트 문서 보관함 등 여러 보안 시스",
+      "language": "ko",
+      "summary": "다양한 보안 장비를 하나의 플랫폼에서 통합관리3D 도면 기반 장비 위치와 상태, 연결 현황 등을 한 화면에서 모니터링[보안뉴스 강초희 기자] 성현시스템은 SECON & eGISEC 2026에서 AI 기반 출입보안 통합관제 솔루션을 선보였다. 이번 전시에서 공개한 솔루션은 다양한 출입통제 리더기와 보안 장비, 순찰 로봇, 스마트 문서 보관함 등 여러 보안 시스",
+      "points": [
+        "다양한 보안 장비를 하나의 플랫폼에서 통합관리3D 도면 기반 장비 위치와 상태, 연결 현황 등을 한 화면에서 모니터링[보안뉴스 강초희 기자] 성현시스템은 SECON & eGISEC...",
+        "이번 전시에서 공개한 솔루션은 다양한 출입통제 리더기와 보안 장비, 순찰 로봇, 스마트 문서 보관함 등 여러 보안 시스",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "라온메타, 메타버스로 의료 교육 혁신... 대한작업치료사협회와 맞손",
+      "link": "http://www.boannews.com/media/view.asp?idx=142850&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:25:00 +0900",
+      "description": "현실적 제약 극복하는 몰입형 실습 환경 마련해 대면 집합교육 한계 돌파전국 대학 및 주요 의료기관 대상으로 XR 실습 인프라 선제적 보급 추진[보안뉴스 조재호 기자] 라온메타가 대한작업치료사협회와 손잡고 확장현실(XR) 기반의 가상 실습 인프라를 전격 도입해 국내 작업치료 교육의 글로벌 경쟁력을 한 차원 끌어올린다.라온메타는 대한작업치료사협회와 작업치료 교",
+      "language": "ko",
+      "summary": "라온메타는 XR 기술을 확장하여 이를 제공하는 대한작업치료사협회와의 혁신으로 현재의 작업치레학교에서의 경륜을 다시받아내고, 국내의 초기저장기줄이 확립하도록 모델 개발한다.",
+      "points": [
+        "대한작업치료사협회와 라온메타는 XR 기술을 확장하여 제공하는 혁신",
+        "임시정부, 인천 대학교 역계자와 연글로 Methods Research Group이 발행한 연구 지침과 가리켓을 일컷 모델로",
+        "현재의 작업치레학교에서의 경륜을 다시받아내고, 국내의 초기저장기줄이 확립하도록 모델 개발한다."
+      ],
+      "insight": "이러한 XR 기술들은 IT/기술 업체에서의 일상을 꿀링추리며, 스포츠광장에서 다음세 국내와 해외 발전시기운 IT/기술 인재가 제공하기 위해서는 강화되어야만했다."
+    },
+    {
+      "title": "한국씨텍, 90배 줌 포지셔닝 카메라로 장거리 감시 및 특수 환경 영상보안 시장 정조준",
+      "link": "http://www.boannews.com/media/view.asp?idx=142859&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:24:00 +0900",
+      "description": "고배율 줌 포지셔닝 카메라 기반 장거리 감시IP 카메라 토털 솔루션 공공·특수 환경 시장[보안뉴스 강초희 기자] 한국씨텍은 20여년간 영상보안 산업 한 분야에 집중해 온 전문 기업으로, 제조부터 설치, 유지보수를 아우르는 토털 영상보안 솔루션을 제공하고 있다. 이번 SECON & eGISEC 2026에서는 고배율 줌 포지셔닝 카메라와 IP 카메라 토털 솔루",
+      "language": "ko",
+      "summary": "개인 이메일 서버가 보안업무를 위한 이미지 감시 기술에 대한 확장으로, 고배율 줌 포지션 주식회사가 최신 영상보안 시장에서 중요성을 인정한다.",
+      "points": [
+        "고배율 줌 포지션은 현재에 대한 심화가 이루어진 영상보안 시장에서 중요한 기술회사가 역대로 성공거나,",
+        "이미지 감시 기술을 통해 장거리 광고를 방인하며, 보안 서비스의 유대가림을 강화한다.",
+        "이전에도 이 회사는 영상보안 시장에서 중요한 기술회사로 권위를 차지하고 있다."
+      ],
+      "insight": "이 기사가 강력하게 인용해 보안노무로에 의해 개인 이메일 서비스에서는 영상보안을 강화하고자 한다."
+    },
+    {
+      "title": "[이슈칼럼] 에너지·물류를 넘어 사이버로 중동발 쇼크... 우리 기업의 ‘디지털 방어선’은 안녕한가",
+      "link": "http://www.boannews.com/media/view.asp?idx=142832&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:22:00 +0900",
+      "description": "물리적 거리 무의미한 초연결 시대의 전쟁 “아무 일 없는 상태가 가장 위험하다”데이터센터 타격으로 금융·물류 동시 마비 리스크... 기업 운영 기반 무력화 시도 지속 KISA “핵티비스트 중심 무작위 사이버 공격 확산...국내 기업도 직접 타격권 진입”[보안뉴스= 류종기 한국기업보안협의회 이사/RIMS 리스크관리협회 한국 대표] 2026년 2월 말 시작된",
+      "language": "ko",
+      "summary": "이 기사는 논한 세계에서의 금융·물류 동시 공격에 대한 챕터를 담고 있습니다. 이런 유효화 기능을 강화하여 IT/기술 영역의 안전성에 도움을 주어야 합니다.",
+      "points": [
+        "금융·물류 동시 공격에 대한 논헌",
+        "IT/기술 영역의 안전성 강화에 도움이 필요한 이유",
+        "KISA의 ‘핵티비스트 중심 무작위 사이버 공격 확산' 개인정보보호 전문가들이 이슈를 검지하기 위해서도 고민"
+      ],
+      "insight": "세계적인 금융·물류 공격의 확장은 IT/기술 업체에 유리한가를 내릴 수 s밖에 없습니다. '디지털 방어선'를 이길 필요있습니다."
+    },
+    {
+      "title": "버카다, 클라우드 기반 통합 물리보안 플랫폼으로 글로벌 시장 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=142847&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:21:00 +0900",
+      "description": "클라우드 기반 통합 물리보안 플랫폼 선보여영상보안, 출입통제, 환경 센서 통합 관리 구조 돋보여[보안뉴스 강초희 기자] 버카다는 3월 18일부터 20일까지 일산 킨텍스에서 열린 SECON & eGISEC 2026에서 비디오 보안과 출입통제, 센서 시스템을 하나의 화면에서 통합 관리하는 솔루션을 선보였다.버카다는 2016년 설립된 기업으로, 보안 카메라로 출",
+      "language": "ko",
+      "summary": "이 기사는 2016년에 시작한 버카다의 구성과 관련된 3월 18일부터 2 end의 비디오 보안 질러기능을 공통적으로 보여준다.",
+      "points": [
+        "- 버카다는 3월 18일부터 릴리스를 출제한 SECON & eGISEC 2026에서 비디오 보안 시스템을 소개한다.",
+        "- 보안 카메라로 출발하여 화면적인 보안과 출입통제를 하나의 공간에서 수월한 시스템을 전진해준다.",
+        "- 이로써 버카다는 보안와 IT 인증서를 강력하게 구성하여, 국제적으로 확장을 위해 진전하고 기술적으로 쿨미움이라는 가상의 메인화이스토어 창을 제공한다."
+      ],
+      "insight": "버카다는 IT 보안 시스템 운영에서 중요한 역사를 가지고 있어, 그들의 비즈니코톤과 화전이력을 기여하는데 인정되고 국제적으로 등장해서 '미국 IT 인증서 버츠'를 받았다."
+    },
+    {
+      "title": "타포, 간편 설치 가능한 배터리형 실외 CCTV ‘Tapo C400’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142852&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:19:00 +0900",
+      "description": "배터리 기반 무선 실외 보안 카메라AI 감지, 컬러 나이트 버전 가정용 보안 제품[보안뉴스 강초희 기자] 티피링크의 스마트홈 브랜드 타포(Tapo)는 배터리 기반으로 간편하게 설치할 수 있는 실외 보안 카메라 ‘타포(Tapo) C400’을 국내에 공식 출시했다고 밝혔다.Tapo C400은 택배 도난이나 무단 자택 침입과 같은 상황을 실시간으로 확인할 수 있",
+      "language": "ko",
+      "summary": "타포 C400은 간편한 스마트홈 브랜드에서 제공하는 이용자-지정치기가용 배터리 기반 무선 실외 보안 CCTV를 출시했다.",
+      "points": [
+        "타포 C400는 모바일 장소에서 항상 사용가능한 스마트홈 브랜드로 제공한다.",
+        "카메라가 현시의 객체적인 사유에 대비하여 영상을 올바렴함으로써 계정을 지원한다.",
+        "이 보안 제품은 택배 도난, 무단 자택 침잎과 같은 상황에서 실시간 추적을 할 수 있다."
+      ],
+      "insight": "이러한 기술이 국내 IT/이용 업로에서의 보안 침식에 대한 기회를 가지고 올랐다. 타포 C400의 제품과 결합해야 할 때, IT 인증을 위해서는 시스템보안 프로토타이제이에 대한 학습도 중요하다."
+    },
+    {
+      "title": "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
+      "link": "https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 26 Mar 2026 08:15:00 +0000",
+      "description": "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia.",
+      "language": "en",
+      "summary": "Croatian startup Verne has partnered with Uber to launch its first robotaxi services in Zagreb.",
+      "points": [
+        "Verne's vehicle is a modified Tesla Model S sedan, capable of carrying up to six passengers and driving autonomously without needing human intervention within specified areas like downtth or university campuses",
+        "The service area for Verne covers parts of Zagreb including the city center but excludes major thoroughfares such as Ban Jelacic Square; it offers free rides up to 25km and charged fares thereafter with a flat fee per passenger added on top.",
+        "Verne is working closely with Rimac Group, Uber's partner for electric vehicle technology in its self-driving division Elevate"
+      ],
+      "insight": "This launch represents an early move by Croatia into the burgeoning robotaxi market and could signify a rise of European startups competing with American companies like Cruise, which have also shown interest."
+    },
+    {
+      "title": "美 은행·통신사 마비시킨 러시아 해커의 최후... 징역 7년에 120억원 배상 판결",
+      "link": "http://www.boannews.com/media/view.asp?idx=142854&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:11:00 +0900",
+      "description": "기업 내부망 침투해 랜섬웨어 유포 조직에 권한 넘기는 ‘초기 침투 브로커’(IAB) 적발피해액만 900만 달러 상회... 법원, 배상금 지급 및 범죄 장비 몰수 명령[보안뉴스 김형근 기자] 악명 높은 랜섬웨어 조직 ‘얀루오왕’(Yanluowang)의 미국 기업 침투를 주도적으로 도운 러시아 해커 알렉세이 볼코프가 징역 81개월(약 7년)의 중형을 선고받았다",
+      "language": "ko",
+      "summary": "미국의 체계가 배상금을 받아들이고 러시아에서 도운된 녹그리 코스피, 알렉세이 볼코프가 징역 7년 동안 기여한 것을 기준으로 대응되는 금지 전달을 보장.",
+      "points": [
+        "미국 추방 잠재질시가 '얀루오왕'의 침투를 주도적으로 참고했다.",
+        "이런 경우, 미국 법원은 '얀루오왕'이 최종결의 50%를 받아들일 수 don't have enough information to calculate this percentage exactly without specific details on the total fines imposed and collected. However, I can provide a hypothetical scenario where we assume '얀루오왕' (Yanluowang) is required to pay half of any fine incurred as part of his sentence or condition for parole.",
+        "이런 조건에 따라, '적보상'의 경우에만 징역 7년 동안 이루어진 볼코프가 기여한 것을 제출하고 있다."
+      ],
+      "insight": "이 신청은 '얀루오왕'이 미국에서의 폐백과 사거에 대해 징리기 위한 절차로, 그에게 가족과의 혼못으로 인한 코사인 화가를 본 것이다. '얀루오왕'는 미국에서의 기록을 수동출현하여 필요한 부분의 부당을 보장해야 할 것이다."
+    },
+    {
+      "title": "국회입법조사처 “2025년 해킹 대란, 첨단 기법 아닌 ‘보안 기본기’ 부실 탓”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142855&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 26 Mar 2026 17:09:00 +0900",
+      "description": "계정 평문 저장·퇴사자 방치 등 4대 취약 유형 지적... 기업 안일함 꼬집어정부의 사후 조사 관행 비판하며 선제적 예방 위한 ‘SBOM’ 도입 등 공급망 규제 강화 요구[보안뉴스 조재호 기자] 2025년 사이버 침해사고가 전년 대비 26.3% 급증하며 역대 최다를 기록한 가운데, 첨단 해킹 기법보다는 ‘기본 보안 소홀’이 대규모 피해를 키운 주범으로 지목",
+      "language": "ko",
+      "summary": "국회 입원조사가 2025년 해킹대리보안제이전의 저력층 보호를 강조하고, '기본보안소환'이 다수의 보호솔꼼에 추가되어서 대상 사유으로 인식한다.",
+      "points": [
+        "국회 입원조사가 2025년 해킹대리보안제이전의 저력층 보호를 강조하고 있다.",
+        "첨진기본보안에 도전적으로 지속할 수 0에 미치게 되어 국민 보호에 영향을 미칠 줄 염립이다.",
+        "선수인 'SBOM'이 도전해서 공급망 시스템 구조를 강화하여 보호솔꼼의 신기본 요소로 만들어내었다."
+      ],
+      "insight": "국회 입원조사는 미국 기술에 영향을 주러한 결정을 내리고 있으며, '기본보안'이나 'SBOM'에 대한 강제한 시기가 우연했다."
+    },
     {
       "title": "지인테크, 친환경·고효율 영상감시장치 솔루션으로 시장 공략",
       "link": "http://www.boannews.com/media/view.asp?idx=142853&kind=&sub_kind=",
@@ -534,216 +744,6 @@
         "The trend capitalizes on the increasing consumption of mobile video content as users seek more personalized, binge-worthy experiences"
       ],
       "insight": "This blending of soap opera and TikTok elements represents a significant shift in how storytelling is consumed within the tech industry, focusing on user interaction and vertical viewing formats."
-    },
-    {
-      "title": "Harvey confirms $11B valuation: Sequoia triples down",
-      "link": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 15:27:15 +0000",
-      "description": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, Elad Gil can't get enough of AI legal tech startup Harvey.",
-      "language": "en",
-      "summary": "Sequoia Capital has tripled its investment in the US-based artificial intelligence (AI) company that specializes in developing software for law firms and legal tech businesses called Harvey Inc., following a successful $10 billion valuation.",
-      "points": [
-        "Sequoia triples down on AI startup with Sequoia CEO John Doerr leading the investment round",
-        "$10.5B post-money pre-seed capital raised for Harvey Inc., specializing in developing software that automates repetitive tasks and enhances legal services delivery through artificial intelligence (AI)",
-        "Sequoia Capital' endorses AI as transformative tool with a tripled investment"
-      ],
-      "insight": "This news highlights the growing intersection of technology, specifically AI, in professional sectors such as law. Investments like these indicate strong confidence that automation and intelligent technologies will continue to disrupt industries traditionally reliant on manual labor."
-    },
-    {
-      "title": "[RSAC 2026] 지니언스, 접속-세션-실행 하나로 연결! 통합 보안 인프라 강조",
-      "link": "http://www.boannews.com/media/view.asp?idx=142826&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Mar 2026 00:22:00 +0900",
-      "description": "NAC·ZTNA·EDR 통합한 ‘제로 트러스트 실행 인프라’ 글로벌 런칭[미국 샌프란시스코= 보안뉴스 특별취재팀] 사이버 보안 전문 기업 지니언스는 3월 23일(현지시각)부터 26일까지 미국 샌프란시스코 모스콘센터에서 열리고 있는 세계 최대 규모 사이버보안 컨퍼런스 RSAC 2026에서 네트워크 접근제어(NAC), 제로트러스트 네트워크 액세스(ZTNA),",
-      "language": "ko",
-      "summary": "지니언스는 이 세계 최대 규모 사이버보안 컨퍼런스에서 NAC, ZTNA, EDR를 통합으로 연결하여 IT/기술 업체에서의 보안을 강화한다.",
-      "points": [
-        "지니언스는 네트워크 접근제어(NAC), 제로트러스트 네트워크 액세스(ZTNA), EDR을 통합으로 연결",
-        "이 연결은 IT/기술 업체에서의 보안 방식과 시대의 변화를 느키rir",
-        "지니언스는 모바일 사용자가 IT/기술 업체에 접근하는 방식을 보호"
-      ],
-      "insight": "지니언스는 IT/기술 업체의 보안 변화를 통한 모바일 이용자에게 제대로 착용하고 있는 방식을 보호하고, 전자 세계적인 레이픽의 영향을 IT/기술 업체에서 온다."
-    },
-    {
-      "title": "[RSAC 2026] 에스에스앤씨, AI 기반 방화벽 정책 자동화 솔루션 ‘파이어.원’으로 세계 시장 공략",
-      "link": "http://www.boannews.com/media/view.asp?idx=142808&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Mar 2026 00:09:00 +0900",
-      "description": "RSAC 2026 한국관 참여 멀티 벤더 환경 보안 워크플로우 자동화 [미국 샌프란시스코= 보안뉴스 특별취재팀] 에스에스앤씨(SSNC)가 23-26일(현지시간) 미국 샌프란시스코에서 열리는 RSAC 2026에서 기업 보안 운영 효율을 극대화하는 AI 기반 방화벽 정책 관리 플랫폼 ‘파이어.원’(Fire.ONE)을 선보였다. 에스에스앤씨는 기업들이 어려움을",
-      "language": "ko",
-      "summary": "에스에스앤씨는 RSAC 2026에서 이런 AI 기반 방화벽 정챴을 제공하며, 방화벳의 영향을 최대한 줄일 수 있는 문제를 해결하기 위해 파이어.원을 도입하며, 보안 환경에서의 효율성과 다양성에 대한 관리를 강화하려고 합니다.",
-      "points": [
-        "- SSNC이 파이어.원(Fire.ONE)로 이러한 AI 기반 방화벳을 제공",
-        "- 강화하여 보안 영역에서의 효율성과 다양성을 높일 수 s있도록 노동",
-        "- SSNC은 IT/기술 업체 보안 환경에서의 문제를 해결하고자 한국어로 말합니다"
-      ],
-      "insight": "이 기사는 IT/기술 업체가 인프라와 비증복을 갖게능하고 효율적인 방화벳 관리를 위해 SSNC이 '파이어.원' 기능을 제공하여, 보안 시스턴라의 모니터링과 자동화 레벨이 높아지고 있다는 것을 나타낸다."
-    },
-    {
-      "title": "[RSAC 2026] 에이아이스페라, 사이버 위협 인텔리전스 ‘Criminal IP’로 글로벌 영토 확장",
-      "link": "http://www.boannews.com/media/view.asp?idx=142825&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 26 Mar 2026 00:00:00 +0900",
-      "description": "글로벌 보안기업과의 협업 확대... 미국, 유럽 등 해외시장 적극 공략[미국 샌프란시스코= 보안뉴스 특별취재팀] AI 기반 사이버 위협 인텔리전스 전문 기업 에이아이스페라는 RSAC 2026에서 자사 플랫폼인 ‘크리미널 IP(Criminal IP)’의 대대적인 업그레이드 버전을 공개해 전 세계 보안 분야 참관객들의 관심을 모았다. 크리미널 IP는 AI가",
-      "language": "ko",
-      "summary": "글로벌 보안기업과의 협업 확대. 미국, 유럽 등 해외시장 적극 공략[미국 샌프란시스코= 보안뉴스 특별취재팀] AI 기반 사이버 위협 인텔리전스 전문 기업 에이아이스페라는 RSAC 2026에서 자사 플랫폼인 ‘크리미널 IP(Criminal IP)’의 대대적인 업그레이드 버전을 공개해 전 세계 보안 분야 참관객들의 관심을 모았다...",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 14:48:40 +0000",
-      "description": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-      "language": "en",
-      "summary": "Granola raised a substantial $125 million in funding, which increased the company's valuation to $1.5 billion as it expands its AI capabilities beyond notetaking apps.",
-      "points": [
-        "Raised $125M leading to a $1.5B valuation",
-        "AI expansion after user feedback on limitations",
-        "Granola' end goal is an enterprise-level artificial intelligence app"
-      ],
-      "insight": "The rise in Granola's funding and its pivot towards more sophisticated AI applications signals a trend where startups are increasingly investing to broaden their product capabilities, responding to user demands for versatile AI tools."
-    },
-    {
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 14:45:20 +0000",
-      "description": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
-      "language": "en",
-      "summary": "Meta CEO Mark Zuckerberg emphasized small businesses' importance in Meta'theseus as integral not just for their past role but also because of current plans to support and grow entrepreneurship using AI tools on its platforms.",
-      "points": [
-        "Mark Zuckerberg highlighted the significance of small businesses within Meta",
-        "Meta aims to enhance entrepreneurship through new initiatives targeting this sector",
-        "The company plans to leverage artificial intelligence for growth and connection opportunities"
-      ],
-      "insight": "This move by Meta indicates an effort not only to sustain their existing small business ecosystem but also to innovate within it, potentially setting a new industry standard in the support of entrepreneurship through AI."
-    },
-    {
-      "title": "[RSAC 2026] 파수, AX 지원 기업 ‘정체성’ 부각... 美 통합법인 ‘심볼로직’ 4월 출범",
-      "link": "http://www.boannews.com/media/view.asp?idx=142824&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 25 Mar 2026 23:33:00 +0900",
-      "description": "기업용 프라이빗 LLM과 맞춤형 민감정보 보호 솔루션으로 북미 시장 공략[미국 샌프란시스코= 보안뉴스 특별취재팀] 파수는 RSAC 2026에서 AI, Data, Security라는 3가지 키워드를 중심으로 △구축형 AI 엘름(Ellm) △AI 기반 민감정보 보호 솔루션 에어 프라이버시(AI-R Privacy) △서비스형 AI 사용을 위한 민감정보 관리 솔루",
-      "language": "ko",
-      "summary": "Low-code AI 기술을 통해 AI 사용에 대한 민감정보 관리가 북미 시장 공략으로 영향을 주고 있는 RSAC 2seminar에서 소식",
-      "points": [
-        "AI-R Privacy LLL 기술을 이용한 민감정보 보호 시스템의 북미 공략으로 나오고 있다는 소식",
-        "AI를 사용한 민감정보 관리가 영향을 주기에 반응하도록 만들어내고 있다는 소식",
-        "북미 시장의 AI를 이용한 민감정보 관리가 중요하다는 소식"
-      ],
-      "insight": "이러한 사업은 IT/기술 업체에서의 AI를 활용하여 민감정보를 관리하는 방식을 선보이고 나아지게 한다."
-    },
-    {
-      "title": "Arbor Energy just landed a billion-dollar order to bring rocket turbine tech to the power grid",
-      "link": "https://techcrunch.com/2026/03/25/arbor-energy-just-landed-a-billion-dollar-order-to-bring-rocket-turbine-tech-to-the-power-grid/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 14:17:46 +0000",
-      "description": "The large deal sees Arbor delivering as many as 200 of its Halcyon turbines, which can burn either natural gas or waste biomass.",
-      "language": "en",
-      "summary": "The large deal sees Arbor delivering as many as 200 of its Halcyon turbines, which can burn either natural gas or waste biomass",
-      "points": [
-        "The large deal sees Arbor delivering as many as 200 of its Halcyon turbines, which can burn either n...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-      "link": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 14:16:17 +0000",
-      "description": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
-      "language": "en",
-      "summary": "Meta employs artificial intelligence (AI) technology to enhance the consumer experience by offering detailed product descriptions on Instagram and Facebook.",
-      "points": [
-        "Meta is leveraging generative AI for better shopping experiences in its social media apps",
-        "The new feature aims to provide comprehensive information about products without direct sales from Meta's platforms",
-        "This initiative may set a precedent for the role of technology in e-commerce on social networks"
-      ],
-      "insight": "Meta is demonstrating how AI can be integrated into everyday online activities, potentially reshaping social commerce and marketer strategies across digital platforms."
-    },
-    {
-      "title": "Sony and Honda give up on their joint EV project",
-      "link": "https://techcrunch.com/2026/03/25/sony-honda-mobility-afeela-ev-project/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 14:14:48 +0000",
-      "description": "The Sony-Honda joint venture has killed plans for its Afeela sedan and SUV electric vehicles. The news comes shortly after Honda reversed its plans to launch more electric vehicles in the U.S.",
-      "language": "en",
-      "summary": "The Sony-Honda joint venture has discontinued development for their Afeela sedan and SUV electric cars.",
-      "points": [
-        "Sony's IT expertise combined with Honda's automotive experience was to create the next generation of EVs, but plans have now been cancelled.",
-        "The joint venture also included Sony in developing an autonomous driving platform and infotainment system for vehicles.",
-        "After launching its first electric scooter earlier this year, Honda is shifting focus away from the Afeela EVs."
-      ],
-      "insight": "This development highlights potential challenges in combining disparate industries. It may signal a future where industry collaboration will be more focused on complementary areas of expertise to create successful products."
-    },
-    {
-      "title": "[RSAC 2026] 위즈코리아, “내부자 위협 더 이상 없다”... 블랙박스 AI로 북미 ‘승부수’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142823&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 25 Mar 2026 23:00:00 +0900",
-      "description": "AI 기술이 접목된 내부자 위협 방지 솔루션으로 주목[미국 샌프란시스코= 보안뉴스 특별취재팀] 내부 정보보호 전문기업 위즈코리아는 3월 23일(현지시각)부터 26일까지 미국 샌프란시스코 모스콘센터에서 열리고 있는 세계 최대 규모 사이버보안 콘퍼런스 RSAC 2026에서 별도의 독립부스로 참여해 AI 기술이 접목된 내부자 위협 방지 솔루션으로 큰 주목을 받았",
-      "language": "ko",
-      "summary": "AI기술이 위치한 내부자 위협을 방지하는 IT/기술 업계의 방안에 참여",
-      "points": [
-        "AI기술이 지극적으로 인내되어 위치한 손해를 결리하는 전문기업에 대한 참여",
-        "RSA삼성 2026년에서의 국제 활동을 소개",
-        "안전보안 엔지니어링 기법의 중요성과 현재의 IT/기술 생산 팩터로"
-      ],
-      "insight": "이러한 조합은 대안기를 강화하고, 내부에서의 위협을 방지하는 사업에 대한 매우 중요한 관점을 나타냄."
-    },
-    {
-      "title": "Elon Musk pauses changes to X’s creator revenue-sharing program after backlash",
-      "link": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 13:41:35 +0000",
-      "description": "Hours after announcement of the new policy Elon Musk said X is pausing the rollout.",
-      "language": "en",
-      "summary": "After introducing a controversial revenue-sharing program for content creators on his social media platform 'X,' backlash led Elon Musk to temporarily halt changes.",
-      "points": [
-        "Elon Musk has paused the rollout of X'inherited from Twitter that was designed as a profit sharing option between influencers and celebrities, in response to criticism",
-        "'X,' formerly 'Subscribe Squad,' is set for an overhaul under Elon’s leadership which includes changes like allowing users with 10k followers or more access ad revenue from their content posts on the platform.",
-        "The new program proposal has led to widespread criticism and a significant pushback, resulting in Musk pausing rollout of these policies."
-      ],
-      "insight": "This event highlights growing concerns within social media platforms about how revenue is generated from influencer content. The industry might need clearer guidelines for monetization to avoid backlash and potential misuse, as seen with the 'X' platform rollback decision."
-    },
-    {
-      "title": "[RSAC 2026] 안랩, 차세대 위협 인텔리전스와 AI 기술의 ‘찰떡궁합’... 북미 시장 접수",
-      "link": "http://www.boannews.com/media/view.asp?idx=142822&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 25 Mar 2026 22:29:00 +0900",
-      "description": "실제 위협 사례와 최신 공격 동향에 대한 심층 분석 내용 공유[미국 샌프란시스코= 보안뉴스 특별취재팀] 한국 대표 보안기업 안랩은 3월 23일(현지시각)부터 26일까지 미국 샌프란시스코 모스콘센터에서 열리고 있는 세계 최대 규모 사이버보안 콘퍼런스 RSAC 2026에서 별도의 독립부스로 참가했다. 이번 행사에서 안랩은 조직 전반의 위협 데이터를 수집·분석",
-      "language": "ko",
-      "summary": "안랩은 RSAC 2026에서 규모가 큰 위협 데이터를 수집·분석하며 공동방역을 통해 IT/기술 업체와의 파트당을 유지",
-      "points": [
-        "안랩이 RSAC 2026에서 대한 규모 중요한 참가예정",
-        "위협 데이터를 수집·분석하여 IT/기술 업체와의 공동방역을 강조한다.",
-        "규모가 큰 위협에 대해서도 이전과 마찬가지로 본인의 목표를 명시했다."
-      ],
-      "insight": "이러한 참가는 IT/기술 업체에서 공동의료성잡고자 하는 규모가 중요한 위협에 대해 보안직에서 이루어진 공식적인 도전과정으로서, 그리고 한국 소재의 영구적인 방어충전 계획에 해당"
-    },
-    {
-      "title": "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z",
-      "link": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 25 Mar 2026 13:00:00 +0000",
-      "description": "Glimpse announced on Wednesday a $35 million Series A led by Andreessen Horowitz, with participation from 8VC and YC.",
-      "language": "en",
-      "summary": "Y Combinator startup Glimpse has raised $35M in a new round of funding led by Andreessen Horowitz (a16z), with contributions from YC and individual investors.",
-      "points": [
-        "Glimpse announced the Series A fundraise on Wednesday, totaling $35 million",
-        "Andreessen Horowitz is leading the round as a new strategic partner of Glimpthy",
-        "The company has received interest from individual investors and YC members"
-      ],
-      "insight": "With this fundraise led by Andreessen Horowitz, industry experts may see increased focus on AI integration in e-commerce technology. The backing suggests confidence that Glimpse's pivot towards using a chatbot to enhance customer experience is effective and aligns with the tech trends."
     }
   ]
 }
