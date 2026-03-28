@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-03-28T12:57:13.601Z",
+  "generatedAt": "2026-03-28T18:46:58.634Z",
   "articles": [
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 16:11:16 +0000",
+      "description": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "language": "en",
+      "summary": "Elon Musk and his team created a promising artificial intelligence company called X (xArtificial Intelligence), but it appears that almost all of the co-founders have left except for two.",
+      "points": [
+        "All but two out of Elon's former xAI co-founders departed",
+        "The remaining members may face challenges without their colleagues' expertise and support",
+        "Musk is likely to continue leading or finding new investors"
+      ],
+      "insight": "This situation suggests potential difficulties for the surviving team in continuing X (xArtificial Intelligence)'s operations, but also reflects Musk's strong influence as a leader who can potentially attract new partners and maintain momentum."
+    },
+    {
+      "title": "These iPad apps will make you wish you had more free time",
+      "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 16:00:00 +0000",
+      "description": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store.",
+      "language": "en",
+      "summary": "The article introduces top-rated free iPad applications designed to inspire and enhance users' artistic abilities.",
+      "points": [
+        "This curated list highlights diverse creative apps like PaperMoonPro, Manga Studio Sketche, Scribble Press Drawing Pad",
+        "Apple Arcade offers a selection of premium titles within your iPad plan for additional entertainment.",
+        "iPads are praised as portable tools that can foster learning and creativity in various fields including art, music, writing, dance, theatre"
+      ],
+      "insight": "The emphasis on free or low-cost apps demonstrates the accessibility of technology to inspire creativity across different disciplines. It suggests a growing trend for users to seek out these tools as substitutes for traditional learning and artistic mediums."
+    },
+    {
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 14:15:00 +0000",
+      "description": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "language": "en",
+      "summary": "Anthropic’s AI-powered text generator, Claude, has seen a surge in popularity among paying consumers with subscription numbers more than doubling this year.",
+      "points": [
+        "Claude is an artificial intelligence program that creates human-like writing and speech outputs based on provided prompts or questions."
+      ],
+      "insight": {
+        "content": "The growth in Claude's user base suggests a trend towards valuing AI services for personalized content creation, potentially indicating future investment opportunities within the sector.",
+        "sentence_1": "Anthropic’s text generator, Claude, is experiencing rapid adoption among consumers."
+      }
+    },
+    {
+      "title": "What will power the grid in 2035? The race is wide open",
+      "link": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 13:05:00 +0000",
+      "description": "Fusion, fission, and even natural gas are appeared tied in the race to deliver new power to the grid in the early 2030s.",
+      "language": "en",
+      "summary": "The article discusses various sources of energy that could potentially dominate electricity generation by 2term for next year: fusion and fission reactors alongside natural gas.",
+      "points": [
+        "Fusion is a potential clean power source with the advantageous trait of producing less waste compared to traditional nuclear reactions like fission, but its practical application remains challenging due to technological hurdles such as achieving sustained energy output and handling heat generation.",
+        "Nuclear fission reactors are currently in use worldwide providing a significant portion of the electricity supply; however, their efficiency has been declining over time. Improvements like advanced reactor designs might be necessary for them to compete with alternative power sources by 2035.",
+        "Increased interest and investment into fusion energy suggest that breakthroughs could disrupt the current nuclear fission-dominated landscape, while natural gas remains a significant source due to its flexibility in usage."
+      ],
+      "insight": "The competitive race among different power generation technologies like fusion, advanced fission reactors, and natural gas indicates an industry at the brink of transformation. While uncertainties remain about which technology will take the lead by 2035, continuous advancements could redefine energy production."
+    },
+    {
+      "title": "솔라나 블록체인에 숨은 자객... 신종 ‘글래스웜’ 캠페인 기승",
+      "link": "http://www.boannews.com/media/view.asp?idx=142898&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 28 Mar 2026 22:01:00 +0900",
+      "description": "블록체인과 클라우드 서비스를 빈틈없이 악용한 독보적인 우회 수법 보여줘[보안뉴스 김형근 기자] 솔라나 블록체인을 데드 드롭(Dead Drop) 해결사로 악용해 명령을 전달하는 신종 글래스웜 캠페인이 포착됐다. 벨기에 안트베르펜에 본사를 둔 글로벌 보안 스타트업 아이키도(Aikido) 연구팀에 따르면, 공격자들은 npm, PyPI 등 오픈소스 저장소에 악성",
+      "language": "ko",
+      "summary": "신종 글래스웜 캠페인이 npm, PyPI 등의 오픈소스 저장소로 공격자들의 명령을 전달하는 방식으로 악용해 명령을 보내고있습니다.",
+      "points": [
+        "신종 글래스 캠페인이 npm, PyPI 등의 오픈소스 저장소로 공격자들의 명령을 전달",
+        "공격자는 다음과 같은 방식으로 명령을 보내줍니다: '아이템', '작업 명령'을 전달",
+        "기억이 오염하면 공격자는 반대로 악용해를 보내며 이러한 방식으로 일부 공격자들은 명령을 다시 전송"
+      ],
+      "insight": "이러한 글래스 캠페인이 npm, PyPI 등의 오픈소스 저장소에서 공격자들을 위해 공격 수정 방식을 구현한 상태로 보호해야 할 수 0에 있습니다."
+    },
+    {
+      "title": "Let’s take a look at the retro tech making a comeback",
+      "link": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 13:00:00 +0000",
+      "description": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available.",
+      "language": "en",
+      "summary": "The article discusses various vintage technology items such as boomboxes, instant cameras, and landlines that are experiencing a resurgence in popularity.",
+      "points": [
+        "Boomboxes have become more sophisticated while maintaining their retro appeal.",
+        "Instant cameras offer unique photo quality distinct from digital devices with an antique charm.",
+        "The demand for landlines is growing, albeit slowly due to the prevalence of cell phones."
+      ],
+      "insight": "These re-emerging retro technologies indicate a cultural nostalgia and preference among consumers that challenge modern digital norms in specific contexts like music listening or personalized photography experiences. They also suggest an alternative approach to connectivity, highlighting the importance of tangible interactions over pure convenience."
+    },
     {
       "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
       "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
@@ -658,96 +749,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "한국후지쯔, 엔터프라이즈 AI 최적화 DB ‘Fujitsu Enterprise Postgres 18’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142864&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:08:00 +0900",
-      "description": "AI 데이터 통합 관리 및 ‘DB 내 추론’ 기능으로 구축 시간 단축 멀티마스터 복제 기술로 장애 시에도 중단 없는 비즈니스 연속성 보장[보안뉴스 강초희 기자] 한국후지쯔(대표이사 박경주)는 기업이 인공지능(AI) 서비스를 더 쉽고 안전하게 도입할 수 있도록 돕는 데이터베이스(DB) 솔루션 ‘후지쯔 엔터프라이즈 포스트그레스(Fujitsu Enterprise",
-      "language": "ko",
-      "summary": "한국후지쯔 기사는 'Fujitsu Enterprise Postgres 18' DB이란 AI 데이터 통합 관리 및 직접 인증 서비스를 제공하여 IT 기술에 대한 안전이 되도록 강의합니다.",
-      "points": [
-        "Fujitsu Enterprise Postgres 18 DB는 AI 데이터 통합을 위해 'DB 내 추론' 기능과 직접 인증 서비스를 제공한다.",
-        "장애 시에도 비즈니지 보호를 위해서는 중단 없이 연구와 개발러에게 중요한 기술이다.",
-        "디지탈리아와 공식적인 IT 산업에서 Fujitsu Enterprise Postgres 18의 도전과정은 연구와 개발러에게 기본적으로 획재가능한 시스텐을 제공한다."
-      ],
-      "insight": "이러한 AI 데이터 통합 및 직접 인증 기술은 IT/기술 업체에서 자동화되지 않을 수 있고, 거칭이 쉽다면, 이는 획재를 높일 수 있다."
-    },
-    {
-      "title": "[카드뉴스] 소형 드론이 데이터센터 상공을?… ‘아날로그 테러’에 무너지는 디지털 영토",
-      "link": "http://www.boannews.com/media/view.asp?idx=142863&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 09:32:00 +0900",
-      "description": "클라우드 서비스가 확산됨에 따라, 사이버 공격뿐만 아니라 데이터센터를 겨냥한 ‘망치’, ‘절단기’ 등 아날로그적인 물리 파괴 위협이 심각해지고 있다. 정체불명의 소형 드론을 이용해 데이터센터 상공에서 전자파를 교란하거나 물리적 타격을 가하는 등 새로운 형태의 테러 방식이 등장하여 국가 기반 시설을 위협하고 있다. 디지털 주권을 수호하기 위해서는 고도화된 사",
-      "language": "ko",
-      "summary": "소형 드론이 국내외의 데이터센터에서 큰 위협을 주도한다.",
-      "points": [
-        "소형 드론이 국내외의 사이벽공격과 마찬가지로 정체불명이 나타내고, 국내외에서도 데이터센터를 위협하고 있다.",
-        "이전에는 소형 드론의 경우만 국내외에서 영향을 미치기로 확인되지만, 여기서는 모든 종목이 동시에 받아들일 수 있다.",
-        "소형 드론의 전자타결정은 국내로도 직방으로도 가능하며, 국내외 영향을 낳은 다음에는 국내외 영향을 낳을 수 0점인가?"
-      ],
-      "insight": "소형 드론의 현재 전자타결정이나 위험한 대칭으로 보이는 덩크에서도 동일한 위기 상황이다."
-    },
-    {
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 26 Mar 2026 23:47:56 +0000",
-      "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-      "language": "en",
-      "summary": "Google introduces new features called 'switching tools' which facilitate the transfer of chats and personal information from various third-party bots directly into Google'sem Assistant, named Gemini.",
-      "points": [
-        "The switching tool allows users to move data seamlessly between different chatbots without losing their conversations or preferences.",
-        "This transition enhances the user experience by providing continuity and eliminating repetitive setup processes when using new AI assistants like Gemini.",
-        "Google aims to streamline interactions with multiple platforms, increasing customer retention within its ecosystem."
-      ],
-      "insight": "The introduction of 'switching tools' marks Google's effort to solidify user loyalty and simplify inter-platform transitions. It could potentially disrupt the market by making other AI services less appealing for their lack of similar integration capabilities."
-    },
-    {
-      "title": "Wikipedia cracks down on the use of AI in article writing",
-      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 26 Mar 2026 21:50:10 +0000",
-      "description": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-      "language": "en",
-      "summary": "Wikipedia is cracking down on the use of artificial intelligence for article creation as it grapples with maintaining quality and authenticity.",
-      "points": [
-        "Wikipedia has had issues ensuring accuracy due to AI-generated content",
-        "The site' endorses human writing, considering its potential impacts on information credibility",
-        "Policies against using AI for article creation could be subject to change"
-      ],
-      "insight": "This development emphasizes the importance of authenticity and quality in content generation within the IT/technology industry. It may influence other platforms that rely heavily on user-generated content."
-    },
-    {
-      "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
-      "link": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 26 Mar 2026 20:42:50 +0000",
-      "description": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations.",
-      "language": "en",
-      "summary": "Mastodon's latest update aims to make its decentralized social network more accessible for non-technical individuals and corporate entities.",
-      "points": [
-        "Mastodon is revamping user profiles",
-        "Designed to appeal to mainstream users",
-        "Organizations also targeted"
-      ],
-      "insight": "This update signifies a growing trend for decentralized social networks within the industry, emphasizing ease of use and broader adoption."
-    },
-    {
-      "title": "Netflix confirms it’s raising prices again",
-      "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 26 Mar 2026 20:39:17 +0000",
-      "description": "The standard plan without ads now costs $19.99 per month, a $2 increase from the previous $17.99 subscription fee, while the premium plan is also going up by $2 and will now cost $26.99 per month.",
-      "language": "en",
-      "summary": "The standard plan without ads now costs $19. 99 per month, a $2 increase from the previous $17...",
-      "points": [
-        "The standard plan without ads now costs $19",
-        "99 per month, a $2 increase from the previous $17",
-        "99 subscription fee, while the premium plan is also going up by $2 and will now cost $26"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
