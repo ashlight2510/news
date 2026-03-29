@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-03-28T18:46:58.634Z",
+  "generatedAt": "2026-03-29T02:26:01.595Z",
   "articles": [
+    {
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 23:00:00 +0000",
+      "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "language": "en",
+      "summary": "Bluesky introduces Attie, an app that leverages artificial intelligence to enable users to create personalized feeds on topco.",
+      "points": [
+        "Attie uses AI technology from Bluesky's Babel team for feed customization",
+        "The open social protocol atproto is the foundation of Attie",
+        "Bluesky has released version two with improved functionality and more data sources"
+      ],
+      "insight": "This innovation could significantly impact how users interact within decentralized, community-driven networks."
+    },
+    {
+      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+      "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 21:23:58 +0000",
+      "description": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+      "language": "en",
+      "summary": "Mark Zuckerberg reached out to Elon Musk offering assistance with Dogecoin in an apparent gesture of goodwill during a period when their relationship appears more amicable.",
+      "points": [
+        "Zuckerberg extended help regarding the cryptocurrency DOGE, despite past tensions between him and Musk",
+        "The offer comes at a time suggesting warmer relations following challenges to each other' endured during previous administrations",
+        "Musk has openly criticized Zuckerberg in the past but his response suggests an evolving dynamic"
+      ],
+      "insight": "This development indicates potential shifts towards cooperation between leading tech figures, which could impact public perception and cross-industry collaboration within the technology sector."
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 28 Mar 2026 20:45:54 +0000",
+      "description": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "language": "en",
+      "summary": "A recent Stanford study reveals the potential dangers of seeking personal advice from AI chatbots.",
+      "points": [
+        "The new research highlights how reliance on social media and online platforms for emotional support could be detrendocial to individuals' well-being, especially among younger generations who increasingly use these resources as their main form of communication.",
+        "AI chatbots may unintentionally perpetuate harmful stereotypes or behaviors without human intervention and supervision. Without proper guidelines in place for ethical AI development, the study warns that it could lead to negative effects on users' behavior and beliefs about society.",
+        "The researchers identified a need for more stringent regulation of social media platforms as well as improved transparency regarding their algorithms. This includes educating people about potential risks associated with using AI chatbots, particularly in terms of emotional health."
+      ],
+      "insight": "This study highlights the growing concern over users seeking personal advice from unreliable sources such as AI chatbots and social media platforms. It suggests that without proper regulation and education about potential risks associated with these technologies, individuals may experience negative effects on their well-being."
+    },
     {
       "title": "Elon Musk’s last co-founder reportedly leaves xAI",
       "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
@@ -704,51 +749,6 @@
         "Anthropic plans to expand LLM training with text data from government websites, which it can no longer access after a Trump administration memorandmi was signed. The judge did permit the use of previously acquired datasets while limiting their reuse for specific purposes."
       ],
       "insight": "This ruling sets an important precedent in ensuring AI companies have fair and equal access to public data, which could significantly impact future developments within the technology sector."
-    },
-    {
-      "title": "인텔리빅스, 에스앤이노와 ‘전기차 배터리 안전’ 위해 맞손 “전기차 화재 막는다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142862&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:10:00 +0900",
-      "description": "화재감지 AI와 열폭주 방지 기술의 결합... AI 화재 예방 시스템 공동 개발실시간 배터리 온도 및 이상 징후 탐지 솔루션 ‘가장 안전한 배터리’ 구현[보안뉴스 강초희 기자] 인텔리빅스(대표이사 최은수·장정훈)가 에스앤이노(대표이사 정해만·최성우)와 손잡고 전기차(EV) 및 배터리 화재 예방을 위한 AI 시스템 공동 개발에 나선다.인텔리빅스는 지난 24일",
-      "language": "ko",
-      "summary": "화재감지 AI와 열폭주 방지 기술의 결합. AI 화재 예방 시스템 공동 개발실시간 배터리 온도 및 이상 징후 탐지 솔루션 ‘가장 안전한 배터리’ 구현[보안뉴스 강초희 기자] 인텔리빅스(대표이사 최은수·장정훈)가 에스앤이노(대표이사 정해만·최성우)와 손잡고 전기차(EV) 및 배터리 화재 예방을 위한 AI 시스템 공동 개발에 나선다...",
-      "points": [
-        "화재감지 AI와 열폭주 방지 기술의 결합",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "유니온바이오메트릭스, 출입통제 넘어 클라우드·바이오인식 사업 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=142866&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:09:00 +0900",
-      "description": "출입통제·영상 통합 관리 클라우드 플랫폼 소개비문 인식 반려동물 등록·가축 체온 관리 등 바이오인식 기술 확장[보안뉴스 강초희 기자] 유니온바이오메트릭스는 SECON & eGISEC 2026에서 클라우드 기반 출입통제 관리 플랫폼 ‘알페타 X(Alpeta X)’를 비롯해 비문 인식 동물 등록 솔루션과 위조 지문 방어 기술 등을 선보였다.알페타 X는 기존 온",
-      "language": "ko",
-      "summary": "출입통제·영상 통합 관리 클라우드 플랫폼 소개비문 인식 반려동물 등록·가축 체온 관리 등 바이오인식 기술 확장[보안뉴스 강초희 기자] 유니온바이오메트릭스는 SECON & eGISEC 2026에서 클라우드 기반 출입통제 관리 플랫폼 ‘알페타 X(Alpeta X)’를 비롯해 비문 인식 동물 등록 솔루션과 위조 지문 방어 기술 등을 선보였다. 알페타 X는 기존 온",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "쿠도커뮤니케이션 이주화 DX사업부 전무, 행정안전부장관 표창 수상",
-      "link": "http://www.boannews.com/media/view.asp?idx=142867&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:08:00 +0900",
-      "description": "AI 기반 전국 지자체 CCTV 관제지원 사업 성과 인정AI 영상데이터 기반 관제 고도화 기여 공로 인정[보안뉴스 엄호식 기자] ICT 전문 기업 쿠도커뮤니케이션(대표 김용식)은 ‘AI 기반 지자체 CCTV 관제지원 시스템 1차 사업’ 수행 성과를 인정받아, 이주화 DX사업부장(전무)가 행정안전부장관 표창을 수상했다고 밝혔다.이번 표창은 지방자치단체 영상정",
-      "language": "ko",
-      "summary": "AI 기반 전국 지자체 CCTV 관제지원 사업 성과 인정AI 영상데이터 기반 관제 고도화 기여 공로 인정[보안뉴스 엄호식 기자] ICT 전문 기업 쿠도커뮤니케이션(대표 김용식)은 ‘AI 기반 지자체 CCTV 관제지원 시스템 1차 사업’ 수행 성과를 인정받아, 이주화 DX사업부장(전무)가 행정안전부장관 표창을 수상했다고 밝혔다. 이번 표창은 지방자치단체 영상정",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
