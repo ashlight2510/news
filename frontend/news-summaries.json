@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-03-29T12:58:03.087Z",
+  "generatedAt": "2026-03-29T18:42:50.842Z",
   "articles": [
+    {
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 29 Mar 2026 16:30:00 +0000",
+      "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+      "language": "en",
+      "summary": "The article discusses the impending shutdown of Sora, an AI platform specializing in generating high-quality videos from text prompts and images. The CEO hints at a pivot towards creating 'real' content using human creatives instead.",
+      "points": [
+        "Sora is closing its operations after nearly six years due to unsustainable business conditions, leading the industry with advancements in AI video generation technology like GPT-4 and ChatGPT."
+      ],
+      "insight": "The closure of Sora could signify a pivotal moment for artificial intelligence creators who rely heavily on user inputs to generate content. It suggests that future models may lean more towards human collaboration, raising questions about the role AI will play in video production and copyright issues."
+    },
+    {
+      "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+      "link": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 29 Mar 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "Roboaxis is a self-driving taxi service that faced challenges when one of its vehicles needed to call emergency services in California.",
+      "points": [
+        "A robotaxi from Roboaxis called 911 after encountering issues, leading to discussions on safety protocols for autonomous vehicles.",
+        "The incident occurred despite extensive testing and regulatory approval as part of the pilot program by Alphabet-owned Waymo in California.",
+        "Experts weigh in suggesting that while rare emergencies may occur with self-driving cars, they do not significantly impact overall safety metrics."
+      ],
+      "insight": "The Roboaxis incident highlights the need for clear protocols and regulatory frameworks to ensure public trust and safety as autonomous vehicle technology advances within the IT/technology industry."
+    },
+    {
+      "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
+      "link": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 29 Mar 2026 14:01:00 +0000",
+      "description": "SXSW made some changes this year, but some founders loved it all the same.",
+      "language": "en",
+      "summary": "SXSW made some changes this year, but some founders loved it all the same",
+      "points": [
+        "SXSW made some changes this year, but some founders loved it all the same",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "[단독] “설치형 보안 SW 다 빼!”... 정부 지시에 여의도 금융권 ‘패닉’",
       "link": "http://www.boannews.com/media/view.asp?idx=142897&kind=&sub_kind=",
@@ -705,51 +748,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "TVT, 텍스트 영상검색부터 열화상 카메라까지 영상보안 라인업 선보여",
-      "link": "http://www.boannews.com/media/view.asp?idx=142868&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:31:00 +0900",
-      "description": "AI 영상검색과 야간 컬러 영상 촬영 카메라 중심 영상보안 기술 소개태양광 카메라, 듀얼 카메라, 열화상 카메라 등 다양한 제품 전시[보안뉴스 강초희 기자] TVT는 SECON & eGISEC 2026에서 AI 영상검색 기능과 야간 컬러 카메라, 열화상 카메라 등 다양한 영상보안 카메라 라인업을 선보였다.이번 전시에서 TVT는 텍스트 기반 영상 검색 기능을",
-      "language": "ko",
-      "summary": "TVT는 AI를 환경에서 사용한 영상검색 기능과 다양한 카메라로 시스템화된 영상보안 선보이로웠다.",
-      "points": [
-        "- TVT는 AI 기반 영상검색, SECON, eGISEC에서 제시한 영상보안 라인열",
-        "- 텍스트 검색과 야간 컬러 영상 카메라를 중심으로 제공한다.",
-        "- TVT은 화면보안에 대한 기술이지만 아직 기술의 세부사항을 모두 소개하지 않았다."
-      ],
-      "insight": "이러한 TVT의 선보여를 위해 AI가 영상처리 역시 중요하다. 게산적인 영상보안 제품 시스템을 개발하려면, 이러한 TVT의 기초가 구축되어야만 한다."
-    },
-    {
-      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 27 Mar 2026 01:26:40 +0000",
-      "description": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
-      "language": "en",
-      "summary": "David Sacks has stepped down as AI czar and is moving on to a new role focusing more directly on education technology.",
-      "points": [
-        "David Sacks transitions from his position at the White House Office of Science and Technology Policy, where he focused largely on artificial intelligence policy without significant industry input or expertise integration. Critics suggest this approach lacked practical experience in deploying AI for businesses.",
-        "Sacks' new role will lead a global investment firm that prioritizes funding startups with strong technology foundations and clear societal benefits, indicating his commitment to fostering innovation through entrepreneurship rather than governmental policy alone. The company is set up as an extension of the Chan Zuckerberg Initiative's mission.",
-        "The news signifies a broader trend where industry leaders are increasingly being entrusted with significant roles in shaping technology policies and directions, potentially leading to more informed decision-making processes that better reflect practical needs."
-      ],
-      "insight": "David Sacks’ shift from AI policy expert to an investor role suggests a growing appreciation for industry insights within governmental structures concerning technological advancements. This transition could result in policies and initiatives more closely aligned with real-world applications of technology."
-    },
-    {
-      "title": "MS, 대한민국을 ‘글로벌 AI 허브’로... 실험 단계 넘어 ‘프론티어 전환’ 본격 가동",
-      "link": "http://www.boannews.com/media/view.asp?idx=142870&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:23:00 +0900",
-      "description": "코엑스서 AI 투어 서울 개최, 국내 기업 ‘프론티어 전환’ 가속화 전방위 지원 약속코파일럿 유료 이용자 160%, 활성 사용자 10배 증가세, M365 웨이브 등 최신 업데이트도 소개KT 등 혁신 사례 발표, 실험 단계 넘어 비즈니스 가치 창출 ‘프론티어 성공 프레임워크’ 제시한국 개발자 커뮤니티 272만명 돌파, 지난해 공공·민간 협력 통해 약 200만",
-      "language": "ko",
-      "summary": "서울에서 '프론티어 전환' 이기순 약손질이 없는 국내 기술 기업들이 최신 AI 기술에 대한 디자인과 발표, 그리고 잘못된 정보와 Microsoft Cloud 서비스를 가지고 통합환산",
-      "points": [
-        "국내 기술 기업들이 '프론티어 전환' 이기순 시도하여 모바일 지원, 마이크처 사용자를 160% 선정, 활성 사용자가 10배 증가",
-        "서울 개최에서 약관을 연방 국가설명자 세론에서 전부터 서랍한국 개발자가 많이 나오고 있는 '프론티어 전환' 이기순 기술을 공유",
-        "272만명의 개인들과 공공 회의를 통해 국민적인 작동에 직접 노용"
-      ],
-      "insight": "이러한 기술 이기순 시도는 모바일 지원과 감소세요를 통해 국내 기술 광장성을 인crease, '프론티어 전환' 이기순이 국민적으로 일하고 있는 지저균한한국인의 경험적 발평을 가짐"
     }
   ]
 }
