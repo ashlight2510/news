@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-03-30T13:38:45.838Z",
+  "generatedAt": "2026-03-30T19:05:14.167Z",
   "articles": [
+    {
+      "title": "What we’re looking for in Startup Battlefield 2026 and how to put your best application forward",
+      "link": "https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 18:57:51 +0000",
+      "description": "Here's what we're looking for in your Startup Battlefield 200 application and how to make sure your application reflects it.",
+      "language": "en",
+      "summary": "The article outlines the expectations for participating startups in a competition held on October 31st, known as Startup Battlefield (SB). It provides advice on how to effectively present and demonstrate their projects.",
+      "points": [
+        "Startups are advised not to rush into creating prototypes but instead focus more on refining the presentation aspect of their project. The use of PowerPoint slides is recommended for effective communication with judges, especially in terms of clear visual representation and storytelling.",
+        "The article emphasizes that startups should take time before entering a pitch battle to thoroughly understand who they are competing against as this will help them create an impactful presentation. It suggests asking questions during the competition like 'Who is your biggest threat?', which can provide valuable insights about other participants’ strengths and weaknesses.",
+        "The article advises startups not only on building a prototype but also focusing more on effectively demonstrating their product's features within limited time. It provides tips for designing an engaging pitch deck that communicates the startup's vision, goals, target audience, market size and competition in concise manner."
+      ],
+      "insight": "This article underscores the importance of effective communication skills when presenting tech projects to investors or judges. It highlights how startups can gain a competitive edge by refining their presentation strategy rather than solely focusing on prototype development, emphasizing that strong storytelling and visual representation are key elements for success."
+    },
+    {
+      "title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
+      "link": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 18:26:07 +0000",
+      "description": "Shortly after Delve's founder published a lengthy denial of allegations, while promising changes, the accuser came forward with more alleged details.",
+      "language": "en",
+      "summary": "A whistleblower has accused technology company Delve's founder, Andy McNicol, of 'fake compliance,' leading to the second accusation against him in recent months.",
+      "points": [
+        "Delve's CEO and co-founder, Andy McNicol, faces allegations from a whistleblower regarding falsifying company records related to health privacy regulations (HIPAA).",
+        "The accusation comes after an initial denial by the founder in which he promised changes amidst prior criticisms over compliance with HIPAA and GDPR.",
+        "There are concerns that these allegations, if true, could significantly damage Delve's credibility as a secure health record management platform."
+      ],
+      "insight": "These ongoing accusations highlight the importance of transparency and stringent compliance with privacy regulations for tech companies handling sensitive data in the IT industry. They also underscore potential risks to user trust when such standards are questioned or not met."
+    },
+    {
+      "title": "Meta starts testing a premium subscription on Instagram",
+      "link": "https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 18:10:31 +0000",
+      "description": "Among the premium features on Instagram is the ability to view a Story without the poster seeing that you viewed it and the option to see how many people have rewatched your Story.",
+      "language": "en",
+      "summary": "Meta Platforms Inc., which owns Facebook, Instagram, and WhatsApp is testing a new premium subscription on its social media app, Instagram.",
+      "points": [
+        "Testing of Meta's potential first-party digital ad platform",
+        "Premium subscribers will have access to advanced features like seeing rewatched Stories without the poster knowing",
+        "Aims to attract more businesses and creators with subscription tiers, which include a $10 monthly fee"
+      ],
+      "insight": "The testing of Instagram'club could signify Meta Platforms Inc.'s strategy towards monetizing its social media platform by offering advanced features as premium services."
+    },
+    {
+      "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance",
+      "link": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 18:03:59 +0000",
+      "description": "More than 125,000 Bluesky users have blocked Attie in just a few days, sending a strong message from the user base.",
+      "language": "en",
+      "summary": "In recent times, Bluesky's AI tool named Attie has rapidly gained attention by becoming one of the most blocked accounts on social platforms within days. This indicates a significant reaction from its user base.",
+      "points": [
+        "Bluesky users have collectively decided to block an overwhinflux (specifically more than 125,000) Attie accounts in just several days",
+        "This decision by the Bluesky community signifies a substantial disapproval of AI tools that may disrupt user experience or platform norms.",
+        "Attie's rise to being one of the most blocked entities suggests potential implications for future deployment and regulation within social platforms."
+      ],
+      "insight": "The swift blocking of Bluesky's Attie tool reveals underlying tensions between AI-driven initiatives and user preferences on how these technologies are integrated into community spaces. This event may serve as a bellwether for other tech companies considering the adoption or expansion of similar tools."
+    },
+    {
+      "title": "Apple will hide your email address from apps and websites, but not cops",
+      "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 15:34:41 +0000",
+      "description": "Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email.",
+      "language": "en",
+      "summary": "Apple plans to hide users' email addresses from third-party apps and websites but retains access for law enforcement purposes.",
+      "points": [
+        "Apple will implement a change in technology that prevents customer emails, iCloud usernames, or phone numbers from being easily shared with other applications."
+      ],
+      "insight": "The development highlights the ongoing tension between user privacy and law enforcement needs within the tech industry. It also underscries Apple's role as a key player influencing broader discussions about data protection policies in technology companies."
+    },
+    {
+      "title": "Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering",
+      "link": "https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 14:46:41 +0000",
+      "description": "It's a notable exit for Blacklane, which has raised more than $100 million from backers like Mercedes-Benz and Sixt.",
+      "language": "en",
+      "summary": "Uber is acquiring Berlin startup Blacklcane to enhance its 'Elite' service for premium customers.",
+      "points": [
+        "Blacklane has raised over $1 extraneous funding from notable entities like Mercedes-Benz and Sixt.",
+        "The acquisition by Uber is part of a strategic move towards catering to the high-end market with Blacklcane'ths 'Elite' service offerings including luxury vehicles, private jet options, and in-app concierge services for chauffeurs.",
+        "This deal signals an expansion effort by Uber into sectors traditionally reserved for exclusive services."
+      ],
+      "insight": "Uber is strategically positioning itself within the premium segment of transportation which has historically been dominated by luxury taxis and private car ownership. This move could lead to increased competition in elite mobility services, potentially raising standards across all levels due to Uber's innovative practices."
+    },
+    {
+      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+      "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 14:30:00 +0000",
+      "description": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+      "language": "en",
+      "summary": "Mantis Biotech creates digital twins by integrating various data sources to simulate aspects of human biology such as anatomy, physiology, and behavior.",
+      "points": [
+        "Digital twins are synthetic datasets representing the human body's attributes.",
+        "The goal is addressing medicine’s scarcity in usable health-related data.",
+        "Mantis Biotech employs AI to combine different types of medical and behavioral information."
+      ],
+      "insight": "This technology could revolutionize personalized medicine by providing a consistent, comprehensive source of patient data that can be used for more accurate diagnoses and treatments. It has the potential to overcome one of healthcare's biggest challenges: insufficient quality or quantity of relevant medical information."
+    },
+    {
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 30 Mar 2026 13:52:02 +0000",
+      "description": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+      "language": "en",
+      "summary": "Rising demands for artificial intelligence applications are causing concerns over insufficient graphics processing units (GPUs) and high operational expenses within the cloud computing industry.",
+      "points": [
+        "ScaleOps, a startup founded by ex-Intel engineers Mike Kussentis and Jesse Meschuk, has raised $130 million to address these issues through their automation platform designed for real-time infrastructure optimization.",
+        "AI workloads currently require massive GPU resources which are not just expensive but also in short supply due to the increasing popularity of AI applications. This is causing significant cost implications and operational strains, particularly within cloud computing environments where these issues often compound existing challenges related to scalability and resource allocation.",
+        "ScaleOps' platform aims to alleviate some pressure by optimizing infrastructure in real-time for AI workloads using its automated machine learning tools. This approach is intended not only to improve the efficiency of computing resources but also potentially reduce costs, particularly if GPUs become more abundant."
+      ],
+      "insight": "The demand for artificial intelligence applications and their reliance on expensive computational resources like GPUs presents significant challenges that could impact cloud services' sustainability. Startups such as ScaleOps are working to mitigate these concerns through innovative solutions, which may lead to a more efficient use of computing power in the industry."
+    },
     {
       "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
       "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
@@ -628,126 +746,6 @@
         "iPads are praised as portable tools that can foster learning and creativity in various fields including art, music, writing, dance, theatre"
       ],
       "insight": "The emphasis on free or low-cost apps demonstrates the accessibility of technology to inspire creativity across different disciplines. It suggests a growing trend for users to seek out these tools as substitutes for traditional learning and artistic mediums."
-    },
-    {
-      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Mar 2026 14:15:00 +0000",
-      "description": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-      "language": "en",
-      "summary": "Anthropic’s AI-powered text generator, Claude, has seen a surge in popularity among paying consumers with subscription numbers more than doubling this year.",
-      "points": [
-        "Claude is an artificial intelligence program that creates human-like writing and speech outputs based on provided prompts or questions."
-      ],
-      "insight": {
-        "content": "The growth in Claude's user base suggests a trend towards valuing AI services for personalized content creation, potentially indicating future investment opportunities within the sector.",
-        "sentence_1": "Anthropic’s text generator, Claude, is experiencing rapid adoption among consumers."
-      }
-    },
-    {
-      "title": "What will power the grid in 2035? The race is wide open",
-      "link": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Mar 2026 13:05:00 +0000",
-      "description": "Fusion, fission, and even natural gas are appeared tied in the race to deliver new power to the grid in the early 2030s.",
-      "language": "en",
-      "summary": "The article discusses various sources of energy that could potentially dominate electricity generation by 2term for next year: fusion and fission reactors alongside natural gas.",
-      "points": [
-        "Fusion is a potential clean power source with the advantageous trait of producing less waste compared to traditional nuclear reactions like fission, but its practical application remains challenging due to technological hurdles such as achieving sustained energy output and handling heat generation.",
-        "Nuclear fission reactors are currently in use worldwide providing a significant portion of the electricity supply; however, their efficiency has been declining over time. Improvements like advanced reactor designs might be necessary for them to compete with alternative power sources by 2035.",
-        "Increased interest and investment into fusion energy suggest that breakthroughs could disrupt the current nuclear fission-dominated landscape, while natural gas remains a significant source due to its flexibility in usage."
-      ],
-      "insight": "The competitive race among different power generation technologies like fusion, advanced fission reactors, and natural gas indicates an industry at the brink of transformation. While uncertainties remain about which technology will take the lead by 2035, continuous advancements could redefine energy production."
-    },
-    {
-      "title": "솔라나 블록체인에 숨은 자객... 신종 ‘글래스웜’ 캠페인 기승",
-      "link": "http://www.boannews.com/media/view.asp?idx=142898&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 28 Mar 2026 22:01:00 +0900",
-      "description": "블록체인과 클라우드 서비스를 빈틈없이 악용한 독보적인 우회 수법 보여줘[보안뉴스 김형근 기자] 솔라나 블록체인을 데드 드롭(Dead Drop) 해결사로 악용해 명령을 전달하는 신종 글래스웜 캠페인이 포착됐다. 벨기에 안트베르펜에 본사를 둔 글로벌 보안 스타트업 아이키도(Aikido) 연구팀에 따르면, 공격자들은 npm, PyPI 등 오픈소스 저장소에 악성",
-      "language": "ko",
-      "summary": "신종 글래스웜 캠페인이 npm, PyPI 등의 오픈소스 저장소로 공격자들의 명령을 전달하는 방식으로 악용해 명령을 보내고있습니다.",
-      "points": [
-        "신종 글래스 캠페인이 npm, PyPI 등의 오픈소스 저장소로 공격자들의 명령을 전달",
-        "공격자는 다음과 같은 방식으로 명령을 보내줍니다: '아이템', '작업 명령'을 전달",
-        "기억이 오염하면 공격자는 반대로 악용해를 보내며 이러한 방식으로 일부 공격자들은 명령을 다시 전송"
-      ],
-      "insight": "이러한 글래스 캠페인이 npm, PyPI 등의 오픈소스 저장소에서 공격자들을 위해 공격 수정 방식을 구현한 상태로 보호해야 할 수 0에 있습니다."
-    },
-    {
-      "title": "Let’s take a look at the retro tech making a comeback",
-      "link": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Mar 2026 13:00:00 +0000",
-      "description": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available.",
-      "language": "en",
-      "summary": "The article discusses various vintage technology items such as boomboxes, instant cameras, and landlines that are experiencing a resurgence in popularity.",
-      "points": [
-        "Boomboxes have become more sophisticated while maintaining their retro appeal.",
-        "Instant cameras offer unique photo quality distinct from digital devices with an antique charm.",
-        "The demand for landlines is growing, albeit slowly due to the prevalence of cell phones."
-      ],
-      "insight": "These re-emerging retro technologies indicate a cultural nostalgia and preference among consumers that challenge modern digital norms in specific contexts like music listening or personalized photography experiences. They also suggest an alternative approach to connectivity, highlighting the importance of tangible interactions over pure convenience."
-    },
-    {
-      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
-      "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Mar 2026 12:00:00 +0000",
-      "description": "We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch.",
-      "language": "en",
-      "summary": "During Y Combinator's Demo Day, investors showed interest in a variety of tech-focused and non-tech startups ranging from lunar tourism to sustainable agriculture.",
-      "points": [
-        "Investors at the recent batch demo day are drawn towards diverse ventures including Moon hotels by Bigelow Aerospace, herd monitoring through Cattle Hero's technology in Australia and Uganda.",
-        "Tech startups like Lunar Cow for Wagyu beef cultivation on moon bases received attention from investors looking to explore unconventional business models within the IT/technology space."
-      ],
-      "insight": "This diversity in startup interests highlights a growing willingness among technology investors to fund ventures outside traditional tech sectors, potentially leading to innovative applications of existing technologies and novel business ideas that could expand into new markets or industries through the use of IT solutions."
-    },
-    {
-      "title": "[Global Security TOP 100] 배민호 비엔에스테크 대표, “‘신뢰·정직·신속’ 바탕으로 기술 혁신 매진”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142882&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 28 Mar 2026 13:32:00 +0900",
-      "description": "책임 PM제도 통해 설계부터 시공, 유지보수까지 전 과정 책임지는 토탈 솔루션 제공2026년, 재난안전 플랫폼(LDMS)에 전사 역량 집중[보안뉴스 엄호식 기자] 2010년 설립한 비엔에스테크는 공공조달 및 재난 안전 SI 분야에서 입지를 다져온 재난 안전 솔루션 전문 기업으로 ‘책임 PM제도’를 통해 설계부터 시공, 유지보수까지 전 과정을 책임지는 ‘토탈",
-      "language": "ko",
-      "summary": "PM제도 조직이 2026년에서 시공, 유지보수를 통한 IT/기술 혁신 솔루션을 제공",
-      "points": [
-        "PM제도 조직이 설계부터 시공, 유지보수를 다수의 기술 혁신 솔루션을 통해 공공조달으로서 재난안전 관리에 중요한 역할을 하고",
-        "제이나인과 대학교, 기술 혁신 집중으로서 재난안전 전문 기업로 자리잡은 비엔에스테크를 시작",
-        "다음 5년간 2026년에서 시공, 유지보수를 위한 전용 솔루션을 제공하여 재난안전 활동을 확보할 계획"
-      ],
-      "insight": "PM제도의 이러한 IT/기술 혁신 솔루션 제공은 국가의 재난안전 시스턴십에 대한 확보입니다. 이러한 책임은 IT/기술 산업에서의 역사적 황룡성과 재구성시간을 강조로써 '신뢰·정직·신속'를 의미합니다."
-    },
-    {
-      "title": "2026년 4월 물리&정보 보안 기업들의 분야별 인재 채용 동향 정리",
-      "link": "http://www.boannews.com/media/view.asp?idx=142889&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 28 Mar 2026 13:30:00 +0900",
-      "description": "세일즈 엔지니어·인사총무·해외영업·기술지원·솔루션 응용개발경리 및 재무담당·솔루션 영업·국내영업·웹 솔루션 개발 등[보안뉴스 엄호식 기자] 나뭇잎의 푸르름이 짙어지고 향긋한 꽃향기가 바람에 실려 흩날리는 4월이 다가왔다. 보안 업계는 3월 18일부터 20일까지 진행된 ‘세계 보안 엑스포 & 전자정부 정보보호 솔루션 페어’(SECON & eGISEC) 202",
-      "language": "ko",
-      "summary": "세일즈 엔지니어·인사총무·해외영업·기술지원·솔루션 응용개발경리 및 재무담당·솔루션 영업·국내영업·웹 솔루션 개발 등[보안뉴스 엄호식 기자] 나뭇잎의 푸르름이 짙어지고 향긋한 꽃향기가 바람에 실려 흩날리는 4월이 다가왔다. 보안 업계는 3월 18일부터 20일까지 진행된 ‘세계 보안 엑스포 & 전자정부 정보보호 솔루션 페어’(SECON & eGISEC) 202",
-      "points": [
-        "세일즈 엔지니어·인사총무·해외영업·기술지원·솔루션 응용개발경리 및 재무담당·솔루션 영업·국내영업·웹 솔루션 개발 등[보안뉴스 엄호식 기자] 나뭇잎의 푸르름이 짙어지고 향긋한 꽃향기...",
-        "보안 업계는 3월 18일부터 20일까지 진행된 ‘세계 보안 엑스포 & 전자정부 정보보호 솔루션 페어’(SECON & eGISEC) 202",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Whoop has LeBron – now it wants your mom",
-      "link": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Mar 2026 02:31:10 +0000",
-      "description": "Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into something that could one day save your life.",
-      "language": "en",
-      "summary": "Will Ahmed's Whoop wearable has been popular among athletes but is now seeking wider acceptance in consumer health by targeting non-athletes and getting FDA approval for life-saving medical uses.",
-      "points": [
-        "- Will Ahmed, founder of the athlete-focused whoopee belt wearable technology (Whoop), has built a device that monitors sleep quality. For over 14 years he’s refined this personal health monitoring tool to give elite athletes and professional teams an edge in performance analytics.",
-        "- Recently, Whoop announced its first product designed for general consumers aimed at encouraging daily self-reflection on rest habits through a friendly user interface. It also plans FDA clearance by the end of 2decade to expand usage beyond personal health tracking into life-saving medical applications.",
-        "- Ahmed believes that making Whoop more accessible will not only improve public understanding and appreciation for sleep quality but potentially lead consumers towards a lifestyle transformation where prioritizing rest becomes second nature."
-      ],
-      "insight": "The expansion of whoopee wearables from the elite athlete market to general consumer use could signify an increasing recognition within technology industries and broader society about sleep's impact on health, with potential for life-enhancing medical applications through FDA approval."
     }
   ]
 }
