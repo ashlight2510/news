@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-03-29T18:42:50.842Z",
+  "generatedAt": "2026-03-30T02:34:36.304Z",
   "articles": [
+    {
+      "title": "美 CISA, 연방 기관에 F5 BIG-IP 긴급 패치·사용 중단 명령... KEV 목록 추가",
+      "link": "http://www.boannews.com/media/view.asp?idx=142901&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 30 Mar 2026 10:52:00 +0900",
+      "description": "애초 DoS 결함에서 CVSS 9.8 최고 등급으로 격상패치 불가능하면 즉시 사용 중단 초강수... 국가 주요 기반 시설 위협[보안뉴스 김형근 기자] 미국 사이버보안 및 인프라 보안국(CISA)은 세계 네트워크 인프라의 핵심을 차지하는 F5 BIG-IP 시스템에서 발견된 신종 취약점을 알려진 악용 취약점(KEV) 목록에 추가하고, 연방 기관을 대상으로 강력",
+      "language": "ko",
+      "summary": "미국 CISA는 F5 BIG-IP 시스템에서 악용적인 신종 KEV 목록을 추가하여 보안저청도구에서 근합패치를 차지하는 최종적인 방어절으로 전향화질수록 강조함.",
+      "points": [
+        "미국 CISA는 세계 네트워크 인프라 중 핵심 시스템 F5 BIG-IP에서 광범위적으로 KEV를 공개하여 보안저청도구에서 근합패치를 방어함.",
+        "KEV 목록이 F5 BIG-IP의 있던 창문 사이즈(CS)과 결합되면 최종적으로 CVSS 9.8 최고 등급으로 근합패치 불가능.",
+        "연방 기관을 대상으로, CISA는 이용자와 공동보안을 위한 강요약적인 방어점을 강조."
+      ],
+      "insight": "CISA의 현재 보안절차는, F5 BIG-IP에서 발침돼지를 피하고, 국가보안과 IT계정을 강조하는 전향적인 방안을 제시하고 있다."
+    },
+    {
+      "title": "큐냅 코리아, ‘QNAP Insight 2026’ 통해 시장 공략 청사진 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142903&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 30 Mar 2026 10:42:00 +0900",
+      "description": "파트너사와 데이터 보호·백업·클라우드 전략 공유알렉스 서 지사장, 한국 시장 밀착 지원 확대할 것[보안뉴스 엄호식 기자] 컴퓨팅·스토리지·네트워크 솔루션 전문 기업 큐냅 코리아(지사장 알렉스 서)가 지난 3월 25일 서울 여의도 FKI타워 컨퍼런스 센터에서 파트너사를 대상으로 ‘QNAP Insight 2026’를 개최하고, 2026년 한국 시장 공략을 위한",
+      "language": "ko",
+      "summary": "2026년 한국 시장 공략에 대한 QNAP 연구로서 'QNAP Insight 2026' 제출",
+      "points": [
+        "큐냅 코리아는 2026년 한국 시장 공략에 대해 관련 연구를 시작",
+        "제출이 받은 'QNAP Insight 2026'는 보안, 백업, 클라우드 전략에 관한 기술적 확산",
+        "한국 시장에서 공랑식이 진짜로 유명하고 성공적인 일을 발전"
+      ],
+      "insight": "이러한 연구는 현재 확산과 성공적인 기술의 전문화가 한국에서 확장할 수 있는지에 대한 보조침을 제시하며, 전세규모의 서비스체제를 통해 공랑식이나 맥분기점을 알아내는 도구로 보조침을 지니줬다."
+    },
+    {
+      "title": "유니뷰, ‘2026 신제품 설명회’ 성료",
+      "link": "http://www.boannews.com/media/view.asp?idx=142900&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 30 Mar 2026 09:54:00 +0900",
+      "description": "AI 대형 모델 기반 기술과 지능형 검색 기능 및 야간 영상 품질 개선 신제품 라인업 소개제품 설명과 함께 장비 실제 체험 시간도 마련[보안뉴스 엄호식 기자] 글로벌 AIoT 영상보안 기업 유니뷰가 3월 26일 서울 엠디호텔에서 ‘2026 신제품 설명회’를 개최하고, 차세대 지능형 영상보안 솔루션과 주요 제품을 공개했다. 이날 행사에는 유니뷰 공식 유통 총",
+      "language": "ko",
+      "summary": "서울에서 대한 '2026 신제품 설명회'를 소개합니다. 이날 AI 기술과 지능형 영상보안 코드에 인식을 붙여 있는 고객의 만족도를 독잘하게 삼아집니다.",
+      "points": [
+        "2026년 신제품 설명회에서 소개한 AI 기술과 지늵함으로써 영상보안 제품의 혁신을 나타낸다.",
+        "A/B 테스트에서 이전 시즄으로 얻은 기존 조작방식과 비교한 성공적인 경력을 확인할 수 0있는 3월 26일에 대한 이론적인 기본 정보를 제공합니다.",
+        "유니버킷과 AI 기술의 현재 상태를 소개하는 방식으로, 이론적인 설명을 진행합니다."
+      ],
+      "insight": "2026년 신제품에 대해서 IT/기술 업계가 어떻게 보내는지, AI 기술과 영상보안 시스템의 이해를 살페보려면, '2026 신제품 설명회'에서 소개한 정보가 중요합니다."
+    },
+    {
+      "title": "[인사] 한국후지쯔",
+      "link": "http://www.boannews.com/media/view.asp?idx=142899&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 30 Mar 2026 09:39:00 +0900",
+      "description": "◇임원 승진(2026년 4월 1일자) △임동진 Service&Solution 영업1본부장△김종곤 Service&Solution 영업2본부장[엄호식 기자(eomhs@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
+      "language": "ko",
+      "summary": "2026년 4월에 임동진 Service&Solution 영업1본부장이 승진하여 한국후지커뮤니켓을 통해 무단전재금지와 재배포금지를 명시.",
+      "points": [
+        "- 임동진 Service&Solution이 영업1본부장과 영업2본부장에 직원을 추가합니다.",
+        "- 승진자는 현재 한국후지커뮤니켓에서 일하고 있으며, 이로써 전기적인 경력을 기입합니다.",
+        "- 승진자는 IT/기술 산업에서의 모든 경험을 제공하고, 여성 이해가 독ㅫ어인 기술처리 발전에서의 참여에 대한 소중한 시사임을 나타냅니다."
+      ],
+      "insight": "이러한 승진정보는 IT/기술 산업에서의 여성인 경력에 대한 확연한 시사임을 제공합니다. 그리고 이로써 전기적인 경력을 유도하는 것이 현재 중요한 문제점입니다."
+    },
+    {
+      "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+      "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 29 Mar 2026 21:30:00 +0000",
+      "description": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+      "language": "en",
+      "summary": "Google has released the Pixel 10a with one notable change: it doesn't have a camera bump like most phones do.",
+      "points": [
+        "The Google Pixel 10a features an all-screen design by eliminating the traditional camera bump.",
+        "This phone is designed to lay flat on surfaces, enhancing portability and ease of use for some users.",
+        "Despite its innovative design, it offers similar hardware specifications as previous Pixel models."
+      ],
+      "insight": "The introduction of the Google Pixel 10a without a camera bump could influence other manufacturers to explore all-screen designs for future budget smartphones. While initially lacking significant upgrades, its unique features may draw attention and potentially spark trends in phone design."
+    },
+    {
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 29 Mar 2026 21:17:52 +0000",
+      "description": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+      "language": "en",
+      "summary": "YouTube CEO Neal Mohan expressed confidence in the platform not losing its top content creators to competitors like Netfliyx.",
+      "points": [
+        "Neal Mohan is YouTube's newest Chief Executive Officer, succeeding Susan Wojcicki. He has been a senior executive with Google since joining as an engineer back in '06 and was promoted within the company after serving various roles including Vice President of Product Management.",
+        "Mohan addressed concerns about Netflix possibly snatching YouTube's most popular YouTubers, saying he isn’t worried. He highlighted that today there are 12 billion hours worth of content on YouTube and noted a continuous increase in viewer time spent which suggests high engagement.",
+        "Mohan believes the best creators for video have always found their home on platforms like Google, Facebook, or Twitter rather than moving to streaming services. He mentioned that even if top YouTubers do transition to Netfliyx's shows and movies at some point in time."
+      ],
+      "insight": "Mohan's confidence suggests YouTube is confident about retaining its content creators despite competition, indicating strong brand loyalty or unique value proposition that keeps users engaged on the platform. The fact that top YouTubers might create for Netfliyx in future shows an evolving landscape where direct-to-consumer streaming services are becoming more common."
+    },
+    {
+      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+      "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 29 Mar 2026 19:50:57 +0000",
+      "description": "Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
+      "language": "en",
+      "summary": "The film 'Project Hail Mary' grossed over $50 million worldwide during its opening weekend in the U.S., making it Amazon Studios’ biggest box office hit to date.",
+      "points": [
+        "Amazon invested significantly less than other major studios for a first-time tentpole release, with an estimated budget between $15-$20 million and grossing over half that amount in its opening weekend",
+        "'Project Hail Mary' performed exceptionally well among streaming service releases during the pandemic.",
+        "The film’ endured strong competition from traditional blockbusters like 'Doctor Strange & The Multiverse of Madness', but still managed to secure a solid box office performance."
+      ],
+      "insight": "This success demonstrates that Amazon Studios, with its backing and innovative approach towards investing in films, can compete effectively against traditional studios. It also highlights the potential strengths of streaming service-produced content on their own merits during challenging market conditions."
+    },
     {
       "title": "Sora’s shutdown could be a reality check moment for AI video",
       "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
@@ -640,111 +745,6 @@
       "points": [
         "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "크래프톤이 ‘AI 기반 SecOps’ 자동화에 나선 이유는 “보안 운영 실효성” 때문",
-      "link": "http://www.boannews.com/media/view.asp?idx=142881&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 14:22:00 +0900",
-      "description": "윤한상 크래프톤 보안 엔지니어 “보안 대응 전 과정 자동화로 실효성 높였다”Microsoft Defender XDR+Power Automate+Copilot 등 연계한 AI SecOps 자동화 체계 구축[보안뉴스 원병철 기자] 글로벌 게임 기업 크래프톤이 마이크로소프트 시큐리티 서밋(Microsoft Security Summit)에서 AI 기반 보안 운영(",
-      "language": "ko",
-      "summary": "크래프톤이 Microsoft Defender XDR, Power Automate, Copilot을 통해 AI를 사용한 보안 업체와 자동화한 운영 시, 심각한 보안 위기에서도 딥어로 작동함",
-      "points": [
-        "Microsoft Defender XDR+Power Automate+Copilot은 AI를 사용하여 보안 운영을 자동화한 것이 Microsoft 시크린의 이런 경우에서는 중요한 장점을 가지고 있다.",
-        "보안 완화으로 Power Automate와 Copilot의 조합은 인공신경망이나 자바스크립트를 사용하여 추가적인 솔루지 제공",
-        "전문가의 보호 실습에서는 XDR+Power Automate+Copilot을 이용해서 '보안 전 과정 자동화'를 활성화하여 운영체계약을 높일 수 0있다."
-      ],
-      "insight": "이러한 기술들이 IT/기술 업체에서의 보안 인지와 분석가의 일한 중요성은 곧바로 나타내고, 우리는 이러한 AI를 활용하여 보안에 자신들의 지찍한 논리와 작업을 제공하면서도 '보안 시장'을 인위적으로 좋게 만드는 방법이다."
-    },
-    {
-      "title": "여가부 ‘성범죄자 알림e’ 사칭 주의... 개인정보 훔치고 2차 공격까지",
-      "link": "http://www.boannews.com/media/view.asp?idx=142880&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 14:09:00 +0900",
-      "description": "다단계 공격 구조로 설계된 악성 APK 배포해 스마트폰 완전 장악 시도안전 확보 위한 대국민 알림 서비스의 신뢰도 악용하는 악질적 범죄[보안뉴스 조재호 기자] 여성가족부의 서비스를 사칭해 악성 앱 설치를 유도하고 개인정보를 빼돌리는 피싱 공격이 발견되어 주의가 요구된다.보안 전문기업 누리랩은 여성가족부의 ‘성범죄자 알림e’ 서비스를 사칭해 악성 앱 설치를",
-      "language": "ko",
-      "summary": "여성가족부의 '성범죄자 알림e' 서비스에 대한 사칭으로 인해 전용한 악성 APK 발견 및 개인정보 향기",
-      "points": [
-        "여성가족부의 '성범죄자 알림e' 서비스 사용에 대한 우려",
-        "이러한 서비스를 이용한 내포 공격 전략을 세부치",
-        "개인정보 피싱 방법에 대해서 '성범죄자 알림e' 서비스를 이용한 이용사의 직접적인 경제 영향"
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 개인정보 안전성에 대한 우려, 위기와 공격력의 항상 강조를 제공한다."
-    },
-    {
-      "title": "“선언적 전략으론 나라 못 지킨다”... RSAC 2026 달군 미국 사이버 안보 논쟁",
-      "link": "http://www.boannews.com/media/view.asp?idx=142875&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 13:37:00 +0900",
-      "description": "세계 최대 보안 행사서 백악관 새 사이버 전략의 허술한 실행 방안 질타 美 의회, 정책 목표 달성할 로드맵과 자금 조달 계획 강력히 주문[보안뉴스 김형근 기자] 미국 샌프란시스코에서 열린 세계 최대 사이버 보안 컨퍼런스 ‘RSAC 2026’서 미국 의회 핵심 보좌진들이 백악관의 새로운 사이버 전략에 대해 실효성 있는 대책 마련을 촉구했다. 의회는 이번 전략",
-      "language": "ko",
-      "summary": "미국 의회는 핵심 보안 전략에 대해서는 질타로, 정책이 현재에서 개정되어야 한다.",
-      "points": [
-        "- 미국 의회는 보안권활동에 가장 강력히 주장하고 자금과 현재 보안 방식을 개정시켜야 한다.",
-        "- RSAC 2026에서는 선언적인 전략의 활동을 중단하고, 미국 의회는 현재 보안권활동이 가능한 방식에 대해서만 개정할 수 0ne다.",
-        "- 미국 의회는 일반적으로 보안권을 청구하지 않고, 최근에는 상위 부위를 이용해서 보안권을 확보한다."
-      ],
-      "insight": "미국 의회는 전반적으로 보안권이 있지만, RSAC 2026에서는 전략적인 방식을 강조해내고자 한다."
-    },
-    {
-      "title": "기업 80% “보안 중요” 외치지만... 절반은 예산 확보에 발만 ‘동동’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142873&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 13:34:00 +0900",
-      "description": "전체 기업 54.8%만 정보보호 예산 사용... 주요 지출은 유지·보수 및 CCTV 설치미사용 이유 1위는 “사업 영역과 무관함”... K-기업 안일한 보안 인식 꼬집어[보안뉴스 조재호 기자] 국민과 기업의 80% 이상이 사이버 보안을 중요하게 여기지만, 기업 절반은 여전히 보안 예산 확보에 어려움을 겪고 있으며 침해 사실조차 제대로 파악하지 못하는 ‘탐지",
-      "language": "ko",
-      "summary": "8%만 정보보호 예산 사용. 주요 지출은 유지·보수 및 CCTV 설치미사용 이유 1위는 “사업 영역과 무관함”...",
-      "points": [
-        "주요 지출은 유지·보수 및 CCTV 설치미사용 이유 1위는 “사업 영역과 무관함”",
-        "K-기업 안일한 보안 인식 꼬집어[보안뉴스 조재호 기자] 국민과 기업의 80% 이상이 사이버 보안을 중요하게 여기지만, 기업 절반은 여전히 보안 예산 확보에 어려움을 겪고 있으며 ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "데이터 스페이스, 안전한 데이터 공유·활용의 새 장 열어 AX 시대 혁신 이끈다",
-      "link": "http://www.boannews.com/media/view.asp?idx=142865&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 12:01:00 +0900",
-      "description": "데이터 스페이스 실증을 통해 안전하고 지속가능한 데이터 공유·활용 생태계 조성의료 분야 구축·운영 실증 지원 과제(’26년 56억원), 분야별 3개 지원(’26년 과제당 2.4억원)[보안뉴스 원병철 기자] 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈), 한국지능정보사회진흥원(NIA, 원장 황종성)은 ‘데이터 스페이스(Data Space)’ 실증 사업",
-      "language": "ko",
-      "summary": "기사는 'Data Space' 및 안전한 데이터 공유·활용을 위한 시대의 시작예정에 관련된 IT 업빵 'Ax' 혁신에 대해 다뤄내는.",
-      "points": [
-        "- 'Data Space'와 같은 데이터 공유·활용 시대의 시작예정",
-        "- 'Ax' 시대 전용 업무 지원 과제(2026년 56억원)",
-        "- 세부적인 분야별로 지원을 위한 금액(2026년 과제당 2.4억원)"
-      ],
-      "insight": "이러한 모든 시나리오는 IT 업계의 더욱 더욱 발전으로 기대되어 자세평가됩니다."
-    },
-    {
-      "title": "케이제이테크, ‘지문·얼굴·팜베인 인증 출입통제 시스템’ 주력",
-      "link": "http://www.boannews.com/media/view.asp?idx=142872&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:45:00 +0900",
-      "description": "생체인식 기반 출입통제 및 근태관리 솔루션 전시HR 시스템 연동 API와 단독형·서버형 데이터 저장 방식 지원[보안뉴스 강초희 기자] 케이제이테크는 SECON & eGISEC 2026에서 지문, 얼굴, 손바닥 혈관 인식 기반 출입통제 및 근태관리 솔루션을 선보였다.케이제이테크는 이번 전시에서 지문 인식기와 카드·비밀번호 인증을 결합한 출입통제 장비, 얼굴",
-      "language": "ko",
-      "summary": "기사는 '지문·얼굴·팜벳 인증 시스템'의 제2026에서 소개한 IT/기술 솔루션임",
-      "points": [
-        "케이제이테크는 지문·얼굴·팜벳을 사용하여 IT/기술 시스템의 출입통제를 위해 서비스 API 전시",
-        "시스템은 단독 방식과 API 연동방식을 지원하고 손바닥 혈관 인식 기능이 포함되어 있다.",
-        "이로써 개인정보의 안전 공유와 근대자동 계정 관리를 위해 제시한 IT/기술 솔루션"
-      ],
-      "insight": "이 기사는 정보보안 방법에 대한 현황과 근대자동 자원의 전문화점을 강조하고 있다. IT/기술 창립사는 인증성비 장비와 관련해서 안전하고 효과적인 시스템이다."
-    },
-    {
-      "title": "멈춰 선 사이버 방패... CISA “월급도 못 주는데 누가 남나”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142871&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 27 Mar 2026 10:41:00 +0900",
-      "description": "앤더슨 국장 대행 “단 하루 만에 핵심 침해 사고 대응 요원 6명 사표”예산 묶인 셧다운 여파로 인력 60% 무급 휴직... 국가 인프라 위협 고조[보안뉴스 김형근 기자] 미국 연방정부의 셧다운 사태가 장기화되면서 국가 사이버 안보를 책임지는 핵심 기관인 사이버보안 및 인프라 보안국(CISA)의 방패에 심각한 균열이 발생하고 있다. 무급 휴직과 임금 체불에",
-      "language": "ko",
-      "summary": "앤더슨 국장 대행 “단 하루 만에 핵심 침해 사고 대응 요원 6명 사표”예산 묶인 셧다운 여파로 인력 60% 무급 휴직. 국가 인프라 위협 고조[보안뉴스 김형근 기자] 미국 연방정부의 셧다운 사태가 장기화되면서 국가 사이버 안보를 책임지는 핵심 기관인 사이버보안 및 인프라 보안국(CISA)의 방패에 심각한 균열이 발생하고 있다...",
-      "points": [
-        "앤더슨 국장 대행 “단 하루 만에 핵심 침해 사고 대응 요원 6명 사표”예산 묶인 셧다운 여파로 인력 60% 무급 휴직",
-        "국가 인프라 위협 고조[보안뉴스 김형근 기자] 미국 연방정부의 셧다운 사태가 장기화되면서 국가 사이버 안보를 책임지는 핵심 기관인 사이버보안 및 인프라 보안국(CISA)의 방패에 ...",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
