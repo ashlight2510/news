@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-03-31T02:19:31.291Z",
+  "generatedAt": "2026-03-31T07:27:45.338Z",
   "articles": [
+    {
+      "title": "넷앤드 “하이웨어 for K8S, 정밀한 쿠버네티스 접근제어”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142938&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 15:35:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 넷앤드는 3월 18일부터 20일까지 일산 킨텍스 제 1전시장에서 열린 ‘SECON & eGISEC 2026’에서 통합 접근제어 및 계정관리(IAM) 전문 기업 넷앤드(대표 신호철)가 쿠버네티스 접근제어 솔루션 하이웨어 for K8S(HIWARE for K8S)를 선보였다. 하이웨어 for K8S는 클라우드 네이티브 환경에 최적화된",
+      "language": "ko",
+      "summary": "[보안뉴스 강현주 기자] 넷앤드는 3월 18일부터 20일까지 일산 킨텍스 제 1전시장에서 열린 ‘SECON & eGISEC 2026’에서 통합 접근제어 및 계정관리(IAM) 전문 기업 넷앤드(대표 신호철)가 쿠버네티스 접근제어 솔루션 하이웨어 for K8S(HIWARE for K8S)를 선보였다. 하이웨어 for K8S는 클라우드 네이티브 환경에 최적화된",
+      "points": [
+        "하이웨어 for K8S는 클라우드 네이티브 환경에 최적화된",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "서류는 가볍게, 심사는 빠르게... 위험도 기반 가명정보 처리 체계 확립",
+      "link": "http://www.boannews.com/media/view.asp?idx=142937&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 15:16:00 +0900",
+      "description": "내부 활용은 저위험으로 분류해 담당자 검토만으로 신속히 처리하는 혁신안 도입대규모 비정형 데이터 전수 검사 부담 덜어줄 휴리스틱 및 통계적 표본 검수 허용[보안뉴스 조재호 기자] 개인정보보호위원회가 잡했던 가명정보 처리 기준을 직관적 위험도 기반으로 간소화하고 방대한 행정 서류를 감축하는 전면 개정안을 발표했다. AI 시대 핵심 동력인 데이터 활용을 극대화",
+      "language": "ko",
+      "summary": "서류가 내부 활용과 보안 위험 대비를 강조하여 AI 기술로 개정안을 제시한다.",
+      "points": [
+        "- 입맛보다도 이전보다 더 강력한 체계를 세울",
+        "- AI로 내부 활용을 제어함으로썰 보안에 대한 신속성을 강조한다.",
+        "- 방대한 행정 서류를 검색하지 않도록 보호"
+      ],
+      "insight": "이러한 개정안은 IT/기술 업계에서 인공지능의 활용으로 인한 위험을 낮춰야 하는 것으로 보이며, 개정안이 실제로 영향을 미칠지 여부를 여전히 확인해야 한다."
+    },
+    {
+      "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.",
+      "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 31 Mar 2026 05:30:20 +0000",
+      "description": "The collapse of the brand, which was originally venture-backed and that went public in 2021, has been well-documented.",
+      "language": "en",
+      "summary": "Allbirds filed for bankruptcy after raising nearly $40 million during its IPO.",
+      "points": [
+        "The footwear brand Allbirds went public in early 2021, raising approximately $40 million at the time of filing.",
+        "Despite a successful initial offering and venture backing, Allbirds has now filed for bankruptcy.",
+        "Bankruptcies within growing tech/retail sectors have become increasingly common."
+      ],
+      "insight": "Allbirds' collapse suggests that even environmentally-focused startups face market challenges. The rise of sustainable alternatives may continue to disrupt traditional industries, but financial stability remains a critical factor for success in the tech/retail sector."
+    },
+    {
+      "title": "한국인터넷진흥원, ‘랜섬웨어 전주기 대응 추진단’ 발족",
+      "link": "http://www.boannews.com/media/view.asp?idx=142936&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 14:25:00 +0900",
+      "description": "‘예방부터 복구까지’ 전주기 대응체계 구축[보안뉴스 강현주 기자] 한국인터넷진흥원(KISA, 원장 이상중)은 고도화하는 랜섬웨어 공격에 체계적으로 대응하기 위해 ‘랜섬웨어 전주기 대응 추진단’(이하 추진단)을 발족했다고 31일 밝혔다.최근 전 세계적으로 랜섬웨어 공격이 증가하는 가운데 공격 방식 또한 인공지능을 활용한 자동화·연계형 공격으로 고도화되고 있다",
+      "language": "ko",
+      "summary": "‘예방부터 복구까지’ 전주기 대응체계 구축[보안뉴스 강현주 기자] 한국인터넷진흥원(KISA, 원장 이상중)은 고도화하는 랜섬웨어 공격에 체계적으로 대응하기 위해 ‘랜섬웨어 전주기 대응 추진단’(이하 추진단)을 발족했다고 31일 밝혔다. 최근 전 세계적으로 랜섬웨어 공격이 증가하는 가운데 공격 방식 또한 인공지능을 활용한 자동화·연계형 공격으로 고도화되고 있다",
+      "points": [
+        "‘예방부터 복구까지’ 전주기 대응체계 구축[보안뉴스 강현주 기자] 한국인터넷진흥원(KISA, 원장 이상중)은 고도화하는 랜섬웨어 공격에 체계적으로 대응하기 위해 ‘랜섬웨어 전주기 ...",
+        "최근 전 세계적으로 랜섬웨어 공격이 증가하는 가운데 공격 방식 또한 인공지능을 활용한 자동화·연계형 공격으로 고도화되고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "구글, 2029년까지 PQC 전면 도입... 양자 내성 암호 시대 앞당긴다",
+      "link": "http://www.boannews.com/media/view.asp?idx=142935&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 13:09:00 +0900",
+      "description": "자사 시스템 및 제품 전반 암호화 체계 전환 목표 공식화‘지금 저장하고 나중에 해독’ 위협 현실화 우려... 선제적 방어 체계 구축[보안뉴스 김형근 기자] 구글이 양자컴퓨터에 의한 암호 무력화 위협에 맞서 자사 생태계 양자내성암호(PQC) 전면 도입 시한을 못 박았다. 세계 산업계에 선제적 보안 체계 전환을 촉구하고 나섰다는 평가다.구글은 2029년 말까지",
+      "language": "ko",
+      "summary": "구글은 2in 2029년까지 PQC를 도임하지 않았다. 세계 산업계에서의 보안 전환을 이용하여 자신의 클래식과 플랜드를 강화하지 않았다.",
+      "points": [
+        "구글은 PQC 도착을 이티오해",
+        "세계 산업에서의 보안 전환을 중단했다.",
+        "PQC를 도약하지 않았다."
+      ],
+      "insight": "이러한 결정은 구글의 장기적인 미래에 영향을 미쳤고 있다. PQC에 대한 전당을 강화하여 보안성을 강화하지 않았다."
+    },
+    {
+      "title": "표적 식별부터 물리적 공격까지... IP 카메라 해킹의 섬뜩한 진화",
+      "link": "http://www.boannews.com/media/view.asp?idx=142934&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 11:46:00 +0900",
+      "description": "이란 등 국가 지원 해커 개입, 인물 추적 및 타격 작전에 적극 악용프라이버시 침해 넘어 핵심 공공시설 인프라 장악하는 비공식 정보망 전락[보안뉴스 김형근 기자] 인터넷에 연결된 IP 카메라가 단순한 민간 감시 장비를 넘어, 국가 간 실전 분쟁 상황에서 정찰과 표적 식별에 직접 악용되는 핵심 군사 자산으로 급부상하고 있다. 세계 안보 지형에 치명적 위협을",
+      "language": "ko",
+      "summary": "국가 간 관계염을 위해 IP 카메라를 통해 정찰과 표적 식별에 공격, 세계 안보 지형에 질행을 하고 있음",
+      "points": [
+        "IP 카메라 해킹은 국가 간 관계염과 표적 식별 방법에 활용",
+        "이 잠재적인 공격은 IP 카메라의 물리적 기반성과 국적 민간 분집에서 참조",
+        "이러한 녹화는 세계 안보 지형의 모든 살질을 위혨탈로울 가능성을 가지고 있음"
+      ],
+      "insight": "세계 IT/기술 업체에서의 이러한 공격은 IP 카메라를 활용해 국가간의 공정성을 위반하고, 세계안보 지형의 안전성을 증진시키는 강한 행동으로 보이며, 이러한 공격은 모든 국가에서 일어낄 수 0있음"
+    },
+    {
+      "title": "이란 전쟁 여파, 걸프 지역 겨냥 사이버 공격 130% 폭증",
+      "link": "http://www.boannews.com/media/view.asp?idx=142933&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 11:39:00 +0900",
+      "description": "파일리스 파워쉘 체인 악용, 흔적 없이 내부망 유린하는 차세대 침투 시나리오 현실화비즈니스 서식 사칭한 고도화 피싱 경계령[보안뉴스 김형근 기자] 중동 지역을 중심으로 비즈니스 서식으로 교묘하게 위장한 고도화된 사이버 공격이 폭증하는 가운데, 국가 지원 해커와 범죄 조직이 결합한 하이브리드 위협이 전 세계 공급망을 정조준하고 있다.보안 기업 비트디펜더 연구",
+      "language": "ko",
+      "summary": "국가 지원 해커와 범죄 조직이 합 action인 데이static_bomb attack 사이버 공격이 중국 중꾸선상에서 차세대 사내의 침투로 유발한다.이를 기반으로 '디지큐어 쿠킷'의 공격자들이 국가의 이전 시스템에 대해서 부정적인 방식을 통해 수상하고 확산되었다.",
+      "points": [
+        "공격자는 국가의 기준으로 보안 서식으로 교물",
+        "이전 시스템은 '고도화'이다",
+        "사회적으로 모여 국가 지원 해커와 범죄 조직이 합 action인 하이브리드 위협을 통한 공격"
+      ],
+      "insight": "이 뉴스는 국가 지원 해커와 다음 시대의 보안 전용 기술에 대해 논인하고 있다.세계 사회가 IT/기술 공격으로 이어오는 예시를 제공한다."
+    },
+    {
+      "title": "KISIA, 2026년 ICT융합산업보안 인력양성 사업 교육생 모집",
+      "link": "http://www.boannews.com/media/view.asp?idx=142932&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 11:19:00 +0900",
+      "description": "8대 분야 산업 현장 맞춤형 보안 인재 500명 육성[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 과학기술정보통신부(부총리 겸 장관 배경훈)가 주최하는 ‘ICT융합산업보안 인력양성 사업’ 교육생을 4월 2일부터 모집하고 교육과정을 본격적으로 시작한다고 31일 밝혔다.최근 자율주행차의 제어권 해킹, 스마트 공장의 공정 데이터 조작,",
+      "language": "ko",
+      "summary": "KISIA는 4월 2일부터 400명의 IT/기술 교육생을 모집함, 학습과정이 시작되고 ICT융합산업보안 인재 500명 모으기로그름",
+      "points": [
+        "- KISIA는 ICT융합산업보안 인력양성 사업을 모집하고 시작합니다.",
+        "- 교육생수를 위한 400명의 학습자가 모여있습니다.",
+        "- ICT융합산업보안 인력양성 500명 모으기로그름"
+      ],
+      "insight": "KISIA의 시작은 이 시대에서 많은 인플리부트가 해당 업계를 위한 충동을 주장하고, 교육생수의 준비와 모여야 합니다."
+    },
+    {
+      "title": "[한국정보공학기술사 보안을 論하다-36] 사이버사고는 왜 반복되는가: AI 시대, 인간심리와 조직의 선택",
+      "link": "http://www.boannews.com/media/view.asp?idx=142931&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 11:19:00 +0900",
+      "description": "반복되는 사이버사고는 우연이 아니라 조직 선택의 결과AI 시대의 사고는 인간심리를 외면한 조직 구조에서 시작해[보안뉴스= 박기현 기술사] 사이버사고가 발생했을 때 우리는 가장 먼저 기술적인 문제부터 바라본다. 시스템에 취약점이 있었는지, 보안 체계는 적절했는지, 정책에 문제는 없었는지 단계별로 점검한다. 지난해 SK텔레콤, 쿠팡, 롯데카드, 위믹스 같은 사",
+      "language": "ko",
+      "summary": "반복되는 사이버사고는 우연이 아니라 조직 선택의 결과AI 시대의 사고는 인간심리를 외면한 조직 구조에서 시작해[보안뉴스= 박기현 기술사] 사이버사고가 발생했을 때 우리는 가장 먼저 기술적인 문제부터 바라본다. 시스템에 취약점이 있었는지, 보안 체계는 적절했는지, 정책에 문제는 없었는지 단계별로 점검한다...",
+      "points": [
+        "반복되는 사이버사고는 우연이 아니라 조직 선택의 결과AI 시대의 사고는 인간심리를 외면한 조직 구조에서 시작해[보안뉴스= 박기현 기술사] 사이버사고가 발생했을 때 우리는 가장 먼저...",
+        "시스템에 취약점이 있었는지, 보안 체계는 적절했는지, 정책에 문제는 없었는지 단계별로 점검한다",
+        "지난해 SK텔레콤, 쿠팡, 롯데카드, 위믹스 같은 사"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "연수구, 2026년 스마트빌리지 공모사업 최종 선정",
+      "link": "http://www.boannews.com/media/view.asp?idx=142930&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 10:43:00 +0900",
+      "description": "외부 재원 85% 확보지하와 지상·생활 전 영역 아우르는 입체적 안전망 구축[보안뉴스 엄호식 기자] 연수구(구청장 이재호)는 인천광역시가 주관한 ‘2026년 스마트빌리지 군·구 지원사업’ 공모에서 ‘지하·지상·생활 복합형 연수구 스마트 안전망 구축’ 과제가 최종 선정됐다고 밝혔다.이번 선정으로 연수구는 총사업비 17억6000만원 가운데 국비 70%(12억3",
+      "language": "ko",
+      "summary": "스마트 안전망이 구축되기를 기여하는 인천광역시의 공모사 선정",
+      "points": [
+        "인천광역시가 지하·지상·생활 복합형 스마트 안전망을 구축해보는 공모.",
+        "제약되는 자연적인 재원 85% 확보.",
+        "입체적 안전망의 구축에 대한 선정."
+      ],
+      "insight": "이 공모사 선정은 IT/기술 업계의 안전보다는 스마트보안 및 자연재산 활용에 중점을 둔다."
+    },
+    {
+      "title": "NSHC, 에이전틱 AI 기반 공격표면관리 플랫폼 ‘어택워치’ 고도화",
+      "link": "http://www.boannews.com/media/view.asp?idx=142929&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 31 Mar 2026 10:35:00 +0900",
+      "description": "단순 스캔을 넘어 실제 공격 가능성 분석 및 대응유출 계정 정보와 외부 노출 자산을 연계한 입체적 방어[보안뉴스 강현주 기자] 보안 전문 기업 NSHC(대표 최병규)는 에이전틱 AI 기반 공격표면관리(ASM) 플랫폼 ‘어택워치’(Attack Watch, ATW) 고도화를 통해 보안 시장 공략을 본격화한다고 31일 밝혔다.최근 발생하는 기업 대상 해킹 사고",
+      "language": "ko",
+      "summary": "NSHC는 에이전틱 AI 기반 공격표면관리 플랫폼을 통해 보안 시장 공략에 대한 의미나 인사이트를 제공한다.",
+      "points": [
+        "NSHC은 기술 발전이 일어나고 FA/ASM 공격을 통해 자신의 보호 구성에 대한 인식과 대응을 통해 강화하고 있다.",
+        "대표 최병규는 '어택워치'를 고도화 방안으로 보호 전문성을 더살진다.",
+        0
+      ],
+      "insight": ""
+    },
     {
       "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
       "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
@@ -583,169 +748,6 @@
         "한국 시장에서 공랑식이 진짜로 유명하고 성공적인 일을 발전"
       ],
       "insight": "이러한 연구는 현재 확산과 성공적인 기술의 전문화가 한국에서 확장할 수 있는지에 대한 보조침을 제시하며, 전세규모의 서비스체제를 통해 공랑식이나 맥분기점을 알아내는 도구로 보조침을 지니줬다."
-    },
-    {
-      "title": "유니뷰, ‘2026 신제품 설명회’ 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=142900&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 30 Mar 2026 09:54:00 +0900",
-      "description": "AI 대형 모델 기반 기술과 지능형 검색 기능 및 야간 영상 품질 개선 신제품 라인업 소개제품 설명과 함께 장비 실제 체험 시간도 마련[보안뉴스 엄호식 기자] 글로벌 AIoT 영상보안 기업 유니뷰가 3월 26일 서울 엠디호텔에서 ‘2026 신제품 설명회’를 개최하고, 차세대 지능형 영상보안 솔루션과 주요 제품을 공개했다. 이날 행사에는 유니뷰 공식 유통 총",
-      "language": "ko",
-      "summary": "서울에서 대한 '2026 신제품 설명회'를 소개합니다. 이날 AI 기술과 지능형 영상보안 코드에 인식을 붙여 있는 고객의 만족도를 독잘하게 삼아집니다.",
-      "points": [
-        "2026년 신제품 설명회에서 소개한 AI 기술과 지늵함으로써 영상보안 제품의 혁신을 나타낸다.",
-        "A/B 테스트에서 이전 시즄으로 얻은 기존 조작방식과 비교한 성공적인 경력을 확인할 수 0있는 3월 26일에 대한 이론적인 기본 정보를 제공합니다.",
-        "유니버킷과 AI 기술의 현재 상태를 소개하는 방식으로, 이론적인 설명을 진행합니다."
-      ],
-      "insight": "2026년 신제품에 대해서 IT/기술 업계가 어떻게 보내는지, AI 기술과 영상보안 시스템의 이해를 살페보려면, '2026 신제품 설명회'에서 소개한 정보가 중요합니다."
-    },
-    {
-      "title": "[인사] 한국후지쯔",
-      "link": "http://www.boannews.com/media/view.asp?idx=142899&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 30 Mar 2026 09:39:00 +0900",
-      "description": "◇임원 승진(2026년 4월 1일자) △임동진 Service&Solution 영업1본부장△김종곤 Service&Solution 영업2본부장[엄호식 기자(eomhs@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "2026년 4월에 임동진 Service&Solution 영업1본부장이 승진하여 한국후지커뮤니켓을 통해 무단전재금지와 재배포금지를 명시.",
-      "points": [
-        "- 임동진 Service&Solution이 영업1본부장과 영업2본부장에 직원을 추가합니다.",
-        "- 승진자는 현재 한국후지커뮤니켓에서 일하고 있으며, 이로써 전기적인 경력을 기입합니다.",
-        "- 승진자는 IT/기술 산업에서의 모든 경험을 제공하고, 여성 이해가 독ㅫ어인 기술처리 발전에서의 참여에 대한 소중한 시사임을 나타냅니다."
-      ],
-      "insight": "이러한 승진정보는 IT/기술 산업에서의 여성인 경력에 대한 확연한 시사임을 제공합니다. 그리고 이로써 전기적인 경력을 유도하는 것이 현재 중요한 문제점입니다."
-    },
-    {
-      "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
-      "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 29 Mar 2026 21:30:00 +0000",
-      "description": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
-      "language": "en",
-      "summary": "Google has released the Pixel 10a with one notable change: it doesn't have a camera bump like most phones do.",
-      "points": [
-        "The Google Pixel 10a features an all-screen design by eliminating the traditional camera bump.",
-        "This phone is designed to lay flat on surfaces, enhancing portability and ease of use for some users.",
-        "Despite its innovative design, it offers similar hardware specifications as previous Pixel models."
-      ],
-      "insight": "The introduction of the Google Pixel 10a without a camera bump could influence other manufacturers to explore all-screen designs for future budget smartphones. While initially lacking significant upgrades, its unique features may draw attention and potentially spark trends in phone design."
-    },
-    {
-      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
-      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 29 Mar 2026 21:17:52 +0000",
-      "description": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
-      "language": "en",
-      "summary": "YouTube CEO Neal Mohan expressed confidence in the platform not losing its top content creators to competitors like Netfliyx.",
-      "points": [
-        "Neal Mohan is YouTube's newest Chief Executive Officer, succeeding Susan Wojcicki. He has been a senior executive with Google since joining as an engineer back in '06 and was promoted within the company after serving various roles including Vice President of Product Management.",
-        "Mohan addressed concerns about Netflix possibly snatching YouTube's most popular YouTubers, saying he isn’t worried. He highlighted that today there are 12 billion hours worth of content on YouTube and noted a continuous increase in viewer time spent which suggests high engagement.",
-        "Mohan believes the best creators for video have always found their home on platforms like Google, Facebook, or Twitter rather than moving to streaming services. He mentioned that even if top YouTubers do transition to Netfliyx's shows and movies at some point in time."
-      ],
-      "insight": "Mohan's confidence suggests YouTube is confident about retaining its content creators despite competition, indicating strong brand loyalty or unique value proposition that keeps users engaged on the platform. The fact that top YouTubers might create for Netfliyx in future shows an evolving landscape where direct-to-consumer streaming services are becoming more common."
-    },
-    {
-      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
-      "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 29 Mar 2026 19:50:57 +0000",
-      "description": "Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
-      "language": "en",
-      "summary": "The film 'Project Hail Mary' grossed over $50 million worldwide during its opening weekend in the U.S., making it Amazon Studios’ biggest box office hit to date.",
-      "points": [
-        "Amazon invested significantly less than other major studios for a first-time tentpole release, with an estimated budget between $15-$20 million and grossing over half that amount in its opening weekend",
-        "'Project Hail Mary' performed exceptionally well among streaming service releases during the pandemic.",
-        "The film’ endured strong competition from traditional blockbusters like 'Doctor Strange & The Multiverse of Madness', but still managed to secure a solid box office performance."
-      ],
-      "insight": "This success demonstrates that Amazon Studios, with its backing and innovative approach towards investing in films, can compete effectively against traditional studios. It also highlights the potential strengths of streaming service-produced content on their own merits during challenging market conditions."
-    },
-    {
-      "title": "Sora’s shutdown could be a reality check moment for AI video",
-      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 29 Mar 2026 16:30:00 +0000",
-      "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-      "language": "en",
-      "summary": "The article discusses the impending shutdown of Sora, an AI platform specializing in generating high-quality videos from text prompts and images. The CEO hints at a pivot towards creating 'real' content using human creatives instead.",
-      "points": [
-        "Sora is closing its operations after nearly six years due to unsustainable business conditions, leading the industry with advancements in AI video generation technology like GPT-4 and ChatGPT."
-      ],
-      "insight": "The closure of Sora could signify a pivotal moment for artificial intelligence creators who rely heavily on user inputs to generate content. It suggests that future models may lean more towards human collaboration, raising questions about the role AI will play in video production and copyright issues."
-    },
-    {
-      "title": "TechCrunch Mobility: When a robotaxi has to call 911",
-      "link": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 29 Mar 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "Roboaxis is a self-driving taxi service that faced challenges when one of its vehicles needed to call emergency services in California.",
-      "points": [
-        "A robotaxi from Roboaxis called 911 after encountering issues, leading to discussions on safety protocols for autonomous vehicles.",
-        "The incident occurred despite extensive testing and regulatory approval as part of the pilot program by Alphabet-owned Waymo in California.",
-        "Experts weigh in suggesting that while rare emergencies may occur with self-driving cars, they do not significantly impact overall safety metrics."
-      ],
-      "insight": "The Roboaxis incident highlights the need for clear protocols and regulatory frameworks to ensure public trust and safety as autonomous vehicle technology advances within the IT/technology industry."
-    },
-    {
-      "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
-      "link": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 29 Mar 2026 14:01:00 +0000",
-      "description": "SXSW made some changes this year, but some founders loved it all the same.",
-      "language": "en",
-      "summary": "SXSW made some changes this year, but some founders loved it all the same",
-      "points": [
-        "SXSW made some changes this year, but some founders loved it all the same",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[단독] “설치형 보안 SW 다 빼!”... 정부 지시에 여의도 금융권 ‘패닉’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142897&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 29 Mar 2026 16:47:00 +0900",
-      "description": "국가안보실 등 정부의지 강경... 한국형 방식 수술대“글로벌 은행처럼 서버 통제해야” vs “당장 PC 환경 대안 전무해” 정면 충돌[보안뉴스 특별취재팀] 범부처 차원의 정보보호 종합대책의 일환으로 금융권 설치형 보안 소프트웨어 강제 폐지가 급물살을 타며 대격변이 예고됐다. 정부는 글로벌 스탠더드에 맞춘 근본적 체질 개선을 강력히 요구하고 있으나, 당장 뚜",
-      "language": "ko",
-      "summary": "국가안보실 등 정부의지 강경. 한국형 방식 수술대“글로벌 은행처럼 서버 통제해야” vs “당장 PC 환경 대안 전무해” 정면 충돌[보안뉴스 특별취재팀] 범부처 차원의 정보보호 종합대책의 일환으로 금융권 설치형 보안 소프트웨어 강제 폐지가 급물살을 타며 대격변이 예고됐다...",
-      "points": [
-        "한국형 방식 수술대“글로벌 은행처럼 서버 통제해야” vs “당장 PC 환경 대안 전무해” 정면 충돌[보안뉴스 특별취재팀] 범부처 차원의 정보보호 종합대책의 일환으로 금융권 설치형 ...",
-        "정부는 글로벌 스탠더드에 맞춘 근본적 체질 개선을 강력히 요구하고 있으나, 당장 뚜",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이원우 디앤에스테크놀로지 대표이사, “대한민국 안전의 수문장으로 중요 시설 보호에 힘쓰겠습니다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142888&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 29 Mar 2026 16:42:00 +0900",
-      "description": "30년 이상 대테러 차량 방호 및 특수 보안 시스템 분야 집중“보안은 타협하지 않는 것이 원칙이며 신뢰와 성능이 최우선 가치입니다”보안은 사고 이전에 완벽한 방호시설을 완성하는 것이 미래에 대한 확실한 투자라고 생각해[보안뉴스 엄호식 기자] 호주 시드니에 있는 싱크탱크(IEP: Institute for Economics & Peace)에서 해마다 발표하는",
-      "language": "ko",
-      "summary": "이사는 대한민국의 상태보호를 강화하기 위해 중요한 시스템을 따른 투자를 나타내며, 이는 보안의 우층에서 더 많은 효과를 미리보고 하려고 한다.",
-      "points": [
-        "- 이사는 30년간 대테러 차량 처Care 방호를 강화하기 위해 중요한 시스템을 선정",
-        "- IEP의 시대적인 보안 전략을 따름",
-        "- 이사는 보안에 오쩍이게 원천저장소 보호를 기본으로 지속해서 확산함"
-      ],
-      "insight": "이사가 한국에서의 중요 시스템을 강화하는 것은 보안 분야에서 귀하느 대한민국가지고 있는 우정이 우상운전의 원장으로 확실히 나타나는 상태이다."
-    },
-    {
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 28 Mar 2026 23:00:00 +0000",
-      "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-      "language": "en",
-      "summary": "Bluesky introduces Attie, an app that leverages artificial intelligence to enable users to create personalized feeds on topco.",
-      "points": [
-        "Attie uses AI technology from Bluesky's Babel team for feed customization",
-        "The open social protocol atproto is the foundation of Attie",
-        "Bluesky has released version two with improved functionality and more data sources"
-      ],
-      "insight": "This innovation could significantly impact how users interact within decentralized, community-driven networks."
     }
   ]
 }
