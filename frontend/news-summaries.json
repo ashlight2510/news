@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-04-01T07:34:38.933Z",
+  "generatedAt": "2026-04-01T13:29:37.674Z",
   "articles": [
+    {
+      "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
+      "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 12:33:24 +0000",
+      "description": "The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
+      "language": "en",
+      "summary": "A new report claims that Amazon's upcoming Echo devices plan includes not just voice-activated speakers but also augmented reality glasses and earbuds.",
+      "points": [
+        "The smart glasses will have cameras, microphones, and speakers for hands-free interaction with AI queries connected to a smartphone or the cloud.",
+        "Amazon's Echo devices plan reportedly includes augmented reality earbuds in addition to voice activated speaker hardware.",
+        "The tech industry is anticipating an increase in AR and wearable device integration as they become more advanced."
+      ],
+      "insight": "This development suggests a broader market acceptance of AI-integrated augmented reality devices, which may lead to significant changes within the IT/technology sector towards developing hands-free personal tech solutions."
+    },
+    {
+      "title": "[ISC West 2026 결산] ‘보는 보안’ 너머 ‘판단하는 보안’으로... AI가 바꾼 물리보안의 새 지형도",
+      "link": "http://www.boannews.com/media/view.asp?idx=142976&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 1 Apr 2026 20:44:00 +0900",
+      "description": "[3줄 요약]1. 단순 감시 도구였던 CCTV와 출입통제가 ‘지능형 엣지’로 진화2. 비전 AI와 센서 융합 화두... 객체 식별 넘어 행동 예측 및 실시간 통합관제 고도화3. K-Security 성공하려면, AI 데이터가 흐르는 통합보안 플랫폼으로서의 가치 입증해야 [미국 라스베이거스=보안뉴스 특별취재팀] 지난 3월 25일부터 27일(현지시간)까지 미국",
+      "language": "ko",
+      "summary": "이보안 AI의 활용은 현재 CCTV 및 출입통제를 변화시키고 있습니다. 객체식생산에 기여하면서, AI로 진화하는보안 엣지가 비전 AI 데이터를 소모하는 통합보안 플레이트를 개체화하고 있습니다.",
+      "points": [
+        "CCTV와 출입통제는 '지발' 단순화가 되어 진화하고 있음",
+        "AI와 기기사이스의 결합으로 인해 설정할 수 없는 물리보안 엣지가 개발되고 있음",
+        "K-Security는 AI를 이용한 실시간 전문 조사와 패칭액세서를 통해 보안 강화러울할 수 있음"
+      ],
+      "insight": "AI가 이어지고 진화하는 보안 기능은 K-Security의 성공으로 여름차를 이루어야 합니다. 이전에의 시기는 비전 AI가 인젤한 협상을 본격으로 하는 사람들의 도닮니다."
+    },
+    {
+      "title": "[국방보안 칼럼] 미국-이란 전쟁으로 본 사이버전의 진화와 디지털 생존 전략",
+      "link": "http://www.boannews.com/media/view.asp?idx=142966&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 1 Apr 2026 19:20:00 +0900",
+      "description": "미국-이란 전쟁, 사이버 공격이 물리적 전쟁과 결합돼 파괴력 극대화 IoT 인프라의 국가 안보 자산화, AI 행위 분석, 소버린 클라우드 등 국가 차원 디지털 생존 전략 필요[보안뉴스= 송종석 영남이공대학교 사이버보안과 교수] 2026년 2월, ‘장대한 분노’(Operation Tremendous Fury) 작전으로 명명된 미국·이스라엘과 이란 간 전쟁은",
+      "language": "ko",
+      "summary": "이란 전쟁과 국가차원에서 근시한 인프라의 디지털 생존 전략이 'Operation Tremendous Fury'로 명명되어 보상받는 마카다를 게시되고, AI에서의 분석과 IoT를 활용한 국가안보기와 소버링이 진화와 연골산",
+      "points": [
+        "- 'Operation Tremendous Fury'의 개인화는 디지털 인피라를 이용한 국가안보 전략으로, AI가 예상한 경기장(대한민국과 중국)에서의 공격과 마찬가지",
+        "- IoT를 활용한 국가안보 방법이 획남기계생산자르(쿠취) 사회시장에서의 파치로그인",
+        "- 미국와 이란 전쟁이 가진 인피라를 보상하기 위해 국가차원 전략이 이루어지고 있음을 나타내고, 국가적인 발전을 위해 소모되어 진화와 연골산 진화를 확보한다"
+      ],
+      "insight": "이러한 정치적 전략은 IT/기술 업계에서의 국가안보 전략 중지점으로, AI와 IoT를 활용한 국가차원 전략을 구현하여 이전에 기대한 공게받기 위험을 줄일 것으로 보입니다. 'Operation Tremendous Fury'는 미국와 이란 전쟁이 이루어진 공격전략의 대표이자, 이것은 AI와 기술에 의해서 시스템화되어 국가간의 상호작용을 강화하고자 하는 전달점이다."
+    },
+    {
+      "title": "크랜베리, ‘멀티 모달 엣지 AI’로 글로벌 및 공공시장 ‘듀얼 트랙’ 전략 가속화",
+      "link": "http://www.boannews.com/media/view.asp?idx=142972&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 1 Apr 2026 19:02:00 +0900",
+      "description": "3월 ISC West, SECON 및 나라장터 엑스포 통해 독보적 기술 신뢰도와 현장 적용성 입증레노버, 인터엠 등 글로벌∙국내 선도 기업과 에코시스템 완성하며 성장 모멘텀 확보[보안뉴스 강초희 기자] 크랜베리(대표이사 이은혜)가 2026년 1분기 국내외 대형 전시회 참여와 전략적 파트너십을 통해 확보한 기술 레퍼런스를 바탕으로 글로벌 시장과 국",
+      "language": "ko",
+      "summary": "3월 ISC West, SECON 및 나라장터 엑스포 통해 독보적 기술 신뢰도와 현장 적용성 입증레노버, 인터엠 등 글로벌∙국내 선도 기업과 에코시스템 완성하며 성장 모멘텀 확보[보안뉴스 강초희 기자] 크랜베리(대표이사 이은혜)가 2026년 1분기 국내외 대형 전시회 참여와 전략적 파트너십을 통해 확보한 기술 레퍼런스를 바탕으로 글로벌 시장과 국",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "모빌린트, 시리즈 C 투자 유치 완료... “AI 반도체 시장 본격 공략”",
+      "link": "http://www.boannews.com/media/view.asp?idx=142974&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 1 Apr 2026 18:51:00 +0900",
+      "description": "고성능·저전력 NPU 기술력 입증... 산업 현장 양산 성과 기반 확장 가속[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 시리즈 C 투자 유치를 마무리하고, AI 반도체 시장 공략에 본격적으로 나선다.모빌린트는 이번 라운드를 통해 총 700억원 규모의 투자를 유치했다고 밝혔다. 프랙시스캐피탈파트너스, 포스코기술투자, 컴퍼니케이파트너스 등 주요 투자자가",
+      "language": "ko",
+      "summary": "고성능·저전력 NPU 기술력 입증. 산업 현장 양산 성과 기반 확장 가속[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 시리즈 C 투자 유치를 마무리하고, AI 반도체 시장 공략에 본격적으로 나선다...",
+      "points": [
+        "산업 현장 양산 성과 기반 확장 가속[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 시리즈 C 투자 유치를 마무리하고, AI 반도체 시장 공략에 본격적으로 나선다",
+        "모빌린트는 이번 라운드를 통해 총 700억원 규모의 투자를 유치했다고 밝혔다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "파수AI, 사명 변경 후 첫 출격... 4월 15일 ‘FDI 심포지움 2026’ 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=142971&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 1 Apr 2026 16:34:00 +0900",
+      "description": "[보안뉴스 조재호 기자] 파수AI가 사명 변경 후 첫 대규모 고객 행사인 ‘FDI 심포지움 2026’에서 안전한 인공지능 전환(AX) 청사진을 공개한다. 이번 행사는 ‘지속가능한 AI 혁신’을 화두로 삼아 글로벌 기업의 실제 적용 사례부터 소프트웨어 공급망 보안까지 조직 경쟁력 강화를 위한 구체적인 해법을 제시할 예정이다.파수AI의 연례 콘퍼런스 ‘FDI",
+      "language": "ko",
+      "summary": "파수AI는 공개한 'FDI 심포지움 2026' 대회를 통해 인공지능의 안전 전환을 위한 구체적인 해석을 제시할 계획으로 선정",
+      "points": [
+        "파수AI가 'FDI 심포지움 2026' 대회에서 '안전한 AI 전환(AX)' 공개",
+        "구체적인 해결법 제시, '지속가능한 AI 혁신'을 강화",
+        "기술 테스트에서의 정확한 일자 기능 설명, 영공급 소프트웨어 깨지지 마가"
+      ],
+      "insight": "이러한 AI 전환을 위한 대안점에서 IT/기술 업계가 'FDI 심포지움 2026'를 통해 파수AI의 행동이 중요한 발전점이다."
+    },
     {
       "title": "유일선 국민대 교수 연구팀, LG전자와 ‘차세대 이동통신 보안 기술 연동 검증’ 성공",
       "link": "http://www.boannews.com/media/view.asp?idx=142970&kind=&sub_kind=",
@@ -654,96 +744,6 @@
         "직영점 운영 통해 수익모델 검증 및 무인 서비스 사업 확대[보안뉴스 강초희 기자] 아마노코리아(대표 전명진)가 신규 사업 확대의 일환으로 로봇커피머신 사업을 본격적으로 시작했다",
         "아마노코리아는 그동안 축적해 온 무인 운영 시스템과 통합 관리 역량을 바탕으로 로봇커피머신 사업 영역에서도 차별화된 서비스를 선보일 계획이다",
         "로봇커피머신 사업은 아마노코리아의 무인화"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "개인정보위, 전 금융권 주민등록번호 취급 “전수조사”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142940&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 31 Mar 2026 17:05:00 +0900",
-      "description": "개인 고객 대상 웹-앱 서비스 제공하는 은행·보험·카드사 4월부터 대대적 점검단순 회원가입 단계 과도한 정보 수집 및 시스템 로그 내 무단 저장 행태 집중 점검[보안뉴스 조재호 기자] 최근 발생한 대규모 카드사 개인정보 유출 사고를 계기로, 개인정보보호위원회가 전 금융권의 웹 및 앱 서비스 전반에 걸친 주민등록번호 처리 실태에 대한 사전 점검을 진행한다.",
-      "language": "ko",
-      "summary": "카드사가 주민등록번호 취급 과도한 정보 수집에 대해 의결을 받고자 폐지에 가는 원인이 개인정보 유출 위험을 줄일 목적으로 강조되어 있다.",
-      "points": [
-        "개인정보 수집을 과도한 수신",
-        "무단저장 행위",
-        "이전에 추가받은 의결"
-      ],
-      "insight": "이러한 일로 인해 개인정보 침해를 방지하기 위해 이전에 인정받은 의결을 통해 개인정보 수집 과도할 계약을 조직"
-    },
-    {
-      "title": "이지서티, AI 기반 접속로그 이상 탐지 솔루션 EZRO-PSM 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142945&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 31 Mar 2026 16:57:00 +0900",
-      "description": "수백만 건 로그 속 실제 위협만 족집게 선별, 경보 피로 해결고가 GPU 불필요한 4비트 양자화 기술 및 sLLM 탑재로 운영 효율 극대화[보안뉴스 조재호 기자] 이지서티가 방대한 접속 로그 속에서 실제 위협만 정밀하게 골라내는 AI 기반 이상행위 탐지 솔루션을 공개하며 차세대 보안 패러다임을 제시했다.이지서티는 최근 일산 킨텍스에서 진행된 ‘SECON &",
-      "language": "ko",
-      "summary": "수백만 건 로그 속 실제 위협만 족집게 선별, 경보 피로 해결고가 GPU 불필요한 4비트 양자화 기술 및 sLLM 탑재로 운영 효율 극대화[보안뉴스 조재호 기자] 이지서티가 방대한 접속 로그 속에서 실제 위협만 정밀하게 골라내는 AI 기반 이상행위 탐지 솔루션을 공개하며 차세대 보안 패러다임을 제시했다. 이지서티는 최근 일산 킨텍스에서 진행된 ‘SECON &",
-      "points": [
-        "이지서티는 최근 일산 킨텍스에서 진행된 ‘SECON &",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "삼오씨엔에스 “파르고스 v3.0, AI로 고도화된 사전예방 중심 개인정보 보호”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142943&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 31 Mar 2026 16:44:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 삼오씨엔에스는 3월 18일부터 20일까지 일산 킨텍스 제 1전시장에서 열린 ‘SECON & eGISEC 2026’에서 개인정보 접속기록 관리 솔루션 파르고스 v3.0를 선보였다. 파르고스 v3.0은 이상행위(징후)를 인지·감시·감사할 수 있는 AI 기반의 개인정보 접속기록 상시 모니터링 시스템이다. 2019년 과기정통부 정보보호",
-      "language": "ko",
-      "summary": "삼오씨엔에스는 AI로 개인정보 접속 상세 모니터링을 위해 파르고스 v3.0 코드를 선보였다.",
-      "points": [
-        "파르고스 v3.0는 AI로 개인정보 접속 기록을 모니터링하기 위해 제작",
-        "이상행위(징후)를 인식, 감시, 추가로 관리",
-        "일산 킨텍스 제1전시장에서 SECON & eGISEC 2026의 소개"
-      ],
-      "insight": "이러한 AI 기능은 개인정보 접근이나 인증 위주로 사용되어야 함으로oted."
-    },
-    {
-      "title": "경인씨엔에스, CCTV에서 무인 주차장으로 시스템 장애관리 시장 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=142942&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 31 Mar 2026 16:42:00 +0900",
-      "description": "CCTV 네트워크 장애관리 솔루션, 24시간 감시하고 자동으로 복구무인 주차장 장애관리 시스템, 비전문가도 직관적으로 쉽게 빠르게 사용 지원[보안뉴스 엄호식 기자] 경인씨엔에스는 SECON & eGISEC 2026에서 장애관리 솔루션 ‘넷가드’와 함께 무인 주차장 장애관리 시스템을 선보였다. 경인씨엔에스는 장애관리를 중심으로 CCTV에 기반한 출입통제 등",
-      "language": "ko",
-      "summary": "CCTV 네트워크 장애관리 솔루션, 24시간 감시하고 자동으로 복구무인 주차장 장애관리 시스템, 비전문가도 직관적으로 쉽게 빠르게 사용 지원[보안뉴스 엄호식 기자] 경인씨엔에스는 SECON & eGISEC 2026에서 장애관리 솔루션 ‘넷가드’와 함께 무인 주차장 장애관리 시스템을 선보였다. 경인씨엔에스는 장애관리를 중심으로 CCTV에 기반한 출입통제 등",
-      "points": [
-        "경인씨엔에스는 장애관리를 중심으로 CCTV에 기반한 출입통제 등",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "슈프리마, 테일게이팅 감지 등 AI 출입통제 솔루션 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=142939&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 31 Mar 2026 16:39:00 +0900",
-      "description": "출입통제와 CCTV를 하나의 플랫폼으로 통합한 AI 보안 시스템얼굴인증 기반 출입 관리와 영상분석 연동으로 실시간 대응 강화[보안뉴스 강초희 기자] 슈프리마는 SECON & eGISEC 2026에서 AI 기반 얼굴인증과 출입통제, 영상관제, 영상분석을 하나로 결합한 차세대 통합보안 솔루션을 선보였다.이 솔루션은 출입인증 단말기와 CCTV 영상관제 시스템을",
-      "language": "ko",
-      "summary": "출입통제와 CCTV를 하나의 플랫폼으로 통합한 AI 보안 시스템얼굴인증 기반 출입 관리와 영상분석 연동으로 실시간 대응 강화[보안뉴스 강초희 기자] 슈프리마는 SECON & eGISEC 2026에서 AI 기반 얼굴인증과 출입통제, 영상관제, 영상분석을 하나로 결합한 차세대 통합보안 솔루션을 선보였다. 이 솔루션은 출입인증 단말기와 CCTV 영상관제 시스템을",
-      "points": [
-        "이 솔루션은 출입인증 단말기와 CCTV 영상관제 시스템을",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "사이버다임, 문서중앙화 ‘공동 편집·mac OS 지원’ 업데이트... OS 장벽 없는 보안 및 협업 환경 구축",
-      "link": "http://www.boannews.com/media/view.asp?idx=142941&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 31 Mar 2026 16:33:00 +0900",
-      "description": "Mac·Windows 환경 관계없이 서버 내 문서 실시간 공동 편집 지원macOS 사용자 대상 보안 정책 및 문서 관리 편의성 동일 제공다양한 OS 환경 아우르는 접근성 강화로 하이브리드 워크 최적화[보안뉴스 원병철 기자] 문서중앙화 및 보안 솔루션 전문 기업 사이버다임(대표이사 김경채)이 최신 업데이트를 통해 공동 편집 기능과 애플 맥(Mac) 운영체제(",
-      "language": "ko",
-      "summary": "Mac·Windows 환경 관계없이 서버 내 문서 실시간 공동 편집 지원macOS 사용자 대상 보안 정책 및 문서 관리 편의성 동일 제공다양한 OS 환경 아우르는 접근성 강화로 하이브리드 워크 최적화[보안뉴스 원병철 기자] 문서중앙화 및 보안 솔루션 전문 기업 사이버다임(대표이사 김경채)이 최신 업데이트를 통해 공동 편집 기능과 애플 맥(Mac) 운영체제(",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
