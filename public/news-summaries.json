@@ -1,6 +1,139 @@
 {
-  "generatedAt": "2026-04-02T13:20:04.423Z",
+  "generatedAt": "2026-04-02T19:01:16.864Z",
   "articles": [
+    {
+      "title": "NASA astronauts prove that sending an email really is rocket science",
+      "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 18:19:39 +0000",
+      "description": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.",
+      "language": "en",
+      "summary": "During a mission on NASA's Orion capsule to train for future lunar exploration missions with Artemis II and III crews aboard the moon, Reid Wiseman experienced technical difficulties while trying to send an email from space. It was ultimately decided that it would be best not to attempt sending emails during such critical flight phases.",
+      "points": [
+        "NASA astronauts encountered issues with their Outlook software in orbit around Earth for a training mission prior to Artemis II and III lunar missions.",
+        "The decision was made not to send emails while on the Orion capsule during critical flight phases due to potential distractions or emergencies that might arise, as emphasized by NASA's chief engineer of human spaceflight operations.",
+        "Email access issues faced earlier in 2019 and more recent problems with SpaceX Crew Dragon communications reinforce the importance of reliable communication systems for astronaut safety."
+      ],
+      "insight": "This incident highlights not only the challenges associated with technology reliability during spaceflights but also underlines that sending emails may be too trivial a task to justify risks or distractions, especially when critical flight phases are involved. It underscores an essential aspect of astronaut safety and mission integrity."
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 16:48:16 +0000",
+      "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "language": "en",
+      "summary": "Microsoft has launched three new AI foundational models capable of speech-to-text transcription, image generation from text descriptions, and audio creation based on visual inputs.",
+      "points": [
+        "The Microsoft team released a model that can accurately convert spoken words into written text",
+        "Another model developed by the team generates images in response to verbal prompts describing scenes or objects",
+        "A third AI from Microsoft has been designed to produce lifelike audio recordings based on visual information"
+      ],
+      "insight": "Microsoft's introduction of these foundational models could accelerate advancements across various industries, as they offer new ways for machines to interpret and represent the world."
+    },
+    {
+      "title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
+      "link": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 16:29:35 +0000",
+      "description": "An exposed Amazon-hosted server allowed anyone to access reams of customer data without needing a password.",
+      "language": "en",
+      "summary": "A money transfer app named Duc used an open web server that led to the public exposure of thousands of customers' driver’ endorsements and passports.",
+      "points": [
+        "The exposed data included personal information such as names, addresses, dates of birth, gender, email IDs, phone numbers, license plate numbers for vehicles driven by friends or relatives."
+      ],
+      "insight": "This incident highlights the critical need for robust security measures and regular audits within IT/technology firms handling sensitive personal data to prevent unauthorized access and potential misuse of such information in cyberspace. It also draws attention towards ethical implications when customer trust is jeopardized due to negligence."
+    },
+    {
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "language": "en",
+      "summary": "The core content of this article highlights Google's update to its Vids app, allowing users to direct avatars using prompts and create personalized videos.",
+      "points": [
+        "Google has introduced the ability for avatar customization in the 'Vids' mobile application by providing various options like hairstyles or clothing choices via a user-friendly interface.",
+        "This update is expected to enhance creativity and facilitate personalized video experiences with Google Avatars, which are now more diverse in appearance thanks to this feature.",
+        "The availability of avatar customization has been met positively by users who appreciate the convenience it brings for creating videos without needing professional actors."
+      ],
+      "insight": "This innovation could significantly broaden user engagement with content creation tools, as they can now add a personal touch to their video projects using avatars. It highlights Google'supperlying skills in understanding and fulfilling customer requests through technology enhancements."
+    },
+    {
+      "title": "ICE says it bought Paragon’s spyware to use in drug trafficking cases",
+      "link": "https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 15:39:51 +0000",
+      "description": "The acting director of U.S. Immigration and Customs Enforcement told lawmakers that the use of Paragon spyware is necessary to counter terrorists’ “thriving exploitation of encrypted communications platforms.”",
+      "language": "en",
+      "summary": "The acting director of ICE testified before lawmakers about the necessity for Paragon spyware in combating drug traffickers using encryption.",
+      "points": [
+        "ICE has acquired Paragon's spy software to fight terrorists and drug lords exploiting encrypted platforms",
+        "Immigrations Acting Director Thomas Homan admitted reliance on this technology during a recent congressional hearing in the House of Representatives Judiciary Committee.",
+        "The purchase, worth $825,000 annually, is part of ICE’s efforts to thwart criminal activities using encrypted communications."
+      ],
+      "insight": "This development signifies a trend within law enforcement agencies toward adopting advanced surveillance tools in the fight against organized crime and terrorism. While it raises privacy concerns, the government views this as an essential component of modern policing strategy to intercept criminal activities that have turned increasingly digital."
+    },
+    {
+      "title": "United’s mobile app now shows TSA wait times at select airports",
+      "link": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 14:44:21 +0000",
+      "description": "The TSA wait times feature is one of many new additions to the United app, including automatic rebooking assistance and real-time time weather radar maps.",
+      "language": "en",
+      "summary": "United's mobile application has been updated with a TSA wait times feature for select airports as part of its broader suite of travel assistance tools.",
+      "points": [
+        "The United app now includes the ability to view real-time Security Screening (TSA) wait times at select airports, providing users with valuable information about potential delays in their journey.",
+        "In addition to TSA wait time features, the updated application offers automatic rebooking assistance and incorporates live weather radar maps for travelers' convenience.",
+        "The update aims to provide United passengers better tools to plan journeys more efficiently while also improving user experience through additional relevant information."
+      ],
+      "insight": "This news indicates that airlines, like United in this case, are leveraging technology advancements such as real-time data integration and machine learning algorithms for predictive analytics. This not only enhances the customer's flight planning process but also allows travel companies to maintain a competitive edge by offering personalized services."
+    },
+    {
+      "title": "Tesla’s cheaper vehicles aren’t helping its declining sales",
+      "link": "https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 14:18:42 +0000",
+      "description": "The company's deliveries in the first quarter were just 6% higher than last year, and Tesla now faces a third straight year of falling sales.",
+      "language": "en",
+      "summary": "Tesla experienced another drop in car delivery volume during Q1, with deliveries rising by just 6% compared to the previous year.",
+      "points": [
+        "Despite introducing more affordable vehicle models like Model Y and a new long-range Semi truck",
+        "The company's focus on expansion into Europe has not yielded significant results in terms of sales volumes there",
+        "Tesla faces increased competition from traditional automakers who are also shifting towards electric vehicles"
+      ],
+      "insight": "This decline raises questions about Tesla's ability to scale production and maintain profitability, particularly as it invests heavily in new vehicle models."
+    },
+    {
+      "title": "Commonwealth Fusion Systems leans on magnets for near-term revenue",
+      "link": "https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 14:15:27 +0000",
+      "description": "Realta Fusion is buying magnets from Commonwealth Fusion Systems, providing a revenue stopgap.",
+      "language": "en",
+      "summary": "Commonwealth Fusion Systems plans to generate near-term revenue by selling its fusion technology' extraneous high-temperature superconducting magnets.",
+      "points": [
+        "Realta Fusion is purchasing these specialized magnets from Commonwealth Fusion Systems as a short-term financial solution.",
+        "The deal marks an early step towards commercialization of the companies' fusion technology by providing necessary funding for near-future projects and operations. ",
+        "These contracted sales could help keep both firms afloat during their transition to profitability from federal grants."
+      ],
+      "insight": "The deal indicates an immediate need for revenue generation as these companies move towards the commercialization of fusion energy, which will require significant investment and infrastructure development. It also suggests that a portion of future profits may be redirected to fund ongoing research rather than reinvesting solely in expansion."
+    },
+    {
+      "title": "Diverse teams start with diverse VCs",
+      "link": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Apr 2026 13:45:00 +0000",
+      "description": "It is the path of least resistance for a growth-stage company to hire from the familiar Silicon Valley pipelines but if a founder wants a diverse team, that value has to be put into practice from the very first hire.",
+      "language": "en",
+      "summary": "The article discusses how founders can ensure diversity in their teams by starting with recruiting a diverse set of venture capitalists (VCs). It highlights the challenges and importance of maintaining this diversity throughout hiring processes.",
+      "points": [
+        "Founders need to prioritize diversity from early-stage VC investment",
+        "Diverse teams face greater obstacles in Silicon Valley due to unconscious bias",
+        "Recruiting diverse founders requires conscious effort and intention"
+      ],
+      "insight": "The article implies that promoting diversity within the IT/technology industry begins with inclusive hiring practices, starting from securing funding. This can help create a more balanced representation of various backgrounds in leadership roles."
+    },
     {
       "title": "Exclusive: Beehiiv expands into podcasting, taking aim at Patreon",
       "link": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
@@ -615,141 +748,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[인터뷰] 믹 듄 MS 수석 보안 자문 “AI 홍수의 시대, 자동화된 통합 보안 시급”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142948&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Apr 2026 15:11:00 +0900",
-      "description": "늘어나는 AI 에이전트, 함께 증가하는 공격 표면너무나 많은 보안 솔루션, 진짜 자동화된 통합 보안 필요해[보안뉴스 원병철 기자] 다양한 분야에서 AI에 대한 사용이 늘어나면서 조직의 리더는 물론 보안 담당자들의 고민도 깊어지고 있다. AI의 편의성만큼이나 보안에 대한 위협도 늘어나고 있기 때문이다. AI 투어 서울(Microsoft AI Tour Seou",
-      "language": "ko",
-      "summary": "늘어나는 AI 에이전트, 함께 증가하는 공격 표면너무나 많은 보안 솔루션, 진짜 자동화된 통합 보안 필요해[보안뉴스 원병철 기자] 다양한 분야에서 AI에 대한 사용이 늘어나면서 조직의 리더는 물론 보안 담당자들의 고민도 깊어지고 있다. AI의 편의성만큼이나 보안에 대한 위협도 늘어나고 있기 때문이다...",
-      "points": [
-        "늘어나는 AI 에이전트, 함께 증가하는 공격 표면너무나 많은 보안 솔루션, 진짜 자동화된 통합 보안 필요해[보안뉴스 원병철 기자] 다양한 분야에서 AI에 대한 사용이 늘어나면서 조...",
-        "AI의 편의성만큼이나 보안에 대한 위협도 늘어나고 있기 때문이다",
-        "AI 투어 서울(Microsoft AI Tour Seou"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "쿠도커뮤니케이션, AI 기반 비접촉 건강지표 분석 ‘HEALLO’ 앱 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=142964&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Apr 2026 14:38:00 +0900",
-      "description": "키오스크 기반 측정 데이터 모바일 연동... 이력 중심 건강관리 환경 구현비접촉·무센서 방식으로 일상 속 간편한 웰니스 관리 지원[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표 김용식)은 AI 기반 비접촉 건강지표 분석 솔루션 ‘HEALLO’(헬로)의 모바일 애플리케이션을 출시했다고 밝혔다.HEALLO는 카메라 기반 AI 기술을 활용, 별도 센서나 웨어러블",
-      "language": "ko",
-      "summary": "이런 기사는 AI를 활용한 건강 지수에 대해서 약어로 요약",
-      "points": [
-        "- HEALLO 앱은 카메라를 이용하여 인력자동 결함으로부터 지수를 분석한다.",
-        "- AI 기반 분섞과정에서 주로 결국, 가상의 오브저항이나 실험을 수용하도록 만들어진다.",
-        "- HEALLO는 기본적인 센서 방식보다 수집 가능한 모든 인증 소스를 활용한다."
-      ],
-      "insight": "이러한 HEALLO 시스템은 IT 엔진에서 건강 관리의 필요성을 인지하는 도웃가능성을 제공한다."
-    },
-    {
-      "title": "포커스에이아이, 구형모 대표이사 선임... 사업 구조 재편 및 성장 전략 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=142965&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Apr 2026 14:37:00 +0900",
-      "description": "2025년부터 포커스에이아이 부사장으로 재직, 물리보안 사업 운영과 전략 실행현장 중심 리더십과 세일즈 경험 기반으로 사업 확장과 조직 운영 가속화 기대[보안뉴스 엄호식 기자] 포커스에이아이(포커스AI)는 이사회 결의를 통해 구형모 대표이사를 신규 선임했다고 1일 밝혔다. 포커스에이아이는 대표이사 변경을 통해 기술 경쟁력을 기반으로 사업 포트폴리오를 재정비",
-      "language": "ko",
-      "summary": "2025년부터 포커스에이아이 부사장으로 재직, 물리보안 사업 운영과 전략 실행현장 중심 리더십과 세일즈 경험 기반으로 사업 확장과 조직 운영 가속화 기대[보안뉴스 엄호식 기자] 포커스에이아이(포커스AI)는 이사회 결의를 통해 구형모 대표이사를 신규 선임했다고 1일 밝혔다. 포커스에이아이는 대표이사 변경을 통해 기술 경쟁력을 기반으로 사업 포트폴리오를 재정비",
-      "points": [
-        "포커스에이아이는 대표이사 변경을 통해 기술 경쟁력을 기반으로 사업 포트폴리오를 재정비",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "앤트로픽 ‘클로드 코드’ 소스 51만줄 유출... “해킹 아닌 직원 실수”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142963&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Apr 2026 14:26:00 +0900",
-      "description": "npm 배포 중 실수로 복원용 ‘맵 파일’ 포함... 깃허브 통해 세계 개발자에 확산차세대 모델 로드맵 및 ‘카이로스’ 등 미출시 핵심 기능 낱낱이 공개돼 타격 불가피[보안뉴스 조재호 기자] 앤트로픽의 AI 코딩 도구 ‘클로드 코드’(Claude Code) 소스 코드가 직원의 배포 실수로 전 세계에 유출되는 사고가 발생했다. 해킹이 아닌 내부 설정 오류로",
-      "language": "ko",
-      "summary": "앤트로픽의 AI 코드소스 '클로드 코드'가 내부 오류로 세계에 유출되어 npm 배포 중 사고를 일켜준다.",
-      "points": [
-        "앤트로픽의 AI 코드소스 '클로드 코드'가 세계 개발자에 유출되어 npm 배포 중 내부 오류로 사고를 일켰니다.",
-        "해킹이 아니라 내부 설정 오류로 유출된 '맵 파일'과 '카이로스' 중 핵심 기능을 같은 소스코드에 포함되어 있습니다.",
-        "공개된 '클로드 코드'소스는 npm 사용자들에게만을 제한하지만 질처럼 세계 개발자의 잘못한 이해가 이루어졌기를 확인할 수 0r입니다."
-      ],
-      "insight": "앤트로픽의 내부 오류로 일부 개인이 npm에서 공개된 소스코드를 유출하여 모바일 눌자기 어플리켓(Mobile Gaming Engine)의 '클로드 코드'소스를 공유할 수 있음을 제처럼 보여준다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 중동 전쟁 종전 결정은 트럼프 아닌 ‘군사AI’",
-      "link": "http://www.boannews.com/media/view.asp?idx=142962&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Apr 2026 13:44:00 +0900",
-      "description": "‘위험·비극’ 키워드가 압도한 군사 AI... 인간의 통제 벗어난 자율성의 그늘 위성 영상과 도청 데이터 실시간 처리하는 기술력 이면에 도사린 사이버 보안 리스크[보안뉴스= 배종찬 인사이트케이 연구소장] 2026년 3월 빅데이터 분석 결과, 현대전의 핵심으로 떠오른 ‘군사 AI’를 향해 대중은 극심한 공포와 윤리적 우려를 표출하고 있다. 이스라엘과 이란의",
-      "language": "ko",
-      "summary": "군사AI가 투자받아진 현대전을 보호하기 위해 강한 AI를 사용합니다.",
-      "points": [
-        "- 현재에 인공지컨션, 정보병정 분양과 같은 핵심적인 AI의 기술력이 강해서 인공지컨션과 군사AI를 유리로 보호할 수 있다.",
-        "- 많은 전자에 대한 동결성 스캔드를 이용하여 보안 기술의 시각화를 통제하고 있다.",
-        "- 극장식으로 분명한 AI가 병정에서 악호와 진짜로 이미 결정해졌다."
-      ],
-      "insight": "군사기술의 오히스터리치는 업계의 현명한 선발과 공세를 가능하게 만드는 '군사AI'는 살짓을 나르고 있다."
-    },
-    {
-      "title": "안랩 “AhnLab XTG, 대기업과 데이터센터를 위한 차세대 방화벽”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142961&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Apr 2026 13:21:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 안랩은 3월 18일부터 20일까지 일산 킨텍스 제 1전시장에서 열린 ‘SECON & eGISEC 2026’에서 고성능 방화벽 안랩 XTG(AhnLab XTG)를 선보였다. 안랩 XTG는 안랩의 고성능 방화벽 역량과 ZTNA·SD-WAN 등 최신 네트워크 보안 기능을 기반으로 유연하고 강력한 네트워크 통합 보안을 제공하는 차세대 네",
-      "language": "ko",
-      "summary": "안랩은 고성능 방화벽 보안 기능을 제공하는 AhnLab XTG를 선보였다.",
-      "points": [
-        "안랩은 'SECON & eGISEC 2026'에서 XTG를 선사했다.",
-        "XTG는 안전한 문화적 관계로 핵심 비중을 띄고 있으며, AI·ML 기반의 보안 시스템이다.",
-        "XTG는 IT/영벽 서비스를 위한 신용적인 침해방어로 사용되고, 제공되는 근원을 강화하고 개선할 수 있다."
-      ],
-      "insight": "IT/기술 업체에서 이러한 보안 기능은 권위를 띄고 비즈니콜 시스템을 강화하여 보호해소하는 중요한 역량입니다."
-    },
-    {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 01:42:59 +0000",
-      "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-      "language": "en",
-      "summary": "Mercor, an AI-focused recruiting startup specializing in resume scanning and interview chatbots using large language models (LLMs), suffered a cyberattack linked to the compromise of its open-source LiteLLM project. The attackers demanded payment for safe release of stolen data, with an FBI investigation ongoing.",
-      "points": [
-        "- Mercor confirmed it was hit by extortion hacking tied to their AI recruitment tools targeted via the compromised open-source LiteLLM project",
-        "- The attackers took credit for stealing sensitive data, with a ransom demand of $50,00 endorsed on Mercor's Twitter.",
-        "- An FBI investigation is underway to identify and hold accountable the perpetrators."
-      ],
-      "insight": "This incident underscores the importance for companies utilizing open-source tools in IT/technology industries to invest more heavily in robust security measures, as even seemingly small projects can become targets of cyberattacks with significant consequences."
-    },
-    {
-      "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
-      "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 01:00:00 +0000",
-      "description": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
-      "language": "en",
-      "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving",
-      "points": [
-        "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders buildin...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic is having a month",
-      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 23:58:26 +0000",
-      "description": "A human really borks things at Anthropic for the second time this week.",
-      "language": "en",
-      "summary": "Anthropic experienced repeated issues with one of their employees on two separate occasions within a single week.",
-      "points": [
-        "Employee 'borks' at Anthropic for the second time in as many weeks",
-        "The employee, who is described colloquially as being like an unruly child, has caused repeated disrudecies and frustrations within their workplace.",
-        "Anthropic continues to be a sought-after company despite these recurring issues."
-      ],
-      "insight": "The Anthropic's ability to maintain its desirability as an employer even in the face of repeated disruptions suggests strong overall workplace culture and management strategies, though it may raise concerns about consistent team performance or employee behavior standards within the company."
     }
   ]
 }
