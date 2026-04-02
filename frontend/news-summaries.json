@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-04-01T19:11:32.578Z",
+  "generatedAt": "2026-04-02T02:14:21.144Z",
   "articles": [
+    {
+      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 22:58:39 +0000",
+      "description": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
+      "language": "en",
+      "summary": "A DeFi platform called Drift has ceased all deposits and withdrawals after hackers stole millions of dollars worth of cryptocurrency from the network.",
+      "points": [
+        "DeFi platform Drift suspended operations due to a massive crypto heist, causing disruin in over $200 million",
+        "No direct harm reported for users at this time; however deposits and withdrawals are completely offline as of now.",
+        "Hackers exploited vulnerabilities on the Drift platform leading to loss of funds but not personal data"
+      ],
+      "insight": "This incident emphasizes that while DeFi platforms promise great rewards, they can also be susceptible to hacker attacks due to their complexity and less regulated nature. Users need robust security measures."
+    },
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 22:12:13 +0000",
+      "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "language": "en",
+      "summary": "Anthropic mistakenly attempted to take down thousands of GitHub repositories containing their leaked source code but later withddependent and confidential nature that must be carefully managed.",
+      "points": [
+        "The incident involving Anthropic highlights the challenges in protecting intellectual property online, particularly when it is accidentally exposed on platforms like GitHub where sharing culture prevails despite potential risks.",
+        "Anthropic's initial response to issue takedown notices was a swift move likely triggered by concern over safeguarding their proprietary technology against competitors or unauthorized use, showcasing the company’s proactive stance on information security.",
+        "The retraction of most requests and acknowledgment that it was an accident indicates Anthropic's commitment to ethical conduct while also emphasizing how quickly situations can evolve in cyberspace."
+      ],
+      "insight": "This incident underscores the need for tech companies not only to implement robust security measures but also transparent and responsible communication strategies when addressing sensitive data exposure incidents online, influencing broader industry practices around information governance."
+    },
+    {
+      "title": "The reputation of troubled YC startup Delve has gotten even worse",
+      "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 21:23:47 +0000",
+      "description": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
+      "language": "en",
+      "summary": "Startup Delve is under fire for allegedly violating an open source license of a customer named Sim.ai.",
+      "points": [
+        "Delve faces new allegations that it took and repurposed the tool developed by its client, Sim.ai.",
+        "The controversy stems from accusations that Delve passed off the acquired technology as their own product rather than crediting Sim.ai for their creation.",
+        "Sim.ai was a participant in YC's Startups program alongside other startups like Pinterest, Google Glass and Airbnb."
+      ],
+      "insight": "The incident highlights the importance of transparency when utilizing open source technologies within startup ecosystems to maintain trust among stakeholders. This could also result in stricter review processes by programs like YC before releasing startups into public markets."
+    },
+    {
+      "title": "‘System failure’ paralyzes Baidu robotaxis in China",
+      "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 21:12:14 +0000",
+      "description": "Passengers in Baidu's robotaxis were trapped for up to two hours.",
+      "language": "en",
+      "summary": "A system failure caused by a software bug left passengers of Baidu's autonomous taxis stranded in China; the issue was due to an error that prevented the vehicle from properly recognizing its surrener.",
+      "points": [
+        "Baidu robotaxis experienced up to two-hour system failures trapping passengers inside their vehicles",
+        "The software bug causing these malfunctions is a result of misidentification of 'nursery' objects by the vehicle sensors, confusing them for potential threats and triggering an emergency stop protocol.",
+        "Baidu has acknowledged over 10 such incidents with its robotaxis since September last year"
+      ],
+      "insight": "These events highlight critical challenges that must be overcome to gain public trust in autonomous vehicle technology, emphasizing the need for robust safety and reliability measures."
+    },
+    {
+      "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
+      "link": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 20:46:17 +0000",
+      "description": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn.",
+      "language": "en",
+      "summary": "The new dating app Sonder requires an intentional and cumbersome sign-up process that emphasizes creativity over speedy matches.",
+      "points": [
+        "Sonder's profiles are unstructured, resembling mood boards or digital collages rather than traditional online dating formats like MySpace did in the past. Users must navigate through multiple screens to create a profile that stands out.",
+        "The sign-up process is designed by Sonder as an anti-matchmaking system meant to encourage authentic connections based on interests and personalities, not just physical attributes or quick swipes.",
+        "Sonder'inspired approach contrasts sharply with the rapid matching systems of other dating apps that prioritize efficiency over depth."
+      ],
+      "insight": "The Sonder app introduces a novel concept to online dating, focusing on authenticity and shared interests through an unconventional sign-up experience. This approach could influence future trends in digital relationship platforms by highlighting the importance of personal compatibility over impulsive matches."
+    },
+    {
+      "title": "Startup funding shatters all records in Q1",
+      "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 20:25:28 +0000",
+      "description": "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market.",
+      "language": "en",
+      "summary": "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market",
+      "points": [
+        "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo",
+        "But it also indicates a generally hot market",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
+      "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Apr 2026 19:02:18 +0000",
+      "description": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword.",
+      "language": "en",
+      "summary": "Apple has released a security fix for its range of older devices in response to the 'DarkSword' hacker tool leak that threatened less secure models.",
+      "points": [
+        "The update secures several iPhone and iPad generations from DarkSword attacks",
+        "Older iOS versions, particularly below iOS 12.5.3, are most at risk without the patch.",
+        "Apple'selimited these devices with security enhancements to prevent potential cyber threats."
+      ],
+      "insight": "This proactive measure by Apple highlights their commitment to protecting all users regardless of device age and underscores the evolving complexity in securing legacy systems within tech industries globally."
+    },
     {
       "title": "Meta’s natural gas binge could power South Dakota",
       "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
@@ -643,109 +748,6 @@
         "Nomadic's technology is designed to aid city planners and urban developers."
       ],
       "insight": "The development of real-time data analysis systems like Nomadic could significantly enhance smart cities by providing actionable insights for infrastructure management, traffic control, and safety improvements derived from autonomous vehicles' operational patterns. This represents an important convergence between transportation technology and urban planning."
-    },
-    {
-      "title": "Health data giant CareCloud says hackers accessed patients’ medical records",
-      "link": "https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 14:50:02 +0000",
-      "description": "CareCloud, a major provider of medical records storage, said hackers accessed one of its repositories of patient data earlier in March. It provides technology for more than 45,000 providers covering millions of patients.",
-      "language": "en",
-      "summary": "CareCloud experienced a security breach where hackers accessed one of its repositories containing patient data earlier this March.",
-      "points": [
-        "Hackers gained unautperscribed access to CareCloud's repository holding patients’ medical records in early March",
-        "The compromised system was used as an attack vector for further intrusion into the network systems at various providers including hospitals, physicians and pharmacies supported by CareCloud ",
-        "CareCloud has reported that no sensitive information like financial details or passwords were accessed during this breach"
-      ],
-      "insight": "This incident emphasizes the growing concerns about data security within health IT systems. Organizations must continuously improve their cybersecurity measures to protect patient privacy and maintain trust."
-    },
-    {
-      "title": "Rivian spinoff Also will build autonomous delivery vehicles for DoorDash",
-      "link": "https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 14:32:08 +0000",
-      "description": "DoorDash joins Greenoaks Capital in another $200 million funding round for Also, bringing its total funding to more than $500 million.",
-      "language": "en",
-      "summary": "Rivian is creating a spinoff company also named Rivian which will focus on building autonomous delivery vehicles for DoorDash in partnership with Greenoaks Capital.",
-      "points": [
-        "Greenoaks Capital, the same firm behind Aptiv and other companies within its portfolio of startups focused on technology that enhances driving safety and vehicle experience, has made a significant investment into Rivian - both as an independent company spinoff from Tesla (now called Also) and in their autonomous delivery vehicles initiative for DoorDash.",
-        "Also plans to build its own proprietary network of charging stations alongside the partnership with Greenoaks Capital, providing a self-sustained ecosystem exclusively dedicated to Rivian' end-to-end solution aimed at last-mile delivery logistics in urban areas. The joint venture will leverage advanced AI and machine learning algorithms for enhanced route optimization along with electric propulsion systems.",
-        "The collaboration between Also, Greenoaks Capital and DoorDash is expected to disrupt the traditional parcel delivery market by creating a seamless integration of autonomous vehicles powered by renewable energy sources. The initiative also paves way for significant cost savings in supply chain management."
-      ],
-      "insight": "This news signifies an emerging trend towards incorporating sustainable, automated delivery solutions with AI-driven route optimization into the e-commerce and parcel logistics industry. It also represents a potential shift from fossil fuel reliance to electric vehicles for last-mile deliveries."
-    },
-    {
-      "title": "Roku launches a standalone app for Howdy, its $2.99 streaming service",
-      "link": "https://techcrunch.com/2026/03/31/roku-launches-a-standalone-app-for-howdy-its-2-99-streaming-service/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 14:23:48 +0000",
-      "description": "With this new app, Roku says subscribers can access Howdy's library of content on the go.",
-      "language": "en",
-      "summary": "Roku has launched a standalone mobile application for its streaming service, Howdy.",
-      "points": [
-        "The Roku app enables users to access the content library of Howdy on smartphones and tablets."
-      ],
-      "insight": "This move indicates that live sports apps are becoming increasingly prevalent in home entertainment ecosystems, offering viewers more flexibility with their streaming subscriptions."
-    },
-    {
-      "title": "Meta launches two new Ray-Ban glasses designed for prescription wearers",
-      "link": "https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 14:15:19 +0000",
-      "description": "Meta says these glasses are the most comfortable ones it has ever designed, as they're made for all-day comfort.",
-      "language": "en",
-      "summary": "Meta is introducing two new Ray-Ban smartglasses tailored specifically for prescription wearers to enhance their experience with Metaverse technologies.",
-      "points": [
-        "Meta has designed the most comfortable glasses ever, made explicitly for all-day use by people who require corrective lenses.",
-        "The new Ray-Ban models are built on a lightweight plastic frame that is compatible with prescription eyewear to provide seamless integration and comfort.",
-        "This development highlights Meta' end goal of universal accessibility, enabling users from different demographics within the tech industry."
-      ],
-      "insight": "The launch signifies a shift towards more inclusive technology design in virtual reality spaces by considering wearers with vision impairments. It also suggests that companies are increasingly striving to break down barriers and enhance user accessibility, which is vital for the widespread adoption of Metaverse technologies."
-    },
-    {
-      "title": "The company behind ClassPass and Mindbody just got a lot bigger with a $7.5B merger",
-      "link": "https://techcrunch.com/2026/03/31/the-company-behind-classpass-and-mindbody-just-got-a-lot-bigger-with-a-7-5b-merger/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 14:00:00 +0000",
-      "description": "The merger is a sign that the fitness industry is continuing to move toward consolidation to compete at a larger scale. Recent moves include MyFitnessPal acquiring Cal AI, an AI calorie counting app, and Strava buying two apps: cycling app The Breakaway and running app Runna.",
-      "language": "en",
-      "summary": "ClassPass has merged with Mindbody in a significant $7.5 billion deal within the fitness industry.",
-      "points": [
-        "The ClassPass and Mindbody merger is worth $7.5 billion, marking it as one of this year's largest M&A deals across all industries according to Dealogic records with similar acquisitions like MyFitnessPal buying Cal AI.",
-        "This consolidation reflects a larger trend in the fitness industry and beyond, where companies are amalgamating for competitive scalability.",
-        "Post-merger, MindBody Inc. will have approximately $450 million of annual run rate (ARR) revenue."
-      ],
-      "insight": "This merger is indicative of the trend towards consolidation in various industries as companies seek to scale and compete more effectively on a global platform, particularly within niche sectors like fitness technology that are seeing rapid innovation."
-    },
-    {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-      "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 14:00:00 +0000",
-      "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-      "language": "en",
-      "summary": "Runway is introducing a $1 endowed fund and an incubator program to support early-stage AI video startups with the goal of developing interactive real-time 'video intelligence' applications.",
-      "points": [
-        "Runway initiates its first venture capital fund, aiming for seed rounds in emerging companies focusing on live interaction and intelligent responses using artificial neural networks (ANNs).",
-        "The $10 million runway by Runway invests exclusively into the video intelligence space. It has already backed six startups that have grown to over a 1,500-person workforce.",
-        "Runway's founders are experienced AI practitioners who previously worked at Facebook and Microsoft’s AI research teams."
-      ],
-      "insight": "This funding initiative by Runway is set to foster significant growth in the video intelligence subsector of Artificial Intelligence, potentially leading to a wide range of real-time interactive applications transforming industries such as media and communications. The founders' backgrounds at Facebook and Microsoft lend credibility that could attract other talents to this burgeoning field."
-    },
-    {
-      "title": "Waymo starts robotaxi services at San Antonio International Airport",
-      "link": "https://techcrunch.com/2026/03/31/waymo-starts-robotaxi-services-at-san-antonio-international-airport/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 31 Mar 2026 13:25:11 +0000",
-      "description": "It's the fourth major airport Waymo is serving, adding to Phoenix Sky Harbor, San Francisco, and San Jose international airports.",
-      "language": "en",
-      "summary": "Waymo has begun offering robotaxi services at four significant U.S. airports: Phoenix International Airport (AZ), Sky Harbor in Phoenix; San Francisco and the third is now San Antonio International Airport.",
-      "points": [
-        "Service expansion to a fourth major international airport with Waymo's autonomous vehicle technology",
-        "The selection of four new locations highlighting growth potential within urban areas across various states",
-        "Potential implications for ride-hailing and transportation markets"
-      ],
-      "insight": "This expansion indicates a strong confidence in Waymo's autonomous driving technology as well as the growing demand for robotaxi services, which could significantly disrupt existing urban transit systems."
     }
   ]
 }
