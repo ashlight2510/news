@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-03T02:40:18.384Z",
+  "generatedAt": "2026-04-03T07:11:45.187Z",
   "articles": [
+    {
+      "title": "“교육 데이터 장벽 허문다”... 개인정보위, KERIS ‘이노베이션 존’ 본격 가동",
+      "link": "http://www.boannews.com/media/view.asp?idx=142999&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 3 Apr 2026 11:39:00 +0900",
+      "description": "데이터 처리 환경 안전성 대폭 높여 가명정보의 장기 보관 및 제3자 재사용 허용이종(異種) 분야 데이터 결합 분석 지원해 에듀테크 및 AI 혁신 산업 마중물 기대[보안뉴스 조재호 기자] 개인정보보호위원회(이하 개인정보위)는 한국교육학술정보원(KERIS)에 설치되는 ‘개인정보 이노베이션 존’을 4월 3일부터 본격적으로 운영한다고 밝혔다. 이노베이션 존은 데이",
+      "language": "ko",
+      "summary": "데이터 처리 환경 안전성 대폭 높여 가명정보의 장기 보관 및 제3자 재사용 허용이종(異種) 분야 데이터 결합 분석 지원해 에듀테크 및 AI 혁신 산업 마중물 기대[보안뉴스 조재호 기자] 개인정보보호위원회(이하 개인정보위)는 한국교육학술정보원(KERIS)에 설치되는 ‘개인정보 이노베이션 존’을 4월 3일부터 본격적으로 운영한다고 밝혔다. 이노베이션 존은 데이",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“망분리 한계 넘는다” 차세대 보안 아키텍처 제로트러스트 보안 교육 실시",
+      "link": "http://www.boannews.com/media/view.asp?idx=142997&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 3 Apr 2026 11:20:00 +0900",
+      "description": "금융결제원 및 KB국민은행 등 선도적인 제로트러스트 도입 실증 사례 공유엠엘소프트 솔루션 활용한 실습으로 핵심 3요소 구축 방법론 현장 체득[보안뉴스 조재호 기자] 한국제로트러스트보안협회와 투이컨설팅이 국내 최초로 공공 및 민간 보안 담당자를 대상으로 한 제로트러스트 보안 이론 및 실습 교육을 진행했다. 기존 망분리 규제를 대체할 차세대 보안 패러다임의 실",
+      "language": "ko",
+      "summary": "제로트러스트 보안 교육을 통한 망분리 규제에 대한 이해와 기술",
+      "points": [
+        "실습으로 선도자, 민간보안 및 시장전문가를 통화하고 망분리 규제를 이해하는 방식을 학습한다.",
+        "보안예산과 보안기업에 대한 개인의 지체적인 피고들이 변화",
+        "긍정적으로 보안설정과 문화적 규제에 집중한다."
+      ],
+      "insight": "이러한 교육은 선도자와 민간보안 전문가들의 경쟁 장기성을 강화하고, 보안총상위의 신뢰점과 민족적 규제를 유지한다."
+    },
+    {
+      "title": "토스페이먼츠, 국내 금융·IT 업계 첫 ‘양자내성암호’ 전 구간 도입",
+      "link": "http://www.boannews.com/media/view.asp?idx=142998&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 3 Apr 2026 11:18:00 +0900",
+      "description": "정부 마스터플랜보다 10년 앞선 선제적 행보, 자체 IDC 및 AWS 인프라 전면 적용‘선수집·후복호화’ 공격 원천 차단해 장기적인 금융 결제 데이터 기밀성 확보[보안뉴스 조재호 기자] 토스페이먼츠가 국내 금융·IT 업계에서 처음으로 결제 서비스 전 구간에 걸쳐 양자내성암호를 전면 도입했다. 정부의 양자 보안 마스터플랜보다 10년 앞서 ‘선 수집·후 복호화",
+      "language": "ko",
+      "summary": "국내 IT/금융 업계에서 첫 포인트로 거래처 암호화 시스크 도입",
+      "points": [
+        "-국내 IT/금융 업계에서 첫 경우 '선수집·후복호화' 공지로 암호화 시스크를 도임",
+        "-거래처, IDC 및 AWS 인프라 전면으로 도임",
+        "-장기적으로 금융 결제 데이터의 안전성을 강화"
+      ],
+      "insight": "이러한 통합 프로세스는 금융 서비스 안전성을 확보하고, 국내 IT/금융 업계에서의 철학적인 취치를 목적으로 한다."
+    },
     {
       "title": "“패치 안 된 서버는 필패”... 오라클 웹로직 노린 해커들의 ‘무차별 폭격’",
       "link": "http://www.boannews.com/media/view.asp?idx=142993&kind=&sub_kind=",
@@ -703,51 +748,6 @@
         "Artificial general intelligence (AGI), unlike specialized narrow AIs such as Microsoft's ChatGPT or Google Assistant that excel in specific tasks like language translation or image recognition, has the potential to perform any intellectual task almost as well as a human. AGI is still largely theoretical and faces considerable technical challenges."
       ],
       "insight": "The development of AI-powered data centers highlights Meta's commitment to reducing carbon emissions while supporting its massive infrastructure needs, setting an example for sustainable practices in the tech industry. Additionally, Microsoft’s investment demonstrates a significant focus on advancing artificial intelligence research which could lead to breakthrough AGIs that may redefine humanity's capabilities."
-    },
-    {
-      "title": "Cameo partners with TikTok to boost popularity",
-      "link": "https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 17:11:20 +0000",
-      "description": "Cameo launched a new TikTok integration that allows U.S. creators to offer personalized videos through the app.",
-      "language": "en",
-      "summary": "Cameo launched a new TikTok integration that allows U. creators to offer personalized videos through the app",
-      "points": [
-        "Cameo launched a new TikTok integration that allows U",
-        "creators to offer personalized videos through the app",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
-      "link": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 16:34:10 +0000",
-      "description": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware.",
-      "language": "en",
-      "summary": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "description": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "language": "en",
-      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half",
-      "points": [
-        "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by mo...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
