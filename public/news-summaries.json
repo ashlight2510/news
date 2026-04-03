@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-03T13:05:02.134Z",
+  "generatedAt": "2026-04-03T18:47:35.617Z",
   "articles": [
+    {
+      "title": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
+      "link": "https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 03 Apr 2026 16:48:09 +0000",
+      "description": "It's a new era for Tesla — and one that will rely on its ability to launch the Cybercab and mass-produce the Optimus robot.",
+      "language": "en",
+      "summary": "It's a new era for Tesla — and one that will rely on its ability to launch the Cybercab and mass-produce the Optimus robot",
+      "points": [
+        "It's a new era for Tesla — and one that will rely on its ability to launch the Cybercab and mass-pro...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
+      "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 03 Apr 2026 15:50:43 +0000",
+      "description": "CERT-EU blamed the cybercrime group TeamPCP for the recent hack on the European Commission, and said the notorious ShinyHunters gang was responsible for leaking the stolen data online.",
+      "language": "en",
+      "summary": "Europe's cybersecurity agency CERT-EU attributed a massive EU Commission data breach to hacking groups TeamPCP and ShinyHunters.",
+      "points": [
+        "The European Union suffered its largest known data leak, with stolen documents being released online by the hacker collective referred to as 'ShinyHunters'.",
+        "TeamPCP is a well-known cybercrime group that infiltrated EU Commission networks and acquired confidential information.",
+        "The exposed files include sensitive data on individuals, which could lead to privacy violations."
+      ],
+      "insight": "This breach highlights the growing threat of organized hacking groups against governmental entities within Europe'th cybersecurity landscape. It underscores a critical need for improved digital security measures in protecting sensitive information from unauthorized access and distribution."
+    },
+    {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 03 Apr 2026 14:00:15 +0000",
+      "description": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+      "language": "en",
+      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior",
+      "points": [
+        "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation pol...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "[2026 내부자 위협 대응 리포트] 가장 가까운 곳이 가장 위험하다: 쿠팡 해킹 사태의 경고",
       "link": "http://www.boannews.com/media/view.asp?idx=142906&kind=&sub_kind=",
@@ -703,51 +748,6 @@
         "Sim.ai was a participant in YC's Startups program alongside other startups like Pinterest, Google Glass and Airbnb."
       ],
       "insight": "The incident highlights the importance of transparency when utilizing open source technologies within startup ecosystems to maintain trust among stakeholders. This could also result in stricter review processes by programs like YC before releasing startups into public markets."
-    },
-    {
-      "title": "‘System failure’ paralyzes Baidu robotaxis in China",
-      "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 21:12:14 +0000",
-      "description": "Passengers in Baidu's robotaxis were trapped for up to two hours.",
-      "language": "en",
-      "summary": "A system failure caused by a software bug left passengers of Baidu's autonomous taxis stranded in China; the issue was due to an error that prevented the vehicle from properly recognizing its surrener.",
-      "points": [
-        "Baidu robotaxis experienced up to two-hour system failures trapping passengers inside their vehicles",
-        "The software bug causing these malfunctions is a result of misidentification of 'nursery' objects by the vehicle sensors, confusing them for potential threats and triggering an emergency stop protocol.",
-        "Baidu has acknowledged over 10 such incidents with its robotaxis since September last year"
-      ],
-      "insight": "These events highlight critical challenges that must be overcome to gain public trust in autonomous vehicle technology, emphasizing the need for robust safety and reliability measures."
-    },
-    {
-      "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
-      "link": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 20:46:17 +0000",
-      "description": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn.",
-      "language": "en",
-      "summary": "The new dating app Sonder requires an intentional and cumbersome sign-up process that emphasizes creativity over speedy matches.",
-      "points": [
-        "Sonder's profiles are unstructured, resembling mood boards or digital collages rather than traditional online dating formats like MySpace did in the past. Users must navigate through multiple screens to create a profile that stands out.",
-        "The sign-up process is designed by Sonder as an anti-matchmaking system meant to encourage authentic connections based on interests and personalities, not just physical attributes or quick swipes.",
-        "Sonder'inspired approach contrasts sharply with the rapid matching systems of other dating apps that prioritize efficiency over depth."
-      ],
-      "insight": "The Sonder app introduces a novel concept to online dating, focusing on authenticity and shared interests through an unconventional sign-up experience. This approach could influence future trends in digital relationship platforms by highlighting the importance of personal compatibility over impulsive matches."
-    },
-    {
-      "title": "Startup funding shatters all records in Q1",
-      "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 20:25:28 +0000",
-      "description": "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market.",
-      "language": "en",
-      "summary": "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market",
-      "points": [
-        "The record quarterly fundraise largely fueled four mega-deals into OpenAI, Anthropic, xAI, and Waymo",
-        "But it also indicates a generally hot market",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
