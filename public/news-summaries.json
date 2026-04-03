@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-03T07:11:45.187Z",
+  "generatedAt": "2026-04-03T13:05:02.134Z",
   "articles": [
+    {
+      "title": "[2026 내부자 위협 대응 리포트] 가장 가까운 곳이 가장 위험하다: 쿠팡 해킹 사태의 경고",
+      "link": "http://www.boannews.com/media/view.asp?idx=142906&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 3 Apr 2026 18:32:00 +0900",
+      "description": "사이버 공격은 ‘내부자’를 노린다... 어느새 대세가 된 내부자 위협[설문조사] 내부자 위협 중 가장 위험한 것은 금전적 이득 등 명확한 목적 가진 내부자내부자 위협 대응 솔루션 전문기업 집중분석: 네오아이앤이, 안랩, 넷앤드, 위즈코리아, 마크애니[보안뉴스 원병철 기자] 2025년 11월 쿠팡의 해킹 사건이 알려지고, 정부가 3370만건의 개인정보가 유출",
+      "language": "ko",
+      "summary": "쿠팡 해킹이 가장 위험한 내부자 위협을 대체로 강조하는 뉴스이다.",
+      "points": [
+        "- 3370만건의 개인정보가 적음에서 해킹",
+        "- 쿠팡의 해킹 사거에 대한 경고로",
+        "- 국민이 이루어진 위반시행전 조직에서"
+      ],
+      "insight": "이러한 내부자 위협은 IT/기술 업체에서의 계보로 다수의 회사가 위반될 수 don't know the exact insights related to IT and software industry in this news, but generally such incidents highlight vulnerabilities within digital infrastructure and data protection practices that need immediate attention. Companies specializing in cybersecurity solutions are likely experiencing increased demand as businesses strive to safeguard against similar attacks."
+    },
+    {
+      "title": "고려대, ‘AI보안연구소’ 출범... “대한민국, AI 신뢰 1위 국가 만들 것”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143000&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 3 Apr 2026 17:26:00 +0900",
+      "description": "고려대 25년 정보보호 교육 역량 집대성한 핵심 거점, 평가·인증 생태계 확립 박차원천기술 연구부터 정책 및 표준화까지 아우르는 4대 핵심 전략 로드맵 공개[보안뉴스 조재호 기자] “고려대학교는 기술과 검증, 정책, 산업, 교육 생태계를 빈틈없이 연결하는 통합 플랫폼으로 진화해 대한민국을 AI 신뢰 1위 국가로 이끌겠습니다. 단순한 학술 연구를 넘어 누구나",
+      "language": "ko",
+      "summary": "고려대 25년 정보보호 교육 역량 집대성한 핵심 거점, 평가·인증 생태계 확립 박차원천기술 연구부터 정책 및 표준화까지 아우르는 4대 핵심 전략 로드맵 공개[보안뉴스 조재호 기자] “고려대학교는 기술과 검증, 정책, 산업, 교육 생태계를 빈틈없이 연결하는 통합 플랫폼으로 진화해 대한민국을 AI 신뢰 1위 국가로 이끌겠습니다. 단순한 학술 연구를 넘어 누구나",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "“교육 데이터 장벽 허문다”... 개인정보위, KERIS ‘이노베이션 존’ 본격 가동",
       "link": "http://www.boannews.com/media/view.asp?idx=142999&kind=&sub_kind=",
@@ -718,36 +748,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
-      "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 19:02:18 +0000",
-      "description": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword.",
-      "language": "en",
-      "summary": "Apple has released a security fix for its range of older devices in response to the 'DarkSword' hacker tool leak that threatened less secure models.",
-      "points": [
-        "The update secures several iPhone and iPad generations from DarkSword attacks",
-        "Older iOS versions, particularly below iOS 12.5.3, are most at risk without the patch.",
-        "Apple'selimited these devices with security enhancements to prevent potential cyber threats."
-      ],
-      "insight": "This proactive measure by Apple highlights their commitment to protecting all users regardless of device age and underscores the evolving complexity in securing legacy systems within tech industries globally."
-    },
-    {
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Apr 2026 18:35:36 +0000",
-      "description": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-      "language": "en",
-      "summary": "Meta plans to build a large-scale artificial intelligence data center in South Dakota that will run entirely on energy generated from ten newly constructed natural gas power stations.",
-      "points": [
-        "Meta'neras, an advanced AI developed by Microsoft and partnerships with companies like Meta have begun generating significant revenue streams for enterprises while drastically reducing operating costs.",
-        "Microsoft announced a $10 billion commitment to invest in artificial intelligence research over the next five years. The plan includes expanding its internal labs, developing new AI tools and establishing partnerships with academia and industry peers.",
-        "Artificial general intelligence (AGI), unlike specialized narrow AIs such as Microsoft's ChatGPT or Google Assistant that excel in specific tasks like language translation or image recognition, has the potential to perform any intellectual task almost as well as a human. AGI is still largely theoretical and faces considerable technical challenges."
-      ],
-      "insight": "The development of AI-powered data centers highlights Meta's commitment to reducing carbon emissions while supporting its massive infrastructure needs, setting an example for sustainable practices in the tech industry. Additionally, Microsoft’s investment demonstrates a significant focus on advancing artificial intelligence research which could lead to breakthrough AGIs that may redefine humanity's capabilities."
     }
   ]
 }
