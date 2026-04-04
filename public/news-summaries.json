@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-04T12:54:28.438Z",
+  "generatedAt": "2026-04-04T18:45:10.372Z",
   "articles": [
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 04 Apr 2026 16:32:22 +0000",
+      "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "language": "en",
+      "summary": "Anthropic is charging additional fees for using the company's Claude Code alongside certain third-party AI code assistants like OpenClaw.",
+      "points": [
+        "Claude Code subscribers now face extra charges to access and integrate with tools such as OpenClaw outside of Anthropic’s ecosystem.",
+        "Third-party partnerships, particularly those focused on language models' versatility in coding assistance (OpenAI), are undergoing strategic changes.",
+        "The news reflects an industry trend where providers seek to monetize third-party integrations."
+      ],
+      "insight": "This pricing strategy could influence the integration of AI tools within organizations, potentially affecting adoption rates and partnership preferences in the IT/technology sector. It emphasizes a shift towards more controlled ecosystems where providers like Anthropic play central roles."
+    },
+    {
+      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+      "link": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 04 Apr 2026 13:00:00 +0000",
+      "description": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones.",
+      "language": "en",
+      "summary": "Mikko Hyppönen, a seasoned cybersecurity expert with over three decdis years in the field battling malware and computer threats, is pivoting towards preventing 'killer drones.' His experience at F-Secure has led him to this unique challenge.",
+      "points": [
+        "Mikko Hyppönen transitions from fighting traditional cyberthreats like viruses and worms for over three decades, as a pioneering figure in the industry recognized by TechCrunch.",
+        "Hyppönen brings his extensive experience to counter 'killer drones,' leveraging systems developed at F-Secure during its early days of anti-virus software creation.",
+        "The evolving cybersecurity field sees Hyppönen tackling drone security, reflecting the broadening scope from computer threats to physical ones."
+      ],
+      "insight": "Hyppönen's shift towards counteracting drones as a form of emerging threat signals the expansion of cybersecurity into all areas where technology intersects with potential risks, showing that these professionals are adaptable and ready for future challenges."
+    },
     {
       "title": "에이엠씨랩, 횡적 이동 방지 솔루션 ‘허니비’로 시장 공략... 시스템 부하, 인력 부담 줄여",
       "link": "http://www.boannews.com/media/view.asp?idx=143002&kind=&sub_kind=",
@@ -716,36 +746,6 @@
         "세계 3대 해킹방어대회 ‘코드게이트’ 본선 진출자 확정KAIST 개발 AI 해커 최초 출전",
         "인간과 AI 진검승부[보안뉴스 조재호 기자] 코드게이트 2026 예선전이 88개국 3333명의 화이트 해커가 참여한 가운데 본선 진출자 명단이 최종 확정됐다",
         "올해 대회는 오는 7월 코엑스 본선에서는 카이스트가 개발한 AI 해커가 출전해 인간과 AI의 대결이 펼"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[AI와 보안] AI 신원도 검증... 라온시큐어, 블록체인 DID 기반 ‘AAM’ 개발",
-      "link": "http://www.boannews.com/media/view.asp?idx=142986&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 2 Apr 2026 16:16:00 +0900",
-      "description": "업스테이지와 에이전틱AI 신원 검증 및 권한 통제 모델 개발허용 권한 내에서만 작동... 피지컬AI 시대 리스크 선제 차단[보안뉴스 조재호 기자] 라온시큐어가 업스테이지와 손잡고 스스로 판단하고 행동하는 ‘에이전틱AI’ 기반 보안 자동화 시장 선점에 나섰다. AI 에이전트의 신원을 검증해 엄격한 권한 통제를 하는 ‘AAM’(Agentic AI Managem",
-      "language": "ko",
-      "summary": "업스테이지와 에이전틱AI 신원 검증 및 권한 통제 모델 개발허용 권한 내에서만 작동. 피지컬AI 시대 리스크 선제 차단[보안뉴스 조재호 기자] 라온시큐어가 업스테이지와 손잡고 스스로 판단하고 행동하는 ‘에이전틱AI’ 기반 보안 자동화 시장 선점에 나섰다...",
-      "points": [
-        "업스테이지와 에이전틱AI 신원 검증 및 권한 통제 모델 개발허용 권한 내에서만 작동",
-        "피지컬AI 시대 리스크 선제 차단[보안뉴스 조재호 기자] 라온시큐어가 업스테이지와 손잡고 스스로 판단하고 행동하는 ‘에이전틱AI’ 기반 보안 자동화 시장 선점에 나섰다",
-        "AI 에이전트의 신원을 검증해 엄격한 권한 통제를 하는 ‘AAM’(Agentic AI Managem"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "韓 정부, 퀀텀개발그룹 13개국과 연대 강화... “글로벌 양자 생태계 선도”",
-      "link": "http://www.boannews.com/media/view.asp?idx=142988&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 2 Apr 2026 16:05:00 +0900",
-      "description": "런던 제5차 QDG 회의서 안보·투자·표준 협력 방안 심층 논의국내 기업 참여 민관 협의체 출범 발표[보안뉴스 조재호 기자] 정부 대표단은 영국 런던에서 열린 제5차 퀀텀개발그룹(QDG) 회의에 참석해 13개국과 안전한 양자 생태계 조성을 논의했다. 이를 통해 정부는 글로벌 핵심 기술의 표준화를 주도하고, 무역 원활화 및 투자 촉진을 기반으로 국가 경제",
-      "language": "ko",
-      "summary": "런던 제5차 QDG 회의서 안보·투자·표준 협력 방안 심층 논의국내 기업 참여 민관 협의체 출범 발표[보안뉴스 조재호 기자] 정부 대표단은 영국 런던에서 열린 제5차 퀀텀개발그룹(QDG) 회의에 참석해 13개국과 안전한 양자 생태계 조성을 논의했다. 이를 통해 정부는 글로벌 핵심 기술의 표준화를 주도하고, 무역 원활화 및 투자 촉진을 기반으로 국가 경제",
-      "points": [
-        "런던 제5차 QDG 회의서 안보·투자·표준 협력 방안 심층 논의국내 기업 참여 민관 협의체 출범 발표[보안뉴스 조재호 기자] 정부 대표단은 영국 런던에서 열린 제5차 퀀텀개발그룹(...",
-        "이를 통해 정부는 글로벌 핵심 기술의 표준화를 주도하고, 무역 원활화 및 투자 촉진을 기반으로 국가 경제",
-        "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
