@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-04-07T19:11:22.839Z",
+  "generatedAt": "2026-04-08T02:28:42.158Z",
   "articles": [
+    {
+      "title": "충남도, CCTV 6만7500개 엮어 재난 실시간 판단·대응",
+      "link": "http://www.boannews.com/media/view.asp?idx=143062&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 8 Apr 2026 10:18:00 +0900",
+      "description": "시군·중앙부처·유관기관 CCTV 연계 ‘종합 모니터링시스템’ 구축재난 현장 인근 CCTV 입체 활용... 초기 투입 자원·조치 등 결정·추진[보안뉴스 강초희 기자] 충남도(도지사 김태흠)가 도내 6만7500여대의 CCTV를 한곳에 모아 재난·재해 상황을 실시간·입체적으로 파악할 수 있는 시스템을 구축했다.복잡·대형화되고 있는 자연·사회 재난 발생 시 상황",
+      "language": "ko",
+      "summary": "충남도는 6만7500개의 CCTV를 한곳에 모아서 자연상태가 발침하여 재난 현장 인근의 상황을 실시간으로 판단하고 대응하는 시스템을 구축.",
+      "points": [
+        "충남도가 6만7500개의 CCTV를 한곳에 모아서 재난 현장 인근의 상황을 실시간으로 알아내고 대응하는 시스템을 구축한다.",
+        "CCTV를 이용해서 자연·사회 재난 상황에 대한 모니터링을 수동으로 제공하고 자동으로 조치를 점진러내는 방식이다.",
+        "시스템은 CCTV의 중간지수에서 변경된 영역을 가장 자연상태와 광고로 매칭시킨다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업체에서의 CCTV 기술의 활용과 자동 재난 알맞은 시스템구조에 대해 주요한 정보를 제공합니다."
+    },
+    {
+      "title": "[카드뉴스] “착한 AI가 갑자기 욕설을?”… 학습 데이터에 ‘독’ 푸는 데이터 포이즈닝 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=143061&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 8 Apr 2026 09:43:00 +0900",
+      "description": "AI 모델의 학습 데이터에 악성 데이터를 교묘하게 주입하여 저작권 침해, 차별, 가짜 뉴스 등 잘못된 결과물을 도출하게 만드는 ‘데이터 포이즈닝’ 공격이 새로운 보안 위협으로 부상했다. 해커는 AI의 기술적 결함보다는 내재된 ‘편향성’을 무기로 삼아 겉보기엔 멀쩡하지만 실제로는 오염된 ‘좀비 AI’를 만들어 기업의 신뢰를 무너뜨릴 수 있다. AI 보안 사고",
+      "language": "ko",
+      "summary": "AI 학습 데이터에 포이즈당한 '오직정' AI가 만들어진다.",
+      "points": [
+        "- 공격자는 AI의 기술적 부창보다는 악성 학습 데이터로 침해를 유발한다.",
+        "- '오직정' AI가 잘못된 결과를 도출하여 신뢰를 무너지는 위험을 만든다.",
+        "- 이러한 공격은 AI보안에 대한 신뢰가 떨어진다."
+      ],
+      "insight": "AI 보안 문제점을 포컅하는 '데이터 포이즈당' 공격은 IT/기술 엔진에서 광범위한 영향을 미치게 된다."
+    },
+    {
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 07 Apr 2026 21:35:02 +0000",
+      "description": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+      "language": "en",
+      "summary": "Arcee is a tiny 26-person U. startup that built a high-performing, massive, open source LLM...",
+      "points": [
+        "Arcee is a tiny 26-person U",
+        "startup that built a high-performing, massive, open source LLM",
+        "And it's gaining popularity with OpenClaw users"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 07 Apr 2026 21:24:54 +0000",
+      "description": "Eclipse will put some of that money towards incubating, or building startups.",
+      "language": "en",
+      "summary": "Venture capital firm Eclipse has raised a $1.3 billion fund focused on backing 'physical AI' startups aimed at creating tangible products and services that incorporate artificial intelligence components.",
+      "points": [
+        "Eclipse is raising its ninth venture round, with an unprecedented $1.3 billion in commitments from more than 50 investors.",
+        "The firm plans to use a portion of the capital for startup incubation by building companies that create AI-infused physical solutions.",
+        "'Physical AI' refers to tangible products and services, not just software or cloud-based offerings."
+      ],
+      "insight": "This move reflects a growing trend in the technology industry towards integrating artificial intelligence with hardware. It highlights an emerging sector where startups are actively contributing innovative AI solutions that have real-world applications, which could influence future funding and strategic directions within tech."
+    },
+    {
+      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+      "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 07 Apr 2026 19:59:06 +0000",
+      "description": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
+      "language": "en",
+      "summary": "The US government has issued a joint advisory warning that Iranian hackers are intensifying attacks against American critical infrastructure amid heightened tensions due to the ongoing U.in-Israel conflict.",
+      "points": [
+        "Iranian state-sponsored actors have increased their cyber threats towards US national security systems, energy sector and other key sectors as a response to escalating conflicts between Iran and Israel/USA",
+        "The joint advisory warns of the possibility of ransomware attacks on critical infrastructure which could impact public safety in addition to economic implications.",
+        "Increased collaboration among US intelligence agencies, including NSA, CISA as well as international partners like Britain's NCSC and Australia’s DIOCER, indicates the urgency of addressing these threats."
+      ],
+      "insight": "The intensified hacking activity by Iranian actors represents a significant threat to US national security. It highlights potential vulnerabilities within critical infrastructure systems that must be addressed through increased collaboration and investment in cybersecurity defenses."
+    },
     {
       "title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
       "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
@@ -673,81 +748,6 @@
         "The platform includes games designed with an emphasis on education and skill development, reflecting Netflix’s broader commitment to providing valuable content"
       ],
       "insight": "Netflix's entry into the gaming market could redefine how digital entertainment platforms expand beyond their core services. The company has a vast reach which might give them an advantage in creating and sustaining quality educational games for children, potentially transforming expectations of streaming content."
-    },
-    {
-      "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
-      "link": "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Apr 2026 18:17:23 +0000",
-      "description": "NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, saying that only a fraction of cases resulted in an incident, and that no incidents resulted in injury. Tesla has also issued a number of software updates.",
-      "language": "en",
-      "summary": "The National Highway Traffic Safety Administration (NHTSA) concluded its investigation into Tesla's 'Actually Smart Summon' feature after finding that most incidents were minor and non-injurious, leading to the closure of the probe.",
-      "points": [
-        "The NHTSA ended their inquiry with a focus on safety outcomes related to Tesla's remote parking functionality.",
-        "Out of numerous reported cases where 'Actually Smart Summon' was used, only about one in ten led to an accident without any resulting injuries.",
-        "Throughout the investigation period and after issuing software updates by Tesla."
-      ],
-      "insight": "The NHTSA closing their investigation indicates a high level of confidence that 'Actually Smart Summon' is safe for use, despite some minor incidents reported. It sets a precedent on how regulatory bodies may handle emerging autonomous technologies in the future."
-    },
-    {
-      "title": "Iran threatens ‘Stargate’ AI data centers",
-      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Apr 2026 18:06:28 +0000",
-      "description": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-      "language": "en",
-      "summary": "Iran has announced plans to strike at least three U.in AI data centers with new missiles in a military conflict with the US.",
-      "points": [
-        "Iran's threat towards 'Stargate’ and other American-linked data centres",
-        "Escalation of war between Iran and United States",
-        "Potential impact on global AI infrastructure"
-      ],
-      "insight": "The escalating conflict raises concerns about the security, reliability, and continuity of critical US-based AI data centers which play a significant role in supporting vital technologies globally."
-    },
-    {
-      "title": "Apple plans Supreme Court appeal in Epic Games App Store battle — again",
-      "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Apr 2026 17:38:05 +0000",
-      "description": "Apple plans to ask the Supreme Court to review its App Store fight with Epic Games, as it challenges a ruling limiting its ability to charge fees on external payments.",
-      "language": "en",
-      "summary": "Apple plans to appeal the Supreme Court's decision in another legal battle with Epic Games concerning App Store policies and fee structures.",
-      "points": [
-        "Apple is appealing a ruling that limits its ability to charge fees on external payments within apps using Apple' extranet APIs (e.g., payment processing).",
-        "The case, FTC v. Apple, initially led the Federal Trade Commission against major tech companies for anticompetitive behavior.",
-        "Epic Games has challenged this ruling in court on several occasions."
-      ],
-      "insight": "This continued legal battle highlights significant friction between app developers and platform owners regarding revenue models, potentially affecting future regulations within the IT/technology industry."
-    },
-    {
-      "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker",
-      "link": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Apr 2026 17:00:25 +0000",
-      "description": "An apparent North Korean worker was caught visibly stumped during a remote job interview when asked to insult the country's leader.",
-      "language": "en",
-      "summary": "A fake IT employee from North Korea failed an online job interview in India by seemingly unable to criticize Kim Jong-un publicly.",
-      "points": [
-        "Apparent North Korean individual caught during a remote employment process for technology roles due to insufficient knowledge about the country and its leader's policies.",
-        "The interviewer, Mohit Gupta of TechieGuru India Pvt Ltd., asked unexpected questions which led to exposure as fake credentials revealed an inability to speak Hindi or use a computer effectively for job-related tasks. Additionally, several interviewees were discovered on social media platforms like YouTube and Twitter.",
-        "Indian authorities are investigating the matter further after reports of possible visa fraud by foreign nationals seeking employment."
-      ],
-      "insight": "The incident highlights a growing concern within the IT industry about verifying candidate authenticity, especially when recruiting from countries with strict government control over information and expression like North Korea. It also underscores the importance of comprehensive background checks in preventing visa fraud."
-    },
-    {
-      "title": "North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making",
-      "link": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Apr 2026 16:43:25 +0000",
-      "description": "North Korean hackers pushed out malicious updates to a popular open source project by hacking a top developer's computer in a long-running campaign.",
-      "language": "en",
-      "summary": "North Korean cyber actors have modified an extensively used open source software through sustained intrusion into the associated developers’ networks over several weeks.",
-      "points": [
-        "A group of North Korean hackers infiltrated a developer's computer to manipulate updates for Mozilla Firefox, exploiting vulnerabilities and adding malicious code.",
-        "The cyber actors used sophisticated techniques such as cryptomining scripts hidden within the payload to execute their objectives undetected over time.",
-        "Mozilla developers became aware of these alterations when they began noticing discrepancies in local system resources, leading them to trace back and identify the intrusions."
-      ],
-      "insight": "This incident highlights vulnerabilities within open source communities that rely on a smaller group of contributors for maintenance. It underscores the need for enhanced security protocols and continuous monitoring within such ecosystems, considering they often lack comprehensive access controls due to their community-driven nature."
     }
   ]
 }
