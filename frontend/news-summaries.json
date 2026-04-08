@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-04-08T13:32:05.288Z",
+  "generatedAt": "2026-04-08T19:22:50.807Z",
   "articles": [
+    {
+      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
+      "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 18:53:19 +0000",
+      "description": "This is the first model Meta has released under its Superintelligence Labs, led by former ScaleAI CEO Alexandr Wang.",
+      "language": "en",
+      "summary": "Meta unveils Muse Spark AI as part of a significant transformation in their approach to artificial intelligence research.",
+      "points": [
+        "Alexandr Wang leads Meta's Superintelligence Labs and is spearheading the development of Muse Spark, which represents a shift towards ground-up overhauls within Meta'nera.",
+        "Muse Spark will focus on improving internal processes such as data gathering for AI training while simultaneously generating new content across various forms like video clips, images, and text transcriptions from audio inputs with high accuracy. Additionally, Muse Spark is designed to facilitate human-AI collaborations in creative tasks.",
+        "Meta has made Muse Spark openly accessible on GitHub under an Apache 2 license since late May."
+      ],
+      "insight": "The release of Meta's Muse Spark AI marks a new direction for the company, emphasizing efficiency and human-AI collaboration. Open sourcing this model could encourage more innovative approaches within the technology sector as it demonstrates Meta's commitment to fostering creativity through artificial intelligence."
+    },
+    {
+      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
+      "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 18:51:20 +0000",
+      "description": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices.",
+      "language": "en",
+      "summary": "A hack-for-hire group has been caught exploiting vulnerabilities in Android systems by deploying spyware and conducting phishing attacks to access iCloud credentials for targeted individuals.",
+      "points": [
+        "Hackers used sophisticated malware on mobile devices",
+        "Phishing tactics employed to steal digital identities across the globe, primarily impacting iOS users in India and Pakistan through fake login pages linked with iCloud accounts or Google Emails.",
+        "The compromised data includes bank details as well as sensitive personal information like birthdates."
+      ],
+      "insight": "This revelation of hack-for-hire activities on mobile platforms highlights the vulnerability in commonly used operating systems and underscores the need for enhanced security measures. It also raises concerns about individuals' privacy, particularly regarding financial data stored with such services."
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 18:23:06 +0000",
+      "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "language": "en",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers",
+      "points": [
+        "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
+      "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 17:19:16 +0000",
+      "description": "Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.",
+      "language": "en",
+      "summary": "Volkswagen's US-based self-driving subsidiary MOIA America is testing microbuses in Los Angeles as part of the preparation for a commercial robotaxi service launch.",
+      "points": [
+        "MOIA has partnered with Uber to test and potentially deploy autonomous vehicles on public roads",
+        "The Volkswagen Group plans an initial investment of $1.5 billion into electric vehicle development, including driverless technology within the next deth years",
+        "Volkswagen aims for self-driving cars in Europe by 2025 and intends to expand autonomous service offerings across multiple regions"
+      ],
+      "insight": "This launch marks Volkswagen's significant step towards dominating the burgeoning market of robotaxi services, potentially disrupting traditional ride-hailing businesses."
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 16:30:53 +0000",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "language": "en",
+      "summary": "Australia led by initiating a ban in late 2curent year targeting the reduction of risks for minors on social media platforms such as cyberbullying and exposure to predators.",
+      "points": [
+        "Initiation of Australia's social media ban aimed at protecting children from online dangers",
+        "Focuses mainly on pressures, addiction, risks including potential for encounter with predatory individuals",
+        "The move has prompted other countries to consider similar restrictions"
+      ],
+      "insight": "Australia's decision could spark a global trend in child-focused social media regulations and might influence the way these platforms are designed, particularly regarding safety features."
+    },
+    {
+      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
+      "link": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 16:03:21 +0000",
+      "description": "Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin.",
+      "language": "en",
+      "summary": "British cryptographer Adam Back has publicly denied being Satoshi Nakamoto, the mysterious figure who created Bitcoin.",
+      "points": [
+        "Adam Back is a respected British researcher in cryptography with significant influence on blockchain development.©",
+        "The New York Times reported that Adam Back was Satoshi Nakamoto, but he refutes this claim vehemently.",
+        "Despite his denials, the identity of Bitcoin's creator remains unknown."
+      ],
+      "insight": "Adam Back is a well-known figure in cryptography and blockchain development. Although there have been rumors about him being Satoshi Nakamoto for some time now, his public denial clarifies that the true identity of Bitcoin's creator remains unknown."
+    },
+    {
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 16:01:09 +0000",
+      "description": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "language": "en",
+      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access",
+      "points": [
+        "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or i...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Hackers steal and leak sensitive LAPD police documents",
+      "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 15:38:34 +0000",
+      "description": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack.",
+      "language": "en",
+      "summary": "Hackers have breached a digital storage system of Los Angeles Police Department (LAPD), stealing sensitive documents which were later leaked online by The World Leaks extortion gang as part of an ongoing cybersecurity threat.",
+      "points": [
+        "The LAPD experienced a data leak involving confidential police reports and internal emails, with hackers threatening to release the stolen information unless their demands were met.",
+        "Los Angeles Mayor Eric Garcetti criticized The World Leaks for using 'extortion as an insult,' emphasizing that cybercriminals should not be rewarded or encouraged by such behavior and urging law enforcement agencies to strengthen security measures against similar attacks in the future.",
+        "This incident underscores growing concerns about internet safety, highlighting vulnerabilities within organizations' digital infrastructures which may have been exploited during unauthorized access."
+      ],
+      "insight": "The LAPD data breach reveals a pressing need for robust cybersecurity defenses across all law enforcement agencies to safeguard against increasingly sophisticated and brazen extortion tactics by cybercriminals, which could have far-reaching implications if sensitive information is compromised."
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 15:23:44 +0000",
+      "description": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "language": "en",
+      "summary": "The IT/technology industry faces growing concerns over potential misuse of advanced technologies like AI for harmful purposes such as child sexual exploitation. OpenAI introduces a new Child Safety Blueprint to address this pressing issue.",
+      "points": [
+        "OpenAI's safety blueprint targets the increase in online dangers due to AI advancements, especially regarding children.",
+        "The plan includes proactive measures and industry collaboration for preventing exploitation cases using technology platforms.",
+        "Educational efforts will be included as part of OpenAI’s comprehensive approach."
+      ],
+      "insight": "OpenAI's blueprint emphasizes the responsibility of tech companies to create secure environments, especially considering children are uniquely vulnerable. This reflects a broader industry trend towards prioritizing ethical considerations in technological advancements and development."
+    },
+    {
+      "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
+      "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 15:21:13 +0000",
+      "description": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their computers.",
+      "language": "en",
+      "summary": "Developer Max Artamonov warns that some Windows users might encounter issues starting their PCs after Microsoft locked his account due to alleged infringement of copyright laws.",
+      "points": [
+        "Microsoft has disabled the developer's online access, potentially affecting boot-up for certain devices",
+        "The VeraCrypt creator is accused by Eclectic Clan LLC. and NTDev International Ltd. of unaut extraterritorially licensed copyright infringement related to a Microsoft patent on full disk encryption using trusted platform modules (TPMs)",
+        "Microsoft's legal actions against the developer could have wider implications for open source projects"
+      ],
+      "insight": "The conflict between Max Artamonov and Microsoft raises concerns about freedom of software development practices, especially in regards to encryption technologies. If this case leads to more stringent controls over developers' access by major companies like Microsoft, it could seriously impact the growth and innovation within the open source community."
+    },
+    {
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 15:00:00 +0000",
+      "description": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "language": "en",
+      "summary": "Matei Zaharia, co-founder of Databricks, received the ACM award for his contributions to computing machinery and now emphasizes on AI'ner work with a focus on AGI.",
+      "points": [
+        "Matei Zaharia has been recognized by the Association for Computing Machinery (ACM) as an influential figure in technology, particularly through his co-foundation of Databricks.",
+        "Zaharia suggests that Artificial General Intelligence (AGI), often misunderstood and misrepresented publicly due to fears and science fiction portrayals, is already present or emerging within the realm of AI research.",
+        "Despite AGI's perceived potential risks as discussed by Elon Musk, Zaharia maintains that progress in understanding and developing artificial intelligence will continue."
+      ],
+      "insight": "The recognition given to Matei Zaharia highlights the importance of ethical considerations and public perception when discussing AGI's development within AI research. Despite concerns about potential risks, experts like Zaharia remain optimistic regarding progress in this field."
+    },
+    {
+      "title": "As YouTube grows on TV, it eyes more interactive video across formats",
+      "link": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 14:03:04 +0000",
+      "description": "YouTube's hiring across roles, partnerships, and a Bengaluru hub shows how it is building out its TV strategy.",
+      "language": "en",
+      "summary": "As YouTube expands into television with strategic hirings and the establishment of a new headquarters in Bangalore, India, it's also enhancing interactivity across video formats.",
+      "points": [
+        "YouTube is expanding its presence on TV through significant investments including hiring more people for roles related to television content creation and distribution, forming partnerships with media entities like Zee Entertainment Enterprises (ZEE), Star India, Viacom18 Media Ltd., Sony Pictures Networks India, and Airtel.",
+        "The company has acquired a 39% stake in Indian digital TV platform Flipkart Video to further its reach into the television space within emerging markets like Africa, Latin America, Europe, North Asia, South-East Asia, Australia, New Zealand, India and Middle East",
+        "To ensure interactivity across video formats such as news, entertainment shows, movies and documentaries on YouTube TV channels in various languages"
+      ],
+      "insight": "This expansion strategy showcases the increasing convergence between traditional television platforms and streaming services like YouTube, which could have significant implications for how content is consumed globally."
+    },
+    {
+      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Apr 2026 14:00:00 +0000",
+      "description": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
+      "language": "en",
+      "summary": "The article announces a limited-time discount for TechCrunch Disrupt passes in April 2026 and encourages immediate registration to avail of the offer.",
+      "points": [
+        "TechCrunch Disrupt offers attendees insights into startups worth watching, alongside opportunities such as pitch meetings with notable tech investors including Mark Cuban. Attendees can secure up to $500 off their passes if they register before April 10.",
+        "The offer includes discounts for various types of tickets and additional benefits like accessories (tote bags, hoodies) at reduced prices or free shipping when purchased online. Early registrants have a chance to win VIP experiences through an raffle draw.",
+        "TechCrunch Disrupt is set in Los Angeles during the summer months of August and September 2026 with sessions running from Tuesday afternoon till Sunday morning, featuring diverse speakers across multiple tracks."
+      ],
+      "insight": "The TechCrunch Disrupt offers not only monetary savings for potential attendees but also the opportunity to network with top-tier investors and tech thought leaders in a prime location during peak summer season, making it an attractive proposition within the industry."
+    },
     {
       "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
       "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
@@ -554,201 +749,6 @@
         "Miniaturized heat pumps could revolutionize household heating solutions"
       ],
       "insight": "This innovation from a former tech industry insider signifies potential growth and accessibility in the HVAC sector, making sustainable technology more attainable for mainstream consumers."
-    },
-    {
-      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 13:00:00 +0000",
-      "description": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
-      "language": "en",
-      "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Adobe launches Acrobat Spaces, a free AI-powered study tool for students",
-      "link": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 13:00:00 +0000",
-      "description": "Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study material from documents",
-      "language": "en",
-      "summary": "Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study material from documents",
-      "points": [
-        "Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study materi...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Waymo opens robotaxi service in Nashville, partners with Lyft",
-      "link": "https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 13:00:00 +0000",
-      "description": "Waymo now operates commercial robotaxi services in 11 cities, with various methods to hail.",
-      "language": "en",
-      "summary": "Waymo has launched a fully driverless robotaxi service in Nashville and partnered with Lyft for wider availability.",
-      "points": [
-        "Commercial operation of Waymo's autonomous vehicle services expanded to include new cities like Nashville",
-        "A diverse approach adopted by customers: hailing on-demand, scheduled rides (similarly named 'Wayx') and pre-booked Lyft trips with a detour through the robotaxi service.",
-        "Partnership between Waymo'selfs autonomous ride technology business unit and established transportation company Lyft."
-      ],
-      "insight": "The expansion of commercial driverless services like Waymo signifies progress in overcoming technological challenges, although regulatory approval remains a significant hurdle. The partnership with an existing player such as Lyft could help streamline the integration into public transportation systems."
-    },
-    {
-      "title": "Hermeus raises $350M to build autonomous hypersonic fighters",
-      "link": "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 12:30:00 +0000",
-      "description": "The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic.",
-      "language": "en",
-      "summary": "Hermeus successfully demonstrated its hypersonic technology at low speeds on January 16th after completing a preliminary flight in October of the previous year.",
-      "points": [
-        "The Hermeus defense aviation startup completed two successful flight demonstrations using their hypersonic air-breathing engine, marking progress towards its goal to build autonomous supersonic fighters and commercial passenger planes that can reach speeds of Mach 4.",
-        "Despite previous delays due to a failed test in November at Edwards Air Force Base, the company reported successful takeoffs without human pilots during these demonstrations on January 16th. The next flight is aimed at achieving supersonic speed with an expected top velocity of around Mach 2.",
-        "Hermeus has attracted significant interest from investors like Bessemer Venture Partners, Airbus DSCA Research and Innovation Fund LLC (DARPA), Lockheed Martin Astronautics Company, as well as private individuals who invested more than $40 million in the startup."
-      ],
-      "insight": "The successful demonstrations of Hermeus' hypersonic technology have significant implications for both defense and commercial aviation industries. If fully realized, their autonomous supersonic fighters could redefine air combat strategies while their passenger planes promise to revolutionize the speed at which people travel."
-    },
-    {
-      "title": "Hermeus raises $350M to build unmanned hypersonic fighters",
-      "link": "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-unmanned-hypersonic-fighters/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 12:30:00 +0000",
-      "description": "The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic.",
-      "language": "en",
-      "summary": "The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic",
-      "points": [
-        "The defense aviation startup is coming off two successful flight demonstrations, and with the next o...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Spotify’s prompted playlist feature will now work for podcasts, too",
-      "link": "https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 12:00:00 +0000",
-      "description": "Spotify will now allow users to input natural language prompts to create podcast playlist.",
-      "language": "en",
-      "summary": "Spotify is expanding its 'prompted playlist' feature from music tracks to include podcast episodes.",
-      "points": [
-        "The prompted playlist feature will allow users on Spotify to input natural language requests and receive a curated list of related content tailored to their interests, which now includes podcasts in addition to traditional music offerings.",
-        "This new direction for the 'prompted playlist' functionality is part of an effort by Spotify to enhance user engagement through more personalized experiences and broaden its audio library beyond just streaming songs or albums.",
-        "By integrating this feature with podcasts, which have historically been a growing segment within the digital music ecosystem due to their unique content format that often encourages listener interaction."
-      ],
-      "insight": "This expansion signifies Spotify' endorsing of natural language processing for broader media types and indicates recognition in how auditory entertainment, specifically podcasts, is becoming an increasingly significant part of the company’s business model. It also suggests that there might be further innovations on the horizon as technology continues to evolve."
-    },
-    {
-      "title": "오픈클로 보안 자문의 경고, “AI는 이제 인간 정체성을 해킹한다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143025&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Apr 2026 17:41:00 +0900",
-      "description": "오픈클로 보안 핵심 관리자가 짚어낸 오펜시브 AI 진화... 전통적 보안 스캐닝 무력화 경고“단 한 번의 침투 막아라”... 투명성·코드 리뷰 아우른 4단계 신뢰 프로그램 역설[보안뉴스 조재호 기자] “전통적 취약점 스캐닝의 사대는 완전히 끝났습니다. 앞으로 AI는 웹과 모바일을 넘어 인간의 정체성마저 해킹하는 포괄적 위협으로 진화할 것입니다.”최근 IT",
-      "language": "ko",
-      "summary": "기사는 AI 진화의 위협성과 인간 정체성을 해제한 변화에대한 주요 내용을 요약합니다.",
-      "points": [
-        "- AI 진화에 대한 공지로 인공지능이 인간의 정체성을 해제하고 있음을 가리켓",
-        "- IT 업체에서 AI 전통적인 보안 개신을 인식하며, 공권 위기와 강력한 보호채널이 제시되었음",
-        "- AI의 포게절로 인간의 직접 대중화를 방지하여, 악의적인 영향을 미리 예전탭으로 준수한 모습"
-      ],
-      "insight": "이러한 AI 진화는 IT 엔지니어들이 인간의 보호와 공정성에 대해 강력하게 관심을 느끼며, 이를 위한 보호 챔피소드는 필요로 남아있습니다."
-    },
-    {
-      "title": "명지대 방산안보연구소·새솔테크, 국방 우주·모빌리티 AI 보안 협력",
-      "link": "http://www.boannews.com/media/view.asp?idx=143060&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Apr 2026 15:57:00 +0900",
-      "description": "국방 우주·모빌리티 분야 AI·사이버보안 협력 및 인재 양성 협약 체결위성·드론 ISR 및 데이터 기반 보안 기술 공동 연구로 미래 전장 대응 역량 강화 추진[보안뉴스 강초희 기자] 명지대학교 방산안보연구소(소장 류연승)는 7일 새솔테크(대표 한준혁)와 ‘국방 우주 및 모빌리티 분야, AI·사이버보안 사업’을 목적으로 업무협약을 체결했다.이번 협약은 급변하",
-      "language": "ko",
-      "summary": "방산안보연구소와 대표한준혁이 국방우주 및 모빌리티 AI·사이버보안 연구쪽에서 공동연구를 통해, 세계적으로 IT/기술 보안책전을 강화하고자 한국어로 요약",
-      "points": [
-        "국방우주 및 모빌리티에서 국방 우주·AI·사이버보안 연구쪽으로, 명지대학교 방산안보연구소와 ‘대표한준혁’이 공동 연구를 시작한다.",
-        "이 연구는 새솔테크(대표 한준혁)과 결국했다.",
-        "세계적으로 IT/기술 보안이 능동적으로 진화하고 있는 우주를 대체로 강조해야 한다."
-      ],
-      "insight": "인내와 세계사회에서의 IT/기술 논제가 새로운 전시으로 나아오는 현상을 이해하고자 한국어로 질문"
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 미국과 미군 위협하는 이란 사이버 해킹 부대",
-      "link": "http://www.boannews.com/media/view.asp?idx=143056&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Apr 2026 15:42:00 +0900",
-      "description": "2010년 스턱스넷 공격 이후 국가 역량 총동원... ‘디지털 정규군’으로 급성장빅데이터 연관어 분석 결과 ‘강력한 무기”, “우위” 등 사이버 안보 위기감 뚜렷[보안뉴스= 배종찬 인사이트케이 연구소장] 현대 전쟁의 패러다임이 근본적으로 변하고 있다. 과거의 전쟁이 화력과 기동력, 즉 눈에 보이는 물리적 파괴력에 의존했다면, 오늘날의 전쟁은 네트워크와 데이",
-      "language": "ko",
-      "summary": "2010년 스턱스넷 공격 이후 국가 역량 총동원. ‘디지털 정규군’으로 급성장빅데이터 연관어 분석 결과 ‘강력한 무기”, “우위” 등 사이버 안보 위기감 뚜렷[보안뉴스= 배종찬 인사이트케이 연구소장] 현대 전쟁의 패러다임이 근본적으로 변하고 있다...",
-      "points": [
-        "2010년 스턱스넷 공격 이후 국가 역량 총동원",
-        "‘디지털 정규군’으로 급성장빅데이터 연관어 분석 결과 ‘강력한 무기”, “우위” 등 사이버 안보 위기감 뚜렷[보안뉴스= 배종찬 인사이트케이 연구소장] 현대 전쟁의 패러다임이 근본적...",
-        "과거의 전쟁이 화력과 기동력, 즉 눈에 보이는 물리적 파괴력에 의존했다면, 오늘날의 전쟁은 네트워크와 데이"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 05:30:00 +0000",
-      "description": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-      "language": "en",
-      "summary": "AI startup Rocket has developed a comprehensive analytics tool that offers insights into market trends with the efficiency of AI analysis.",
-      "points": [
-        "Rocket'table provides strategy-focused, real-time competitive intelligence and product building capabilities",
-        "The platform is designed to offer businesses detailed McKinsey-style reports at a significantly lower cost using artificial intelligence technology",
-        "With Rocket's tool, companies can gain insights into market trends quickly without the need for expensive consultancy services"
-      ],
-      "insight": "Rocket’s AI platform disrupts traditional business analysis by providing accurate McKinsey-style reports at a fraction of cost and time. This technology could make such analyses more accessible to small and medium enterprises, driving innovation within the IT industry."
-    },
-    {
-      "title": "파수 AI, ‘글로벌 인포섹 어워드’ 2관왕... “글로벌 AX 보안 선도”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143058&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Apr 2026 14:10:00 +0900",
-      "description": "미국 사이버 디펜스 매거진 주최 어워드서 독창적 기술력 및 혁신성 인정받아챗GPT 등 서비스형 AI 정보 유출 막는 ‘AI-R DLP’와 제로트러스트 기반 ‘FED’ 성과 돋보여[보안뉴스 조재호 기자] 파수 AI가 ‘글로벌 인포섹 어워드 2026’에서 2관왕을 차지하며 AI 기술력을 국제 무대에 입증했다. 회사는 이번 수상 실적을 교두보 삼아 전 세계 기업",
-      "language": "ko",
-      "summary": "미국 사이버 디펜스 매거진 주최 어워드서 독창적 기술력 및 혁신성 인정받아챗GPT 등 서비스형 AI 정보 유출 막는 ‘AI-R DLP’와 제로트러스트 기반 ‘FED’ 성과 돋보여[보안뉴스 조재호 기자] 파수 AI가 ‘글로벌 인포섹 어워드 2026’에서 2관왕을 차지하며 AI 기술력을 국제 무대에 입증했다. 회사는 이번 수상 실적을 교두보 삼아 전 세계 기업",
-      "points": [
-        "회사는 이번 수상 실적을 교두보 삼아 전 세계 기업",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "유용한 정보인줄 알았는데 광고 지옥... 생활 정보 위장 앱 주의",
-      "link": "http://www.boannews.com/media/view.asp?idx=143057&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Apr 2026 13:53:00 +0900",
-      "description": "안랩, 공식 유통되는 과대 광고 모바일 앱 주의 당부[보안뉴스 강현주 기자] 정부 보조금, 대출, 공모주 등 생활밀착형 정보를 가장한 과다 광고 앱들이 기승을 부려 주의가 요구된다. 6일 안랩(대표 강석균)은 공식 앱스토어(구글 플레이스토어 및 애플 앱스토어)에서 생활밀착형 정보를 제공하는 것처럼 위장해 과도한 광고를 노출하는 앱을 다수 발견하고 사용자 주",
-      "language": "ko",
-      "summary": "국민은 대표 강석균이 과대한 광고앱을 어울여 개선 요구를 따릅니다.",
-      "points": [
-        "과대한 광아로톤과 공모주에 인출되어 사용자의 공격을 위해 조치함",
-        "국민은 계좌에 대한 과대 쿠킷에서 광아로톤이나 공모주를 추적합니다.",
-        0
-      ],
-      "insight": "국민은 과대한 광아로톤과 공모주에 인출되어 사용자의 공격을 위해 조치함."
-    },
-    {
-      "title": "AI design platform Picsart launches a creator monetization program",
-      "link": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Apr 2026 04:01:00 +0000",
-      "description": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.",
-      "language": "en",
-      "summary": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
