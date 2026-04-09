@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-04-09T07:49:27.766Z",
+  "generatedAt": "2026-04-09T13:40:30.843Z",
   "articles": [
+    {
+      "title": "This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’",
+      "link": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 13:00:00 +0000",
+      "description": "The company's novel rocket engine could be a game changer for the U.S. military.",
+      "language": "en",
+      "summary": "SpaceX founder and CEO Elon Musk has developed one of his companies’ most powerful rocket engines that may revolutionize space travel and have implications for the U.S. military. His latest endeavor could be likened to a 'fighter jet' in orbit.",
+      "points": [
+        "Elon Musk, through SpaceX, has created an advanced rocket engine with potential game-changing capabilities for space travel and national security interests.",
+        "The powerful Raptor engine could enable more efficient launches of satellites as well as interplanetary missions like Mars colonization by NASA’s Perseverance mission.",
+        "Musk's efforts not only push the boundaries of commercial spaceflight but also demonstrate his commitment to revolutionizing technology and transportation."
+      ],
+      "insight": "Elon Musk's innovations in rocket engine design hold significant promise for both expanding human presence into deep space, as seen with NASA missions like Perseverance on Mars, and bolstering national security by enhancing the U.S.'s military capabilities."
+    },
+    {
+      "title": "Collide Capital raises $95M fund to back fintech, future-of-work startups",
+      "link": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 13:00:00 +0000",
+      "description": "Collide Capital, founded by Brian Hollins and Aaron Samuels, announced Thursday the close of a $95 million Fund II.",
+      "language": "en",
+      "summary": "Founded in March 2018 with initial funding from Founders Fund and Index Ventures to invest exclusively into high-potential fintech startups at Series B+ stage or later, Collide Capital has successfully closed its second $95 million financing round.",
+      "points": [
+        "-Collide Capital raises a total of $180M across two funding rounds to invest in promising FinTech and future-of-work startups",
+        "-Fund II includes participation from well-estdependent backers such as General Catalyst, Wellington Management Group among others.",
+        "-With this Fund II closing at $95M, Collide Capital is set to make more fintech investments in the US and globally"
+      ],
+      "insight": "The increasing funding for IT startups shows growing confidence from established firms about disruptive technology's future role. This could indicate a shift towards digital transformation across industries."
+    },
+    {
+      "title": "Radify’s sci-fi plasma reactors could break China’s dominance of rare earth elements",
+      "link": "https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 13:00:00 +0000",
+      "description": "Radify Metals is developing a new way to process a variety of metals that promises to be pollution free.",
+      "language": "en",
+      "summary": "Chinese companies' hold on rare earth elements could weaken with Radify’s development of sci-fi plasma reactors for metal processing without pollution.",
+      "points": [
+        "Radify Metals is creating a new, non-polluting method to process various metals using their sci-fi inspired plasma technology.",
+        "The company'self claims that this clean alternative could lessen China’s tight grip on the global supply of rare earth elements by providing an option for countries not as reliant on Chinese mining and exports.",
+        "Radify has a patent in several European nations, implying potential international interest or applications."
+      ],
+      "insight": "If successful, Radify’s technology could diversify the global rare earth elements market by offering an eco-friendly alternative to China's dominance and potentially affect raw material pricing and availability globally in IT/technology industries."
+    },
+    {
+      "title": "Waymo robotaxis are tracking potholes and sharing that data with Waze users",
+      "link": "https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 13:00:00 +0000",
+      "description": "Two Alphabet-owned businesses are teaming up to find potholes and share that information with cities.",
+      "language": "en",
+      "summary": "Waymo is collaborating with Waze users through its robotaxis data collection system to identify city road issues like potholes.",
+      "points": [
+        "Alphabet's Waymo uses self-driving technology in urban areas, collecting vast amounts of navigation and sensor data from the streets below.",
+        "This information is shared with Waze users voluntarily when they encounter a problem while driving, which helps map local issues such as potholes or traffic congestion quickly for others to avoid them.",
+        "The Waymo-Waze partnership takes this approach further by using robotaxis that autonomously track and report back on the city' end of street conditions."
+      ],
+      "insight": "This collaborative data sharing initiative between Alphabet companies signifies a shift in how road maintenance issues are reported, potentially leading to more efficient urban transportation solutions as real-time problem identification becomes standardized across platforms and technologies."
+    },
+    {
+      "title": "Ex-Tesla engineer’s startup taps Pronto to help automate a copper mine",
+      "link": "https://techcrunch.com/2026/04/09/mariana-minerals-taps-pronto-to-help-automate-a-copper-mine/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 12:00:00 +0000",
+      "description": "Pronto's autonomous haulage trucks are about to start operating at Mariana Minerals's Utah copper mine -- the first such deal since Pronto got acquired by Travis Kalanick's Atoms Inc.",
+      "language": "en",
+      "summary": "Ex-Tesla engineer started a company called Pronto that develops autonomous haulage trucks for mines; the technology is being piloted at Mariana Minerals' copper mine in Utah.",
+      "points": [
+        "Former Tesla employee founded Pronto, which creates self-driving vehicles to operate in mining environments without human drivers",
+        "Pronto has partnered with Atoms Inc., and its autonomous trucks are set to begin operating at a copper mine owned by Mariana Minerals in Utah.",
+        "This is the first deal of Pronto'th technology since it was acquired by Travis Kalanick-founded company, Atoms Inc."
+      ],
+      "insight": "The successful deployment of autonomous mining vehicles could significantly reduce operational costs and increase safety at mines across various industries. As this acquisition indicates a growing interest in adopting such technologies beyond the automotive industry."
+    },
+    {
+      "title": "“가상화 기술 핵심 도커 초비상”... 권한 우회 취약점 발견",
+      "link": "http://www.boannews.com/media/view.asp?idx=143104&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 9 Apr 2026 18:39:00 +0900",
+      "description": "CVE-2026-34040, 인증 플러그인의 검증 로직 무력화[보안뉴스 김형근 기자] 도커 엔진(Docker Engine)에서 인증 플러그인을 무력화하고 호스트 시스템 권한을 완벽하게 훔쳐 가는 고위험군(CVSS 8.8) 취약점이 공개됐다. 사이메라 리서치 랩(Cyera Research Labs)의 블라디미르 토카레프(Vladimir Tokarev)를 비롯",
+      "language": "ko",
+      "summary": "CVE-2026-34040, 인증 플러그인의 검증 로직 무력화[보안뉴스 김형근 기자] 도커 엔진(Docker Engine)에서 인증 플러그인을 무력화하고 호스트 시스템 권한을 완벽하게 훔쳐 가는 고위험군(CVSS 8. 8) 취약점이 공개됐다...",
+      "points": [
+        "CVE-2026-34040, 인증 플러그인의 검증 로직 무력화[보안뉴스 김형근 기자] 도커 엔진(Docker Engine)에서 인증 플러그인을 무력화하고 호스트 시스템 권한을 완벽...",
+        "사이메라 리서치 랩(Cyera Research Labs)의 블라디미르 토카레프(Vladimir Tokarev)를 비롯",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "무거워진 보안 제재에 쏠린 눈... 정부-업계 “사고 은폐 막을 실전 방어망 구축” 한목소리",
+      "link": "http://www.boannews.com/media/view.asp?idx=143103&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 9 Apr 2026 17:46:00 +0900",
+      "description": "사후 대응서 사전 예방으로 정책 패러다임 전면 전환 선언송경희 위원장 “과징금은 처벌 아닌 선제적 보안 투자 이끌기 위한 메시지”현장 업계 “규제 촘촘해진 만큼 중소기업 바우처 등 인센티브 절실”[보안뉴스 조재호 기자] 9월과 10월에 각각 개정되는 개인정보 보호법 개정안과 정보통신망법에 보안산업 관계자의 시선이 쏠리고 있다. 강력한 제재는 물론 보안산업",
+      "language": "ko",
+      "summary": "작성중...",
+      "points": [
+        "기사에서 발언후 대응서 사전적인 보안 제재 등의 주요 정보를 정리하고자 한다.",
+        "정부와 IT/기술 업계가 중요한 보안 정책이 어느 정도로 확보되었는지 살펴봄.",
+        "정치적인 시기에서의 IT/기술 업계가 개정되는 개인정보 보호법에 대한 이해와 따른 행동을 확인."
+      ],
+      "insight": "이제틀어진 정치율 시기에서 IT/기술 업체는 보안 정책에 따라 삼성전자가 경영에 빠진 것이 아니다. 대안으로 개인정보 보호법 개정안에 의심질 수 있음."
+    },
+    {
+      "title": "“N2SF 현장 괴리, ‘모듈화’와 ‘협업’으로 대응해야”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143102&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 9 Apr 2026 17:37:00 +0900",
+      "description": "2026년 한국사이버안보학회 N2SF연구회 워크숍 개최 KISA “공모사업 선정에 ‘수요 기관 의지’ 중점 둘 것”[부산=보안뉴스 강현주 기자] 공공기관의 국가 망 보안체계(N2SF) 도입 현장에서 발생하는 괴리를 극복하기 위해 ‘협업’과 ‘모듈화’가 필요하다는 목소리가 나왔다. 9일 한국사이버안보학회 N2SF연구회는 부산 아쿠아펠리스 호텔에서 ‘N2SF",
+      "language": "ko",
+      "summary": "2026년 한국사이버안보학회 N2SF연구회 워크숍 개최 KISA “공모사업 선정에 ‘수요 기관 의지’ 중점 둘 것”[부산=보안뉴스 강현주 기자] 공공기관의 국가 망 보안체계(N2SF) 도입 현장에서 발생하는 괴리를 극복하기 위해 ‘협업’과 ‘모듈화’가 필요하다는 목소리가 나왔다. 9일 한국사이버안보학회 N2SF연구회는 부산 아쿠아펠리스 호텔에서 ‘N2SF",
+      "points": [
+        "9일 한국사이버안보학회 N2SF연구회는 부산 아쿠아펠리스 호텔에서 ‘N2SF",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "쿠버네티스 권한 설정 오류 악용한 토큰 탈취 282% 폭증... 방만이 부른 문제",
+      "link": "http://www.boannews.com/media/view.asp?idx=143101&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 9 Apr 2026 16:42:00 +0900",
+      "description": "북한 연계 조직 슬로우파이시스, 가상화폐 거래소의 쿠버네티스 클러스터 장악사고의 핵심은 단순한 기술적 오류 아닌, 관리자의 방만함이 부른 ‘보안 경계의 해이’[보안뉴스 김형근 기자] 쿠버네티스(Kubernetes)의 설정 오류를 악용해 컨테이너를 탈출하고 클라우드 계정 권한을 통째로 훔쳐 가는 공격이 급증하고 있어 사용자들의 주의가 요구된다. 글로벌 보",
+      "language": "ko",
+      "summary": "북한 연계 조직 슬로우파이시스, 가상화폐 거래소의 쿠버네티스 클러스터 장악사고의 핵심은 단순한 기술적 오류 아닌, 관리자의 방만함이 부른 ‘보안 경계의 해이’[보안뉴스 김형근 기자] 쿠버네티스(Kubernetes)의 설정 오류를 악용해 컨테이너를 탈출하고 클라우드 계정 권한을 통째로 훔쳐 가는 공격이 급증하고 있어 사용자들의 주의가 요구된다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "과기정통부-통신3사, “보안 패러다임 완전히 바꾼다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143100&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 9 Apr 2026 16:21:00 +0900",
+      "description": "정부-통신 3사, “정보보안 강화” 한 목소리 기본통신권 보장 및 고품질 통신서비스 제공, 차세대 AI 네트워크 투자 확대 등 논의 [보안뉴스 한세희 기자] 정부와 이동통신 3사가 보안 강화를 통한 신뢰 회복을 다짐했다. 또 차세대 통신과 AI 네트워크 투자를 확대하고, 국민의 기본적 데이터 이용을 보장하는 기본통신권 정책을 추진한다. 배경훈 부총리 겸 과",
+      "language": "ko",
+      "summary": "국가는 보안을 강화하여 국민의 기본 통신서비스를 보장한다",
+      "points": [
+        "국가와 3사는 보안을 강화하는 목적로 전문기사 및 AI를 확대하고, 국민의 기본적인 데이터 이용을 보장한다",
+        "정부는 국민의 보안저잇겨지거나 공개절을 피하고, 이를 위해 AI를 확대한다",
+        "국가는 기본통신권을 강화하여 국민의 보안을 장려면 3사에서의 운영정책을 수정해야 한다"
+      ],
+      "insight": "이 기사는 IT/기술 업계에서 보안을 더욱이 중요하고 신뢰할 수 있게 강제하고, 국민의 보안과 국가의 역량을 강화하기 위해 AI를 확장한다."
+    },
     {
       "title": "노비텍, ‘i-Nova 시리즈’로 글로벌 ITS 카메라 시장 공략 가속화",
       "link": "http://www.boannews.com/media/view.asp?idx=143099&kind=&sub_kind=",
@@ -600,156 +750,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "홍수기 대비 댐 안전관리, 실시간 모니터링 등 AX로 더 빠르고 안전하게",
-      "link": "http://www.boannews.com/media/view.asp?idx=143074&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 20:41:00 +0900",
-      "description": "전국 37개 국가관리 댐 대상 ‘스마트댐 안전관리 시스템’ 본격 가동무인기·수중로봇·가상모형 등 AX 기술 접목... 촘촘한 관리체계 마련[보안뉴스 강초희 기자] 기후에너지환경부(장관 김성환)는 전국 37개 국가관리 댐을 대상으로 ‘스마트댐 안전관리 시스템’ 구축을 최근 완료하고, 본격적인 가동에 돌입한다고 밝혔다.이에 송호석 기후에너지환경부 수자원정책관은",
-      "language": "ko",
-      "summary": "전국 37개 국가관리 댐 대상 ‘스마트댐 안전관리 시스템’ 본격 가동무인기·수중로봇·가상모형 등 AX 기술 접목. 촘촘한 관리체계 마련[보안뉴스 강초희 기자] 기후에너지환경부(장관 김성환)는 전국 37개 국가관리 댐을 대상으로 ‘스마트댐 안전관리 시스템’ 구축을 최근 완료하고, 본격적인 가동에 돌입한다고 밝혔다...",
-      "points": [
-        "전국 37개 국가관리 댐 대상 ‘스마트댐 안전관리 시스템’ 본격 가동무인기·수중로봇·가상모형 등 AX 기술 접목",
-        "촘촘한 관리체계 마련[보안뉴스 강초희 기자] 기후에너지환경부(장관 김성환)는 전국 37개 국가관리 댐을 대상으로 ‘스마트댐 안전관리 시스템’ 구축을 최근 완료하고, 본격적인 가동에...",
-        "이에 송호석 기후에너지환경부 수자원정책관은"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "안랩, ‘2026년 중소기업 클라우드 서비스 보급·확산 사업’ 공급기업 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=143073&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 20:40:00 +0900",
-      "description": "안랩, 클라우드 워크로드 보안 플랫폼 ‘안랩 CPP’의 안티 멀웨어 기능 등 제공[보안뉴스 조재호 기자] 안랩은 ‘2026년 중소기업 클라우드 서비스 보급·확산 사업’의 공급기업으로 선정되어 자사의 클라우드 서버 워크로드 보안 플랫폼인 ‘안랩 CPP’를 제공한다. 이번 사업에서 안랩은 중소기업의 클라우드 규모와 보안 요구사항을 고려해, 자사 클라우드 서버",
-      "language": "ko",
-      "summary": "안랩, 클라우드 워크로드 보안 플랫폼 ‘안랩 CPP’의 안티 멀웨어 기능 등 제공[보안뉴스 조재호 기자] 안랩은 ‘2026년 중소기업 클라우드 서비스 보급·확산 사업’의 공급기업으로 선정되어 자사의 클라우드 서버 워크로드 보안 플랫폼인 ‘안랩 CPP’를 제공한다. 이번 사업에서 안랩은 중소기업의 클라우드 규모와 보안 요구사항을 고려해, 자사 클라우드 서버",
-      "points": [
-        "안랩, 클라우드 워크로드 보안 플랫폼 ‘안랩 CPP’의 안티 멀웨어 기능 등 제공[보안뉴스 조재호 기자] 안랩은 ‘2026년 중소기업 클라우드 서비스 보급·확산 사업’의 공급기업으...",
-        "이번 사업에서 안랩은 중소기업의 클라우드 규모와 보안 요구사항을 고려해, 자사 클라우드 서버",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "위드네트웍스 ‘위드 VTM V3.0’, GS인증 1등급 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=143075&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 20:33:00 +0900",
-      "description": "서버 넘어 앱·프로세스 등 논리적 자산까지 통합 관리... AI 위험도 스코어링(VRS) 탑재한국주택금융공사 공급 이어 국가 공인 품질 입증, 조달청 나라장터 등록 추진[보안뉴스 조재호 기자] 위드네트웍스는 자사의 자산 및 보안 취약점 통합 관리 솔루션 ‘withVTM V3.0’이 한국산업기술시험원(KTL)으로부터 소프트웨어 품질인증(GS) 1등급을 획득했",
-      "language": "ko",
-      "summary": "위드네트웍스는 자사의 보안 취약점과 IT 시스템이 수집한 자산 통합 관리 있음을 인식하여 'withVTM V30'를 소프트웨어 품질 인증(GS)에 등수로 이러한 기술적 시스템의 이벤트를 통합 시스템으로 강화",
-      "points": [
-        "위드네트웍스는 IT 시스템을 활용해보니 'withVTM V3.0'이 서비스에 수집한 자산과 보안 취약점을 통합 가능성을 제공",
-        "위드네트웍스는 'withVTM V3.0'이 기술적 시스템의 이벤트를 완화하고 IT 시스템에서의 자산 수집, 보안 관리를 심도충전하지 않거나 소프트웨어 품질인증(GS)이 듣기로 선택하여",
-        "위드네트웍스는 'withVTM V3.0'에서 활용되는 AI 기반 보안을 지원하며, 한국주택금융공사 공급과 조심한 보호적 취약점이 모여있음"
-      ],
-      "insight": "위드네트웍스는 'withVTM V3.0'로 IT 시스템의 자산 수집과 보안 취약점을 다음염려로 강화하여, GS인증을 실시키는 것이 IT/기술 업계에서 중요한 일은 현在 그룹이 아니면 다음염려로 진전"
-    },
-    {
-      "title": "How nuclear batteries could speed the race to fusion power",
-      "link": "https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 11:30:00 +0000",
-      "description": "Avalanche Energy is working on an DARPA project to build a new class of materials capable of turning damaging radiation into electricity.",
-      "language": "en",
-      "summary": "A company called Avalanche Energy is developing nuclear batteries for space applications as part of DARPA'selong project to harness high-energy radiation into power sources.",
-      "points": [
-        "Avalanche Energy aims to create an energy storage system that converts damaging radiation, typically found in fusion environments, into usable electricity. This innovation could be pivotal for long missions and is part of DARPA's broader initiative focusing on nuclear power generation.",
-        "The company has received funding from the US government to pioneer this technology with hopes that it will accelerate human accessibility into space, as well as provide clean energy solutions back on Earth. The prototype batteries are being designed for use in environments where traditional power sources would be impractical or impossible.",
-        "With fusion power still largely experimental and the current global emphasis shifting towards sustainable and green technologies, these nuclear batteries could play a key role not just in space exploration but also contribute to Earth's clean energy landscape."
-      ],
-      "insight": "The development of radiation-resistant battery technology by Avalanche Energy has the potential to speed up fusion power projects both for deep space missions and as sustainable, terrestrial energy solutions. This advancement represents a significant step forward in solving two major technological challenges simultaneously."
-    },
-    {
-      "title": "중국 배후 해킹그룹 Storm-1175, 제로데이로 랜섬웨어 무차별 살포",
-      "link": "http://www.boannews.com/media/view.asp?idx=143065&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 15:53:00 +0900",
-      "description": "마이크로소프트 분석 결과, CVE-2025-10035 등 패치 전 제로데이 결함 악용 확인침투 성공 후 24시간 내 메두사 랜섬웨어 배포... 미국·영국·호주 의료·금융 정밀 타격[보안뉴스 김형근 기자] 중국 정부와 연계된 고도화된 해킹 조직 ‘Storm-1175’가 제로데이(Zero-Day) 및 N-데이 취약점을 정교하게 조합한 초고속 공격을 전개하며 글",
-      "language": "ko",
-      "summary": "중국의 'Storm-1175' 조직이 제로데이 취약점을 조합한다.",
-      "points": [
-        "Storm-1175 조직은 기술적인 악용으로, CVE-2025-10035과 같은 Zero-Day 및 N-Day vulnerabilities을 활용한다.",
-        "이러한 강요성을 통해 중국 정부와의 연계가 있어, 국제적인 위기시도를 시작한다.",
-        "미국, 영국, 호주에서는 반드시 우리나라 정부와의 이야할 수 0가지한다."
-      ],
-      "insight": "중국이 제로데이에 대한 취약점을 통해 국제적인 위기시도를 시작한다. 마이크로소프트의 패치격정에 대비해야 합니다."
-    },
-    {
-      "title": "“AI 에이전트 ‘집단지성’ 시대 이끈다”... 시스코 커넥트 2026 코리아",
-      "link": "http://www.boannews.com/media/view.asp?idx=143066&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 15:47:00 +0900",
-      "description": "AI·양자 시대의 ‘인지 인터넷’ 비전 및 차세대 AI 네트워킹 전략 제시확률형 컴퓨팅 두 물결 ‘에이전틱 컴퓨팅’과 ‘양자컴퓨팅’[보안뉴스 강현주 기자] “인류가 7만년전부터 언어를 통해 소통하고 집단지성을 가진 것처럼 개별 에이전트들도 서로 소통하고 협력해 집단지성을 가지도록 해 나가려 합니다.”시스코는 8일 서울 강남구 삼성동 코엑스에서 시스코코리아",
-      "language": "ko",
-      "summary": "AI·양자 시대의 ‘인지 인터넷’ 비전 및 차세대 AI 네트워킹 전략 제시확률형 컴퓨팅 두 물결 ‘에이전틱 컴퓨팅’과 ‘양자컴퓨팅’[보안뉴스 강현주 기자] “인류가 7만년전부터 언어를 통해 소통하고 집단지성을 가진 것처럼 개별 에이전트들도 서로 소통하고 협력해 집단지성을 가지도록 해 나가려 합니다. ”시스코는 8일 서울 강남구 삼성동 코엑스에서 시스코코리아",
-      "points": [
-        "”시스코는 8일 서울 강남구 삼성동 코엑스에서 시스코코리아",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 05:40:19 +0000",
-      "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-      "language": "en",
-      "summary": "Google has quietly rolled out an Artificial Intelligence (AI) driven dictation application that operates without internet access. It uses Gemma AI models and is positioned as a competitor to apps like Wispr Flow.",
-      "points": [
-        "Google's offline-first dictation app was quietly launched, utilizing Gemma AI for voice recognition tasks with no need for an internet connection",
-        "The new Google service shows significant improvement in transcription accuracy compared to previous iterations or competing tools like Wispr Flow.",
-        "Launched without much fanfare on the Play Store and through email invitations initially, this app signifies a growing demand within the technology sector for reliable offline AI dictation options."
-      ],
-      "insight": "Google's launch of an offline-first dictation application reflects increased market competition in voice recognition technologies. This shift indicates that consumers and businesses are seeking more accessible, efficient tools capable of working independently from internet connectivity to facilitate productivity on the go."
-    },
-    {
-      "title": "키사이트-수산아이앤티, 차세대 네트워크 가시성 및 보안 시장 성장 맞손",
-      "link": "http://www.boannews.com/media/view.asp?idx=143076&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 14:37:00 +0900",
-      "description": "키사이트, 수산아이앤티와 엑시드(Xceed) 기술 파트너십 체결 [보안뉴스 한세희 기자] 키사이트테크놀로지스는 수산아이앤티와 네트워크 애플리케이션 & 시큐리티(NAS) 엑시드 기술 파트너 프로그램(Xceed Technology Partner Program) 계약을 체결했다고 8일 밝혔다. 이번 파트너십은 점점 복잡해지는 네트워크 환경에서 네트워크 가시성을",
-      "language": "ko",
-      "summary": "키사이트, 수산아이앤티와 엑시드(Xceed) 기술 파트너십 체결 [보안뉴스 한세희 기자] 키사이트테크놀로지스는 수산아이앤티와 네트워크 애플리케이션 & 시큐리티(NAS) 엑시드 기술 파트너 프로그램(Xceed Technology Partner Program) 계약을 체결했다고 8일 밝혔다. 이번 파트너십은 점점 복잡해지는 네트워크 환경에서 네트워크 가시성을",
-      "points": [
-        "이번 파트너십은 점점 복잡해지는 네트워크 환경에서 네트워크 가시성을",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "AI로 잡는 취약점... ‘닷핵 컨퍼런스’ 2026 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=143072&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 14:01:00 +0900",
-      "description": "4월 7~8일 국내외 보안 전문가 및 관람객 600여 명 참가[보안뉴스 강현주 기자] 대규모 언어 모델(LLM)을 활용한 취약점 진단, AI 기반 레드팀 운영 등 현업 전문가들의 AI 보안 인사이트 공유의 장이 열렸다. 국내외 화이트햇 해커와 사이버 보안 전문가들이 참여하여 최신 기술 트렌드와 실무 노하우를 공유한 ‘닷핵 컨퍼런스 2026’(.HACK Co",
-      "language": "ko",
-      "summary": "4월 7~8일 국내외 보안 전문가 및 관람객 600여 명 참가[보안뉴스 강현주 기자] 대규모 언어 모델(LLM)을 활용한 취약점 진단, AI 기반 레드팀 운영 등 현업 전문가들의 AI 보안 인사이트 공유의 장이 열렸다. 국내외 화이트햇 해커와 사이버 보안 전문가들이 참여하여 최신 기술 트렌드와 실무 노하우를 공유한 ‘닷핵 컨퍼런스 2026’(",
-      "points": [
-        "4월 7~8일 국내외 보안 전문가 및 관람객 600여 명 참가[보안뉴스 강현주 기자] 대규모 언어 모델(LLM)을 활용한 취약점 진단, AI 기반 레드팀 운영 등 현업 전문가들의 ...",
-        "국내외 화이트햇 해커와 사이버 보안 전문가들이 참여하여 최신 기술 트렌드와 실무 노하우를 공유한 ‘닷핵 컨퍼런스 2026’(",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "ADT캡스, ‘오늘도 무사출동’ 캠페인으로 현장 안전 체계 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143071&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 8 Apr 2026 13:48:00 +0900",
-      "description": "에어백 조끼 지급·안전 교육 등 다각적 안전 활동 전개출동 과정 전반 안전성 강화 및 안전관리 체계 고도화VR 기반 체험형 교육·조직 정비로 기업 안전 역량 제고[보안뉴스 엄호식 기자] SK쉴더스(대표 민기식)의 물리보안 브랜드 ADT캡스가 현장 구성원의 안전관리 강화를 위해 ‘오늘도 무사출동’ 캠페인을 진행한다고 7일 밝혔다.최근 산업 현장 전반에서 안전",
-      "language": "ko",
-      "summary": "ADT캡스가 현장 안전 체계 강화에 필요한 '오늘도 무사출동' 캠펭를 진행함으로써, 산업 현장 안전성을 위해 고려해나석한다.",
-      "points": [
-        "ADT캡스는 정보체계 프로그래밍과 함께 '오늘도 무사출동'을 진행하여, 산업 안전성을 강화하기로 한다.",
-        "산업 현장에서는 보호체계가 중요하고, ADT캡스의 커뮤니킷이 그 강제를 전환시킵니다.",
-        "VR기발과 교육을 이용한 안전 교육 방식은, 현장 사람들에게 안전한 시스텟 설정 제출을 위해 도구가 되고 있다."
-      ],
-      "insight": "산업 현장에서의 보호체계, ADT캡스이 강화한 안전 채널이 필요하다는 사상을 가진다."
     }
   ]
 }
