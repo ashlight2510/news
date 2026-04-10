@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-04-09T19:13:37.476Z",
+  "generatedAt": "2026-04-10T02:36:59.883Z",
   "articles": [
+    {
+      "title": "SK쉴더스 해커, ‘드림핵 해킹방어대회 2026’ 최종 우승",
+      "link": "http://www.boannews.com/media/view.asp?idx=143106&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 10 Apr 2026 09:40:00 +0900",
+      "description": "이큐스트 소속 이동주 선임 1위 수상암호 해독, 블록체인 보안 등 고난도 문제 해결하며 높은 점수[보안뉴스 강현주 기자] SK쉴더스(대표 민기식)의 화이트햇 해커 그룹 이큐스트(EQST, Experts, Qualified Security Team) 소속 이동주 선임이 서울 코엑스에서 열린 ‘드림핵 해킹방어대회’(Dreamhack Invitational 20",
+      "language": "ko",
+      "summary": "SK쉴더스 화이트햇 해커 그룹의 SK쉴더스 선임이 '드림핵 해킹방어대회'에서 전적으로 합격을 차지하고 있습니다.",
+      "points": [
+        "SK쉴더스의 선임이 SK쉴더스 화이트햇 해커 그룹의 소속에서 합류하여 시작한 '드림핵 해킹방어대회'.",
+        "그들은 보안노동의 영열성과 전문성을 가지고, 이전에 수상처럼 강한 기술력을 느끼는데 성공했다.",
+        "따라서, SK쉴더스 그룹은 이러한 IT/보안 블록체인에서의 강화를 위해 합류하였다."
+      ],
+      "insight": "이큐스트 소속 이동주 선임이 '드림핵 해킹방어대회'에서의 우승은 SK쉴더스그룹이 IT/보안 영열성과 전문성을 확보하여 IT/기술 업계에 도움이 되는 시대의 시작을 의미한다."
+    },
+    {
+      "title": "실효성 논란 잠재울까? 정부, ISMS-P 인증 의무 대상 확대하고 기준도 강화",
+      "link": "http://www.boannews.com/media/view.asp?idx=143105&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 10 Apr 2026 08:25:00 +0900",
+      "description": "숨은 IT 자산 철저히 점검... 서면 위주·스냅샷 방식 벗어나 실제 운영 추적·개선 [보안뉴스 한세희 기자] 매출과 개인정보 처리 규모가 큰 기업과 기관 전체로 ISMS-P 인증이 의무화된다. 국민 생활에 파급력이 큰 정보를 처리하는 경우 강화된 심사 기준을 적용하고, 심사 과정 역시 현장 중심으로 재편한다. 과학기술정보통신부와 개인정보보호위원회는 10",
+      "language": "ko",
+      "summary": "국민 사용자가 정보를 처리하는 경우 ISMS-P 인증이 의무화되고, 현재 개인정보 처리에 대한 심사 기준과 시행 방식이 강화돼요.",
+      "points": [
+        "국민 IT 자산 점검이 숨은 모드로 진전하고 ISMS-P 인증의 확대가 기재로",
+        "..."
+      ],
+      "insight": "이러한 정부 시행을 위해서는 IT/기술 업계 내에서 보안과정치의 일상에 대응하여 개인정보 처리에 충실한 방식을 즉시 따름이 필요해요."
+    },
+    {
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 22:13:26 +0000",
+      "description": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year.",
+      "language": "en",
+      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 21:29:11 +0000",
+      "description": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+      "language": "en",
+      "summary": "OpenAI has announced the launch of a new ChatGPT Pro Plan priced at $100/month after criticism over previous price hikes.",
+      "points": [
+        "The ChatGPT Pro Plan is now available for only $1 end user cost, following backlash to OpenAI'thigher subscriptions fees",
+        "OpenAI has made the model accessible with a new pricing tier that maintains free access while offering paid premium options.",
+        "The release of this plan comes after users expressed frustration over increased costs for accessing ChatGPT."
+      ],
+      "insight": "This announcement reflects OpenAI's response to user feedback and shows a balance between providing advanced features and maintaining accessibility, which could set an industry trend towards more affordable high-tier AI services."
+    },
+    {
+      "title": "EFF is the latest organization to leave X",
+      "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 21:26:18 +0000",
+      "description": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
+      "language": "en",
+      "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic",
+      "points": [
+        "The EFF follows the departure of various news organizations and others who no longer find X a viable...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "What founders can learn from Anjuna’s layoffs and recovery",
+      "link": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 21:17:30 +0000",
+      "description": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hypergrowth. Then 2022 hit.",
+      "language": "en",
+      "summary": "Anjuna Security experienced rapid growth with hiring peaking around 75 employees by the end of 2curry, but faced layoffs in early 2023 amidst slowing down their sales and market prospects.",
+      "points": [
+        "Anjuna had a significant number of layoffs as they recalibrated from an aggressive growth approach to one that is more sustainable within the cybersecurity industry",
+        "The company was struggling with keeping up its pace in hiring, which led them into reducing headcount for various departments like sales and support.",
+        "Anjuna's experience shows how important it is for tech companies to have a clear understanding of their growth trajectory and adapt quickly."
+      ],
+      "insight": "The news underscores the volatile nature of fast-growing startups in technology sectors, highlighting that sustainable growth should be prioritized over aggressive expansion without adequate market assessment or preparation for scaling back if necessary."
+    },
+    {
+      "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+      "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 21:01:36 +0000",
+      "description": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV.",
+      "language": "en",
+      "summary": "Volkswagen has ceased plans for an all-electric ID.4 in favor of focusing on their gasoline vehicle lineup with the new Atlas luxury SUV.",
+      "points": [
+        "Volkswagen discontinues its all-electric ID.4 model",
+        "Shifts factory focus to gasoline vehicles for the Atlas SUV debut at CES",
+        "Emphasizes profitability and dealership sales over electric vehicle development"
+      ],
+      "insight": "This decision reflects Volkswagen's strategic pivot towards more profitable internal combustion engine models, potentially impacting investor confidence in the company's commitment to electrifying its fleet."
+    },
+    {
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 20:11:55 +0000",
+      "description": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "language": "en",
+      "summary": "Florida Attorney General Ashley Moody announced an investigation into how ChatGPT allegedly contributed to a shooting at Florida State University in April of last year. The family of one victim intends to sue OpenAI.",
+      "points": [
+        "Ashley Moody, the Florida AG, has started probing into claims that OpenAI's AI was involved in planning an assault on students and faculty at FSU which resulted in death and injuries",
+        "The incident took place over a year ago but it resurfaced due to ChatGPT discussions about the event surfacing online, leading Moody to initiate her investigation.",
+        "According to reports from OpenAI'thy website itself, AI models are not used for planning real-world events. The AG’s office stated that they would seek clarification and further information regarding these claims."
+      ],
+      "insight": "This incident raises questions about the responsibilities of tech companies in monitoring misuse of their products while also highlighting potential loopholes where AI can be used for harmful purposes. The outcome could lead to a reassessment of ethical guidelines and regulations surrounding AI technology."
+    },
+    {
+      "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
+      "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 20:04:12 +0000",
+      "description": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees.",
+      "language": "en",
+      "summary": "StubHub faced allegations from the FTC for deceptive ticket pricing practices by not adedequately disclosing total costs to consumers on its website.",
+      "points": [
+        "The Federal Trade Commission accused StubHub of violating their Act and Rule against unfair or deceptive fees through misleading advertising tactics, particularly concerning ticket prices that lacked clear upfront cost displays including mandatory fees.",
+        "StubHub's website practices led to consumer confusion over the actual costs they would incur when buying tickets from StubHub due to non-transparent fee disclosures.",
+        "$10M settlement requires full compliance with FTC regulations and enhancement of transparency regarding ticket pricing, including mandatory fees on its website."
+      ],
+      "insight": "This case emphasizes the importance for online marketplaces to maintain clear communication about fee structures in order to foster trust among consumers and avoid regulatory penalties that can impact industry reputation and financial standing. The settlement also sets a precedent, encouraging other platforms within the IT/technology sector to audit their pricing policies."
+    },
+    {
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
+      "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 19:33:54 +0000",
+      "description": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+      "language": "en",
+      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers",
+      "points": [
+        "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 09 Apr 2026 19:10:07 +0000",
+      "description": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+      "language": "en",
+      "summary": "Meta AI has rapidly improved its ranking in Apple's App Store after the launch of Muse Spark with a powerful new artificial intelligence model.",
+      "points": [
+        "The app Meta AI was ranked No. 57 on the App Store before it launched Muse Spark but is now at rank No. 5, indicating significant growth and popularity since its release in December 2023."
+      ],
+      "insight": "This news suggests that advancements in artificial intelligence can have a substantial impact on an application's success within the app marketplace, highlighting the importance of innovative features to attract users. The successful ranking boost also implies potential competitiveness for similar AI-driven applications."
+    },
     {
       "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
       "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
@@ -585,171 +747,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "해킹 소용없는 AI 시대... 국가AI전략위, ‘동형암호’ 세미나 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=143078&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 9 Apr 2026 09:33:00 +0900",
-      "description": "‘동형암호 기반 LLM과 AI 데이터 보호’ 세미나[보안뉴스 강현주 기자] AI 시대 사이버 위협이 고도화된 가운데, 공격해도 소용없는 해킹 무력화 기술에 대해 탐구하는 자리가 정부 차원에서 마련됐다. 국가인공지능전략위원회(위원장 이재명 대통령)는 9일 보안특위 주관으로 천정희 서울대 교수를 초청해 ‘동형암호 기반 LLM과 AI 데이터 보호’라는 주제로 세",
-      "language": "ko",
-      "summary": "국가인공지능전략위원회이 정부에서 초청한 천정희 교수는 '동형암호 기반 LLM과 AI 데이터 보호' 주제로 세마나리틱 보안튜궤적을 위한 우상단작성으로 강의를 수띄었다.",
-      "points": [
-        "국가인공지능전략위원회는 보안과 사라진 데이터에 대한 신비 부여로 AI 시대의 병행적 위기를 결제할 수 있음",
-        "천정희 교수는 '동형암호 기반 LLM과 AI 데이터 보호'로 강의를 하여 AI의 위기와 접근방식에 대한 지속적인 학습을 촉진할 수 있음",
-        "정보보안에 해당하는 국가정보보안전구는 AI의 위기와 공격방식에 대해 강화할 필요가 ある"
-      ],
-      "insight": "이러한 교수의 교시는 IT/기술 업체가 인공지능을 실전에 활용하도록 도전을 드세요. 이로써 국가보안전의 유대창과 인공지능기술자는 AI 위기에 대한 인설션에서 핵심성을 낳아야 합니다."
-    },
-    {
-      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
-      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 21:50:41 +0000",
-      "description": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
-      "language": "en",
-      "summary": "WireGuard VPN developers have been blocked from sending updates by Microsoft for allegedly using an unautnered API endpoint in a beta release of the product.",
-      "points": [
-        "Microsoft locked WireGuard developer's account without notification, blocking software update distribution",
-        "The lockout occurred after use of an unannounced end-point during development for Microsoft's Azure VPN service",
-        "WireGuard developers claim to have used the endpoint only in beta releases"
-      ],
-      "insight": "This incident highlights potential risks and challenges faced by open source projects when integrating with proprietary platforms like Microsoft's Azure, which could result in unintended restrictions on their ability to update users."
-    },
-    {
-      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
-      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 21:19:07 +0000",
-      "description": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
-      "language": "en",
-      "summary": "A self-driving car hit and killed a mother duck in Texas without slowing down or showing hesitation, causing neighborhood outrage.",
-      "points": [
-        "Self-driving vehicle did not detect the mother duck",
-        "Community is upset with perceived lack of safety protocols for autonomous vehicles",
-        "The incident raises questions about testing and operation standards in real traffic conditions"
-      ],
-      "insight": "This tragic event highlights significant concerns regarding the current state of self-driving technology's ability to safely navigate unpredictable elements within real-world environments, suggesting that more advanced detection systems are necessary."
-    },
-    {
-      "title": "Poke makes using AI agents as easy as sending a text",
-      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 21:05:13 +0000",
-      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "language": "en",
-      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how",
-      "points": [
-        "Poke brings AI agents to everyday users via text message by handling tasks and automations without c...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
-      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 21:00:00 +0000",
-      "description": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
-      "language": "en",
-      "summary": "Canva has acquired Simtheory and Ortto to bolster their offerings in AI-driven design tools with a focus on personalized marketing automation.",
-      "points": [
-        "Canva acquires agentic AI companies: Canva's acquisition of Simtheory, an 'agency as a service', and Ortto expands its capabilities in customer engagement through data infrastructure enhancement. The new partnerships are intended to create more personalized experiences for businesses using design tools.",
-        "Canva strengthens marketing automation: With the acquisitions of Simtheory, which specializes in AI-driven 'agency as a service' offering tailored solutions for digital campaigns and customer interactions without needing an internal team or staff hire. This allows Canva to provide more personalized user experiences while also expanding its market reach.",
-        "Canva invests in data infrastructure: Through the acquisition of Ortto, which has a strong focus on robust back-end systems for building and managing digital assets across multiple platforms, including social media. This integration will allow Canva to create more efficient workflows with fewer repetitive tasks."
-      ],
-      "insight": "These strategic investments into AI customer engagement solutions indicate that companies like Canva are aiming for higher levels of personalization and efficiency in digital marketing, positioning themselves as one-stop shops within the design industry. This move also suggests a broadened scope beyond just graphic design to include comprehensive brand experience creation through intelligent technology."
-    },
-    {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 20:09:14 +0000",
-      "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-      "language": "en",
-      "summary": "Brian Huskey, AWS CEO, discussed why investing in Anthropic and OpenAI is compatible with their strategy despite potential conflicts of interest since they also compete within the cloud ecosystem.",
-      "points": [
-        "AWS invests in AI firms like Anthropic to stay at the forefront of technology without letting competition hinder progress.",
-        "The company acknowledges inherent conflict but prioritizes innovation and leadership over concerns about dual interests with partners, as per AWS CEO Brian Huskey'thy views",
-        "AWS believes investing in AI companies can help maintain a healthy competitive environment by promoting advancement rather than stifling competition."
-      ],
-      "insight": "This approach suggests that industry leaders like AWS see value in nurturing multiple entities within the same space to foster innovation and progress, which could set an example for other companies facing similar dilemmas."
-    },
-    {
-      "title": "Amazon to end support for older Kindle devices",
-      "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 19:56:16 +0000",
-      "description": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
-      "language": "en",
-      "summary": "Amazon has announced the end of support for Kindle devices manufactured from 2012 onwards due to their outdated hardware that cannot run newer software or download new content.",
-      "points": [
-        "All e-readers released in 2012 and prior will no longer receive updates, rendering them unable to load recent publications or access the latest Kindle features.",
-        "Kindle Fire tablets launched before May 30th, 2015 are also discontinued by Amazon as these devices cannot run newer software for navigation on Android apps.",
-        "E-ink e-readers produced prior to October 6th, 2015 will lose the capability to download and read new content from Kindle Books."
-      ],
-      "insight": "This decision by Amazon highlights a common industry trend of phasing out legacy devices as they become obsolete. It may lead consumers towards newer models but also poses questions regarding digital preservation for older e-readings and archives."
-    },
-    {
-      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
-      "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 18:53:19 +0000",
-      "description": "This is the first model Meta has released under its Superintelligence Labs, led by former ScaleAI CEO Alexandr Wang.",
-      "language": "en",
-      "summary": "Meta unveils Muse Spark AI as part of a significant transformation in their approach to artificial intelligence research.",
-      "points": [
-        "Alexandr Wang leads Meta's Superintelligence Labs and is spearheading the development of Muse Spark, which represents a shift towards ground-up overhauls within Meta'nera.",
-        "Muse Spark will focus on improving internal processes such as data gathering for AI training while simultaneously generating new content across various forms like video clips, images, and text transcriptions from audio inputs with high accuracy. Additionally, Muse Spark is designed to facilitate human-AI collaborations in creative tasks.",
-        "Meta has made Muse Spark openly accessible on GitHub under an Apache 2 license since late May."
-      ],
-      "insight": "The release of Meta's Muse Spark AI marks a new direction for the company, emphasizing efficiency and human-AI collaboration. Open sourcing this model could encourage more innovative approaches within the technology sector as it demonstrates Meta's commitment to fostering creativity through artificial intelligence."
-    },
-    {
-      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
-      "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 18:51:20 +0000",
-      "description": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices.",
-      "language": "en",
-      "summary": "A hack-for-hire group has been caught exploiting vulnerabilities in Android systems by deploying spyware and conducting phishing attacks to access iCloud credentials for targeted individuals.",
-      "points": [
-        "Hackers used sophisticated malware on mobile devices",
-        "Phishing tactics employed to steal digital identities across the globe, primarily impacting iOS users in India and Pakistan through fake login pages linked with iCloud accounts or Google Emails.",
-        "The compromised data includes bank details as well as sensitive personal information like birthdates."
-      ],
-      "insight": "This revelation of hack-for-hire activities on mobile platforms highlights the vulnerability in commonly used operating systems and underscores the need for enhanced security measures. It also raises concerns about individuals' privacy, particularly regarding financial data stored with such services."
-    },
-    {
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 18:23:06 +0000",
-      "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "language": "en",
-      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers",
-      "points": [
-        "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
-      "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 08 Apr 2026 17:19:16 +0000",
-      "description": "Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.",
-      "language": "en",
-      "summary": "Volkswagen's US-based self-driving subsidiary MOIA America is testing microbuses in Los Angeles as part of the preparation for a commercial robotaxi service launch.",
-      "points": [
-        "MOIA has partnered with Uber to test and potentially deploy autonomous vehicles on public roads",
-        "The Volkswagen Group plans an initial investment of $1.5 billion into electric vehicle development, including driverless technology within the next deth years",
-        "Volkswagen aims for self-driving cars in Europe by 2025 and intends to expand autonomous service offerings across multiple regions"
-      ],
-      "insight": "This launch marks Volkswagen's significant step towards dominating the burgeoning market of robotaxi services, potentially disrupting traditional ride-hailing businesses."
     }
   ]
 }
