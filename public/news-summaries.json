@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-11T02:19:15.148Z",
+  "generatedAt": "2026-04-11T07:03:30.343Z",
   "articles": [
+    {
+      "title": "[AI와 보안] 美 금융당국, ‘미토스’ 긴급회의... 은행들 보안 위협 대비 점검",
+      "link": "http://www.boannews.com/media/view.asp?idx=143125&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 11 Apr 2026 13:41:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 앤트로픽의 새 인공지능(AI) 모델 ‘미토스’가 인간 전문가 수준으로 보안 취약점 탐지에 강하다고 알려지면서 미국 금융 당국이 비상 회의를 열었다. 외신들은 스콧 베센트 재무장관과 제롬 파월 연방준비제도 의장이 지난 7일 워싱턴의 재무부 본부에서 대형 은행 최고경영자(CEO)들을 소집했다고 보도했다. 미토스로 인한 사이버 보안 위협",
+      "language": "ko",
+      "summary": "미국 금융 당국이 '미토스'의 AI로부터 보안 위험을 인식하여 비상회의를 열었다.",
+      "points": [
+        "- 앤트로픽의 '미토스'이 인간 전문가의 보안 부재에 대한 강조",
+        "- 미국 금융당국, 스콴 베센트 재무장관과 제롬 파월 연방준비제도의 CEOs가 비상회의에서 보안 위험을 강조함",
+        0.2
+      ],
+      "insight": "이러한 비상회의는 AI가 보안적 부재로인해 필요한 시스템적인 대체없이 작동하지 않을 수 있음을 강조."
+    },
     {
       "title": "“유럽 기차 여행 낭만 와장창”... 유레일, 30만명 여권 번호 유출",
       "link": "http://www.boannews.com/media/view.asp?idx=143124&kind=&sub_kind=",
@@ -732,21 +747,6 @@
         "Restrictions apply globally, targeting various age groups"
       ],
       "insight": "This initiative marks a significant step towards self-regulation within the social media industry and could set a precedent for content governance worldwide."
-    },
-    {
-      "title": "This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’",
-      "link": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 13:00:00 +0000",
-      "description": "The company's novel rocket engine could be a game changer for the U.S. military.",
-      "language": "en",
-      "summary": "SpaceX founder and CEO Elon Musk has developed one of his companies’ most powerful rocket engines that may revolutionize space travel and have implications for the U.S. military. His latest endeavor could be likened to a 'fighter jet' in orbit.",
-      "points": [
-        "Elon Musk, through SpaceX, has created an advanced rocket engine with potential game-changing capabilities for space travel and national security interests.",
-        "The powerful Raptor engine could enable more efficient launches of satellites as well as interplanetary missions like Mars colonization by NASA’s Perseverance mission.",
-        "Musk's efforts not only push the boundaries of commercial spaceflight but also demonstrate his commitment to revolutionizing technology and transportation."
-      ],
-      "insight": "Elon Musk's innovations in rocket engine design hold significant promise for both expanding human presence into deep space, as seen with NASA missions like Perseverance on Mars, and bolstering national security by enhancing the U.S.'s military capabilities."
     }
   ]
 }
