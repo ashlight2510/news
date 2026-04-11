@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-11T12:56:46.484Z",
+  "generatedAt": "2026-04-11T18:44:53.217Z",
   "articles": [
+    {
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "language": "en",
+      "summary": "Sam Altman has published a response via his new blog titled 'New World Order,' addressing both criticism from the article in The New Yorker and concerns regarding his character.",
+      "points": [
+        "Altman's home received unexpected attention after publication of an allegorical piece about him by Nathan J. Robinson, which led to fear for personal safety expressed on social media.",
+        "The blog post is a response not only to the article but also as Altman’semission that 'New Yorker should be ashamed' indicates his disappointment with its portrayal.",
+        "Altman discusses challenges within OpenAI, including misaligned incentives and potential conflicts of interest."
+      ],
+      "insight": "This incident highlights issues around public perception, personal safety concerns related to media coverage, as well as the importance for leaders like Altman to address both direct critiques and underlying problems affecting their organizations."
+    },
+    {
+      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 11 Apr 2026 14:03:00 +0000",
+      "description": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+      "language": "en",
+      "summary": "Nvidia has invested in the open AI chips company SiFive, which now boasts a $3.65 billion valuation based on RISC-V architecture.",
+      "points": [
+        "Amazon and Nvidia invest in Linux Foundation backed Chromium OS",
+        "Nvidia invests in Open Source silicon design firm SiFive which designs chips for AI researchers using an open instruction set called RISC-V, reaching a $3.65 billion valuation.",
+        "The deal highlights the growing interest and investment in alternative chip architectures like RISC-V."
+      ],
+      "insight": "This development indicates increased attention towards more affordable and customizable AI computing platforms that can accelerate innovations outside of traditional silicon providers' offerings. It could potentially disrupt the semiconductor industry by providing a free alternative to proprietary designs, fostering further open-source collaboration."
+    },
     {
       "title": "[AI와 보안] 美 금융당국, ‘미토스’ 긴급회의... 은행들 보안 위협 대비 점검",
       "link": "http://www.boannews.com/media/view.asp?idx=143125&kind=&sub_kind=",
@@ -717,36 +747,6 @@
         "Registering before the deadline ensures savings on one of this year's most anticipated tech events"
       ],
       "insight": "This news highlights how limited-time promotions can drive immediate demand and ticket sales, emphasizing event organizers' strategies to capitalize on consumer interest for high-profile technology gatherings."
-    },
-    {
-      "title": "Spotify now lets everyone turn off videos in its app",
-      "link": "https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 13:49:56 +0000",
-      "description": "The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spotify says.",
-      "language": "en",
-      "summary": "The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spotify says",
-      "points": [
-        "The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spo...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Instagram expands its movie-inspired content restrictions for teens internationally",
-      "link": "https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 13:26:29 +0000",
-      "description": "Instagram debuted its movie-rating-inspired content settings in limited countries in 2025.",
-      "language": "en",
-      "summary": "In an effort to create a safer online environment for teens and preteens internationally, Instagram has launched movie-rating-inspired content settings that categorize posts accordingly.",
-      "points": [
-        "Instagram introduces film rating system for user content",
-        "Settings allow users aged under 18 to report inappropriate material easily",
-        "Restrictions apply globally, targeting various age groups"
-      ],
-      "insight": "This initiative marks a significant step towards self-regulation within the social media industry and could set a precedent for content governance worldwide."
     }
   ]
 }
