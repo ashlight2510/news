@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-12T02:34:48.442Z",
+  "generatedAt": "2026-04-12T07:14:40.507Z",
   "articles": [
+    {
+      "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 12 Apr 2026 03:00:00 +0000",
+      "description": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+      "language": "en",
+      "summary": "The rapid growth of Flipkart under Walmart's ownership has heightened the risk to India' extranet shopping platforms (quick commerce startups). Analysts note these developments as potentially disruptive.",
+      "points": [
+        "Flipkart, a leading Indian e-commerce company and subsidiary of American retail giant Walmart Inc., is expanding its operations in India through aggressive growth strategies such as heavy discounting on products to outperform competitors like Amazon.",
+        "The expansion into smaller towns across the country has allowed Flipkart, which already holds significant market share within urban areas of large metropolises such as Mumbai and New Delhi, a stronger foothold in India's overall e-commerce landscape. This growth is causing quick commerce startups to face increasingly stiff competition.",
+        "Industry observers suggest that the aggressive expansion could lead these smaller companies into financial distress or even force them out of business entirely if they are unable to compete effectively."
+      ],
+      "insight": "The rapid growth and heavy discounting tactics used by Flipkart, coupled with its parent company Walmart's resources and expansion strategies, pose a serious threat not only to quick commerce startups in India but potentially also the overall health of the e-commerce sector."
+    },
     {
       "title": "‘GTA6’ 개발사 락스타게임즈, 해킹 협박 받아",
       "link": "http://www.boannews.com/media/view.asp?idx=143127&kind=&sub_kind=",
@@ -732,21 +747,6 @@
         "The evolution towards voice-driven interactions through services like Alexa will continue as they gain more sophistication"
       ],
       "insight": "This advancement signifies an important shift from commanding technology with specific actions (clicks) to conversing naturally, which could redefine user experiences and accessibility across the IT/technology industry."
-    },
-    {
-      "title": "Avec’s Tinder-style email app allows you to swipe through your inbox",
-      "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 15:58:22 +0000",
-      "description": "Users can use the in-built voice transcription tool to reply to emails",
-      "language": "en",
-      "summary": "Avec's email app introduces a Tinder-style interface with swipe functionality for managing emails efficiently.",
-      "points": [
-        "Introduced in the UK as an alternative to conventional desktop and mobile email apps, Avec allows users to organize their daily tasks using customizable themes and widgets on desktops or directly within a dedicated browser tab on iOS devices.",
-        "The app's standout feature is its unique interface inspired by Tinder, where emails can be sorted into categories such as 'Important', 'To Do Later', and 'Done'.",
-        "Avec also integrates voice transcription for reply functionalities via an in-built tool."
-      ],
-      "insight": "The introduction of a more visually engaging interface could potentially transform the mundane task of email management into something less tedious. This approach might inspire other companies to rethink traditional interfaces and offerings, spurring innovation within personal productivity tools."
     }
   ]
 }
