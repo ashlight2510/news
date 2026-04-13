@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-04-12T18:52:44.196Z",
+  "generatedAt": "2026-04-13T02:46:33.520Z",
   "articles": [
+    {
+      "title": "“구글도 못 본다” G메일 모바일 앱에 ‘종단간 암호화’ 도입",
+      "link": "http://www.boannews.com/media/view.asp?idx=143130&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 13 Apr 2026 10:51:00 +0900",
+      "description": "안드로이드 및 iOS 앱에 클라이언트측 암호화(CSE) 적용, 서버 도달 전 데이터 보호자물쇠 아이콘 탭으로 간편한 보안... 외부 수신자도 계정 없이 웹 브라우저로 확인 가능[보안뉴스 김형근 기자] 구글이 안드로이드 및 iOS용 지메일 앱에 ‘종단간 암호화’(E2EE) 기능을 공식 출시해 기업용 모바일 보안 체계 강화에 나섰다. 이번 업데이트로 사용자는",
+      "language": "ko",
+      "summary": "구글이 안드로이드 및 iOS 앱에 E2EE 기능을 제공해 모바일 보안 강화",
+      "points": [
+        "게시자는 구글이 이전 API 호환성을 지원하지 않으면서, 이전 iOS 및 안드로이드 버전에서도 E2EE 기능을 적용한다.",
+        "구글은 모바일 앱에 '종단간 암호화'를 추가하여 보안성의 행정과지로 강화한다.",
+        "이러한 기능을 구글의 모바일 앱에서만 제공하고 있는 반면, iOS 버전은 E2EE 기능을 지원하지 않으며 사용자가 확보할 수도 없다."
+      ],
+      "insight": "이러한 구글의 모바일 앱 제공에서만 종단간 암호화를 제공하는 것은 보안성을 강화한다. 버전 변경이나 API 호환성의 정리로, 이전 iOS 버전과 안드로이드 버전은 E2EE를 지원하지 않으며 보안을 위한 기본 제공량이 그들의 보안성에서 크게 비싼 패널세다."
+    },
+    {
+      "title": "개인정보 유출 공공기관, 패널티 대폭 확대... 보호 노력 배점도 늘어",
+      "link": "http://www.boannews.com/media/view.asp?idx=143136&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 13 Apr 2026 10:47:00 +0900",
+      "description": "개인정보위, 2026년 공공기관 개인정보 보호수준 평가계획 확정감점 최대치 2배 높이고 보호 노력 배점도 늘려 [보안뉴스 강현주 기자] 개인정보 유출 사고가 난 공공기관들은 ‘개인정보 보호수준 평가’에서 감점 최대치가 두 배가 된다. 보호 노력에 대한 배점도 늘어난다. 개인정보보호위원회(위원장 송경희)는 공공부문의 실질적인 개인정보 보호 역량을 높이기 위한",
+      "language": "ko",
+      "summary": "개인정보위, 2026년 공공기관 개인정보 보호수준 평가계획 확정감점 최대치 2배 높이고 보호 노력 배점도 늘려 [보안뉴스 강현주 기자] 개인정보 유출 사고가 난 공공기관들은 ‘개인정보 보호수준 평가’에서 감점 최대치가 두 배가 된다. 보호 노력에 대한 배점도 늘어난다...",
+      "points": [
+        "개인정보위, 2026년 공공기관 개인정보 보호수준 평가계획 확정감점 최대치 2배 높이고 보호 노력 배점도 늘려 [보안뉴스 강현주 기자] 개인정보 유출 사고가 난 공공기관들은 ‘개인...",
+        "개인정보보호위원회(위원장 송경희)는 공공부문의 실질적인 개인정보 보호 역량을 높이기 위한",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "국가 수사기관 도청망 해킹 사고... FBI, “중요 사건”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143132&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 13 Apr 2026 10:36:00 +0900",
+      "description": "FBI 도청 시스템 DCSNet, 중국 연계 해커 추정 공격으로 침해ISP 공급망 우회 침투... 개인정보·도청 데이터 유출 가능성[보안뉴스 김형근 기자] 미국 연방수사국(FBI) 범죄 수사의 핵심 보루인 국가 도청망이 2월 중국 연계 해커 소행으로 추정되는 공격으로 뚫린 가운데, FBI가 이 사건을 국가 안보에 직결된 ‘중요 사건’(Major Incide",
+      "language": "ko",
+      "summary": "FBI 서부가 중국 연계 해커 공격으로 인증맨이크(ISP) 공급자를 구분하고 있으며, 개인정보 수용가능성이 존재합니다.",
+      "points": [
+        "FBI는 중국 연계 해커의 공급없이 국가 서부에서 인증맨이크(ISP) 공급자로 인식한다.",
+        "이 사거는 고유체 보호를 위해 FBI가 '중요 사건'으로 등장했다.",
+        "개인정보·도청 데이터 공급방지와 유효성을 위한 조치가 요구되고 있어 FBI는 대비를 하고 있다."
+      ],
+      "insight": "이러한 공급자 분포를 수사하기 위해 FBI가 국가 안보에서 중요 사거로 등장했으며, 국가의 보호와 개인정보 유지보호에 대한 고려가 드오십니다."
+    },
+    {
+      "title": "소프트캠프, 일본서 안전한 AI 위한 보안 제시... ‘재팬 IT 위크 스프링 2026’ 참가",
+      "link": "http://www.boannews.com/media/view.asp?idx=143134&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 13 Apr 2026 10:21:00 +0900",
+      "description": "AI 서비스 환경의 안전한 격리 및 클라우드 데이터 보호 제안 [보안뉴스 강현주 기자] 사이버 보안 전문기업 소프트캠프(대표 배환국)가 일본 시장에 생성형 AI 시대에 대응하는 보안 솔루션들을 선보였다. 소프트캠프는 8일부터 10일까지 사흘간 일본 도쿄 빅사이트에서 열린 B2B IT 전시회 ‘재팬 IT 위크 스프링 2026’에 참가했다.재팬 IT 위크는",
+      "language": "ko",
+      "summary": "소프트캐스팩이 안전한 AI 서비스 환경을 위해 보안 제안",
+      "points": [
+        "- 소프트캠픽의 발행",
+        "- IT 전시회 '재팬 IT 위크 스프링 2026'에 참가",
+        "- AI 보안 솔루션의 개요 결정"
+      ],
+      "insight": "소프트캐스팩이는 앞서 빠진 광고매커력을 가지고 있으며, 아래에서의 IT 제시회에서 보안 제안을 통해 앱 사용자에게 안전성을 보장할 수 있는 방식을 언급하였다."
+    },
+    {
+      "title": "안랩, 일본서 CPS 보안 솔루션 선보여... ‘재팬 IT 위크 스프링 2026’ 참가",
+      "link": "http://www.boannews.com/media/view.asp?idx=143131&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 13 Apr 2026 09:47:00 +0900",
+      "description": "성능 저하 최소화 경량 설계 및 구형 설비 보호 호평[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본에서 자사 사이버물리시스템(CPS) 보안 솔루션을 선보였다.안랩은 8일부터 10일까지 3일간 일본 도쿄 빅 사이트에서 열린 일본 최대 IT 전시회 ‘재팬 IT 위크 스프링 2026’에서 일본 법인 및 파트너사 ‘미카사 상사’와 함께 부스를 운영했다. 여기서",
+      "language": "ko",
+      "summary": "안랩이 일본에서 개정된 CPS 보안 솔루션을 선공, '재팬 IT 위크 스프링 2026'에서 공지한다.",
+      "points": [
+        "안랩은 보안 솔루션을 선공하여 기술과 인нова카 활동을 확률로 진전시켰다.",
+        "이미 '재팬 IT 위크 스프링 2026'에서 공지한 블록업 아키텍쳐코리아(BACS)가 이미 소통의 중요성을 인식하고 있다.",
+        "이러한 공지는 IT/기술 업계에서 이전보안 시스템의 개선과 자신화와 연결을 가능하게 한다."
+      ],
+      "insight": "IT/기술 업계에서는 IT/기술 보안 전문가의 권리와 소통의 중요성을 인식해야한다."
+    },
+    {
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "language": "en",
+      "summary": "Trump officials may be promoting banks to experiment with Anthropic's AI model called Mythos despite the Department of Defense identifying it as a supply-chain risk.",
+      "points": [
+        "Anthropic, an artificial intelligence company led by one of Silicon Valley's most prominent figures in technology Timnit Gebru was declared a high-risk entity to monitor due to potential national security concerns.",
+        "The Trump administration is pushing banks towards adopting Anthropic AI model Mythos for automating business operations, despite federal warnings about the company as an intelligence agencies source of bias and misinformation in its technology products.",
+        "Timnit Gebru was forced out from her position at Google after a review by top executives found that she committed academic fraud on one project to secure grant funding; thus questionable leadership decisions within Anthropic are further concerns."
+      ],
+      "insight": "This development could signal potential conflicts of interest and security vulnerabilities in the AI industry, potentially threatening national intelligence resources. It highlights a disregard for federal warnings about bias risks associated with artificial intelligence technologies from sources like Anthropi."
+    },
+    {
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "language": "en",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices",
+      "points": [
+        "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "X says it’s reducing payments to clickbait accounts",
       "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
@@ -644,109 +749,6 @@
         "The release of this plan comes after users expressed frustration over increased costs for accessing ChatGPT."
       ],
       "insight": "This announcement reflects OpenAI's response to user feedback and shows a balance between providing advanced features and maintaining accessibility, which could set an industry trend towards more affordable high-tier AI services."
-    },
-    {
-      "title": "EFF is the latest organization to leave X",
-      "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 21:26:18 +0000",
-      "description": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
-      "language": "en",
-      "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic",
-      "points": [
-        "The EFF follows the departure of various news organizations and others who no longer find X a viable...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "What founders can learn from Anjuna’s layoffs and recovery",
-      "link": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 21:17:30 +0000",
-      "description": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hypergrowth. Then 2022 hit.",
-      "language": "en",
-      "summary": "Anjuna Security experienced rapid growth with hiring peaking around 75 employees by the end of 2curry, but faced layoffs in early 2023 amidst slowing down their sales and market prospects.",
-      "points": [
-        "Anjuna had a significant number of layoffs as they recalibrated from an aggressive growth approach to one that is more sustainable within the cybersecurity industry",
-        "The company was struggling with keeping up its pace in hiring, which led them into reducing headcount for various departments like sales and support.",
-        "Anjuna's experience shows how important it is for tech companies to have a clear understanding of their growth trajectory and adapt quickly."
-      ],
-      "insight": "The news underscores the volatile nature of fast-growing startups in technology sectors, highlighting that sustainable growth should be prioritized over aggressive expansion without adequate market assessment or preparation for scaling back if necessary."
-    },
-    {
-      "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
-      "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 21:01:36 +0000",
-      "description": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV.",
-      "language": "en",
-      "summary": "Volkswagen has ceased plans for an all-electric ID.4 in favor of focusing on their gasoline vehicle lineup with the new Atlas luxury SUV.",
-      "points": [
-        "Volkswagen discontinues its all-electric ID.4 model",
-        "Shifts factory focus to gasoline vehicles for the Atlas SUV debut at CES",
-        "Emphasizes profitability and dealership sales over electric vehicle development"
-      ],
-      "insight": "This decision reflects Volkswagen's strategic pivot towards more profitable internal combustion engine models, potentially impacting investor confidence in the company's commitment to electrifying its fleet."
-    },
-    {
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 20:11:55 +0000",
-      "description": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
-      "language": "en",
-      "summary": "Florida Attorney General Ashley Moody announced an investigation into how ChatGPT allegedly contributed to a shooting at Florida State University in April of last year. The family of one victim intends to sue OpenAI.",
-      "points": [
-        "Ashley Moody, the Florida AG, has started probing into claims that OpenAI's AI was involved in planning an assault on students and faculty at FSU which resulted in death and injuries",
-        "The incident took place over a year ago but it resurfaced due to ChatGPT discussions about the event surfacing online, leading Moody to initiate her investigation.",
-        "According to reports from OpenAI'thy website itself, AI models are not used for planning real-world events. The AG’s office stated that they would seek clarification and further information regarding these claims."
-      ],
-      "insight": "This incident raises questions about the responsibilities of tech companies in monitoring misuse of their products while also highlighting potential loopholes where AI can be used for harmful purposes. The outcome could lead to a reassessment of ethical guidelines and regulations surrounding AI technology."
-    },
-    {
-      "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
-      "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 20:04:12 +0000",
-      "description": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees.",
-      "language": "en",
-      "summary": "StubHub faced allegations from the FTC for deceptive ticket pricing practices by not adedequately disclosing total costs to consumers on its website.",
-      "points": [
-        "The Federal Trade Commission accused StubHub of violating their Act and Rule against unfair or deceptive fees through misleading advertising tactics, particularly concerning ticket prices that lacked clear upfront cost displays including mandatory fees.",
-        "StubHub's website practices led to consumer confusion over the actual costs they would incur when buying tickets from StubHub due to non-transparent fee disclosures.",
-        "$10M settlement requires full compliance with FTC regulations and enhancement of transparency regarding ticket pricing, including mandatory fees on its website."
-      ],
-      "insight": "This case emphasizes the importance for online marketplaces to maintain clear communication about fee structures in order to foster trust among consumers and avoid regulatory penalties that can impact industry reputation and financial standing. The settlement also sets a precedent, encouraging other platforms within the IT/technology sector to audit their pricing policies."
-    },
-    {
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 19:33:54 +0000",
-      "description": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
-      "language": "en",
-      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers",
-      "points": [
-        "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Apr 2026 19:10:07 +0000",
-      "description": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
-      "language": "en",
-      "summary": "Meta AI has rapidly improved its ranking in Apple's App Store after the launch of Muse Spark with a powerful new artificial intelligence model.",
-      "points": [
-        "The app Meta AI was ranked No. 57 on the App Store before it launched Muse Spark but is now at rank No. 5, indicating significant growth and popularity since its release in December 2023."
-      ],
-      "insight": "This news suggests that advancements in artificial intelligence can have a substantial impact on an application's success within the app marketplace, highlighting the importance of innovative features to attract users. The successful ranking boost also implies potential competitiveness for similar AI-driven applications."
     }
   ]
 }
