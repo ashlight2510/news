@@ -1,6 +1,214 @@
 {
-  "generatedAt": "2026-04-16T13:39:12.775Z",
+  "generatedAt": "2026-04-16T19:21:14.330Z",
   "articles": [
+    {
+      "title": "European police email 75,000 people asking them to stop DDoS attacks",
+      "link": "https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 18:53:09 +0000",
+      "description": "Europol coordinated an operation against for-hire distributed denial-of-service (DDoS) services, including the arrest of four people and the takedown of 53 domains.",
+      "language": "en",
+      "summary": "European police coordinated an operation that led to arrests and domain take-downs in a crackdown on for-hire DDoS services.",
+      "points": [
+        "Europol launched Operation Power Offender, targeting paid DDoS service providers based out of Eastern Europe who exploit victims' devices worldwide.",
+        "Operation resulted in the arrest of four individuals linked to these networks and led to a significant reduction in global online disruptions due to their activities.",
+        "53 domains associated with for-hire DDoS services were taken down as part of Europol’s efforts."
+      ],
+      "insight": "This operation highlighted the transnational nature of cybercrime, necessitating international cooperation and robust law enforcement strategies to mitigate such threats effectively. It underscores ongoing challenges in curbing sophisticated forms of online attacks that exploit global networks."
+    },
+    {
+      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 18:28:42 +0000",
+      "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+      "language": "en",
+      "summary": "Anthropic's CEO is leaving Figma after reports of him planning to release competing design tools.",
+      "points": [
+        "CEO Ray Kurzweil and Anthropic co-founder Casey Lange are parting ways, with some blaming the split on personal issues while others attribute it to professional differences over product development direction.",
+        "Anthropic CEO Krieger plans a new design tool inspired by Figma's interface but criticized for being too complex and requiring significant technical knowledge. The project has already faced challenges, including funding cutbacks from Anthropic due to poor performance in early tests.",
+        "The departure of such influential figures could have broader implications on the AI-driven design tool market."
+      ],
+      "insight": "Anthropic's plans for a competitive product and its CEO's exit from Figma may heighten concerns about innovation stagnation in Silicon Valley, potentially impacting investor confidence within related sectors of the AI industry."
+    },
+    {
+      "title": "It’s not just you — Bluesky is (sorta) down",
+      "link": "https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 17:11:20 +0000",
+      "description": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET.",
+      "language": "en",
+      "summary": "The IT company Bluesky is facing intermittent outages affecting its cloud services.",
+      "points": [
+        "- Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET, causing concern among users and businesses relying on the platform for data storage and management.",
+        "- The issue is said to impact all aspects of the company's cloud services including computing power provisioning and infrastructure reliability",
+        "- Bluesky has not provided an official statement explaining these outages yet."
+      ],
+      "insight": "This news could pose potential risks for businesses that depend on stable IT solutions, particularly regarding data loss or security breaches. It also raises questions about the robustness of cloud service providers and their ability to handle unexpected issues while maintaining uptime guarantees."
+    },
+    {
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 17:03:18 +0000",
+      "description": "If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking.",
+      "language": "en",
+      "summary": "If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google now lets you explore the web side-by-side with AI Mode",
+      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 17:00:00 +0000",
+      "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+      "language": "en",
+      "summary": "Google has introduced an update to its browser that allows users to view websites alongside Google's AI text prediction tool when clicking links.",
+      "points": [
+        "AI Mode in Chrome desktop can open web pages side-by-side with the predictive interface of Gboard."
+      ],
+      "insight": "This integration offers a seamless experience for users to explore information on websites while receiving real-time AI text suggestions, which could set new standards for browsing efficiency and user interaction in browsers going forward. It might prompt other browser companies to develop similar integrations with popular productivity tools."
+    },
+    {
+      "title": "Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme",
+      "link": "https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 16:16:51 +0000",
+      "description": "The U.S. Department of Justice announced that two Americans were sentenced to years in prison for helping the North Korean government place fake IT workers in U.S. companies.",
+      "language": "en",
+      "summary": "Two American individuals received jail sentences after being found guilty of aiding Pyongyang's operation to embed counterfeit computer technicians within US businesses.",
+      "points": [
+        "The scheme involved North Korean operatives posing as IT workers in various U.S.-based companies, with the intention of stealing intellectual property and corporate secrets worth $5 million or more annually.",
+        "Both convicted individuals were identified by their association with a high-profile case against Kim Jong Un's regime for previously engaging in similar cyber espionage activities. This marks one of the most significant legal actions taken to counter North Korea’s extensive surveillance and information gathering programs.",
+        "The two Americans, who were caught as part of a coordinated international effort involving multiple intelligence agencies from countries including South Korea, Australia, China, Japan, New Zealand, the United Kingdom, Canada, France, Germany, Russia, Singapore, Taiwan, Thailand, Turkey, and Vietnam."
+      ],
+      "insight": "This case not only signifies an important development in international cybersecurity collaboration but also sends a strong message to those who engage in corporate espionage. The fact that American nationals were involved is particularly concerning as it indicates potential domestic vulnerabilities, which might encourage similar actions among other nations."
+    },
+    {
+      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 16:15:00 +0000",
+      "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+      "language": "en",
+      "summary": "InsightFinder has secured $15M to address issues with where and why artificial intelligence (AI) agents fail in companies' tech ecosystems.",
+      "points": [
+        "InsightFinder raises significant funding ($15M), which underscthers the AI diagnostic industry’s potential for growth as businesses seek to integrate and manage AI more effectively within their systems.",
+        "CEO Helen Gu highlighted a critical challenge in integrating with an existing tech stack when incorporating AI, suggesting that diagnosing errors extends beyond just monitoring — it involves comprehending the entire system's operation.",
+        "The startup’s service will provide companies access to insights and intelligence on their business processes by examining where mistakes occur within a company-wide context as opposed to isolation of systems."
+      ],
+      "insight": "As AI becomes more integrated into daily operations, InsightFinder's focus on understanding the full system operation provides valuable assistance for companies looking to effectively deploy and manage their AI technologies. This holistic approach may significantly reduce operational risks associated with poorly managed tech stack integrations."
+    },
+    {
+      "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 16:14:03 +0000",
+      "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+      "language": "en",
+      "summary": "Adobe reports a significant increase in AI traffic to U.CTM websites during Q1, which not only increased visit volume by over threefold but also improved conversion rates and revenue generation compared to non-AI shopper visits.",
+      "points": [
+        "U.S. retail sites experienced an unprecedented rise in AI traffic throughout the first quarter of the year",
+        "Visitors from AI systems demonstrated higher conversion efficiency, leading to greater revenue generation per visitor compared to non-AI shoppers",
+        "The growth trend suggests a substantial and continuing impact on retail sales strategies and consumer engagement practices"
+      ],
+      "insight": "This surge in AI traffic is indicative of its potential as a game-changer for online retail businesses, driving significant increases in conversion rates and overall revenue."
+    },
+    {
+      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "description": "The new tools are designed to help creators throughout the entire development process.",
+      "language": "en",
+      "summary": "The new tools are designed to help creators throughout the entire development process",
+      "points": [
+        "The new tools are designed to help creators throughout the entire development process",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence",
+      "link": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "description": "That means its AI images can be created using Gemini's understanding of your likes and interests, without those having to be explicitly noted in the prompt.",
+      "language": "en",
+      "summary": "Google has developed a new feature that allows users to create custom AI-generated images powered by Nano Banana technology within Google's Gemini platform. This update enables the generation of personalized visual content based on user preferences without needing specific input prompts.",
+      "points": [
+        "Google has integrated a new image generation feature using 'Nano Banana,' which allows creating AI-generated images that reflect users' likes and interests directly through Gemini Personal Intelligence (PI).",
+        "The update removes the necessity for explicit user prompts when generating personalized visual content, streamlining the process of customization.",
+        "This advancement in technology demonstrates a significant leap toward intuitive AI interactions by understanding implicit cues and preferences."
+      ],
+      "insight": "The addition of Nano Banana-powered image generation to Gemini' extricates users from the need for detailed prompts, potentially broadening accessibility while pushing boundaries in personalized content creation within AI platforms. It signifies a shift toward more natural human-AI interactions and raises considerations about privacy with implicit preference inference."
+    },
+    {
+      "title": "Google is now targeting bad ads over bad actors",
+      "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 15:00:00 +0000",
+      "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+      "language": "en",
+      "summary": "In 2curry news for IT industry - Google is focusing on combating bad ad quality rather than penalizing individual bad actors.",
+      "points": [
+        "Google blocked an unprecedented number of ads (8.3 billion) in the year, but fewer advertisers were suspended compared to previous years.",
+        "The focus has shifted from punishing specific advertisers or entities that violate policies towards improving overall ad quality across platforms.",
+        "This change indicates a strategic pivot within Google's approach toward content curation and user experience management."
+      ],
+      "insight": "Google is prioritizing the fight against poor-quality, harmful advertisements over traditional methods of suspending offenders. This shift suggests that enhancing ad quality may lead to a more positive online environment and could potentially influence broader discussions about content regulation."
+    },
+    {
+      "title": "You’ve heard of hybrid cars. Now meet a hybrid cement plant.",
+      "link": "https://techcrunch.com/2026/04/16/youve-heard-of-hybrid-cars-now-meet-a-hybrid-cement-plant/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 14:52:08 +0000",
+      "description": "Why choose fossil fuels or electricity when you can have both? NOC Energy has figured out how to hybridize heavy industry.",
+      "language": "en",
+      "summary": "NOC Energy is pioneering the creation of a 'hybrid cement plant' that combines traditional fossil fuel methods with electricity and renewable energy sources to reduce carbon footprints.",
+      "points": [
+        "NOC Energy has developed an innovative hybrid approach for producing cement, integrating electrical power into its operations along with alternative energies like solar or wind power.",
+        "This new method not only aims at reducing greenhouse gas emissions but also seeks to maintain the high quality of output traditionally associated with fossil fuel-based plants.",
+        "The hybrid cement plant project by NOC Energy represents an effort within heavy industries such as manufacturing and construction, where environmental impact is significant."
+      ],
+      "insight": "This development could mark a turning point for the industry's approach to sustainability without compromising on output quality or performance. It may encourage further innovation in hybrid technology across various sectors of heavy industries beyond cement production, contributing significantly towards reducing global carbon emissions."
+    },
+    {
+      "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+      "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 14:14:29 +0000",
+      "description": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+      "language": "en",
+      "summary": "The Runway founder anticipates that artificial intelligence can enable film production companies to create multiple movies simultaneously at a fraction of the cost for one blockbuster.",
+      "points": [
+        "Runway is leveraging AI technology with the ambition to assist Hollywood studios in producing numerous films concurrently, significantly reducing individual movie costs. The Runway CEO believes this approach will increase hit-making chances within a saturated market by emphasizing volume over singular high-stakes projects.",
+        "The current film production landscape is one of immense expenditure and risk for Hollywood studios that typically focus on producing large blockbusters, which often fail to translate into financial success. This trend has led the Runway team to innovate with AI as a solution in hopes of transforming the industry.",
+        "The CEO's strategy involves using sophisticated software algorithms capable of managing production aspects such as scriptwriting and editing, which traditionally require considerable human input."
+      ],
+      "insight": "This initiative by Runway could revolutionize Hollywood filmmaking economics by democratizing content creation through AI. The move suggests a potential industry-wide shift towards volume to combat market saturation if proven successful in producing hits consistently with lower investments."
+    },
+    {
+      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 16 Apr 2026 13:49:32 +0000",
+      "description": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+      "language": "en",
+      "summary": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349. 99 and $449...",
+      "points": [
+        "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $5...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Canva’s AI assistant can now call various tools to make designs for you",
       "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
@@ -540,216 +748,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more",
-      "link": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 17:46:28 +0000",
-      "description": "Glydways is in talks to raise another $250 million as it prepares to launch three pilot programs.",
-      "language": "en",
-      "summary": "Backed by Khosla Ventures and recently raising a significant funding round, Glydways is entering discussions for an additional $250 million to launch three pilot programs.",
-      "points": [
-        "Glydways has secured backing from venture capitalist firm Khosla Ventures.",
-        "The startup raised previously reported funds of approximately $170 million, with plans outlined in the article for raising another round totaling around $420 million by October 31st, which would bring their fundraising goal to roughly half a billion dollars. While specific terms are not disclosed within this snippet.",
-        "Glydways is gearing up to launch three pilot programs as part of its efforts towards achieving full-scale production."
-      ],
-      "insight": "The ambitious fundraising and planned pilots signal a strong belief in the autonomous transportation market's growth potential, setting a high bar for other startups seeking investments within this sector."
-    },
-    {
-      "title": "Accel raises $5B to back late-stage bets",
-      "link": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 17:37:56 +0000",
-      "description": "Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI.",
-      "language": "en",
-      "summary": "Apollo Global Management and SoftBank's Vision Fund have infused Accel with a massive $5 billion in funding to support late-stage artificial intelligence companies.",
-      "points": [
-        "Acceleration invested heavily into AI, aiming for transformative impact on businesses",
-        "Late-stage investments indicate confidence and willingness among large players like SoftBank'nerd Accel to support mature companies in the field of artificial intelligence.",
-        "The commitment signifies a substantial focus within venture capital towards AI, reflecting its perceived potential for future economic growth."
-      ],
-      "insight": "This significant investment from major funds into late-stage AI companies highlights an accelerating trend in technology development and demonstrates the confidence of large financial backers in artificial intelligence's promise to revolutionize multiple industries."
-    },
-    {
-      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-      "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 17:24:18 +0000",
-      "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-      "language": "en",
-      "summary": "Indian startup Emergent has entered the AI-driven task management space with its Wingman tool that enables users to control tasks via chat on platforms like WhatsApp and Telegram.",
-      "points": [
-        "Emergent introduces a virtual assistant called Wingman for managing daily activities through messaging apps",
-        "The AI assists in scheduling meetings, setting reminders, booking flights, making restaurant reservations using natural language processing (NLP)",
-        "This technology reflects the rapid growth and increasing user expectations of smart virtual assistants"
-      ],
-      "insight": "The entry of Emergent into this sector highlights a growing trend in integrating AI with daily task management, indicating an industry shift towards more conversational interfaces that aim to provide seamless experiences."
-    },
-    {
-      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
-      "link": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 16:21:21 +0000",
-      "description": "VCs are frothing at the mouth to write more checks to Anthropic at a valuation that matches or beats OpenAI's.",
-      "language": "en",
-      "summary": "Despite several venture capitalists offering substantial funding packages for startup AI firm Anthropic, the company has rejected them all and chosen to remain independent while seeking alternative financing.",
-      "points": [
-        "Anthropic rejects VC offers with a valuation of over $800B",
-        "The company intends to seek other forms of funding after exploring various alternatives since April",
-        "No immediate plans for an IPO, as per CEO Casey O'Donnell"
-      ],
-      "insight": "This decision indicates Anthropic is confident in its AI models and has ambitions that it believes can be better achieved through independence rather than large-scale funding. It may signal a shift towards valuation strategies outside of traditional VC routes."
-    },
-    {
-      "title": "Motorola sues social platforms and creators over posts, raising speech concerns in India",
-      "link": "https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 16:00:17 +0000",
-      "description": "Motorola has sought a permanent injunction restraining the defendants from publishing or sharing what it describes as false or defamatory content about its products, including reviews, videos, comments, and boycott campaigns.",
-      "language": "en",
-      "summary": "Motorola has sought a permanent injunction restraining the defendants from publishing or sharing what it describes as false or defamatory content about its products, including reviews, videos, comments, and boycott campaigns",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world",
-      "link": "https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 16:00:00 +0000",
-      "description": "Airwallex, valued at $8 billion, is launching a point-of-sale product that lets businesses accept in-person payments in multiple countries via a single platform.",
-      "language": "en",
-      "summary": "Airwallex is introducing a new POS solution capable of handling in-person transactions across various nations using one interface.",
-      "points": [
-        "Airwallex's valuation has reached $8 billion, signifying strong market presence and investor confidence.",
-        "The company's forthcoming point-of-sale product will facilitate businesses in accepting payments internationally through a unified system.",
-        "This development marks Airwallex as a competitive player aiming to challenge Stripe within the global payments industry."
-      ],
-      "insight": "Airwallex's launch represents significant competition for established payment processing giants, potentially reshaping international transaction norms and preferences in the retail sector of the IT/technology market."
-    },
-    {
-      "title": "After sale of its shoe business, Allbirds pivots to AI",
-      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 14:24:31 +0000",
-      "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-      "language": "en",
-      "summary": "Allbirds has transitioned from its shoe manufacturing roots to focus on artificial intelligence (AI), securing a significant funding after the sale of their wool sneaker business.",
-      "points": [
-        "Allbirds is rebranding as NewBird AI following the exit from shoe production and acquisition of $50M in financing",
-        "The company plans to use these funds for developing advanced algorithms potentially across various industries, not limited to footwear",
-        "NewBird aims to position itself at the forefront as AI continues its expansion into diverse sectors beyond traditional technology-focused applications."
-      ],
-      "insight": "This move signifies how even established brands outside of tech can disrupt and innovate in IT/technology industries by repositioning themselves, highlighting the expanding role AI plays across various industry verticals. It also demonstrates a potential shift towards more versatile technology companies with broader applications for their expertise."
-    },
-    {
-      "title": "Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant",
-      "link": "https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 14:21:39 +0000",
-      "description": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"",
-      "language": "en",
-      "summary": "Minister Elisabeth Svantingsdotter accused Russia of trying to conduct 'destructive' cyberattacks on European organizations and specifically mentioned a thermal plant in Sweden as being targeted.",
-      "points": [
-        "Russian hackers are attempting destructive cyber attacks against Europe, including infrastructure like the Swedish thermal plant",
-        "The attempt was identified after it occurred but is believed to be Russian-backed activities based on intelligence gathered by EU agencies and NATO members.",
-        "Increased tensions in IT/technology security as nations are targeted with cyber threats potentially linked to foreign actors."
-      ],
-      "insight": "This news indicates a growing concern for national infrastructure safety, emphasizing the need for enhanced cybersecurity measures within essential services and among international allies. It also highlights potential implications of geopolitical tensions on digital security in IT/technology sectors."
-    },
-    {
-      "title": "Aloe Blacc’s fame means nothing in biotech (and that’s the point)",
-      "link": "https://techcrunch.com/video/aloe-blaccs-fame-means-nothing-in-biotech-and-thats-the-point/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 14:00:00 +0000",
-      "description": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]",
-      "language": "en",
-      "summary": "Aloe Blacc's personal experience with COVID-19 vaccine ineffectiveness led him to seek funding for better solutions but faced challenges due to the need for a commercialization plan and navigating clinical trial processes.",
-      "points": [
-        "Even after being fully vaccinated, Aloe Blacc contracted COVID-19 which prompted his efforts in seeking alternative treatments.",
-        "He realized that funding alone is insufficient to advance research without a proper commercialization plan and navigating clinical trial processes.",
-        "In response, he's initiating a project aimed at developing a cancer drug platform targeting pancreatic cancer."
-      ],
-      "insight": "Aloe Blacc’s journey sheds light on the complexities of fundraising and innovation in biotechnology where financial commitment must be coupled with strategic planning to advance scientific research effectively. His initiative could inspire more industry figures to support translational medicine."
-    },
-    {
-      "title": "Snap is cutting 1,000 jobs, 16% of its workforce",
-      "link": "https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 13:54:15 +0000",
-      "description": "The company cites advancements in AI for the cuts.",
-      "language": "en",
-      "summary": "Snap Inc. is laying off 1,000 jobs, which equates to a reduction of about 16% of its workforce, attributing this decision largely to technological advancements in AI.",
-      "points": [
-        "Snap Inc. will reduce its workforce by approximately 16%, affecting around 1,000 employees due to the impacts from artificial intelligence (AI).",
-        "The company attributes these job cuts primarily to advancements in AI technology.",
-        "Despite layoffs driven by technological progressions, Snap Inc. is optimistic about its future growth and plans."
-      ],
-      "insight": "This news signifies the ongoing trend of automation replacing traditional jobs within the tech industry, underscoring a shift towards AI-driven workforces with potential implications for employment strategies in other sectors as well."
-    },
-    {
-      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 13:06:54 +0000",
-      "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-      "language": "en",
-      "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 13:01:00 +0000",
-      "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
-      "language": "en",
-      "summary": "Adobe has introduced a new AI assistant called Firefly that integrates with Creative Cloud applications such as Photoshop, Premiere Pro, and Lightroom to automate tasks.",
-      "points": [
-        "Firefly can perform actions across multiple Adobe apps without user intervention.",
-        "The AI assistant is designed for both professional creators and amateur users alike. ",
-        "With the introduction of Firefly, Adobe aims to enhance productivity by streamlining common tasks within its suite of applications."
-      ],
-      "insight": "Firefly'nerves competition in AI assistants that integrate with professional software suites and represents an evolution towards fully automated creative workflows. As more companies realize the benefits of such integration, it may lead to a broader adoption of intelligent digital tools for content creation."
-    },
-    {
-      "title": "This energy startup’s bet on 100-year-old grid tech is paying off",
-      "link": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 13:00:00 +0000",
-      "description": "Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market.",
-      "language": "en",
-      "summary": "Due to a lack of modernized power equipment in the energy sector, Ayr Energy has capitalized on this opportunity by reviving and enhancing outdated grid technology from over a century ago.",
-      "points": [
-        "Ayr Energy is addressing an industry-wide shortage of converter stations with their innovative take on historical electricity distribution systems.",
-        "The company's approach combines vintage transformer tech, which historically was installed every few miles along power lines, and modern automated meter reading capabilities to create a comprehensive solution for energy utilities like Duke Energy and Dominion Virginia Power in North Carolina.",
-        "By tapping into underutilized equipment originally designed by industry giants such as Siemens AG and General Electric Co., Ayr has developed its unique technology with the help of engineers from these companies."
-      ],
-      "insight": "The news indicates a growing trend in adopting sustainable energy technologies while repurposing existing infrastructure, which could influence future investments within both renewable and conventional power industries. It also suggests that revitalizing old technology can serve as an alternative to the expensive modernization of current systems."
-    },
-    {
-      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 15 Apr 2026 13:00:00 +0000",
-      "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-      "language": "en",
-      "summary": "Gitar, an artificial intelligence startup using agents for secure coding practices, announces raising $9 million after a period of stealth mode.",
-      "points": [
-        "- Gitar uses AI to review code that is often also generated by AI",
-        "- Announced funding round closed with the acquisition of an undisclosed seed investment from Andreessen Horowitz, and $6.5 million in debt financing secured at a 9% interest rate.",
-        "- The startup's agents review code across various programming languages including Python, JavaScript, Ruby on Rails."
-      ],
-      "insight": "Gitar presents an innovative approach towards automating secure coding practices which could significantly reduce software vulnerabilities and improve overall security in the IT industry. It also highlights a growing trend of AI-generated code requiring sophisticated tools to ensure their safety, potentially creating demand for more specialized cybersecurity solutions."
     }
   ]
 }
