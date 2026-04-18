@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-18T07:09:35.114Z",
+  "generatedAt": "2026-04-18T13:04:19.065Z",
   "articles": [
+    {
+      "title": "The App Store is booming again, and AI may be why",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "language": "en",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom",
+      "points": [
+        "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fue...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "[미토스 충격] 소송전 와중에... 앤트로픽 CEO, 백악관에서 정권 핵심 인사 면담",
+      "link": "http://www.boannews.com/media/view.asp?idx=143233&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 18 Apr 2026 16:55:00 +0900",
+      "description": "앤트로픽, “‘공격망 위협 기업’ 지정 취소하라” 정부 상대 소송사이버 공격 역량 강한 미토스 등장에 만남 이뤄져… AI 경쟁력 등 논의 [보안뉴스 한세희 기자] 인공지능(AI) 모델 공급 조건을 놓고 갈등을 겪고 있는 미국 백악관과 앤트로픽이 회동을 가졌다. 최근 사이버 보안 분야에서 인상적 성능을 보여준 앤트로픽의 새 AI 모델 ‘클로드 미토스’ 관련",
+      "language": "ko",
+      "summary": "앤트로픽, “‘공격망 위협 기업’ 지정 취소하라” 정부 상대 소송사이버 공격 역량 강한 미토스 등장에 만남 이뤄져… AI 경쟁력 등 논의 [보안뉴스 한세희 기자] 인공지능(AI) 모델 공급 조건을 놓고 갈등을 겪고 있는 미국 백악관과 앤트로픽이 회동을 가졌다. 최근 사이버 보안 분야에서 인상적 성능을 보여준 앤트로픽의 새 AI 모델 ‘클로드 미토스’ 관련",
+      "points": [
+        "앤트로픽, “‘공격망 위협 기업’ 지정 취소하라” 정부 상대 소송사이버 공격 역량 강한 미토스 등장에 만남 이뤄져… AI 경쟁력 등 논의 [보안뉴스 한세희 기자] 인공지능(AI) ...",
+        "최근 사이버 보안 분야에서 인상적 성능을 보여준 앤트로픽의 새 AI 모델 ‘클로드 미토스’ 관련",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
       "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
@@ -719,34 +749,6 @@
         "- Bluesky has not provided an official statement explaining these outages yet."
       ],
       "insight": "This news could pose potential risks for businesses that depend on stable IT solutions, particularly regarding data loss or security breaches. It also raises questions about the robustness of cloud service providers and their ability to handle unexpected issues while maintaining uptime guarantees."
-    },
-    {
-      "title": "Everything we like is a psyop",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 17:03:18 +0000",
-      "description": "If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking.",
-      "language": "en",
-      "summary": "If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google now lets you explore the web side-by-side with AI Mode",
-      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 17:00:00 +0000",
-      "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
-      "language": "en",
-      "summary": "Google has introduced an update to its browser that allows users to view websites alongside Google's AI text prediction tool when clicking links.",
-      "points": [
-        "AI Mode in Chrome desktop can open web pages side-by-side with the predictive interface of Gboard."
-      ],
-      "insight": "This integration offers a seamless experience for users to explore information on websites while receiving real-time AI text suggestions, which could set new standards for browsing efficiency and user interaction in browsers going forward. It might prompt other browser companies to develop similar integrations with popular productivity tools."
     }
   ]
 }
