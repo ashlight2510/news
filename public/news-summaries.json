@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-04-17T19:05:54.565Z",
+  "generatedAt": "2026-04-18T02:17:28.365Z",
   "articles": [
+    {
+      "title": "편리하게 일하려 자동화했더니... n8n 클라우드 기반 악성코드 공격 포착",
+      "link": "http://www.boannews.com/media/view.asp?idx=143228&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 18 Apr 2026 07:54:00 +0900",
+      "description": "n8n 신뢰성 악용해 침투, 시스템 장악편리한 업무 자동화 도구가 해커 자동 공격 수단으로... [보안뉴스 김형근 기자] 인기 AI 워크플로우 자동화 플랫폼 n8n의 웹후크(Webhook) 기능을 악용해 악성코드를 유포하는 피싱 캠페인이 작년 10월부터 지속돼 온 것으로 드러났다. 시스코 탈로스에 따르면, 공격자들은 n8n의 신뢰받는 클라우드 인프라 ‘a",
+      "language": "ko",
+      "summary": "n8n 기기가 유로코드 공격 수확 현황을 공개한 캠페인이 지속된다.",
+      "points": [
+        "n8n 작동 가능성에 대한 우려",
+        "시스템 장악과 일컷을 이용한 것으로 모니터링",
+        "계정 신뢰성과 안전도시"
+      ],
+      "insight": "n8n 기기가 IT 업무 자동화 도구로서의 유형으로, 공격자는 이를 이용해 공격 수행에 매우있어 시스템 안전성을 위한 모니터링 방식으로 제사한다."
+    },
+    {
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Apr 2026 22:34:02 +0000",
+      "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "language": "en",
+      "summary": "Online dating platform Tinder has partnered with World, an Orb-centered anonymous verification project led by Sam Altman that is now looking to scale its operations.",
+      "points": [
+        "World's founder Sam Altman leads a startup founded at the age of 19. His latest company uses AI and human reviewers with access to users’ photos, bios, social media profiles or other public information sources",
+        "The project has raised $24 million in venture funding since its first round last year.",
+        "World is partnering with Tinder as well as several companies including Airbnb and Match Group."
+      ],
+      "insight": "This partnership could potentially revolutionize the online dating industry by adding an anonymous verification layer to protect users, while simultaneously addressing concerns about fake profiles. The involvement of multiple high-profile tech giants may indicate growing interest in enhancing trust and security within social platforms."
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000",
+      "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "language": "en",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Apr 2026 20:16:13 +0000",
+      "description": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+      "language": "en",
+      "summary": "Nicholas Moore hacked into three U.CT government networks with stolen credentials and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+      "points": [
+        "The individual exploited weak cybersecurity measures to access sensitive information within US federal agencies, demonstrating a high level of technical skill in bypassing security protocols.",
+        "Posting personal data on social media under the guise of sharing his 'hack' reveals both disregard for privacy and an intent to flaunt illicit activities online.",
+        "The hack exposed vulnerabilities within U.S. government IT infrastructure, highlighting a pressing need for robust cybersecurity measures across federal networks."
+      ],
+      "insight": "This incident underscores the growing threat of individual actors exploiting weaknesses in national security systems and serves as a wake-up call for governments to prioritize advanced IT defense strategies."
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Apr 2026 19:17:26 +0000",
+      "description": "Returning backers a16z and Thrive are expected to lead the round.",
+      "language": "en",
+      "summary": "Cursor is in discussions for raising over $2 billion at a valuation of more than $50 billion as part of its enterprise growth strategy.",
+      "points": [
+        "Enterprise software firm Cursor seeking significant funding round",
+        "Expected leadership from returning backers Accel, Kleiner Perkins and others",
+        "Cursor's valuation indicating strong market traction"
+      ],
+      "insight": "This news demonstrates the substantial growth of enterprise tech firms amidst increased demand for digital transformation."
+    },
     {
       "title": "“Tokenmaxxing” is making developers less productive than they think",
       "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
@@ -672,81 +747,6 @@
         "The two Americans, who were caught as part of a coordinated international effort involving multiple intelligence agencies from countries including South Korea, Australia, China, Japan, New Zealand, the United Kingdom, Canada, France, Germany, Russia, Singapore, Taiwan, Thailand, Turkey, and Vietnam."
       ],
       "insight": "This case not only signifies an important development in international cybersecurity collaboration but also sends a strong message to those who engage in corporate espionage. The fact that American nationals were involved is particularly concerning as it indicates potential domestic vulnerabilities, which might encourage similar actions among other nations."
-    },
-    {
-      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 16:15:00 +0000",
-      "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
-      "language": "en",
-      "summary": "InsightFinder has secured $15M to address issues with where and why artificial intelligence (AI) agents fail in companies' tech ecosystems.",
-      "points": [
-        "InsightFinder raises significant funding ($15M), which underscthers the AI diagnostic industry’s potential for growth as businesses seek to integrate and manage AI more effectively within their systems.",
-        "CEO Helen Gu highlighted a critical challenge in integrating with an existing tech stack when incorporating AI, suggesting that diagnosing errors extends beyond just monitoring — it involves comprehending the entire system's operation.",
-        "The startup’s service will provide companies access to insights and intelligence on their business processes by examining where mistakes occur within a company-wide context as opposed to isolation of systems."
-      ],
-      "insight": "As AI becomes more integrated into daily operations, InsightFinder's focus on understanding the full system operation provides valuable assistance for companies looking to effectively deploy and manage their AI technologies. This holistic approach may significantly reduce operational risks associated with poorly managed tech stack integrations."
-    },
-    {
-      "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
-      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 16:14:03 +0000",
-      "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
-      "language": "en",
-      "summary": "Adobe reports a significant increase in AI traffic to U.CTM websites during Q1, which not only increased visit volume by over threefold but also improved conversion rates and revenue generation compared to non-AI shopper visits.",
-      "points": [
-        "U.S. retail sites experienced an unprecedented rise in AI traffic throughout the first quarter of the year",
-        "Visitors from AI systems demonstrated higher conversion efficiency, leading to greater revenue generation per visitor compared to non-AI shoppers",
-        "The growth trend suggests a substantial and continuing impact on retail sales strategies and consumer engagement practices"
-      ],
-      "insight": "This surge in AI traffic is indicative of its potential as a game-changer for online retail businesses, driving significant increases in conversion rates and overall revenue."
-    },
-    {
-      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 16:00:00 +0000",
-      "description": "The new tools are designed to help creators throughout the entire development process.",
-      "language": "en",
-      "summary": "The new tools are designed to help creators throughout the entire development process",
-      "points": [
-        "The new tools are designed to help creators throughout the entire development process",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence",
-      "link": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 16:00:00 +0000",
-      "description": "That means its AI images can be created using Gemini's understanding of your likes and interests, without those having to be explicitly noted in the prompt.",
-      "language": "en",
-      "summary": "Google has developed a new feature that allows users to create custom AI-generated images powered by Nano Banana technology within Google's Gemini platform. This update enables the generation of personalized visual content based on user preferences without needing specific input prompts.",
-      "points": [
-        "Google has integrated a new image generation feature using 'Nano Banana,' which allows creating AI-generated images that reflect users' likes and interests directly through Gemini Personal Intelligence (PI).",
-        "The update removes the necessity for explicit user prompts when generating personalized visual content, streamlining the process of customization.",
-        "This advancement in technology demonstrates a significant leap toward intuitive AI interactions by understanding implicit cues and preferences."
-      ],
-      "insight": "The addition of Nano Banana-powered image generation to Gemini' extricates users from the need for detailed prompts, potentially broadening accessibility while pushing boundaries in personalized content creation within AI platforms. It signifies a shift toward more natural human-AI interactions and raises considerations about privacy with implicit preference inference."
-    },
-    {
-      "title": "Google is now targeting bad ads over bad actors",
-      "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 15:00:00 +0000",
-      "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
-      "language": "en",
-      "summary": "In 2curry news for IT industry - Google is focusing on combating bad ad quality rather than penalizing individual bad actors.",
-      "points": [
-        "Google blocked an unprecedented number of ads (8.3 billion) in the year, but fewer advertisers were suspended compared to previous years.",
-        "The focus has shifted from punishing specific advertisers or entities that violate policies towards improving overall ad quality across platforms.",
-        "This change indicates a strategic pivot within Google's approach toward content curation and user experience management."
-      ],
-      "insight": "Google is prioritizing the fight against poor-quality, harmful advertisements over traditional methods of suspending offenders. This shift suggests that enhancing ad quality may lead to a more positive online environment and could potentially influence broader discussions about content regulation."
     }
   ]
 }
