@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T02:17:28.365Z",
+  "generatedAt": "2026-04-18T07:09:35.114Z",
   "articles": [
+    {
+      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
+      "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Apr 2026 05:20:11 +0000",
+      "description": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
+      "language": "en",
+      "summary": "Airwallett Inc., a rival payments company initially operating primarily outside the U.ban market and serving clients in Latin America has started considering acquisitions following Stripe's recent move into those markets.",
+      "points": [
+        "Stripe acquires multiple startups including payment processing firm Airwallett Inc., expanding its global footprint beyond North American buyers",
+        "Airwallett may now consider being acquired by a more established entity like Stripe due to the latter's recent acquisitions and expansion strategy.",
+        "The trend of larger tech companies acquiring emerging competitors is gaining momentum in payment processing industry."
+      ],
+      "insight": "This development indicates that there might be an increasing consolidation within the payments technology sector as major players expand their global presence and acquire potential threats or competition. As such, startups with unique value propositions may find themselves becoming targets for larger entities looking to enhance market share."
+    },
     {
       "title": "편리하게 일하려 자동화했더니... n8n 클라우드 기반 악성코드 공격 포착",
       "link": "http://www.boannews.com/media/view.asp?idx=143228&kind=&sub_kind=",
@@ -732,21 +747,6 @@
         "AI Mode in Chrome desktop can open web pages side-by-side with the predictive interface of Gboard."
       ],
       "insight": "This integration offers a seamless experience for users to explore information on websites while receiving real-time AI text suggestions, which could set new standards for browsing efficiency and user interaction in browsers going forward. It might prompt other browser companies to develop similar integrations with popular productivity tools."
-    },
-    {
-      "title": "Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme",
-      "link": "https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 16:16:51 +0000",
-      "description": "The U.S. Department of Justice announced that two Americans were sentenced to years in prison for helping the North Korean government place fake IT workers in U.S. companies.",
-      "language": "en",
-      "summary": "Two American individuals received jail sentences after being found guilty of aiding Pyongyang's operation to embed counterfeit computer technicians within US businesses.",
-      "points": [
-        "The scheme involved North Korean operatives posing as IT workers in various U.S.-based companies, with the intention of stealing intellectual property and corporate secrets worth $5 million or more annually.",
-        "Both convicted individuals were identified by their association with a high-profile case against Kim Jong Un's regime for previously engaging in similar cyber espionage activities. This marks one of the most significant legal actions taken to counter North Korea’s extensive surveillance and information gathering programs.",
-        "The two Americans, who were caught as part of a coordinated international effort involving multiple intelligence agencies from countries including South Korea, Australia, China, Japan, New Zealand, the United Kingdom, Canada, France, Germany, Russia, Singapore, Taiwan, Thailand, Turkey, and Vietnam."
-      ],
-      "insight": "This case not only signifies an important development in international cybersecurity collaboration but also sends a strong message to those who engage in corporate espionage. The fact that American nationals were involved is particularly concerning as it indicates potential domestic vulnerabilities, which might encourage similar actions among other nations."
     }
   ]
 }
