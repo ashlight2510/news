@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T13:04:19.065Z",
+  "generatedAt": "2026-04-18T18:51:40.428Z",
   "articles": [
+    {
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000",
+      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "language": "en",
+      "summary": "Anthropic maintains communication with key figures in the former Trump administration despite being labeled a supply chain risk by Pentagon.",
+      "points": [
+        "Designation as 'a potential threat to national security'",
+        "Ongoing discussions with high-level members of previous US government",
+        "Concerns about Anthropic' extraterrestrial AI technology impact on national security"
+      ],
+      "insight": "The continued dialogue between Anthropic and the Trump administration, despite potential risks mentioned by Pentagon, indicates that political affiliations might still have an influence in certain tech sector dealings."
+    },
     {
       "title": "The App Store is booming again, and AI may be why",
       "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
@@ -734,21 +749,6 @@
         "The departure of such influential figures could have broader implications on the AI-driven design tool market."
       ],
       "insight": "Anthropic's plans for a competitive product and its CEO's exit from Figma may heighten concerns about innovation stagnation in Silicon Valley, potentially impacting investor confidence within related sectors of the AI industry."
-    },
-    {
-      "title": "It’s not just you — Bluesky is (sorta) down",
-      "link": "https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 17:11:20 +0000",
-      "description": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET.",
-      "language": "en",
-      "summary": "The IT company Bluesky is facing intermittent outages affecting its cloud services.",
-      "points": [
-        "- Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET, causing concern among users and businesses relying on the platform for data storage and management.",
-        "- The issue is said to impact all aspects of the company's cloud services including computing power provisioning and infrastructure reliability",
-        "- Bluesky has not provided an official statement explaining these outages yet."
-      ],
-      "insight": "This news could pose potential risks for businesses that depend on stable IT solutions, particularly regarding data loss or security breaches. It also raises questions about the robustness of cloud service providers and their ability to handle unexpected issues while maintaining uptime guarantees."
     }
   ]
 }
