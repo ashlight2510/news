@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T02:39:48.238Z",
+  "generatedAt": "2026-04-19T07:20:17.769Z",
   "articles": [
+    {
+      "title": "네이버, “카페에서 위치 추적 상품 거래 못한다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143235&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 19 Apr 2026 15:59:00 +0900",
+      "description": "스토킹, 불륜 등 사생활 감시 용도 위치 추적 상품 거래 모니터링동의 없는 위치 추적 방조하는 게시물 단속 [보안뉴스 한세희 기자] 네이버 카페에서 위치 추적과 관련된 상품 거래를 하지 못하게 된다. 스토킹 등 범죄 악용 가능성을 차단하기 위해서다. 네이버는 17일 카페 서비스 공지사항에서 “최근 위치추적기가 스토킹 등 강력 범죄에 악용되는 사례가 증가함에",
+      "language": "ko",
+      "summary": "스토킹, 불륜 등 사생활 감시 용도 위치 추적 상품 거래 모니터링동의 없는 위치 추적 방조하는 게시물 단속 [보안뉴스 한세희 기자] 네이버 카페에서 위치 추적과 관련된 상품 거래를 하지 못하게 된다. 스토킹 등 범죄 악용 가능성을 차단하기 위해서다...",
+      "points": [
+        "스토킹, 불륜 등 사생활 감시 용도 위치 추적 상품 거래 모니터링동의 없는 위치 추적 방조하는 게시물 단속 [보안뉴스 한세희 기자] 네이버 카페에서 위치 추적과 관련된 상품 거래를...",
+        "스토킹 등 범죄 악용 가능성을 차단하기 위해서다",
+        "네이버는 17일 카페 서비스 공지사항에서 “최근 위치추적기가 스토킹 등 강력 범죄에 악용되는 사례가 증가함에"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "국가 연구과제 관리 시스템 IRIS 먹통... 지원금 신청하던 대학원생 분통",
       "link": "http://www.boannews.com/media/view.asp?idx=143234&kind=&sub_kind=",
@@ -733,21 +748,6 @@
         "The company is building an 'AI operating system' that enables businesses to easily integrate AI across all aspects of their operations"
       ],
       "insight": "Upscale AI’nergy represents a new paradigm in the IT/technology industry by democratizing access to artificial intelligence through its own infrastructure and services, potentially leading to widespread adoption."
-    },
-    {
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 20:26:44 +0000",
-      "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-      "language": "en",
-      "summary": "Physical Intelligence'in new AI model 'π0.7', claims to be able to figure out tasks independently without being explicitly taught them.",
-      "points": [
-        "The startup Physical Intelligence has developed a robot brain named 'π0.7'.",
-        "'π0.7' can determine how to perform new tasks on its own, representing an early step towards general-purpose robots with AI capabilities similar to humans.",
-        "Physical Intelligence believes that this self-determining ability in their robot brain is crucial for the future of automation."
-      ],
-      "insight": "This development could significantly reduce reliance on human training and intervention, bringing us closer to autonomous robots capable of complex problem solving. It also emphasizes a new direction where machines learn tasks independently through exposure rather than programming alone, which might revolutionize the IT/technology industry."
     }
   ]
 }
