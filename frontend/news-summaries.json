@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-19T07:20:17.769Z",
+  "generatedAt": "2026-04-19T13:01:58.228Z",
   "articles": [
+    {
+      "title": "Cracks are starting to form on fusion energy’s funding boom",
+      "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 19 Apr 2026 12:51:10 +0000",
+      "description": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+      "language": "en",
+      "summary": "The article discusses the potential risks for fusion energy startups and investors due to ongoing disputes that could impact funding.",
+      "points": [
+        "Fusion startup founders are at risk of being shut out from new projects without resolving key disagreements amicably",
+        "Investor-startup conflict has resulted in startups like Tri Alpha and Tokamak Energy failing to secure funding for their fusion energy R&D programmes despite strong interest in the industry.",
+        "The article suggests that a lack of resolution could significantly impact investment flow into new ventures within the nuclear power generation sector"
+      ],
+      "insight": "For long-term growth and stability, it is crucial for key players in fusion energy to resolve disputes amicably. Failure to do so risks exacerbating funding difficulties that could impede progress towards commercializing clean energy."
+    },
+    {
+      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+      "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 19 Apr 2026 11:45:38 +0000",
+      "description": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+      "language": "en",
+      "summary": "Blue Origin has successfully achieved a first: reusing New Glenn rockets for space missions as part of their new mega-rocket system.",
+      "points": [
+        "The successful reuse marks a significant technological advancement in rocketry, particularly with Blue Origin's New Glenn mega-rocket system.",
+        "This achievement puts Elon Musk's SpaceX to the test as both companies vie for supremacy in reusable launch systems and could potentially reduce space travel costs significantly.",
+        "The ability of rockets like New Glenn, which is designed with sturdy landing legs that allow it to return vertically back through Earth’s atmosphere, signifies a promising future for commercializing access to outer space."
+      ],
+      "insight": "Blue Origin's successful re-use of their rocket challenges SpaceX in the race towards cost-effective and sustainable launch systems. This development has significant implications for both industries as they continue aiming to make more reliable, recyclable rockets a reality."
+    },
     {
       "title": "네이버, “카페에서 위치 추적 상품 거래 못한다”",
       "link": "http://www.boannews.com/media/view.asp?idx=143235&kind=&sub_kind=",
@@ -718,36 +748,6 @@
         "With premier streaming services like Prime Video committing to diverse content, Luma'semission indicates an expanding market for AI technology within the entertainment industry."
       ],
       "insight": "This development represents a significant shift towards integrating advanced technologies with creative processes in filmmaking. As media companies recognize more value and demand from cutting-edge productions, it suggests that this intersection of tech and faith narratives could become increasingly popular and well-funded."
-    },
-    {
-      "title": "Netflix co-founder and chair Reed Hastings to leave board",
-      "link": "https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 21:22:14 +0000",
-      "description": "Hastings helped to transform the video rental industry — first with physical, then digital, delivery.",
-      "language": "en",
-      "summary": "Netflix co-founder and chair Reed Hastings announced he would step down from Netflix' endangered board after nearly two decades at the company.",
-      "points": [
-        "Reed Hastings, a key figure in transforming both physical and digital video delivery industries through his leadership roles with Blockbuster and then Netflix.",
-        "His departure follows an internal investigation into sexual misconduct allegations against him; this comes after he resigned from the board amid controversy but later returned to lead it again during a pivotal time for the company, including its initial public offering (IPO) in 2018.",
-        "Hastings' departure is notable due to his significant contributions and influence within Netflix; however, his return raises concerns about leadership transparency amid these allegations."
-      ],
-      "insight": "Reed Hastings leaving the board of one of Silicon Valley’s most prominent tech companies could raise questions regarding corporate governance in cases involving misconduct. It also underscores the importance of transparent, ethical leadership within technology firms navigating rapid growth and market changes."
-    },
-    {
-      "title": "Upscale AI in talks to raise at $2B valuation, says report",
-      "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 20:41:13 +0000",
-      "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-      "language": "en",
-      "summary": "Upscale AI plans a significant $2B Series C fundraising effort after rapidly growing as an infrastructure company for artificial intelligence.",
-      "points": [
-        "Raising up to $2 billion in its third round of financing since Upscale AI's launch seven months prior",
-        "Accelerated growth with a reported increase from nearly zero customers before the pandemic, and now having hundreds at various tiers for enterprise clients like Microsoft Azure.",
-        "The company is building an 'AI operating system' that enables businesses to easily integrate AI across all aspects of their operations"
-      ],
-      "insight": "Upscale AI’nergy represents a new paradigm in the IT/technology industry by democratizing access to artificial intelligence through its own infrastructure and services, potentially leading to widespread adoption."
     }
   ]
 }
