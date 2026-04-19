@@ -1,6 +1,80 @@
 {
-  "generatedAt": "2026-04-18T18:51:40.428Z",
+  "generatedAt": "2026-04-19T02:39:48.238Z",
   "articles": [
+    {
+      "title": "국가 연구과제 관리 시스템 IRIS 먹통... 지원금 신청하던 대학원생 분통",
+      "link": "http://www.boannews.com/media/view.asp?idx=143234&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 19 Apr 2026 08:30:00 +0900",
+      "description": "”접속자 몰려 시스템 장애” [보안뉴스 한세희 기자] 국가 연구과제 신청과 관리 등에 쓰이는 범부처통합연구관리지원시스템(IRIS)이 접속 장애를 일으켜 지원금을 신청하려는 대학원생들이 발을 동동 굴렀다. 석박사 연구장려금 신청 마감일인 13일 오전 11시부터 오후 5시 50분까지 IRIS 시스템 장애로 접속이 제대로 이뤄지지 않았다고 연합뉴스가 19일 보도",
+      "language": "ko",
+      "summary": "”접속자 몰려 시스템 장애” [보안뉴스 한세희 기자] 국가 연구과제 신청과 관리 등에 쓰이는 범부처통합연구관리지원시스템(IRIS)이 접속 장애를 일으켜 지원금을 신청하려는 대학원생들이 발을 동동 굴렀다. 석박사 연구장려금 신청 마감일인 13일 오전 11시부터 오후 5시 50분까지 IRIS 시스템 장애로 접속이 제대로 이뤄지지 않았다고 연합뉴스가 19일 보도",
+      "points": [
+        "”접속자 몰려 시스템 장애” [보안뉴스 한세희 기자] 국가 연구과제 신청과 관리 등에 쓰이는 범부처통합연구관리지원시스템(IRIS)이 접속 장애를 일으켜 지원금을 신청하려는 대학원생...",
+        "석박사 연구장려금 신청 마감일인 13일 오전 11시부터 오후 5시 50분까지 IRIS 시스템 장애로 접속이 제대로 이뤄지지 않았다고 연합뉴스가 19일 보도",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "검색 수익화 솔루션 가장... 백신 제거해 2만5000개 시스템 위협 노출",
+      "link": "http://www.boannews.com/media/view.asp?idx=143232&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 19 Apr 2026 07:30:00 +0900",
+      "description": "드래곤보스솔루션 기업 이름 내걸고 활동... 최상위 권한 장악해 백신 무력화보안 기업 헌트리스 싱크홀 역공으로 피해 확산 방지 [보안뉴스 김형근 기자] ‘검색 수익화 기업’을 표방하는 드래곤보스솔루션(Dragon Boss Solutions LLC)이란 회사 소프트웨어가 정상적 업데이트 경로를 악용해 운영체제 최상위 권한(SYSTEM)을 장악뒤, 백신 제거",
+      "language": "ko",
+      "summary": "드래곤보스솔루션이 기업에서 핵심으로 시스템 위협을 방지하며 백신 제거를 수행한다.",
+      "points": [
+        "- 드래곤보스솔루션이 기업의 인터넷 애플리케이얼 시스템에서 최상위 권한(SYSTEM)를 장악해 보호하고, 백신 제거를 수행",
+        "- 기업은 이러한 내부 위협을 방어할 수 있는 일버릴한 시스템에 대한 의사소연을 강조하고 정리",
+        "- 확산 방지와 백신 제거를 위해서, 기업은 개인화된 솔루션 출시를 강조한다."
+      ],
+      "insight": "이러한 스트레팅을 우회하면 기업은 사용자의 안전과 보호에 관여해 있어야만 한다."
+    },
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Apr 2026 21:37:15 +0000",
+      "description": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now […]",
+      "language": "en",
+      "summary": "Tesla has rolled out its robotaxi service to Dallas and Houston areas, showcasing a fully autonomous vehicle operation without human monitors or drivers.",
+      "points": [
+        "Expanding Tesla'ty Robotaxi Service",
+        "No Human Monitors/Drivers in Front Seat",
+        "14-Second Video Demonstration"
+      ],
+      "insight": "The expansion of autonomous taxi services like Tesla could disrupt the traditional transport industry and lead to a reimagining of urban mobility infrastructure."
+    },
+    {
+      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Apr 2026 20:00:00 +0000",
+      "description": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
+      "language": "en",
+      "summary": "Ron Conway revealed in an article that he has a rare form of cancer and plans to step back from some activities but will continue supporting the founders under his management.",
+      "points": [
+        "Ron Conway, known for backing successful startups like YouTube, is stepping away due to health issues",
+        "Conway's firm SV Angel has been managing a number of tech companies"
+      ],
+      "insight": "The news about Ron Conway may bring attention and support towards the founders backed by his firm as they face an uncertain future without their mentor. It could also potentially create shifts in investment strategies within VC firms, reaffirming the need for contingency plans when leading venture capitalists are unable to fulfill their roles due to health concerns."
+    },
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000",
+      "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "language": "en",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
       "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
@@ -674,81 +748,6 @@
         "Physical Intelligence believes that this self-determining ability in their robot brain is crucial for the future of automation."
       ],
       "insight": "This development could significantly reduce reliance on human training and intervention, bringing us closer to autonomous robots capable of complex problem solving. It also emphasizes a new direction where machines learn tasks independently through exposure rather than programming alone, which might revolutionize the IT/technology industry."
-    },
-    {
-      "title": "From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product",
-      "link": "https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 19:50:10 +0000",
-      "description": "This week on Build Mode, Isabelle Johannessen speaks with Capella Kerst, founder and CEO of geCKo Materials.",
-      "language": "en",
-      "summary": "Capella Kerst discusses the journey from developing a material on Startup Battlefield stage to its application in space with Capella Kerst.",
-      "points": [
-        "geCKo Materials developed an adhesive compound that can bond objects together without additional hardware or glue layers.",
-        "The startup grew out of the University of Sydney'suvpCampus initiative, which supports innovation through a networked community and physical space for creators to build projects.",
-        "After winning Startup Battlefield at CSU Campus in 2018 with their prototype geCKO adhesive compound called 'Anaconda', the company successfully tested its product aboard SpaceX’s Dragon capsule on a cargo resupply mission for NASA."
-      ],
-      "insight": "The successful integration of geCKo's material into space missions could revolutionize satellite and tool assembly, reducing costs and complexity in building structures beyond Earth. The achievement also underscores the potential impact that university-backed innovation hubs can have on global industries."
-    },
-    {
-      "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation",
-      "link": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 19:20:46 +0000",
-      "description": "Five years later the founders, now 24 years old, say their startup has achieved $300 million in annualized revenue.",
-      "language": "en",
-      "summary": "Slash, a competitor to Ramp founded by teenagers, announced raising $100M at a valuation of over $1 billion and has since reported more than $300 million in annualized revenue.",
-      "points": [
-        "Five years after founding Slash",
-        "Raised $100M with an enterprise value topping $1.4B by investors, led mostly by fellow tech-focused firms and seasoned VCs like Andreessen Horowitz (a5) and Founders Coop.",
-        "Reached over 38K users who earn more than $270M annually"
-      ],
-      "insight": "The rapid growth of Slash shows that young entrepreneurs, backed by the right investors in Silicon Valley, can quickly scale their startups and challenge established players like Ramp."
-    },
-    {
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 19:18:41 +0000",
-      "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-      "language": "en",
-      "summary": "Anthropic faces competition as OpenAI enhances its Codex AI to extend desktop capabilities.",
-      "points": [
-        "OpenAI has significantly upgraded the abilities of their coding tool called 'Codex', giving it new powers and features.",
-        "'Codex' can now better interact with users, understand complex code structures, generate detailed documentation automatically, and improve its natural language processing capabilities to interpret user commands more effectively.",
-        "The enhancthment is expected to challenge Anthropic in the AI-powered coding sector."
-      ],
-      "insight": "OpenAI's enhanced Codex may reshape competition within the IT/technology industry, potentially challenging existing players and setting new standards for natural language understanding and code generation tools. This could accelerate advancements in human-computer collaborative coding practices."
-    },
-    {
-      "title": "European police email 75,000 people asking them to stop DDoS attacks",
-      "link": "https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 18:53:09 +0000",
-      "description": "Europol coordinated an operation against for-hire distributed denial-of-service (DDoS) services, including the arrest of four people and the takedown of 53 domains.",
-      "language": "en",
-      "summary": "European police coordinated an operation that led to arrests and domain take-downs in a crackdown on for-hire DDoS services.",
-      "points": [
-        "Europol launched Operation Power Offender, targeting paid DDoS service providers based out of Eastern Europe who exploit victims' devices worldwide.",
-        "Operation resulted in the arrest of four individuals linked to these networks and led to a significant reduction in global online disruptions due to their activities.",
-        "53 domains associated with for-hire DDoS services were taken down as part of Europol’s efforts."
-      ],
-      "insight": "This operation highlighted the transnational nature of cybercrime, necessitating international cooperation and robust law enforcement strategies to mitigate such threats effectively. It underscores ongoing challenges in curbing sophisticated forms of online attacks that exploit global networks."
-    },
-    {
-      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
-      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Apr 2026 18:28:42 +0000",
-      "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
-      "language": "en",
-      "summary": "Anthropic's CEO is leaving Figma after reports of him planning to release competing design tools.",
-      "points": [
-        "CEO Ray Kurzweil and Anthropic co-founder Casey Lange are parting ways, with some blaming the split on personal issues while others attribute it to professional differences over product development direction.",
-        "Anthropic CEO Krieger plans a new design tool inspired by Figma's interface but criticized for being too complex and requiring significant technical knowledge. The project has already faced challenges, including funding cutbacks from Anthropic due to poor performance in early tests.",
-        "The departure of such influential figures could have broader implications on the AI-driven design tool market."
-      ],
-      "insight": "Anthropic's plans for a competitive product and its CEO's exit from Figma may heighten concerns about innovation stagnation in Silicon Valley, potentially impacting investor confidence within related sectors of the AI industry."
     }
   ]
 }
