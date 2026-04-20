@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-04-20T13:32:14.992Z",
+  "generatedAt": "2026-04-20T19:10:36.981Z",
   "articles": [
+    {
+      "title": "North Korea hackers blamed for $290M crypto theft",
+      "link": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 17:04:05 +0000",
+      "description": "The hack against Kelp DAO is the largest crypto heist of the year so far.",
+      "language": "en",
+      "summary": "North Korean state-sponsored actors are implicated in a $290 million cryptocurrency heist targeting Kelp DAO.",
+      "points": [
+        "The hack against the crypto organization, Kelp DAO resulted in an unprecedented loss of $290 million worth of digital currency; North Korean state-sponsored actors are implicated. The attackers exploited a loophole to access and transfer assets from multiple accounts.",
+        "This heist is considered the largest crypto theft of this year, indicating increasing sophistication in hacking techniques specifically targeted at cryptocurrency organizations; state-sponsored hacks are becoming more commonplace. Increased surveillance and security measures within these entities need to be implemented.",
+        "The heist emphasizes vulnerabilities present even among well-established blockchain networks, suggesting a potential lack of due diligence in terms of network integrity and asset management; organizations must reassess their security protocols."
+      ],
+      "insight": "This significant crypto theft underscores that state actors pose an evolving threat to the industry. It highlights not only issues surrounding cryptocurrency's vulnerability but also points towards a trend of increasingly sophisticated hacks, necessitating advancements in cybersecurity measures and regulatory oversight within this sector."
+    },
+    {
+      "title": "Mastodon says its flagship server was hit by a DDoS attack",
+      "link": "https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 16:58:33 +0000",
+      "description": "The DDoS attack against Mastodon's flagship server comes less than a week after Bluesky was targeted with junk web traffic.",
+      "language": "en",
+      "summary": "Mastodon experienced a major Distributed Denial of Service (DDoS) attack against its flagship server shortly after the platform faced similar issues previously.",
+      "points": [
+        "The DDoS attack on Mastodon'ries servers targeted their main hub, potentially disrupting access for users and highlights vulnerabilities in decentralized social media platforms. The incident occurred less than a week following another major junk traffic event affecting Bluesky.",
+        "Members of the community have reported difficulties accessing various features on Mastodon during the attack.",
+        "The nature of DDoS attacks is to overwhelm systems with fake requests, causing legitimate users' access attempts to be blocked."
+      ],
+      "insight": "This incident underscores potential security challenges and scalability concerns for decentralized social media platforms like Mastodon. It highlights the need for effective DDoS mitigation strategies in order to ensure consistent user experience, as a significant attack can disrupt accessibility."
+    },
+    {
+      "title": "FAA orders investigation into Blue Origin’s New Glenn mishap",
+      "link": "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 16:11:41 +0000",
+      "description": "The New Glenn rocket will have to stay grounded while the company investigates what caused the apparent failure of its upper stage.",
+      "language": "en",
+      "summary": "FAA has ordered an investigation into Blue Origin's Launch Complex in Florida after a suspected mishap with their New Glenn rocket.",
+      "points": [
+        "The FAA mandates the investigation amid concerns over safety protocol adherence and technical malfunctions, which have led to speculations of potential failures at various stages including fueling systems (hot fire tests) or during engine shutdowns/restarts prior to liftoff.",
+        "Blue Origin will also look into any possible issues with the rocket's avionics system that could lead to misjudgment by flight computers, and if human error played a role in this incident.",
+        "A detailed examination of these aspects is essential before Blue Origin can resume launch attempts for New Glenn."
+      ],
+      "insight": "This development emphasizes the critical nature of rigorous pre-flight testing procedures to identify vulnerabilities and ensure reliability within rocket technology. The incident underscносиs the importance of comprehensive investigation, safety protocol adherence, and systematic risk mitigation in space exploration initiatives."
+    },
+    {
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000",
+      "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "language": "en",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model",
+      "points": [
+        "NSA is said to be using Anthropic's restricted Mythos AI model",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
+      "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 15:59:26 +0000",
+      "description": "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier this year.",
+      "language": "en",
+      "summary": "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier this year",
+      "points": [
+        "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier t...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 15:30:19 +0000",
+      "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+      "language": "en",
+      "summary": "The startup, co-founded by former U. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas",
+      "points": [
+        "The startup, co-founded by former U",
+        "Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 14:57:05 +0000",
+      "description": "Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.",
+      "language": "en",
+      "summary": "Deezer revealed a significant portion (44%) of daily songs on its platform is AI-generated music, but consumption remains low at just 1-3%, with the majority being fraudulent and subsequently demonetized.",
+      "points": [
+        "- Daily uploads to Deezer include roughly 44% AI-created tracks",
+        "- Streaming of these songs accounts for only about 1-3% consumption on the platform",
+        "- About 85% of AI music streams are flagged as fraudulent and not monetized"
+      ],
+      "insight": "The increasing prevalence of AI in creating music is being met with stringent measures by Deezer to protect its ecosystem, which has implications for the sustainability of revenue streams within streaming platforms."
+    },
+    {
+      "title": "App host Vercel says it was hacked and customer data stolen",
+      "link": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 14:45:56 +0000",
+      "description": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data.",
+      "language": "en",
+      "summary": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data",
+      "points": [
+        "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Rivian’s factory hit by tornado ahead of R2 launch",
+      "link": "https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 13:47:51 +0000",
+      "description": "Nobody was hurt after an EF-1 tornado hit the part of the factory where the R2 SUV is supposed to be built.",
+      "language": "en",
+      "summary": "Rivian's new plant in Milledgeville was damaged by an EF-1 tornado before its anticipated launch of the R2 SUV.",
+      "points": [
+        "EF-1 tornado struck Rivian factory",
+        "No injuries reported at the site due to safety measures and warning system. ",
+        "Rivian production delayed as a result, impacting supply chain."
+      ],
+      "insight": "The incident highlights potential challenges for electric vehicle manufacturers in securing their operations against natural disasters while maintaining reliable delivery schedules to the market."
+    },
     {
       "title": "“사전예방 중심 보안 강화”... 24개 부처 CPO들 머리 맞대",
       "link": "http://www.boannews.com/media/view.asp?idx=143282&kind=&sub_kind=",
@@ -614,141 +749,6 @@
         "계정 신뢰성과 안전도시"
       ],
       "insight": "n8n 기기가 IT 업무 자동화 도구로서의 유형으로, 공격자는 이를 이용해 공격 수행에 매우있어 시스템 안전성을 위한 모니터링 방식으로 제사한다."
-    },
-    {
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 22:34:02 +0000",
-      "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-      "language": "en",
-      "summary": "Online dating platform Tinder has partnered with World, an Orb-centered anonymous verification project led by Sam Altman that is now looking to scale its operations.",
-      "points": [
-        "World's founder Sam Altman leads a startup founded at the age of 19. His latest company uses AI and human reviewers with access to users’ photos, bios, social media profiles or other public information sources",
-        "The project has raised $24 million in venture funding since its first round last year.",
-        "World is partnering with Tinder as well as several companies including Airbnb and Match Group."
-      ],
-      "insight": "This partnership could potentially revolutionize the online dating industry by adding an anonymous verification layer to protect users, while simultaneously addressing concerns about fake profiles. The involvement of multiple high-profile tech giants may indicate growing interest in enhancing trust and security within social platforms."
-    },
-    {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000",
-      "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "language": "en",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 20:16:13 +0000",
-      "description": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
-      "language": "en",
-      "summary": "Nicholas Moore hacked into three U.CT government networks with stolen credentials and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
-      "points": [
-        "The individual exploited weak cybersecurity measures to access sensitive information within US federal agencies, demonstrating a high level of technical skill in bypassing security protocols.",
-        "Posting personal data on social media under the guise of sharing his 'hack' reveals both disregard for privacy and an intent to flaunt illicit activities online.",
-        "The hack exposed vulnerabilities within U.S. government IT infrastructure, highlighting a pressing need for robust cybersecurity measures across federal networks."
-      ],
-      "insight": "This incident underscores the growing threat of individual actors exploiting weaknesses in national security systems and serves as a wake-up call for governments to prioritize advanced IT defense strategies."
-    },
-    {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 19:17:26 +0000",
-      "description": "Returning backers a16z and Thrive are expected to lead the round.",
-      "language": "en",
-      "summary": "Cursor is in discussions for raising over $2 billion at a valuation of more than $50 billion as part of its enterprise growth strategy.",
-      "points": [
-        "Enterprise software firm Cursor seeking significant funding round",
-        "Expected leadership from returning backers Accel, Kleiner Perkins and others",
-        "Cursor's valuation indicating strong market traction"
-      ],
-      "insight": "This news demonstrates the substantial growth of enterprise tech firms amidst increased demand for digital transformation."
-    },
-    {
-      "title": "“Tokenmaxxing” is making developers less productive than they think",
-      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "description": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting.",
-      "language": "en",
-      "summary": "A developer-friendly blockchain platform called Tokenmaxx has been criticized for its high costs, extensive codebase requirement, and frequent need for rewrites.",
-      "points": [
-        "Tokenmaxx is a blockchain platform designed to simplify asset tokenization while also offering accessibility through the Ethereum Virtual Machine (EVM).",
-        "The platform demands significant resources from developers, requiring an extensive codebase that often needs multiple rewrites and substantial funding for gas.",
-        "Despite its ambitions in facilitating decentralized finance applications on non-fungible tokens (NFTs), Tokenmaxx is seen as less efficient compared to other projects."
-      ],
-      "insight": "The criticism of Tokenmaxx suggests that while the platform aims for accessibility and simplicity, it may not be practical or cost-effective enough to attract widespread adoption in the IT/technology industry at this time. Its challenges highlight potential issues with balancing user-friendliness with operational efficiency on blockchain platforms."
-    },
-    {
-      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
-      "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 17:48:46 +0000",
-      "description": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm.",
-      "language": "en",
-      "summary": "Hackers have started using unpatched security flaws within Windows Defender for unautcurated exploits targeting organizations.",
-      "points": [
-        "Details of three vulnerabilities in Windows Defender were published by a researcher",
-        "Hackers are now utilizing these vulnerabilities to attack real-life targets, as reported by cybersecurity firms like CrowdStrike and Trend Micro",
-        "These exploits showcase the critical importance of timely patching in enterprise IT security"
-      ],
-      "insight": "This news highlights a concerning trend where attackers leverage known vulnerabilities that remain unpatched within organizations, emphasizing the need for proactive and immediate security measures."
-    },
-    {
-      "title": "Zoom teams up with World to verify humans in meetings",
-      "link": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 17:15:00 +0000",
-      "description": "Zoom will show a badge on verified participants' tile.",
-      "language": "en",
-      "summary": "Zoom has introduced a feature that verifies the identities of meeting attendees to combat fraudulent activities like 'zoombaiting.'",
-      "points": [
-        "Zoom is testing a new badge for verified participants in meetings.",
-        "The Verified Identity Program allows Zoom hosts and guests to confirm each other's identities with unique PIN codes or QR codes displayed on smartphones before participating.",
-        "This verification process requires both parties involved to scan the code, which is only visible during video calls."
-      ],
-      "insight": "The introduction of a verified identity feature represents Zoom' extrinsic efforts in ensuring safety and reducing fraudulent activities within its platform. As remote work becomes more prevalent across industries worldwide, companies are increasingly seeking reliable tools to safeguard their meetings."
-    },
-    {
-      "title": "Gigs turns your concert history into a personal live music archive",
-      "link": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 16:55:45 +0000",
-      "description": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more.",
-      "language": "en",
-      "summary": "The article introduces an innovative iPhone app called Gigs that leverages AI to convert historical concert data from old tickets, screenshots, and emails into personalized live music archives with various features.",
-      "points": [
-        "Gigs uses artificial intelligence to transform your past concert experiences into a curated digital archive accessible on iPhone",
-        "The app provides statistics about shows you've attended (or missed), creates playlists of songs from those events, and offers mementos like posters or ticket stubs for sale within the application.",
-        "Gigs also allows users to upload their own concert-related content directly through email links or screenshots shared on social media platforms."
-      ],
-      "insight": "This technology signifies a growing trend towards personalized digital experiences and could potentially disrupt how we interact with music history, providing an interactive way for fans to reminisce about past concerts while discovering new content aligned with their musical tastes within the IT/technology industry."
-    },
-    {
-      "title": "Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why",
-      "link": "https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Apr 2026 16:15:50 +0000",
-      "description": "The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.",
-      "language": "en",
-      "summary": "Chef Robotics has thrived after initially struggling with their AI-guided robot arms for food production technology and is now planning to expand services.",
-      "points": [
-        "- Chef Robotics, a company specializing in deploying AI-guided robot arms for food production, originally faced difficulties but has since found success.",
-        "- The thriving status of the company implies effective problem-solving and adaptation to market needs or preferences related to automated cooking technologies.",
-        "- With a history that suggests it once struggled in the 'robot cooking graveyard,' Chef Robotics is now looking to expand its service offerings beyond just food production."
-      ],
-      "insight": "This turnaround indicates potential for growth and adaptation within the robot-assisted culinary technology sector, suggesting that businesses must continually innovate or risk obsolescence in a rapidly evolving field like automated cooking solutions. Chef Robotics' success story can inspire further technological advancements catered to food production, which may lead the way for broader application of robotic technology across various industries."
     }
   ]
 }
