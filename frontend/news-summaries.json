@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-04-20T19:10:36.981Z",
+  "generatedAt": "2026-04-21T02:44:52.410Z",
   "articles": [
+    {
+      "title": "금융보안원, 디지털 금융 특화 ‘금융보안관리사’ 자격검정 모집 시작",
+      "link": "http://www.boannews.com/media/view.asp?idx=143286&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 21 Apr 2026 11:29:00 +0900",
+      "description": "4월 29일부터 6주간 온라인 교육과정 모집... 7월과 11월 총 2회 검정시험 진행금융권 유일 특화자격으로 승진 시험 면제 및 인사 평가 가점 혜택 부여 확산[보안뉴스 조재호 기자] 금융보안원은 AI 대전환에 따른 보안 위협에 대응하고, 자율보안을 선도할 전문 인력 양성을 위해 2026년 금융보안관리사 교육과정과 자격시험을 진행한다고 21일 밝혔다.올해",
+      "language": "ko",
+      "summary": "금융보안원이 AI로부터의 위협을 피하고, 자산보호를 강화하기 위해 금융보안관리사 교육과정과 시험을 진행한다.",
+      "points": [
+        "2026년에 금융보안관리사 교육과정을 재개자료로 수강할 계획",
+        "AI 대전환 속성이나 보안 위협에 주의",
+        "신새로운 IT/기술 요원들을 등진 노인으로서 긨리는 방식"
+      ],
+      "insight": "금융보안원은 AI로부터의 위협과 IT/기술에 대한 급변화를 이해하고, 자신이 추모할 수 0ne를 강화하기 위해 AI적용 경영체의 교육과정을 방문한다."
+    },
+    {
+      "title": "[이슈칼럼] 퇴직자 API 키 방치가 부른 ISMS 강화... 2027년 대비 4단계 점검 포인트",
+      "link": "http://www.boannews.com/media/view.asp?idx=143274&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 21 Apr 2026 11:26:00 +0900",
+      "description": "2027년 ISMS 인증제 개편으로 비인간 식별자(NHI) 전체 생명주기 관리 의무화깃허브·슬랙 등에 방치된 자격증명 조사부터 자동화 파이프라인 구축까지 단계별 로드맵[보안뉴스= 김동현 OWASP 서울 챕터 리더] 과학기술정보통신부와 개인정보보호위원회가 공동 발표한 정보보호 관리체계(ISMS: Information Security Management Sys",
+      "language": "ko",
+      "summary": "퇴직자 API 키 방침이 부른 ISMS 강화 과정에서 4단계 점검 포인트를 제시한다.",
+      "points": [
+        "- 2027년 ISMS 인증제 개편으로 자격증명 조사 및 디지털화 방안을 강화한다.",
+        "- 자격증명 조사는 이전 정보보호 관점에서의 수집과 비슷하거나, 디지털화 방안은 기존의 방식을 보완한다.",
+        "- 이러한 발전에 따라서 4단계 점검 포인트를 제안하고 있으며, IT/웹개발자의 경로에서 중요한 정보보호 작업이 되어 있음을 보여준다."
+      ],
+      "insight": "이 기사는 IT/웹개발자들의 정보보호 운영에서 중요한 포인트를 드러내는 과정입니다. ISMS 강화 방식을 소개하고, 이전 권리와 보호 목적에서의 시험지를 제안한 4단계 점검 포인트는 IT 웹개발자들이 보유하고 있는 정보보호 문제를 일직선으로 다루았을 가능성이 높은 것으로 보여준다."
+    },
+    {
+      "title": "엑스게이트, 국내 최초 PQC 암호모듈 KCMVP 인증 획득... “공공 양자 보안 물꼬”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143288&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 21 Apr 2026 11:19:00 +0900",
+      "description": "개정된 국가 가이드라인 통과한 국내 1호 사례 정부·공공기관 PQC 시장 확산 가속화[보안뉴스 강현주 기자] 네트워크 보안 전문 기업 엑스게이트(대표 주갑수)는 자사가 개발한 ‘양자내성암호(PQC) 기반 하이브리드 암호모듈’이 국내 최초로 국가정보원으로부터 국가암호모듈검증(KCMVP) 인증을 획득했다고 14일 밝혔다.엑스게이트는 이번 인증은 지난 2025년",
+      "language": "ko",
+      "summary": "개정된 국가 가이드라인 통과한 국내 1호 사례 정부·공공기관 PQC 시장 확산 가속화[보안뉴스 강현주 기자] 네트워크 보안 전문 기업 엑스게이트(대표 주갑수)는 자사가 개발한 ‘양자내성암호(PQC) 기반 하이브리드 암호모듈’이 국내 최초로 국가정보원으로부터 국가암호모듈검증(KCMVP) 인증을 획득했다고 14일 밝혔다. 엑스게이트는 이번 인증은 지난 2025년",
+      "points": [
+        "엑스게이트는 이번 인증은 지난 2025년",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "엔플러스랩-이글루코퍼레이션, 2026년 N2SF 공공 시장 ‘정조준’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143285&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 21 Apr 2026 10:16:00 +0900",
+      "description": "컨설팅부터 시스템 운영까지 아우르는 전주기 협력 모델 공동 창출 합의등급분류와 위협식별 아우르는 검증 전문성에 운영 노하우 결합 시너지 기대[보안뉴스 조재호 기자] 엔플러스랩이 이글루코퍼레이션과 국가 망 보안체계(N2SF) 사업 협력을 위한 전략적 제휴(MOU)를 체결했다고 21일 밝혔다. 올해 전 국가 기관과 공공에 전면 도입되는 N2SF 시장 주도권을",
+      "language": "ko",
+      "summary": "컨설팅부터 시스템 운영까지 아우르는 전주기 협력 모델 공동 창출 합의등급분류와 위협식별 아우르는 검증 전문성에 운영 노하우 결합 시너지 기대[보안뉴스 조재호 기자] 엔플러스랩이 이글루코퍼레이션과 국가 망 보안체계(N2SF) 사업 협력을 위한 전략적 제휴(MOU)를 체결했다고 21일 밝혔다. 올해 전 국가 기관과 공공에 전면 도입되는 N2SF 시장 주도권을",
+      "points": [
+        "올해 전 국가 기관과 공공에 전면 도입되는 N2SF 시장 주도권을",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“몸값만 27억원”... 샤이니헌터스, Vercel 보안 뚫고 고객 정보 탈취",
+      "link": "http://www.boannews.com/media/view.asp?idx=143284&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 21 Apr 2026 10:12:00 +0900",
+      "description": "외부 AI 협업 도구 ‘컨텍스트 AI’ 연동 과정에서 직원 계정 유출되며 내부 시스템 노출암호화된 민감 변수 외 일반 자격 증명 털려... 구글 맨디언트와 협력해 조사 착수[보안뉴스 김형근 기자] 서드파티 AI 협업 도구의 보안 결함이 클라우드 인프라 전체의 위협으로 번졌다. 해커 그룹 샤이니헌터스(ShinyHunters)가 웹 인프라 기업 버셀(Verce",
+      "language": "ko",
+      "summary": "구글 맨디언트가 공개되어 자격 증명 할인과 인터넷 마사지를 통해 하나의 구글 서드파리 AI 시스템에 방문자가 제공한 민감 정보를 탈취한 이유가 몬그인과 이미지 공개 직원의 일부 변수 살풀이에 기여했다.",
+      "points": [
+        "구글 맨디언트가 서드파리 AI 시스템의 보안 문제를 인터넷 마사지와 링크를 이용해 여전히 이전에 제공한 민감 정보를 탈취할 수 0가지고 있다.",
+        "구글 맛쿠션 플랜트리의 경우, 공개된 모든 변수가 일부가 이전에 살질되어 인간의 이름과 메일주소로 바뀌어 있다.",
+        "이미지 공개 사항 등은 구글 시스템에서의 큰 보안 위기점이다."
+      ],
+      "insight": "이엔이터스톨티아이 기사는 구글 맛쿠션 플랜트리에서의 보안 문제 부분을 중요하게 강조한다. 해커와 광고마사지 방식 아이디어로 인터넷 마사지를 통해 보안 문제점을 소유자가 공개한 민감 정보를 탈취하는 이유를 요구한다."
+    },
+    {
+      "title": "Who is John Ternus, the incoming Apple CEO?",
+      "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 01:02:04 +0000",
+      "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "language": "en",
+      "summary": "John Ternus is set to become CEO at a pivotal time for Apple as Tim Cook takes on new responsibilities within Alphabet Inc., leaving the tech giant in need of strong leadership.",
+      "points": [
+        "Apple's current chief executive, Tim Cook, has announced he will focus more closely on philanthropy while taking a seat at Alphabet’s board as Google looks to consolidate power within its parent company. This shift leaves Apple with the challenge of finding new leadership.",
+        "John Ternus is set to assume this role starting September 1 and comes into office without much public fanfare, but his background in technology could provide fresh perspectives for Apple's future direction.",
+        "Tim Cook has a history at Apple as an outspoken figure on diversity within the company; it remains unclear how Ternus will approach this aspect of leadership."
+      ],
+      "insight": "The appointment of John Ternus signals potential shifts in strategic focus for Apple, especially considering Tim Cook's move to Alphabet. It is an opportunity for fresh perspectives but also presents a challenge if the new CEO deviates from prioritizing diversity."
+    },
+    {
+      "title": "스피어AX, 태국 ‘블루 지브라’와 전략적 파트너십 체결",
+      "link": "http://www.boannews.com/media/view.asp?idx=143283&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 21 Apr 2026 09:12:00 +0900",
+      "description": "베트남 이어 태국까지, 동남아 B2G ICT 시장 확대 가속[보안뉴스 엄호식 기자] 비전 AI 전문기업 SPHERE AX(스피어AX)는 태국의 IT 보안 솔루션 기업 블루 지브라(Blue Zebra)와 태국 ICT 분야 공공사업(B2G) 공동 진출을 위한 전략적 파트너십을 체결했다고 밝혔다.이번 협력은 스피어AX가 베트남 시장 진출에 이어 태국 시장까지 본",
+      "language": "ko",
+      "summary": "스피어AX이나 B2G ICT 공동 진출을 위한 전략적 파트너십 체결",
+      "points": [
+        "-스피어AX는 블루 지브라의 IT 보안 솔루션을 중시한다.",
+        "-공동 진출을 위해 베트남과 태국 ICT 시장 사이에서의 광고",
+        "-스피어AX과 B2G ICT 공동 협상은 IT/기술 업체들이 전기화하여 더 있는 전략을 수정하고 개선한다."
+      ],
+      "insight": "스피어AX과 B2G ICT 공동 진출의 이유와 기대성인지를 간소화"
+    },
+    {
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 23:10:27 +0000",
+      "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "language": "en",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return",
+      "points": [
+        "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic",
+        "Anthropic has agreed to spend $100 billion on AWS in return",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 22:00:00 +0000",
+      "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "language": "en",
+      "summary": "Google has launched its artificial intelligence-powered Chrome extension named Gemini across seven new markets including Australia, Indonesia, the Philippines, Singapore, South Korea and Vietnam.",
+      "points": [
+        "Gemini features AI capabilities that enhance web browsing experiences by answering questions about articles read or providing contextual information during reading sessions.",
+        "Google is rolling out Gemini in desktop Chrome browsers for users residing in the listed countries, with iOS availability expected soon.",
+        "As of now, Japan has not been included among these regions where Google launched its new AI tool within web browsing platform"
+      ],
+      "insight": "The successful rollout and anticipated demand from Apple mark Gemini as a potential game-changer in the integration of artificial intelligence into everyday internet usage."
+    },
+    {
+      "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
+      "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 20:42:01 +0000",
+      "description": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with annual revenue that has more than quadrupled on his watch.",
+      "language": "en",
+      "summary": "Apple CEO Tim Cook will be stepping down and John Ternus is taking over the role.",
+      "points": [
+        "Tim Cook has led Apple to become a $4 trillion business with more than quadrupled annual revenue since inheriting it from Steve Jobs.",
+        "John Ternus, currently Vice President of Worldwide Sales and Procurement at Apple, will take over as the new CEO after Tim Cook's departure.",
+        "The transition has been expected for some time."
+      ],
+      "insight": "Tim Cook's legacy leaves a successful business in his wake but also indicates an era of significant change and leadership evolution within one of the world's most influential tech companies. John Ternus, known more as Apple's supply chain expert than its public face, may bring new strategies to bear on consumer demand management."
+    },
+    {
+      "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
+      "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 20:20:29 +0000",
+      "description": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
+      "language": "en",
+      "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos",
+      "points": [
+        "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth i...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "It’s not just one thing — it’s another thing",
+      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Apr 2026 19:37:07 +0000",
+      "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+      "language": "en",
+      "summary": "The article discusses the increasing frequency and predictability with which AI-generated text uses certain phrases like 'It's not just this—it's that.' This pattern has become so widespread in synthetic writing, making it easier to identify as non-human.",
+      "points": [
+        "AI models are increasingly producing content with the common sentence construction ('It's not just this — it's that').",
+        "The repetition of these structures is causing AI text generation to be easily distinguishable from human writing.",
+        "This trend raises concerns about reliance on synthetic data for training machine learning models."
+      ],
+      "insight": "As identifiable patterns in AI-generated texts become more prevalent, there's a growing need for the industry to develop better ways of distinguishing human from non-human content and refine generative language modeling techniques. This could prevent issues with data quality used for training ML models."
+    },
     {
       "title": "North Korea hackers blamed for $290M crypto theft",
       "link": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
@@ -570,185 +750,6 @@
         "The article suggests that a lack of resolution could significantly impact investment flow into new ventures within the nuclear power generation sector"
       ],
       "insight": "For long-term growth and stability, it is crucial for key players in fusion energy to resolve disputes amicably. Failure to do so risks exacerbating funding difficulties that could impede progress towards commercializing clean energy."
-    },
-    {
-      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
-      "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 19 Apr 2026 11:45:38 +0000",
-      "description": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
-      "language": "en",
-      "summary": "Blue Origin has successfully achieved a first: reusing New Glenn rockets for space missions as part of their new mega-rocket system.",
-      "points": [
-        "The successful reuse marks a significant technological advancement in rocketry, particularly with Blue Origin's New Glenn mega-rocket system.",
-        "This achievement puts Elon Musk's SpaceX to the test as both companies vie for supremacy in reusable launch systems and could potentially reduce space travel costs significantly.",
-        "The ability of rockets like New Glenn, which is designed with sturdy landing legs that allow it to return vertically back through Earth’s atmosphere, signifies a promising future for commercializing access to outer space."
-      ],
-      "insight": "Blue Origin's successful re-use of their rocket challenges SpaceX in the race towards cost-effective and sustainable launch systems. This development has significant implications for both industries as they continue aiming to make more reliable, recyclable rockets a reality."
-    },
-    {
-      "title": "네이버, “카페에서 위치 추적 상품 거래 못한다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143235&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 19 Apr 2026 15:59:00 +0900",
-      "description": "스토킹, 불륜 등 사생활 감시 용도 위치 추적 상품 거래 모니터링동의 없는 위치 추적 방조하는 게시물 단속 [보안뉴스 한세희 기자] 네이버 카페에서 위치 추적과 관련된 상품 거래를 하지 못하게 된다. 스토킹 등 범죄 악용 가능성을 차단하기 위해서다. 네이버는 17일 카페 서비스 공지사항에서 “최근 위치추적기가 스토킹 등 강력 범죄에 악용되는 사례가 증가함에",
-      "language": "ko",
-      "summary": "스토킹, 불륜 등 사생활 감시 용도 위치 추적 상품 거래 모니터링동의 없는 위치 추적 방조하는 게시물 단속 [보안뉴스 한세희 기자] 네이버 카페에서 위치 추적과 관련된 상품 거래를 하지 못하게 된다. 스토킹 등 범죄 악용 가능성을 차단하기 위해서다...",
-      "points": [
-        "스토킹, 불륜 등 사생활 감시 용도 위치 추적 상품 거래 모니터링동의 없는 위치 추적 방조하는 게시물 단속 [보안뉴스 한세희 기자] 네이버 카페에서 위치 추적과 관련된 상품 거래를...",
-        "스토킹 등 범죄 악용 가능성을 차단하기 위해서다",
-        "네이버는 17일 카페 서비스 공지사항에서 “최근 위치추적기가 스토킹 등 강력 범죄에 악용되는 사례가 증가함에"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "국가 연구과제 관리 시스템 IRIS 먹통... 지원금 신청하던 대학원생 분통",
-      "link": "http://www.boannews.com/media/view.asp?idx=143234&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 19 Apr 2026 08:30:00 +0900",
-      "description": "”접속자 몰려 시스템 장애” [보안뉴스 한세희 기자] 국가 연구과제 신청과 관리 등에 쓰이는 범부처통합연구관리지원시스템(IRIS)이 접속 장애를 일으켜 지원금을 신청하려는 대학원생들이 발을 동동 굴렀다. 석박사 연구장려금 신청 마감일인 13일 오전 11시부터 오후 5시 50분까지 IRIS 시스템 장애로 접속이 제대로 이뤄지지 않았다고 연합뉴스가 19일 보도",
-      "language": "ko",
-      "summary": "”접속자 몰려 시스템 장애” [보안뉴스 한세희 기자] 국가 연구과제 신청과 관리 등에 쓰이는 범부처통합연구관리지원시스템(IRIS)이 접속 장애를 일으켜 지원금을 신청하려는 대학원생들이 발을 동동 굴렀다. 석박사 연구장려금 신청 마감일인 13일 오전 11시부터 오후 5시 50분까지 IRIS 시스템 장애로 접속이 제대로 이뤄지지 않았다고 연합뉴스가 19일 보도",
-      "points": [
-        "”접속자 몰려 시스템 장애” [보안뉴스 한세희 기자] 국가 연구과제 신청과 관리 등에 쓰이는 범부처통합연구관리지원시스템(IRIS)이 접속 장애를 일으켜 지원금을 신청하려는 대학원생...",
-        "석박사 연구장려금 신청 마감일인 13일 오전 11시부터 오후 5시 50분까지 IRIS 시스템 장애로 접속이 제대로 이뤄지지 않았다고 연합뉴스가 19일 보도",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "검색 수익화 솔루션 가장... 백신 제거해 2만5000개 시스템 위협 노출",
-      "link": "http://www.boannews.com/media/view.asp?idx=143232&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 19 Apr 2026 07:30:00 +0900",
-      "description": "드래곤보스솔루션 기업 이름 내걸고 활동... 최상위 권한 장악해 백신 무력화보안 기업 헌트리스 싱크홀 역공으로 피해 확산 방지 [보안뉴스 김형근 기자] ‘검색 수익화 기업’을 표방하는 드래곤보스솔루션(Dragon Boss Solutions LLC)이란 회사 소프트웨어가 정상적 업데이트 경로를 악용해 운영체제 최상위 권한(SYSTEM)을 장악뒤, 백신 제거",
-      "language": "ko",
-      "summary": "드래곤보스솔루션이 기업에서 핵심으로 시스템 위협을 방지하며 백신 제거를 수행한다.",
-      "points": [
-        "- 드래곤보스솔루션이 기업의 인터넷 애플리케이얼 시스템에서 최상위 권한(SYSTEM)를 장악해 보호하고, 백신 제거를 수행",
-        "- 기업은 이러한 내부 위협을 방어할 수 있는 일버릴한 시스템에 대한 의사소연을 강조하고 정리",
-        "- 확산 방지와 백신 제거를 위해서, 기업은 개인화된 솔루션 출시를 강조한다."
-      ],
-      "insight": "이러한 스트레팅을 우회하면 기업은 사용자의 안전과 보호에 관여해 있어야만 한다."
-    },
-    {
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
-      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 18 Apr 2026 21:37:15 +0000",
-      "description": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now […]",
-      "language": "en",
-      "summary": "Tesla has rolled out its robotaxi service to Dallas and Houston areas, showcasing a fully autonomous vehicle operation without human monitors or drivers.",
-      "points": [
-        "Expanding Tesla'ty Robotaxi Service",
-        "No Human Monitors/Drivers in Front Seat",
-        "14-Second Video Demonstration"
-      ],
-      "insight": "The expansion of autonomous taxi services like Tesla could disrupt the traditional transport industry and lead to a reimagining of urban mobility infrastructure."
-    },
-    {
-      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
-      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 18 Apr 2026 20:00:00 +0000",
-      "description": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
-      "language": "en",
-      "summary": "Ron Conway revealed in an article that he has a rare form of cancer and plans to step back from some activities but will continue supporting the founders under his management.",
-      "points": [
-        "Ron Conway, known for backing successful startups like YouTube, is stepping away due to health issues",
-        "Conway's firm SV Angel has been managing a number of tech companies"
-      ],
-      "insight": "The news about Ron Conway may bring attention and support towards the founders backed by his firm as they face an uncertain future without their mentor. It could also potentially create shifts in investment strategies within VC firms, reaffirming the need for contingency plans when leading venture capitalists are unable to fulfill their roles due to health concerns."
-    },
-    {
-      "title": "AI chip startup Cerebras files for IPO",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000",
-      "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "language": "en",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000",
-      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "language": "en",
-      "summary": "Anthropic maintains communication with key figures in the former Trump administration despite being labeled a supply chain risk by Pentagon.",
-      "points": [
-        "Designation as 'a potential threat to national security'",
-        "Ongoing discussions with high-level members of previous US government",
-        "Concerns about Anthropic' extraterrestrial AI technology impact on national security"
-      ],
-      "insight": "The continued dialogue between Anthropic and the Trump administration, despite potential risks mentioned by Pentagon, indicates that political affiliations might still have an influence in certain tech sector dealings."
-    },
-    {
-      "title": "The App Store is booming again, and AI may be why",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0000",
-      "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-      "language": "en",
-      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom",
-      "points": [
-        "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fue...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[미토스 충격] 소송전 와중에... 앤트로픽 CEO, 백악관에서 정권 핵심 인사 면담",
-      "link": "http://www.boannews.com/media/view.asp?idx=143233&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 18 Apr 2026 16:55:00 +0900",
-      "description": "앤트로픽, “‘공격망 위협 기업’ 지정 취소하라” 정부 상대 소송사이버 공격 역량 강한 미토스 등장에 만남 이뤄져… AI 경쟁력 등 논의 [보안뉴스 한세희 기자] 인공지능(AI) 모델 공급 조건을 놓고 갈등을 겪고 있는 미국 백악관과 앤트로픽이 회동을 가졌다. 최근 사이버 보안 분야에서 인상적 성능을 보여준 앤트로픽의 새 AI 모델 ‘클로드 미토스’ 관련",
-      "language": "ko",
-      "summary": "앤트로픽, “‘공격망 위협 기업’ 지정 취소하라” 정부 상대 소송사이버 공격 역량 강한 미토스 등장에 만남 이뤄져… AI 경쟁력 등 논의 [보안뉴스 한세희 기자] 인공지능(AI) 모델 공급 조건을 놓고 갈등을 겪고 있는 미국 백악관과 앤트로픽이 회동을 가졌다. 최근 사이버 보안 분야에서 인상적 성능을 보여준 앤트로픽의 새 AI 모델 ‘클로드 미토스’ 관련",
-      "points": [
-        "앤트로픽, “‘공격망 위협 기업’ 지정 취소하라” 정부 상대 소송사이버 공격 역량 강한 미토스 등장에 만남 이뤄져… AI 경쟁력 등 논의 [보안뉴스 한세희 기자] 인공지능(AI) ...",
-        "최근 사이버 보안 분야에서 인상적 성능을 보여준 앤트로픽의 새 AI 모델 ‘클로드 미토스’ 관련",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
-      "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 18 Apr 2026 05:20:11 +0000",
-      "description": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
-      "language": "en",
-      "summary": "Airwallett Inc., a rival payments company initially operating primarily outside the U.ban market and serving clients in Latin America has started considering acquisitions following Stripe's recent move into those markets.",
-      "points": [
-        "Stripe acquires multiple startups including payment processing firm Airwallett Inc., expanding its global footprint beyond North American buyers",
-        "Airwallett may now consider being acquired by a more established entity like Stripe due to the latter's recent acquisitions and expansion strategy.",
-        "The trend of larger tech companies acquiring emerging competitors is gaining momentum in payment processing industry."
-      ],
-      "insight": "This development indicates that there might be an increasing consolidation within the payments technology sector as major players expand their global presence and acquire potential threats or competition. As such, startups with unique value propositions may find themselves becoming targets for larger entities looking to enhance market share."
-    },
-    {
-      "title": "편리하게 일하려 자동화했더니... n8n 클라우드 기반 악성코드 공격 포착",
-      "link": "http://www.boannews.com/media/view.asp?idx=143228&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 18 Apr 2026 07:54:00 +0900",
-      "description": "n8n 신뢰성 악용해 침투, 시스템 장악편리한 업무 자동화 도구가 해커 자동 공격 수단으로... [보안뉴스 김형근 기자] 인기 AI 워크플로우 자동화 플랫폼 n8n의 웹후크(Webhook) 기능을 악용해 악성코드를 유포하는 피싱 캠페인이 작년 10월부터 지속돼 온 것으로 드러났다. 시스코 탈로스에 따르면, 공격자들은 n8n의 신뢰받는 클라우드 인프라 ‘a",
-      "language": "ko",
-      "summary": "n8n 기기가 유로코드 공격 수확 현황을 공개한 캠페인이 지속된다.",
-      "points": [
-        "n8n 작동 가능성에 대한 우려",
-        "시스템 장악과 일컷을 이용한 것으로 모니터링",
-        "계정 신뢰성과 안전도시"
-      ],
-      "insight": "n8n 기기가 IT 업무 자동화 도구로서의 유형으로, 공격자는 이를 이용해 공격 수행에 매우있어 시스템 안전성을 위한 모니터링 방식으로 제사한다."
     }
   ]
 }
