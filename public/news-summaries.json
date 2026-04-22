@@ -1,6 +1,261 @@
 {
-  "generatedAt": "2026-04-21T19:17:53.821Z",
+  "generatedAt": "2026-04-22T02:51:42.578Z",
   "articles": [
+    {
+      "title": "또 뚫린 프랑스 공공 인프라... 이번엔 ANTS 포털 해킹",
+      "link": "http://www.boannews.com/media/view.asp?idx=143304&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:54:00 +0900",
+      "description": "국가 안전 서류 관리하는 핵심 서버 공격받아 주소와 전화번호 유출파리 검찰청 즉각 수사 착수했으나, 표적형 피싱 범죄 예방에 비상 걸려[보안뉴스 김형근 기자] 프랑스 공공 포털이 관리자 신원을 도용한 해킹 공격에 무너졌다. 2단계 인증을 비롯한 방어 수단을 마련하고 있지만, 정식 계정을 탈취하는 방식의 공격에 기존의 보안 시스템이 무용지물이 됐다는 비판을",
+      "language": "ko",
+      "summary": "포털에서의 공격없이 피해졌는 아니지만, 보안시스템이 못하다",
+      "points": [
+        "큰 공격없이 공격불량인 확인",
+        "원산서비스가 사용하는 보안시스템의 문제점",
+        "공격자의 방어 전략이 창의적으로 개선되지 않았음"
+      ],
+      "insight": "통신기기의 보안성에서 국가는 우연한 현상이라도 이해하고자 합니다."
+    },
+    {
+      "title": "“보안 사고, 기술 아닌 실행 부재에서 시작”... 아톤, ‘시큐리티 서밋 2026’ 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=143305&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:48:00 +0900",
+      "description": "양자보안부터 제로트러스트, 피싱방어까지 총 망라[보안뉴스 강현주 기자] 아톤(대표 우길수)이 보안 실무자들에게 기업이 지금 당장 실행할 수 있는 보안 전략을 제시한다.아톤은 오는 5월 13일 여의도 FKI타워 그랜드볼룸에서 ‘아톤 시큐리티 서밋 2026’을 개최한다고 22일 밝혔다.이번 행사는 아톤이 단독 주관하는 첫 대규모 보안 컨퍼런스다. 은행·증권사",
+      "language": "ko",
+      "summary": "아톤이 보안 전략을 제시한다.",
+      "points": [
+        "- 첫 대규모 보안 컨퍼런스 개최",
+        "- 기업이 지금 실행할 수 0 있는 보안 전략을 제시한다.",
+        "- 영국의 아톤이 '시큐리티 서밋 2026'를 개석한다."
+      ],
+      "insight": "아톤은 IT/기술 업체에서 보안 전략의 중요성을 강조하고, 새로운 전략이 개석되는 계기가 질체적으로 드문다."
+    },
+    {
+      "title": "분산형 소셜 미디어 블루스카이, 친이란 해커 그룹 공격에 서비스 장애",
+      "link": "http://www.boannews.com/media/view.asp?idx=143303&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:41:00 +0900",
+      "description": "블루스카이 서비스 장애는 DDoS 공격 때문친이란 ‘313 팀’ 자신들 소행이라 주장[보안뉴스 김형근 기자] X(구 트위터)의 대안으로 주목받는 분산형 소셜 미디어 블루스카이(Bluesky)는 최근 발생한 서비스 장애가 외부 세력에 의한 디도스(DDoS) 공격 때문이라고 밝혔다. 블루스카이에 대한 공격은 15일(현지시간) 시작돼 게시물 목록(Feed)",
+      "language": "ko",
+      "summary": "블루스카이 서비스 장애는 DDoS 공격 때문친이란 ‘313 팀’ 자신들 소행이라 주장[보안뉴스 김형근 기자] X(구 트위터)의 대안으로 주목받는 분산형 소셜 미디어 블루스카이(Bluesky)는 최근 발생한 서비스 장애가 외부 세력에 의한 디도스(DDoS) 공격 때문이라고 밝혔다. 블루스카이에 대한 공격은 15일(현지시간) 시작돼 게시물 목록(Feed)",
+      "points": [
+        "블루스카이에 대한 공격은 15일(현지시간) 시작돼 게시물 목록(Feed)",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "오내피플, 2025년 ‘흑자전환’ 성공 “AI기반 개인정보보호 SaaS 시장 가속화”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143302&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:26:00 +0900",
+      "description": "2025년 당기순이익 흑자 달성하며 질적·양적 성장 동시 확보매출 전년 대비 45% 급증, ‘캐치시큐’ 중심의 B2B/B2G 시장 확장 주효 CSAP 등 보안 인증 바탕으로 공공 클라우드 시장 공략 본격화 예정[보안뉴스 강초희 기자] 개인정보보호 규제 준수(Compliance) 솔루션 ‘캐치시큐’를 운영하는 오내피플(대표 조아영)이 2025년 결산 결과,",
+      "language": "ko",
+      "summary": "2025년 당기순이익 흑자 달성하며 질적·양적 성장 동시 확보매출 전년 대비 45% 급증, ‘캐치시큐’ 중심의 B2B/B2G 시장 확장 주효 CSAP 등 보안 인증 바탕으로 공공 클라우드 시장 공략 본격화 예정[보안뉴스 강초희 기자] 개인정보보호 규제 준수(Compliance) 솔루션 ‘캐치시큐’를 운영하는 오내피플(대표 조아영)이 2025년 결산 결과,",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "KISA, 지구의 날 맞아 ‘에너지·보안 6대 실천 수칙’ 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=143300&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:23:00 +0900",
+      "description": "기후 위기 심화와 에너지 수급 불안 극복하기 위한 생활 속 디지털 통합 가이드 제안미사용 기기 전원 차단과 2단계 인증 설정 비롯한 ‘절전과 방어’ 중심 행동 지침[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 지구의 날을 맞아 에너지 절약과 정보보호를 동시에 실천할 수 있는 ‘6대 실천 수칙’을 22일 밝혔다. 이번 실전 수칙은 기후 위기 심화와 에",
+      "language": "ko",
+      "summary": "KISA는 기후 위기와 에너지 절약과 보안을 위한 6대 실천 수치를 제시하여, 인간의 일상에서 보안과 절액성을 모두 추구합니다.",
+      "points": [
+        "- 기후 위기와 인류가 보호하고 지리학습에서의 인식취미를 통한 에너지 절액성을 강조합니다.",
+        "- 6대 수칙은 인류가 주로 청소제공기, LED 전지, 정보보호를 통한 보안적인 에너지 사용 방식을 이해하도록 돕습니다.",
+        "- 일상으로 2단계인증 기기 전원 차단으로 부터의 보호적인 시장 활동을 강조합니다."
+      ],
+      "insight": "KISA는 인류가 지구의 세계에서 절액성과 보안에 어떤 역할을 참고하고 있는지, 그리고 이를 통해 인간들이 더욱 논리적으로 보안과 에너지 와기가 작동하도록 자연스렴한 방식을 선정한 실천 수칙이다."
+    },
+    {
+      "title": "포티넷, ‘2026 구글 클라우드 올해의 파트너상’ 워크로드 보안 부문 수상",
+      "link": "http://www.boannews.com/media/view.asp?idx=143301&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:17:00 +0900",
+      "description": "포티CNAPP, 클라우드 보안 태세 관리·워크로드 보호·위협 탐지 통합[보안뉴스 강현주 기자] 글로벌 네트워크 보안 융합 솔루션 기업 포티넷(CEO 켄 지)이 ‘2026 구글 클라우드 올해의 파트너상’ 워크로드 보안 부문을 수상했다고 22일 밝혔다. 포티넷은 클라우드 네이티브 애플리케이션 보호 플랫폼 ‘포티CNAPP’를 통해 하이브리드 및 멀티클라우드 환경",
+      "language": "ko",
+      "summary": "포티CNAPP은 2026년 구글 클라우드에서의 파트너상에서 보안적용을 기다리고 있음",
+      "points": [
+        "2026년 구글 클라우드에서 포티CNAPP이 하이브리드 및 멀티클라우드 환경에서 보안을 강화함",
+        "2nerve 커뮤니템 시스템의 개념있는 보안 플랫폼을 소개한다.",
+        "구글이 첨부하는 충당한 기사를 통해 CEO는 모든 공정에서 보안의 중요성을 강조하고 있다."
+      ],
+      "insight": "이러한 보안 제출은 IT/기술 업계에서 큰 이론적인 의미를 가지고 있다. CEO는 모든 클라우드 요원들이 보안에 대한 이해와 중요성을 약속했다."
+    },
+    {
+      "title": "이원태 국가AI전략위 보안특위 위원장 ‘홍조 근정훈장’... “AI 시대 보안정책 수준 제고”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143299&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:06:00 +0900",
+      "description": "“AI 시대 선제적 ICT 규범 정립 및 보안 정책 수준 제고 공로”[보안뉴스 강현주 기자] 이원태 국가인공지능전략위원회 보안 특별위원회 위원장이 이재명 대통령으로부터 ‘홍조 근정훈장’을 수훈했다. AI 시대 ICT 규범 및 보안 정책 수준에 기여한 데 따른 것이다. 21일 한국과학기술회관에서 열린 ‘2026년 과학·정보통신의 날 기념식’에서 과학 기술·정",
+      "language": "ko",
+      "summary": "국가AI인공지능전략위원회 보안위원장이 AI 시대에 필요한 ICT 규벌과 보안 정책의 기준을 제출했다.",
+      "points": [
+        "국가AI인공지능전략위원회 보안위원장이 ICT 규벌과 보안 정책의 기준을 제출한다.",
+        "대통령 이재명이 ‘홍조 근정훈장’에 등장한다.",
+        "AI 시대 보안정책의 수준을 기여하고, 2026년 과학·정보통신의 날 기념식에서 활동한다."
+      ],
+      "insight": "국가AI인공지능전략위원회 보안위원장이 ICT 규벌과 보안 정책을 연계시키고, AI 시대에 따른 보안 필요가 등장했다."
+    },
+    {
+      "title": "[특별기고] 새로운 클라우드 보안 인증제도에 바란다",
+      "link": "http://www.boannews.com/media/view.asp?idx=143298&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 10:01:00 +0900",
+      "description": "안전한 클라우드 운영이 소버린 AI 경쟁력의 핵심... 보안과 혁신 균형점 찾아야민간 소통 확대 및 구체적인 가이드라인 마련을 통해 미래 신기술 능동적 대응 촉구[보안뉴스= 류재철 충남대학교 컴퓨터융합학부 교수] 미토스의 등장이 세계적으로 큰 화제가 되고 있다. 27년간 찾지 못했던 취약점을 탐지하고, 다양한 취약점을 연계해 공격 코드를 생성하는 것을 보면",
+      "language": "ko",
+      "summary": "기사가 제시한 내용에 대해 요약: AI의 보안과 혁신을 위해 논의한 인공지능과 광범위한 데이터 수집 기능을 통해 시스탄리아, 미국 환경 대표가 공개한 보안 지적에 대한 고급 인식을 나타내고자 한다.",
+      "points": [
+        "AI로부터 보안에 어려움이 있는 중요성을 강조",
+        "27년간 탈취의 기본 약점 탐지 및 공격으로 더졌다",
+        "AI를 위한 보안 전문가를 선보이고, 이로부터 AI의 공식 대상 중심적인 지점을 제시"
+      ],
+      "insight": "이런 보안에 관한 일은 핵심으로 AI의 인간성과 공정성에 대해 다음 단계를 나눠왔습니다. AI가 인지와 사회적 친화를 학습하고, 이로부터 보안을 강화함으로써 인공지능의 영향을 줄 정신입니다."
+    },
+    {
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 00:37:33 +0000",
+      "description": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
+      "language": "en",
+      "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch",
+      "points": [
+        "The company is restructuring some teams to accommodate a booming energy storage business, according ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "[카드뉴스] “비번은 바꿔도 DNA는 못 바꾼다”… 수백만명 ‘유전자 설계도’ 유출 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=143269&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 09:18:00 +0900",
+      "description": "개인의 고유한 생물학적 정보인 유전자 데이터가 대규모로 유출되면서, 변경이 불가능한 ‘생체 설계도’가 사이버 범죄의 타겟이 되는 심각한 국면에 접어들었다. 유출된 정보는 단순 사생활 침해를 넘어 특정인의 유전적 취약점을 이용한 ‘맞춤형 생물학적 타겟팅’ 공격 등 인명에 치명적인 위협으로 이어질 수 있다. 보안의 패러다임이 IT 시스템 방어에서 인류의 생존과",
+      "language": "ko",
+      "summary": "해외 IT 연구자가 기사를 요약했을 때의 내용",
+      "points": [
+        "유전적 정보가 공격을 받을 수 있다.",
+        "인명에 위협받기로 침해를 만들어야 함으로써 국민의 보호가 요구된다.",
+        "맞춤형 생체학과가 위협을 하기 전에 IT 보안을 강화해야 한다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서 맞춤형 살아남은 인구를 위한 보호와 채췰가 더 중요해진 현상을 고루 다양한 점수로 그리드처럼 입니다."
+    },
+    {
+      "title": "스마트키퍼, 일본 NTT동일본에 물리보안 솔루션 공급",
+      "link": "http://www.boannews.com/media/view.asp?idx=143221&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 09:15:00 +0900",
+      "description": "NTT동일본 독점 계약으로 일본 시장 본격 진출“단순 공급 넘어 파트너십”... 글로벌 물리보안 기술력 검증 [보안뉴스 한세희 기자] 스마트키퍼(대표 안창훈)는 일본 통신·인프라 기업 NTT동일본(NTT East)과 물리보안 솔루션 공급 및 시장 확대를 위한 협력 계약을 체결했다고 밝혔다. 이번 협력은 단순 제품 공급 계약을 넘어, 일본 시장에서 물리보안",
+      "language": "ko",
+      "summary": "NTT동일본 독점 계약으로 일본 시장 본격 진출“단순 공급 넘어 파트너십”. 글로벌 물리보안 기술력 검증 [보안뉴스 한세희 기자] 스마트키퍼(대표 안창훈)는 일본 통신·인프라 기업 NTT동일본(NTT East)과 물리보안 솔루션 공급 및 시장 확대를 위한 협력 계약을 체결했다고 밝혔다...",
+      "points": [
+        "NTT동일본 독점 계약으로 일본 시장 본격 진출“단순 공급 넘어 파트너십”",
+        "글로벌 물리보안 기술력 검증 [보안뉴스 한세희 기자] 스마트키퍼(대표 안창훈)는 일본 통신·인프라 기업 NTT동일본(NTT East)과 물리보안 솔루션 공급 및 시장 확대를 위한 ...",
+        "이번 협력은 단순 제품 공급 계약을 넘어, 일본 시장에서 물리보안"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 23:45:21 +0000",
+      "description": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "language": "en",
+      "summary": "Meta plans to use an internal tool that converts employee keystrokes, mouse movements, and click patterns into training data for their AI systems.",
+      "points": [
+        "The new Meta system will record employees' keystrokes as they type on company devices",
+        "Mouse clicks are being converted by the hardware itself to produce input signals used in real-time applications like video games and virtual reality experiences within Meta’internal tool",
+        "Employees can control their mouse movements with subtle button presses which will be utilized for various tasks without directly touching buttons"
+      ],
+      "insight": "This initiative signifies a shift towards more sophisticated and immersive AI experiences within the tech industry, potentially impacting human-computer interaction norms."
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 23:26:45 +0000",
+      "description": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "language": "en",
+      "summary": "A report suggests an unautban group accessed Anthropic's advanced cyber tool Mythos without permission. The company denies any system disruptions but is probing the claims.",
+      "points": [
+        "- Unauthorized party allegedly obtained access to Anthropi'c Mythos",
+        "- Company maintains its systems unaffected despite investigations",
+        "- Claims raise concerns about cybersecurity and data privacy"
+      ],
+      "insight": "The incident, if true, would be a significant breach in the IT industry underscoring critical vulnerabilities. Anthropic's response will demonstrate its commitment to security."
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 22:58:22 +0000",
+      "description": "Only Elon would do this before an IPO.",
+      "language": "en",
+      "summary": "SpaceX is collaborating with Cursor and has made a bid to acquire the company for $60 billion prior to its expected public offering.",
+      "points": [
+        "Elon Musk's SpaceX intends to buy out startup competitor Cursor before it goes public",
+        "Proposed purchase price is an unpreceddeed amount, signaling major shift in industry dynamics",
+        "Impact on market and innovation landscape remains uncertain"
+      ],
+      "insight": "SpaceX's acquisition of a startup could indicate its aggressive growth strategy but may raise concerns about competition within the IT/technology sector."
+    },
+    {
+      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 21:09:09 +0000",
+      "description": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
+      "language": "en",
+      "summary": "Tim Cook took over as CEO of Apple after Steve Jobs stepped down in 2011 and has since led the company to become a $4 trillion behemoth.",
+      "points": [
+        "Cook became CEO upon his predecessor's retirement, inheriting an established brand with loyal customers worldwide.",
+        "Under Cook's leadership, Apple expanded significantly into emerging markets and invested heavily in new services such as Apple Pay and AppleCare+.",
+        "Tim Cook has focused on environmental sustainability within the company and continued to foster growth by launching more products under his tenure."
+      ],
+      "insight": "Cook's stewardship of Apple illustrates how a strong focus on services, market expansion, especially in China, along with dedication to corporate responsibility have been crucial for the company's unprecedented growth during his time as CEO."
+    },
+    {
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 20:23:24 +0000",
+      "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "language": "en",
+      "summary": "John Ternus has been chosen to run one of the most powerful companies in the world - Apple.",
+      "points": [
+        "Apple's top job is described as coming with almost unrivaled power and money but also significant baggage.",
+        "The role involves leading a company that holds immense influence over technology markets, supply chains, global commerce rules and standards like copyright laws.",
+        "John Ternus replaces Tim Cook, who announced his retirement as CEO of Apple."
+      ],
+      "insight": "Ternus's appointment to run a company with such influence highlights the importance of leadership in shaping industry trends and standards within IT/technology sectors. His tenure will likely impact how companies navigate complex global operations, supply chains, and market competition."
+    },
+    {
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 21 Apr 2026 19:11:29 +0000",
+      "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "language": "en",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain",
+      "points": [
+        "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any dom...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
       "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
@@ -497,261 +752,6 @@
         "이미지 공개 사항 등은 구글 시스템에서의 큰 보안 위기점이다."
       ],
       "insight": "이엔이터스톨티아이 기사는 구글 맛쿠션 플랜트리에서의 보안 문제 부분을 중요하게 강조한다. 해커와 광고마사지 방식 아이디어로 인터넷 마사지를 통해 보안 문제점을 소유자가 공개한 민감 정보를 탈취하는 이유를 요구한다."
-    },
-    {
-      "title": "Who is John Ternus, the incoming Apple CEO?",
-      "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 01:02:04 +0000",
-      "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
-      "language": "en",
-      "summary": "John Ternus is set to become CEO at a pivotal time for Apple as Tim Cook takes on new responsibilities within Alphabet Inc., leaving the tech giant in need of strong leadership.",
-      "points": [
-        "Apple's current chief executive, Tim Cook, has announced he will focus more closely on philanthropy while taking a seat at Alphabet’s board as Google looks to consolidate power within its parent company. This shift leaves Apple with the challenge of finding new leadership.",
-        "John Ternus is set to assume this role starting September 1 and comes into office without much public fanfare, but his background in technology could provide fresh perspectives for Apple's future direction.",
-        "Tim Cook has a history at Apple as an outspoken figure on diversity within the company; it remains unclear how Ternus will approach this aspect of leadership."
-      ],
-      "insight": "The appointment of John Ternus signals potential shifts in strategic focus for Apple, especially considering Tim Cook's move to Alphabet. It is an opportunity for fresh perspectives but also presents a challenge if the new CEO deviates from prioritizing diversity."
-    },
-    {
-      "title": "스피어AX, 태국 ‘블루 지브라’와 전략적 파트너십 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=143283&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Apr 2026 09:12:00 +0900",
-      "description": "베트남 이어 태국까지, 동남아 B2G ICT 시장 확대 가속[보안뉴스 엄호식 기자] 비전 AI 전문기업 SPHERE AX(스피어AX)는 태국의 IT 보안 솔루션 기업 블루 지브라(Blue Zebra)와 태국 ICT 분야 공공사업(B2G) 공동 진출을 위한 전략적 파트너십을 체결했다고 밝혔다.이번 협력은 스피어AX가 베트남 시장 진출에 이어 태국 시장까지 본",
-      "language": "ko",
-      "summary": "스피어AX이나 B2G ICT 공동 진출을 위한 전략적 파트너십 체결",
-      "points": [
-        "-스피어AX는 블루 지브라의 IT 보안 솔루션을 중시한다.",
-        "-공동 진출을 위해 베트남과 태국 ICT 시장 사이에서의 광고",
-        "-스피어AX과 B2G ICT 공동 협상은 IT/기술 업체들이 전기화하여 더 있는 전략을 수정하고 개선한다."
-      ],
-      "insight": "스피어AX과 B2G ICT 공동 진출의 이유와 기대성인지를 간소화"
-    },
-    {
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 23:10:27 +0000",
-      "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "language": "en",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return",
-      "points": [
-        "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic",
-        "Anthropic has agreed to spend $100 billion on AWS in return",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
-      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 22:00:00 +0000",
-      "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-      "language": "en",
-      "summary": "Google has launched its artificial intelligence-powered Chrome extension named Gemini across seven new markets including Australia, Indonesia, the Philippines, Singapore, South Korea and Vietnam.",
-      "points": [
-        "Gemini features AI capabilities that enhance web browsing experiences by answering questions about articles read or providing contextual information during reading sessions.",
-        "Google is rolling out Gemini in desktop Chrome browsers for users residing in the listed countries, with iOS availability expected soon.",
-        "As of now, Japan has not been included among these regions where Google launched its new AI tool within web browsing platform"
-      ],
-      "insight": "The successful rollout and anticipated demand from Apple mark Gemini as a potential game-changer in the integration of artificial intelligence into everyday internet usage."
-    },
-    {
-      "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
-      "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 20:42:01 +0000",
-      "description": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with annual revenue that has more than quadrupled on his watch.",
-      "language": "en",
-      "summary": "Apple CEO Tim Cook will be stepping down and John Ternus is taking over the role.",
-      "points": [
-        "Tim Cook has led Apple to become a $4 trillion business with more than quadrupled annual revenue since inheriting it from Steve Jobs.",
-        "John Ternus, currently Vice President of Worldwide Sales and Procurement at Apple, will take over as the new CEO after Tim Cook's departure.",
-        "The transition has been expected for some time."
-      ],
-      "insight": "Tim Cook's legacy leaves a successful business in his wake but also indicates an era of significant change and leadership evolution within one of the world's most influential tech companies. John Ternus, known more as Apple's supply chain expert than its public face, may bring new strategies to bear on consumer demand management."
-    },
-    {
-      "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
-      "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 20:20:29 +0000",
-      "description": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
-      "language": "en",
-      "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos",
-      "points": [
-        "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth i...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "It’s not just one thing — it’s another thing",
-      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 19:37:07 +0000",
-      "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
-      "language": "en",
-      "summary": "The article discusses the increasing frequency and predictability with which AI-generated text uses certain phrases like 'It's not just this—it's that.' This pattern has become so widespread in synthetic writing, making it easier to identify as non-human.",
-      "points": [
-        "AI models are increasingly producing content with the common sentence construction ('It's not just this — it's that').",
-        "The repetition of these structures is causing AI text generation to be easily distinguishable from human writing.",
-        "This trend raises concerns about reliance on synthetic data for training machine learning models."
-      ],
-      "insight": "As identifiable patterns in AI-generated texts become more prevalent, there's a growing need for the industry to develop better ways of distinguishing human from non-human content and refine generative language modeling techniques. This could prevent issues with data quality used for training ML models."
-    },
-    {
-      "title": "North Korea hackers blamed for $290M crypto theft",
-      "link": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 17:04:05 +0000",
-      "description": "The hack against Kelp DAO is the largest crypto heist of the year so far.",
-      "language": "en",
-      "summary": "North Korean state-sponsored actors are implicated in a $290 million cryptocurrency heist targeting Kelp DAO.",
-      "points": [
-        "The hack against the crypto organization, Kelp DAO resulted in an unprecedented loss of $290 million worth of digital currency; North Korean state-sponsored actors are implicated. The attackers exploited a loophole to access and transfer assets from multiple accounts.",
-        "This heist is considered the largest crypto theft of this year, indicating increasing sophistication in hacking techniques specifically targeted at cryptocurrency organizations; state-sponsored hacks are becoming more commonplace. Increased surveillance and security measures within these entities need to be implemented.",
-        "The heist emphasizes vulnerabilities present even among well-established blockchain networks, suggesting a potential lack of due diligence in terms of network integrity and asset management; organizations must reassess their security protocols."
-      ],
-      "insight": "This significant crypto theft underscores that state actors pose an evolving threat to the industry. It highlights not only issues surrounding cryptocurrency's vulnerability but also points towards a trend of increasingly sophisticated hacks, necessitating advancements in cybersecurity measures and regulatory oversight within this sector."
-    },
-    {
-      "title": "Mastodon says its flagship server was hit by a DDoS attack",
-      "link": "https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 16:58:33 +0000",
-      "description": "The DDoS attack against Mastodon's flagship server comes less than a week after Bluesky was targeted with junk web traffic.",
-      "language": "en",
-      "summary": "Mastodon experienced a major Distributed Denial of Service (DDoS) attack against its flagship server shortly after the platform faced similar issues previously.",
-      "points": [
-        "The DDoS attack on Mastodon'ries servers targeted their main hub, potentially disrupting access for users and highlights vulnerabilities in decentralized social media platforms. The incident occurred less than a week following another major junk traffic event affecting Bluesky.",
-        "Members of the community have reported difficulties accessing various features on Mastodon during the attack.",
-        "The nature of DDoS attacks is to overwhelm systems with fake requests, causing legitimate users' access attempts to be blocked."
-      ],
-      "insight": "This incident underscores potential security challenges and scalability concerns for decentralized social media platforms like Mastodon. It highlights the need for effective DDoS mitigation strategies in order to ensure consistent user experience, as a significant attack can disrupt accessibility."
-    },
-    {
-      "title": "FAA orders investigation into Blue Origin’s New Glenn mishap",
-      "link": "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 16:11:41 +0000",
-      "description": "The New Glenn rocket will have to stay grounded while the company investigates what caused the apparent failure of its upper stage.",
-      "language": "en",
-      "summary": "FAA has ordered an investigation into Blue Origin's Launch Complex in Florida after a suspected mishap with their New Glenn rocket.",
-      "points": [
-        "The FAA mandates the investigation amid concerns over safety protocol adherence and technical malfunctions, which have led to speculations of potential failures at various stages including fueling systems (hot fire tests) or during engine shutdowns/restarts prior to liftoff.",
-        "Blue Origin will also look into any possible issues with the rocket's avionics system that could lead to misjudgment by flight computers, and if human error played a role in this incident.",
-        "A detailed examination of these aspects is essential before Blue Origin can resume launch attempts for New Glenn."
-      ],
-      "insight": "This development emphasizes the critical nature of rigorous pre-flight testing procedures to identify vulnerabilities and ensure reliability within rocket technology. The incident underscносиs the importance of comprehensive investigation, safety protocol adherence, and systematic risk mitigation in space exploration initiatives."
-    },
-    {
-      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000",
-      "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-      "language": "en",
-      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model",
-      "points": [
-        "NSA is said to be using Anthropic's restricted Mythos AI model",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
-      "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 15:59:26 +0000",
-      "description": "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier this year.",
-      "language": "en",
-      "summary": "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier this year",
-      "points": [
-        "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier t...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 15:30:19 +0000",
-      "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
-      "language": "en",
-      "summary": "The startup, co-founded by former U. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas",
-      "points": [
-        "The startup, co-founded by former U",
-        "Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 14:57:05 +0000",
-      "description": "Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.",
-      "language": "en",
-      "summary": "Deezer revealed a significant portion (44%) of daily songs on its platform is AI-generated music, but consumption remains low at just 1-3%, with the majority being fraudulent and subsequently demonetized.",
-      "points": [
-        "- Daily uploads to Deezer include roughly 44% AI-created tracks",
-        "- Streaming of these songs accounts for only about 1-3% consumption on the platform",
-        "- About 85% of AI music streams are flagged as fraudulent and not monetized"
-      ],
-      "insight": "The increasing prevalence of AI in creating music is being met with stringent measures by Deezer to protect its ecosystem, which has implications for the sustainability of revenue streams within streaming platforms."
-    },
-    {
-      "title": "App host Vercel says it was hacked and customer data stolen",
-      "link": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 14:45:56 +0000",
-      "description": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data.",
-      "language": "en",
-      "summary": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data",
-      "points": [
-        "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Rivian’s factory hit by tornado ahead of R2 launch",
-      "link": "https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 20 Apr 2026 13:47:51 +0000",
-      "description": "Nobody was hurt after an EF-1 tornado hit the part of the factory where the R2 SUV is supposed to be built.",
-      "language": "en",
-      "summary": "Rivian's new plant in Milledgeville was damaged by an EF-1 tornado before its anticipated launch of the R2 SUV.",
-      "points": [
-        "EF-1 tornado struck Rivian factory",
-        "No injuries reported at the site due to safety measures and warning system. ",
-        "Rivian production delayed as a result, impacting supply chain."
-      ],
-      "insight": "The incident highlights potential challenges for electric vehicle manufacturers in securing their operations against natural disasters while maintaining reliable delivery schedules to the market."
-    },
-    {
-      "title": "“사전예방 중심 보안 강화”... 24개 부처 CPO들 머리 맞대",
-      "link": "http://www.boannews.com/media/view.asp?idx=143282&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 20 Apr 2026 18:16:00 +0900",
-      "description": "‘개인정보 보호 정책협의회’ 개최범정부 개인정보 보호 강화 방안 모색[보안뉴스 강현주 기자] 24개 정부부처 개인정보보호책임자(CPO)들이 모여 범정부 사전 예방 중심 보안 강화 방안을 모색했다. 개인정보보호위원회(위원장 송경희)는 20일 정부서울청사에서 개인정보 보호 정책 관련 논의를 위해 관계부처가 참석한 ‘개인정보 보호 정책협의회’를 개최했다. 이번",
-      "language": "ko",
-      "summary": "‘개인정보 보호 정책협의회’ 개최범정부 개인정보 보호 강화 방안 모색[보안뉴스 강현주 기자] 24개 정부부처 개인정보보호책임자(CPO)들이 모여 범정부 사전 예방 중심 보안 강화 방안을 모색했다. 개인정보보호위원회(위원장 송경희)는 20일 정부서울청사에서 개인정보 보호 정책 관련 논의를 위해 관계부처가 참석한 ‘개인정보 보호 정책협의회’를 개최했다",
-      "points": [
-        "‘개인정보 보호 정책협의회’ 개최범정부 개인정보 보호 강화 방안 모색[보안뉴스 강현주 기자] 24개 정부부처 개인정보보호책임자(CPO)들이 모여 범정부 사전 예방 중심 보안 강화 ...",
-        "개인정보보호위원회(위원장 송경희)는 20일 정부서울청사에서 개인정보 보호 정책 관련 논의를 위해 관계부처가 참석한 ‘개인정보 보호 정책협의회’를 개최했다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
