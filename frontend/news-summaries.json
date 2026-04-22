@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-04-22T13:31:53.761Z",
+  "generatedAt": "2026-04-22T19:29:10.456Z",
   "articles": [
+    {
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 19:13:02 +0000",
+      "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+      "language": "en",
+      "summary": "Apple has fixed a security flaw that previously enabled police forces and investigators from different countries to access past deleted chats through iPhones via forensic tools.",
+      "points": [
+        "A bug in Apple's software allowed law enforcement to bypass the Signal app' end-to-end encryption mechanism, revealing users' previous conversations that were believed to be secure and irretrievably lost due to deletion within the last six weeks.",
+        "This exploit was possible through a loophole in iPhones when forensic tools accessed the device while locked or offline but still connected via USB-C port, allowing them to retrieve messages from memory dumps without triggering Signal's alert system that notifies users of deleted chats.",
+        "The bug had been known since 2019 by security researchers and only became publicly visible after the Apple developer community discovered it in April. The fix for this vulnerability, which could potentially expose sensitive user data to unauthorized third parties including law enforcement agencies without a warrant or legal justification, has been deployed."
+      ],
+      "insight": "The patching of such security loopholes by tech companies is crucial in protecting users' privacy rights and maintaining user trust. This incident also highlights the ongoing challenges that arise when balancing law enforcement interests with individual data protection, especially as encryption technology becomes more pervasive."
+    },
+    {
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "link": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 18:42:26 +0000",
+      "description": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+      "language": "en",
+      "summary": "The article profiles recent alumni from Startup Battlefield who have become successful entrepreneurs after appearing on the show and sharing their stories.",
+      "points": [
+        "Many of Startup Battlefield's former contestants went onto start, grow and scale their own tech companies successfully",
+        "The journey was not always smooth sailing. Some faced challenges that forced them to pivot or rethink business strategies",
+        "Despite these obstacles, the alumni network has proven a valuable resource for support, advice, mentorship and potential partnerships"
+      ],
+      "insight": "The Startup Battlefield showcase highlights how entrepreneurial experiences on stage can transition to real-world startup success. The challenges faced by contestants often force them to adapt business strategies in ways that contribute positively towards their growth."
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 18:39:27 +0000",
+      "description": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "language": "en",
+      "summary": "Google Cloud has released two advanced AI chips known as TPUs to compete with similar products from companies like Nvidia.",
+      "points": [
+        "The newest versions of Google'in cloud-based TPUs offer better performance while also being more cost-effective than earlier models.",
+        "Google Cloud continues its partnership and use of existing solutions, including those offered by competitors such as Nvidia, for current services despite the introduction of their own chips.",
+        "These advancements in Google's TPU technology indicate a strategic move to bolster cloud-based AI capabilities without immediate plans to phase out reliance on external hardware providers."
+      ],
+      "insight": "Google Cloud is developing its competencies and infrastructure with the goal of long-term independence from third-party chip manufacturers like Nvidia, reflecting a broader industry trend towards homegrown AI acceleration technologies in cloud services. However, there's no immediate indication that Google will replace current dependencies."
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 17:30:00 +0000",
+      "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "language": "en",
+      "summary": "Google has integrated its AI technology into Google Chrome for corporate clients, enabling employees to perform routine web-based tasks automatically through 'auto browse.'",
+      "points": [
+        "Gemini's integration in enterprise Chrome enables automated research and data entry.",
+        "Auto Browse uses context from conversations or calendar events to generate task lists on the fly.",
+        "The tool was designed with feedback loops for continuous improvement based on user interactions."
+      ],
+      "insight": "This development could signify a shift towards more AI-assisted daily operations in businesses, potentially increasing efficiency and productivity while reducing manual workload."
+    },
+    {
+      "title": "Threads is adding Live Chats to boost real-time engagement",
+      "link": "https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 17:00:00 +0000",
+      "description": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats.",
+      "language": "en",
+      "summary": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats",
+      "points": [
+        "Users can send messages, photos, videos, links, and emoji reactions in Live Chats",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 16:58:27 +0000",
+      "description": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "language": "en",
+      "summary": "Google has introduced the Gemini Enterprise Agent Platform, designed with a focus on enterprises that require agent-building capabilities tailored to their specific needs.",
+      "points": [
+        "- The Gemini Enterprise Agent (GEM) platform is specifically targeted at IT and technical users in an organization.",
+        "- GEM automates the process of building, deploying, configuring, updating, monitoring, securing, troubleshooting enterprise agents to simplify management for businesses across all industries.",
+        "- The goal with its new tool is to ease the burden on IT professionals and enable them to focus more on innovation rather than routine tasks."
+      ],
+      "insight": "The introduction of Gemini Enterprise Agent Platform by Google represents a significant shift in enterprise agent management, potentially reducing manual labor while increasing efficiency across various industries. This could encourage other tech companies to develop similar tools tailored for the modern workforce and businesses."
+    },
+    {
+      "title": "AI Overviews are coming to your Gmail at work",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 16:46:10 +0000",
+      "description": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+      "language": "en",
+      "summary": "Google is rolling out 'AI Overviews' in Gmail for work to provide users with quick insights into the content of several related emails at once.",
+      "points": [
+        "The AI will summarize multiple related emails using natural language processing (NLP).",
+        "This feature aims to enhance productivity by saving time on sifting through lengthy threads. To enable this, users need to turn it ON in settings under 'Mail.' for G Suite accounts.",
+        "Google is continuously improving the AI capabilities of its services."
+      ],
+      "insight": "AI Overviews could significantly boost efficiency within businesses by reducing time spent on reading and replying to lengthy email threads, but it will require users' consent for workplace use due to privacy concerns. This feature highlights Google's ambition in integrating advanced AI directly into the fabric of everyday professional tools like Gmail."
+    },
+    {
+      "title": "Rivian R2 production has started despite tornado damage to factory",
+      "link": "https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 15:47:53 +0000",
+      "description": "The company's all-important mass-market EV is just about ready to start heading to customers.",
+      "language": "en",
+      "summary": "Rivian has begun production of its R2 electric vehicle model despite damage caused by a tornado at the factory.",
+      "points": [
+        "Production of Rivian'sen mass-market EV begins post-tornado",
+        "Tornado damages plant, halts early operations to start producing vehicles for customers soon after repairs are made",
+        "Company focuses on customer deliveries despite factory destruction"
+      ],
+      "insight": "Rivian's decision shows its dedication towards fulfilling demand by quickly addressing production issues following unexpected disaster, potentially strengthening brand reliability and resilience in the EV market."
+    },
+    {
+      "title": "Cosmetics giant Rituals confirms data breach of customer membership records",
+      "link": "https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 15:38:37 +0000",
+      "description": "The cosmetics retailer, which counts 41 million customers in its membership data, declined to provide an accurate total number of customers affected.",
+      "language": "en",
+      "summary": "Cosmetics company Rituals has confirmed a breach affecting customer member records.",
+      "points": [
+        "Rituals confirms data breach with unspecified number of affected customers",
+        "41 million in membership but no specific impacted figures given",
+        "Fraud alert issued, credit freeze recommendation for members"
+      ],
+      "insight": "This incident highlights the increasing cybersecurity challenges within non-tech sectors and calls attention to companies' need to prioritize data protection measures."
+    },
+    {
+      "title": "Cathie Wood’s ARK makes its first lead investment in startup Lucra — and it isn’t AI",
+      "link": "https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 15:00:00 +0000",
+      "description": "Lucra offers corporate loyalty programs reimagined as interactive esports. But winning ARK as a lead wasn't easy.",
+      "language": "en",
+      "summary": "Cathie Wood’s Ark Investment has made its first investment in Lucra, an upstart that redefines corporate loyalty programs through interactive esports.",
+      "points": [
+        "Lucra is not focused on artificial intelligence but rather transforming loyalty programs into engaging experiences with a focus on gaming elements such as leaderboards and challenges.",
+        "Winning an investment from Ark, which usually invests in AI-related opportunities, shows the firm's willingness to diversify beyond its typical tech area.",
+        "Lucra’s CEO previously led a company called LoyaltyOne that faced financial difficulties and was acquired by JPMorgan Chase & Co."
+      ],
+      "insight": "This investment indicates Ark Investment Management's growing interest in non-AI technology sectors, potentially leading to broader industry implications for corporate loyalty programs through the integration of gaming elements. It also demonstrates an openness within tech firms like ARK to explore novel market segments beyond their traditional focus areas."
+    },
+    {
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 14:22:10 +0000",
+      "description": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      "language": "en",
+      "summary": "Infosys has partnered with OpenAI to integrate artificial intelligence tools into more of its business processes.",
+      "points": [
+        "The integration will initially focus on software engineering, legacy modernization, and DevOps",
+        "OpenAI' endorsement aims to accelerate the deployment of AI systems within Infosys client base",
+        "Potential for significant impacts in efficiency and innovation across various sectors"
+      ],
+      "insight": "The collaboration between major IT player Infosys and cutting-edge AI research firm OpenAI represents a strategic move to accelerate the incorporation of artificial intelligence into business solutions, potentially setting new standards for technology adoption."
+    },
+    {
+      "title": "UK government says 100 countries have spyware that can hack people’s phones",
+      "link": "https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 14:06:47 +0000",
+      "description": "The U.K.'s cybersecurity chief warned that U.K. businesses and critical infrastructure are underestimating the threat from spyware attacks and other cyberthreats, with more governments having access to the powerful surveillance technology than ever.",
+      "language": "en",
+      "summary": "The UK's National Cyber Security Centre has warned about underestimating spyware threats and increased global availability of such tools.",
+      "points": [
+        "U.K.'s cybersecurity chief highlighted the growing threat from advanced surveillance technology, warning that it is widespread beyond just a few countries known for developing these capabilities.",
+        "The National Cyber Security Centre warned UK businesses and critical infrastructure about underestimating spyware threats to their systems.",
+        "There are more than 100 countries reportedly having access to surveillance technology capable of hacking phones, indicating a global increase in the availability."
+      ],
+      "insight": "The increasing sophistication and ubiquity of spyware highlights that no industry or sector is immune from cyber threats. As such technologies become more accessible globally, organizations must prioritize updating their security measures to protect against these advanced forms of intrusion."
+    },
+    {
+      "title": "Esther and Anne Wojcicki back new healthcare accelerator, fund",
+      "link": "https://techcrunch.com/2026/04/22/esther-and-anne-wojcicki-back-new-healthcare-accelerator-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 14:00:00 +0000",
+      "description": "Mary Minno launches early-stage startup accelerator program, Treehub, and an early-stage firm, AI Health Fund, aimed at backing startups working at the intersection of healthcare and AI.",
+      "language": "en",
+      "summary": "Esther and Anne Wojcicki have founded a new accelerator program called Treehub to support early-stage startup companies that blend artificial intelligence with the health sector.",
+      "points": [
+        "The newly launched Treehub is an IT/technology focused investment venture by Esther and Anne Wojcicki.",
+        "Treehub seeks startups working on merging AI technology within the field of medicine, highlighting a growing interest in healthcare-focused technological innovation.",
+        "With this initiative, Esther and Anne are positioned to play an instrumental role as key investors by providing funding for promising tech startups at early stages."
+      ],
+      "insight": "This news indicates a trend of increasing interest in the convergence of healthcare technology with artificial intelligence. As such, it highlights potential future directions and opportunities within this IT/technology intersection industry."
+    },
+    {
+      "title": "X makes it more expensive to post links through its API",
+      "link": "https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 13:42:51 +0000",
+      "description": "Posting links on X through its API is now 1,900% more costly.",
+      "language": "en",
+      "summary": "X has significantly increased the cost of posting links using their API from $0.02 to $0 end-user.",
+      "points": [
+        "Links posted on X through its API now cost users up to 95 cents per link",
+        "The fee increase is due to a recent restructuring by the company aiming at monetizing their platform more effectively",
+        "This move could potentially discourage casual sharing and impact user engagement"
+      ],
+      "insight": "The price hike in posting links via X's API can alter how users interact with content on the platform, possibly affecting overall activity levels."
+    },
     {
       "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
       "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
@@ -25,6 +235,21 @@
       "summary": "If you’re in the top 25% of users who visit a certain place, you’ll see your ranking on the Snap Map and can choose to share it with others",
       "points": [
         "If you’re in the top 25% of users who visit a certain place, you’ll see your ranking on the Snap Map...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Amazon Music partners with Bandsintown for concert listings",
+      "link": "https://techcrunch.com/2026/04/22/amazon-music-partners-with-bandsintowns-for-concert-listings/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 13:00:00 +0000",
+      "description": "Users will be able to see live events of an artist on their Amazon Music profile.",
+      "language": "en",
+      "summary": "Users will be able to see live events of an artist on their Amazon Music profile",
+      "points": [
+        "Users will be able to see live events of an artist on their Amazon Music profile",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
@@ -89,6 +314,36 @@
         "The collaboration between these companies highlights the importance of robust computational resources when training large language models."
       ],
       "insight": "Large technology firms continue to prioritize high-performance computing infrastructure, indicating its critical role in advancing AI research and applications. This partnership is likely a strategic move by TML to stay competitive in the field of generative models."
+    },
+    {
+      "title": "“속도보다 방향, 통제보다 신뢰”...OWASP 세미나서 엿본 보안 조직 성장기",
+      "link": "http://www.boannews.com/media/view.asp?idx=143311&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 20:21:00 +0900",
+      "description": "강정철 넥스트증권 엔지니어, 레거시 환경 탈피하고 효율성 극대화한 실무 노하우 공유김동현 前 우아한형제들 CISO, 25년 경력 바탕으로 보안 조직 정체성과 신뢰 구축 강조기술 도입과 정책 수립 모두 결국 ‘문화’로 귀결된다는 두 전문가의 공통된 혜안[보안뉴스 조재호 기자] “아무리 훌륭한 보안 솔루션을 도입하더라도 임직원이 공감하는 ‘보안 문화’가 뿌리",
+      "language": "ko",
+      "summary": "강정철 넥스트증권 엔지니어, 레거시 환경 탈피하고 효율성 극대화한 실무 노하우 공유김동현 前 우아한형제들 CISO, 25년 경력 바탕으로 보안 조직 정체성과 신뢰 구축 강조기술 도입과 정책 수립 모두 결국 ‘문화’로 귀결된다는 두 전문가의 공통된 혜안[보안뉴스 조재호 기자] “아무리 훌륭한 보안 솔루션을 도입하더라도 임직원이 공감하는 ‘보안 문화’가 뿌리",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "KISIA, 서울창조경제혁신센터와 보안 스타트업 육성 나서",
+      "link": "http://www.boannews.com/media/view.asp?idx=143312&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Apr 2026 17:57:00 +0900",
+      "description": "창업 생태계 활성화 및 육성 협력체계 구축[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 서울창조경제혁신센터(대표 이영근)와 정보보호 분야 창업 생태계 활성화 및 보안 스타트업의 경쟁력 강화에 나선다고 22일 밝혔다. 양 측은 이를 위해 21일 업무협약(MOU)을 체결했다. 이번 협약은 KISIA가 보유한 정보보호 산업 분야에서의",
+      "language": "ko",
+      "summary": "창업 생태계 활성화 및 육성 협력체계 구축[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 서울창조경제혁신센터(대표 이영근)와 정보보호 분야 창업 생태계 활성화 및 보안 스타트업의 경쟁력 강화에 나선다고 22일 밝혔다. 양 측은 이를 위해 21일 업무협약(MOU)을 체결했다...",
+      "points": [
+        "창업 생태계 활성화 및 육성 협력체계 구축[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 서울창조경제혁신센터(대표 이영근)와 정보보호 분야 창업 생태계 활...",
+        "양 측은 이를 위해 21일 업무협약(MOU)을 체결했다",
+        "이번 협약은 KISIA가 보유한 정보보호 산업 분야에서의"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     },
     {
       "title": "이란 정보국의 ‘다중 인격’ 해킹 전술? 독립 해커인 척하며 세계 안보 농락해",
@@ -494,263 +749,6 @@
         "The article also mentions that under Cook’s leadership, several key acquisitions have been made such as acquiring Beats Electronics and shipping 50 million iPads"
       ],
       "insight": "Tim Cook has effectively led Apple in a changing tech landscape by focusing on sustainability while maintaining innovation and growth."
-    },
-    {
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 17:11:01 +0000",
-      "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
-      "language": "en",
-      "summary": "Following an FTC settlement with OkCupid due to a past data request for AI training purposes and subsequent privacy concerns raised by the public, Clarifai has decided to delete millions of photos provided by OkCupid.",
-      "points": [
-        "Clarifai asked OkCupid in 2decade ago under FTC settlement terms",
-        "3 million OkCupid photos used for training AI algorithms were deleted due to privacy concerns",
-        "The incident highlights the sensitivity of personal data and potential misuse without explicit consent"
-      ],
-      "insight": "This news brings attention to ethical considerations in using publicly available images for technology development, particularly concerning user consent and the stewardship of sensitive data."
-    },
-    {
-      "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
-      "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 16:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "A former member of the Pinterest team developed a new inbox system called 'Extra' that integrates well into their workflow without disrupting productivity. It offers an improved user interface and additional organization features.",
-      "points": [
-        "Former Pinterest employee, Sam Yagan, founded Extra while working on his startup HQ earlier this year",
-        "The 'Extended Inbox' by Extra is designed to be used alongside the existing email system without affecting productivity levels of users.",
-        "Extra features a redesigned interface and provides additional organization options such as tags, labels, folders for projects or topics."
-      ],
-      "insight": "The release of 'Extra' by Sam Yagan presents an alternative way to manage email effectively without the need to replace existing systems. It shows that customizable inbox solutions can enhance productivity and could lead to new standards within personalized tech ecosystems."
-    },
-    {
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 16:00:00 +0000",
-      "description": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-      "language": "en",
-      "summary": "AI Dungeon maker Latitude has introduced Voyage, an AI-native platform designed for creating customizable role-playing games (RPGs).",
-      "points": [
-        "Latitude' endorsement of user creativity in RPG development through its new AI-driven system.",
-        "The launch event featuring industry experts and Latitude representatives, highlighted by a live demonstration using the Voyage platform with over four hours recorded play time.",
-        "Provision for community engagement where gamers can share their creations via links to popular gaming platforms."
-      ],
-      "insight": "This development indicates that AI technology is increasingly being leveraged within entertainment sectors, and it will likely catalyze a new wave of user-generated content in the RPG marketplace. The platform's focus on community interaction could significantly enhance collaborative game creation efforts."
-    },
-    {
-      "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
-      "link": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 15:56:53 +0000",
-      "description": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
-      "language": "en",
-      "summary": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 15:24:29 +0000",
-      "description": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
-      "language": "en",
-      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app",
-      "points": [
-        "Bond wants you to get off the couch and get back into the real world, its creator says",
-        "The new platform's AI system is designed to motivate users to do things away from the app",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "YouTube expands its AI likeness detection technology to celebrities",
-      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 15:02:06 +0000",
-      "description": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-      "language": "en",
-      "summary": "YouTube has updated its artificial intelligence technology that can detect when celebrity images are used inappropriately on the platform.",
-      "points": [
-        "The AI likeness detection tool is expanding to include celebrities and their representatives, enabling them to find and remove deepfakes of themselves more effectively.",
-        "This new system has been developed by Google Brain in collaboration with YouTube's Content ID team to help protect the identity rights of popular figures on social media platforms.",
-        "The technology is designed to detect subtle inconsistenries within a video, making it difficult for deepfakes that use advanced AI techniques like facial reenactment and manipulation."
-      ],
-      "insight": "This development signifies an increased focus by the tech industry on developing tools to counter misinformation. As such technologies become more refined and accessible, they will play a significant role in protecting individuals' privacy rights online."
-    },
-    {
-      "title": "Amazon taps Sweden’s Einride for its electric big rigs",
-      "link": "https://techcrunch.com/2026/04/21/amazon-taps-swedens-einride-for-its-electric-big-rigs/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 14:09:43 +0000",
-      "description": "The agreement comes just as Einride is finalizing a merger with blank-check company Legato Merger Corp. to go public.",
-      "language": "en",
-      "summary": "The agreement comes just as Einride is finalizing a merger with blank-check company Legato Merger Corp. to go public",
-      "points": [
-        "The agreement comes just as Einride is finalizing a merger with blank-check company Legato Merger Co...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Revolut eyes valuation of up to $200B in eventual IPO",
-      "link": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 13:41:44 +0000",
-      "description": "Fintech giant Revolut, which secured a full banking license in the U.K. in March after years of waiting, was most recently valued at $75 billion in a secondary share sale.",
-      "language": "en",
-      "summary": "Revolut has been rapidly growing as an international mobile-first banking company that prioritizes user experience and digital services over traditional financial institutions' offerings.",
-      "points": [
-        "International fintech giant Revolut secures U.K. full bank license, eyeing potential IPO worth up to $200 billion.",
-        "Prior years of waiting for regulatory approval have seen the company valued at over $75 billion in secondary share sales and partnerships with major banks globally.",
-        "Revolut's strategy includes significant investment into product development, focusing on user experience (UX) design to differentiate itself from traditional competitors."
-      ],
-      "insight": "The successful acquisition of a full bank license by Revolut in the U.K., combined with its strategic focus on digital services and innovative features that prioritize customer convenience, suggests it is well-positioned for an IPO valuation above $200 billion as industry observers look to traditional financial institutions' vulnerabilities."
-    },
-    {
-      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
-      "link": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "description": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires on April 30, the government's spy powers will not automatically lapse.",
-      "language": "en",
-      "summary": "U.S. Congress faces a split over protecting Americans from warrantless surveillance as Section 702 of the FISA Act approaches its expiration date on April 30th.",
-      "points": [
-        "Lawmakers are divided on whether to extend or reform current spy laws after years of surveillance abuses and scandals across multiple administrations.",
-        "If Section 702, also known as the FISA Act's main expense-of-living bill for intelligence agencies operating abroad, is not renewed by Congress, some lawmakers fear that these powers will lapse when it expires on April 30th.",
-        "Others argue for more significant reforms to protect Americans from unwarranted surveillance."
-      ],
-      "insight": "The debate around Section 702 of the FISA Act highlights a broader concern within the technology and intelligence sectors regarding oversight, privacy rights, and legal implications in an increasingly digital world. The outcome could significantly impact future U.S.-based surveillance practices."
-    },
-    {
-      "title": "What’s the key to better vegan cheese? Microbreweries, one startup says",
-      "link": "https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "description": "AuX Labs says it has found a better way to make vegan cheese that tastes and feels like the real thing — and costs the same.",
-      "language": "en",
-      "summary": "AuX Labs says it has found a better way to make vegan cheese that tastes and feels like the real thing — and costs the same",
-      "points": [
-        "AuX Labs says it has found a better way to make vegan cheese that tastes and feels like the real thi...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Cash App is targeting a new kind of customer: 6-12 year olds",
-      "link": "https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "description": "Tech companies are constantly on the hunt for new customers, and Cash App, the fintech company owned by Jack Dorsey’s Block, believes it has found a promising new demographic: children. The company, which already offers financial services to teens, said this week that it is expanding its youth-focused services in an effort to build a […]",
-      "language": "en",
-      "summary": "Cash App plans to target children aged between 6 and 12 years old by expanding its youth-focused financial services.",
-      "points": [
-        "Jack Dorsey's Cash App, a fintech company owned by Block, is seeking new customers among young children ages six through twelve for their digital payment platform.",
-        "The expansion comes as part of the startup community aiming to engage kids in technology and financial literacy from an early age.",
-        "Critics raise concerns over data privacy and security issues with involving minors in online transactions."
-      ],
-      "insight": "This initiative by Cash App might set a precedent for incorporating younger demographics into the digital payments ecosystem, raising discussions around financial literacy among youths as well as data privacy implications."
-    },
-    {
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "description": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-      "language": "en",
-      "summary": "GRAI's AI is designed for user interaction in creating mash-ups and DJ mixes rather than composing new music pieces.",
-      "points": [
-        "AI startup GRAI focuses on remix culture with its technology that allows users to create customized tracks from existing songs",
-        "GRAI'seligibility for use, not infringement of copyright laws; the company does this by using soundbanks and public domain music as source material.",
-        "The AI is user-friendly with a graphical interface that allows anyone to create mashups without needing technical musical skills."
-      ],
-      "insight": "GRAI's approach indicates an increasing desire for personalization in the digital age, highlighting how technology can enhance social aspects of music creation and consumption while respecting copyright law. This suggests a shift from pure automation towards augmented creativity within the industry."
-    },
-    {
-      "title": "Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation",
-      "link": "https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 11:00:00 +0000",
-      "description": "Yelp said that users can ask questions about a restaurant and place an order or book a table in one conversation",
-      "language": "en",
-      "summary": "The updated Yelp AI assistant now allows for asking about restaurants directly within the app to find recommendations based on user preferences and reviews.",
-      "points": [
-        "Yelp's enhanced conversational capabilities enable users to inquire about restaurant details, order food or beverdependently",
-        "The AI leverages Yelp's vast database of customer feedback, business information, and user history for personalized suggestions.",
-        "This streamlined process aims to improve the overall digital dining experience."
-      ],
-      "insight": "Yelp is pushing towards creating more natural interaction between users and their platform by integrating AI that understands spoken language. This can set a new standard for how technology interfaces with personal services, potentially prompting other sectors to adopt similar conversational tools in an attempt to enhance customer experience."
-    },
-    {
-      "title": "Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards",
-      "link": "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 10:00:00 +0000",
-      "description": "By building reactors in shipyards, Blue Energy says it will tame nuclear power's cost problems, giving it access to cheaper financing.",
-      "language": "en",
-      "summary": "Blue Energy has raised $380 million to construct grid-scale nuclear reactors in shipyards with the goal of reducing costs and facilitating easier access to funding.",
-      "points": [
-        "The project aims to build low-cost, small modular nuclear plants that can be mass produced like cars or ships",
-        "$380 million has been raised for this innovative approach",
-        "Cheaper financing could result from building reactors in shipyards"
-      ],
-      "insight": {
-        "English": "This news signifies a potential shift towards more cost-effective and accessible nuclear power, which may lead to wider adoption if the project proves successful."
-      }
-    },
-    {
-      "title": "임문영 부위원장 “AI 시대, 지식인이 리더십 가져야 미래있어”... 제152차 CISO 포럼",
-      "link": "http://www.boannews.com/media/view.asp?idx=143297&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Apr 2026 18:39:00 +0900",
-      "description": "“AI 통해 새로운 시야 제시하는 게 AI 시대 지식 리더십”[보안뉴스 강현주 기자] “대한민국은 제국주의 없이도 지식으로 산업화와 민주화를 모두 일군 유일한 나라입니다. AI 시대 지식인 여러분이 리더십을 갖는 게 가능성과 미래를 엽니다.”임문영 국가인공지능전략위원회 부위원장은 21일 서울 중구 롯데호텔에서 한국CISO협의회가 개최한 ‘제152차 CISO",
-      "language": "ko",
-      "summary": "임문영 부위원장이 AI 시대로서 IT/기술의 미래를 포는 것과 리더십에 대한 관심사정을 강하게 강의한다.",
-      "points": [
-        "AI가 세미나에서 이해할 수 0없는 영향력입니다.",
-        "AI기반으로 리더십을 게다로운 일군 개요가 시작될 것입니다.",
-        "미래 전용이지만 인종적 커플러니언에 대한 욕주도 존재합니다."
-      ],
-      "insight": "IT/기술 업계는 AI의 영향을 인식하여 미래 리더십에 대응할 수 dearly exist. Yet, the South Korean CISO warned of nationalism and xenophobia in discussions about artificial intelligence."
-    },
-    {
-      "title": "아이씨티케이-케이티엔에프, PUF·PQC 기반 서버 보안 ‘공동 전선’ 구축",
-      "link": "http://www.boannews.com/media/view.asp?idx=143293&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Apr 2026 17:28:00 +0900",
-      "description": "반도체 고유 특성으로 암호키 생성하는 독보적 하드웨어 신뢰점(RoT) 기술 접목USB 정합 테스트 시작으로 메인보드 내장 및 하드웨어 보안 모듈(HSM) 연계 추진[보안뉴스 조재호 기자] 아이씨티케이(ICTK)는 케이티엔에프(KTNF)와 서버 보안 구축 및 상용화를 위한 기술교류 협약(MOU)을 체결했다고 21일 밝혔다. 이번 협약은 AI와 데이터센터 인프",
-      "language": "ko",
-      "summary": "아이씨티케이(ICTK)와 서비스보안 시스템의 개발과 시스템화에 대한 국내/해외 IT 기술 조공을 위해 MOU 정의",
-      "points": [
-        "아이씨티케이(ICTK)와 KTNF이 모두 균형잡힌 IT/보안 기술에 종사하고, 공동 전선을 구축한다.",
-        "공동 전선은 AI와 데이터센터에서의 인피사실 상용화를 위해 테스트할 계정이나 모듈을 광고로울 수 있다.",
-        "한국 IT 기술 산업의 발전에 큰 영향을 미치게 하며, 시장에서 중요한 IT 보안 이주를 조정하고 유대인 IT 기술 분야에 비전적으로 강화시킬 계획을 제시한다."
-      ],
-      "insight": "이 기사는 아이씨티케이(ICTK)와 KTNF이 공동 전선을 구축하는 IT/보안 시스템 개발과 시스템화에 대한 국내/해외 IT 기술 조공에 대해 말하고 있다. 이 모듈은 AI와 DATA CENTER에서의 인피사실을 광고로울 수 있다는 것과 국내 IT 기술 산업의 발전에 도움이 되고, 유대인 IT 기술 분야에 큰 중요성을 부여할 수 0ne다."
-    },
-    {
-      "title": "앤트로픽의 방관 속 기하급수적으로 번지는 ‘MCP’ 공급망 보안 위협",
-      "link": "http://www.boannews.com/media/view.asp?idx=143295&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Apr 2026 17:14:00 +0900",
-      "description": "모델 컨텍스트 프로토콜(MCP), AI 에이전트와 도구를 연결하는 업계 표준설계 단계부터 내재된 결함... MCP 사용하는 모든 AI 개발 환경에 심각한 문제[보안뉴스 김형근 기자] 앤트로픽이 개발한 ‘모델 컨텍스트 프로토콜’(MCP)의 근본적인 설계 결함으로 인해, 세계 수백만명의 사용자가 원격코드실행(RCE) 위험에 노출됐다. MCP는 현재 AI 에이전",
-      "language": "ko",
-      "summary": "MCP(모델 컨텍스트 프로토콜)이 AI 개발 환경에서의 근본적인 문제으로 번지를 위한 보안위대향",
-      "points": [
-        "- MCP은 AI 개발 도구를 연결하여 모델 컨텍스트를 통합할 수 0r 있다.",
-        "- 세계 사용자가 RCE 위험을 범주형 방식으로 인해 MCP이 일부 개밤했다.",
-        "- AI 연구자와 개인 공급자가 MCP에 대한 보안의 중요성을 인지해야 하며, 이에 대한 방향은 미리 고민이어야 함"
-      ],
-      "insight": "MCP이 AI 개발 업계에서의 보안위대향으로 인한 번지는 MCP의 판단이 중요하다. 사용자의 보호, 도구의 공정성을 고려해서 MCP에 대한 변경이 필요합니다."
     }
   ]
 }
