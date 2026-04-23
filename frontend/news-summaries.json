@@ -1,6 +1,79 @@
 {
-  "generatedAt": "2026-04-23T08:07:17.327Z",
+  "generatedAt": "2026-04-23T13:31:39.746Z",
   "articles": [
+    {
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Apr 2026 13:00:00 +0000",
+      "description": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+      "language": "en",
+      "summary": "With the discovery of millions more exoplanets than previously thought possible by NASA's 'Kepler', astronomers are increasingly using GPU computing to sift through data and identify potential new worlds.",
+      "points": [
+        "Astronomers utilize artificial intelligence, particularly neural networks optimized on powerful graphical processing units (GPUs), for finding exoplanets in space-based telescope datasets like Kepler' enduring treasure hunt.",
+        "The exponential growth of the GPU market is driven by their pivotal role not only in professional applications but also in consumer computing, which has become essential to AI research and development.\n",
+        "AI techniques applied for discovering exoplanets have shown promising results; however, they are computationally expensive, thus placing additional demand on GPU resources within the industry."
+      ],
+      "insight": "The increased reliance of astronomical data analysis (especially in finding new worlds) on AI and consequently on GPU computing could drive future technological developments to handle more complex computations with greater speed, potentially benefiting various sectors beyond astrophysics."
+    },
+    {
+      "title": "Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say",
+      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Apr 2026 12:01:00 +0000",
+      "description": "The Citizen Lab found two separate surveillance vendors abusing the backbone of cellular networks to spy on several victims across the world.",
+      "language": "en",
+      "summary": "Researchers discovered that two surveillance companies have misused access privileges within telecommunication systems to monitor individuals' phone locations globally.",
+      "points": [
+        "Surveillance vendors abusing backbone of cellular networks",
+        "Spying on several victims across the world",
+        "Abusive use of network access for tracking"
+      ],
+      "insight": "The revelation highlights potential vulnerabilities and misuse within surveillance systems, raising concerns over privacy protection in IT industries."
+    },
+    {
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "description": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+      "language": "en",
+      "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more",
+      "points": [
+        "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar fe...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
+      "link": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Apr 2026 11:00:00 +0000",
+      "description": "Topics can range from \"School,\" \"Entertainment,\" and \"Lifestyle\" to \"Travel,\" \"Writing,\" and \"Health and Wellbeing,\" among others, Meta says.",
+      "language": "en",
+      "summary": "Meta is implementing a new feature that allows parents access to the topics their children discuss with Meta AI.",
+      "points": [
+        "Meta's parental control system will now include monitoring of child-AI conversations across various categories like school, entertainment, and health."
+      ],
+      "insight": "This development highlights increased transparency in technology companies regarding the interaction between AI tools and children while also raising potential privacy concerns that could impact industry standards for parental control features."
+    },
+    {
+      "title": "[미토스 충격] 유동수 의원 “AI 안전법 입법 지원”... PwC “거버넌스가 기업 생존 열쇠”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143328&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 23 Apr 2026 19:21:00 +0900",
+      "description": "PwC컨설팅·유동수 의원실 공동 세미나서 미토스 파급력과 국가 안보 붕괴 위협 정밀 진단인공지능 서비스 80% 책임지는 클라우드 보안 신뢰도 확보가 국가 안보의 핵심[보안뉴스 조재호 기자] 베일에 싸인 최신 AI 모델 ‘클로드 미토스’(Claude Mythos)가 보여준 보안 능력이 국가 사이버안보의 새로운 과제로 부상했다.",
+      "language": "ko",
+      "summary": "PwC컨설팅·유동수 의원실 공동 세미나서 미토스 파급력과 국가 안보 붕괴 위협 정밀 진단인공지능 서비스 80% 책임지는 클라우드 보안 신뢰도 확보가 국가 안보의 핵심[보안뉴스 조재호 기자] 베일에 싸인 최신 AI 모델 ‘클로드 미토스’(Claude Mythos)가 보여준 보안 능력이 국가 사이버안보의 새로운 과제로 부상했다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "“부가세 신고철에 접속 먹통”... 더존비즈온 ‘위하고’ 서비스 장애",
       "link": "http://www.boannews.com/media/view.asp?idx=143329&kind=&sub_kind=",
@@ -672,81 +745,6 @@
         "이번 협약은 KISIA가 보유한 정보보호 산업 분야에서의"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이란 정보국의 ‘다중 인격’ 해킹 전술? 독립 해커인 척하며 세계 안보 농락해",
-      "link": "http://www.boannews.com/media/view.asp?idx=143307&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Apr 2026 16:26:00 +0900",
-      "description": "이란 정보국, 3개 해커 조직으로 위장해 장기간 사이버 공작 수행14개월 잠복 후 데이터 탈취·파괴하고 심리전까지 병행동일 인프라로 ‘보이드 맨티코어’ 실체 드러나... 국가 배후 해킹 경고[보안뉴스 김형근 기자] 이란 정보국(MOIS)이 그동안 ‘홈랜드 저스티스’, ‘카르마’, ‘한다라’라는 세 개의 독립된 해커 집단으로 위장해 치밀한 사이버 공작을 펼쳐",
-      "language": "ko",
-      "summary": "이란 정보국이 독립해커들과의 혼오버를 시도하여 국가 보호 전용 플러스에서 접근하여 공격을 발생",
-      "points": [
-        "이란 정보국과 모든 다음 해커들로부터 테이블당 데이터를 수강하고 겹쳐나",
-        "여기서의 공격이 보호 전용 플러스에서 시작했다는 사실을 인식하려고 모든 해커들이 노부로 대체함",
-        "이런 공격은 해커들이 보호매장에서의 전용 플러스가 어떤 환경을 만들어내는지, 그리고 해커들의 이렇게 특수한 방식에 대비해서 국가보호를 강조할 수 있다"
-      ],
-      "insight": "이런 공격은 MOIS의 코로나 보호 전용 플러스의 성공한 시대에서 느낌을 끄덽고, 해커들이 이절으로 사라지게 취약해소"
-    },
-    {
-      "title": "넥스원소프트, 표준 전자서명 기술로 공공 마이데이터 연계 고도화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143310&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Apr 2026 15:00:00 +0900",
-      "description": "서민금융진흥원 플랫폼 회원가입 및 정보 확인 기능에 안전한 인증 환경 구축법적 효력 갖춘 인증서 기반 체계로의 원활한 전환 돕는 가이드라인 제시[보안뉴스 조재호 기자] 넥스원소프트는 서민금융진흥원에 공공 마이데이터 활용 연계를 위한 통합인증 서비스 ‘넥스비싸인’(NexBe Sign)을 제공한다고 22일 밝혔다. 회사는 이 프로젝트를 통해 공공 마이데이터 분",
-      "language": "ko",
-      "summary": "넥스원소프트는 공공 마이데이터 연계를 위한 통합인증서 '넥스비싸인'을 제공하여, 기술 시스템을 이용하는 것에서 효과적인 인증 서비스를 도ㄟ로 한국어로 요약",
-      "points": [
-        "- '넥스비싸인'이란 공공 마이데이터 사용자가 정보 신분을 확인하고 회원가입에 대한 인증 서비스를 만들어준다.",
-        "- 이 프로젝트는 기술 시스템을 통해 공공 마이데이터에 액세스하고, 사용자가 정보를 신분직에 위치시키면서 인증을 행한다.",
-        "- 넥스원소프트은 IT/기술 업계의 연계 및 인증 도구를 개방하고 있는 신뢰한 인증 서비스를 제공하여, 공공 마이데이터에 직접으로 연계할 수 있도록 행보다는 온라인으로 관리한다."
-      ],
-      "insight": "이 기사에서 넥스원소프트가 제공하는 '넥스비싸인'은 IT/기술 업체에서 공규화되어 있지만, 국내익칭이 크며, 공공 마이데이터 사용자들과의 질의와 인증을 연계하는 데에 도웃주를 보장함"
-    },
-    {
-      "title": "[미토스 충격] ‘철저 보안’ 미공개 미토스, 디스코드 채널 사용자에게 뚫렸다?",
-      "link": "http://www.boannews.com/media/view.asp?idx=143309&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Apr 2026 13:51:00 +0900",
-      "description": "’프로젝트 글래스윙’ 구성원에게만 제한적으로 공개된 미토스에 비인가 접근 발생협력사 직원 권한 등 이용해 접근 권한 획득[보안뉴스 한세희 기자] 사이버 보안 우려로 소수 조직만 접근이 허용된 앤트로픽 새 인공지능(AI) 모델 ‘클로드 미토스’ 프리뷰 버전에 권한 없는 사용자가 무단 접속한 사실이 드러났고 블룸버그가 21일(현지시간) 보도했다. 미토스는 사이",
-      "language": "ko",
-      "summary": "미토스 '클로드 미토스' AI 모델에는 사용자 권한이 없으며, 그래픽 서비스인 YouTube 구성원에게만 제한적으로 공개된 미토스에 접근하여 무단 접속하는 사건이 드러나 있음",
-      "points": [
-        "AI '클로드 미토스' AI 모델에는 사용자 권한이 없고 YouTube 구성원만 제한적으로 공개된 미토스에 접속하여 무단 접속",
-        "소수 조직이 '미토스'의 권한을 위해 사용",
-        "블룸버그가 YouTube에서 이러한 무단 접속을 보도했다"
-      ],
-      "insight": "이러한 무단 접속은 AI 모델의 사용자 권한 제약에서 나온 현상으로, 클로드 미토스의 공개된 정보와 권한이 모호하게 포인트를 제시한다."
-    },
-    {
-      "title": "“검색 최상단 떴다고 믿지 마세요”... 안랩, 클로드 사칭 피싱 사이트 경고",
-      "link": "http://www.boannews.com/media/view.asp?idx=143306&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Apr 2026 13:32:00 +0900",
-      "description": "구글 검색 광고 교묘하게 악용해 가짜 데스크톱 다운로드 페이지로 접속 유인명령어 복사 및 붙여넣기 유도하는 ‘클릭픽스(ClickFix)’ 기법으로 정보 탈취[보안뉴스 조재호 기자] 안랩이 생성형 AI 서비스 ‘클로드’를 사칭한 피싱 사이트로 정보 탈취형 악성코드를 유포한 사례를 확인하고, 사용자 주의를 당부했다.발견된 피싱 사이트는 ‘클로드를 데크스톱에서",
-      "language": "ko",
-      "summary": "구글 검색 광고 교묘하게 악용해 가짜 데스크톱 다운로드 페이지로 접속 유인명령어 복사 및 붙여넣기 유도하는 ‘클릭픽스(ClickFix)’ 기법으로 정보 탈취[보안뉴스 조재호 기자] 안랩이 생성형 AI 서비스 ‘클로드’를 사칭한 피싱 사이트로 정보 탈취형 악성코드를 유포한 사례를 확인하고, 사용자 주의를 당부했다. 발견된 피싱 사이트는 ‘클로드를 데크스톱에서",
-      "points": [
-        "발견된 피싱 사이트는 ‘클로드를 데크스톱에서",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "벨로크-퓨리오사AI, 국산 NPU로 ‘지능형 CCTV’ 시장 정조준... MOU 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=143308&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Apr 2026 13:27:00 +0900",
-      "description": "“실시간 분석” 및 “전력 절감” 극대화... GPU 대비 압도적 운영 효율 확보 산업 안전 및 지자체 스마트시티 보안 시장 타겟 기술 고도화 추진과기정통부 ‘공공 AX(AI 전환) 7대 선도과제’ 연계... 지능형 CCTV 확산 주도[보안뉴스 원병철 기자] 통합 보안 솔루션 기업 벨로크(bellock)는 국내 대표 AI 반도체 기업 퓨리오사AI(Furio",
-      "language": "ko",
-      "summary": "벨로크(bellock)과 국산 NPU 기술기계는 '지능형 CCTV' 시장을 정조하고 있으며 GPU 대비에 기술된 '공공 AX(AI 전환)' 계약을 국산 NPU로 신규 진행.",
-      "points": [
-        "- 벨로크(bellock)과 국산 NPU 기술기계가 '지능형 CCTV' 시장의 정호ряд화를 위해 GPU 대비를 줄이고 있음.",
-        "- GPU 대비에 강한 솔루션을 제공하여 산업 안전성과 보안 시장에 확률적으로 기술이 진화.",
-        "- '공공 AX(AI 전환)' 계정은 충당한다는 것을 강조하고 이를 기업들에게 미래의 위기로 보여준다."
-      ],
-      "insight": "이러한 확산과정은 공공 인화와 기술기업이 지능 시장에서의 경쟁으로 인한 우려를 최소화하고 기술 인버스트로움을 확보한다."
     }
   ]
 }
