@@ -1,6 +1,140 @@
 {
-  "generatedAt": "2026-04-22T19:29:10.456Z",
+  "generatedAt": "2026-04-23T02:41:02.593Z",
   "articles": [
+    {
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 23:56:52 +0000",
+      "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+      "language": "en",
+      "summary": "Tesla is planning to spend $25 billion in capital expenditures for 2026, significantly increasing its spending plan and leading to a negative free cash flow.",
+      "points": [
+        "Tesla's planned capital expenditure (capex) for 2026 is set at $25 billion, which is three times the historical average.",
+        "The increase in Tesla's spending plan has resulted in a negative free cash flow projection for the remainder of the year."
+      ],
+      "insight": "Tesla's increased capital expenditure highlights its commitment to expansion and infrastructure development, but it also poses challenges as the company may need more resources than expected from their revenue streams in order maintain liquidity."
+    },
+    {
+      "title": "Google updates Workspace to make AI your new office intern",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000",
+      "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "language": "en",
+      "summary": "Google is enhancing the functionality of Google Workspace with a range of automated tasks enabled by an updated AI called Workspace Intelligence.",
+      "points": [
+        "Workspace Intelligence powers new features and efficiency in Google's cloud services for productivity software (Gmail, Docs, Meet).",
+        "The system facilitates document creation without requiring explicit instructions from users using prompt engineering.",
+        "AI-driven capabilities within Workspace are expected to revolutionize how work is conducted digitally."
+      ],
+      "insight": "With the introduction of AI as a virtual office intern, Google has set an industry trend towards more automated and intelligent productivity tools that could redefine digital collaboration in numerous organizations beyond its own services."
+    },
+    {
+      "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+      "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 22:39:58 +0000",
+      "description": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+      "language": "en",
+      "summary": "Elon Musk acknowledges that millions of Tesla owners may need hardware upgrades for Full Self-Driving capabilities instead of just software updates as previously claimed.",
+      "points": [
+        "Tesla's claims about 'Full Self-Driving' were based on the belief it only required a software update to realize full autonomy, which now seems less likely after Elon Musk' endorsement for hardware upgrades instead.",
+        "The revelation by Tesla might lead owners of older models that lack such hardware capability towards seeking additional costly updates or replacements if they desire autonomous driving features.",
+        "This shift in strategy could potentially open the door to legal scrutiny due to misleading advertising regarding vehicle capabilities."
+      ],
+      "insight": "Tesla's pivot from an 'All-in-one update for full autonomy' claim suggests a recalibration of expectations around electric vehicles and may affect consumer trust, while also possibly increasing the risk of legal challenges due to prior misinformation about vehicle capabilities."
+    },
+    {
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 22:25:53 +0000",
+      "description": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+      "language": "en",
+      "summary": "The article discusses the introduction of X's newly launched AI-powered custom timelines that aim to take over roles traditionally filled by Communities and Grok feeds.",
+      "points": [
+        "X has introduced a new artificial intelligence (AI) system called 'Grok', which creates personalized content feed curated for each user based on their interests, preferences, and behavioral patterns.",
+        "'Grok' is expected to significantly improve the relevance of timelines by using machine learning algorithms tailored towards understanding users better than any human community ever could. In addition to this, X has integrated new advertisement slots within these AI-powered feeds which are predicted to be more engaging and targeted.",
+        "The introduction of Grok will replace Communities on platform X as the primary source for content discovery."
+      ],
+      "insight": "This news suggests a significant shift towards personalized user experiences in technology platforms. The AI-powered systems like 'Grok' are set to become an integral part of online interactions, potentially leading to more engaging and targeted advertisements that can directly impact revenue streams."
+    },
+    {
+      "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
+      "link": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 21:37:34 +0000",
+      "description": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
+      "language": "en",
+      "summary": "Ryan Roslansky has resigned as LinkedIn CEO after six years with his COO taking immediate succession.",
+      "points": [
+        "Ryan Roslansky will step down from the role of CEO at LinkedIn.",
+        "Dan Shapero, current COO, is set to take over immediately.",
+        "The transition occurs without interruption in leadership."
+      ],
+      "insight": "This change signifies a potential shift towards more aggressive business strategies under the new leadership for maintaining LinkedIn's market position and growth."
+    },
+    {
+      "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+      "link": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 20:57:21 +0000",
+      "description": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
+      "language": "en",
+      "summary": "Tesla's first-quarter revenue increased due to boosted EV sales and the launch of Full Self Driving subscriptions.",
+      "points": [
+        "First quarter (Q1) revenues at Tesla rose compared to Q1 2curent year",
+        "Sales rebounded following a drop in previous quarters driven by global semiconductor shortages and supply chain issues that also impacted production volumes.",
+        "Full Self Driving subscriptions launched, although their revenue contribution is not yet fully clear."
+      ],
+      "insight": "Tesla's investments into robotics, AI, and semiconductor manufacturing could reshape the automotive industry by integrating these technologies directly into vehicles. Full Self Driving subscriptions present a new revenue stream but also raise questions about insurance liability."
+    },
+    {
+      "title": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
+      "link": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 20:09:45 +0000",
+      "description": "Observable Space and Quantum Opus teamed up to capture data beamed back from space.",
+      "language": "en",
+      "summary": "NASA's Artemis II moon mission successfully demonstrated the feasibility of scaling space-to-Earth laser communications.",
+      "points": [
+        "- NASA conducted successful tests during the Artemis II moon mission using scalable space-to-Earth laser communication technology developed by Observable Space and Quantum Opus.",
+        "- The test was aimed to verify that data could be transmitted between a lunar lander, orbiting satellite relay (GEO), low Earth orbit satellites network for link dissemination or uplink request backbone of NASA's own Deep Space Network on the Moon and then downlink directly from deep space communications terminal located 384,000 km away at the moon to a receiver here on earth.",
+        "- The technology will allow future crews aboard lunar landers for extended stays as well as support an increase in science data return rates."
+      ],
+      "insight": "This successful demonstration of laser communications between space and Earth is expected to revolutionize the transmission of large amounts of scientific data back from various missions, improving mission capabilities significantly by enabling high-speed links for extended lunar exploration periods or future Mars expeditions."
+    },
+    {
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 19:51:51 +0000",
+      "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+      "language": "en",
+      "summary": "SpaceX made an unexpectedly high-value offer for Crew Dragon's parent company by proposing not just funding but also acquiring them on the way to a larger $60 billion deal.",
+      "points": [
+        "The Space Launch System (SLS) was initially set as part of a substantial new venture, which is now under reconsideration due to an alternative offer from Elon Musk's company, SpaceX.",
+        "SpaceX proposed $10 billion in 'collaboration fees,' plus the purchase at 85% market valuation for his firm G.R. American Interests (GRI), significantly outbidding Crew Dragon parent Blue Origin and ULA.",
+        "The deal highlights SpaceX's aggressive approach to consolidating its position in space exploration, potentially accelerating the development of human infrastructure on Mars."
+      ],
+      "insight": "SpaceX'nergizing aerospace by leveraging technology and capital not just for competition but also as a strategic move towards colonization objectives. This approach has implications beyond mere fundraising, indicating an industry shift toward ambitious long-term projects."
+    },
+    {
+      "title": "France confirms data breach at government agency that manages citizens’ IDs",
+      "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 19:34:41 +0000",
+      "description": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
+      "language": "en",
+      "summary": "The French government's agency responsible for IDs has confirmed a data breach where unautthenticated parties accessed personal citizen information.",
+      "points": [
+        "Hackers stole citizens' ID-related personal information from the French government agency managing national IDs, passports and other documents",
+        "The exact number of individuals affected has not been disclosed by the agency as they continue investigations.",
+        "There is no indication that any security tokens or biometrics were compromised in this data breach."
+      ],
+      "insight": "This incident emphasizes growing concerns around global digital identity management and calls for enhanced cybersecurity measures within government agencies to protect sensitive personal information of citizens."
+    },
     {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
@@ -60,6 +194,21 @@
         "The tool was designed with feedback loops for continuous improvement based on user interactions."
       ],
       "insight": "This development could signify a shift towards more AI-assisted daily operations in businesses, potentially increasing efficiency and productivity while reducing manual workload."
+    },
+    {
+      "title": "Fusion power may not be sci-fi. Just ask the people who sunk $5B into it.",
+      "link": "https://techcrunch.com/video/fusion-power-may-not-be-sci-fi-just-ask-the-people-who-sunk-5b-into-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Apr 2026 17:07:00 +0000",
+      "description": "Fusion energy has been “20 years away” for decades, but has the science finally caught up? Private investment in fusion companies surged from $10 billion to $15 billion in just months, and the money is coming from places you wouldn’t expect. Watch as Rebecca Bellan and guest host Tim De Chant sit down with Rachel Slaybaugh, general partner at DCVC on this episode of TechCrunch’s Equity podcast. The trio breaks […]",
+      "language": "en",
+      "summary": "Private investment in fusion energy companies has risen significantly to $15 billion within months as experts discuss the viability of bringing this '20 years away' technology closer.",
+      "points": [
+        "Significant rise in private funding for fusion startups",
+        "Experts debate on feasibility and timelines",
+        "Fusion energy considered a long-term prospect with high hopes"
+      ],
+      "insight": "This surge indicates renewed interest and optimism within the industry, despite previous skepticism about its near-future viability."
     },
     {
       "title": "Threads is adding Live Chats to boost real-time engagement",
@@ -599,156 +748,6 @@
         "Employees can control their mouse movements with subtle button presses which will be utilized for various tasks without directly touching buttons"
       ],
       "insight": "This initiative signifies a shift towards more sophisticated and immersive AI experiences within the tech industry, potentially impacting human-computer interaction norms."
-    },
-    {
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 23:26:45 +0000",
-      "description": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-      "language": "en",
-      "summary": "A report suggests an unautban group accessed Anthropic's advanced cyber tool Mythos without permission. The company denies any system disruptions but is probing the claims.",
-      "points": [
-        "- Unauthorized party allegedly obtained access to Anthropi'c Mythos",
-        "- Company maintains its systems unaffected despite investigations",
-        "- Claims raise concerns about cybersecurity and data privacy"
-      ],
-      "insight": "The incident, if true, would be a significant breach in the IT industry underscoring critical vulnerabilities. Anthropic's response will demonstrate its commitment to security."
-    },
-    {
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 22:58:22 +0000",
-      "description": "Only Elon would do this before an IPO.",
-      "language": "en",
-      "summary": "SpaceX is collaborating with Cursor and has made a bid to acquire the company for $60 billion prior to its expected public offering.",
-      "points": [
-        "Elon Musk's SpaceX intends to buy out startup competitor Cursor before it goes public",
-        "Proposed purchase price is an unpreceddeed amount, signaling major shift in industry dynamics",
-        "Impact on market and innovation landscape remains uncertain"
-      ],
-      "insight": "SpaceX's acquisition of a startup could indicate its aggressive growth strategy but may raise concerns about competition within the IT/technology sector."
-    },
-    {
-      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
-      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 21:09:09 +0000",
-      "description": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
-      "language": "en",
-      "summary": "Tim Cook took over as CEO of Apple after Steve Jobs stepped down in 2011 and has since led the company to become a $4 trillion behemoth.",
-      "points": [
-        "Cook became CEO upon his predecessor's retirement, inheriting an established brand with loyal customers worldwide.",
-        "Under Cook's leadership, Apple expanded significantly into emerging markets and invested heavily in new services such as Apple Pay and AppleCare+.",
-        "Tim Cook has focused on environmental sustainability within the company and continued to foster growth by launching more products under his tenure."
-      ],
-      "insight": "Cook's stewardship of Apple illustrates how a strong focus on services, market expansion, especially in China, along with dedication to corporate responsibility have been crucial for the company's unprecedented growth during his time as CEO."
-    },
-    {
-      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-      "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 20:23:24 +0000",
-      "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
-      "language": "en",
-      "summary": "John Ternus has been chosen to run one of the most powerful companies in the world - Apple.",
-      "points": [
-        "Apple's top job is described as coming with almost unrivaled power and money but also significant baggage.",
-        "The role involves leading a company that holds immense influence over technology markets, supply chains, global commerce rules and standards like copyright laws.",
-        "John Ternus replaces Tim Cook, who announced his retirement as CEO of Apple."
-      ],
-      "insight": "Ternus's appointment to run a company with such influence highlights the importance of leadership in shaping industry trends and standards within IT/technology sectors. His tenure will likely impact how companies navigate complex global operations, supply chains, and market competition."
-    },
-    {
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 19:11:29 +0000",
-      "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-      "language": "en",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain",
-      "points": [
-        "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any dom...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
-      "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 19:09:12 +0000",
-      "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations.",
-      "language": "en",
-      "summary": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations",
-      "points": [
-        "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, man...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
-      "link": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 19:02:35 +0000",
-      "description": "When 60,000 attendees descend on Tokyo Big Sight April 27–29, the headline numbers are hard to ignore: 750 startup exhibitors, 151 sessions, city leaders from 49 countries. But the stat that tells you what kind of event this actually is? It's 10,000 facilitated business meetings — brokered, booked, and tracked before most attendees even land.",
-      "language": "en",
-      "summary": "SusHi Tech Tokyo is a unique event offering over 10,000 facilitated business meetings among its vast array of exhibitors and sessions.",
-      "points": [
-        "- The core activity at SusHi Tech Tokyo involves thousands of brokered business engagements rather than conventional conference talks or workshops.",
-        "- Attendees can interact with startup entrepreneurs, city leaders from different countries, highlighting international networking opportunities.",
-        "- Sophisticated tracking and booking systems are in place for facilitated meetings to ensure efficient organization of interactions within the event."
-      ],
-      "insight": "The emphasis on brokered business engagements at SusHi Tech Tokyo signifies a shift towards more practical, relationship-driven networking events that go beyond typical conference formats. This could influence future industry conferences and large gatherings to adopt similar facilitation models."
-    },
-    {
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 19:00:00 +0000",
-      "description": "ChatGPT Images 2.0, the newest image generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-      "language": "en",
-      "summary": "OpenAI's ChatGPT Images 2.0 demonstrates significant advancements in image generation and text interpretation.",
-      "points": [
-        "ChatGPT Images 2.0 is an advanced AI model from OpenAI capable of generating images with nuanced understanding and contextual relevance to the accompanying prompts or conversations.",
-        "The new iteration shows substantial improvement in image generation tasks compared to its predecessors, indicating rapid growth within machine learning algorithms used for generative purposes.",
-        "ChatGPT Images 2.0 has been integrated into various platforms and systems, expanding the application scope of AI-generated images beyond simple text outputs."
-      ],
-      "insight": "The development of ChatGPT Images 2.0 highlights a growing trend in combining visual content with artificial intelligence to create more engaging user experiences across different industries and platforms."
-    },
-    {
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 18:51:52 +0000",
-      "description": "The AI industry's mudslinging continues.",
-      "language": "en",
-      "summary": "Sam Altman criticizes Anthropic for using 'fear-based marketing' and a cyber model in their pitch to investors.",
-      "points": [
-        "Anthropic uses fear as a tool in its AI development narrative, presenting itself with an existential threat rather than a solution",
-        "The company employs 'Mythos', or myth-making strategies within their pitch to induce doubt and concern about the future among investors",
-        "Sam Altman has publicly spoken against this marketing approach at TC Sessions: ai with Anthropic CEO Greg Brower in April 2discussions"
-      ],
-      "insight": "This controversy underscores a deeper debate within the AI industry about ethical considerations, transparency of methods and intentions behind technology development."
-    },
-    {
-      "title": "A look at Tim Cook’s 15-year legacy as CEO of Apple",
-      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Apr 2026 17:40:20 +0000",
-      "description": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
-      "language": "en",
-      "summary": "Tim Cook has had an extraordinary impact since becoming CEO of Apple by driving the company's remarkable growth in value and market share.",
-      "points": [
-        "Cook became CEO after Steve Jobs stepped down from his role at Apple",
-        "Under Tim Cook, Apple grew to a $4 trillion valuation without increasing its carbon footprint per device produced since the company's founding",
-        "The article also mentions that under Cook’s leadership, several key acquisitions have been made such as acquiring Beats Electronics and shipping 50 million iPads"
-      ],
-      "insight": "Tim Cook has effectively led Apple in a changing tech landscape by focusing on sustainability while maintaining innovation and growth."
     }
   ]
 }
