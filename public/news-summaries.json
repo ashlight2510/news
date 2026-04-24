@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-04-24T02:41:51.314Z",
+  "generatedAt": "2026-04-24T08:22:22.937Z",
   "articles": [
+    {
+      "title": "리눅스 패키지 관리 계층 ‘패키지킷’에서 취약점 발견... 12년간 아무도 몰라",
+      "link": "http://www.boannews.com/media/view.asp?idx=143346&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 16:50:00 +0900",
+      "description": "비밀번호 없이 루트 권한 얻을 수 있어... 일반 사용자가 시스템 패키지 설치하고 삭제 가능[보안뉴스 김형근 기자] 도이치 텔레콤 레드팀이 리눅스의 패키지 관리 계층인 ‘패키지킷’(PackageKit)에서 비밀번호 없이 루트 권한을 얻을 수 있는 취약점을 발견했다. ‘팩투더루트(Pack2TheRoot)’로 명명된 이 결함은 ‘CVE-2026-41651’로",
+      "language": "ko",
+      "summary": "리눅스의 패키지 관리 시스템에서 비밀번호가 없이 루트 권한을 얻을 수 있는 취약점과 이를 해결하고자 한국어로 요약",
+      "points": [
+        "리눅스의 PackageKit 모드에서 비밀번호가 필요없는 경우 다수의 사용자에게 권한을 얻을 수 ",
+        "해안케어(Hardening)등을 통한 이슈를 해결하기 위해서는 패키지 관리 시스템에 설정되어야 하며",
+        "비밀번호 제출이 필요한 경우 모든 사용자의 권한을 최소화로 합니다"
+      ],
+      "insight": "기술 업체에서는 보안이 중요하며, 프라이상(Privilege)문제를 개선하기 위해 IT 관리자는 PackageKit을 모드로 확인해야만합니다. 그러나 여전히 비밀번호가 필요한 경우에는 사용자들에게 최소한의 권한을 준수할 필요가 있습니다."
+    },
+    {
+      "title": "엔키화이트햇-KB손해보험, 사이버보험 활성화 업무협약",
+      "link": "http://www.boannews.com/media/view.asp?idx=143344&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 15:50:00 +0900",
+      "description": "보험 가입 전 고객 대상 모의해킹·위험 진단 제공 [보안뉴스 강현주 기자] 오펜시브 보안 전문 기업 엔키화이트햇(대표 이성권)은 KB손해보험(대표 구본욱)과 ‘사이버보험 활성화 및 기업 보안 리스크 관리 강화’를 위한 업무협약을 체결했다고 24일 밝혔다. 최근 기업을 겨냥한 랜섬웨어 및 해킹 등 사이버 공격이 고도화되며 피해 규모가 커지고 있다. 이에 사",
+      "language": "ko",
+      "summary": "이성권과 구본욱이 업무협약을 한국어로 요약",
+      "points": [
+        "- 이성권은 KB손해보험과 '사이버보험 활성화 및 기업 보안 리스크 관리 강화'을 강조한 업무협약을 체결했다.",
+        "- 이상한 데이터가 활용되어 사회적 공개와 보호를 위해 강제로 신속하여 수정과 검사를 강조한다.",
+        "- 마스킹 방식과 약손한 보안 이론에 대한 논의가 발생한다."
+      ],
+      "insight": "이성권과 구본욱이 IT/기술 업계 사이에서 공개와 보호를 위한 업무협약을 체결한다. KB손해보험과 최근의 더 공식적인 IT 보안 기능을 강조한다."
+    },
+    {
+      "title": "[신간] 꿈꾸던 창업, 무엇을 어떻게 준비?... ‘창업! 이해하고 따라하기’ 출간",
+      "link": "http://www.boannews.com/media/view.asp?idx=143343&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 15:39:00 +0900",
+      "description": "현장 경험 담긴 서바이벌 가이드아이템보다 태도... 실행의 언어로 쓴 창업 지침서[보안뉴스 강현주 기자] 온실 속 화초 같던 직장인이 없이 야생으로 나가려는 수많은 예비 창업자들을 위한 책이 나왔다. 현장 경험을 바탕으로 창업의 본질과 실행 전략을 담은 신간 ‘창업! 이해하고 따라하기’가 출간됐다. 저자 최형순은 대기업 직장생활 10년으로 시작해서 20여년",
+      "language": "ko",
+      "summary": "이 기사는 작사자가 살아남은 창업을 어떻게 준비할지에 대해서 출석한다. 최형순이 '창업! 이해하고 따라하기' 책에서 직장인의 근원지, 실무적인 예시를 제공한다.",
+      "points": [
+        "현장 경험을 기반으로 작사자는 '창업! 이해하고 따라하기' 책에서 대기업 근원지의 중요성과 어떤 실무적인 예시를 보여준다.",
+        "이 기사는 작사자가 진행할 수 s으로써 창업을 준비하며, '창업! 이해하고 따라하기' 책의 전체 통짝으로는 근원지에 대한 이해를 강조한다.",
+        "현장 경험을 설명하며, '창업! 이해하고 따라하기'와 같은 책의 시리얼과 인터뷰를 출히는 창업자들을 나타낸다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서의 온실 직장인들이 와중생 감기를 덜치하고자 한다. 대기업 촌양을 통해 '창업! 이해하고 따라하기'의 책과의 관련성을 강조하며, 현장 경험을 바탕으로 자바스터볼루션 공학자들에게도 직극해준다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] ‘미토스 AI’의 파괴력, 현실인가 과장인가",
+      "link": "http://www.boannews.com/media/view.asp?idx=143339&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:51:00 +0900",
+      "description": "텍스트 생성 넘어선 시뮬레이션 기능으로 해킹 대중화 초래 우려혁신과 파괴의 기로에 선 AI 시대, 안전망 확보가 선결 과제[보안뉴스= 배종찬 인사이트케이 연구소장] ‘미토스’(Mythos)를 둘러싼 사이버 안보 위기감이 단순 마케팅을 넘어선 현실로 드러나고 있다. 스스로 제로데이 취약점을 찾고 공격을 시뮬레이션하는 자율형 에이전트의 등장은 글로벌 기술 시장",
+      "language": "ko",
+      "summary": "텍스트 생성 넘어선 시뮬레이션 기능으로 해킹 대중화 초래 우려혁신과 파괴의 기로에 선 AI 시대, 안전망 확보가 선결 과제[보안뉴스= 배종찬 인사이트케이 연구소장] ‘미토스’(Mythos)를 둘러싼 사이버 안보 위기감이 단순 마케팅을 넘어선 현실로 드러나고 있다. 스스로 제로데이 취약점을 찾고 공격을 시뮬레이션하는 자율형 에이전트의 등장은 글로벌 기술 시장",
+      "points": [
+        "텍스트 생성 넘어선 시뮬레이션 기능으로 해킹 대중화 초래 우려혁신과 파괴의 기로에 선 AI 시대, 안전망 확보가 선결 과제[보안뉴스= 배종찬 인사이트케이 연구소장] ‘미토스’(My...",
+        "스스로 제로데이 취약점을 찾고 공격을 시뮬레이션하는 자율형 에이전트의 등장은 글로벌 기술 시장",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "AI 중심 통합 보안 전략 제시... ‘포티넷 액셀러레이트 2026’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143341&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:50:00 +0900",
+      "description": "28일 그랜드 인터컨티넨탈 서울 파르나스[보안뉴스 강현주 기자] 포티넷이 AI 중심의 통합 보안 플랫폼 전략을 제시하고 국내 고객 사례를 공유한다. 글로벌 네트워크 보안 융합 솔루션 기업 포티넷코리아(북아시아 총괄 대표 체리 펑)는 28일 그랜드 인터컨티넨탈 서울 파르나스에서 파트너 및 고객 대상 컨퍼런스인 ‘포티넷 액셀러레이트 2026’을 개최한다고 24",
+      "language": "ko",
+      "summary": "포티넷이 AI 중심의 보안 통합 전략을 제시하여, 국내 고객 사례를 공유한다.",
+      "points": [
+        "포티넷이 AI 중앙의 보안 전략을 제시합니다.",
+        "국내 고객 사용 경로와 연결에서의 보안 문제를 해결할 수 0r 지도한다.",
+        "포트룩을 위한 개인화된 보안 서비스를 제공함으로서, 고객의 해시가 복잡하지 않게 되고, 보안을 위한 많은 수준으로 프라이다."
+      ],
+      "insight": "이러한 AI 중점 보안 전략은 국내 고객에게 보안을 개선시키며, 기술적인 필수요소로 이어지는 우리나라의 인터넷 보호 전략 중심으로 계속해서 개선되고 있다."
+    },
+    {
+      "title": "KISA, 차세대 보안리더 육성 가속... BoB 15기·화이트햇 스쿨 4기 동시 모집",
+      "link": "http://www.boannews.com/media/view.asp?idx=143334&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:43:00 +0900",
+      "description": "과기정통부와 KISA 주관으로 단계별 차세대 보안리더 발굴 프로젝트 가동4월30일부터 공식 홈페이지 통해 접수 시작... 6월19일 최종 합격자 발표[보안뉴스 조재호 기자] 과학기술정보통신부와 한국인터넷진흥원(KISA)이 국가 사이버 안보를 책임질 핵심 인재 발굴에 나섰다. 차세대 보안리더 양성 프로그램(BoB: Best of the Best) 15기와 화",
+      "language": "ko",
+      "summary": "국가 보안 기대를 이끌어내며, KISA와 정보통신부는 차세대 보안리더 기능을 수요일마다 포인트를 뽑아 발굴 프로젝트 가동한다.",
+      "points": [
+        "국가 보안 기대를 이끌어내였습니다",
+        "KISA와 정보통신부는 차세대 보안리더 기능을 수요일마다 포인트를 뽑아 발굴 프로젝트 가동한다.",
+        "이러한 발굴 모집은 기대를 만족시키기 위해 6월19일 최종 합격자 발표예정되어 있다."
+      ],
+      "insight": "이 모집은 국가보안에 대한 중요성과 IT/기술 업계의 미래를 확신하는 전반적인 원칙을 보여준다."
+    },
+    {
+      "title": "씨게이트, 데이터 증가 대응 소비자용 스토리지 3종 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143336&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:39:00 +0900",
+      "description": "소비자·전문가용 스토리지 3종 공개... 백업·게임·AI 작업 환경 대응개인 데이터 증가와 장기 저장 수요 반영 위해 고용량·확장성·안정성 강화원터치·파이어쿠다 X 볼트·라씨 8빅 프로 5로 사용 환경별 라인업 구성[보안뉴스 강초희 기자] 씨게이트 테크놀로지(Seagate Technology Holdings plc, 이하 씨게이트)가 씨게이트, 파이어쿠다(",
+      "language": "ko",
+      "summary": "씨게이스는 이제보다 수요가 확대되어 시장에서의 데이터 소비기를 위해 3종 출시.",
+      "points": [
+        "서울시 마사지 시장에서 개인화된 다양한 핵심 제공 기준잡는 소비자용 스토리지 제공.",
+        "모든 출시는 현재 게임/AI 및 백업 화면에서 사용 가능한 마사지를 위해 개인화되어 준비되었음.",
+        "이상적으로 개인화된 3종은 시약, 장계, 환경에서의 대중 소비기를 최대한 준수하게 가독이지를 보장함."
+      ],
+      "insight": "이 스토리지는 IT/기술 업계의 더나선 구성과 안정성에 큰 영향을 미치게 합니다."
+    },
+    {
+      "title": "아이서티-아주대병원, 의무기록 사본 ‘PDF 다운로드’ 서비스 오픈",
+      "link": "http://www.boannews.com/media/view.asp?idx=143338&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:34:00 +0900",
+      "description": "프린터 없어도 모바일로 즉시 발급되며 이메일 제출로 시간·비용 절감타임스탬프 기술 적용해 보안 강화, 의료영상 24시간 모바일 신청 가능온라인 신청 후 현장 결제 추가... 고령 환자 접근성 고려의료영상 실시간 다운로드 서비스 단계적 확대 추진[보안뉴스 강초희 기자] 의료데이터 비대면 발급 수요가 늘면서 병원 의무기록 발급 서비스도 편의성과 보안 측면에서",
+      "language": "ko",
+      "summary": "아이주대병원에서 피그받아진 PDF 오픈 서비스는 시간·비용 절감과 보안 강화를 제공하고 있으며, 고려한 현장 결제 등으로 확대 추진이 중지되어질 셈.",
+      "points": [
+        "아이주대병원은 PDF 오픈 서비스를 소유, 의무기록을 보안적으로 다운로드할 수 s가 있는 서비스를 제공.",
+        "이 서비스는 모바일로 받아들여질 염두, 시간·비용 절감을 확보합니다.",
+        "현장에서의 결제가 자유로울 수 있는 추가 기능도 제공합니다."
+      ],
+      "insight": "이 기사는 보안적인 PDF 오픈 서비스에 대한 IT/기술 관련 의미를 설명하고, PDF 오픈 서비스가 IT/기술 업체에서 가장 중요한 수산으로 인정되고 대응하는 사회적 원인이 그리티는 이를 계속해서 강화함을 말합니다."
+    },
+    {
+      "title": "“망분리 규제 혁신 이끈다”... 엠클라우독, NST에 차세대 N2SF 문서중앙화 구축",
+      "link": "http://www.boannews.com/media/view.asp?idx=143340&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:32:00 +0900",
+      "description": "5월 시행 국가 사이버보안 기본 지침 선제 적용하여 보안 수준 차등화 선도구름OS 연동한 ‘NO DATA’ 환경 구현으로 자료 유출 막고 AI 활용 토대 마련[보안뉴스 조재호 기자] 엠클라우독(대표 유상열)은 국가과학기술연구회(NST)에 국가 망 보안체계(N2SF) 표준 모델 기반의 문서중앙화 시스템 구축을 성공적으로 완료했다고 24일 밝혔다.이번 사업은",
+      "language": "ko",
+      "summary": "5월 시행 국가 사이버보안 기본 지침 선제 적용하여 보안 수준 차등화 선도구름OS 연동한 ‘NO DATA’ 환경 구현으로 자료 유출 막고 AI 활용 토대 마련[보안뉴스 조재호 기자] 엠클라우독(대표 유상열)은 국가과학기술연구회(NST)에 국가 망 보안체계(N2SF) 표준 모델 기반의 문서중앙화 시스템 구축을 성공적으로 완료했다고 24일 밝혔다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“보안 도구가 도리어 흉기로”… 팀PCP, KICS 공급망 타격",
+      "link": "http://www.boannews.com/media/view.asp?idx=143332&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Apr 2026 14:30:00 +0900",
+      "description": "공식 도커 허브 저장소 오염시켜 IaC 스캔 보고서 및 핵심 자산 싹쓸이번(Bun) 런타임 악용해 보안망 회피하는 악성 자바스크립트 모듈 실행[보안뉴스 김형근 기자] 해킹 그룹 팀PCP(TeamPCP)가 공식 도커 허브 저장소인 ‘checkmarx/kics’에 악성코드를 삽입한 가짜 이미지를 주입해 공급망 공격을 감행했다.제이프로그(JFrog)와 소켓(So",
+      "language": "ko",
+      "summary": "팀PCP이 'checkmarx/kics' 공격을 통해 공급망을 회피하고, 이를 활동적으로 모니터링하기 어렵게 만들었다.",
+      "points": [
+        "팀PCP의 공격으로 보안랩이 방해가 났다",
+        "이미지를 주입한 위기로 강제로 모니터링을 시작했다.",
+        "공격으로 인식되는 이미지가 실습으로 사용되었다."
+      ],
+      "insight": "보안 도구가 개인의 활동적 살게내리기를 막아주기 때문에 공급망에서 IT/기술 자산을 강제로 염룩시켰다."
+    },
+    {
+      "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
+      "link": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 24 Apr 2026 04:01:00 +0000",
+      "description": "Porsche will start selling the Cayenne Coupe Electric in late summer.",
+      "language": "en",
+      "summary": "The Porsche brand is expanding into all-electric vehicles with its new electric SUV coupe model called 'Cayenne Coupe Electric.' Production will begin this fall.",
+      "points": [
+        "- The Cayenne Coupe Electric, a plug-in hybrid capable of driving up to 12.5 miles on battery alone and reaching speeds over 0 to 60 in just six seconds, is set to start production by late summer as the first all-electric vehicle from Porsche.",
+        "- To make this transition more seamless for its loyal customers, Porsche will offer a trade-in program where you can exchange your old gasoline or diesel car and receive up to $5,000 off on an electric model. They also plan to provide incentives like tax credits.",
+        "- A special 'Electric Day' event is planned for late August at the Porsche factory outside Stuttgart, Germany, where potential buyers can learn more about owning and driving a new EV firsthand."
+      ],
+      "insight": "Porsche entering the electric vehicle market signifies its strategic shift towards sustainable mobility solutions while maintaining luxury brand values. This move could impact not only Porsche's future growth but also set trends for other automakers to follow in adopting all-electric technologies."
+    },
     {
       "title": "[김정덕의 인간중심보안-4] 보안 위반, 뇌과학에서 찾은 해법",
       "link": "http://www.boannews.com/media/view.asp?idx=143331&kind=&sub_kind=",
@@ -579,169 +744,6 @@
         "이러한 행위는 국제 비상 여부를 야인한 것이며, 해커와 공모해가 이를 절약하기 위해 협상을 계십니다."
       ],
       "insight": "대한민국의 IT/기술 업체는 이러한 공격 사고와 IT 회사에서의 비상 이용을 막아야만했다. Black Hat Hackers의 참가와 해커와 공모해 기업의 비상은 충불한 과정을 경쟁으로 제한하지 못했다."
-    },
-    {
-      "title": "AI 시대 기업 환경보안... 구글 보안 AI 에이전트로 지킨다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143319&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Apr 2026 11:57:00 +0900",
-      "description": "’구글 클라우드 넥스트 2026’ 개최 위즈와 협력... 기업 업무 혁신, 보안 효율 높일 AI 에이전트 플랫폼 제시[보안뉴스 한세희 기자] 구글이 에이전트AI를 활용하는 기업 환경을 겨냥한 보안 플랫폼을 제공한다. 보안 업무를 효율화할 보안 에이전트도 선보였다.구글 클라우드는 22일(현지시간) 미국 라스베이거스에서 개최한 연례 행사 ‘구글 클라우드 넥스트",
-      "language": "ko",
-      "summary": "AI를 사용한 IT 기업 보안 환경을 개체된 구글 보안 AI 에이전트로 제공하고 있는 소재가 미국의 '구글 클라우드 넥스트' 개최 위즈로 기여한다.",
-      "points": [
-        "AI에 기인한 보안 환경이 기업의 업무 혁신으로 피고사를 높일 수 table of contents.",
-        "구글 보안 AI 에이전트는 점진적인 보안액세스 방식을 환경에서 취약하다."
-      ],
-      "insight": "AI에 기인한 IT/비열랑업 사내에서의 보안은 '구글 클라우드 넥스트'에서 선보칼기로 제시한 공개 환경으로 전홽하는 불가다."
-    },
-    {
-      "title": "“이름만 젠틀맨” 1570개 기업 감염시킨 랜섬웨어 ‘포식자’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143317&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Apr 2026 11:19:00 +0900",
-      "description": "PowerShell·GPO 악용해 보안 무력화 후 도메인 전체 장악, 다중 OS 대상 범용 공격 수행랜섬웨어 생태계 확장 속 공격 속도전 심화... 2026년 1분기 2059건 디지털 갈취 발생[보안뉴스 김형근 기자] 글로벌 보안 기업 체크포인트(Check Point)는 ‘더 젠틀맨’(The Gentlemen) 랜섬웨어 조직이 배후에서 조종하는 시스템BC(",
-      "language": "ko",
-      "summary": "PowerShell공용인터페이스 이용으로 갈취악용을 확보한 랜섬웨어가 대기족에게 이상적이지 않는 기업 분석",
-      "points": [
-        "PowerShell공용인터페이스 사용 외에도 범주를 교내 구성하여 갈취악용을 통해 100여개의 IT기업에 미치게 되어 2026년 시즄에 이상한 정보를 제공한다.",
-        "이러한 랜섬웨어는 국내외 모든 인터폴로지를 대상으로 공격하여 갈취에서 생성되어 2059건의 갈출액 수집을 촉진했다.",
-        "최근 보안에 대한 인식이 적하지 않도록 인터폴로리아의 IT 정보와 기술 시스템을 강화하는 데 힘드며, 갈추기에 최대한 침해를 막고자 한다."
-      ],
-      "insight": "이러한 법적인 공격 사석은 IT/기술 업무에 심각한 영향을 미치고 있는데, 이로 인해 보안 피전 개발이 요구된다."
-    },
-    {
-      "title": "그린아이티코리아-스마트로, ‘xAI 지능형 주차관제 및 스마트 결제 플랫폼’ 고도화 MOU 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=143313&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Apr 2026 11:16:00 +0900",
-      "description": "xAI 기반 정밀 관제에 스마트로의 결제API 결합... 출구 병목 현상 근본적 해결결제·취소 프로세스 획기적 단축 및 현장 맞춤형 ‘유연한 요금 API’ 전격 도입[보안뉴스 강초희 기자] 설명 가능한 AI(xAI) 기반 보안 솔루션 전문기업 그린아이티코리아(대표이사 강원식)와 핀테크 선도기업 스마트로(대표이사 장길동)가 지능형 주차관제 시장의 혁신과 대·",
-      "language": "ko",
-      "summary": "xAI 기반 정밀 관제에 스마트로의 결제API 결합. 출구 병목 현상 근본적 해결결제·취소 프로세스 획기적 단축 및 현장 맞춤형 ‘유연한 요금 API’ 전격 도입[보안뉴스 강초희 기자] 설명 가능한 AI(xAI) 기반 보안 솔루션 전문기업 그린아이티코리아(대표이사 강원식)와 핀테크 선도기업 스마트로(대표이사 장길동)가 지능형 주차관제 시장의 혁신과 대·",
-      "points": [
-        "xAI 기반 정밀 관제에 스마트로의 결제API 결합",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 23:56:52 +0000",
-      "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "language": "en",
-      "summary": "Tesla is planning to spend $25 billion in capital expenditures for 2026, significantly increasing its spending plan and leading to a negative free cash flow.",
-      "points": [
-        "Tesla's planned capital expenditure (capex) for 2026 is set at $25 billion, which is three times the historical average.",
-        "The increase in Tesla's spending plan has resulted in a negative free cash flow projection for the remainder of the year."
-      ],
-      "insight": "Tesla's increased capital expenditure highlights its commitment to expansion and infrastructure development, but it also poses challenges as the company may need more resources than expected from their revenue streams in order maintain liquidity."
-    },
-    {
-      "title": "Google updates Workspace to make AI your new office intern",
-      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000",
-      "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "language": "en",
-      "summary": "Google is enhancing the functionality of Google Workspace with a range of automated tasks enabled by an updated AI called Workspace Intelligence.",
-      "points": [
-        "Workspace Intelligence powers new features and efficiency in Google's cloud services for productivity software (Gmail, Docs, Meet).",
-        "The system facilitates document creation without requiring explicit instructions from users using prompt engineering.",
-        "AI-driven capabilities within Workspace are expected to revolutionize how work is conducted digitally."
-      ],
-      "insight": "With the introduction of AI as a virtual office intern, Google has set an industry trend towards more automated and intelligent productivity tools that could redefine digital collaboration in numerous organizations beyond its own services."
-    },
-    {
-      "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-      "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 22:39:58 +0000",
-      "description": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
-      "language": "en",
-      "summary": "Elon Musk acknowledges that millions of Tesla owners may need hardware upgrades for Full Self-Driving capabilities instead of just software updates as previously claimed.",
-      "points": [
-        "Tesla's claims about 'Full Self-Driving' were based on the belief it only required a software update to realize full autonomy, which now seems less likely after Elon Musk' endorsement for hardware upgrades instead.",
-        "The revelation by Tesla might lead owners of older models that lack such hardware capability towards seeking additional costly updates or replacements if they desire autonomous driving features.",
-        "This shift in strategy could potentially open the door to legal scrutiny due to misleading advertising regarding vehicle capabilities."
-      ],
-      "insight": "Tesla's pivot from an 'All-in-one update for full autonomy' claim suggests a recalibration of expectations around electric vehicles and may affect consumer trust, while also possibly increasing the risk of legal challenges due to prior misinformation about vehicle capabilities."
-    },
-    {
-      "title": "Hands on with X’s new AI-powered custom feeds",
-      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 22:25:53 +0000",
-      "description": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-      "language": "en",
-      "summary": "The article discusses the introduction of X's newly launched AI-powered custom timelines that aim to take over roles traditionally filled by Communities and Grok feeds.",
-      "points": [
-        "X has introduced a new artificial intelligence (AI) system called 'Grok', which creates personalized content feed curated for each user based on their interests, preferences, and behavioral patterns.",
-        "'Grok' is expected to significantly improve the relevance of timelines by using machine learning algorithms tailored towards understanding users better than any human community ever could. In addition to this, X has integrated new advertisement slots within these AI-powered feeds which are predicted to be more engaging and targeted.",
-        "The introduction of Grok will replace Communities on platform X as the primary source for content discovery."
-      ],
-      "insight": "This news suggests a significant shift towards personalized user experiences in technology platforms. The AI-powered systems like 'Grok' are set to become an integral part of online interactions, potentially leading to more engaging and targeted advertisements that can directly impact revenue streams."
-    },
-    {
-      "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
-      "link": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 21:37:34 +0000",
-      "description": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
-      "language": "en",
-      "summary": "Ryan Roslansky has resigned as LinkedIn CEO after six years with his COO taking immediate succession.",
-      "points": [
-        "Ryan Roslansky will step down from the role of CEO at LinkedIn.",
-        "Dan Shapero, current COO, is set to take over immediately.",
-        "The transition occurs without interruption in leadership."
-      ],
-      "insight": "This change signifies a potential shift towards more aggressive business strategies under the new leadership for maintaining LinkedIn's market position and growth."
-    },
-    {
-      "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
-      "link": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 20:57:21 +0000",
-      "description": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
-      "language": "en",
-      "summary": "Tesla's first-quarter revenue increased due to boosted EV sales and the launch of Full Self Driving subscriptions.",
-      "points": [
-        "First quarter (Q1) revenues at Tesla rose compared to Q1 2curent year",
-        "Sales rebounded following a drop in previous quarters driven by global semiconductor shortages and supply chain issues that also impacted production volumes.",
-        "Full Self Driving subscriptions launched, although their revenue contribution is not yet fully clear."
-      ],
-      "insight": "Tesla's investments into robotics, AI, and semiconductor manufacturing could reshape the automotive industry by integrating these technologies directly into vehicles. Full Self Driving subscriptions present a new revenue stream but also raise questions about insurance liability."
-    },
-    {
-      "title": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
-      "link": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 20:09:45 +0000",
-      "description": "Observable Space and Quantum Opus teamed up to capture data beamed back from space.",
-      "language": "en",
-      "summary": "NASA's Artemis II moon mission successfully demonstrated the feasibility of scaling space-to-Earth laser communications.",
-      "points": [
-        "- NASA conducted successful tests during the Artemis II moon mission using scalable space-to-Earth laser communication technology developed by Observable Space and Quantum Opus.",
-        "- The test was aimed to verify that data could be transmitted between a lunar lander, orbiting satellite relay (GEO), low Earth orbit satellites network for link dissemination or uplink request backbone of NASA's own Deep Space Network on the Moon and then downlink directly from deep space communications terminal located 384,000 km away at the moon to a receiver here on earth.",
-        "- The technology will allow future crews aboard lunar landers for extended stays as well as support an increase in science data return rates."
-      ],
-      "insight": "This successful demonstration of laser communications between space and Earth is expected to revolutionize the transmission of large amounts of scientific data back from various missions, improving mission capabilities significantly by enabling high-speed links for extended lunar exploration periods or future Mars expeditions."
-    },
-    {
-      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Apr 2026 19:51:51 +0000",
-      "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-      "language": "en",
-      "summary": "SpaceX made an unexpectedly high-value offer for Crew Dragon's parent company by proposing not just funding but also acquiring them on the way to a larger $60 billion deal.",
-      "points": [
-        "The Space Launch System (SLS) was initially set as part of a substantial new venture, which is now under reconsideration due to an alternative offer from Elon Musk's company, SpaceX.",
-        "SpaceX proposed $10 billion in 'collaboration fees,' plus the purchase at 85% market valuation for his firm G.R. American Interests (GRI), significantly outbidding Crew Dragon parent Blue Origin and ULA.",
-        "The deal highlights SpaceX's aggressive approach to consolidating its position in space exploration, potentially accelerating the development of human infrastructure on Mars."
-      ],
-      "insight": "SpaceX'nergizing aerospace by leveraging technology and capital not just for competition but also as a strategic move towards colonization objectives. This approach has implications beyond mere fundraising, indicating an industry shift toward ambitious long-term projects."
     }
   ]
 }
