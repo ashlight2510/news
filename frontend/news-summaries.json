@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-25T07:19:46.434Z",
+  "generatedAt": "2026-04-25T13:06:49.225Z",
   "articles": [
+    {
+      "title": "[데스크 칼럼] 이재명 대통령 인도·베트남 국빈 방문, ‘K-보안’은 왜 경제사절단에서 소외됐나",
+      "link": "http://www.boannews.com/media/view.asp?idx=143354&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 25 Apr 2026 21:02:00 +0900",
+      "description": "미토스 충격, 랜섬웨어 창궐 등 글로벌 보안 위협 급증... 국가간 공조 핵심은 ‘사이버 보안’과거 KISIA 회장 동행 사례와 대조... 디지털 전환 가속화되는 인도·베트남 시장, 보안 빠진 경제협력은 ‘사상누각’[보안뉴스 권준 편집국장] 이재명 대통령이 109개 기업·기관으로 구성된 대규모 경제사절단과 함께 인도·베트남 국빈 방문을 마치고 귀국했다. 삼",
+      "language": "ko",
+      "summary": "이재명 대통령이 인도·베트남 국빈 방문을 귀국했다. 'K-보안'에서 의심합니다.",
+      "points": [
+        "국민은 'K-보안'를 위한 의사소연성에 대해 질문하고 있다.",
+        "인도·베트남 국민들이 IT/기술 시장에서 경영진의 통일성에 근원을 찾아보는 것은 중요한 정치적인 의사소연성으로 생각된다.",
+        "기술과정에서 헷계도나 어려움을 인해 국민은 IT/기술 시장의 환경에 대한 이해가 부족하다."
+      ],
+      "insight": "이재명의 방콕군에서는 IT/기술 시장에서 국민의 근원을 인식하고자 합니다. 'K-보안'과 국민의 질문은 이러한 근원에 대한 이해를 필요로 가지고 있다."
+    },
+    {
+      "title": "한국의 CPTED, 어떻게 진화하고 있나... 한국셉테드학회 춘계학술발표대회 성료",
+      "link": "http://www.boannews.com/media/view.asp?idx=143353&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 25 Apr 2026 20:34:00 +0900",
+      "description": "한국 주도 아시아 CPTED 네트워크 구축방안, CPTED 확산 위한 정책 연계 전략 등 논의 성기용 회장 “한국형 CPTED 발전 방향 함께 모색하는 뜻깊은 계기”[보안뉴스 원병철 기자] “아시아 공동범죄예방 플랫폼 구축을 위한 아시아셉테드협회(ACA) 창설을 통해 안전한 아시아의 미래를 CPTED로 연결시켜 나갈 것이다.” 한국에 셉테드(CPTED:",
+      "language": "ko",
+      "summary": "한국의 CPTED 방식은 공동범죌방안에서 역시 중요성을 부여하고 있다. 한국셉테드학회는 이를 강화하기로 결정했다.",
+      "points": [
+        "한국 주도 아시아 CPTED 네트워크 구축",
+        "CPTED 방식 이용을 강화하기로 고객에 대한 의사정도로 결정",
+        "아시아셉테드협회(ACA)를 통해 안전한 아시아의 미래를 CPTED로 연계"
+      ],
+      "insight": "한국의 CPTED는 공동범죌방안에서 중요하다고 말했다. ACA의 이론적인 시도로 CPTED를 공동범죌방안에서 실화시킨 것을 기대한다."
+    },
+    {
+      "title": "앤트로픽 클로드, macOS에서 사용자 동의없이 브라우저에 접근해",
+      "link": "http://www.boannews.com/media/view.asp?idx=143352&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 25 Apr 2026 16:59:00 +0900",
+      "description": "맥OS 클로드 설치하면 크롬과 엣지 등 크롬미움 기반 브라우저에 네이티브 메시징 매니페스트 설치프롬프트 인젝션 등 공격받으면 공격자가 사용자 PC 제어할 수 있어[보안뉴스 원병철 기자] 앤트로픽의 macOS용 AI 클로드 데스크톱 애플리케이션이 크롬 기반 브라우저의 디렉터리에 브라우저 액세스 브릿지를 몰래 설치하는 것으로 드러났다. 사용자 몰래 설치하기 따",
+      "language": "ko",
+      "summary": "macOS에서 AI 클로드 설치시 사용자 PC를 제어할 수 0있음",
+      "points": [
+        "Ai clone 따로 macOS에서 사용자 PC를 제어할 수 없는 현상으로 보인다.",
+        "Google Chrome에 이동하거나 추가하기 전에 AI clone 브라우저를 사용",
+        "Ai clone 브라우저는 Google Chrome의 복제로 수정되어야 함"
+      ],
+      "insight": "이러한 AI 클로드는 macOS의 사용자 동기성을 보호하지 못하고, Chrome에서만 설치해야 하며, Google Chrome를 제거하여 사용하는 것이 보다 안전함"
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관-3] 꺼진 불도 다시 보자(3)-포스트잇 비밀번호, 계정 탈취 1순위",
       "link": "http://www.boannews.com/media/view.asp?idx=143035&kind=&sub_kind=",
@@ -704,49 +749,6 @@
         "OpenAI'носить о возможности GPT-5.5 для развития более обширных и гибких инструментов для работы с искусственным интеллектом."
       ],
       "insight": "The development of GPT-5.5 represents a significant advancement in AI technology, with potential applications across numerous industries and the ability to create more sophisticated tools for working with artificial intelligence."
-    },
-    {
-      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
-      "link": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Apr 2026 18:08:16 +0000",
-      "description": "According to an internal memo, Meta plans to begin its sweeping layoffs on May 20.",
-      "language": "en",
-      "summary": "Meta is set to initiate job cuts of up to 10% across the company, impacting approximately 8,00 end jobs.",
-      "points": [
-        "Internal memo reveals Meta's layoff plans",
-        "Layoffs begin on May 20 affecting roughly 10% workforce reduction",
-        "Approximately 8,000 employees may lose their positions"
-      ],
-      "insight": "The job cut by a major social media company like Meta could indicate the industry's consolidation and potential strategic shift towards more efficient operations or cost-cutting measures amidst economic uncertainties."
-    },
-    {
-      "title": "Bluesky now supports better-quality photos",
-      "link": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Apr 2026 16:41:14 +0000",
-      "description": "The max size is now 2MB and max resolution is 4000 x 4000.",
-      "language": "en",
-      "summary": "Bluesky has increased the maximum allowable photo sizes to improve user experience by supporting better-quality images.",
-      "points": [
-        "The max size for photos is now increased to 2MB and a resolution of up to 4000 x 4000 pixels."
-      ],
-      "insight": "Bluesky's update indicates an industry trend towards providing better visual experiences by accommodating high-resolution images, which could lead other platforms to reconsider their image size limitations for improved user engagement and satisfaction. This may drive further innovation in storage optimization techniques within the IT sector."
-    },
-    {
-      "title": "Microsoft offers buyout for up to 7% of US employees",
-      "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Apr 2026 16:38:49 +0000",
-      "description": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout.",
-      "language": "en",
-      "summary": "Microsoft is offering its US employees who are aged 65 or older and have worked at the company for over 20 years an option to take early retirement with a lump sum buyout of up to 7% of their annual salary.",
-      "points": [
-        "Eligibility criteria include age, years of service (more than 20), being in good health and passing background checks.",
-        "The offered amount for the voluntary retirement package is approximately one-fifth or about 7% to up to a third of an employee'thy annual salary depending on their length of employment with Microsoft as of December 31, 2015.",
-        "In addition, employees who take this buyout will be able to receive the full cost for Medicare Part A premium and they’ll also have a $4,000-a-year life insurance benefit on top"
-      ],
-      "insight": "Microsoft's voluntary retirement offer could signal industry trends towards offering generous severance packages to retain experienced workers while simultaneously encouraging younger employees to stay with the company in anticipation of higher earnings and career advancement opportunities."
     }
   ]
 }
