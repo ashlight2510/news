@@ -1,6 +1,109 @@
 {
-  "generatedAt": "2026-04-27T13:59:20.078Z",
+  "generatedAt": "2026-04-27T19:24:26.291Z",
   "articles": [
+    {
+      "title": "Consumers lost $2.1 billion to social media scams in 2025, FTC reports",
+      "link": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 19:09:53 +0000",
+      "description": "The agency reports that losses from social media scams have increased eightfold, and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
+      "language": "en",
+      "summary": "The Federal Trade Commission reported a significant increase in consumer losses due to social media scams, with affected individuals losing $2.1 billion in 2curent year.",
+      "points": [
+        "Consumers lost over $2.1 billion to online impersonation and fake profiles on popular platforms like Facebook and Instagram between June 2022 and May 2025",
+        "Scammers have exploited social media algorithms that prioritize personalized content, making it easier for them to target individuals with tailored scam messages.",
+        "The FTC has reported an eightfold increase in losses due to social media-based fraud since June 2022"
+      ],
+      "insight": "This news highlights the growing threat of social engineering and phishing attacks via social media, emphasizing that individuals need to be more vigilant when interacting with online content."
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 17:40:38 +0000",
+      "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+      "language": "en",
+      "summary": "After facing legal challenges with Amazon and Google for allegedly using proprietary technology from these companies without permission, OpenAI has now reached an understanding with Microsoft to sell products on AWS under certain conditions.",
+      "points": [
+        "OpenAI faces lesser restrictions in selling AI-driven services as part of its $50 billion agreement with Amazon after acquiring a deal extension from Microsoft."
+      ],
+      "insight": "This resolution could set an important precedent for the future collaboration and partnership between large tech companies, influencing how new entrants can access necessary technology to compete in the AI marketplace. It may lead other startups into similar negotiations with established firms."
+    },
+    {
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 17:24:21 +0000",
+      "description": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "language": "en",
+      "summary": "Ineffable Intelligence, led by former DeepMind AI researcher David Silver, has secured $1.1B in funding to develop an unsupervised learning system for artificial intelligence.",
+      "points": [
+        "David Silver' endorsement and the substantial raise of Ineffable Intelligence have bolstered its position as a formidable AI lab.",
+        "The focus on developing 'unsupervised learning systems', which require no human-generated data, represents an innovative direction in AI research.",
+        "At $5.1 billion valuation, Ineffable Intelligence is poised to make significant contributions and potentially redefine the boundaries of machine intelligence."
+      ],
+      "insight": "This funding could signal a shift towards less human-centric data dependency in AI research while emphasizing autonomous learning capabilities. The long-term impact on industries reliant on AI technologies, like healthcare and finance, remains to be seen."
+    },
+    {
+      "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
+      "link": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 17:07:06 +0000",
+      "description": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
+      "language": "en",
+      "summary": "A hacker allegedly involved with cyberattacks for the Chinese government has been extradited to the US after being accused of accessing sensitive information.",
+      "points": [
+        "Xu Zewei is linked to a hacking group targeting U.S. COVID-19 research",
+        "U.S. authorities have charged and subsequently extradited Xu Zewei back to the country for trial.",
+        "The alleged cyberattacks raise concerns over data security and international law regarding state-sponsored hackers."
+      ],
+      "insight": "This case underlines growing tensions between nations on digital espionage activities, highlighting serious implications for global IT/technology infrastructure integrity and prompts a reevaluation of cybersecurity policies to prevent future incidents."
+    },
+    {
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 16:13:02 +0000",
+      "description": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+      "language": "en",
+      "summary": "Investors have shown strong support for Skye’in AI home screen app ahead of its launch on the Apple platform.",
+      "points": [
+        "Skye's new AI-centric phone application has attracted investor interest even before release",
+        "The growing trend in consumer desire towards more intelligent and personalized iPhone experiences is reflected through this app",
+        "Interest from tech enthusiasts suggests a strong reception upon the upcoming launch"
+      ],
+      "insight": "This increasing investor interest for AI-enhanced applications indicates an industry trend towards smart, adaptive consumer technology."
+    },
+    {
+      "title": "Data center demand drives 66% surge in natural gas power plant costs",
+      "link": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 15:27:52 +0000",
+      "description": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
+      "language": "en",
+      "summary": "The growing need for data centers has led to a significant increase in the costs of natural gas power plants over two years, with expenses nearly doubling and construction time extending by one-third.",
+      "points": [
+        "Natural gas power plant costs have almost doubled due to increased electricity demand from growing data center needs",
+        "Construction times for these facilities have also lengthened significantly (23% longer)",
+        "This surge in cost and construction time impacts the overall efficiency of IT infrastructure development"
+      ],
+      "insight": "The escalating natural gas power plant costs underscore a critical challenge facing data centers, which is to maintain operational affordability while dealing with soaring electricity demands."
+    },
+    {
+      "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
+      "link": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Apr 2026 14:17:59 +0000",
+      "description": "Governments across Europe are looking to rely less on American tech providers.",
+      "language": "en",
+      "summary": "European governments aim to reduce dependency on US software and prioritize sovereign technology solutions.",
+      "points": [
+        "Efforts are underway in Europe to decrease reliance on American tech providers, with a focus on developing independent alternatives within the continent's own IT industry.",
+        "This initiative is fueled by concerns over data privacy and security implications of using foreign software that may be vulnerable to external influences or cyber threats.",
+        "Governments are actively investing in research, development, and education programs aimed at fostering domestic IT talent as a foundation for self-sustaining technology ecosystem"
+      ],
+      "insight": "The shift towards sovereign tech could lead to increased competition within the global marketplace while enhancing data privacy and security. This move might also inspire other regions around the world to focus more on localized solutions."
+    },
     {
       "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
       "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
@@ -643,111 +746,6 @@
         "Ternus is expected to prioritize the development of new devices as part of his hardware-centric approach."
       ],
       "insight": "The appointment could herald a strategic pivot for tech industry players towards innovative product design and manufacturing, potentially shaking up market dynamics focused on services like subscription models or cloud infrastructure. Apple's emphasis might inspire competitors to rebalance their portfolios."
-    },
-    {
-      "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
-      "link": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 25 Apr 2026 14:57:26 +0000",
-      "description": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest.",
-      "language": "en",
-      "summary": "India's Snabbit is seeking new funding as it scales quickly and aims for a $400M valuation.",
-      "points": [
-        "Snabbit has rapidly scaled with one million jobs crossed in March at its high growth trajectory",
-        "$400M valuation being sought after by investors due to growing interest towards the platform",
-        "Potential of Snabbit's recruitment process and partnerships that enable scaling across sectors"
-      ],
-      "insight": "The recent funding round indicates increasing confidence in India’s gig economy platforms, suggesting potential growth opportunities for similar tech businesses."
-    },
-    {
-      "title": "[데스크 칼럼] 이재명 대통령 인도·베트남 국빈 방문, ‘K-보안’은 왜 경제사절단에서 소외됐나",
-      "link": "http://www.boannews.com/media/view.asp?idx=143354&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 25 Apr 2026 21:02:00 +0900",
-      "description": "미토스 충격, 랜섬웨어 창궐 등 글로벌 보안 위협 급증... 국가간 공조 핵심은 ‘사이버 보안’과거 KISIA 회장 동행 사례와 대조... 디지털 전환 가속화되는 인도·베트남 시장, 보안 빠진 경제협력은 ‘사상누각’[보안뉴스 권준 편집국장] 이재명 대통령이 109개 기업·기관으로 구성된 대규모 경제사절단과 함께 인도·베트남 국빈 방문을 마치고 귀국했다. 삼",
-      "language": "ko",
-      "summary": "이재명 대통령이 인도·베트남 국빈 방문을 귀국했다. 'K-보안'에서 의심합니다.",
-      "points": [
-        "국민은 'K-보안'를 위한 의사소연성에 대해 질문하고 있다.",
-        "인도·베트남 국민들이 IT/기술 시장에서 경영진의 통일성에 근원을 찾아보는 것은 중요한 정치적인 의사소연성으로 생각된다.",
-        "기술과정에서 헷계도나 어려움을 인해 국민은 IT/기술 시장의 환경에 대한 이해가 부족하다."
-      ],
-      "insight": "이재명의 방콕군에서는 IT/기술 시장에서 국민의 근원을 인식하고자 합니다. 'K-보안'과 국민의 질문은 이러한 근원에 대한 이해를 필요로 가지고 있다."
-    },
-    {
-      "title": "한국의 CPTED, 어떻게 진화하고 있나... 한국셉테드학회 춘계학술발표대회 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=143353&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 25 Apr 2026 20:34:00 +0900",
-      "description": "한국 주도 아시아 CPTED 네트워크 구축방안, CPTED 확산 위한 정책 연계 전략 등 논의 성기용 회장 “한국형 CPTED 발전 방향 함께 모색하는 뜻깊은 계기”[보안뉴스 원병철 기자] “아시아 공동범죄예방 플랫폼 구축을 위한 아시아셉테드협회(ACA) 창설을 통해 안전한 아시아의 미래를 CPTED로 연결시켜 나갈 것이다.” 한국에 셉테드(CPTED:",
-      "language": "ko",
-      "summary": "한국의 CPTED 방식은 공동범죌방안에서 역시 중요성을 부여하고 있다. 한국셉테드학회는 이를 강화하기로 결정했다.",
-      "points": [
-        "한국 주도 아시아 CPTED 네트워크 구축",
-        "CPTED 방식 이용을 강화하기로 고객에 대한 의사정도로 결정",
-        "아시아셉테드협회(ACA)를 통해 안전한 아시아의 미래를 CPTED로 연계"
-      ],
-      "insight": "한국의 CPTED는 공동범죌방안에서 중요하다고 말했다. ACA의 이론적인 시도로 CPTED를 공동범죌방안에서 실화시킨 것을 기대한다."
-    },
-    {
-      "title": "앤트로픽 클로드, macOS에서 사용자 동의없이 브라우저에 접근해",
-      "link": "http://www.boannews.com/media/view.asp?idx=143352&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 25 Apr 2026 16:59:00 +0900",
-      "description": "맥OS 클로드 설치하면 크롬과 엣지 등 크롬미움 기반 브라우저에 네이티브 메시징 매니페스트 설치프롬프트 인젝션 등 공격받으면 공격자가 사용자 PC 제어할 수 있어[보안뉴스 원병철 기자] 앤트로픽의 macOS용 AI 클로드 데스크톱 애플리케이션이 크롬 기반 브라우저의 디렉터리에 브라우저 액세스 브릿지를 몰래 설치하는 것으로 드러났다. 사용자 몰래 설치하기 따",
-      "language": "ko",
-      "summary": "macOS에서 AI 클로드 설치시 사용자 PC를 제어할 수 0있음",
-      "points": [
-        "Ai clone 따로 macOS에서 사용자 PC를 제어할 수 없는 현상으로 보인다.",
-        "Google Chrome에 이동하거나 추가하기 전에 AI clone 브라우저를 사용",
-        "Ai clone 브라우저는 Google Chrome의 복제로 수정되어야 함"
-      ],
-      "insight": "이러한 AI 클로드는 macOS의 사용자 동기성을 보호하지 못하고, Chrome에서만 설치해야 하며, Google Chrome를 제거하여 사용하는 것이 보다 안전함"
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-3] 꺼진 불도 다시 보자(3)-포스트잇 비밀번호, 계정 탈취 1순위",
-      "link": "http://www.boannews.com/media/view.asp?idx=143035&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 25 Apr 2026 15:43:00 +0900",
-      "description": "비밀번호를 포스트잇에 적어 모니터에 붙이지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연결시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안",
-      "language": "ko",
-      "summary": "비밀번호를 포스트잇에 적어는 권위 세계에서는 실수가 90%로 시작되며, IT/기술 사원들은 이를 우회할 수 없고, 보안습관의 학습을 강조해야 한다.",
-      "points": [
-        "결국, 아이템보안에서는 기술보다 보안습감을 높이던가요?",
-        "불빨리 보안적으로 움컷하지 마시고, 실수를 피하며, 속담과 IT/기술에서의 보안습감을 유지해주세요.",
-        "보안을 위한 코드이 겹쳐두고, 보안습객이 만들어내었다면 비자케이테인 분자산에서도 이런 방식을 사용해보세요."
-      ],
-      "insight": "이 기사는 IT/기술 업무에서의 실수가 여전히 일어나는 것으로, 그러더라도 IT/기술 인살이 약한보안 지침을 직접 공급해줄 흔한 것이다."
-    },
-    {
-      "title": "[디지털 라이프 보안 Unlock] #1. 내 사진 도용됐는지 찾아보려면?",
-      "link": "http://www.boannews.com/media/view.asp?idx=143296&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 25 Apr 2026 15:40:00 +0900",
-      "description": "소셜 미디어 사진 도용, 범죄 악용이나 성범죄 피해로 이어질 수 있어 구글 이미지 검색 등으로 확인 가능[보안뉴스 한세희 기자] 한때 우리 모두 킴 카스트로라는 미모의 여인에게 많은 페이스북 메시지를 받았다. “25일에 인천공항 도착이니 마중 나와 달라” “이라크에서 군 복무하다 부상을 당해 한국에 들어간다. 친구가 필요하다”는 등 설레는 메시지가 쌓였다.",
-      "language": "ko",
-      "summary": "이미지 검사 기기가 인천공항 도착에 대해서 많은 미모의 인사이트를 나타내는 글",
-      "points": [
-        "- 인천공항 도착에 대한 여성 미모의 피현을 수집한다.",
-        "- Google 이미지 검사를 통해 많은 댓글과 인사이트가 나타나고 있다.",
-        "- 여성 인생에 대한 추가적인 설정의 미논스는 확인 가능하다."
-      ],
-      "insight": "이 기사는 인천공항 도착에 대해서 여성 민극인의 피현과 인사이트를 논한 다음, 이것을 Google 이미지 검사를 통해 더존 여성인생에 대한 인사이트를 수집한다."
-    },
-    {
-      "title": "[이슈칼럼] 좁은 해협, 넓은 갈등 : 호르무즈가 던지는 현대적 생존의 과제",
-      "link": "http://www.boannews.com/media/view.asp?idx=143349&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 25 Apr 2026 15:35:00 +0900",
-      "description": "테러나 분쟁의 개념, 새로운 국면으로 진화... ‘파괴’에서 ‘사회 마비와 공포의 상시화’로물리적 방어 넘어선 실효적이고 지능적인 대응 체계 진지하게 고민해야[보안뉴스= 박진이 에스알 상임감사] 호르무즈 해협은 전 세계 에너지 공급의 핵심 동맥이다. 하지만 최근 이곳을 감싸고 있는 긴장감은 단순히 지리적 요충지를 둘러싼 분쟁을 넘어, 현대적 위협의 양상이",
-      "language": "ko",
-      "summary": "테러나 분쟁의 개념, 새로운 국면으로 진화. ‘파괴’에서 ‘사회 마비와 공포의 상시화’로물리적 방어 넘어선 실효적이고 지능적인 대응 체계 진지하게 고민해야[보안뉴스= 박진이 에스알 상임감사] 호르무즈 해협은 전 세계 에너지 공급의 핵심 동맥이다...",
-      "points": [
-        "테러나 분쟁의 개념, 새로운 국면으로 진화",
-        "‘파괴’에서 ‘사회 마비와 공포의 상시화’로물리적 방어 넘어선 실효적이고 지능적인 대응 체계 진지하게 고민해야[보안뉴스= 박진이 에스알 상임감사] 호르무즈 해협은 전 세계 에너지 ...",
-        "하지만 최근 이곳을 감싸고 있는 긴장감은 단순히 지리적 요충지를 둘러싼 분쟁을 넘어, 현대적 위협의 양상이"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
