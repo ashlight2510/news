@@ -1,6 +1,170 @@
 {
-  "generatedAt": "2026-04-28T03:06:34.043Z",
+  "generatedAt": "2026-04-28T08:38:39.501Z",
   "articles": [
+    {
+      "title": "“국가 양자보안 R&D, PQC 전환 핵심 기술 내재화 주력”... 제6차 양자보안포럼 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=143403&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 16:36:00 +0900",
+      "description": "2030년까지 PQC 전환 핵심 기술 개발 위한 연구과제 진행“양자보안 R&D의 오늘과 내일” 주제 발표[보안뉴스 한세희 기자] “현재의 모든 공개키 암호를 풀 수 있는 양자컴퓨터가 2035년 등장할 전망입니다. 정부는 2030년까지 양자내성암호(PQC) 체제로 전환할 기반을 마련하기 위한 연구개발을 적극 추진하고 있습니다.”김창오 정보통신기획평가원(IIT",
+      "language": "ko",
+      "summary": "2035년에 이루어진 양자보안 기술의 PQC로 전환하는 과제 연구개발 공지.",
+      "points": [
+        "- 현재 모든 공개키 암호를 풀 수 CT해서는, 2035년에 이루어진 양자보안 기술인 PQC로 전환하게 되도록",
+        "- 국가 정부는 연구개발을 촉진시키고 있다.",
+        "- 2030년까지 이루어질 것으로 기대되며, 노동자와 산업적으로 이론적인 체제의 필요성을 강조한다."
+      ],
+      "insight": "국가 정보보안 위원회는 PQC 기반으로 전환하도록 연구를 촉진시키고 있어, 양자보안 기술의 지진을 일컫는 것입니다."
+    },
+    {
+      "title": "취약점 진단 도구 ‘Nessus’의 역습... 윈도우 에이전트에서 보안 결함 노출",
+      "link": "http://www.boannews.com/media/view.asp?idx=143402&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 16:17:00 +0900",
+      "description": "윈도우 시스템 파일 경로 리다이렉션하는 정션 기능 악용... 공격자가 시스템 권한으로 악성 코드 실행[보안뉴스 김형근 기자] 기업용 취약점 진단 플랫폼인 테너블(Tenable)의 윈도우용 ‘네서스 에이전트’(Nessus Agent)에서 공격자가 시스템 권한으로 악성 코드를 실행할 수 있는 보안 결함이 노출됐다. 이번 취약점은 윈도우 시스템의 파일 경로를 리",
+      "language": "ko",
+      "summary": "윈도우 시스템 파일 경로 리다이렉션하는 정션 기능 악용. 공격자가 시스템 권한으로 악성 코드 실행[보안뉴스 김형근 기자] 기업용 취약점 진단 플랫폼인 테너블(Tenable)의 윈도우용 ‘네서스 에이전트’(Nessus Agent)에서 공격자가 시스템 권한으로 악성 코드를 실행할 수 있는 보안 결함이 노출됐다...",
+      "points": [
+        "윈도우 시스템 파일 경로 리다이렉션하는 정션 기능 악용",
+        "공격자가 시스템 권한으로 악성 코드 실행[보안뉴스 김형근 기자] 기업용 취약점 진단 플랫폼인 테너블(Tenable)의 윈도우용 ‘네서스 에이전트’(Nessus Agent)에서 공격...",
+        "이번 취약점은 윈도우 시스템의 파일 경로를 리"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "쿠도커뮤니케이션, 지슨 등 우수조달물품 지정... “기술과 품질 인정받았다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143401&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 15:42:00 +0900",
+      "description": "기술·품질 우수 51개 제품 우수조달물품 지정신규 진입업체 21개사(41.2%), AI·딥러닝 활용 등 미래 혁신기술 발굴[보안뉴스 강초희 기자] 조달청(청장 백승보)은 28일 정부대전청사에서 2026년 제1회 우수조달물품으로 지정받은 기업에 지정증서를 수여했다.올해 첫 번째 실시한 우수제품 심사에선 신청제품 281개 가운데 기술과 품질 우수성을 인정받은",
+      "language": "ko",
+      "summary": "기술·품질 우수 51개 제품 우수조달물품 지정신규 진입업체 21개사(41. 2%), AI·딥러닝 활용 등 미래 혁신기술 발굴[보안뉴스 강초희 기자] 조달청(청장 백승보)은 28일 정부대전청사에서 2026년 제1회 우수조달물품으로 지정받은 기업에 지정증서를 수여했다...",
+      "points": [
+        "기술·품질 우수 51개 제품 우수조달물품 지정신규 진입업체 21개사(41",
+        "2%), AI·딥러닝 활용 등 미래 혁신기술 발굴[보안뉴스 강초희 기자] 조달청(청장 백승보)은 28일 정부대전청사에서 2026년 제1회 우수조달물품으로 지정받은 기업에 지정증서를...",
+        "올해 첫 번째 실시한 우수제품 심사에선 신청제품 281개 가운데 기술과 품질 우수성을 인정받은"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "소프트프릭 접근제어 솔루션 ‘아이시모스’ 국정원 보안기능확인서 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=143400&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 15:06:00 +0900",
+      "description": "공공기관 도입할 때 보안적합성 검증 면제조달청 디지털서비스몰 납품 기회 확대, 중앙부처 및 지자체 영업 본격화[보안뉴스 조재호 기자] 소프트프릭은 자사 시스템 접근제어 솔루션 ‘아이시모스’(i-SeMOS)가 국가정보원 보안기능확인서를 최종 획득했다고 28일 밝혔다.보안기능확인서는 정보보호 제품이 갖춰야 할 보안 기능의 적합성을 국가 차원에서 공식 검증하는",
+      "language": "ko",
+      "summary": "소프트프릭이 '아이시모스' 솔루션이 국정원보안기능확인서를 최종적으로 획득한다.",
+      "points": [
+        "소프트프릭가 '아이시모스'(i-SeMOS)사용자 조치에 대한 국가의 보안 기능을 검사하는 것.",
+        "28일 마지목회에서 소프트프릭이 국정원보안기능확인서를 최종적으로 획득하여, 갈의 보안 제품에 대한 국가 차원으로 공식적으로 검사를 진행.",
+        "국정원은 소프트프릭이 '아이시모스'의 보안 기능이 기존에 없는 부가적인 보호 수준을 제공하고 있음."
+      ],
+      "insight": "소프트프릭은 '아이시모스'를 국정원에게 확장적인 보안 기능을 제공하여, 이를 통해 보안 서비스의 국가 변화와 안전성을 강조한다."
+    },
+    {
+      "title": "아이씨티케이, 정품 인증 보안칩 ‘STR’ 출시… “글로벌 공급 체제 완료”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143397&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 14:27:00 +0900",
+      "description": "국제표준 충족하는 독자적 VIA PUF 기술 적용, 하드웨어 신뢰점(HRoT) 구현2mm 크기 및 20nA 초저전력 설계로 공간·전력 제약 심한 IoT 환경 최적화[보안뉴스 조재호 기자] 아이씨티케이(ICTK)가 하드웨어 기반 디바이스 정품 인증 보안칩 ‘STR’을 공식 출시하고, 전방위적 공급 체제 구축을 완료했다고 28일 밝혔다.이번 신제품 출시를 기점",
+      "language": "ko",
+      "summary": "아이씨티케이는 제품 인증 보안칩 ‘STR’을 공식적으로 출시, 글로벌 공급 체제 완성한다.",
+      "points": [
+        "아이씨티케이가 ‘STR’(Secure Transmission and Retrieval)를 개체화",
+        "- HRoT(Hardware-based Reliability of Trusted Computing Platform), 2mm 크기로 구성.",
+        "- 전방위적인 공급 체제 구축을 마치며, 전방위 공급 운용으로 '글로벌 공급'이라는 근사글로벌(Global Cloud)의 개방을 통해 시스템이 동작한다."
+      ],
+      "insight": "국제 인재아이딘불리웨이트 시스템 관철의 대안이라면, 이전에 공급 및 서비스 화제를 위한 충매도로 'STR'는 모든 머신 종류에서 획재한 인증을 시작하고, 이전보다 더 공간적으로 안정적인 전송 방식의 혈기인 스캐드(Structure)를 지원하는 등장을 기대함."
+    },
+    {
+      "title": "LG유플러스 “소버린 SASE 서비스 연내 출시... AI 자율보안 구현”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143396&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 14:19:00 +0900",
+      "description": "포티넷 ‘엑셀러레이트 26’서 소버린 SASE 전략 공개“데이터 주권 지키고 AI 기반 자율 보안 CSMA 구현”[보안뉴스 강현주 기자] LG유플러스가 ‘소버린 SASE’ 서비스를 연내 출시한다. 국내 환경에 최적화된 ‘데이터 주권’에 초점을 맞춘다. AI 기반 자율형 보안을 구현하는 ‘CSMA’(Cyber Security Mesh Architecture)",
+      "language": "ko",
+      "summary": "포티넷 ‘엑셀러레이트 26’서 소버린 SASE 전략 공개“데이터 주권 지키고 AI 기반 자율 보안 CSMA 구현”[보안뉴스 강현주 기자] LG유플러스가 ‘소버린 SASE’ 서비스를 연내 출시한다. 국내 환경에 최적화된 ‘데이터 주권’에 초점을 맞춘다...",
+      "points": [
+        "포티넷 ‘엑셀러레이트 26’서 소버린 SASE 전략 공개“데이터 주권 지키고 AI 기반 자율 보안 CSMA 구현”[보안뉴스 강현주 기자] LG유플러스가 ‘소버린 SASE’ 서비스를...",
+        "국내 환경에 최적화된 ‘데이터 주권’에 초점을 맞춘다",
+        "AI 기반 자율형 보안을 구현하는 ‘CSMA’(Cyber Security Mesh Architecture)"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "디사일로, 5세대 동형암호 ‘GL 스킴’ 세계 최초 상용 SW 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143399&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 14:09:00 +0900",
+      "description": "“원천 기술 발명 이어 ‘프라이빗 AI’ 선도”[보안뉴스 강현주 기자] 글로벌 프라이버시 강화 기술(PET) 딥테크 기업 디사일로(DESILO)가 5세대 완전동형암호(FHE) 기술인 ‘GL 스킴’(Gentry-Lee Scheme)을 세계 최초로 상용 소프트웨어로 구현해 출시했다고 28일 밝혔다. 이로써 데이터 유출 위험 없이 암호화된 상태 그대로 AI 모델",
+      "language": "ko",
+      "summary": "이 기사는 ‘GL 스킴’(Gentry-Lee Scheme)로 세계저장소에서 5세대 동형암호인 FHE 기술을 상용 SW로 구현하여 출시한 것을 말합니다.",
+      "points": [
+        "Gentry-Lee Scheme은 세계 최초로 FHE기술을 통해 구현하여 상용 SW 출시",
+        "이 기술은 원천 기술 발명에서 선도로 가진 ‘프라이빗 AI’를 위한 기준으로 제시되었다.",
+        "5세대 동형암호인 FHE는 원산자이 데이터 유출 위험을 최소화하여 계속한 공유가 가능하다."
+      ],
+      "insight": "세계저장소에서 구현해 출시한 ‘GL 스킴’은 AI 모델의 보안성을 확산하여 이를 최대한 효과적으로 사용할 수 있도록 해야 할 것입니다."
+    },
+    {
+      "title": "[미토스 충격] “정부 대책 뭔가?”... 국회 질타 한 목소리",
+      "link": "http://www.boannews.com/media/view.asp?idx=143398&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 14:04:00 +0900",
+      "description": "28일 국회 과방위 전체회의[보안뉴스 한세희 기자] 28일 열린 국회 과학기술정보방송통신위원회 전체회의에서 국회가 ‘미토스’ 등 AI 보안 위협에 대한 정부의 전략적 대응을 주문했다. 최근 앤트로픽의 차세대 인공지능(AI) 모델 ‘클로드 미토스’가 소프트웨어 보안 취약점을 찾아내고 실제 공격을 수행하는데 탁월한 성능을 발휘한다는 사실이 알려지면서 국제 사회",
+      "language": "ko",
+      "summary": "국민의 보호가 기여해진 미토스 AI로 국민의 정보보안을 위한 대처와 지원",
+      "points": [
+        "- 국회는 미토스 등손 우더로 국민의 보호에 기여했다.",
+        "- 현재의 정보보안 위협에 특정한 대처 방안을 고안중인.",
+        "- 국민의 의결은 매우중요하며, 국민이 책임으로 기여할 수 ностью 다름."
+      ],
+      "insight": "국회가 미토스 AI를 사용해보고자 하는 대응능이지만, 귀하로의 정보보안을 위해 다시 확신성을 결정할 수 있으리라"
+    },
+    {
+      "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
+      "link": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 28 Apr 2026 05:02:04 +0000",
+      "description": "Golden Child is launching with two \"five-star\" products: a fresh frozen meal system and, more intriguingly, a \"drizzle.\" It has also raised $37 million in funding.",
+      "language": "en",
+      "summary": "Golden Child is debuting two top-tier dog food products with its launch: 'Drizzle,' a premium frozen meal product for dogs, and another fresh frozen system designed to cater specifically to small breeds. The brand has successfully raised $37 million in funding.",
+      "points": [
+        "- Golden Child is introducing two high-end products: 'Drizzle' as a premium dog food option with unique packaging, and another fresh frozen meal system for smaller dogs",
+        "- The brand has received significant investment of $37 million to support its product development and market entry strategies"
+      ],
+      "insight": "This news demonstrates the increasing commercialization within pet food options as consumers seek more specialized, high-quality products. With substantial funding, Golden Child is well positioned to capture a significant share of this expanding niche market."
+    },
+    {
+      "title": "금융보안원, 3000개 금융사 대상 ‘2026 정보보호 상시평가’ 가동",
+      "link": "http://www.boannews.com/media/view.asp?idx=143394&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 28 Apr 2026 13:46:00 +0900",
+      "description": "접근권한 및 암호화 등 8개 취약 항목 대상 실제 이행 여부 검증현장점검 시범 실시 및 대부업권 정밀 평가... 보안 사각지대 차단[보안뉴스 조재호 기자] 금융보안원은 금융권 개인신용정보 보호 실태를 점검하기 위해 3000여개 금융사를 대상으로 ‘2026년도 정보보호 상시평가’를 실시한다고 28일 밝혔다.정보보호 상시평가는 금융사가 신용정보법에 따라 자체",
+      "language": "ko",
+      "summary": "금융보안원은 3000여개의 금융사를 '2026년도 정보보호 상시평가'에 대해 점검하고자 한다.",
+      "points": [
+        "- 3000여개 금융사들의 신용정보 보호 실현율을 평가",
+        "- '2026년도 정보보호 상시평가'를 추진하여 개인금융권 관리 등",
+        "- 금융보안원이 이해한다면, 이러한 보호 제도는 금융권에 포함되어야 한다."
+      ],
+      "insight": "금융보안원은 신용정보보호를 강화하기 위해 대부업권의 급한 포인가이러스를 일으킨다."
+    },
+    {
+      "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
+      "link": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 28 Apr 2026 03:30:00 +0000",
+      "description": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.",
+      "language": "en",
+      "summary": "India's Snabbit completed a $56M funding round amid growing investor interest in the on-demand home service sector. The company has surpassed handling over 40,000 jobs daily and achieved significant cost reductions as it expands.",
+      "points": [
+        "India's Snabbit successfully closes a $56M funding round",
+        "Snabbit processes more than 40,000 jobs per day with sharply reduced costs",
+        "Expansion into multiple cities and service areas"
+      ],
+      "insight": "The news highlights the increasing investor confidence in digital home services platforms like Snabbit. It suggests a positive outlook for companies operating within this niche market, as they can expect to see substantial growth and expansion."
+    },
     {
       "title": "에스투더블유·텔레픽스 맞손... “사이버-우주 데이터 융합, 안보 사각지대 지운다”",
       "link": "http://www.boannews.com/media/view.asp?idx=143392&kind=&sub_kind=",
@@ -583,168 +747,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-4] 꺼진 불도 다시 보자(4)-로그인 기록 안 보면 생기는 위험 신호",
-      "link": "http://www.boannews.com/media/view.asp?idx=143036&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 27 Apr 2026 10:57:00 +0900",
-      "description": "주기적으로 로그인 기록을 확인하여 타인 접속 여부를 체크하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연결시켜 소개한다. 보안은 어렵지 않다.",
-      "language": "ko",
-      "summary": "타인 접속에서 보안 위험을 생산하는 경우는 '실수'으로, 귀하의 전문성과 알고리즈이 중요한 부분이다.",
-      "points": [
-        "타인 접속에서 보안 위험을 생산",
-        "90%가 '실수'으로 시작하는지, 귀하의 전문성과 연구가능성이 필요한지",
-        "100가지 보안 습관을 속담과 연계시켜서 소개"
-      ],
-      "insight": "타인 접속에서 보안 위험을 생산하는 경우는 '실수'으로 발생한다. 그러므로, IT/기술 업계가 개인정보보호에 필요로 하는 공학적 습관과 전문성이 중요하다."
-    },
-    {
-      "title": "트루엔, AI 홈캠 ‘이글루 S8’ 소프트웨어 전면 개편으로 B2C 시장 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=143366&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 27 Apr 2026 10:53:00 +0900",
-      "description": "AI 기능 강화, 구독형 서비스(SaaS) 강화, 앱 UI·UX 개선 등 통해 사용자 편의성 극대화 HW설계, AI 자체개발·국내 서버 운영·국가공인인증 등 경쟁력 기반 B2C 시장 점유율 확대[보안뉴스 엄호식 기자] 트루엔은 스마트 AI 홈캠 ‘이글루(EGLOO)’의 소프트웨어를 전면 개편한다고 27일 밝혔다. 트루엔은 프리미엄 라인업인 ‘이글루 S8’",
-      "language": "ko",
-      "summary": "AI 기능 강화, 구독형 서비스(SaaS) 강화, 앱 UI·UX 개선 등 통해 사용자 편의성 극대화 HW설계, AI 자체개발·국내 서버 운영·국가공인인증 등 경쟁력 기반 B2C 시장 점유율 확대[보안뉴스 엄호식 기자] 트루엔은 스마트 AI 홈캠 ‘이글루(EGLOO)’의 소프트웨어를 전면 개편한다고 27일 밝혔다. 트루엔은 프리미엄 라인업인 ‘이글루 S8’",
-      "points": [
-        "트루엔은 프리미엄 라인업인 ‘이글루 S8’",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“공유기가 사이버 무기로”... 中 해커, 20만대 봇넷 동원해 글로벌 공격 은폐",
-      "link": "http://www.boannews.com/media/view.asp?idx=143358&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 27 Apr 2026 10:04:00 +0900",
-      "description": "미국 등 9개국 정보기관, 개인 공유기 악용한 ‘은밀한 네트워크’ 구축 경고중국 정부 연계 해커들, 랩터 트레인 봇넷 등으로 공격 발원지 세탁[보안뉴스 김형근 기자] 미국 등 9개국 정보기관이 중국 정부 연계 해커들이 개인 공유기와 사물인터넷(IoT) 장비로 구성된 ‘은밀한 네트워크’ 뒤에 숨어 사이버 공격을 은폐하고 있다고 경고했다.로이터와 가디언 등 외",
-      "language": "ko",
-      "summary": "미국 등 9개국 정보기관, 개인 공유기 악용한 ‘은밀한 네트워크’ 구축 경고중국 정부 연계 해커들, 랩터 트레인 봇넷 등으로 공격 발원지 세탁[보안뉴스 김형근 기자] 미국 등 9개국 정보기관이 중국 정부 연계 해커들이 개인 공유기와 사물인터넷(IoT) 장비로 구성된 ‘은밀한 네트워크’ 뒤에 숨어 사이버 공격을 은폐하고 있다고 경고했다. 로이터와 가디언 등 외",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "우수조달제도, “기술기업 성장은 돕고 시장 공정성은 높인다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143357&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 27 Apr 2026 09:54:00 +0900",
-      "description": "심사 전문성 강화 위한 기술분야 세분화, 수출·고용실적 등 연장요건 합리화상위기업 납품집중 관리제 도입, 중대재해 사업장 감점 신설 등 공정성 강화특허적용확인보고서 발급기관 확대 등 규제개선을 통한 기업불편 해소[보안뉴스 강초희 기자] 조달청(청장 백승보)은 기업 성장을 지원하고, 공정한 경쟁 환경을 조성하기 위해 우수조달물품 관련 규정을 개정, 27일 시",
-      "language": "ko",
-      "summary": "심사 전문성 강화 위한 기술분야 세분화, 수출·고용실적 등 연장요건 합리화상위기업 납품집중 관리제 도입, 중대재해 사업장 감점 신설 등 공정성 강화특허적용확인보고서 발급기관 확대 등 규제개선을 통한 기업불편 해소[보안뉴스 강초희 기자] 조달청(청장 백승보)은 기업 성장을 지원하고, 공정한 경쟁 환경을 조성하기 위해 우수조달물품 관련 규정을 개정, 27일 시",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
-      "link": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 26 Apr 2026 22:00:46 +0000",
-      "description": "Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?",
-      "language": "en",
-      "summary": "Stanford freshmen aspiring to make global impacts are drawn to a book discussing leadership qualities and personal development",
-      "points": [
-        "The Stanford Book Club is featuring 'Outliers' by Malcolm Gladwell, which examines the traits of successful leaders.",
-        "Freshman students at Stanford seem motivated towards global-mindedness after reading such literature that discusses world domination in a non-violent context.",
-        "Book club members plan to apply insights from 'Outliers' into their own personal and professional lives."
-      ],
-      "insight": "The Stanford freshmen are showing an early interest in leadership development, which is positive for the future IT/technology industry as these individuals may bring diverse perspectin"
-    },
-    {
-      "title": "Amazon’s new podcast strategy: Monetize everything",
-      "link": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 26 Apr 2026 21:38:08 +0000",
-      "description": "Amazon's podcasting business seems to have transformed over the past six months.",
-      "language": "en",
-      "summary": "Since June last year, Amazon has revamped its approach towards monetizing its vast collection of original and non-original podcasts.",
-      "points": [
-        "Amazon's new strategy includes offering both free and paid access to a variety of their audio content across different genres."
-      ],
-      "insight": "The transformation indicates Amazon is expanding its reach in the audiovisual space, challenging traditional media models by integrating monetization within streaming services."
-    },
-    {
-      "title": "What Tim Cook built",
-      "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 26 Apr 2026 20:22:51 +0000",
-      "description": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.",
-      "language": "en",
-      "summary": "The article delves into the transformation of Apple under Tim Cook's leadership since he became CEO in 2curry and explores upcoming challenges for John Ternus as his successor.",
-      "points": [
-        "Apple experienced significant growth during Tim Cook’s tenure, expanding its product range with successful launches like the Apple Watch and services sector development.",
-        "Cook's leadership has faced criticism in areas such as environmental practices despite overall company success under his direction. ",
-        "The transition of power to John Ternus brings new challenges for maintaining Apple’s market position, addressing climate change concerns, and capitalizing on the increasingly digital lifestyle."
-      ],
-      "insight": "This article emphasizes that while Tim Cook has led to substantial growth in various aspects of technology and business operations at Apple, there is an expectation for Ternus to continue this success trajectory while also focusing more intently on environmental sustainability. The digital lifestyle's continued evolution suggests a need for innovation within the company."
-    },
-    {
-      "title": "TechCrunch Mobility: Elon’s admission",
-      "link": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 26 Apr 2026 16:03:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "TechCrunch's Elon reveals his admission related to technology in mobility.",
-      "points": [
-        "Elon Musk admits a mistake or oversight regarding tech used for transportation",
-        "The specific nature of the issue is not detailed, but it likely impacts users directly",
-        "This acknowledgment may prompt discussions about transparency and accountability in technology companies"
-      ],
-      "insight": "Elon's admission could signify a shift toward greater corporate responsibility within tech-driven mobility sectors."
-    },
-    {
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 26 Apr 2026 15:30:00 +0000",
-      "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-      "language": "en",
-      "summary": "An individual is selling their home and land near San Francisco with the stipulation that potential buyers must have Anthropic equity.",
-      "points": [
-        "- A unique real estate offer for a property in Mill Valley, requiring Anthropic equity from buyer",
-        "- The listed house has three bedrooms but is priced beyond average market value",
-        "- Location near North Lake Tahoe and popular San Francisco areas"
-      ],
-      "insight": "The requirement of specific company stock as a condition for home purchase indicates unconventional financing methods within the IT industry, potentially highlighting corporate social responsibility initiatives."
-    },
-    {
-      "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
-      "link": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 26 Apr 2026 15:00:00 +0000",
-      "description": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps",
-      "language": "en",
-      "summary": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps",
-      "points": [
-        "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[한국정보보호학회 칼럼] 글로벌 물류 복합 위기 시대, “스마트 항만 보안”을 위한 기반 강화가 시급하다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143351&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 26 Apr 2026 16:40:00 +0900",
-      "description": "국가 경제 안보를 위한 항만 사이버보안 법제화와 융합보안 인력 육성이 시급하다[보안뉴스= 김호원 한국정보보호학회 회장] 항만은 국가 경제의 원활한 흐름을 지탱하는 핵심 인프라다. 최근 해양수산부 집계에 따르면, 2025년 전국 무역항의 총 물동량은 15억7101만 톤을 기록했으며, 컨테이너 물동량은 3211만 TEU로 사상 최대치를 경신했다. 이는 우리 항",
-      "language": "ko",
-      "summary": "국가 경제의 원활한 진息를 위해 전체화된 보안 기술 교육이 급속업생산되고 있음",
-      "points": [
-        "국가의 경제 안보를 위해 항만 사이버보안에 강한 발전",
-        "총 무역항의 수요를 통합하여 상황을 직접 볼 수 0ne제"
-      ],
-      "insight": "보안뉴스는 IT/기술 업체에서의 인류 사고율 증가와 항만의 중요성 증세를 의미"
     }
   ]
 }
