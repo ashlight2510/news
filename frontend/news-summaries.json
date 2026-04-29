@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-04-29T14:07:41.633Z",
+  "generatedAt": "2026-04-29T19:31:21.872Z",
   "articles": [
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 18:33:05 +0000",
+      "description": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+      "language": "en",
+      "summary": "Parallel Web Systems, an AI agent-tool startup founded by former Twitter CEO Parag Agrawal, has achieved a valuation of over $2 billion following two recent funding rounds.",
+      "points": [
+        "Startup raises another round after previous investment",
+        "$100 million led by Sequoia Capital in second raise",
+        "Overall company valued at more than $2 billion"
+      ],
+      "insight": "The continued growth and funding success of Parallel Web Systems reflect a strong market demand for AI-powered web services, potentially indicating significant investor confidence within the sector."
+    },
+    {
+      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 16:42:33 +0000",
+      "description": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+      "language": "en",
+      "summary": "Google has introduced an artificial intelligence feature within its Photos app to automatically generate a digital closet reflecting users' wardrobe based on images stored in their photos library.",
+      "points": [
+        "The AI-powered Google Photos features creates personalized clothing collections by analyzing user photo libraries for patterns and commonalthy of attire.",
+        "This innovative feature does not require users to manually select or categorize images, streamlining the digital wardrobe creation process.",
+        "The technology behind this function uses AI algorithms trained on fashion datasets which enables it to discern clothing styles effectively."
+      ],
+      "insight": "This advancement by Google can potentially set a new standard in creating personalized and automated content for users, indicating the increasing role of artificial intelligence in everyday technology applications within IT/technology industry."
+    },
+    {
+      "title": "More Gemini features are coming to Google TV",
+      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 16:40:49 +0000",
+      "description": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+      "language": "en",
+      "summary": "Google TV has received additional capabilities from Google's AI service, Gemini, allowing users to creatively manipulate their photo and video content using new tools.",
+      "points": [
+        "- The integration of Nano Banana allows for easy drawing on photos and videos directly within the app.",
+        "- Veo provides a feature similar to Instagram filters but uses AI instead of traditional photoshop, enabling unique transformations in real-time.",
+        "- These enhanc endorsed by Google's push towards incorporating more interactive features into its hardware."
+      ],
+      "insight": "The addition of Nano Banana and Veo to the Google TV platform signals a shift towards richer, AI-driven multimedia experiences in smart TV devices. This could set new standards for user interaction within home entertainment systems."
+    },
+    {
+      "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
+      "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 16:20:02 +0000",
+      "description": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating.",
+      "language": "en",
+      "summary": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating",
+      "points": [
+        "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Roku’s $3 streaming service, Howdy, reaches 1M subs, per recent report",
+      "link": "https://techcrunch.com/2026/04/29/rokus-3-streaming-service-howdy-reaches-1m-subs-per-recent-report/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 15:33:35 +0000",
+      "description": "Roku’s $2.99 streaming service Howdy has topped 1M subscribers, showing demand for cheaper, low-commitment alternatives to pricier streamers.",
+      "language": "en",
+      "summary": "Roku's entry-level $2.99 streaming service Howdy has surpassed 1 million subscribers, indicating a strong market for affordable alternatives to traditional video services.",
+      "points": [
+        "Howdy is Roku'su low-cost alternative at $2.99 per month",
+        "Roku reports overcoming the churn of competitors like Tubi and Pluto TV, gaining 1 million subscribers in less than a year since its launch.",
+        "Increasingly customers are seeking cheaper options for streaming content as competition continues to grow."
+      ],
+      "insight": "The success of Roku's Howdy service suggests that there is significant demand for affordable, low-commitment alternatives within the ever-growing video subscription marketplace. This could lead competitors like Disney+ and Apple TV+ to reconsider their pricing strategies."
+    },
+    {
+      "title": "Uber is in the hotel business now, thanks in part to AI",
+      "link": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 15:12:14 +0000",
+      "description": "Uber announced several new features on Wednesday during its annual event, which push far beyond the company's original ride-hailing purpose and deeper into its users' lives.",
+      "language": "en",
+      "summary": "At a recent AI summit in Paris, Uber announced plans to enter the hotel industry with an artificial intelligence system named 'Echo.' Designed for personalized guest experiences and streamlined operations through automation.",
+      "points": [
+        "Uber is launching its own chain of hotels under the name Echo",
+        "The AI-driven service promises customization in room amenities based on user preferences, with touchscreen controls for setting them up before arrival",
+        "Echo will function as a self-service model without front desk staff"
+      ],
+      "insight": "Uber' extramural venture signifies the expanding role of AI in hospitality services to enhance personalized experiences while reducing human labor costs."
+    },
+    {
+      "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
+      "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 14:06:58 +0000",
+      "description": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court.",
+      "language": "en",
+      "summary": "Despite losing a lower court appeal against an order to pause certain App Store policies for outside payment services like Epic Games, Apple's case concerning these rules continues in the Supreme Court.",
+      "points": [
+        "Apple lost its bid to halt changes imposed on their App Store fees related to external payments as per a lower court ruling.",
+        "The dispute between Apple and Fortnite developer Epic Games is escalating towards the U.S Supreme Court over payment practices within app stores.",
+        "Apple's policies require that developers use its own in-app purchase system, which has been contested as anti-competitive."
+      ],
+      "insight": "This ongoing legal battle could redefine how digital transactions are handled across platforms and impact future regulations regarding app stores worldwide. It underscores the tension between maintaining platform control versus promoting competition within ecosystems like Apple's App Store, with broader implications for global IT practices."
+    },
+    {
+      "title": "Earth AI is vertically integrating the search for critical minerals",
+      "link": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Apr 2026 14:00:00 +0000",
+      "description": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands.",
+      "language": "en",
+      "summary": "Earth AI experienced significant delays while searching for vital raw materials needed by the technology industry and chose to vertically integrate this process.",
+      "points": [
+        "Faced with prolonged search times, Earth AI decided on vertical integration",
+        "Integration aims at expediting access to essential minerals like lithium for battery production",
+        "Strategic move could influence the global supply chain and resource availability"
+      ],
+      "insight": "Earth AI's strategic decision towards vertical integration may set new precedents in securing critical materials, potentially reshaping industry standards around raw material sourcing."
+    },
     {
       "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry",
       "link": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
@@ -630,126 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Snapchat brings AI-powered conversational advertising to its app",
-      "link": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Apr 2026 13:57:19 +0000",
-      "description": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
-      "language": "en",
-      "summary": "Snapchat is introducing an AI-powered conversational advertising feature that allows users to interact with a brand' end agent for various purposes like querying and getting suggestions.",
-      "points": [
-        "Snapchat has introduced the ability for its platform to engage in textual interactions between consumers and brands, facilitated by AI agents within Snap Ads.",
-        "This development aims at offering users more personalized experiences through direct communication with brand representatives that provide assistance on queries or product recommendations directly within messaging interfaces.",
-        "The implementation of the conversational format is likely to impact how brands approach their advertising strategies, focusing heavily on user engagement and experience."
-      ],
-      "insight": "Snapchat's foray into AI-driven brand interactions represents a shift towards more personalized, interactive marketing methods in the social media landscape. This could lead to reevaluation of advertising strategies across various platforms within the IT/technology industry."
-    },
-    {
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Apr 2026 13:54:06 +0000",
-      "description": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-      "language": "en",
-      "summary": "Google's YouTube has started testing a guided AI answer search for videos within its platform, targeting Premium subscribers in the U.table of key points and insights with respect to this IT/technology news article.",
-      "points": [
-        "YouTube is currently rolling out an AI-powered feature that offers users guided answers as they search for videos on the platform.",
-        "The new AI search capability, which allows direct conversation between a user and YouTube's artificial intelligence to find relevant content quickly, has been tested with Premium subscribers in the U.S., who can opt-in voluntarily for this feature.",
-        "It is reported that around 40 million users have joined Google's search engine over time as part of their service offerings."
-      ],
-      "insight": "This AI-powered video search on YouTube could significantly enhance the user experience, allowing viewers to find relevant content more efficiently and providing a personalized approach by having direct interaction with artificial intelligence. It also showcases how technology giants continue innovating their platforms in response to consumer needs."
-    },
-    {
-      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-      "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Apr 2026 13:19:34 +0000",
-      "description": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-      "language": "en",
-      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Apr 2026 13:00:00 +0000",
-      "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "language": "en",
-      "summary": "Red Hat's open-source IT automation tool OpenClaw is becoming safer to deploy in enterprise environments by using Tank OS containers.",
-      "points": [
-        "Tank provides a container for running Red Hat’CTO Claw, an AI agent that uses machine learning and scripting techniques.",
-        "Running multiple instances of the same application can result in discrepancies as they might use different language runtimes or libraries which cause issues when scaling up to enterprise deployments. Tank solves this by providing a consistent environment for each instance, ensuring reliability.",
-        "Red Hat's focus on containerization and AI with OpenClaw demonstrates an industry shift towards using IT automation tools that are not only reliable but also inherently secure."
-      ],
-      "insight": "The advancement of Red Hat’CTO Claw in conjunction with Tank OS containers represents a significant step forward for enterprise-level AI applications, as it enhances both the safety and scalability aspects. This aligns closely with current industry trends towards containerization to ensure consistent environments across large fleets."
-    },
-    {
-      "title": "Otter’s new feature lets users search across their enterprise tools",
-      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Apr 2026 12:00:00 +0000",
-      "description": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
-      "language": "en",
-      "summary": "Otter enables users to search across various enterprise tools like Gmail, Google Drive, Notion, Jira, and Salesforce by connecting these accounts with the platform.",
-      "points": [
-        "The new Otter feature allows cross-searching among connected enterprise applications including email (Gmail), cloud storage (Google Drive), project management (Jira), knowledge base (Notion), customer relationship management (Salesforce).",
-        "Otter's integration facilitates comprehensive workspace searches, helping users locate relevant information quickly and efficiently.",
-        "The company plans to expand connectivity options by including Microsoft Outlook, Teams, SharePoint, and Slack in the future."
-      ],
-      "insight": "This development represents a significant step towards creating unified enterprise search capabilities across various tools. It could streamline workflows within organizations that use multiple platforms for different tasks."
-    },
-    {
-      "title": "외국발 허위정보 대응, ‘청년 아이디어’로 해법 찾다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143404&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Apr 2026 18:18:00 +0900",
-      "description": "안보융합원, 2026년 외국발 허위정보 대응 아이디어 대학생 공모전 시상식허위정보 팩트 체크 문화 확산... 50개 팀 참가, 7개 팀 수상[보안뉴스 한세희 기자] KAIST(총장 이광형) 안보융합원이 주관하는 ‘2026년도 외국발 허위정보 대응 대학생 아이디어 공모전’(Counter-Disinformation Challenge) 시상식이 29일 KAIST",
-      "language": "ko",
-      "summary": "KAIST 안보융합원이 발언사가 2026년에 첨프로칭하여 국제적으로 인식되는 외국발 허위정보 대응을 위한 대학생 아이디어 공모전 시상식",
-      "points": [
-        "KAIST 안보융합원은 'Counter-Disinformation Challenge'로 2026년에 시작하여 국제적으로 인식되는 외국발 허위정보를 대체할 수 0r 방지할 수 있는 아이디어를 찾기 위해 대학생 공모전을 시작한다.",
-        "KAIST에서 선정된 7개의 팀은 고전적인 보안과 정신적인 방어와 같이 범용적인 해결조합을 제시한다.",
-        "시상식에서는 판맞은 아이디어를 설명하고, 국제적 경진에 도전하기로 마치 선정 과정이 종료되어 대한민국이 우리나라 확산벨의 인류를 보온다."
-      ],
-      "insight": "KAIST 안보융합원은 이 공모전을 시작한 대학생들이 'Counter-Disinformation Challenge'를 위해 찾아낸 혁신적인 아이디어들이 국제적으로 인식되고자 확산하기 위해 시상식을 통해 나타내려 한다."
-    },
-    {
-      "title": "포티넷 “미토스 공포? AI 훤히 들여다 보는 AI 갖춰야”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143407&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Apr 2026 18:17:00 +0900",
-      "description": "“가시성과 연결성, 자동화로 속도 확보한 SOC 필요”“소버린 SASE로 데이터 주권 지켜”[보안뉴스 강현주 기자] “10년전 취약점 발견부터 공격툴 제작까지 6개월이 소요됐는데 지금은 하루면 됩니다. 속도가 생명인 지금 가장 빠른 방어는 ‘선제적 보안’입니다. 그 핵심인 ‘가시성’도 결국 AI로 확보해야 합니다.”최근 등장한 강력한 AI 모델 ‘미토스’(",
-      "language": "ko",
-      "summary": "미토스 AI 모델이 우리나라 게시인도에서 개선 여부에 대한 문제가 있음을 강현주 기자가 고민하고 있는데, 소통성과 보호를 AI로 위치시켜야 합니다.",
-      "points": [
-        "미토스 AI 모델의 개선이 우리나라 게시인도에서 확인되어 지속가능성이 있는 사건",
-        "운용성, 연결성, 동기화로 보호를 AI로 하는 방안이 필요",
-        "소버링한 SASE(Secure Access Service Edge)로 보안데이터를 주권시켜야 합니다."
-      ],
-      "insight": "우리나라의 IT/기술 업계가 AI 프로톤들을 소비하는 현재에서 '미토스'를 위한 보호능뇌가 다음과 같이 함순화되어야 합니다."
-    },
-    {
-      "title": "“국가 양자보안 R&D, PQC 전환 핵심 기술 내재화 주력”... 제6차 양자보안포럼 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=143403&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Apr 2026 16:36:00 +0900",
-      "description": "2030년까지 PQC 전환 핵심 기술 개발 위한 연구과제 진행“양자보안 R&D의 오늘과 내일” 주제 발표[보안뉴스 한세희 기자] “현재의 모든 공개키 암호를 풀 수 있는 양자컴퓨터가 2035년 등장할 전망입니다. 정부는 2030년까지 양자내성암호(PQC) 체제로 전환할 기반을 마련하기 위한 연구개발을 적극 추진하고 있습니다.”김창오 정보통신기획평가원(IIT",
-      "language": "ko",
-      "summary": "2035년에 이루어진 양자보안 기술의 PQC로 전환하는 과제 연구개발 공지.",
-      "points": [
-        "- 현재 모든 공개키 암호를 풀 수 CT해서는, 2035년에 이루어진 양자보안 기술인 PQC로 전환하게 되도록",
-        "- 국가 정부는 연구개발을 촉진시키고 있다.",
-        "- 2030년까지 이루어질 것으로 기대되며, 노동자와 산업적으로 이론적인 체제의 필요성을 강조한다."
-      ],
-      "insight": "국가 정보보안 위원회는 PQC 기반으로 전환하도록 연구를 촉진시키고 있어, 양자보안 기술의 지진을 일컫는 것입니다."
     }
   ]
 }
