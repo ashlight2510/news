@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-04-30T14:14:40.197Z",
+  "generatedAt": "2026-04-30T19:28:14.224Z",
   "articles": [
+    {
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 18:56:59 +0000",
+      "description": "The perpetually-struggling EV company made the payments while being investigated by the SEC. That four-year-long probe was ultimately closed in March.",
+      "language": "en",
+      "summary": "EV startup Faraday Future has paid $7.5 million to a company linked with its founder Jia Yueting amid SEC investigations and ongoing struggles.",
+      "points": [
+        "Faraday Future, an EV startup, made payments while being probed by the SEC for alleged misconduct involving funds tied to co-founder Jia Yueting.",
+        "The probe was closed in March after four years without a specific finding of wrongdoing against Faraday Future and its executives as per public court documents from May 2019.",
+        "Despite the closure, there are ongoing concerns about EV market trends impacting investor sentiment towards companies like Faraday Future."
+      ],
+      "insight": "The payment made by Faraday Future during an SEC investigation raises questions regarding corporate governance and transparency in the fast-evolving electric vehicle sector, potentially affecting future investment decisions within this industry."
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 18:20:03 +0000",
+      "description": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "language": "en",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico",
+      "points": [
+        "OpenAI is launching additional opt-in protections for ChatGPT accounts",
+        "The new security initiative includes a new partnership with security key provider Yubico",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 18:03:57 +0000",
+      "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "language": "en",
+      "summary": "Elon Musk reveals that Grok, an AI developed by Microsoft with expertise in xAI (explainable artificial intelligence), was trained on OpenAI models to ensure innovation and competit endurance.",
+      "points": [
+        "Grok is a model built specifically for explainable AI research at MSRA within the Microsoft team of top-tier engineers, scientists, and PhDs specializing in natural language processing (NLP).",
+        "To advance Grok's abilities without directly copying OpenAI models—which could lead to intellectual property issues or stifle innovation through 'distillation'- the team trained it on data from other sources.",
+        "The strategy demonstrates a commitment by Microsoft and Musk to foster continuous improvement in AI capabilities while adhering to ethical guidelines for technology development."
+      ],
+      "insight": "This news reflects an industry-wide emphasis on transparency, accountability, and the pursuit of innovation without resorting to unethical shortcuts such as 'distillation' or model replication that could potentially harm smaller competitors by creating monopolistic tendencies."
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 17:53:53 +0000",
+      "description": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+      "language": "en",
+      "summary": "Robhy Bustami from BioticsAI shares insights on managing regulatory challenges in healthcare technology and maintaining team motivation during fundraising efforts.",
+      "points": [
+        "BioticsAI has successfully navigated the complex regulations of a highly controlled space like healthcare with their AI-driven drug discovery platform.",
+        "Despite regulatory hurdles, BioticsAI is making progress by focusing on innovative solutions that accelerate pharmaceutical research and development.",
+        "To maintain team motivation during intense fundraising periods for R&D, the company employs strategies to keep staff engaged with their purpose."
+      ],
+      "insight": "The BioticsAI CEO's experience highlights that perseverance and innovative thinking can drive progress in regulated industries like healthcare technology. The company shows how motivation within the team, despite fundraising challenges, is crucial for overcoming regulatory barriers."
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 17:46:54 +0000",
+      "description": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "language": "en",
+      "summary": "Google has announced its Gemini AI assistant will be coming standard in millions of vehicles as part of a major expansion into smart mobility.",
+      "points": [
+        "Gemini is Google's next-generinan iteration over Siri, acting as an advanced conversational AI to enhance the driving experience",
+        "Google plans for Gemini to become standard in millions of vehicles by early 2024, with integration into various car models and systems",
+        "The development follows a partnership between Google's mooveye division and several major automakers"
+      ],
+      "insight": "This move showcases an ambitious expansion strategy for Google in smart mobility technology that integrates cutting-edge AI into everyday transportation."
+    },
+    {
+      "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
+      "link": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 17:24:49 +0000",
+      "description": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer.",
+      "language": "en",
+      "summary": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 17:15:19 +0000",
+      "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "language": "en",
+      "summary": "Stripe has launched Link, a digital wallet that not only allows users to connect financial services but also enables the use of autonomous AI agents for secure spending with approval flows.",
+      "points": [
+        "Link is Stripe'su new digital payment solution designed by customers and entrepreneurs alike",
+        "The Link wallet lets you manage multiple accounts, cards, banks, subscriptions, recurring payments in one place while authorizing AI agents to spend securely using approval flows.",
+        "AI integration enhances security with Stripe’s zero-trust approach for seamless financial management"
+      ],
+      "insight": "The introduction of Link by Stripe signifies a shift towards more integrated and intelligent digital payment solutions that cater to not only human users but also AI agents, which could potentially streamline business operations while maintaining robust security measures."
+    },
+    {
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 16:06:49 +0000",
+      "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "language": "en",
+      "summary": "Salesforce is crowdsourcing AI development by involving customers in guiding their product roadmap.",
+      "points": [
+        "Enterprise customer feedback drives Salesforce's artificial intelligence initiatives",
+        "This approach assumes common challenges among similar businesses to prioritize features",
+        "Salesforce is implementing new AI-driven tools for sales, service management and marketing"
+      ],
+      "insight": "The strategy emphasizes customer collaboration in product development which could lead to more relevant technology solutions within the IT industry."
+    },
+    {
+      "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
+      "link": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 15:55:28 +0000",
+      "description": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"",
+      "language": "en",
+      "summary": "Uber has partnered with Hertz and its subsidiary Oro Mobility to manage cleaning, charging, and fixing services for Uber'thy robotaxis.",
+      "points": [
+        "Hertz is launching a new affiliate company named 'Oro Mobility'.",
+        "'Oro Mobility' will offer fleet management solutions across various mobility segments. These include traditional cars, electric vehicles like Tesla Model S and BMW i3, autonomous vehicle technology from players such as Waymo or Zoox, shared car services provided by Lyft and Via, ride-hailing platforms in emerging markets, peer-to-peer sharing solutions offered by companies like Circase.",
+        "Hertz's partnership with Uber focuses on robotaxis specifically from the Lucid Motors brand."
+      ],
+      "insight": "This collaboration highlights the growing importance of fleet management services in supporting autonomous vehicle operations, which could potentially influence similar ventures within and outside the IT/technology industry as self-driving technology progresses."
+    },
+    {
+      "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+      "link": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 15:29:49 +0000",
+      "description": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
+      "language": "en",
+      "summary": "137 Ventures has successfully closed a fundraise of over $70 endowment to back growth-stage startups with notable investments in SpaceX and Anduril.",
+      "points": [
+        "VC firm 137 Ventures raised an impressive $700 million for two new funds",
+        "Portfolio includes major players such as SpaceX, highlighting the company's confidence in their portfolio companies’ futures",
+        "Investment emphasis on growth-stage startups indicates a focus on scaling operations and expanding market reach"
+      ],
+      "insight": "The fundraise underscores increased investor trust in high-growth potential tech firms, suggesting strong industry support for aggressive expansion strategies."
+    },
+    {
+      "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
+      "link": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 15:15:41 +0000",
+      "description": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
+      "language": "en",
+      "summary": "A dental practice software maker has addressed a significant security flaw that had put patients' confidential medical records at risk of exposure.",
+      "points": [
+        "Security bug in dental office management software potentially exposed patient data",
+        "Bug fix completed; affected company remains silent on specifics and communication difficulties faced by whistleblower",
+        "Whistleblowing highlighted vulnerability, prompting the necessary security improvements"
+      ],
+      "insight": "This news underscCES how crucial it is for IT/technology companies to prioritize rapid response to reported bugs and foster open communication channels with their users."
+    },
+    {
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 15:14:55 +0000",
+      "description": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+      "language": "en",
+      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again",
+      "points": [
+        "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
       "link": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
@@ -567,186 +747,6 @@
         "Increasingly customers are seeking cheaper options for streaming content as competition continues to grow."
       ],
       "insight": "The success of Roku's Howdy service suggests that there is significant demand for affordable, low-commitment alternatives within the ever-growing video subscription marketplace. This could lead competitors like Disney+ and Apple TV+ to reconsider their pricing strategies."
-    },
-    {
-      "title": "Uber is in the hotel business now, thanks in part to AI",
-      "link": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 15:12:14 +0000",
-      "description": "Uber announced several new features on Wednesday during its annual event, which push far beyond the company's original ride-hailing purpose and deeper into its users' lives.",
-      "language": "en",
-      "summary": "At a recent AI summit in Paris, Uber announced plans to enter the hotel industry with an artificial intelligence system named 'Echo.' Designed for personalized guest experiences and streamlined operations through automation.",
-      "points": [
-        "Uber is launching its own chain of hotels under the name Echo",
-        "The AI-driven service promises customization in room amenities based on user preferences, with touchscreen controls for setting them up before arrival",
-        "Echo will function as a self-service model without front desk staff"
-      ],
-      "insight": "Uber' extramural venture signifies the expanding role of AI in hospitality services to enhance personalized experiences while reducing human labor costs."
-    },
-    {
-      "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
-      "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 14:06:58 +0000",
-      "description": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court.",
-      "language": "en",
-      "summary": "Despite losing a lower court appeal against an order to pause certain App Store policies for outside payment services like Epic Games, Apple's case concerning these rules continues in the Supreme Court.",
-      "points": [
-        "Apple lost its bid to halt changes imposed on their App Store fees related to external payments as per a lower court ruling.",
-        "The dispute between Apple and Fortnite developer Epic Games is escalating towards the U.S Supreme Court over payment practices within app stores.",
-        "Apple's policies require that developers use its own in-app purchase system, which has been contested as anti-competitive."
-      ],
-      "insight": "This ongoing legal battle could redefine how digital transactions are handled across platforms and impact future regulations regarding app stores worldwide. It underscores the tension between maintaining platform control versus promoting competition within ecosystems like Apple's App Store, with broader implications for global IT practices."
-    },
-    {
-      "title": "Earth AI is vertically integrating the search for critical minerals",
-      "link": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 14:00:00 +0000",
-      "description": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands.",
-      "language": "en",
-      "summary": "Earth AI experienced significant delays while searching for vital raw materials needed by the technology industry and chose to vertically integrate this process.",
-      "points": [
-        "Faced with prolonged search times, Earth AI decided on vertical integration",
-        "Integration aims at expediting access to essential minerals like lithium for battery production",
-        "Strategic move could influence the global supply chain and resource availability"
-      ],
-      "insight": "Earth AI's strategic decision towards vertical integration may set new precedents in securing critical materials, potentially reshaping industry standards around raw material sourcing."
-    },
-    {
-      "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry",
-      "link": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 13:23:57 +0000",
-      "description": "The government of Sri Lanka has lost more than $3 million in two recent, separate cybersecurity incidents as the country continues to recover from its 2022 debt crisis.",
-      "language": "en",
-      "summary": "The government of Sri Lanka has lost more than $3 million in two recent, separate cybersecurity incidents as the country continues to recover from its 2022 debt crisis",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 13:10:57 +0000",
-      "description": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-      "language": "en",
-      "summary": "Firestorm Labs has secured an $82M funding round to revolutionize military logistics with drone-enabled factories housed in shipping containers.",
-      "points": [
-        "Defense startup Firestorm Labs raises $82 million for a new model of manufacturing",
-        "The innovative approach involves miniature, automated 'factories' within mobile container units tailored to field repair needs",
-        "This funding and project aim to reduce logistics vulnerabilities by decentralizing production capabilities in military operations"
-      ],
-      "insight": "Firestorm Labs represents a significant shift towards autonomous, resilient manufacturing for defense applications that could inspire similar strategies across various industries."
-    },
-    {
-      "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
-      "link": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 13:10:00 +0000",
-      "description": "BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.",
-      "language": "en",
-      "summary": "BMW i Ventures announces a $30 endowed fund focusing on agentic AI, physical AI, industrial software, advanced materials, manufacturing and supply chain technologies.",
-      "points": [
-        "BMW i Ventures has launched its new Fund Endowment with the aim of investing in startups that focus on Aggressive Artificial Intelligence (AI).",
-        "The fund also looks to support companies developing Physical AI and industrial software.",
-        "Additionally, BMW i Ventures is interested in advanced materials, manufacturing technologies, and supply chain innovations."
-      ],
-      "insight": "This investment by a major automotive company like BMW signifies the growing importance of integrating AI into various aspects of production processes, especially within the context of sustainable development goals. It indicates that startups working on advanced materials and manufacturing technologies will likely be attracting more funding."
-    },
-    {
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 13:00:00 +0000",
-      "description": "Think Discord chats, but with AI characters in addition to humans.",
-      "language": "en",
-      "summary": "Shapes is an app that integrates artificial intelligence into group chat environments like Discord. The platform features various 'shaped' avatars designed with AI for enhanced interactions.",
-      "points": [
-        "- Shapes introduces human-like, intelligent avatars to social platforms traditionally used by humans alone.",
-        "- Avatars are created using machine learning and can express a wide range of emotions through text messages and emojis.",
-        "- The app emphasizes ethical AI usage without intrusive surveillin or privacy violations."
-      ],
-      "insight": "Shapes is pioneering the integration of social constructs with conversational agents, potentially setting a new standard for human-AI interactions in digital communication spaces and influencing future developments in natural language processing technologies within these applications."
-    },
-    {
-      "title": "Google Translate now lets you practice pronunciation",
-      "link": "https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 12:34:29 +0000",
-      "description": "The feature is rolling out in the U.S. and India with support for English, Spanish, and Hindi.",
-      "language": "en",
-      "summary": "The feature is rolling out in the U. and India with support for English, Spanish, and Hindi",
-      "points": [
-        "The feature is rolling out in the U",
-        "and India with support for English, Spanish, and Hindi",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Jack Dorsey-backed Vine reboot Divine launches to the public",
-      "link": "https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 12:00:00 +0000",
-      "description": "Divine, a Vine reboot backed by Jack Dorsey’s nonprofit, revives six-second looping videos.",
-      "language": "en",
-      "summary": "Jack Dorsey's organization supports Divine as it relaunches looped six-second Vines on its own platform.",
-      "points": [
-        "Divine is a reboot of the popular social media app, formerly known for looping six-second videos called 'Vines.'",
-        "The project has backing from Jack Dorsey's nonprofit venture and was initially showcased at SXSW in March.",
-        "On its official launch day on Twitter, Divine garnered 30.6 million views within the first five hours."
-      ],
-      "insight": "This indicates a renewed interest in short-form video content as people increasingly engage with platforms like TikTok and Instagram Reels."
-    },
-    {
-      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 09:45:00 +0000",
-      "description": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-      "language": "en",
-      "summary": "Scout AI raised $100M to develop AI models for military applications such as controlling fleets of unmanned vehicles at the battlefield.",
-      "points": [
-        "Colby Adcock founded Scout AI, aiming to use artificial intelligence in warfare by training soldiers with advanced technology on operational tasks and decision-making processes directly applicable on the battlefield. The company raised $100 million led primarily by SoftBank Vision Fund.",
-        "The initial team consisted of former military personnel from various branches, all possessing extensive knowledge in robotics and artificial intelligence with diverse experiences ranging between two to four years working at major tech companies such as Google AI Brain. The Scout Bootcamp lasts for five days where the aspiring soldiers learn about advanced technologies that could shape future warfare.",
-        "Scout has developed its own proprietary simulation platform named 'OpsSim' which simulates battlefield scenarios with unmanned vehicles and uses machine learning algorithms to optimize strategies on real-time data."
-      ],
-      "insight": "The integration of AI in military training signifies the increasing reliance on technology for enhancing soldiers’ capabilities, potentially leading towards a significant shift from human decision making at warfronts. While this development provides tactical advantages and reduces risk to lives during combat operations, it also raises ethical concerns regarding the role of machines within conflict resolution."
-    },
-    {
-      "title": "케이사인, 52억 규모 국가 PQC 핵심기술개발사업 주관기관 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=143434&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Apr 2026 17:53:00 +0900",
-      "description": "정보통신기획평가원 주관 과제 수주해 2029년까지 차세대 암호 전환 생태계 구축산·학·연 전문가 참여한 컨소시엄 이끌며 공공 및 금융 인프라 보안 고도화 정조준[보안뉴스 조재호 기자] 케이사인이 과학기술정보통신부 산하 정보통신기획평가원(IITP)이 추진하는 ‘2026년 범국가 양자내성암호 전환 핵심기술개발사업’의 주관기관으로 선정돼 최종 협약을 맺고, 데브",
-      "language": "ko",
-      "summary": "정보통신기획평가원 주관 과제 수주해 2029년까지 차세대 암호 전환 생태계 구축산·학·연 전문가 참여한 컨소시엄 이끌며 공공 및 금융 인프라 보안 고도화 정조준[보안뉴스 조재호 기자] 케이사인이 과학기술정보통신부 산하 정보통신기획평가원(IITP)이 추진하는 ‘2026년 범국가 양자내성암호 전환 핵심기술개발사업’의 주관기관으로 선정돼 최종 협약을 맺고, 데브",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "흩어져 있던 각종 재난·안전정보, ‘국민안전24’ 한 곳에서 본다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143435&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Apr 2026 17:52:00 +0900",
-      "description": "재난·안전정보 제공 창구, ‘국민안전24’로 통합 연계해 본격 운영[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 국민이 재난·안전정보를 한 곳에서 쉽고 편리하게 이용할 수 있도록, 기존의 ‘국민재난안전포털’을 ‘국민안전24’로 전면 개편해 운영한다.그간 재난·안전정보는 여러 곳에 분산되어 있어 이용에 불편하고, 사용자 위치를 중심으로 실시간 맞춤형 정",
-      "language": "ko",
-      "summary": "국민안전24 새로운 공감 사이트를 시스템화한 장관 윤호중이 재난·안전정보를 단일 지해적인 위치에서 쉽게, 편리하게 도면적으로 제공하도록 개설한.",
-      "points": [
-        "국민안전24를 시스템화한 장관 윤호중이 '국민재난안전포털'로 교체",
-        "...",
-        "..."
-      ],
-      "insight": "이러한 개설은 IT/기술 업계에서 정보 활용을 더 쉽게, 빨리 하는 문제를 해결하고, 사용자의 수요가 증가한다."
     }
   ]
 }
