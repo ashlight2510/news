@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-01T03:15:01.200Z",
+  "generatedAt": "2026-05-01T08:12:09.331Z",
   "articles": [
+    {
+      "title": "리눅스 커널 초고위험 취약점, 티오리 AI 솔루션 ‘진트 코드’가 찾았다",
+      "link": "http://www.boannews.com/media/view.asp?idx=143460&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 16:25:00 +0900",
+      "description": "2017년 이후 모든 리눅스 배포판에서 100% 확률로 해킹 가능한 논리적 결함... 즉각 패치 권고티오리 자체 개발 AI 기반 코드 분석 솔루션 ‘진트 코드’(Xint Code)가 1시간 만에 발견[보안뉴스 한세희 기자] 티오리(대표 박세준)가 리눅스(Linux) 운영체제에서 시스템 권한을 100% 탈취할 수 있는 초고위험 보안 취약점을 발견했다.이번에",
+      "language": "ko",
+      "summary": "리눅스에서 시스템 권한을 100% 탈취할 수 07일에 발견",
+      "points": [
+        "리눅스에서 시스템 권한을 초고위험 보안 취약점으로, '진트 코드'를 발견",
+        "티오리 AI 기반 솔루션이 이전 보안 방식을 모니터링",
+        "기술 정보 시스턴리ette로 보호하도록 만들어야한다"
+      ],
+      "insight": "기술과 관련된 보안 잘못받을 수 있는 취약점이, '진트 코드'로 Linux에서의 시스템 권한을 100% 탈취를 통해 보호에 대한 신기록질"
+    },
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
@@ -734,21 +749,6 @@
         "이에 국가가 제2차 위원회를 열어 과태료금을 부르는 이유로 연계정보 안전조치 의무 위반 사고가 추인되었다."
       ],
       "insight": "방미통위가 과태료금을 부과하려면 국민에게 중요한 이유를 설명해야 행동하고 있다."
-    },
-    {
-      "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
-      "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 01:00:00 +0000",
-      "description": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
-      "language": "en",
-      "summary": "Amazon-backed PhonePe and Meta (Facebook)-owned Paytm have joined forces in India' endorsing calls from local firms seeking regulatory measures to curb the dominance of Google Pay by AmazonPay, a subsidiary of tech giant Alphabet.",
-      "points": [
-        "Local Indian payments providers seek restrictions on large players",
-        "Amazon and Meta advocating for level playing field in digital payment space",
-        "Increased competition expected from Tez's launch by Google"
-      ],
-      "insight": "This development may lead to a more competitive landscape within India's burgeoning UPI instant payments market, potentially offering better services and pricing options for consumers."
     }
   ]
 }
