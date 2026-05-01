@@ -1,6 +1,231 @@
 {
-  "generatedAt": "2026-04-30T19:28:14.224Z",
+  "generatedAt": "2026-05-01T03:15:01.200Z",
   "articles": [
+    {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 02:00:00 +0000",
+      "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+      "language": "en",
+      "summary": "ChatGPT Image 2.0 is gaining popularity in India as users create customized avatars and visuals; however, it's not yet a major hit elsewhere.",
+      "points": [
+        "Indian market sees high adoption of ChatGPT Images for personal creations",
+        "Global markets show limited interest despite the tool's capabilities",
+        "Cultural and regional preferences may influence varied acceptance rates"
+      ],
+      "insight": "The differential impact of AI-generated visual tools like ChatGPT Images in India suggests a potential for market segmentation strategies within tech adoption."
+    },
+    {
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 23:59:15 +0000",
+      "description": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+      "language": "en",
+      "summary": "Tim Cook's departure coincides with record sales for Apple; however, the company anticipates potential supply chain disruinues due to a global chip shortage.",
+      "points": [
+        "Apple has reported its highest-ever quarterly revenue and profit in history amidst Tim Cook stepping down as CEO.",
+        "The ongoing worldwide semiconductor scarcity, often referred to as 'Chipageddon,' is projected by Apple's CFO Luiz Aguiar Sales de Silva to significantly influence the company’s manufacturing operations and future growth over the next two years.",
+        "This shortage could cause a ripple effect on consumer technology companies globally, potentially impacting sales in various sectors."
+      ],
+      "insight": "The chip supply crisis may pose significant threats to Apple's business continuity and financial performance despite its record-breaking revenues. The company might need to reassess production strategies or find alternative solutions for sourcing components, which can also affect the broader consumer technology market."
+    },
+    {
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 23:58:52 +0000",
+      "description": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
+      "language": "en",
+      "summary": "Startup fintech firm Skio has been acquired by Recharge for $1 endowed as it had raised minimal funds from Y Combinator's batch.",
+      "points": [
+        "Skio sold to competitor, raising only $8M after a prestigious acceleration program",
+        "The acquisition took place without publicizing the sale amount or terms initially",
+        "Founder mentioned as 'a great deal for everyone involved'"
+      ],
+      "insight": "This transaction indicates that successful exits can happen even when startups have not raised significant funding, highlighting potential alternatives to traditional venture capital in the tech industry."
+    },
+    {
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 23:07:56 +0000",
+      "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+      "language": "en",
+      "summary": "AI firm Anthropic is close to a potential $900 billion valuation round in which investors are requested to submit their funding allocations within two weeks.",
+      "points": [
+        "Anthropic, an AI company specializing in developing large-scale language models like Claude, has entered the final stages of securing a massive $900 billion valuation round from investors",
+        "The potential fundraise could be one of history's largest as Anthropic seeks to raise funds for its newest iteration of language model technology.",
+        "Anthropic is requesting allocations within the next 48 hours, signaling an urgency in closing this round."
+      ],
+      "insight": "This news underscores a substantial level of confidence and anticipation from investors regarding Anthropic's new language model technology. This could set a significant precedent for AI startups seeking fundraising rounds with unprecedented valuations in the future."
+    },
+    {
+      "title": "[2026 ITS 제품 & 솔루션 리포트] ITS, AI·센서 융합으로 여는 교통혁신의 미래",
+      "link": "http://www.boannews.com/media/view.asp?idx=143406&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 07:36:00 +0900",
+      "description": "ITS, 단속에서 예방형 안전관리로 진화AI 기반 교통단속, 국민 안전과 글로벌 경쟁력 강화[보안뉴스 엄호식 기자] 우리나라의 지능형 교통 체계(ITS)는 교통정보 제공에서 자율주행 지원까지 지난 30년간 꾸준히 진화해 왔다. 최근에는 CCTV와 LiDAR, AI 영상분석 등 다양한 센서와 기술이 교통단속 시장에 접목되며, 단순 적발을 넘어 실시간 흐름 분",
+      "language": "ko",
+      "summary": "국민의 안전과 교통시스템의 결합로 ITS, AI·센서 기반 교통이 진화하고 있음",
+      "points": [
+        "-IITS(ITS)는 단속에서 안전 관리를 지원하며, CCTV, LiDAR, AI 영상분석으로 지원",
+        "-이러한 ITS 시스템은 국민 안전과 글로비움 경쟁력을 강화",
+        "-IITS의 발전으로 교통정보 제공이 자율주행에 도움을 주는 역할을 하고 있음"
+      ],
+      "insight": "ITS·AI·센서로 기반한 ITS은 교통정보를 제공하여 자율주행 시스템을 확보, 국민 안전과 글로비움 경쟁력 강화"
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관-6] 꺼진 불도 다시 보자(6)-윈도우 업데이트 미루면 위협에 바로 노출",
+      "link": "http://www.boannews.com/media/view.asp?idx=143037&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 07:25:00 +0900",
+      "description": "윈도우(Windows) 등 OS 보안 업데이트를 자동 설정하세요[보안뉴스 박미영 기자] 윈도우 보안 업데이트는 자동으로 설치되도록 설정해 두면, 취약점 패치와 보안 기능이 누락되는 위험을 줄일 수 있다. 다만 작업 중 재부팅이나 성능 저하가 걱정되면 설정에서 일시 중지하거나, 필요 시 서비스 설정으로 자동 설치를 잠시 막는 방법도 있다. 윈도우 보안 업데이",
+      "language": "ko",
+      "summary": "윈도우(Windows) 등 OS 보안 업데이트를 자동 설정하세요[보안뉴스 박미영 기자] 윈도우 보안 업데이트는 자동으로 설치되도록 설정해 두면, 취약점 패치와 보안 기능이 누락되는 위험을 줄일 수 있다. 다만 작업 중 재부팅이나 성능 저하가 걱정되면 설정에서 일시 중지하거나, 필요 시 서비스 설정으로 자동 설치를 잠시 막는 방법도 있다",
+      "points": [
+        "윈도우(Windows) 등 OS 보안 업데이트를 자동 설정하세요[보안뉴스 박미영 기자] 윈도우 보안 업데이트는 자동으로 설치되도록 설정해 두면, 취약점 패치와 보안 기능이 누락되는...",
+        "다만 작업 중 재부팅이나 성능 저하가 걱정되면 설정에서 일시 중지하거나, 필요 시 서비스 설정으로 자동 설치를 잠시 막는 방법도 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "계절의 왕 5월, 물리·정보 보안기업들이 찾고 있는 인재는?",
+      "link": "http://www.boannews.com/media/view.asp?idx=143379&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 07:20:00 +0900",
+      "description": "인증관리·품질관리·시스템 설계·엔지니어·유지보수·사업관리·SW 개발현장PM·영업·온라인 마케팅·생산/제조·기술지원·영업지원 등[보안뉴스 엄호식 기자] 싱그러운 초록빛이 더욱 짙어지고 따스한 햇살이 초여름의 기운을 불러오는 5월이 성큼 다가왔다. 노동절을 시작으로 어린이날까지 꿀맛같은 휴식을 취한 보안기업들은 2026년의 목표를 향해 힘차게 움직이고 있으며,",
+      "language": "ko",
+      "summary": "5월에서 계절이나 녹산물을 위한 IT/영업 인재들이 모여있습니다.",
+      "points": [
+        "보안뉴스가 2026년의 목표를 지니고 있는 IT/영업 인재들의 이렇게 모여있음으로써",
+        "계절, 녹산물과 관련된 영업에서 IT/영업 인재를 찾고 있음을 나타내고 그들이 다음 4년씩 모여야 한다.",
+        "물리·정보보안, SW개인 등에서 IT/영업 인재를 빌어졌다."
+      ],
+      "insight": "5월의 계절화로 인부된 IT/영업 엔지니어가 모여하고 있는 포인트와, 이들이 다음 4년씩 재조정되는 원동적인 영업에서의 IT/기술의 중요성을 강조한다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 구멍 숭숭 뚫린 공공기관의 개인정보보호",
+      "link": "http://www.boannews.com/media/view.asp?idx=143430&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 07:15:00 +0900",
+      "description": "대규모 대민 서비스 제공하는 핵심 공공기관 다수가 보호수준 평가 최하위권에 머물러국민 접점이 넓은 만큼 단 한 번의 취약점 노출이 대규모 프라이버시 침해로 직결될 우려[보안뉴스= 배종찬 인사이트케이 연구소장] 개인정보보호위원회가 최근 ‘2025년 공공기관 개인정보 보호수준 평가 결과’를 발표한 것은 우리 사회에 던지는 일종의 경고장이다. 중앙부처와 지방자치",
+      "language": "ko",
+      "summary": "대규모 대민 서비스 제공하는 핵심 공공기관 다수가 보호수준 평가 최하위권에 머물러국민 접점이 넓은 만큼 단 한 번의 취약점 노출이 대규모 프라이버시 침해로 직결될 우려[보안뉴스= 배종찬 인사이트케이 연구소장] 개인정보보호위원회가 최근 ‘2025년 공공기관 개인정보 보호수준 평가 결과’를 발표한 것은 우리 사회에 던지는 일종의 경고장이다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Apple was surprised by AI-driven demand for Macs",
+      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 22:12:52 +0000",
+      "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+      "language": "en",
+      "summary": "AI algorithms significantly boosted demand for Apple's M1 chip computers unexpectedly.",
+      "points": [
+        "Apple predicting supply-constrained due to AI-driven Mac mini, Studio and Neo sales",
+        "MacBook Air and Pro also see increased interest as a result of the tech trend toward portable computing devices with efficient chip capabilities",
+        "Demand for Apple' extruded by artificial intelligence has surprised industry experts"
+      ],
+      "insight": "The sudden increase in demand driven by AI demonstrates how technology and consumer behavior are rapidly evolving. Companies like Apple need to adapt their manufacturing strategies quickly, which could lead to a reevaluation of supply chain management practices within the industry."
+    },
+    {
+      "title": "北 블루노로프, AI 기술 악용해 글로벌 웹3 임원 100여 명 타깃 해킹 공격",
+      "link": "http://www.boannews.com/media/view.asp?idx=143444&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 07:07:00 +0900",
+      "description": "가짜 줌·팀즈 화상회의 도메인 악용해 실시간 카메라 영상 탈취개인 키와 가상자산 거래소 권한 확보 위해 5개월간 80여개 공격 인프라 구축[보안뉴스 김형근 기자] 북한 라자루스 그룹 산하의 금융범죄 전담 조직 블루노로프(BlueNoroff)가 글로벌 가상자산과 블록체인 기업 경영진을 노린 사회공학적(Social Engineering) 공격을 전개하고 있는",
+      "language": "ko",
+      "summary": "BlueNoroff국가의 글로벌 AI 공격을 수행한다고 전제.",
+      "points": [
+        "북한의 BlueNoroff이 80여개의 거래소와 기업에 대해 사회공학적 방식을 통해 근제를 수행",
+        "게시자 나름 인터뷰를 유도하여 권한을 이루어내고 있다는 사실을 가정합니다.",
+        "이러한 대ños행위에 접기로 되어 수탄된 경위에서 국가의 보호와 게시자를 보호하고 있다는 소재적인 보고이다."
+      ],
+      "insight": "이러한 AI 공격 대도에 의해 국가 지원 권한이나 인터뷰가 필요하다면, 글로벌 노란 커뮤니키(KB)인 'BlueNoroff'를 조사해보았다."
+    },
+    {
+      "title": "[카드뉴스] “우리 집 미터기가 터졌다”... 소프트웨어가 변압기 태우는 ‘물리적 해킹’ 실전 확인",
+      "link": "http://www.boannews.com/media/view.asp?idx=143447&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 1 May 2026 07:02:00 +0900",
+      "description": "가정에 설치된 스마트 미터기가 해커의 공격 통로로 악용되어, 소프트웨어 조작만으로 과부하를 유발해 변압기 등 전력 인프라를 실제로 소각시키는 ‘물리적 파괴’ 공격이 실전에서 확인됐다. 최근 고도화된 AI를 활용하여 수만 대의 스마트 미터기를 동시에 원격 조작하는 ‘하이브리드 공격’ 시나리오가 현실화되면서 국가 단위 전력망에 대한 안보 위협이 급증하고 있다",
+      "language": "ko",
+      "summary": "소프트웨어에서 현재 우리의 인내실공격 방식이 변해진다.",
+      "points": [
+        "- 기존의 민처 미터기는 해커로 뛰어나서지만, 소프트웨어에 의해 현재 공격은 그 아키텍쳐를 바꾸고, 전력을 변동시킬 수 don't know",
+        "- 소프트웨어의 AI로 모든 미터기를 동시에 유지보수하여 공격을 통해 전력을 변경시키고, 이를 '하이브리드'이라는 예약",
+        "- 소득이 불가나, 국내 사용자들은 보호가 어려움을 우려한다"
+      ],
+      "insight": "AI를 활용한 공격장비로 미터기의 공격 방식이 '하이브리드'임을 알 수 0 know."
+    },
+    {
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 20:14:47 +0000",
+      "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+      "language": "en",
+      "summary": "Legora, an AI legal startup with significant fundraising success, recently experienced a setback when one of its major investors backed out following the lawsuit against his company Harvey Technology Partners by Legora's co-founder. The tech industry is closely watching this development as it could influence perception and trust in AI startups.",
+      "points": [
+        "Legora has raised a total of $430 million from multiple rounds, with its latest round bringing in $275 million led by SoftBank Group's Vision Fund II. Legora boasts an impressive valuation at nearly $6 billion.",
+        "The startup'bonfire duel has escalated after Harvey Technology Partners sued Legora’s co-founder, Aaron Klein, accusing him of stealing ideas and misappropriating company resources. This conflict comes amid intense competition between the two companies in the burgeoning legal tech industry.",
+        "Despite these internal conflicts, both startups are rapidly expanding their services to include full-scale automation for various areas within law firms."
+      ],
+      "insight": "The conflict and fundraising struggles experienced by Legora may affect investor confidence in AI legal tech companies. While competition drives innovation, it's crucial that startups manage conflicts internally to maintain credibility with partners and the broader market."
+    },
+    {
+      "title": "Rivian downsizes DOE loan to $4.5B for Georgia factory",
+      "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 20:02:02 +0000",
+      "description": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.",
+      "language": "en",
+      "summary": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4. 5 billion to build its new factory in Georgia, down from the original amount of $6",
+      "points": [
+        "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4",
+        "5 billion to build its new factory in Georgia, down from the original amount of $6",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+      "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 19:36:53 +0000",
+      "description": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
+      "language": "en",
+      "summary": "Hackers exploit cPanel bug affecting millions of websites; companies scramble to fix it.",
+      "points": [
+        "- Hackers are actively exploiting a known vulnerability in the widely used web hosting software, cPanel.",
+        "- The issue has been present for several months and is currently under active attack by cybercriminals.",
+        "- Web host companies around the world have begun efforts to address this critical security flaw."
+      ],
+      "insight": "This incident highlights the importance of timely vulnerability disclosure, patching processes in web hosting services, and proactive monitoring for potential exploits within IT/technology infrastructure. It also raises concerns about cybercriminal activity targeting popular software tools."
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Apr 2026 19:27:41 +0000",
+      "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "language": "en",
+      "summary": "After criticizing Anthropic for restricting access to Mythos based on age and security levels, OpenAI has decided to limit Cyber's availability as well.",
+      "points": [
+        "OpenAI responded negatively towards Anthropic after they restricted the usage of their AI model (Mythos) by certain individuals",
+        "Despite initially welcoming questions from curious users, OpenAI has now limited access to its own GPT-5.5 Cyber tool for 'critical cyber defenders' only.",
+        "This decision might hint at a potential competitive edge or strategy against Anthropic."
+      ],
+      "insight": "OpenAI is increasingly mindful of maintaining control and safety over its AI models, as seen in their recent actions towards limiting access to tools like GPT-5.5 Cyber for specific groups only - a move that could have significant implications on the competitive dynamics within the IT/technology industry."
+    },
     {
       "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
       "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
@@ -524,229 +749,6 @@
         "Increased competition expected from Tez's launch by Google"
       ],
       "insight": "This development may lead to a more competitive landscape within India's burgeoning UPI instant payments market, potentially offering better services and pricing options for consumers."
-    },
-    {
-      "title": "Amazon’s cloud business is surging — and so is its capital spending",
-      "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 00:14:23 +0000",
-      "description": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-      "language": "en",
-      "summary": "Amazon’ths cloud business is thriving with more revenue than expected; however, CEO Jeff Bezos has indicated that capital spending will increase in the short term.",
-      "points": [
-        "Revenue from Amazon Web Services (AWS) exceeded expectations despite a decline in retail sales",
-        "Capital expenditures for cloud infrastructure are rising, aligning with increased AWS demand",
-        "This capital surge reflects the growing importance of data centers and digital transformation"
-      ],
-      "insight": "The growth in Amazon's capital spending on its cloud business highlights how crucial investment is for maintaining competitiveness, especially as companies increasingly rely on technology infrastructure."
-    },
-    {
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 00:07:15 +0000",
-      "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-      "language": "en",
-      "summary": "Anthropic, creator of AI named Claude, has received several pre-emptive offers valuing their company at between $850 billion to $90 extraterrestrial intelligence or advanced civilizations might use cryptocurrency as a means for secure communication. The technology could potentially revolutionize the way interstellar networks operate and interact.",
-      "points": [
-        "- Anthropic has received pre-emptive offers at valuations between $850 billion to $900 billion",
-        "- Cryptocurrency can be used for secure communication in space, as per recent studies by NASA's astrophysics division and the European Space Agency (ESA)",
-        "- Blockchain technology has already made significant strides on Earth; its potential applications in interstellar communications are yet to be fully explored"
-      ],
-      "insight": "The use of cryptocurrency as a secure communication tool could revolutionize the way advanced civilizations interact and exchange information, potentially altering our understanding of extraterrestrial intelligence."
-    },
-    {
-      "title": "“양자내성암호(PQC) 체계적 전환 지원할 공공 인프라 필요”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143439&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 09:06:00 +0900",
-      "description": "제9회 5G보안워크숍, 29-30일 여수에서 열려PQC 전환은 국가 디지털 신뢰 기반 재구성 프로젝트... “지금 준비하지 않으면 나중에 더 큰 비용”[여수=보안뉴스 한세희 기자] 양자 컴퓨팅 기술이 기존 디지털 암호 체계를 무력화할 위협에 대비해 양자내성암호(PQC) 체계로 신속히 전환할 수 있도록 국가적 지원이 시급하다는 목소리가 높다. 양자 기술 발",
-      "language": "ko",
-      "summary": "제9회 5G보안워크숍, 29-30일 여수에서 열려PQC 전환은 국가 디지털 신뢰 기반 재구성 프로젝트. “지금 준비하지 않으면 나중에 더 큰 비용”[여수=보안뉴스 한세희 기자] 양자 컴퓨팅 기술이 기존 디지털 암호 체계를 무력화할 위협에 대비해 양자내성암호(PQC) 체계로 신속히 전환할 수 있도록 국가적 지원이 시급하다는 목소리가 높다",
-      "points": [
-        "제9회 5G보안워크숍, 29-30일 여수에서 열려PQC 전환은 국가 디지털 신뢰 기반 재구성 프로젝트",
-        "“지금 준비하지 않으면 나중에 더 큰 비용”[여수=보안뉴스 한세희 기자] 양자 컴퓨팅 기술이 기존 디지털 암호 체계를 무력화할 위협에 대비해 양자내성암호(PQC) 체계로 신속히 전...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 23:58:36 +0000",
-      "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "language": "en",
-      "summary": "In a bid to address ethical concerns surrounding AI development, Elon Musk sought legal action against OpenAI but faced scrutiny over his own controversial tweets.",
-      "points": [
-        "Elon Musk attempted to legally dismantle OpenAI due to ethical issues with its artificial intelligence projects.",
-        "Musk's lawsuit brought forward concerns about the future impact of advanced AI on humanity and economies at large.",
-        "The trial highlighted potential flaws in corporate governance as Musk was accused of tweeting misleading information, causing volatility in his company Tesla’in."
-      ],
-      "insight": "Elon's legal attempt against OpenAI emphasizes the critical need for ethical considerations and responsible leadership within AI development. His own Twitter controversies underscore that personal conduct can significantly impact corporate reputations, especially in technology firms closely tied to their CEOs."
-    },
-    {
-      "title": "Meta is still burning money on AR/VR",
-      "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000",
-      "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "language": "en",
-      "summary": "Despite significant investments in AR/VR technology through the establishment of Reality Labs, Meta (formerly Facebook) is still reporting substantial quarterly losses for this division.",
-      "points": [
-        "Meta invests heavily in AI and VR to develop immersive social platforms",
-        "The company reports billions lost each quarter on its Reality Labs despite continued investment"
-      ],
-      "insight": "Continued heavy spending on AR/VR without immediate returns reflects Meta's long-term vision but also indicates potential financial instability if this trend continues."
-    },
-    {
-      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 23:55:23 +0000",
-      "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-      "language": "en",
-      "summary": "Microsoft CEO Satya Nadella expressed readiness to utilize the new OpenAI partnership without cost by offering its technology directly to customers via Microsoft's cloud.",
-      "points": [
-        "Satya Nadella, speaking at a conference on AI and tech innovation, stated his intentions for fully leveraging an upcoming agreement with OpenAI that allows the company's services without fees. As part of this deal, Microsoft expects to integrate advancements in machine learning directly into its cloud platform.",
-        "The partnership aims at enhancing customer experiences by providing access to cutting-edge AI tools and technologies through Azure infrastructure for both individual users and business clients alike."
-      ],
-      "insight": "This deal signifies a substantial shift in the industry, where cloud service providers are becoming integral facilitators of advanced artificial intelligence services without additional costs from their customers. It can potentially level the playing field between major tech giants and smaller companies or startups looking to innovate with AI."
-    },
-    {
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000",
-      "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "language": "en",
-      "summary": "Microsoft reported over 20 million paid users for its AI writing tool, Copilot, debunking previous notions about its usage.",
-      "points": [
-        "Despite skepticism regarding the actual use of Microsoft's AI service, Copilot has amassed more than 20 million paying customers as reported by the company on Wednesday.",
-        "The growth in users and engagement with Copilot is undeniable according to recent data provided by Microsoft.",
-        "Microsoft refutes prior claims that many opt-in organizations were not using their AI, revealing a significant number of genuine user base."
-      ],
-      "insight": "This news signifies an immense acceptance and reliance on artificial intelligence for productivity in the IT sector. Companies are likely integrating Copilot into various workflows to streamline tasks like coding or writing, which could set a precedent for future AI adoption."
-    },
-    {
-      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-      "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 22:20:48 +0000",
-      "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-      "language": "en",
-      "summary": "Google Cloud announced its revenues exceeded $20 billion in a quarter driven largely by the increasing need for artificial intelligence services. However, limited capacity constrained potential growth.",
-      "points": [
-        "Google Cloud hit over $20 billion in revenue despite capacity limitations",
-        "Demand for AI accelerates Google'threat of losing market share to competitors such as Amazon and Microsoft",
-        "Capacity constraints prevented the company from growing even faster"
-      ],
-      "insight": "Google Cloud needs to invest more in expanding its infrastructure if it wants to keep up with rising demand for AI services, or risk losing market share."
-    },
-    {
-      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-      "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 20:59:00 +0000",
-      "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-      "language": "en",
-      "summary": "In the first quarter of 2021, Alphabet Inc.' endorsed a robust subscription growth with 25 million new subscribers under its umbrella, notably YouTube and Google One.",
-      "points": [
-        "Google's total paid subscriptions increased by 7% in Q1 to reach 350 million",
-        "YouTube continues as Alphabet’s most valuable subscription service with about one billion users worldwide",
-        "The growth of YouTube Premium and Google One, which includes services like Hangouts Gifts and Stadia Games+ contributed significantly"
-      ],
-      "insight": "This news reaffirms the importance of Alphabet's core assets such as YouTube in driving subscription revenues. It also highlights how diversification into various digital experiences can foster growth."
-    },
-    {
-      "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
-      "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 20:53:56 +0000",
-      "description": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
-      "language": "en",
-      "summary": "Zap Energy, a nuclear fusion startup, is pivoting to include the development of both fusion and conventional nuclear fission reactors.",
-      "points": [
-        "Fusion energy company Zap Energy announces plans for mixed reactor technology",
-        "The decision follows challenges faced by large-scale fusion projects like ITER",
-        "Zap Energy' end to focus on the more immediate and less complex fission reactors"
-      ],
-      "insight": "This news indicates that Zap Energy is adapting its business model in response to industry hurdles, suggesting a pragmatic approach by startups within nuclear power development."
-    },
-    {
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 18:33:05 +0000",
-      "description": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-      "language": "en",
-      "summary": "Parallel Web Systems, an AI agent-tool startup founded by former Twitter CEO Parag Agrawal, has achieved a valuation of over $2 billion following two recent funding rounds.",
-      "points": [
-        "Startup raises another round after previous investment",
-        "$100 million led by Sequoia Capital in second raise",
-        "Overall company valued at more than $2 billion"
-      ],
-      "insight": "The continued growth and funding success of Parallel Web Systems reflect a strong market demand for AI-powered web services, potentially indicating significant investor confidence within the sector."
-    },
-    {
-      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 16:42:33 +0000",
-      "description": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
-      "language": "en",
-      "summary": "Google has introduced an artificial intelligence feature within its Photos app to automatically generate a digital closet reflecting users' wardrobe based on images stored in their photos library.",
-      "points": [
-        "The AI-powered Google Photos features creates personalized clothing collections by analyzing user photo libraries for patterns and commonalthy of attire.",
-        "This innovative feature does not require users to manually select or categorize images, streamlining the digital wardrobe creation process.",
-        "The technology behind this function uses AI algorithms trained on fashion datasets which enables it to discern clothing styles effectively."
-      ],
-      "insight": "This advancement by Google can potentially set a new standard in creating personalized and automated content for users, indicating the increasing role of artificial intelligence in everyday technology applications within IT/technology industry."
-    },
-    {
-      "title": "More Gemini features are coming to Google TV",
-      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 16:40:49 +0000",
-      "description": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-      "language": "en",
-      "summary": "Google TV has received additional capabilities from Google's AI service, Gemini, allowing users to creatively manipulate their photo and video content using new tools.",
-      "points": [
-        "- The integration of Nano Banana allows for easy drawing on photos and videos directly within the app.",
-        "- Veo provides a feature similar to Instagram filters but uses AI instead of traditional photoshop, enabling unique transformations in real-time.",
-        "- These enhanc endorsed by Google's push towards incorporating more interactive features into its hardware."
-      ],
-      "insight": "The addition of Nano Banana and Veo to the Google TV platform signals a shift towards richer, AI-driven multimedia experiences in smart TV devices. This could set new standards for user interaction within home entertainment systems."
-    },
-    {
-      "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
-      "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 16:20:02 +0000",
-      "description": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating.",
-      "language": "en",
-      "summary": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating",
-      "points": [
-        "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Roku’s $3 streaming service, Howdy, reaches 1M subs, per recent report",
-      "link": "https://techcrunch.com/2026/04/29/rokus-3-streaming-service-howdy-reaches-1m-subs-per-recent-report/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Apr 2026 15:33:35 +0000",
-      "description": "Roku’s $2.99 streaming service Howdy has topped 1M subscribers, showing demand for cheaper, low-commitment alternatives to pricier streamers.",
-      "language": "en",
-      "summary": "Roku's entry-level $2.99 streaming service Howdy has surpassed 1 million subscribers, indicating a strong market for affordable alternatives to traditional video services.",
-      "points": [
-        "Howdy is Roku'su low-cost alternative at $2.99 per month",
-        "Roku reports overcoming the churn of competitors like Tubi and Pluto TV, gaining 1 million subscribers in less than a year since its launch.",
-        "Increasingly customers are seeking cheaper options for streaming content as competition continues to grow."
-      ],
-      "insight": "The success of Roku's Howdy service suggests that there is significant demand for affordable, low-commitment alternatives within the ever-growing video subscription marketplace. This could lead competitors like Disney+ and Apple TV+ to reconsider their pricing strategies."
     }
   ]
 }
