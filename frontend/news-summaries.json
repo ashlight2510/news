@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-05-01T13:21:22.658Z",
+  "generatedAt": "2026-05-01T19:12:39.373Z",
   "articles": [
+    {
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 18:23:04 +0000",
+      "description": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "language": "en",
+      "summary": "Venture capital firm Coatue plans to purchase land close to major energy providers for data center development, a move speculated by industry observers as possibly related to Anthropic'CTO David Madden has confirmed the investment in this project.",
+      "points": [
+        "Coatue invested approximately $1.75 billion into purchasing land near major power sources",
+        "The acquired site is expected to host data centers for high-profile clients like Anthropic and Apple",
+        "This investment by Coatue underscores the importance of reliable energy access in future IT infrastructure"
+      ],
+      "insight": "Coatue's strategic acquisition highlights a growing trend within the tech industry to secure physical spaces for data centers that are powered efficiently and sustainably, setting precedents which may influence broader adoption of similar practices."
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 16:02:36 +0000",
+      "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "language": "en",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Ubuntu services hit by outages after DDoS attack",
+      "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 15:00:14 +0000",
+      "description": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
+      "language": "en",
+      "summary": "Hacktivists launched a distributed denial-of-service attack on multiple Ubuntu and Canonical services, causing outages and disruptions to updates for the Linux operating system.",
+      "points": [
+        "The DDoS attack has affected several websites related to Ubuntu and Canonical",
+        "Users are experiencing difficulties updating their systems due to these attacks",
+        "Hacktivists claim responsibility, motivated by political or social issues"
+      ],
+      "insight": "This incident highlights the growing risks of cyber-attacks on open-source software and underscores the need for better security measures within the IT/technology industry to protect against such disruptions."
+    },
+    {
+      "title": "Musk v. Altman is just getting started",
+      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 14:00:00 +0000",
+      "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+      "language": "en",
+      "summary": "Elon Musk's lawsuit against OpenAI and its CEO, focusing on a shift from non-profit to profit model, is taking shape as he presents emails, texts, and tweets in court.",
+      "points": [
+        "Email exchanges between Elon Musk and Sam Altman are central to the lawsuit regarding OpenAI's transition to for-profit status.",
+        "Musk accuses Altman of betraying their original vision by prioritizing financial interests over open accessibility in AI technology.",
+        "The legal battle is expected to uncover more evidence, as additional witnesses are anticipated."
+      ],
+      "insight": "This lawsuit highlights tension between maintaining an ethical approach towards technological advancement and pursuing profitability within the IT/technology industry. The outcomes could influence how tech companies balance these aspects in the future."
+    },
     {
       "title": "People are finally using Reddit’s search",
       "link": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
@@ -689,66 +749,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 03:58:22 +0000",
-      "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-      "language": "en",
-      "summary": "SoftBank is launching SoftBank Robotics with the goal of building data centers for its robot fleet using AI and robotics technology itself.",
-      "points": [
-        "SoftBank's new company, SoftBank Robotics, aims to construct self-operating warehouses or 'data centers', which are essential infrastructries in building advanced robots for the future of AI and robotics.",
-        "These data centers will be built using technology developed by its own subsidiary, Yokohama SoftBank Robotics Co., Ltd. (YARR).",
-        "The goal is to produce intelligent warehouses that operate autonomously with minimal human intervention."
-      ],
-      "insight": "This innovative approach can revolutionize the way data centers are built and operated, leading to significant efficiency improvements in AI-related industries. It also shows how technology companies like SoftBank are not only consumers of infrastructure but producers as well."
-    },
-    {
-      "title": "[인터뷰] 네트워크 보안 강자 시만텍과 EDR 선도기업 카본블랙의 성공적 통합, 브로드컴 ‘시만텍 CBX’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143448&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 11:38:00 +0900",
-      "description": "Joost Nieunhuis, 브로드컴 엔터프라이즈 시큐리티 그룹 기술 총괄 매니저 방한단일 에이전트 환경 통합한 클라우드 기반 플랫폼으로 ‘솔루션 난립’(Tool Sprawl) 문제 해결시만텍 CBX, 선도적 엔드포인트 기술 이용한 적응형 보호 가능[보안뉴스 원병철 기자] 네트워크 보안의 절대 강자 시만텍과 EDR 분야 선도기업 카본블랙의 만남이 ‘시만텍",
-      "language": "ko",
-      "summary": "시만텍과 EDR 분야의 선도기여자인 카볔블랙이 '시산 전체'를 위해 한계 문제점 해결에 성공한.",
-      "points": [
-        "삼한다는 국가에서 시만텍과 EDR 분앞의 선도기여자인 카볔브를 기반으로 한 세부적인 사거이 시간과 공격에서 합백했다.",
-        "환경을 구성하는 방한단일 에이전트의 통합은 '솔루션 난립'문제에 대한 해결으로 카울한 시작을 끀었다.",
-        "이를 통해 네트워크보안에 매우 강력한 방안 제어 기능과 EDR 플랫폼의 리바이아 서비스를 실시간으로 구현하여, 보호를 지원하고 있다."
-      ],
-      "insight": "이러한 경력은 IT/기술 업체에서의 신기본 발전을 통해 네트워크 보안약 개선으로, 그리고 이러한 지속가독성 전문성은 IT/기술 시장에서의 기염착식으로 인정되며, 미세조적이 보호와 광고패키지에서도 통합으로 이전 경력을 기반으로 작성된다."
-    },
-    {
-      "title": "조달청, 불공정조달행위 신고 정액포상금 전 구간 20% 인상",
-      "link": "http://www.boannews.com/media/view.asp?idx=143446&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 11:23:00 +0900",
-      "description": "국민 참여를 넓히기 위해 신고 포상금 규정 개정새로운 규정, 4월 30일 시행[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 불공정조달행위에 대한 공익신고를 활성화하기 위해 신고 포상금을 인상하는 내용의 ‘불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정’을 개정하고, 4월 30일 시행한다고 밝혔다.불공정조달행위는 입찰부터 생산·납품에 이르는 과정에서",
-      "language": "ko",
-      "summary": "조달청은 신고 포상금을 인상하기 위해 불공정조닛의 과정에 대한 규정을 개정한다.",
-      "points": [
-        "조달청은 신고 포상금을 인상하기 위해 규정을 개정한다.",
-        "균론이 '불공정 조달행위'에 대해 명심한다.",
-        0.6
-      ],
-      "insight": "기사는 조달청의 규정을 개정하여 공익신고를 활성화하기로 한다. 이런 규정은 국민에게 보호하려는 불공정 조달의 사회적 인식을 높여야 한다."
-    },
-    {
-      "title": "이노뎁, 뷰넥스(VUNex) 앞세워 해외 AI 보안시장 공략",
-      "link": "http://www.boannews.com/media/view.asp?idx=143445&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 11:17:00 +0900",
-      "description": "영국 TSE서 현지 니즈·파트너십 점검공공관제 경험 기반 해외 보안사업 확대 모색[보안뉴스 엄호식 기자] 이노뎁이 4월 28일부터 30일까지 영국 버밍엄 NEC에서 열리는 The Security Event(TSE) 2026에 참가해 현장형 AI 관제 플랫폼 ‘뷰넥스’(VUNex)를 소개하고, 해외 AI 보안운영 시장 내 현지 니즈와 파트너십 가능성 점검에",
-      "language": "ko",
-      "summary": "이노뎁이는 TSE 2026에서 VUNex AI 관제를 소개하여 현지 니즈와 파트너십 점검의 가능성을 중단시켰다.",
-      "points": [
-        "이노뎁이는 TSE 2026에서 VUNex AI 관제를 소개하여, 현지 니즈와 파트너십 가능성을 중단시켰다.",
-        "대회에서 VUNex AI 기반 모든 영국 버밍업자가 정확한 번지, 시각, 이름과 연락손당을 제공했다.",
-        "이노뎁이는 전문분주 기능과 적재형 인식 기능에 대한 공학적 해외 AI 보안시장에서의 신기술으로 모서리를 달아낸다."
-      ],
-      "insight": "이노뎁이의 VUNex AI 관제는 IT/기술 업체에서 보안시스태에 대한 신기술과 인디어를 도잘로울 것이다."
     }
   ]
 }
