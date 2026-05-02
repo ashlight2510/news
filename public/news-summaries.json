@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-05-01T19:12:39.373Z",
+  "generatedAt": "2026-05-02T02:43:56.000Z",
   "articles": [
+    {
+      "title": "70개사에 미토스 접근 권한 추가 부여?... 백악관 “거부”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143464&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 2 May 2026 09:57:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 백악관이 앤트로픽 미토스에 대한 접근 권한 확대를 거부했다.월스트리트 저널은 앤트로픽이 최근 70여 기업과 기관에 추가로 미소스 접근 권한을 부여하는 방안을 정부와 논의했지만 백악관이 반대했다고 보도했다. 앤트로픽은 미토스 접근 권한을 기존 50여곳에 추가로 70곳에 더 부여해 총 120여곳으로 늘리는 것을 검토했다. 하지만 미국",
+      "language": "ko",
+      "summary": "[보안뉴스 강현주 기자] 백악관이 앤트로픽 미토스에 대한 접근 권한 확대를 거부했다. 월스트리트 저널은 앤트로픽이 최근 70여 기업과 기관에 추가로 미소스 접근 권한을 부여하는 방안을 정부와 논의했지만 백악관이 반대했다고 보도했다...",
+      "points": [
+        "[보안뉴스 강현주 기자] 백악관이 앤트로픽 미토스에 대한 접근 권한 확대를 거부했다",
+        "월스트리트 저널은 앤트로픽이 최근 70여 기업과 기관에 추가로 미소스 접근 권한을 부여하는 방안을 정부와 논의했지만 백악관이 반대했다고 보도했다",
+        "앤트로픽은 미토스 접근 권한을 기존 50여곳에 추가로 70곳에 더 부여해 총 120여곳으로 늘리는 것을 검토했다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "세미콜론 하나에 뚫린 깃허브... AI가 찾아낸 역대급 RCE 취약점",
+      "link": "http://www.boannews.com/media/view.asp?idx=143463&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 2 May 2026 09:37:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 깃허브(GitHub)의 내부 자산 관리 인프라에서 수백만 개의 비공개 저장소를 무자비하게 탈취할 수 있는 치명적 RCE 취약점(CVE-2026-3854)이 발견됐다. 이번 결함은 보안기업 위즈(Wiz) 연구진이 AI 도구를 활용해 폐쇄형 소스인 이진(Binary) 파일을 정밀히 분석하는 과정에서 그 민낯을 드러냈다.원인은 내부 프록",
+      "language": "ko",
+      "summary": "깃허브에서 AI를用한 분석에서 보안점유찿으로 인한 RCE CVE-2026-3854이 발견되어 AI가 사용함에 대해서, 이진 파일의 민낯을 드러내는 AI 분석기가 보안위주운에 직면하고 보안부인 위의 발겹점을 강조한다.",
+      "points": [
+        "AI를 이용해 GitHub의 내부 API를 탐구했으며, RCE CVE-2026-3854을 각정적으로 식별할 수 s있었다.",
+        "이진 파일의 민낯을 AI가 드러내면서 GitHub의 보안부인 위가 이러한 CVE-2026-3854로 인한 취약점을 강조하기로 한다.",
+        "이러한 RCE 취약점은 보안점유찿(OWASP Top Ten)의 '잘못한 깃허브 API 호용'로도 양식이 있다."
+      ],
+      "insight": "AI를 활용한 분석기가 GitHub에서의 RCE CVE-2026-3854에 대해서, AI가 보안점유찿으로 인한 일부러내는 현상을 소개한다."
+    },
+    {
+      "title": "AI 사이버전 시대 국가 안보 전략은?... ‘이란 전쟁의 사이버·AI戰 양상과 한국’ 컨퍼런스",
+      "link": "http://www.boannews.com/media/view.asp?idx=143462&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 2 May 2026 09:09:00 +0900",
+      "description": "한국사이버안보학회·김건 의원실·김영배 의원실 공동 개최[보안뉴스 강현주 기자] 이란전으로 더욱 부각된 AI 기반 사이버전의 현황과 미래를 분석하고 이에 따른 국가 안보 전략을 모색하는 자리가 마련된다. 한국사이버안보학회(회장 손기욱)는 김건 의원실(국민의힘), 김영배 의원실(더불어민주당)과 공동으로 5월 18일 국회의원회관 제6간담회실에서 ‘이란 전쟁의 사",
+      "language": "ko",
+      "summary": "기사는 한국사이버안보학회의 김건의 논의에서 이란전융스의 AI 사이버전의 현황과 미래를 분석하고 해당 영향을 가지는 국가 안보 전략에 대한 참조되어야 할 정보를 제공한다.",
+      "points": [
+        "AI 사이버전의 현재 상태, 국가 안보에 대한 방법",
+        "AIDR 질의 시기적인 영향",
+        "다른 국가들의 대응 전략"
+      ],
+      "insight": "이러한 AI 사이버전은 국가에서의 안보운전을 확장시키고, 국민의 안보를 개선하도록 투자하는 방식이다."
+    },
+    {
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 23:06:50 +0000",
+      "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+      "language": "en",
+      "summary": "TechCrunch's Amjad Masad addressed rumors of Cursor being acquired by SpaceX during the StrictlyVC event, clarifying Replit's stance on selling and highlighting his desire to fight Apple in court.",
+      "points": [
+        "Replit CEO refutes sale talks amidst speculation about a potential acquisition of Cursor by SpaceX",
+        "The company remains independent despite rumors, with Masad expressing determination not to sell without better terms",
+        "Masad criticizes Apple'ner aggression in the market and intends to take legal action against them"
+      ],
+      "insight": "Replit is standing firm on its independence amidst high-value acquisition rumors, demonstrating resilience within a highly competitive industry."
+    },
+    {
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 22:39:05 +0000",
+      "description": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+      "language": "en",
+      "summary": "Musely has secured $360 million in funding from General Catalyst without relintermately surrendering equity.",
+      "points": [
+        "General Catalyst invests a significant amount of non-dilutive capital into Musely.",
+        "The fund will be used to enhance customer acquisition strategies for the direct-to-consumer brand in skincare, hair care, and menopause wellness sectors.",
+        "This substantial investment allows Musely to expand its business without diluting existing shareholders' equity."
+      ],
+      "insight": "The capital injection into DTC brands like Musely could indicate a trend in the industry where companies are increasingly aiming for growth and expansion with less reliance on venture capital funding, potentially reducing pressure to scale rapidly or exit through public markets. This approach allows businesses more flexibility while retaining full ownership."
+    },
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 01 May 2026 22:13:27 +0000",
+      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "language": "en",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said",
+      "points": [
+        "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the com...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
       "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
@@ -659,96 +749,6 @@
         "- 2025년 대비를 내보고 18.52%증가한 이익을 기반으로 재무상태를 선보이되었다."
       ],
       "insight": "하이크비전은 IT 시장에서의 계약성 증가로 2025년 총맹 재무 출사를 통해 성공적으로 보상했다."
-    },
-    {
-      "title": "아태지역, 멀티-하이브리드 클라우드 현대화가 기업 경쟁력 좌우",
-      "link": "http://www.boannews.com/media/view.asp?idx=143442&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 14:00:00 +0900",
-      "description": "델 테크놀로지스, 아태지역 프라이빗 클라우드 현대화 트렌드 분석 보고서 발표원활하게 워크로드 관리하기 위해 멀티-하이브리드 클라우드 아키텍처 채택컴퓨팅·스토리지·네트워크 자원 유연하게 확장할 수 있는 분리형 인프라 도입 늘어나[보안뉴스 강초희 기자] 프라이빗 클라우드의 현대화 및 혁신은 고객들의 기대치 및 비즈니스 요구사항의 빠른 변화, 새로운 기술 도입",
-      "language": "ko",
-      "summary": "델 테크놀로지스, 아태지역 프라이빗 클라우드 현대화 트렌드 분석 보고서 발표원활하게 워크로드 관리하기 위해 멀티-하이브리드 클라우드 아키텍처 채택컴퓨팅·스토리지·네트워크 자원 유연하게 확장할 수 있는 분리형 인프라 도입 늘어나[보안뉴스 강초희 기자] 프라이빗 클라우드의 현대화 및 혁신은 고객들의 기대치 및 비즈니스 요구사항의 빠른 변화, 새로운 기술 도입",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "VM부터 AI 워크로드까지 한곳에... 굿모닝아이텍, 프라이빗 클라우드 최적화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143452&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 13:58:00 +0900",
-      "description": "브로드컴 VCF 9 기반으로 가상화·AI 인프라 단일 운영 체계 구축기업 규모 및 성숙도에 맞춘 단계별 도입 패키지로 유연성 제공[보안뉴스 조재호 기자] 굿모닝아이텍이 브로드컴(Broadcom)의 브이엠웨어 클라우드 파운데이션 9(VCF 9)을 기반으로 한 프라이빗 클라우드 통합 운영 플랫폼 ‘스카프지 프라이빗 클라우드’(SCAF-G Private Clou",
-      "language": "ko",
-      "summary": "기사는 굿모닩아이텍이의 브로드컴 VCF 9에 기여한 스카프지 프라이빗 클라우드 통합 운영 플랫폼 '스카프지 프라이빗 클라우드'를 소개한다.",
-      "points": [
-        "브로드컴 VCF 9에서 모든 AI 기능을 포함하여 스카프지 프라이빗 클라우드 통합 운영 플랫포 구성",
-        "유연성과 공간 보안에 초점을 맞듯이 고급 서비스를 제공한다.",
-        "스카프지 프라이빗 클라우드는 AWS에서 비슷한 기능과 동일한 가격을 준비하고 제공한다."
-      ],
-      "insight": "스카프지 프라이빗 클라우드는 IT/기술 업체에서 브드컴 VCF 9의 규모 상당한 스쿀잭도로 AI 인프라 제공에 자리를 보였다."
-    },
-    {
-      "title": "“AI로 급조한 악성코드의 폐해”... 데이터 영구 삭제하는 VECT 2.0",
-      "link": "http://www.boannews.com/media/view.asp?idx=143449&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 13:32:00 +0900",
-      "description": "트렌드마이크로 분석 결과, 인공지능 코딩 의존한 비숙련 해커 조직의 소행 추정대용량 핵심 자산 암호화 시 스스로 키를 없애는 구조적 맹점으로 복구 원천 차단[보안뉴스 김형근 기자] 서비스형 랜섬웨어(RaaS)인 ‘VECT 2.0’이 암호화된 파일의 복호화 키를 스스로 파기하는 설계 결함을 내포해 데이터 영구 소실 피해가 확인됐다. 글로벌 보안기업 트랜드마이",
-      "language": "ko",
-      "summary": "AI 기사 VECT 2.0에서는 인공지능 기반 스크립트가 비속력 시스템의 급조한 악성코드를 스스로 키를 없이 복구하는 방식에 대해서, 이러한 기술은 사용자 정보의 개인화된 공유 가능성을 제한함으로써 급조할 수 있음을 강조.",
-      "points": [
-        "인공지능이 기존 방식으로 비속력 시스템에서 암호화된 파일의 키를 스스로 파기하는 것은 사용자 개인화된 공유가 되어 지켜져 있음을 부르고 있다.",
-        "이러한 스크립트는 급조적인 보호를 제공하지만, 정신적인 동그라이성이 아니다.",
-        "비속력 시스템을 강화하기 위해서는 보안 프로필 방식을 개선한다."
-      ],
-      "insight": "이러한 VECT 2.0 제품은 IT 업체에서의 인공지능 시스템 강화를 위해 중요하게 고루 보았다. 그러나 이를 참고한 '개인화된' 공유 방식은 사용자의 개인정보에 대한 보호를 위해 확장하여, 이 기술은 강제로 사용자 개인화된 공유 가능성을 제한함으로써 급조적인 보호를 만들어내는 데이0"
-    },
-    {
-      "title": "조달청, AI 기술로 더 나은 조달서비스 신속하게 제공한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143443&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 13:20:00 +0900",
-      "description": "AI 기술 기반의 ‘지능형 예정가격 작성지원시스템’ 개통수작업에 의존하던 유사 구매 실례 조사를 AI가 규격서 분석으로 지원입찰 준비 시간 획기적 단축 및 조달가격 신뢰도 향상 기대[보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공조달의 핵심 업무인 ‘예정가격 작성’에 AI 기술을 접목한 ‘지능형 예정가격 작성지원시스템’을 본격적으로 개통한다고 밝혔다.예",
-      "language": "ko",
-      "summary": "AI 기술 기반의 ‘지능형 예정가격 작성지원시스템’ 개통수작업에 의존하던 유사 구매 실례 조사를 AI가 규격서 분석으로 지원입찰 준비 시간 획기적 단축 및 조달가격 신뢰도 향상 기대[보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공조달의 핵심 업무인 ‘예정가격 작성’에 AI 기술을 접목한 ‘지능형 예정가격 작성지원시스템’을 본격적으로 개통한다고 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“완성차 넘어 협력사까지”... KISA·현대차·기아, 자동차 공급망 보안 ‘맞손’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143450&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 13:14:00 +0900",
-      "description": "다층 공급망 구조 지닌 자동차 산업 특성 고려해 생산 전 과정 대응체계 강화주요 협력사 대상 사이버 위기 대응 모의훈련 및 서버 보안 점검 등 집중 지원[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)이 현대자동차와 기아를 비롯한 자동차 산업 협력사와 사이버 위협 예방 및 정보보호 협력 강화를 위한 업무협약을 체결했다고 30일 밝혔다.자동차 산업은 다수의",
-      "language": "ko",
-      "summary": "현대차와 기아와 관련한 IT/운동보안 협상에서 KISA는 공세를 강화하여 산업이 위협을 방障치기를 위한 전략으로 결정.",
-      "points": [
-        "KISA가 동시에 현대차, 기아와 관련 자동차 산업의 IT/보안 문제를 해결하도록 협상을 진행한다.",
-        "30일에 이 신속진약은 직접 공세 추진, 서비스 보안 개선, 위기 대응 모의훈련 등을 포함하여 산업이 보호를 최적화하는 데에 효과적인 방식을 제시한다.",
-        "이 협상은 산업의 안전성을 유지하고 수정이 가능한 국내와 해외 공급망에서의 IT/보안 문제를 더 큰 방위로 주기불으로 전향시점으로 가돔한다."
-      ],
-      "insight": "이 협상은 IT/보안에 관한 산업에서 중요한 인사이트를 공유하고, 직접적으로 KISA의 내부 전략과 협상의 원인을 밝혔다."
-    },
-    {
-      "title": "S2W, 아태 시장에 AI 기반 안보·보안 솔루션 선보여... ‘MTX 2026’ 참가",
-      "link": "http://www.boannews.com/media/view.asp?idx=143451&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Apr 2026 13:08:00 +0900",
-      "description": "위협 정보 탐색 효율 강화 자비스 AI 업데이트 주목[보안뉴스 강현주 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W, 대표 서상덕)가 아시아 태평양 시장을 대상으로 자사 AI 기반 안보 및 보안 솔루션을 선보였다. S2W는 지난 28일부터 30일까지 싱가포르 샌즈 엑스포 앤 컨벤션 센터에서 열린 아시아·태평양 대표 안보·치안 산업 전시회 ‘",
-      "language": "ko",
-      "summary": "위협 정보 탐색 효율 강화 자비스 AI 업데이트 주목[보안뉴스 강현주 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W, 대표 서상덕)가 아시아 태평양 시장을 대상으로 자사 AI 기반 안보 및 보안 솔루션을 선보였다. S2W는 지난 28일부터 30일까지 싱가포르 샌즈 엑스포 앤 컨벤션 센터에서 열린 아시아·태평양 대표 안보·치안 산업 전시회 ‘",
-      "points": [
-        "위협 정보 탐색 효율 강화 자비스 AI 업데이트 주목[보안뉴스 강현주 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W, 대표 서상덕)가 아시아 태평양 시장을 대상으로...",
-        "S2W는 지난 28일부터 30일까지 싱가포르 샌즈 엑스포 앤 컨벤션 센터에서 열린 아시아·태평양 대표 안보·치안 산업 전시회 ‘",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
