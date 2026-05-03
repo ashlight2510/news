@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-05-03T13:14:57.163Z",
+  "generatedAt": "2026-05-03T19:01:44.934Z",
   "articles": [
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 03 May 2026 18:00:09 +0000",
+      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "language": "en",
+      "summary": "Researchers from Harvard University have published findings showing that an AI language model outperformed two human medical professionals in diagnosing emergency room patients more accurately.",
+      "points": [
+        "AI demonstrated greater accuracy than humans for patient case studies examined by the research team.",
+        "The study involved real-life cases from a hospital' extramural unit, where AI showed high performance and fewer misdiagnoses compared to doctors.",
+        "Human participants were experienced in emergency medicine with an average of 10 years on job experience."
+      ],
+      "insight": "The Harvard study suggests that incorporating artificial intelligence could enhance diagnostic accuracy, potentially leading to better patient outcomes and efficiency gains within the healthcare industry. However, human oversight remains essential due to AI's limitations in understanding nuanced cases or rare conditions."
+    },
+    {
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 03 May 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "The article discusses how autonomous robotaxis operate within regulations to provide safe rides.",
+      "points": [
+        "Autonomous vehicles (AVs), also known as self-driving cars, are increasingly becoming a part of our daily lives. The development and deployment of these cutting-edge machines have been rapid in the past few years; however, there's still much to understand about their interaction with regulations.",
+        "Robotaxis operate similarly to traditional taxis but without an actual driver inside or onboard for safety reasons since they are fully automated. The vehicles use a combination of cameras, radar sensors, and AI algorithms to safely navigate roads by obeying traffic rules while ensinely navigating passengers from pick-up locations.",
+        "To issue a ticket in the context of robotaxis means initiating ride requests through smartphone applications or other digital platforms. Passengers choose destinations, select their preferred time for travel and input any special requirements they might have to receive accurate trip estimates."
+      ],
+      "insight": "As autonomous vehicle technology matures with advancements in AI and sensor systems becoming more robust and reliable at driving without human intervention, regulations will need to evolve accordingly. As the world moves towards these self-driving cars on roads by adapting policies that consider safety measures for passengers while ensuring a smooth transition."
+    },
+    {
+      "title": "[2026 SIEM 솔루션 리포트] SIEM, 지능형 보안 통합 관제 시스템으로 진화하다",
+      "link": "http://www.boannews.com/media/view.asp?idx=143395&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 3 May 2026 22:18:00 +0900",
+      "description": "보안 정보 관리와 보안 이벤트 관리의 만남... 로그 분석 넘어 데이터 플랫폼으로 발전[설문조사] SIEM 운용을 위한 연간 운용비용 ‘1000~3000만원’이 가장 많아SIEM 솔루션 전문기업 집중분석: 로그프레소, 쿼리시스템즈[보안뉴스 원병철 기자] 최근 국내·외에서 발생한 주요 보안 사고에서 공통으로 꼽히는 보안 솔루션이 있다. 바로 SIEM(Secu",
+      "language": "ko",
+      "summary": "보안 정보 관리와 보안 이벤트 관리의 만남. 로그 분석 넘어 데이터 플랫폼으로 발전[설문조사] SIEM 운용을 위한 연간 운용비용 ‘1000~3000만원’이 가장 많아SIEM 솔루션 전문기업 집중분석: 로그프레소, 쿼리시스템즈[보안뉴스 원병철 기자] 최근 국내·외에서 발생한 주요 보안 사고에서 공통으로 꼽히는 보안 솔루션이 있다...",
+      "points": [
+        "보안 정보 관리와 보안 이벤트 관리의 만남",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
       "link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
@@ -705,51 +750,6 @@
         "The development follows a partnership between Google's mooveye division and several major automakers"
       ],
       "insight": "This move showcases an ambitious expansion strategy for Google in smart mobility technology that integrates cutting-edge AI into everyday transportation."
-    },
-    {
-      "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
-      "link": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 17:24:49 +0000",
-      "description": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer.",
-      "language": "en",
-      "summary": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 17:15:19 +0000",
-      "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
-      "language": "en",
-      "summary": "Stripe has launched Link, a digital wallet that not only allows users to connect financial services but also enables the use of autonomous AI agents for secure spending with approval flows.",
-      "points": [
-        "Link is Stripe'su new digital payment solution designed by customers and entrepreneurs alike",
-        "The Link wallet lets you manage multiple accounts, cards, banks, subscriptions, recurring payments in one place while authorizing AI agents to spend securely using approval flows.",
-        "AI integration enhances security with Stripe’s zero-trust approach for seamless financial management"
-      ],
-      "insight": "The introduction of Link by Stripe signifies a shift towards more integrated and intelligent digital payment solutions that cater to not only human users but also AI agents, which could potentially streamline business operations while maintaining robust security measures."
-    },
-    {
-      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Apr 2026 16:06:49 +0000",
-      "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
-      "language": "en",
-      "summary": "Salesforce is crowdsourcing AI development by involving customers in guiding their product roadmap.",
-      "points": [
-        "Enterprise customer feedback drives Salesforce's artificial intelligence initiatives",
-        "This approach assumes common challenges among similar businesses to prioritize features",
-        "Salesforce is implementing new AI-driven tools for sales, service management and marketing"
-      ],
-      "insight": "The strategy emphasizes customer collaboration in product development which could lead to more relevant technology solutions within the IT industry."
     }
   ]
 }
