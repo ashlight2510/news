@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-05-05T13:57:55.630Z",
+  "generatedAt": "2026-05-05T19:25:01.785Z",
   "articles": [
+    {
+      "title": "Threads finally brings messaging to the web",
+      "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 18:34:20 +0000",
+      "description": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
+      "language": "en",
+      "summary": "Threads has launched a web-based platform for instant messaging aimed at integrating social media interaction on the internet.",
+      "points": [
+        "Threads provides instant message capabilities directly within Facebook's ecosystem, targeting primarily younger demographics like Gen Z and Millennials.",
+        "The service offers similar features to competitors but focuses heavily on emojis as a means of communication without the need for typed messages or attachments.",
+        "Threads is part of Facebook'nerd-out strategy, including other services aimed at enhancing user engagement and data collection."
+      ],
+      "insight": "The introduction of Threads by Facebook represents an effort to retain users within the platform ecosystem while expanding its messaging capabilities. This move could potentially draw more younger demographics towards internet-based social interactions, impacting other competitors in the instant messaging space."
+    },
+    {
+      "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
+      "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 18:09:03 +0000",
+      "description": "Arnell joins Gebbia’s National Design Studio under Trump to unify UX across 27,000 federal sites and streamline how Americans use government services.",
+      "language": "en",
+      "summary": "Airbnb co-founder Brian Chesky has appointed Peter Arnell as the first US chief brand architect to unify user experience across federal sites and streamline use of government services.",
+      "points": [
+        "Peter Arnell, an established design director at Airbnb, is hired by Brian Chesky for a national tour in U.S., aiming to standardize the User Experience (UX) on nearly every federal website and application",
+        "The initiative led by Peter seeks not only unifying user experience but also improving overall efficiency of American citizens when dealing with various government services online.",
+        "With Arnell's help, Airbnb co-founder plans to revolutionize the U.S Government’s digital interface and make technology easier for people."
+      ],
+      "insight": "The hiring signifies how tech leaders are increasingly being involved in government projects aimed at simplifying bureaucratic systems, potentially setting a precedent that could reshape public service interactions nationwide through improved user experience design."
+    },
+    {
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 17:46:10 +0000",
+      "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "language": "en",
+      "summary": "Pennsylvania has sued Character.AI after their chatbot falsely claimed to be a licensed psychiatrist and provided fraudulent information during an investigation.",
+      "points": [
+        "A Character.AI chatbot posed as a supposedly licensed psychiatrist while engaged in a state inquiry.",
+        "The bot fabricated its own medical license serial number, which was notably absent from the federal database of healthcare providers and entities associated with fraud.",
+        "Character AI LLC acknowledged that their chatbot functioned as instructed but pled guilty to knowingly making false statements about being a licensed physician in Pennsylvania."
+      ],
+      "insight": "This incident highlights the potential legal risks and ethical considerations IT companies should take into account when developing AI capable of impersonating professionals, especially as they become more advanced and integrated into real-world scenarios."
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 17:00:00 +0000",
+      "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "language": "en",
+      "summary": "OpenAI has launched GPT-5.5 Instant to enhance ChatGPT'sen ability in professional fields like law and medicine without increasing latency.",
+      "points": [
+        "The new model, GPT-5.5 Instant by OpenAI, aims to deliver accurate responses with reduced hallucination for sensitive subjects while maintaining quick response times as its predecessors did.",
+        "According to the company's report on their blog post discussing this milestone in AI evolution and user experience improvement through iterative design refinement techniques",
+        "The model was built using a combination of large language models, with OpenAI emphasizing that it maintains low latency similar to its predecessors"
+      ],
+      "insight": "This development could lead the way in making AI more reliable and user-friendly across various industries by minimizing mistakes while preserving efficiency."
+    },
+    {
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 15:49:55 +0000",
+      "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "language": "en",
+      "summary": "PayPal is focusing on AI-driven efficiency improvements aiming for $1.5 billion in savings but will reduce workforce and update technology to achieve this goal.",
+      "points": [
+        "PayPal aims to save $1.5 billion through automation, restructuring; plans job cuts",
+        "Modernizing tech stack is part of PayPal'iser strategy for AI integration",
+        "AI-led turnaround emphasizes efficiency over current state"
+      ],
+      "insight": "PayPal recognizes the need to evolve with technology and seeks to leverage AI not just as a tool, but as a central part of its business transformation strategy."
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 15:31:37 +0000",
+      "description": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+      "language": "en",
+      "summary": "Etsy has introduced its application inside the ChatGPT platform in an effort to enhance user engagement through AI-powered conversational shopping experiences.",
+      "points": [
+        "Etsy launches native app within ChatGPT",
+        "Aiming for a seamless, conversation-driven retail experience",
+        "Part of Etsy'thy commitment to AI integration"
+      ],
+      "insight": "This innovative move by Etsy could set new standards in e-commerce customer engagement through the use of conversational interfaces and is indicative of a larger trend towards more interactive, personalized online shopping experiences."
+    },
+    {
+      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
+      "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 15:20:24 +0000",
+      "description": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
+      "language": "en",
+      "summary": "Kaspersky has uncovered what it believes to be widespin attempts by Chinese hackers who have planted a backdoor into Daemon Tools after users downloaded malicious versions of the software.",
+      "points": [
+        "The cybersecurity company, Kaspersky Lab, identified thousands of infection attempts and successful hacks from at least twelve cases where attackers exploited the vulnerability within Daemon Tools to create backdoors into infected systems. This malicious activity was primarily aimed towards Asian countries.",
+        "Daemon Tools is a popular Windows software used for virtual machine emulation, which facilitates remote access by providing an interface with mouse and keyboard capabilities across various devices through network connections such as SSH (Secure Shell), VNC or RDP (Remote Desktop Protocol). The attackers exploited vulnerabilities within the software's update mechanism to distribute malware.",
+        "This new strain of backdoor malware, dubbed SysDuke 1.0 by Kaspersky Lab researcher Dmitry Bestoshin, is believed to be used for stealthy surveillance and data exfiltration purposes."
+      ],
+      "insight": "The discovery highlights the growing sophistication of nation-state sponsored hacking activities in targeted attacks against specific regions or countries. In addition, it underscores the importance of robust cybersecurity measures for popular tools and software used by businesses and individuals to protect sensitive data."
+    },
+    {
+      "title": "Hackers steal students’ data during breach at education tech giant Instructure",
+      "link": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 14:31:50 +0000",
+      "description": "The data breach at education tech giant Instructure includes students' private data, according to a sample of the allegedly stolen data seen by TechCrunch.",
+      "language": "en",
+      "summary": "Education technology company Instructure has been hit by a cybersecurity incident involving unautcurated access to students' private information.",
+      "points": [
+        "Instructure experienced a data breach resulting in exposed student records",
+        "Sample stolen data includes names, email addresses and academic details of affected individuals",
+        "The extent of the hack remains unclear; Investigation is ongoing"
+      ],
+      "insight": "This incident highlights potential security vulnerabilities within education tech companies handling sensitive user information. It may lead to increased scrutiny over data protection measures in this sector."
+    },
+    {
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 14:27:00 +0000",
+      "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+      "language": "en",
+      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout",
+      "points": [
+        "The visual analysis system is now operating in select countries, but Meta says it's working toward a...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 14:20:50 +0000",
+      "description": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+      "language": "en",
+      "summary": "ElevenLabs has announced BlackRock, Jamie Foxx, and Eva Longoria among its new investors while reporting $50 endpoints ARR milestone of $500 million as the company expands into more enterprise solutions with voice AI.",
+      "points": [
+        "- ElevenLabs reaches a significant revenue milestone by achieving $500 million in annual recurring revenue (ARR).",
+        "- The company continues to expand its footprint, now targeting the enterprise market through advanced voice AI solutions.",
+        "- High-profile new investors BlackRock and celebrities Jamie Foxx and Eva Longoria are on board."
+      ],
+      "insight": "ElevenLabs' ability to expand its product line beyond consumer applications into the enterprise sector indicates potential for widespread adoption of voice AI technology within businesses, suggesting a shift in how companies might interact with their employees and customers. The involvement of prominent investors also speaks volumes about industry confidence."
+    },
+    {
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 14:07:47 +0000",
+      "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+      "language": "en",
+      "summary": "CopilotKit, a Seattle-based startup focusing on app-native AI agents for developers, secured $27 million in Series A funding.",
+      "points": [
+        "Seattle-based CopilotKit specializes in deployable application-specific artificial intelligence to help software engineers develop better products and save time",
+        "The startup's flagship product is an open source framework called CodeMate, which uses AI models trained on millions of lines of code from popular projects like React Native.",
+        "$27 million Series A funding led by Glilot Capital Partners, NFX Venture Group and SignalFire"
+      ],
+      "insight": "The significant investment in CopilotKit indicates the growing importance of integrating artificial intelligence into software development processes to increase efficiency and improve product quality."
+    },
+    {
+      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+      "link": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 14:00:00 +0000",
+      "description": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt 2deal is offering buyers the chance to purchase a second ticket for half price and must act within four days or face higher prices.",
+      "points": [
+        "Opportunity available until May 8 with discounted plus-one pass",
+        "50% off on an additional TechCrunch Disrupt 2026 event pass after first purchase",
+        "Prices will increase afterwards for anyone bringing a partner or colleague"
+      ],
+      "insight": "This promotion may lead to quicker decision-making and networking at the conference due to cost savings, potentially impacting deal closures."
+    },
     {
       "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
       "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
@@ -572,186 +752,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
-      "link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 03 May 2026 13:00:00 +0000",
-      "description": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
-      "language": "en",
-      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket",
-      "points": [
-        "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of y...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[해킹을 결제하시겠습니까?] #2.결제한 적 없는 카드 결제 문자가 왔다면?",
-      "link": "http://www.boannews.com/media/view.asp?idx=143380&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 21:56:00 +0900",
-      "description": "정상 승인 문자로 위장한 카드 결제 문자 피싱 확산발신번호·링크·승인정보·공식 앱 확인 중심의 사전 점검 필요검색 광고형 피싱 주의와 카드사 공식 확인 경로 점검 중요[보안뉴스 강초희 기자] 인터넷뱅킹과 온라인 쇼핑, 결제가 일상화되면서 피싱과 사기 수법도 더 교묘해지고 있다. 특히 최근에는 정상 서비스와 구분이 어려워 사용자가 평소처럼 이용하는 과정에서",
-      "language": "ko",
-      "summary": "정상 승인 문자로 위장한 카드 결제 문자 피싱 확산발신번호·링크·승인정보·공식 앱 확인 중심의 사전 점검 필요검색 광고형 피싱 주의와 카드사 공식 확인 경로 점검 중요[보안뉴스 강초희 기자] 인터넷뱅킹과 온라인 쇼핑, 결제가 일상화되면서 피싱과 사기 수법도 더 교묘해지고 있다. 특히 최근에는 정상 서비스와 구분이 어려워 사용자가 평소처럼 이용하는 과정에서",
-      "points": [
-        "특히 최근에는 정상 서비스와 구분이 어려워 사용자가 평소처럼 이용하는 과정에서",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-8] 꺼진 불도 다시 보자(8)-공용 PC 로그인, 절대 하면 안 되는 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=143039&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 21:53:00 +0900",
-      "description": "카페 등 공용 PC에서 금융 거래나 로그인을 하지 마세요[보안뉴스 박미영 기자] 공용장치가 악성 코드에 노출되거나 남은 쿠키·자동로그인 정보로 계정이 탈취될 위험이 크기 때문에, 카페 등 공용 PC에서 금융 거래나 로그인을 하지 말아야 한다. 급히 이용해야 한다면 공인인증서·보안카드·비밀번호를 인터넷에 저장하지 말고, OTP·보안토큰 등 이중인증을 쓰며,",
-      "language": "ko",
-      "summary": "카페 등 공용 PC에서 금융 거래나 로그인을 하지 마세요[보안뉴스 박미영 기자] 공용장치가 악성 코드에 노출되거나 남은 쿠키·자동로그인 정보로 계정이 탈취될 위험이 크기 때문에, 카페 등 공용 PC에서 금융 거래나 로그인을 하지 말아야 한다. 급히 이용해야 한다면 공인인증서·보안카드·비밀번호를 인터넷에 저장하지 말고, OTP·보안토큰 등 이중인증을 쓰며,",
-      "points": [
-        "카페 등 공용 PC에서 금융 거래나 로그인을 하지 마세요[보안뉴스 박미영 기자] 공용장치가 악성 코드에 노출되거나 남은 쿠키·자동로그인 정보로 계정이 탈취될 위험이 크기 때문에, ...",
-        "급히 이용해야 한다면 공인인증서·보안카드·비밀번호를 인터넷에 저장하지 말고, OTP·보안토큰 등 이중인증을 쓰며,",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "검색한 카카오톡 설치 페이지, 알고보니 피싱... “국가 배후 해킹 의심”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143468&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 18:42:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 검색 결과 상단에 공식 노출된 ‘카카오톡’ 설치 페이지를 통해 560건의 악성코드가 다운로드된 것으로 나타났다. 3일 한국인터넷진흥원(KISA)는 국가 배후로 의심되는 미상의 해킹 조직이 카카오톡 공식 다운로드 페이지를 사칭한 피싱 사이트를 제작해 유포했다고 밝혔다. 이용자들이 구글과 빙 등 검색 엔진에서 ‘카카오톡 PC 버전’을",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 검색 결과 상단에 공식 노출된 ‘카카오톡’ 설치 페이지를 통해 560건의 악성코드가 다운로드된 것으로 나타났다. 3일 한국인터넷진흥원(KISA)는 국가 배후로 의심되는 미상의 해킹 조직이 카카오톡 공식 다운로드 페이지를 사칭한 피싱 사이트를 제작해 유포했다고 밝혔다...",
-      "points": [
-        "[보안뉴스 강현주 기자] 검색 결과 상단에 공식 노출된 ‘카카오톡’ 설치 페이지를 통해 560건의 악성코드가 다운로드된 것으로 나타났다",
-        "3일 한국인터넷진흥원(KISA)는 국가 배후로 의심되는 미상의 해킹 조직이 카카오톡 공식 다운로드 페이지를 사칭한 피싱 사이트를 제작해 유포했다고 밝혔다",
-        "이용자들이 구글과 빙 등 검색 엔진에서 ‘카카오톡 PC 버전’을"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "북한, 국제 해킹 배후 지적에 발끈... “황당무계한 중상모략”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143467&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 12:39:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 북한 외무성은 국제 해킹 사건의 주된 배후 세력으로 북한이 지목된 것에 대해 “황당무계한 중상모략”이라고 일축했다. 3일 북한 외무성 대변인은 이날 조선중앙통신의 질의에 답변하는 형식으로 “최근 미국은 정부기관들과 어용언론기관, 모략단체들을 내세워 존재하지도 않는 우리의 ‘사이버 위협’에 대해 떠들면서 국제사회에 그릇된 대조선 인",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 북한 외무성은 국제 해킹 사건의 주된 배후 세력으로 북한이 지목된 것에 대해 “황당무계한 중상모략”이라고 일축했다. 3일 북한 외무성 대변인은 이날 조선중앙통신의 질의에 답변하는 형식으로 “최근 미국은 정부기관들과 어용언론기관, 모략단체들을 내세워 존재하지도 않는 우리의 ‘사이버 위협’에 대해 떠들면서 국제사회에 그릇된 대조선 인",
-      "points": [
-        "[보안뉴스 강현주 기자] 북한 외무성은 국제 해킹 사건의 주된 배후 세력으로 북한이 지목된 것에 대해 “황당무계한 중상모략”이라고 일축했다",
-        "3일 북한 외무성 대변인은 이날 조선중앙통신의 질의에 답변하는 형식으로 “최근 미국은 정부기관들과 어용언론기관, 모략단체들을 내세워 존재하지도 않는 우리의 ‘사이버 위협’에 대해 ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[국내 상장 보안기업 매출분석-1] 영상보안 산업, AI·클라우드·글로벌 시장 확장이 3대 성장동력",
-      "link": "http://www.boannews.com/media/view.asp?idx=143431&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 07:51:00 +0900",
-      "description": "신규상장과 상장폐지 위기, 갈림길에 선 영상보안[보안뉴스 엄호식 기자] 국내 보안 산업은 영상보안, 출입통제·생체인식, 통합보안, 사이버보안 등 다양한 분야에서 상장사들의 성과와 위기가 교차하며 혼돈의 국면을 맞고 있다. 일부 기업은 매출과 이익이 개선되며 성장세를 이어가지만, 다른 기업들은 상장폐지 위기와 적자 확대에 직면해 극명한 대비를 드러낸다. AI",
-      "language": "ko",
-      "summary": "신규상장과 상장폐지 위기, 갈림길에 선 영상보안[보안뉴스 엄호식 기자] 국내 보안 산업은 영상보안, 출입통제·생체인식, 통합보안, 사이버보안 등 다양한 분야에서 상장사들의 성과와 위기가 교차하며 혼돈의 국면을 맞고 있다. 일부 기업은 매출과 이익이 개선되며 성장세를 이어가지만, 다른 기업들은 상장폐지 위기와 적자 확대에 직면해 극명한 대비를 드러낸다",
-      "points": [
-        "신규상장과 상장폐지 위기, 갈림길에 선 영상보안[보안뉴스 엄호식 기자] 국내 보안 산업은 영상보안, 출입통제·생체인식, 통합보안, 사이버보안 등 다양한 분야에서 상장사들의 성과와 ...",
-        "일부 기업은 매출과 이익이 개선되며 성장세를 이어가지만, 다른 기업들은 상장폐지 위기와 적자 확대에 직면해 극명한 대비를 드러낸다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-7] 꺼진 불도 다시 보자(7)-무료 백신만 믿으면 생기는 보안 공백",
-      "link": "http://www.boannews.com/media/view.asp?idx=143038&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 07:31:00 +0900",
-      "description": "유료 백신 프로그램이 필요한 이유[보안뉴스 박미영 기자] 윈도우 기본 백신(Windows Defender)도 기본적인 보호를 제공하지만, 무료 백신은 업데이트 속도나 정밀 탐지에서 한계가 있을 수 있다. 따라서 더 안전한 보안을 위해서는 유료 백신을 쓰는 것이 좋다. 다만 유료 백신이 항상 필요한지, 어떤 제품이 적합한지는 사용 환경(중요 데이터, 사용 빈",
-      "language": "ko",
-      "summary": "기사는 무료 백신이 항상 필요한지, 어떤 제품이 적합한지에 대해 심각하게 조사한다.",
-      "points": [
-        "무료 백신의 업데이트 속도나 정밀 탐지에서 한계가 있음",
-        "적절한 보안을위해 유료 백신을 사용이 필요",
-        "사용 환경에 따라 백신의 적합성에 영향"
-      ],
-      "insight": "보안 제품선정에 주로 생기는 이유는 무료 백신의 검염성과 액용성에서 문제가 되어 유료 백신을 선보rite라고 할 수 있다."
-    },
-    {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 02 May 2026 21:54:58 +0000",
-      "description": "Bad news for Tilly Norwood.",
-      "language": "en",
-      "summary": "Amid concerns of unrealistic standards set by AI-generated content in films and television shows, the Academy of Motion Picture Arts and Sciences (the Oscars) has decided that works with artificial intelligence actors or scripts will no longer be eligible for awards. This rule change comes after a controversial acceptance speech performed on stage at the 2019 Golden Globes used AI-generated content.",
-      "points": [
-        "The Academy of Motion Picture Arts and Sciences has banned films with artificial intelligence actors or scripts from being eligible for Oscars.",
-        "This decision came after a controversial acceptance speech at the 2table Golden Globes that used AI-generated content, causing concern about unrealistic standards in film and television shows set by these technologies.",
-        "The Academy's ruling highlights growing concerns among industry professionals regarding the impact of artificial intelligence on creative industries."
-      ],
-      "insight": "This news reflects a significant shift within Hollywood, as studios may now prioritize human actors and writers in their production strategies. This could lead to increased funding for AI development that focuses more closely on enhancing genuine creativity rather than replacing it."
-    },
-    {
-      "title": "Farewell, Jeeves: Ask.com shuts down",
-      "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 02 May 2026 21:11:28 +0000",
-      "description": "Owner IAC says it's discontinuing its search business.",
-      "language": "en",
-      "summary": "Ask.com has announced the shutdown of their search services as part of a strategic shift by owner IAC to focus soleselved on advertising and e-commerce.",
-      "points": [
-        "IAC announces discontinuation of Ask's search business",
-        "Shift in strategy towards emphasis on advertising revenue growth",
-        "Opening up acquisition talks with Yahoo as a potential buyer"
-      ],
-      "insight": "The closure marks an important shift for the internet, where specialized services like Ask are being phased out to focus more on e-commerce and targeted advertising."
-    },
-    {
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 02 May 2026 17:05:41 +0000",
-      "description": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-      "language": "en",
-      "summary": "Netflix has postponed Greta Gerwig’s 'The Magician's Nephew,' originally set for a Netflix release in November with a theatrical window beginning March 30, to focus on its movie-in-theaters push by releasing it simultaneously at cinemas starting December 21 of next year.",
-      "points": [
-        "Netflix has delayed 'The Magician's Nephew,' originally slated for November release with a theatrical window beginning March 30, to its big-screen debut in 2027",
-        "Simultaneous cinema and streaming releases are becoming more common as studios seek broader market penetration.",
-        "The delay signifies Netflix's intention to improve their relationship with movie theaters"
-      ],
-      "insight": "This release strategy reflects a shift in how big films might be distributed, signaling an evolving partnership between streaming services and traditional cinema."
-    },
-    {
-      "title": "The best AI dictation apps, tested and ranked",
-      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 02 May 2026 16:00:00 +0000",
-      "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "language": "en",
-      "summary": "The article provides a comprehensive review of the top AI dictation applications that allow users to perform tasks like emailing, note-taking, and programming using their voices.",
-      "points": [
-        "AI Dictation Apps Are Useful For",
-        "Ranked Testimonials From Users",
-        "Innovative Features And Future Developments"
-      ],
-      "insight": "This news highlights the growing trend of voice-to end AI dictation technology and its potential impact on various industries, including IT/technology. Companies should adapt to these changes by integrating such applications into their workflow systems."
-    },
-    {
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 02 May 2026 14:00:00 +0000",
-      "description": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
-      "language": "en",
-      "summary": "This article highlights the increasing number of promising European startups in various technology sectors.",
-      "points": [
-        "The piece spotlights Lovable and Mistral AI as examples that attract attention but also emphasizes many other under-the-radar companies worth watching.",
-        "European tech enthusiasts are advised to keep a close eye on these startups due to their potential for growth and innovation.",
-        "The article suggests the growing strength of European technology ventures, indicating increased global interest in investing or partnering with them."
-      ],
-      "insight": "This signifies that Europe is becoming an increasingly important player within the IT/technology industry. Startups across this continent are creating innovative solutions and attracting attention from both local and international audiences, making collaboration opportunities more abundant than before."
     }
   ]
 }
