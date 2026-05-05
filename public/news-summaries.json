@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-05T02:45:57.750Z",
+  "generatedAt": "2026-05-05T08:11:11.313Z",
   "articles": [
+    {
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 03:31:54 +0000",
+      "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "language": "en",
+      "summary": "Nvidia CEO Jensen Huang disputes the idea that artificial intelligence will lead to mass unemployment, asserting instead that AI is generating a large number of jobs.",
+      "points": [
+        "Jensen Huang counters claims about job loss due to AI with evidence suggesting an increase in employment opportunities",
+        "Huang mentions specific sectors such as automottable manufacturing, robotics and consumer hardware that have seen significant growth thanks to advancements in artificial intelligence.",
+        "While acknowledging some industries will evolve due to AI adoption, Huang insists this is a natural progression of technology rather than an existential threat."
+      ],
+      "insight": "The article indicates that while fears about job loss to automation and artificial intelligence are understandable given technological advancements, they may be exaggerated. This suggests companies in the IT industry could have significant opportunities for growth through AI integration without necessarily leading to widespread unemployment."
+    },
     {
       "title": "아마존의 간편 이메일 서비스 악용하는 피싱 이메일 급증",
       "link": "http://www.boannews.com/media/view.asp?idx=143477&kind=&sub_kind=",
@@ -737,21 +752,6 @@
         "Masad criticizes Apple'ner aggression in the market and intends to take legal action against them"
       ],
       "insight": "Replit is standing firm on its independence amidst high-value acquisition rumors, demonstrating resilience within a highly competitive industry."
-    },
-    {
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 01 May 2026 22:39:05 +0000",
-      "description": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
-      "language": "en",
-      "summary": "Musely has secured $360 million in funding from General Catalyst without relintermately surrendering equity.",
-      "points": [
-        "General Catalyst invests a significant amount of non-dilutive capital into Musely.",
-        "The fund will be used to enhance customer acquisition strategies for the direct-to-consumer brand in skincare, hair care, and menopause wellness sectors.",
-        "This substantial investment allows Musely to expand its business without diluting existing shareholders' equity."
-      ],
-      "insight": "The capital injection into DTC brands like Musely could indicate a trend in the industry where companies are increasingly aiming for growth and expansion with less reliance on venture capital funding, potentially reducing pressure to scale rapidly or exit through public markets. This approach allows businesses more flexibility while retaining full ownership."
     }
   ]
 }
