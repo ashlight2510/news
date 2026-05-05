@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-04T19:36:05.254Z",
+  "generatedAt": "2026-05-05T02:45:57.750Z",
   "articles": [
+    {
+      "title": "아마존의 간편 이메일 서비스 악용하는 피싱 이메일 급증",
+      "link": "http://www.boannews.com/media/view.asp?idx=143477&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 5 May 2026 10:36:00 +0900",
+      "description": "아마존 SES 악용해 SPF, DKIM, DMARC 프로토콜과 같은 인증 검사 통과공격자들, 오픈소스 ‘TruffleHog’ 유틸리티를 기반으로 구축된 봇 등 자동화된 공격 활용[보안뉴스 원병철 기자] 아마존의 간편 이메일 서비스(SES)를 이용해 보안 필터를 우회하고 평판 기반 차단을 무력화하는 정교한 피싱 이메일을 발송하는 악용 사례가 급증하고 있다.",
+      "language": "ko",
+      "summary": "아마존 SES 악용해 SPF, DKIM, DMARC 프로토콜과 같은 인증 검사 통과공격자들, 오픈소스 ‘TruffleHog’ 유틸리티를 기반으로 구축된 봇 등 자동화된 공격 활용[보안뉴스 원병철 기자] 아마존의 간편 이메일 서비스(SES)를 이용해 보안 필터를 우회하고 평판 기반 차단을 무력화하는 정교한 피싱 이메일을 발송하는 악용 사례가 급증하고 있다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "쿤텍, 공급망 보안 플랫폼 ‘이지즈(AEZIZ) 3.0’ 출시... SBOM 넘어 AI-BOM까지 확장",
+      "link": "http://www.boannews.com/media/view.asp?idx=143475&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 5 May 2026 09:30:00 +0900",
+      "description": "SW 개발 전 과정 공급망 보안 통합 관리할 오픈소스·바이너리·레파지토리 통합 플랫폼 구현AI-BOM 도입해 AI 공급망 보안 대응 및 공공·국방·금융 검증된 레퍼런스 기반 안정성 확보[보안뉴스 원병철 기자] 융합보안 전문기업 쿤텍(대표 방혁준)이 SBOM 및 AI-BOM(AI 모델 구성 요소 검증) 기반으로 전체 공급망 보안을 통합적으로 관리할 수 있는",
+      "language": "ko",
+      "summary": "SW 개발 전 과정 공급망 보안 통합 관리할 오픈소스·바이너리·레파지토리 통합 플랫폼 구현AI-BOM 도입해 AI 공급망 보안 대응 및 공공·국방·금융 검증된 레퍼런스 기반 안정성 확보[보안뉴스 원병철 기자] 융합보안 전문기업 쿤텍(대표 방혁준)이 SBOM 및 AI-BOM(AI 모델 구성 요소 검증) 기반으로 전체 공급망 보안을 통합적으로 관리할 수 있는",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 00:13:30 +0000",
+      "description": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "language": "en",
+      "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6",
+      "points": [
+        "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 04 May 2026 22:21:32 +0000",
+      "description": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+      "language": "en",
+      "summary": "cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 04 May 2026 21:53:21 +0000",
+      "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "language": "en",
+      "summary": "Cerebras AI chip maker is preparing for a potential IPO that could value the company at over $26 billion due to its unique technology.",
+      "points": [
+        "The partnership between Cerebras and OpenAI may help facilitate accessibility of their custom silicon chips in data centers globally, possibly disrupting traditional computing models.",
+        "Cerebras's fully connected chip architecture allows for direct interconnectivity among all neurons on the chip which can reduce power consumption significantly compared to conventional designs. This may open avenues towards more sustainable and efficient AI infrastructure in data centers, impacting how companies implement artificial intelligence.",
+        "The potential IPO of Cerebras could lead other startups or smaller entities within the tech space to seek financial solutions beyond venture capital as they expand their reach."
+      ],
+      "insight": "Cerebras's approach has implications for reducing energy consumption and enhancing efficiency in AI infrastructure, which align with current environmental concerns. This could lead other companies within the IT/technology industry to seek similar innovations or alternative methods of achieving cost-effective yet environmentally friendly growth."
+    },
     {
       "title": "Image AI models now drive app growth, beating chatbot upgrades",
       "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
@@ -677,81 +752,6 @@
         "This substantial investment allows Musely to expand its business without diluting existing shareholders' equity."
       ],
       "insight": "The capital injection into DTC brands like Musely could indicate a trend in the industry where companies are increasingly aiming for growth and expansion with less reliance on venture capital funding, potentially reducing pressure to scale rapidly or exit through public markets. This approach allows businesses more flexibility while retaining full ownership."
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 01 May 2026 22:13:27 +0000",
-      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "language": "en",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said",
-      "points": [
-        "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the com...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 01 May 2026 18:23:04 +0000",
-      "description": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
-      "language": "en",
-      "summary": "Venture capital firm Coatue plans to purchase land close to major energy providers for data center development, a move speculated by industry observers as possibly related to Anthropic'CTO David Madden has confirmed the investment in this project.",
-      "points": [
-        "Coatue invested approximately $1.75 billion into purchasing land near major power sources",
-        "The acquired site is expected to host data centers for high-profile clients like Anthropic and Apple",
-        "This investment by Coatue underscores the importance of reliable energy access in future IT infrastructure"
-      ],
-      "insight": "Coatue's strategic acquisition highlights a growing trend within the tech industry to secure physical spaces for data centers that are powered efficiently and sustainably, setting precedents which may influence broader adoption of similar practices."
-    },
-    {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 01 May 2026 16:02:36 +0000",
-      "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "language": "en",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Ubuntu services hit by outages after DDoS attack",
-      "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 01 May 2026 15:00:14 +0000",
-      "description": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
-      "language": "en",
-      "summary": "Hacktivists launched a distributed denial-of-service attack on multiple Ubuntu and Canonical services, causing outages and disruptions to updates for the Linux operating system.",
-      "points": [
-        "The DDoS attack has affected several websites related to Ubuntu and Canonical",
-        "Users are experiencing difficulties updating their systems due to these attacks",
-        "Hacktivists claim responsibility, motivated by political or social issues"
-      ],
-      "insight": "This incident highlights the growing risks of cyber-attacks on open-source software and underscores the need for better security measures within the IT/technology industry to protect against such disruptions."
-    },
-    {
-      "title": "Musk v. Altman is just getting started",
-      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 01 May 2026 14:00:00 +0000",
-      "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
-      "language": "en",
-      "summary": "Elon Musk's lawsuit against OpenAI and its CEO, focusing on a shift from non-profit to profit model, is taking shape as he presents emails, texts, and tweets in court.",
-      "points": [
-        "Email exchanges between Elon Musk and Sam Altman are central to the lawsuit regarding OpenAI's transition to for-profit status.",
-        "Musk accuses Altman of betraying their original vision by prioritizing financial interests over open accessibility in AI technology.",
-        "The legal battle is expected to uncover more evidence, as additional witnesses are anticipated."
-      ],
-      "insight": "This lawsuit highlights tension between maintaining an ethical approach towards technological advancement and pursuing profitability within the IT/technology industry. The outcomes could influence how tech companies balance these aspects in the future."
     }
   ]
 }
