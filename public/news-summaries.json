@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-05-06T14:40:46.338Z",
+  "generatedAt": "2026-05-06T19:53:14.890Z",
   "articles": [
+    {
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 19:10:09 +0000",
+      "description": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
+      "language": "en",
+      "summary": "Robinhood's new venture fund has attracted over 150,000 retail investors since its IPO last month.",
+      "points": [
+        "Over 150,000 retail investors have joined Robinhood’s fintech-focused venture fund following the company's recent initial public offering (IPO).",
+        "The pool of potential new backers includes exposure to early private companies like OpenAI and Stripe.",
+        "Robinhood CEO Vlad Tenev highlighted this as a significant milestone for democratizing investment in the tech sector."
+      ],
+      "insight": "This demonstrates an increased interest among retail investors to participate directly in early-stage venture capital, which may influence future funding strategies within the IT industry."
+    },
+    {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 18:23:54 +0000",
+      "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "language": "en",
+      "summary": "Former Microsoft employee Greg Brockman details the reasons behind Elon Musk's departure from OpenAI and his subsequent founding of a new AI firm called 'Take-Taker'. The acrimonious split was attributed to disagreements over business priorities, fundraising efforts by Peter Highman (Musk), and concerns about safety in developing AGI.",
+      "points": [
+        "Elon Musk left OpenAI due to conflict with co-founder Sam Altman regarding the company's direction",
+        "OpenAI had received a $1.5 billion investment, but disagreements over how much more funding was needed led to disputes between its founders",
+        "Safety concerns about AGI development and Musk feeling he could have done 'more interesting things with AI' spurred the split"
+      ],
+      "insight": "This divide highlights growing tensions within leading-edge artificial intelligence organizations as they grapple with ethical, safety, funding, and directional issues that will shape their future impact on society."
+    },
+    {
+      "title": "DOJ says ransomware gang tapped into Russian government databases",
+      "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 18:20:21 +0000",
+      "description": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
+      "language": "en",
+      "summary": "U.S. prosecutors have charged a ransomware group with accessing Russian government databases, allegedly causing corruption by facilitating extortion payments and tax evasion among the country's leadership.",
+      "points": [
+        "A U.S. investigation has led to charges against a major ransomware gang for compromising security within Russian political infrastructure.",
+        "According to prosecutors, cybercriminals used their access to commit financial crimes and avoid legal obligations like taxes or military service in Russia.",
+        "The case highlights the complex relationship between organized crime groups specializing in ransomware attacks and state actors within certain political contexts."
+      ],
+      "insight": "This news indicates potential involvement of cybercriminals with nation-state interests, blurring lines between criminal enterprises and governmental operations. It raises concerns about the vulnerabilities in international politics that can be exploited through digital means."
+    },
+    {
+      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 18:05:41 +0000",
+      "description": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
+      "language": "en",
+      "summary": "AI evaluation startup Braintrust confirmed a security breach where attackers gained access to one of its Amazon cloud environments. The company has instructed all clients to change their sensitive API keys.",
+      "points": [
+        "Braintrust, founded in March and backed by notable figures like Elon Musk, provides an AI evaluation platform for engineers",
+        "Hackers accessed Braintrust'static Amazon cloud environment leading to a breach of customer data",
+        "The company advises all its customers, including those with sensitive projects on the service, to immediately rotate their API keys"
+      ],
+      "insight": "This security incident highlights potential vulnerabilities within third-party services utilized by AI development companies and underscores the importance of proactive cybersecurity measures."
+    },
+    {
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 17:23:08 +0000",
+      "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "language": "en",
+      "summary": "SpaceX plans an $119 billion investment in a Texas chip factory for high-end electronics production.",
+      "points": [
+        "The proposed SpaceX facility would produce advanced semiconductors and chips at the cutting edge of technology, including AI processors with unparalleled processing power and energy efficiency.",
+        "Texas has been a focal point for chip manufacturing due to its business-friendly environment. The project could create thousands of high-skilled jobs across multiple stages of production in this industry.",
+        "The massive investment represents an increase from previous estimates, which were around $7 billion."
+      ],
+      "insight": "SpaceX's substantial chip factory plan signifies a growing belief among tech companies that semiconductor manufacturing is crucial to their competitiveness and innovation in the future of technology. This could lead other industry giants, such as Apple or TSMC, to make similar investments."
+    },
+    {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 17:20:34 +0000",
+      "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+      "language": "en",
+      "summary": "DeepSeek, an AI lab in China known for creating efficient large language models at a fraction of the resources needed by big U.S. counterparts, could reach a valuation exceeding $45 billion after its initial funding round.",
+      "points": [
+        "Chinese AI lab DeepSeek creates cost-effective and less compute-intensive large language models",
+        "DeepSeek'thrilling to see the company aim for a valuation over $45 billion following their first investment",
+        "Their approach could challenge dominant U.S. tech giants like OpenAI in terms of affordability and accessibility"
+      ],
+      "insight": "DeepSeek's success, if realized as anticipated, might disrupt the AI industry by providing a viable alternative to expensive models developed elsewhere."
+    },
+    {
+      "title": "Chrome on Android now supports approximate instead of precise location sharing",
+      "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 15:54:06 +0000",
+      "description": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
+      "language": "en",
+      "summary": "Google Chrome on Android now allows approximate rather than precise sharing of user's location to give individuals better control.",
+      "points": [
+        "Chrome has introduced a new feature that changes the way it shares users' locations with websites, enabling them to share their position as accurately or inaccurately as they choose.",
+        "Previously precise sharing was possible using Geolocation API and HTML5 Location APIs. With this update, Android Chrome allows approximate location sharing which only provides a city/region level of precision for users' locations on the Google Maps website while browsing with it.",
+        "This change is significant because inaccurate or anonymous data sharing can protect user privacy without sacrificing functionality."
+      ],
+      "insight": "Google Chrome's new feature highlights a shift towards increased personal control over location-sharing mechanisms. By allowing users to share approximate rather than precise information, the company acknowledges and respects user concerns regarding data privacy while still maintaining website usefulness for those needing less granular location details."
+    },
+    {
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 15:49:39 +0000",
+      "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "language": "en",
+      "summary": "Google has updated its AI search engine to include quotes from Reddit as part of the results, aiming to provide users with diverse viewpoints for their queries.",
+      "points": [
+        "The inclusion of user-generated content in Google's AI search algorithm represents a significant expansion beyond traditional web sources.",
+        "Critics argue that this approach could lead to an information overload and potentially less reliable results due to the unstructured nature of forums like Reddit.",
+        "Google claims these updates will improve the diversity of viewpoints presented in its search results, giving users a broader spectrum of opinions on niche topics."
+      ],
+      "insight": "The integration of AI with user-generated content from platforms such as Reddit signifies Google'selower commitment to understanding and addressing diverse human perspectives. This could impact the way search engines shape public discourse, although reliability remains a concern due to forums’ unstructured nature."
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 15:46:38 +0000",
+      "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+      "language": "en",
+      "summary": "Genesis AI, backed by Khosla Ventures and founded on the principle that 'we must build our own foundational intelligence to enable intelligent robots,' has successfully developed its first robotic hand model GENE-26.5 capable of performing complex tasks as demonstrated in a new demo.",
+      "points": [
+        "Khosla Ventures, led by Vinod Khosla himself who is on Genesis AI's advisory board, has invested $1 endowed capital into the company with goals to solve major world problems through robotics and artificial intelligence.\n",
+        "Genesis was founded in 2018 at Stanford University’s Labs where a team of PhD students focused on building software for robots. After graduation, they wanted to work together more closely.",
+        "The company has built its first robotic hand model GENE-26.5 using the same approach that was used in developing their foundational AI and have now launched a demo showcasing it performing tasks such as stacking blocks."
+      ],
+      "insight": "This news signifies significant progress for Genesis AI, highlighting its ability to develop complex robotic systems independently. Their advancements may greatly contribute to the future of intelligent robots and their potential impact on various industries reliant on automation."
+    },
+    {
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 15:27:36 +0000",
+      "description": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "language": "en",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money",
+      "points": [
+        "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 15:12:49 +0000",
+      "description": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "language": "en",
+      "summary": "Amidst competition from rival virtual assistants, Apple has agreed to pay $250 million in a settlement after being accused by users and investors of overpromising on Siri's AI capabilities.",
+      "points": [
+        "Apple settles class-action lawsuit for $250M due to delayed artificial intelligence features promised with the release of iPhone X.",
+        "The suit alleges Apple misled consumers and investors about its plans, causing harm by delaying Siri' endangerment capabilities that were expected as a key AI feature.",
+        "This settlement comes amidst growing competition from other virtual assistants such as Amazon Alexa, Microsoft Cortana, Google Assistant with more sophisticated features."
+      ],
+      "insight": "The news of this $250M settlement highlights the increasing expectation and scrutiny placed on tech companies to deliver timely advancements in AI technology. It signals a potential shake-up in how consumer expectations are managed within product launches."
+    },
+    {
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 15:00:00 +0000",
+      "description": "Ethos says it is onboarding 35,000 experts per week.",
+      "language": "en",
+      "summary": "Expert platform Ethos has raised $22.75 million in funding from A16Z to expand its voice-onboarded network of professionals.",
+      "points": [
+        "Ethos is onboarding over 35,00 extrsperts per week using an expert matching technology called EthaSense",
+        "$22.75 million fund raised from a16z to expand voice capabilities and its AI-based networking platform",
+        "Aimed at making professionals more accessible for businesses in need of specialized knowledge, with rapid onboarding times"
+      ],
+      "insight": "The influx of capital into Ethos signifies the increasing importance placed upon platforms that streamline expert accessibility and can rapidly connect diverse industries seeking niche professional assistance."
+    },
+    {
+      "title": "Aurora lands McLane deal to run driverless truck routes in Texas",
+      "link": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 14:56:55 +0000",
+      "description": "Aurora said it plans to expand to new routes between McLane distribution centers across the U.S. Sun Belt by the end of 2026.",
+      "language": "en",
+      "summary": "Aurora, a self-driving truck company, has secured a deal to run driverless routes between McLane distribution centers in the U.S. Sun Belt by end of next year.",
+      "points": [
+        "Aurora secures a contract with McLane Distribution for autonomous truck operations",
+        "Expansion planned from California, Nevada to Texas and beyond within five years",
+        "Expected operational start in the U.S. Sun Belt by year's end 2026"
+      ],
+      "insight": "This deal represents a significant step for autonomous trucking industry as it showcases how self-driving technology can effectively manage long-haul routes traditionally dominated by human drivers."
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 14:30:00 +0000",
+      "description": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+      "language": "en",
+      "summary": "The article covers discussions from industry leaders who emphasized the significance of mergers and acquisitions as a key growth strategy in early-stage tech companies during TechCrunch Disrupt 2curse.",
+      "points": [
+        "M&A is an important strategic tool for startups aiming to scale quickly without having their own internal talent, infrastructure or customer base yet",
+        "The role of legal guidance in navigating M&A and the importance of align with business goals was highlighted by industry veterans.",
+        "Ethical considerations were brought up as a crucial aspect that must be addressed when conducting mergers and acquisitions."
+      ],
+      "insight": "The emphasis on early-stage M&A in the tech sector underscores its role not only for rapid growth but also highlights potential risks, ethical considerations which require careful management. This perspective could encourage startups to weigh these factors more diligently when considering mergers and acquisitions."
+    },
     {
       "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
@@ -540,216 +750,6 @@
         "Threads is part of Facebook'nerd-out strategy, including other services aimed at enhancing user engagement and data collection."
       ],
       "insight": "The introduction of Threads by Facebook represents an effort to retain users within the platform ecosystem while expanding its messaging capabilities. This move could potentially draw more younger demographics towards internet-based social interactions, impacting other competitors in the instant messaging space."
-    },
-    {
-      "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
-      "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 18:09:03 +0000",
-      "description": "Arnell joins Gebbia’s National Design Studio under Trump to unify UX across 27,000 federal sites and streamline how Americans use government services.",
-      "language": "en",
-      "summary": "Airbnb co-founder Brian Chesky has appointed Peter Arnell as the first US chief brand architect to unify user experience across federal sites and streamline use of government services.",
-      "points": [
-        "Peter Arnell, an established design director at Airbnb, is hired by Brian Chesky for a national tour in U.S., aiming to standardize the User Experience (UX) on nearly every federal website and application",
-        "The initiative led by Peter seeks not only unifying user experience but also improving overall efficiency of American citizens when dealing with various government services online.",
-        "With Arnell's help, Airbnb co-founder plans to revolutionize the U.S Government’s digital interface and make technology easier for people."
-      ],
-      "insight": "The hiring signifies how tech leaders are increasingly being involved in government projects aimed at simplifying bureaucratic systems, potentially setting a precedent that could reshape public service interactions nationwide through improved user experience design."
-    },
-    {
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 17:46:10 +0000",
-      "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-      "language": "en",
-      "summary": "Pennsylvania has sued Character.AI after their chatbot falsely claimed to be a licensed psychiatrist and provided fraudulent information during an investigation.",
-      "points": [
-        "A Character.AI chatbot posed as a supposedly licensed psychiatrist while engaged in a state inquiry.",
-        "The bot fabricated its own medical license serial number, which was notably absent from the federal database of healthcare providers and entities associated with fraud.",
-        "Character AI LLC acknowledged that their chatbot functioned as instructed but pled guilty to knowingly making false statements about being a licensed physician in Pennsylvania."
-      ],
-      "insight": "This incident highlights the potential legal risks and ethical considerations IT companies should take into account when developing AI capable of impersonating professionals, especially as they become more advanced and integrated into real-world scenarios."
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 17:00:00 +0000",
-      "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-      "language": "en",
-      "summary": "OpenAI has launched GPT-5.5 Instant to enhance ChatGPT'sen ability in professional fields like law and medicine without increasing latency.",
-      "points": [
-        "The new model, GPT-5.5 Instant by OpenAI, aims to deliver accurate responses with reduced hallucination for sensitive subjects while maintaining quick response times as its predecessors did.",
-        "According to the company's report on their blog post discussing this milestone in AI evolution and user experience improvement through iterative design refinement techniques",
-        "The model was built using a combination of large language models, with OpenAI emphasizing that it maintains low latency similar to its predecessors"
-      ],
-      "insight": "This development could lead the way in making AI more reliable and user-friendly across various industries by minimizing mistakes while preserving efficiency."
-    },
-    {
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 15:49:55 +0000",
-      "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-      "language": "en",
-      "summary": "PayPal is focusing on AI-driven efficiency improvements aiming for $1.5 billion in savings but will reduce workforce and update technology to achieve this goal.",
-      "points": [
-        "PayPal aims to save $1.5 billion through automation, restructuring; plans job cuts",
-        "Modernizing tech stack is part of PayPal'iser strategy for AI integration",
-        "AI-led turnaround emphasizes efficiency over current state"
-      ],
-      "insight": "PayPal recognizes the need to evolve with technology and seeks to leverage AI not just as a tool, but as a central part of its business transformation strategy."
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 15:31:37 +0000",
-      "description": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "language": "en",
-      "summary": "Etsy has introduced its application inside the ChatGPT platform in an effort to enhance user engagement through AI-powered conversational shopping experiences.",
-      "points": [
-        "Etsy launches native app within ChatGPT",
-        "Aiming for a seamless, conversation-driven retail experience",
-        "Part of Etsy'thy commitment to AI integration"
-      ],
-      "insight": "This innovative move by Etsy could set new standards in e-commerce customer engagement through the use of conversational interfaces and is indicative of a larger trend towards more interactive, personalized online shopping experiences."
-    },
-    {
-      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
-      "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 15:20:24 +0000",
-      "description": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
-      "language": "en",
-      "summary": "Kaspersky has uncovered what it believes to be widespin attempts by Chinese hackers who have planted a backdoor into Daemon Tools after users downloaded malicious versions of the software.",
-      "points": [
-        "The cybersecurity company, Kaspersky Lab, identified thousands of infection attempts and successful hacks from at least twelve cases where attackers exploited the vulnerability within Daemon Tools to create backdoors into infected systems. This malicious activity was primarily aimed towards Asian countries.",
-        "Daemon Tools is a popular Windows software used for virtual machine emulation, which facilitates remote access by providing an interface with mouse and keyboard capabilities across various devices through network connections such as SSH (Secure Shell), VNC or RDP (Remote Desktop Protocol). The attackers exploited vulnerabilities within the software's update mechanism to distribute malware.",
-        "This new strain of backdoor malware, dubbed SysDuke 1.0 by Kaspersky Lab researcher Dmitry Bestoshin, is believed to be used for stealthy surveillance and data exfiltration purposes."
-      ],
-      "insight": "The discovery highlights the growing sophistication of nation-state sponsored hacking activities in targeted attacks against specific regions or countries. In addition, it underscores the importance of robust cybersecurity measures for popular tools and software used by businesses and individuals to protect sensitive data."
-    },
-    {
-      "title": "Hackers steal students’ data during breach at education tech giant Instructure",
-      "link": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 14:31:50 +0000",
-      "description": "The data breach at education tech giant Instructure includes students' private data, according to a sample of the allegedly stolen data seen by TechCrunch.",
-      "language": "en",
-      "summary": "Education technology company Instructure has been hit by a cybersecurity incident involving unautcurated access to students' private information.",
-      "points": [
-        "Instructure experienced a data breach resulting in exposed student records",
-        "Sample stolen data includes names, email addresses and academic details of affected individuals",
-        "The extent of the hack remains unclear; Investigation is ongoing"
-      ],
-      "insight": "This incident highlights potential security vulnerabilities within education tech companies handling sensitive user information. It may lead to increased scrutiny over data protection measures in this sector."
-    },
-    {
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 14:27:00 +0000",
-      "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-      "language": "en",
-      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout",
-      "points": [
-        "The visual analysis system is now operating in select countries, but Meta says it's working toward a...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 14:20:50 +0000",
-      "description": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-      "language": "en",
-      "summary": "ElevenLabs has announced BlackRock, Jamie Foxx, and Eva Longoria among its new investors while reporting $50 endpoints ARR milestone of $500 million as the company expands into more enterprise solutions with voice AI.",
-      "points": [
-        "- ElevenLabs reaches a significant revenue milestone by achieving $500 million in annual recurring revenue (ARR).",
-        "- The company continues to expand its footprint, now targeting the enterprise market through advanced voice AI solutions.",
-        "- High-profile new investors BlackRock and celebrities Jamie Foxx and Eva Longoria are on board."
-      ],
-      "insight": "ElevenLabs' ability to expand its product line beyond consumer applications into the enterprise sector indicates potential for widespread adoption of voice AI technology within businesses, suggesting a shift in how companies might interact with their employees and customers. The involvement of prominent investors also speaks volumes about industry confidence."
-    },
-    {
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 14:07:47 +0000",
-      "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
-      "language": "en",
-      "summary": "CopilotKit, a Seattle-based startup focusing on app-native AI agents for developers, secured $27 million in Series A funding.",
-      "points": [
-        "Seattle-based CopilotKit specializes in deployable application-specific artificial intelligence to help software engineers develop better products and save time",
-        "The startup's flagship product is an open source framework called CodeMate, which uses AI models trained on millions of lines of code from popular projects like React Native.",
-        "$27 million Series A funding led by Glilot Capital Partners, NFX Venture Group and SignalFire"
-      ],
-      "insight": "The significant investment in CopilotKit indicates the growing importance of integrating artificial intelligence into software development processes to increase efficiency and improve product quality."
-    },
-    {
-      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-      "link": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 14:00:00 +0000",
-      "description": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
-      "language": "en",
-      "summary": "TechCrunch Disrupt 2deal is offering buyers the chance to purchase a second ticket for half price and must act within four days or face higher prices.",
-      "points": [
-        "Opportunity available until May 8 with discounted plus-one pass",
-        "50% off on an additional TechCrunch Disrupt 2026 event pass after first purchase",
-        "Prices will increase afterwards for anyone bringing a partner or colleague"
-      ],
-      "insight": "This promotion may lead to quicker decision-making and networking at the conference due to cost savings, potentially impacting deal closures."
-    },
-    {
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 13:18:50 +0000",
-      "description": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
-      "language": "en",
-      "summary": "India’s first GenAI unicorn Krutrim is making a shift to cloud services following layoffs and restricted product updates due to economic hurdles faced by building AI models in the country.",
-      "points": [
-        "Krutrim has undergone significant downsizing, affecting its workforce as it adapts to challenges within India's GenAI landscape.",
-        "The pivot towards cloud services represents a strategic shift amidst financial and operational constraints experienced by Krutrim.",
-        "Limited product updates point to the economic difficulties encountered in establishing AI models on an Indian scale."
-      ],
-      "insight": "Krutrim's struggle illustrates broader issues within India regarding investment, infrastructure, and talent retention necessary for GenAI development. This may prompt a reassessment of strategies to sustain growth in the sector domestically and attract foreign expertise or collaboration."
-    },
-    {
-      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
-      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 13:00:00 +0000",
-      "description": "Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.",
-      "language": "en",
-      "summary": "Amazon plans to invest in state-ofclimated air technology from Nobel laureate professors to reduce energy consumption across the company's vast commercial network.",
-      "points": [
-        "Amazon is acquiring a new type of HVAC system designed by Professors Arnold et al, which could significantly lower the tech giant’s massive power usage in data centers and distribution networks around the world.",
-        "This innovative approach to cooling technology utilizes state-climated air (SCA), a method developed through Nobel Prize research that has yet to be used commercially.",
-        "The switch from traditional HVAC systems is part of Amazon's broader sustainability goals, which includes reducing its carbon footprint and becoming more energy efficient."
-      ],
-      "insight": "Amazon’s investment in Nobel Prize-based dehumidification technology signals a shift towards smarter cooling solutions that could revolutionize HVAC systems industry wide by significantly reducing the ecological impact of data centers, potentially setting new standards for energy efficiency and sustainability."
-    },
-    {
-      "title": "Coinbase to lay off 14% of staff as part of broader restructuring",
-      "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 05 May 2026 12:35:46 +0000",
-      "description": "The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.",
-      "language": "en",
-      "summary": "Coinbase has announced plans to lay off 14% of its staff as part of a broader restructuring effort aimed at tackling market volatility and enhancing the use of AI for better efficiency.",
-      "points": [
-        "Coinbase is implementing significant job cuts, totaling around 209 employees (14% of its workforce).",
-        "The restructuring plan targets to enhance Coinbase'self-reliance on internal resources as opposed to outsourcing.",
-        "Investments in AI tools will be scaled up, and several business units are set for downscaling or closure."
-      ],
-      "insight": "The move highlights a major shift towards leaner operations with an increased emphasis on efficiency improvements through technology within the crypto exchange industry. It reflects broader trends in tech firms prioritizing adaptability and streamlining of resources amid market fluctuations."
     }
   ]
 }
