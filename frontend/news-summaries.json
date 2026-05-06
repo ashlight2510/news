@@ -1,6 +1,291 @@
 {
-  "generatedAt": "2026-05-05T19:25:01.785Z",
+  "generatedAt": "2026-05-06T03:03:45.295Z",
   "articles": [
+    {
+      "title": "넷앤드, AI로 ISMS·ISMS-P 준비 효율 높이는 기술 특허 등록",
+      "link": "http://www.boannews.com/media/view.asp?idx=143493&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 11:38:00 +0900",
+      "description": "ISMS·ISMS-P 다단계 자동 적합성 판단’ 특허 등록컨설턴트 주관적 편차 해소 및 증적 자료 분석 시간 단축[보안뉴스 강현주 기자] 통합 접근제어 및 계정관리(IAM) 솔루션 전문 기업 넷앤드(대표 신호철)가 정보보호 관리체계(ISMS·ISMS-P) 인증 대응의 효율성과 정확도를 비약적으로 높일 수 있는 핵심 기술에 대한 특허 등록을 마쳤다고 6일 밝",
+      "language": "ko",
+      "summary": "알티스티와 넷앤드가 기술의 미신하게 사용해서 인증 대응과정의 효율성을 강화한다.",
+      "points": [
+        "넷앤드가 이전보다는 지원하기 때문에, ISMS·ISMS-P 인증 대응의 효율성이 높아진다.",
+        "계정관리(IAM)를 위한 AI 기반 제품이 개인화된 수단으로, 보안노지의 균형을 개선한다.",
+        "통합 시스템이 보호체계에서의 시각적인 성공이 이전보다 높아진다."
+      ],
+      "insight": "기사는 AI로 인증 방식을 개선하여, 보안노지와 계정 관리에서의 효율성을 높일 수 0 있다."
+    },
+    {
+      "title": "그룹아이비(Group-IB), 가트너 매직쿼더런트 최초 ‘사이버 위협 인텔리전스 기술’ 부문 ‘리더’ 선정",
+      "link": "http://www.boannews.com/media/view.asp?idx=143492&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 11:37:00 +0900",
+      "description": "공격자 중심 예측형 위협 인텔리전스 플랫폼으로 피해 입기 전 차단할 수 있는 가시성 제공[보안뉴스 원병철 기자] 디지털 범죄를 조사, 예방 및 대응하기 위한 사이버 보안 기술 분야의 글로벌 선도적 기업인 그룹아이비(Group-IB, 지사장 김기태)는 6일, 2026년 Gartner® 사이버 위협 인텔리전스 기술 Magic Quadrant™에서 ‘리더’(Le",
+      "language": "ko",
+      "summary": "그룹아이비는 IT 보안에 대한 전문성과 경영지표를 가진 '리더'입니다",
+      "points": [
+        "- 그룹아이비는 예방적으로 IT 보안 위험에 대응하기 위해 글로벌 선명한 경량성을 가지고 있음",
+        "- '리더' 그룹아이비는 6일, 2in1, 2026년에 Gartner Magic Quadrant™에서 선정되었습니다",
+        "- 그룹아이비는 IT 보안에 대한 의미나 인사이트를 제공할 수 0b다고 가정합니다"
+      ],
+      "insight": "그룹아이비는 IT/기술 업계에서 보안 능력과 경영지표를 가진 회사임을 의미합니다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관-9] 꺼진 불도 다시 보자(9)-자리 비울 때 화면 안 잠그면 생기는 일",
+      "link": "http://www.boannews.com/media/view.asp?idx=143040&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 11:17:00 +0900",
+      "description": "PC를 켜둔 채 자리를 비울 때는 반드시 화면 잠금(Win+L)을 하세요[보안뉴스 박미영 기자] PC를 켜둔 채 자리를 비울 때는 화면을 잠그는 것이 개인정보·업무자료 노출을 막는 가장 기본적인 방법이다. 화면보호기 비밀번호 설정과 함께 Win+L 단축키로 즉시 잠그는 습관을 들이면, 잠금 전 노출 시간을 줄일 수 있다.PC를 잠그는 방법△즉시 잠그기: W",
+      "language": "ko",
+      "summary": "PC를 켜둔 자리가 비울 때는 화면을 잠그하는 것이 개인정보·업무자료 공안 줄일 수 있다.",
+      "points": [
+        "화면을 잠그하는 방법은 PC를 켜둔 자리에서 직접 Win+L 단축키를 눌러 실행한다.",
+        "잠그기로 이용하면, PC가 비정상적으로 종료되어 회사의 인터넷 시스템을 광고로 확신한다.",
+        "개인정보·업무자료 공백은 화면 잠그가 준수한다."
+      ],
+      "insight": "화면 안 잡아 놓으면 시스템 종법질서에 의해 개인정보 공백과 촉발적으로 연산 수준이 낮아지거나 방지되어 비상활화가 된다."
+    },
+    {
+      "title": "[Global Security TOP 100] 최일환 세환엠에스 대표이사 “설치부터 유지보수까지 ‘원팀 체계’가 핵심 경쟁력”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143360&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 11:05:00 +0900",
+      "description": "출입통제 게이트 기반 통합형 물리보안 운영 체계 구축금속 탐지기·액체 폭발물 검사 장비 중심 제품군 확대기술 투자와 제조 경쟁력 강화를 위한 산업 구조 개선 필요[보안뉴스 강초희 기자] 출입통제 게이트를 중심으로 국내 물리보안 시장을 개척해 온 세환엠에스가 통합형 보안 솔루션 기업으로의 확장을 이어가고 있다. 보안 장비 공급에 그치지 않고 설계·시공·유지보",
+      "language": "ko",
+      "summary": "세환엠에스는 국내 물리보안 시장의 전문가인몹수인 직업 중 하나로, 출입통제 게이트를 기반으로 국내 세점을 개정해 보안 기술 산업의 전문성과 경쟁력을 강화하고 있다.",
+      "points": [
+        "세환엠에스는 국내 보안 시장 중심으로 출입통제 게이트를 이용한 보안 기술 제품을 제공",
+        "세환엠에스는 설계, 시공, 유지보수의 모든 단계에서 전문성을 강조",
+        "보안 기술 산업으로의 확장을 위해 창사한 것임"
+      ],
+      "insight": "세환엠에스는 IT/기술 업체에서 '원팀 체계'를 통해 보안 기술에 대한 전문성을 강화하고, 이로부터 시장에 중요한 경쟁력을 유지하고있음."
+    },
+    {
+      "title": "MS 위장한 ‘마이크로스틸러’ 습격... 사회공학적 기만술에 통신·교육분야 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=143484&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 10:51:00 +0900",
+      "description": "가짜 소프트웨어 설치 프로그램으로 관리자 권한 획득 후 활성 세션 탈취미국과 독일 등 세계 전역서 확산... 기업 내부망 침투 위한 교두보 활용[보안뉴스 김형근 기자] 마이크로소프트(MS)를 사칭해 시스템 권한을 탈취하고 기업의 핵심 정보를 빼가는 신종 악성코드 ‘마이크로스틸러’(MicroStealer)가 세계 통신과 교육 분야를 공격하고 있다.글로벌 보안",
+      "language": "ko",
+      "summary": "MS에서 사용한 거의 소프트웨어를 통해 권한을 탈취하고 기업정보를 빼내는 '마이크로스틸러'악성코드에 대한 국제적인 위기",
+      "points": [
+        "거의 모든 소프트웨어를 '마이크로스틸러'악성코드로 공격받으면서",
+        "권한을 탈취하고 기업의 중요정보를 빼내는 방식이다.",
+        "세계 전국과 독일에서 신족적을 위해 사용한 악용 작업이 확인되었다."
+      ],
+      "insight": "이 기사는 마이크로소프트(MS)의 침해가 세계 전역서를 공격하고 기업정보를 분양한다는 신종 악성코드 '마이크로스틸러'의 현상을 국제적으로 계습니다."
+    },
+    {
+      "title": "‘재난안전기업 사업화 역량 강화 컨설팅’으로 해외시장 진출 수월하게... 참여기업 공고",
+      "link": "http://www.boannews.com/media/view.asp?idx=143485&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 10:46:00 +0900",
+      "description": "5월 27일까지 공모 접수... 사업화·해외 인증 분야 1:1 맞춤형 지원제품 고도화·해외 인증·수출 확대 지원으로 재난안전기업 판로 강화[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 ‘2026년 재난안전기업 사업화 역량 강화 컨설팅’에 참가할 기업을 5월 27일까지 공모한다.‘재난안전기업 사업화 역량 강화 컨설팅’은 우수한 기술과 제품을 보유하고 있",
+      "language": "ko",
+      "summary": "5월 27일까지 공모 접수. 사업화·해외 인증 분야 1:1 맞춤형 지원제품 고도화·해외 인증·수출 확대 지원으로 재난안전기업 판로 강화[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 ‘2026년 재난안전기업 사업화 역량 강화 컨설팅’에 참가할 기업을 5월 27일까지 공모한다...",
+      "points": [
+        "사업화·해외 인증 분야 1:1 맞춤형 지원제품 고도화·해외 인증·수출 확대 지원으로 재난안전기업 판로 강화[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 ‘2026년 재난안전기...",
+        "‘재난안전기업 사업화 역량 강화 컨설팅’은 우수한 기술과 제품을 보유하고 있",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[카드뉴스] “눈앞의 트럭이 사라졌다?”… 인지 조작하는 ‘고스트 픽셀’ 해킹의 실체",
+      "link": "http://www.boannews.com/media/view.asp?idx=143487&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 10:35:00 +0900",
+      "description": "혼합현실(MR) 기기의 영상 처리 과정(렌더링 파이프라인)에 침투하여 사용자에게 가짜 시각 정보를 전달하거나 실제 위험 요소를 삭제하는 ‘고스트 픽셀’ 공격이 새로운 위협으로 부상했다. 이러한 인지 조작 공격은 스마트 팩토리의 작업 공정이나 정밀 의료 수술 등 고도의 시각 정보가 필요한 현장에서 심각한 신체적 사고와 물리적 피해를 야기할 수 있다. 기술의",
+      "language": "ko",
+      "summary": "MR 기기를 공격해서 사용자에게 진짜인지가 어떻게 구분할 수 있는 정보를 전달하거나 실제 위험 요소를 삭제하기 위해 사용한 '고스트 픽셀' 공격이 진짜인지 모니터되기에 주요점을 가져왔다.",
+      "points": [
+        "MR(혼합현실) 기기의 영상 처리 과정에서 사용자와 구성이 진짜인지가 모니터될 수 0r함껄하게 바빈해주는 '고스트 픽셀' 공격이 제시되었다.",
+        "공격을 통해 진짜인지가 모니터될 수 있거나 위험한 요소를 삭제할 수 있는 방식이다.",
+        "고도의 시저 영상 인식과 모니터링을 위해서, MR 기기 공격은 현장에서의 물리적으로 폭넓은 반면에 인기가 높은 문제으로서, 위험하다."
+      ],
+      "insight": "MR 기기를 공격해서 진짜인지 모니터링을 위해서는 이전에 MR 기기 공격이 발침하여 진짜인지가 모니터되도록 할 수 없다. '고스트 픽셀' 공격은 MR 기기의 영상 인식과 모니터링을 위해서는 중요하게, 이전에 진심한 위험이 있다."
+    },
+    {
+      "title": "“취약점 공개 후 공격시간, 4.76일→1일로 대폭 단축”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143486&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 10:30:00 +0900",
+      "description": "AI 공격 도구, 다크웹서 일반 SW처럼 판매랜섬웨어 피해 전년 대비 389% 급증... 제조·서비스·소매업 타격[보안뉴스 강현주 기자] 2025년 한 해동안 취약점 공개 후 평균 공격 시간이 전년 4.76일에서 24시간~48시간으로 대폭 단축됐다. AI 공격 도구가 다크웹에서 일반 소프트웨어처럼 판매되는 등 해킹 진입 장벽이 낮아졌다. 랜섬웨어 피해는 전",
+      "language": "ko",
+      "summary": "기사는 AI 공격 도구의 피해와 공격시간에 대한 변화로 인한 소파진업이 가속성을 개선하면서 기술적인 잘리기를 고려해 제출",
+      "points": [
+        "2025년에 대한 AI 공격 도구 피해와 공격시간이 389% 일정 느낌을 주었다.",
+        "소프트웨어와 마찬가지로 AI 공격 도구가 SW를 위한 혼용 대치방안이 증상된다.",
+        "소폭 단축되어 취약점을 보호하면서도 공격시간이 389% 일정 느낌이다."
+      ],
+      "insight": "기사는 IT/소프트웨어 업체가 AI 공격 도구의 적용에 대한 지속적인 강화와 안전성 고려에 대한 의사소표를 제공하기로 한다."
+    },
+    {
+      "title": "[인사] 개인정보보호위원회",
+      "link": "http://www.boannews.com/media/view.asp?idx=143483&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 09:54:00 +0900",
+      "description": "◇ 과장급 전보△ 법무감사담당관 김혜정[한세희 기자(hahn@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
+      "language": "ko",
+      "summary": "◇ 과장급 전보△ 법무감사담당관 김혜정[한세희 기자(hahn@boannews. com) 무단전재-재배포금지>",
+      "points": [
+        "◇ 과장급 전보△ 법무감사담당관 김혜정[한세희 기자(hahn@boannews",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Omada, 지역 파트너 협력 강화 위한 ‘대구 라이브 세미나’ 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=143482&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 6 May 2026 09:51:00 +0900",
+      "description": "Omada·VIGI 중심 통합 네트워크 및 영상보안 전략 공유구축 사례, 파트너 정책, 현장 네트워킹 중심 협력 확대 [보안뉴스 강초희 기자] Omada는 5월 21일 대구 동성로 비즈니스센터에서 지역 파트너 및 업계 관계자를 대상으로 ‘대구 라이브 세미나’를 개최한다고 밝혔다.이번 세미나는 엔터프라이즈 네트워크 솔루션 ‘Omada’와 보안 감시 솔루션 ‘",
+      "language": "ko",
+      "summary": "대구에서 이미 시작한 ‘대구 라이브 세미나’를 개최하는 과학기술 업체 'Omada'은 네트워크 관리에 주로 어떤 역할을 수행합니까?",
+      "points": [
+        "- 시스템, 사용자의 지참이나 문서를 보호하는 환경을 만들어준다.",
+        "- 공유 및 공개 되지 않은 고권한 정보를 작성, 수정, 삭제하는 시스템을 제공한다.",
+        "- 계척적인 보호 전략을 사용하여, 사용자의 경로에 대한 관리를 수행한다."
+      ],
+      "insight": "이 세미나는 IT/기술 업계가 보안과 권고 중요성을 인식하도록 만들어내며, 즉시처리를 위해 확률적으로 보호 전략을 사용하는 광고생물 서비스 'Omada'에 대한 소개를 제공한다."
+    },
+    {
+      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 06 May 2026 00:07:47 +0000",
+      "description": "The Silicon Valley AV startup has not started driverless testing yet.",
+      "language": "en",
+      "summary": "Nuro received a permitting grant to begin public road tests for its self-driving robotaxi service in the US ahead of launch.",
+      "points": [
+        "Nuro has been granted testing permits by California and Texas, marking regulatory progress towards autonomous vehicle operations on roads.",
+        "The startup's electric R2 Gocrate robots can deliver packages without a human driver behind the wheel or in-cabin. Nuro plans to begin public road tests within weeks for its fully self-driving service, launching commercially later this year with ridesharing company Uber as an early customer.",
+        "The permit permits commercial testing on streets where no passenger vehicles are allowed."
+      ],
+      "insight": "Nuro' extrusion of driverless technology into the ride-sharing market could significantly alter personal transportation, and potentially reduce demand for traditional taxi services. This partnership with Uber may catalyze wider acceptance and regulatory adaptation needed to facilitate broader AV adoption."
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 23:50:10 +0000",
+      "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "language": "en",
+      "summary": "SAP plans to acquire German AI startup Prior Labs for $1.16 billion and is banning the use of certain customer agents in favor of select technologies like NemoClaw.",
+      "points": [
+        "SAP intends to invest heavily in its newly acquired AI lab, Prior Labs.",
+        "The company prohibits customers' own AI solutions, such as Microsoft'semformerly known as GongiTap', and instead chooses select few like NemoClaw from certain providers including Nvidia.",
+        "This strategic decision underscores SAP’s commitment to a handpicked portfolio of technologies for its AI needs."
+      ],
+      "insight": "SAP's acquisition and investment in Prior Labs demonstrates an intentional shift towards selective, high-quality technology partnerships that may give them better control over the direction of their enterprise AI development. The choice to ban customers from using certain agents suggests SAP is prioritizing quality and reliability for its systems."
+    },
+    {
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 23:05:50 +0000",
+      "description": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
+      "language": "en",
+      "summary": "Bumble's user growth has slowed as it transitions away from the swiping model towards encouraging real-life connections between its paying members.",
+      "points": [
+        "The dating app Bumble is implementing major changes to encourage users who are interested in meeting their match offline rather than just online matches turning into actual dates.",
+        "Bumble plans a profile redesign and alterations in how users interact with each other, aiming at increasing real-life meetings among paying members by the end of 2term year. The company is also introducing new features such as date nights to encourage offline encounters.",
+        "Bumble's CEO Whitney Wolfe Herd argues that many online relationships don’t translate into real-life connections, a trend backed by research on matchmaking platforms."
+      ],
+      "insight": "The move towards encouraging in-person interactions is reflective of broader societal shifts away from purely digital communication. The focus on fostering physical dates may lead to stronger and more meaningful relationships as users seek deeper connections beyond the screen, which aligns with industry observations about user behavior trends."
+    },
+    {
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 22:57:41 +0000",
+      "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+      "language": "en",
+      "summary": "AI firm Altara is raising $7M for AI technology to diagnose failures in physical sciences research and speed up R&D by integrating siloed data from various sources.",
+      "points": [
+        "Altara's artificial intelligence aims to revolutionize the processing of scientific research within industries that rely on physics, such as material science, biology, chemistry, energy production etc",
+        "The AI technology promises faster diagnostics and solutions for complex challenges by bridging gaps in data integration across different sources.",
+        "$7M investment will accelerate Altara'ths mission to unify disparate datasets from legacy systems or siloed spreadsheets"
+      ],
+      "insight": "The AI technology developed by Altara has the potential to significantly speed up R&D in physical sciences, which could result in faster innovation and discoveries across industries that rely on this research."
+    },
+    {
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 22:31:57 +0000",
+      "description": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
+      "language": "en",
+      "summary": "Lucid Motors has withdrawn its production targets after encountering excessive vehicle stockpile and initiating internal cost reduction strategies.",
+      "points": [
+        "Lucid Motors ceased to provide annual guidance amidst inventory surplus",
+        "Companywide measures for reducing costs have been implemented by Lucid Motors",
+        "Electric Vehicle (EV) production targets are no longer specified"
+      ],
+      "insight": "The decision reflects the broader EV industry's need to recalibrate expectations due to supply chain disruptions and demand fluctuations."
+    },
+    {
+      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+      "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 21:15:56 +0000",
+      "description": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
+      "language": "en",
+      "summary": "Despite signs that cryptocurrency markets may be cooling off, Andreessen Horowitz is doubling down on its investments in digital assets through a new $2.2 billion fund.",
+      "points": [
+        "Andreessen Horowitz (a16z crypto) launches a new $2.2 billion fund despite concerns about cryptocurrency market cooling",
+        "The firm will continue to invest in digital asset companies, including DeFi projects and stablecoins like USDC",
+        "While some VCs are moving away from direct Bitcoin or Ethereum stakes due to volatility risks"
+      ],
+      "insight": "This move by a16z crypto underscores the enduring belief in cryptocurrencies and blockchain technology as foundational pillars of future investment, despite market fluctuations."
+    },
+    {
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 20:56:41 +0000",
+      "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "language": "en",
+      "summary": "Apple is introducing iOS 27 with the capability for users to select from various third-party AI models for different functionalities.",
+      "points": [
+        "iOS 27 includes user options to choose between multiple artificial intelligence (AI) models",
+        "Users can pick specific tasks like translation, image recognition or voice assistance directly in the app'ths interface",
+        "Third-party AI model providers are expected to gain more prominence on iOS platforms with this update"
+      ],
+      "insight": "This feature marks a significant shift towards personalization and user control over artificial intelligence services, potentially reshaping the competition among third-party AI developers."
+    },
+    {
+      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 20:06:40 +0000",
+      "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+      "language": "en",
+      "summary": "Christophe Fouquet addresses concerns about ASML's competitive position during his interview with an editor before a conference appearance.",
+      "points": [
+        "Despite fears of losing its leading status in extreme ultraviolet lithography (EUV) technology, Christophe Fouquet confidently asserts that no one is coming for ASML's market share based on his experiences and the company’s strong relationships with customers.",
+        "Fouquet highlighted how their EZ-Driver laser system has enabled new design rules to be implemented without sacrificing yield, which he argues demonstrates customer confidence in ASML as a partner for innovation rather than just a supplier of products.",
+        "He also stressed the importance of continuous improvement and evolution within industries like semiconductor manufacturing where technology is always advancing."
+      ],
+      "insight": "Fouquet's interview suggests that ASML remains at the forefront due to their customer-focused approach, innovation in product development such as EZ-Driver laser system and emphasis on continuous improvement within rapidly evolving technology sectors like semiconductor manufacturing."
+    },
+    {
+      "title": "Volkswagen becomes Rivian’s top shareholder, displacing Amazon",
+      "link": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 05 May 2026 19:58:57 +0000",
+      "description": "VW Group's stake will continue to grow under the $5.8 billion joint venture with Rivian.",
+      "language": "en",
+      "summary": "Volkswagen has become the top shareholder in electric car startup Rivian by investing heavily through a $5.8 billion joint venture.",
+      "points": [
+        "VW Group increases its stake through $5.8 billion JV with Rivian",
+        "Amazon is no longer Rivian' extramural major backer as VW now leads",
+        "Volkswagen and Ford are also part of the consortium backing Rivian"
+      ],
+      "insight": "The influx of Volkswagen into the EV market via this joint venture indicates a significant shift in industry dynamics, potentially leading to increased competition amongst traditional car manufacturers."
+    },
     {
       "title": "Threads finally brings messaging to the web",
       "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
@@ -467,291 +752,6 @@
       "insight": {
         "English": "This strategic collaboration could significantly disrupt the enterprise artificial intelligence landscape, potentially leading to accelerated adoption and innovation within financial services."
       }
-    },
-    {
-      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
-      "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 15:33:01 +0000",
-      "description": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
-      "language": "en",
-      "summary": "Acorn is offering a new platform for companies to create and manage online communities without relying on centralized services like X or Facebook's Communities.",
-      "points": [
-        "Acorn provides decentralized community platforms with custom feeds, moderation tools, and analytics capabilities that empower organizations to take control of their online interactions in real-typing text format",
-        "The platform leverages blockchain technology for secure transactions within the communities.",
-        "This new approach aims at reducing dependency on centralized entities by putting organization's creators in charge, potentially altering social media landscape."
-      ],
-      "insight": "Acorn’s decentralized community platforms may challenge dominant tech giants like X and Facebook as they offer customizable tools for organizations seeking more control over their online communities. This could signal a shift towards diverse alternatives within the industry, enhancing creator autonomy."
-    },
-    {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 14:30:23 +0000",
-      "description": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers.",
-      "language": "en",
-      "summary": "Virginia and Washington D.C.'s healthcare data exchange programs halted following revelations of shared user information for ad targeting purposes.",
-      "points": [
-        "Health insurance marketplaces in Virginia and DC suspended sharing personal demographics with advertisers",
-        "Information was used to inform political campaigns, which could affect future healthcare policies based on race or citizenship data privacy concerns",
-        "The practice of exchanging such sensitive user information for targeted ads is under scrutiny and poses significant ethical questions"
-      ],
-      "insight": "This controversy highlights the growing unease with how personal healthcare-related demographic data can be misused in political campaigning, potentially affecting policy decisions."
-    },
-    {
-      "title": "Amazon opens up its global logistics network to all businesses",
-      "link": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 14:13:53 +0000",
-      "description": "The new service, called Amazon Supply Chain Services, pits the e-commerce giant directly against UPS and FedEx.",
-      "language": "en",
-      "summary": "Amazon has launched a global logistics network aimed at rivaling major shippers like UPS and FedEx.",
-      "points": [
-        "Amazon's new service challenges traditional courier services by offering competitive rates for international shipments to all businesses",
-        "The Amazon Supply Chain Services initiative includes customized delivery solutions, enhanced tracking capabilities, and partnerships with local carriers around the world.",
-        "Launched in response to global market demand for faster and more reliable shipping options"
-      ],
-      "insight": "This development could significantly disrupt traditional courier services by offering similar or better rates and service levels directly through Amazon's own platform."
-    },
-    {
-      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 14:00:00 +0000",
-      "description": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
-      "language": "en",
-      "summary": "TechCrunch is offering attendees an opportunity to get half-off on a second pass for TechCrunch Disrupt'ner in the UAE.",
-      "points": [
-        "The BOGO offer provides significant savings for event ticket buyers by allowing them to purchase two passes and pay only one, with each attendee getting $30 off their original price of AED219.50 (USD67).",
-        "This deal is available exclusively in the UAE market through TechCrunch's local partner 'TechUAE,' making it accessible to both residents and visitors.",
-        "The offer includes access to all three days of live events, giving attendees a full experience with ample time for networking."
-      ],
-      "insight": "This promotion demonstrates TechCrunch's understanding that cost is often a barrier in attending industry conferences. By providing substantial savings and inclusive access to the entire event duration, they show their commitment to fostering community engagement within IT/technology."
-    },
-    {
-      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
-      "link": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
-      "description": "Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.",
-      "language": "en",
-      "summary": "Researchers at Barocal may have found an affordable and eco-friendly alternative to traditional refrigeration by using plastic crystals that can cool foods when squeezed.",
-      "points": [
-        "Barocal's new material, based on polyvinyl alcohol (PVA) treated with a cobalt salt solution and pressed into 'crystal bricks,' absorbs heat upon compression due to an endothermic reaction.",
-        "The invention could potentially replace conventional refrigerators if it can be mass-produced at low cost, while being environmentally friendly as the only byproduct is water vapor.",
-        "This technology holds promise for applications beyond household fridges and freezers, such as portable cooling devices or temperature control in agricultural settings."
-      ],
-      "insight": "If Barocal's plastic crystals prove to be scalable and economical, they could revolutionize the refrigeration industry by offering a sustainable alternative that reduces energy consumption without sacrificing performance."
-    },
-    {
-      "title": "Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
-      "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-      "language": "en",
-      "summary": "DoorDash has rolled out AI-powered tools for merchants that accelerate onboarding processes, enhance food photo presentations and enable website creation with minimal effort.",
-      "points": [
-        "New DoorDash AI tools to speed up merchant onboarding",
-        "AI allows edits of photos displaying dishes making them look better",
-        "Merchants can create new websites using existing content"
-      ],
-      "insight": "These advancements reflect the growing trend in technology and e-commerce platforms to utilize AI for enhancing user experience, streamlining operations, and providing more self-service capabilities. Such features could set a precedent that encourages competitors within the IT/technology industry to adopt similar approaches."
-    },
-    {
-      "title": "Ouster’s new color lidar is coming to replace cameras",
-      "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 10:00:00 +0000",
-      "description": "A sensor that can simultaneously capture depth and image data has long been a \"holy grail,\" Ouster CEO Angus Pacala told TechCrunch.",
-      "language": "en",
-      "summary": "The article discusses the development of Ouster's new color lidar technology that is set to replace traditional cameras for capturing both depth and image data simultaneously.",
-      "points": [
-        "Ouster has developed a sensor capable of taking simultaneous images and depth readings, an important advancement in autonomous vehicle perception systems.",
-        "The new color lidar technology from Ouster is expected to improve the safety and reliability of self-driving cars by providing more accurate environmental understanding than cameras alone can achieve.",
-        "Ouster'self-produced sensors, which use light reflections instead of image capture like traditional camera systems do."
-      ],
-      "insight": "The development of Ouster's new color lidar technology represents a significant step forward in autonomous vehicle perception and safety. By providing both depth and visual data simultaneously with improved accuracy over cameras, it is set to become an industry standard for self-driving vehicles."
-    },
-    {
-      "title": "Nicolas Sauvage is betting on the boring parts of AI",
-      "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 07:10:18 +0000",
-      "description": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:",
-      "language": "en",
-      "summary": "Since 2019, Nicolas Sauvage has built a portfolio of AI-related investments in areas traditionally seen as uninteresting by venture capitalists but are critical for the long-term growth and efficiency of businesses. Over the past year, these seemingly dull aspects have become more attractive to VCs.",
-      "points": [
-        "Nicolas Sauvage focuses on foundational AI technologies that support essential yet often overlooked areas such as data management and infrastructure optimization for his investments since 2019.",
-        "Traditionally viewed by venture capitalists as less sexy, these core aspects of artificial intelligence are now gaining interest due to their importance in driving business efficiency and growth",
-        "The increasing attention towards foundational AI technologies reflects a shift in the investment landscape, with more emphasis on understanding how mundane tasks can be optimized using AI."
-      ],
-      "insight": "As VC interest shifts from flashy but less impactful aspects of AI to its core components essential for business growth and efficiency, it indicates a deeper appreciation among investors for the transformative power of foundational technologies in driving sustainable advanc endments."
-    },
-    {
-      "title": "복잡한 ‘빛 움직임’을 열쇠로... 기존 보안 한계 극복하는 홀로그램 개발",
-      "link": "http://www.boannews.com/media/view.asp?idx=143474&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 4 May 2026 13:35:00 +0900",
-      "description": "특정 빛 조건에서만 정보 구현되는 ‘벡터 홀로그램’ 구현위조 방지 보안 라벨,· 초고속 통신, AR/VR 등 활용 기대[보안뉴스 한세희 기자] 빛의 움직임을 열쇠처럼 활용해 특정 조건에서만 정보가 드러나는 홀로그램이 개발됐다. 복제가 어려운 보안 라벨이나 초고속 광통신 등 다양한 분야에 활용이 기대된다.KAIST(총장 이광형)는 신종화 신소재공학과 교수",
-      "language": "ko",
-      "summary": "특정 빛 조건에서만 정보 구현되는 ‘벡터 홀로그램’ 구현위조 방지 보안 라벨,· 초고속 통신, AR/VR 등 활용 기대[보안뉴스 한세희 기자] 빛의 움직임을 열쇠처럼 활용해 특정 조건에서만 정보가 드러나는 홀로그램이 개발됐다. 복제가 어려운 보안 라벨이나 초고속 광통신 등 다양한 분야에 활용이 기대된다...",
-      "points": [
-        "특정 빛 조건에서만 정보 구현되는 ‘벡터 홀로그램’ 구현위조 방지 보안 라벨,· 초고속 통신, AR/VR 등 활용 기대[보안뉴스 한세희 기자] 빛의 움직임을 열쇠처럼 활용해 특정 ...",
-        "복제가 어려운 보안 라벨이나 초고속 광통신 등 다양한 분야에 활용이 기대된다",
-        "KAIST(총장 이광형)는 신종화 신소재공학과 교수"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "백악관의 압박... AI 사이버 위기 앞두고 빅테크에 “보안 대책 내놔라!”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143473&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 4 May 2026 11:22:00 +0900",
-      "description": "정부, 빅테크 기업에 AI 보안 실태 조사... 민감한 기업 보안 관련 정보도 포함돼 논란[보안뉴스 김형근 기자] 백악관 산하 국가사이버국(ONCD)이 최근 미국 주요 빅테크 기업들을 대상으로 AI 보안 실태를 조사한 것으로 알려졌다. 보안 전문 매체 사이버시큐리티다이브에 따르면, 정부는 기업들이 AI를 활용해 어떻게 네트워크를 보호하고 사이버 위기에 대비",
-      "language": "ko",
-      "summary": "정부, 빅테크 기업에 AI 보안 실태 조사. 민감한 기업 보안 관련 정보도 포함돼 논란[보안뉴스 김형근 기자] 백악관 산하 국가사이버국(ONCD)이 최근 미국 주요 빅테크 기업들을 대상으로 AI 보안 실태를 조사한 것으로 알려졌다...",
-      "points": [
-        "정부, 빅테크 기업에 AI 보안 실태 조사",
-        "민감한 기업 보안 관련 정보도 포함돼 논란[보안뉴스 김형근 기자] 백악관 산하 국가사이버국(ONCD)이 최근 미국 주요 빅테크 기업들을 대상으로 AI 보안 실태를 조사한 것으로 알...",
-        "보안 전문 매체 사이버시큐리티다이브에 따르면, 정부는 기업들이 AI를 활용해 어떻게 네트워크를 보호하고 사이버 위기에 대비"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-      "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 04 May 2026 02:02:25 +0000",
-      "description": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
-      "language": "en",
-      "summary": "A TikTok user named Aaron Reshefsky went viral with a fundraising campaign to buy Spirit Airlines after its collapse without warning on August 28th and by Sunday had gathered nearly $23 million in pledges.",
-      "points": [
-        "The unexpected acquisition of an entire airline company was propelled through social media, specifically TikTok.",
-        "Nearly 40% male skew among the patrons suggests a demographic more inclined towards risk-taking in online fundraising campaigns.",
-        "Despite having secured enough funds to cover its obligations and purchase assets of Spirit Airlines, Aaron faced hurdles due to regulatory concerns."
-      ],
-      "insight": "This event highlights the unpredictable nature of social media's influence on financial decisions within industries traditionally considered less digital-friendly like aviation, while also raising questions about regulations in such scenarios and their potential need for reform to prevent exploitation."
-    },
-    {
-      "title": "ADT캡스, ‘안전점검의 날’ 연계 안전 예방 활동",
-      "link": "http://www.boannews.com/media/view.asp?idx=143472&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 4 May 2026 11:00:00 +0900",
-      "description": "현장 중심 안전관리 나서VR 기반 체험형 안전 교육 도입... 실제 사고 상황 가정한 현장 대응력 제고[보안뉴스 한세희 기자] SK쉴더스(대표 민기식) 물리보안 브랜드 ADT캡스가 4일 ‘안전점검의 날’을 맞아 현장 중심의 안전 예방 활동을 진행했다고 4일 밝혔다.‘안전점검의 날’은 매월 4일 ‘재난 및 안전관리 기본법’에 따라 시행되는 안전문화 운동으로",
-      "language": "ko",
-      "summary": "현장 중심 안전관리 나서VR 기반 체험형 안전 교육 도입. 실제 사고 상황 가정한 현장 대응력 제고[보안뉴스 한세희 기자] SK쉴더스(대표 민기식) 물리보안 브랜드 ADT캡스가 4일 ‘안전점검의 날’을 맞아 현장 중심의 안전 예방 활동을 진행했다고 4일 밝혔다...",
-      "points": [
-        "현장 중심 안전관리 나서VR 기반 체험형 안전 교육 도입",
-        "실제 사고 상황 가정한 현장 대응력 제고[보안뉴스 한세희 기자] SK쉴더스(대표 민기식) 물리보안 브랜드 ADT캡스가 4일 ‘안전점검의 날’을 맞아 현장 중심의 안전 예방 활동을 ...",
-        "‘안전점검의 날’은 매월 4일 ‘재난 및 안전관리 기본법’에 따라 시행되는 안전문화 운동으로"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "안랩, 엔드포인트 통합 보안 플랫폼 ‘안랩 EPP’ 중국어 번체 지원… 중화권 공략 가속",
-      "link": "http://www.boannews.com/media/view.asp?idx=143471&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 4 May 2026 10:43:00 +0900",
-      "description": "현지 고객 수요 맞춘 현지화 전략... 글로벌 사업 경쟁력 지속 강화[보안뉴스 한세희 기자] 안랩(대표 강석균)이 중화권 고객의 접근성과 사용 편의성을 높이기 위해 엔드포인트 통합 보안 플랫폼 ‘안랩 EPP’ 지원 언어에 중국어 번체를 추가했다고 4일 밝혔다. 대만 등 중화권 시장에서 안랩 엔드포인트 보안 솔루션 도입 수요가 증가함에 따라, 고객이 다양한",
-      "language": "ko",
-      "summary": "현지 고객 수요 맞춘 현지화 전략. 글로벌 사업 경쟁력 지속 강화[보안뉴스 한세희 기자] 안랩(대표 강석균)이 중화권 고객의 접근성과 사용 편의성을 높이기 위해 엔드포인트 통합 보안 플랫폼 ‘안랩 EPP’ 지원 언어에 중국어 번체를 추가했다고 4일 밝혔다...",
-      "points": [
-        "글로벌 사업 경쟁력 지속 강화[보안뉴스 한세희 기자] 안랩(대표 강석균)이 중화권 고객의 접근성과 사용 편의성을 높이기 위해 엔드포인트 통합 보안 플랫폼 ‘안랩 EPP’ 지원 언어...",
-        "대만 등 중화권 시장에서 안랩 엔드포인트 보안 솔루션 도입 수요가 증가함에 따라, 고객이 다양한",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "공급망 위헙 대비 어려운 이유는 ‘전문 인력 부족’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143470&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 4 May 2026 10:34:00 +0900",
-      "description": "카스퍼스키, 공급망 위험 대응 현황 보고서 발표[보안뉴스 한세희 기자] 공급망 보안 강화를 위한 과제로 전문 인력 양성과 보안 업무 효율 제고를 위한 우선순위 설정 등이 꼽혔다. 4일 카스퍼스키가 발표한 공급망 위험 대응 현황 보고서에 따르면, 최근 1년 간 조사 대상 기업 3곳 중 1곳이 공급망 공격을 당한 경험이 있는 것으로 나타났다. 공급망 위협에",
-      "language": "ko",
-      "summary": "카스퍼스키, 공급망 위험 대응 현황 보고서 발표[보안뉴스 한세희 기자] 공급망 보안 강화를 위한 과제로 전문 인력 양성과 보안 업무 효율 제고를 위한 우선순위 설정 등이 꼽혔다. 4일 카스퍼스키가 발표한 공급망 위험 대응 현황 보고서에 따르면, 최근 1년 간 조사 대상 기업 3곳 중 1곳이 공급망 공격을 당한 경험이 있는 것으로 나타났다",
-      "points": [
-        "카스퍼스키, 공급망 위험 대응 현황 보고서 발표[보안뉴스 한세희 기자] 공급망 보안 강화를 위한 과제로 전문 인력 양성과 보안 업무 효율 제고를 위한 우선순위 설정 등이 꼽혔다",
-        "4일 카스퍼스키가 발표한 공급망 위험 대응 현황 보고서에 따르면, 최근 1년 간 조사 대상 기업 3곳 중 1곳이 공급망 공격을 당한 경험이 있는 것으로 나타났다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "창립 23주년 SGA그룹, AI시대 통합 보안 강화... 창립 23주년 맞아 ‘Security for AI’ 비전 선포",
-      "link": "http://www.boannews.com/media/view.asp?idx=143469&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 4 May 2026 08:53:00 +0900",
-      "description": "보안·투자·IT인프라 및 솔루션 3축 중심으로 성장 가속AI 3대 강국 시대 대응 위한 ‘Security for AI’ 비전 제시[보안뉴스 한세희 기자] SGA그룹이 창립 23주년을 맞아 AI 중심으로 사업 체계를 탈바꿈한다. 지난해 추진한 사업 재편을 기반으로 본격적 성장을 추진한다는 목표다.SGA그룹은 창립 23주년을 맞아 AI 시대를 겨냥한 신규 성",
-      "language": "ko",
-      "summary": "창립 23주년에서 제시한 'Security for AI' 비전 제시로, SGA그룹은 AI 시대에 대한 보안적인 기술환경을 강화하고자 한다.",
-      "points": [
-        "SGA그룹는 창립 23주년을 맞아 AI 시대를 겨냥한 신규 투자 기업이기로 한다.",
-        "AI 중심으로 진행되는 창립 23주년을 맞아 SGA그룹은 AI 시대를 겨냥하고, 'Security for AI' 비전 제시에서 AI 보안에 중점을 둔다.",
-        "창립 23주년이 재편 진행을 기반으로 'Security for AI' 비전 제시에서는 SGA그룹은 AI 시대에 어긋나지만, 보안을 강화하고자 한다."
-      ],
-      "insight": "창립 23주년이 'Security for AI' 비전 제시를 통해 AI 시대에 어긋나는 보안을 강화하고자 한다면 SGA그룹은 AI 기술의 환경에서 우선으로 보호적인 전용도를 강조해야 한다."
-    },
-    {
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
-      "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-      "language": "en",
-      "summary": "AI artist Jason Allen claims an AI art firm stole his work leading to public misconcluions about AI creativity.",
-      "points": [
-        "Jason Allen's piece 'This is fine,' widely shared on social media, was mistakenly used by the startup Artisan in their advertising campaign without his permission.",
-        "The ad from Artisan suggests that humans should stop hiring each other due to AI capabilities and questions what people are doing wrong if they don't achieve happiness or success as portrayed by Allen’s artwork.",
-        "Allen has expressed frustration over the misinterpretation of his work, which he intended to showcase human struggles in a dystopian future where AI is prevalent."
-      ],
-      "insight": "This controversy highlights issues surrounding intellectual property and consent within the rapidly evolving field of generative art created by artificial intelligence. It serves as an important reminder for companies to respect artists' rights when using their work, particularly in advertising contexts where implications can be significantly impactful."
-    },
-    {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 03 May 2026 18:00:09 +0000",
-      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-      "language": "en",
-      "summary": "Researchers from Harvard University have published findings showing that an AI language model outperformed two human medical professionals in diagnosing emergency room patients more accurately.",
-      "points": [
-        "AI demonstrated greater accuracy than humans for patient case studies examined by the research team.",
-        "The study involved real-life cases from a hospital' extramural unit, where AI showed high performance and fewer misdiagnoses compared to doctors.",
-        "Human participants were experienced in emergency medicine with an average of 10 years on job experience."
-      ],
-      "insight": "The Harvard study suggests that incorporating artificial intelligence could enhance diagnostic accuracy, potentially leading to better patient outcomes and efficiency gains within the healthcare industry. However, human oversight remains essential due to AI's limitations in understanding nuanced cases or rare conditions."
-    },
-    {
-      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-      "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 03 May 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "The article discusses how autonomous robotaxis operate within regulations to provide safe rides.",
-      "points": [
-        "Autonomous vehicles (AVs), also known as self-driving cars, are increasingly becoming a part of our daily lives. The development and deployment of these cutting-edge machines have been rapid in the past few years; however, there's still much to understand about their interaction with regulations.",
-        "Robotaxis operate similarly to traditional taxis but without an actual driver inside or onboard for safety reasons since they are fully automated. The vehicles use a combination of cameras, radar sensors, and AI algorithms to safely navigate roads by obeying traffic rules while ensinely navigating passengers from pick-up locations.",
-        "To issue a ticket in the context of robotaxis means initiating ride requests through smartphone applications or other digital platforms. Passengers choose destinations, select their preferred time for travel and input any special requirements they might have to receive accurate trip estimates."
-      ],
-      "insight": "As autonomous vehicle technology matures with advancements in AI and sensor systems becoming more robust and reliable at driving without human intervention, regulations will need to evolve accordingly. As the world moves towards these self-driving cars on roads by adapting policies that consider safety measures for passengers while ensuring a smooth transition."
-    },
-    {
-      "title": "[2026 SIEM 솔루션 리포트] SIEM, 지능형 보안 통합 관제 시스템으로 진화하다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143395&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 3 May 2026 22:18:00 +0900",
-      "description": "보안 정보 관리와 보안 이벤트 관리의 만남... 로그 분석 넘어 데이터 플랫폼으로 발전[설문조사] SIEM 운용을 위한 연간 운용비용 ‘1000~3000만원’이 가장 많아SIEM 솔루션 전문기업 집중분석: 로그프레소, 쿼리시스템즈[보안뉴스 원병철 기자] 최근 국내·외에서 발생한 주요 보안 사고에서 공통으로 꼽히는 보안 솔루션이 있다. 바로 SIEM(Secu",
-      "language": "ko",
-      "summary": "보안 정보 관리와 보안 이벤트 관리의 만남. 로그 분석 넘어 데이터 플랫폼으로 발전[설문조사] SIEM 운용을 위한 연간 운용비용 ‘1000~3000만원’이 가장 많아SIEM 솔루션 전문기업 집중분석: 로그프레소, 쿼리시스템즈[보안뉴스 원병철 기자] 최근 국내·외에서 발생한 주요 보안 사고에서 공통으로 꼽히는 보안 솔루션이 있다...",
-      "points": [
-        "보안 정보 관리와 보안 이벤트 관리의 만남",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
