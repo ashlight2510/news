@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-08T07:43:10.629Z",
+  "generatedAt": "2026-05-08T13:49:30.520Z",
   "articles": [
+    {
+      "title": "Lime, the Uber-backed micromobility company, files for IPO",
+      "link": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 13:21:34 +0000",
+      "description": "After years of hints and preparation, Lime plans to enter the public markets.",
+      "language": "en",
+      "summary": "Lime, a micromobility company backed by Uber, is set to go public with an IPO.",
+      "points": [
+        "Lime has been preparing for its initial public offering (IPO) after years of hints and planning.",
+        "The ride-sharing market giant, Uber Technologies Inc., holds a substantial stake in Lime'nerving the company’s financial backing despite some challenges faced by micromobility firms during pandemic times.",
+        "Despite these hardships, investors are still interested as evidenced by significant funding rounds."
+      ],
+      "insight": "Lime going public indicates a growing interest and potential stability in the micro-mobility sector even after facing challenges like decreased demand during COVID lockdowns. This could signify an emerging trend where investors see long-term value beyond pandemic setbacks."
+    },
+    {
+      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+      "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 13:00:00 +0000",
+      "description": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
+      "language": "en",
+      "summary": "PJM Interconnection faces challenges integrating AI into its US power grid management systems amid dissatisfaction among stakeholdner.",
+      "points": [
+        "Dense data center developments in the PJM region are placing strain on local infrastructure, prompting a call for self-overhaul to better integrate artificial intelligence (AI).",
+        "The overhaul comes as many involved parties express concern about whether current systems can manage AI integration effectively.",
+        "PJM Interconnection operates the power grid system that serves some of the most significant data centers in America."
+      ],
+      "insight": "This news underscores the growing need for modern infrastructure to adapt and integrate advanced technologies like artificial intelligence, highlighting potential challenges within industries reliant on complex systems such as energy grids. Failure to address these demands could lead to service disruptions or inefficiencies."
+    },
+    {
+      "title": "Airbnb says AI now writes 60% of its new code",
+      "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 12:49:16 +0000",
+      "description": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
+      "language": "en",
+      "summary": "AI technology is significantly impacting Airbnb's operations by writing new code and managing customer support interactions.",
+      "points": [
+        "- AI now writes about 60% of the company’selftheir new code, indicating a rapid advancement in natural language processing capabilities.",
+        "- Customer service has been transformed with an AI bot handling 40% of issues without human intervention.",
+        "This technology reduces overhead costs and improves customer satisfaction by providing immediate assistance."
+      ],
+      "insight": "The adoption of AI for writing code at Airbnb is a clear indicator that businesses in the IT sector are increasingly turning to artificial intelligence solutions, not only as cost-cutting measures but also with the aim to improve customer experience and operational efficiency."
+    },
+    {
+      "title": "타포, 실내외 활용도 높인 듀얼 렌즈 보안 카메라 ‘Tapo C246D’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143536&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 18:02:00 +0900",
+      "description": "2K 듀얼 렌즈와 스마트 추적 기능 통해 실내외 모니터링 지원 IP65 방수·방진 적용으로 현관·마당·실내 공간까지 활용 가능[보안뉴스 강초희 기자] 티피링크(tp-link)의 스마트홈 브랜드 타포(Tapo)는 실내외 환경에서 모두 활용할 수 있는 듀얼 렌즈 회전형 보안 카메라 ‘타포 C246D’를 출시했다고 밝혔다.Tapo C246D는 하나의 장치에 두",
+      "language": "ko",
+      "summary": "2K 듀얼 렌즈와 스마트 추적 기능 통해 실내외 모니터링 지원 IP65 방수·방진 적용으로 현관·마당·실내 공간까지 활용 가능[보안뉴스 강초희 기자] 티피링크(tp-link)의 스마트홈 브랜드 타포(Tapo)는 실내외 환경에서 모두 활용할 수 있는 듀얼 렌즈 회전형 보안 카메라 ‘타포 C246D’를 출시했다고 밝혔다. Tapo C246D는 하나의 장치에 두",
+      "points": [
+        "Tapo C246D는 하나의 장치에 두",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "국내 첫 육·해·공 무인이동체 통합 실증시험장 개소... 해양 감시 활용 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=143535&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 18:00:00 +0900",
+      "description": "다수·이종 무인이동체 통합관제 기반 해안 감시, 경비 실증 추진밀입국·오염원·해양사고 대응 위한 무인이동체 활용 확대[보안뉴스 강초희 기자] 과학기술정보통신부(부총리 겸 장관 배경훈, 이하 과기정통부)는 당진시와의 협력을 통해 당진시 드론산업지원센터(당진시 석문면 석문방조제로 1775, 30,886.5㎡ 규모)에 ‘무인이동체 해안임무 실증시험장’(이하 실증",
+      "language": "ko",
+      "summary": "국내로 데이terminated_user=The request appears to be a misunderstanding or miscommunication, as it seems the user is attempting to ask for an analysis of some content in Korean but then switches abruptly asking about JSON output without providing clear information regarding what specific part they want analyzed. The provided text also does not seem complete and cuts off before finishing any coherent thought or sentence related directly to IT/Technology news.",
+      "points": [
+        "",
+        "",
+        ""
+      ],
+      "insight": "이상한 요청 내용을 보고, 기사의 내용에서 IT/관련 업체들이 주요작업인 '무인이동체 해안임무 실증시험장'에 대한 세부사유칭과 전용 메모리를 제공하는 것은 명백함으로서 JSON 출력을 위해 아직 정의되지 않았음. 이상한 문장에서 언제, 어디서나 어떤 것들이 '해안임무'인가에 대한 정확한 내용이 명백함으로서 JSON 출력을 위해 제공하지 않음."
+    },
     {
       "title": "[카드뉴스] “범인 잡던 CCTV, 이제 매출 올린다”… 경영진이 주목하는 ‘제3의 눈’ 정체",
       "link": "http://www.boannews.com/media/view.asp?idx=143533&kind=&sub_kind=",
@@ -670,81 +745,6 @@
         "- The new update includes a variety of songs from different artists in multiple languages as part of its database."
       ],
       "insight": "This expansion makes Spotify's AI DJ more accessible to non-English speaking users, promoting music enjoyment and discovery across diverse cultures. This could lead to increased engagement within the platform overall."
-    },
-    {
-      "title": "美 CISA, 기반 시설 공급망에 ‘회복력’ 촉구... 방어보다 ‘운영 연속성’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143507&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 16:48:00 +0900",
-      "description": "대만 침공 등 유사시 겨냥한 적대국의 사보타주 대비해 OT 네트워크 고립 전략 권고공격 피해 격리 실패 시 즉각적인 수동 운영 전환 등 강력한 서비스 복원력 훈련 강조[보안뉴스 김형근 기자] 미국 사이버보안및인프라보안국(CISA)은 국가 기반 시설 운영자들이 대규모 사이버 공격을 받았을 때에도 필수 서비스를 유지할 수 있도록 시스템을 요새화할 것을 촉구하는",
-      "language": "ko",
-      "summary": "미국 CISA는 국가 기반시스템을 유지하며,이를 '회복력'으로 강조한다.",
-      "points": [
-        "CISA은 대규모 공격에도 서비스를 보호함",
-        "시스템의 운영 연속성을 강조",
-        "회복력과 운영 연속성이 인터넷네트워크 보호에서 중요한 요소"
-      ],
-      "insight": "CISA는 국가 시스템의 보호와 서비스 복구의 결정성을 강조하고 있습니다."
-    },
-    {
-      "title": "집 안으로 들어온 AI, 미국은 ‘오케스트레이터’ 중국은 ‘생활형 비서’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143509&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 15:36:00 +0900",
-      "description": "미국 스마트홈 시장은 ‘매터’(Matter) 기반 연결성과 플랫폼 생태계 중심으로 성장중국은 AI 가전 앞세워 생활 편의와 자동 수행 기능 중심 스마트홈 경쟁 전개글로벌 스마트홈 시장, AI 기반 생활형 플랫폼으로 빠르게 진화[보안뉴스 강초희 기자] 불과 몇 년 전만 해도 스마트홈은 음성 명령으로 조명이나 가전을 켜고 끄는 수준에 머물렀다. 하지만 최근에는",
-      "language": "ko",
-      "summary": "미국 스마트홈 시장은 ‘매터’(Matter) 기반 연결성과 플랫폼 생태계 중심으로 성장중국은 AI 가전 앞세워 생활 편의와 자동 수행 기능 중심 스마트홈 경쟁 전개글로벌 스마트홈 시장, AI 기반 생활형 플랫폼으로 빠르게 진화[보안뉴스 강초희 기자] 불과 몇 년 전만 해도 스마트홈은 음성 명령으로 조명이나 가전을 켜고 끄는 수준에 머물렀다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "동형암호 기반 데이터 분석을 SaaS로... 디사일로 데이터 클린룸, CSAP 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=143519&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 15:30:00 +0900",
-      "description": "공공기관 대상 공급 기반 마련...B2G 시장 확대 가속화[보안뉴스 강현주 기자] 프라이버시 강화 기술(PET) 딥테크 기업 디사일로(대표 이승명)는 동형암호 기반 민감 데이터 분석 서비스를 클라우드로 이용할 수 있는 ‘디사일로 데이터클린룸’(DESILO Data Clean Room)이 클라우드 서비스 보안인증(CSAP) SaaS 표준등급을 획득했다고 7일",
-      "language": "ko",
-      "summary": "공공기관 대상 공급자로서 동형암호 기반 데이터 분석을 SaaS로 제공하는 DESILO Data Clean Room이 개인정보화와 및 안전성을 위해 CSAP 표준으로 관리할 수 있도록 제공하는 기술이다.",
-      "points": [
-        "대화상 categoría DESELO Data Clean Room의 개인정보와 안전성을 위한 서비스추iction으로, 공급자로서의 관리항목이 CSAP 표준으로 관리되도록 해왔다.",
-        "SaaS 분석 시스템에서의 인크라인 기능을 통한 동형암호 기반 데이0딩 분석 서비스를 제공하고 있다.",
-        "다음 주차로 개인정보 관리에 대한 푸는 CSAP 기준이 완화되어야 한다."
-      ],
-      "insight": "국내발전 지원정부가 DESILO Data Clean Room이 개인정보와 안전성을 위해 CSAP 푸는 기술의 개념임을 강조하고자 한다. 이를 위한 의사근선은 우리나라가 이 기술의 생산자인 DESILO Data Clean Room에 대해 이해받아야 함"
-    },
-    {
-      "title": "[인터뷰] 박경서 인피닉 인공지능사업본부장 “AI 영상분석의 ‘정확도’는 ‘현장 데이터’에 있다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143405&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 15:29:00 +0900",
-      "description": "현장 데이터 기반 학습으로 AI 영상분석 정확도 끌어올리며 산업안전 시장 공략연구 성능보다 실제 운영 환경에서 안정적으로 작동하는 현장 최적화 중심 전략영상 요약과 Re-ID 결합으로 관제 효율 개선, VLM 기반 자연어 검색까지 확장[보안뉴스 강초희 기자] AI 영상분석 기술이 산업안전과 공공안전 분야로 빠르게 확산되고 있다. 기존에는 기술 성능 중심의",
-      "language": "ko",
-      "summary": "AI를 이용한 현장 영상분석의 정확도가 '현장 데이터'에 민규되어있음을 강조, 산업안전과 공공안전에서 기술이 확산되고 있음을 제시한다.",
-      "points": [
-        "AI 영상분석은 '현장 데이터'로 학습하여 정확도를 끌어올리며 공략 문제점을 해결한다.",
-        "산업의 안전성과 공공의 안전성에서 AI가 빨라지고 활용되고 있음을 느끼며, 관제 성능도 현장 시틈업체에 안정적으로 작동한다.",
-        "AI의 기술이 산업용울모양과 공공안전을 연구로컬로 확장하며, '관제'에서는 일정성을 강화한다."
-      ],
-      "insight": "해외 IT/기술 뉴스가 소개한 AI 영상분석의 핵심 변화는 '현장 데이터'에 기존엔지니어먼트로 모니터링해주기 위해 강화되고, 공략 문제점의 해결 방법을 가진다."
-    },
-    {
-      "title": "“강화된 책임과 권한 대응”... KISIA, 지역별 CISO 보안교육 실시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143518&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 15:11:00 +0900",
-      "description": "5월부터 9월까지 △대구 △서울 △광주 △부산 △대전 개최[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 이달부터 총 5회에 걸쳐 ‘2026년 지역 전략기업 및 CISO 대상 순회 보안교육’을 진행한다고 7일 밝혔다.2026년은 정보보호최고책임자(CISO)의 실질 권한과 책임이 한층 강화되는 방향으로 전환되는 해다. CISO 임원급",
-      "language": "ko",
-      "summary": "5월부터 9월까지 △대구 △서울 △광주 △부산 △대전 개최[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 이달부터 총 5회에 걸쳐 ‘2026년 지역 전략기업 및 CISO 대상 순회 보안교육’을 진행한다고 7일 밝혔다. 2026년은 정보보호최고책임자(CISO)의 실질 권한과 책임이 한층 강화되는 방향으로 전환되는 해다",
-      "points": [
-        "5월부터 9월까지 △대구 △서울 △광주 △부산 △대전 개최[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 이달부터 총 5회에 걸쳐 ‘2026년 지역 전략기...",
-        "2026년은 정보보호최고책임자(CISO)의 실질 권한과 책임이 한층 강화되는 방향으로 전환되는 해다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
