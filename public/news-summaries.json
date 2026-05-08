@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-05-08T03:04:04.884Z",
+  "generatedAt": "2026-05-08T07:43:10.629Z",
   "articles": [
+    {
+      "title": "[카드뉴스] “범인 잡던 CCTV, 이제 매출 올린다”… 경영진이 주목하는 ‘제3의 눈’ 정체",
+      "link": "http://www.boannews.com/media/view.asp?idx=143533&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 15:58:00 +0900",
+      "description": "지능형 CCTV가 단순한 물리 보안을 넘어 고객의 동선과 체류 시간 등을 분석해 경영 전략을 수립하는 ‘비즈니스 인텔리전스(BI)’ 도구로 진화하고 있다.기업 보안 카메라가 수집하는 영상이 수익 창출을 위한 핵심 ‘데이터 자산’으로 간주되면서, 보안에 대한 인식이 단순 비용 지출에서 가치 투자로 전환되는 추세다. 다만 정밀한 데이터 추출 과정에서 발생할 수",
+      "language": "ko",
+      "summary": "CCTV 사용자가 보면한 누적 통로의 중요성을 인식하고, 비즈니찬 인증 기업이 보안에서 주장하고, 보안 카메라가 수집한다.",
+      "points": [
+        "CCTV를 사용하여 고객의 동양으로 보면한다.",
+        "BI 도구는 보안에 대한 인식을 가능하게 한다.",
+        "보안에서의 주장은 보안 시스템의 기존 보안침있거나를 확보해내는 과정이다."
+      ],
+      "insight": "보안 처음으로 생각하지 마시고, IT/기술 분야에서의 CCTV 사용에 대한 인식이 되어본다."
+    },
+    {
+      "title": "과기정통부, 글로벌 AI 보안 파장 정조준... “한국형 특화 모델로 방어”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143531&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 15:46:00 +0900",
+      "description": "8일 산학연 간담회 열고 앤트로픽 등 빅테크 보안 프로젝트 파급력 및 대응 논의3만여 개사 CISO 대상 대비 태세 점검 완료 및 인공지능 보안 가이드라인 선제 배포[보안뉴스 조재호 기자] 미국 앤트로픽과 오픈AI 등 빅테크 기업들의 독자적인 보안 프로젝트 전개에 맞서 정부가 대응에 나섰다. 과학기술정보통신부는 국내 3만여 CISO 대상 대비 태세 점검에",
+      "language": "ko",
+      "summary": "기사는 미국과 한국의 빅테이전스 보안 프로젝트 플랜이다.",
+      "points": [
+        "국가 고원인 빅테이지 및 AI에 대한 보안 기술이 중요합니다.",
+        "국민체제를 위해 국가가 약속한 보안 시스턴리케어를 활성화하고 발전했습니다.",
+        "인공지능을 이용한 보안 제품이 미국과 한국에서 기록되었습니다."
+      ],
+      "insight": "보안 시스턴리케어는 인공지능을 활용하여 공격속도를 높이고, 과공의 방어를 위한 기술을 개선함으로썰나."
+    },
+    {
+      "title": "방화벽이 뚫렸다... 팔로알토 PAN-OS, ‘루트 권한’ 내주는 중대 보안 구멍",
+      "link": "http://www.boannews.com/media/view.asp?idx=143530&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 15:09:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 팔로알토 네트웍스의 PAN-OS 소프트웨어에서 인증 없이 원격으로 코드를 실행할 수 있는 취약점(CVE-2026-0300)이 발견됐다. 이 결함은 사용자 인증 포털 서비스의 버퍼 오버플로우 취약점으로, 공격자가 특수 제작된 패킷을 보내 루트 권한을 탈취할 수 있게 한다. 보안 위험 점수인 CVSS가 10점 만점에 무려 9.3에 달하",
+      "language": "ko",
+      "summary": "팔로알토 PAN-OS 소프트웨어에서 사용자 인증이 불포를 허용하여 '루트 권한'를 탈취할 수 0으로써 보안 위협심행일 뿐이다.",
+      "points": [
+        "즉시 제임스 시스템에서는 사용자 인증이 없이 원격적인 로그인 유열 정보를 보호하기위해 '루트 권한'을 탈취할 수 있다.",
+        "이 보안 위험으로 인한 영향은 CVSS가 10점 만점에 달하고, 9.3 스코어로 현재까지 유지",
+        "이 업무정보를 제공한 기자는 김형근으로서"
+      ],
+      "insight": "이러한 '루트 권한' 문제로 인해 팔로알토 PAN-OS에서는 보안업무가 매우 중요하다고 생각되기 전까지는 아니지만, 이러한 세규와 IT/기술 업계에서의 보안 염립은 그다 repeat 직후으로 발생하는가를 모니터링해야한다."
+    },
+    {
+      "title": "[Global Security TOP] 박윤하 스피어AX 대표이사 “엣지에서 완성되는 AI 영상보안, 현장에서 즉시 판단하다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143361&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 15:03:00 +0900",
+      "description": "온디바이스 AI 기반 엣지 중심 영상보안 플랫폼 확장자체 AI 모델·dara 기반 공공·산업안전 적용 확대NPU 협력 기반 엣지 AI 통합 솔루션 시장 확대[보안뉴스 강초희 기자] AI 영상보안 기술이 엣지 중심으로 전환되는 가운데, 스피어AX가 온디바이스 AI 기반 통합 플랫폼 전략을 앞세워 시장 확대에 나서고 있다. 자체 AI 모델과 플랫폼 ‘dara’",
+      "language": "ko",
+      "summary": "온디바이스 AI 기반 엣지 중심 영상보안 플랫폼 확장자체 AI 모델·dara 기반 공공·산업안전 적용 확대NPU 협력 기반 엣지 AI 통합 솔루션 시장 확대[보안뉴스 강초희 기자] AI 영상보안 기술이 엣지 중심으로 전환되는 가운데, 스피어AX가 온디바이스 AI 기반 통합 플랫폼 전략을 앞세워 시장 확대에 나서고 있다. 자체 AI 모델과 플랫폼 ‘dara’",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "오만 정부 12개 부처 뚫렸다... 이란 연계 해커, 웹쉘과 SQL 동원 공습",
+      "link": "http://www.boannews.com/media/view.asp?idx=143529&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 15:02:00 +0900",
+      "description": "이번 캠페인, 과거 이란 정보통신부(MOIS)와 연계된 조직 수법과 일치하는 것으로 밝혀져[보안뉴스 김형근 기자] 이란과 연계된 것으로 추정되는 해커 조직이 오만의 12개 정부 부처를 대상으로 정밀한 사이버 공격을 감행했다. 이번 공격의 실체는 공격자들이 UAE에 구축한 전초기지인 스테이징 서버(Staging Server)의 디렉토리를 인증 없이 접근 가능",
+      "language": "ko",
+      "summary": "이번 캠페인, 과거 이란 정보통신부(MOIS)와 연계된 조직 수법과 일치하는 것으로 밝혀져[보안뉴스 김형근 기자] 이란과 연계된 것으로 추정되는 해커 조직이 오만의 12개 정부 부처를 대상으로 정밀한 사이버 공격을 감행했다. 이번 공격의 실체는 공격자들이 UAE에 구축한 전초기지인 스테이징 서버(Staging Server)의 디렉토리를 인증 없이 접근 가능",
+      "points": [
+        "이번 캠페인, 과거 이란 정보통신부(MOIS)와 연계된 조직 수법과 일치하는 것으로 밝혀져[보안뉴스 김형근 기자] 이란과 연계된 것으로 추정되는 해커 조직이 오만의 12개 정부 부...",
+        "이번 공격의 실체는 공격자들이 UAE에 구축한 전초기지인 스테이징 서버(Staging Server)의 디렉토리를 인증 없이 접근 가능",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“AI 위협, AI로 잡는다” KISA, 120억 투입해 차세대 보안기업 육성",
+      "link": "http://www.boannews.com/media/view.asp?idx=143523&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 14:58:00 +0900",
+      "description": "[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 차세대 보안 제품 및 서비스 개발을 위한 지원 사업에 돌입했다. AI 보안과 제로트러스트 등 4대 핵심 분야에 120억원의 예산을 투입해 50개 수행기업을 집중 육성하며 2026년 국가 사이버안보 거버넌스의 질적 상향을 주도할 방침이다.KISA는 이와 같은 내용의 ‘2026년 정",
+      "language": "ko",
+      "summary": "[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 차세대 보안 제품 및 서비스 개발을 위한 지원 사업에 돌입했다. AI 보안과 제로트러스트 등 4대 핵심 분야에 120억원의 예산을 투입해 50개 수행기업을 집중 육성하며 2026년 국가 사이버안보 거버넌스의 질적 상향을 주도할 방침이다...",
+      "points": [
+        "[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 차세대 보안 제품 및 서비스 개발을 위한 지원 사업에 돌입했다",
+        "AI 보안과 제로트러스트 등 4대 핵심 분야에 120억원의 예산을 투입해 50개 수행기업을 집중 육성하며 2026년 국가 사이버안보 거버넌스의 질적 상향을 주도할 방침이다",
+        "KISA는 이와 같은 내용의 ‘2026년 정"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Why you can never get your doctor to call you back",
+      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 04:42:29 +0000",
+      "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+      "language": "en",
+      "summary": "The article discusses how AI like Basata is automating tasks previously done by humans but also acknowledges the fear of job displacement among workers.",
+      "points": [
+        "AI companies are increasingly taking over work from human staff, raising questions about augmentation versus replacement.",
+        "Current administrative employees prioritize their struggle with immediate issues like communication breakdowns and feeling undervalued rather than long-term employment concerns.",
+        "Basata's founders recognize the potential for AI to reshape job roles but believe that effective implementation can prevent mass layoffs."
+      ],
+      "insight": "The IT industry faces challenges integrating AI without displacing workers, yet there is a possibility of evolving work roles through strategic deployment and management of automation technologies."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관-11] 돌다리도 두드려 보고 건너라(1)-문자 링크 하나 눌렀다가 털리는 이유",
+      "link": "http://www.boannews.com/media/view.asp?idx=143236&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 13:32:00 +0900",
+      "description": "출처가 불분명한 문자(SMS) 내 링크는 절대 클릭하지 마세요[보안뉴스 박미영 기자] 출처가 불분명한 문자(SMS)나 이메일의 링크를 클릭하는 것은 안전하지 않을 가능성이 있다. 이러한 메일이나 메시지에서 제공되는 링크에는 악성 코드나 바이러스가 포함돼 있을 수도 있으며, 개인정보 유출 등의 위험이 따를 수 있다. 특히 택배 조회·청첩장·쿠폰·정부지원금 등",
+      "language": "ko",
+      "summary": "SMS 메시지에서 제공되는 링크를 클릭하지 마세요. 이러한 메시지와 발급일 수도 있다.",
+      "points": [
+        "속담으로 제공되는 SMS는 정상인식이 필요한 경우에만 권한을 얻어야 할 수도 있다.",
+        "SMS 메시지의 링크에는 개인정보 유출 위험이 존재함을 기억하자.",
+        "택배 조회·청첩장·쿠폰·정부지원금 등 일본의 문제가 있다."
+      ],
+      "insight": "이러한 이유로 보안에 주의를 기 Hansei 소비기열이며 얼마나 세상을 살처럼 공급하고자 정신은 있는 국민?"
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] ‘자율형 AI’ 시대, 인류에게 천당인가 지옥인가",
+      "link": "http://www.boannews.com/media/view.asp?idx=143525&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 13:28:00 +0900",
+      "description": "효율성 극대화 이면의 딜레마, 통제 불가능한 자율형 AI 책임은 누구에게?[보안뉴스= 배종찬 인사이트케이 연구소장] 인류 역사상 기술의 발전은 언제나 ‘인간의 노동력을 어떻게 효율적으로 대체하거나 확장할 것인가’에 초점을 맞춰 왔다. 증기기관이 근력을, 컴퓨터가 계산 능력을 보조했다면 최근의 AI는 인간의 사고와 창의 영역을 파고들고 있다. 단순히 질문에",
+      "language": "ko",
+      "summary": "효율성 극대화 이면의 딜레마, 통제 불가능한 자율형 AI 책임은 누구에게. [보안뉴스= 배종찬 인사이트케이 연구소장] 인류 역사상 기술의 발전은 언제나 ‘인간의 노동력을 어떻게 효율적으로 대체하거나 확장할 것인가’에 초점을 맞춰 왔다...",
+      "points": [
+        "효율성 극대화 이면의 딜레마, 통제 불가능한 자율형 AI 책임은 누구에게",
+        "[보안뉴스= 배종찬 인사이트케이 연구소장] 인류 역사상 기술의 발전은 언제나 ‘인간의 노동력을 어떻게 효율적으로 대체하거나 확장할 것인가’에 초점을 맞춰 왔다",
+        "증기기관이 근력을, 컴퓨터가 계산 능력을 보조했다면 최근의 AI는 인간의 사고와 창의 영역을 파고들고 있다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "한국인공지능협회, 창립 10주년 비전 선포... “실세계 AI 주도권 잡는다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143526&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 13:24:00 +0900",
+      "description": "AI EXPO KOREA서 ‘인류에 의한 AGI’ 비전 및 4대 거버넌스 체계 발표가상공간 넘어 제조·물류 등 실세계 데이터 기반 피지컬 인공지능(AI) 경쟁력 강조[보안뉴스 조재호 기자] 한국인공지능협회(KORAIA)는 지난 7일 AI EXPO KOREA 현장에서 ‘창립 10주년 비전 선포식’을 개최하고 대한민국 인공지능(AI) 산업의 다음 10년을 향한",
+      "language": "ko",
+      "summary": "KORAIA 회의에서 인공지능 기술이 발전해 주는 대한민국의 AI 산업 전반적인 경계를 강조하고자 한 후 10년간 대상으로 진전을 기다리라는 내용입니다.",
+      "points": [
+        "지난 7일 AI EXPO KOREA에서 한국인공지능협회가 ‘창립 10주년 비전 선포’을 개최한다는것은,",
+        "AI 기술이 현재에서도 발전해 나오고, 미래에서도 일정하게 뛰어나고 있음을 강조한다는 것.",
+        "10년동안의 AI 산업진실화를 통해, 국가에서의 인공지능 기술창임을 나타내고 있다."
+      ],
+      "insight": "한국인공지능협회는 현재 AI 기술이 뛴 더라니, 대한민국 산업은 10년간의 역사를 통해 자세히 볼 수 s있는 것을 강조하고 있습니다."
+    },
+    {
+      "title": "[Global Security TOP 100] 서상덕 S2W 대표 “전산업 혁신 데이터 인텔리전스 기업 도약”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143453&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 8 May 2026 13:08:00 +0900",
+      "description": "축적해 온 AI·빅데이터 기술로 다양한 산업 혁신2년 연속 해외 매출 비중 20% 상회[보안뉴스 강현주 기자] ‘아시아의 팔란티어’를 꿈꾸는 S2W는 탄탄하게 쌓아온 AI·빅데이터 기술력으로 다양한 산업 분야를 혁신하는 데이터 인텔리전스 기업으로 향해가고 있다. 서상덕 대표를 만나 S2W의 AI 시대 사이버 보안 리더십과 글로벌 전산업으로의 도약 비전을 들",
+      "language": "ko",
+      "summary": "S2W 그리고 탄산 기곡 AI·빅데이터 기술로 인터뷰하여 전산업으로의 보안 기술에서 매우 중요한 역할을 하고, 2년 연속 세계 매출액 20%를 상회하는 전산업에서의 혁신기술로 인터뷰한다.",
+      "points": [
+        "S2W이 AI·빅데이터 기술을 사용하여 전산업의 혁신",
+        "2년간 연속 중요한 세계 매출액 20%를 향해가고 있다.",
+        "전산업에서의 보안 기술 도움이 필수적이다."
+      ],
+      "insight": "전산업에서 AI·빅데이터 기술을 사용하여 혁신하면서, S2W의 자주의 세계 매출액과 보안 기술의 중요성에 초착한 미래를 위해 노력할 필요가 있다."
+    },
     {
       "title": "중앙대, 과기정통부 ‘연구안보센터’ 선정... 사립대 거점 연구보안 생태계 구축",
       "link": "http://www.boannews.com/media/view.asp?idx=143527&kind=&sub_kind=",
@@ -580,171 +745,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "마이크로소프트, AI 에이전트 보안·거버넌스 통합 관제 플랫폼 ‘에이전트 365’ 정식 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143517&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 14:51:00 +0900",
-      "description": "기존 보안·관리 워크플로 기반 단일 관제 플랫폼에서 에이전트 관리가시성 확보되지 않은 AI 에이전트 관리 어려워AWS 및 구글과 레지스트리 동기화 기반 멀티 플랫폼 가시성·거버넌스 확보[보안뉴스 한세희 기자] 마이크로소프트가 최근 주요 보안 리스크로 떠오른 AI 에이전트를 안전하게 운용하기 위한 ‘마이크로소프트 에이전트 365’ 플랫폼을 정식 출시했다고 7",
-      "language": "ko",
-      "summary": "마이크로소프트는 '에이전트 365' 플랫폼을 개시, AI 에이전트 보안으로 관측한다.",
-      "points": [
-        "마이크로소프트가 '에이전트 365' 플랫폼을 만들어 모니터링 기반의 AI 에이전트 보안으로 시스템화",
-        "레시처 오프소토한 모니터링 작업을 AWS과 Google 서비스를 동기화",
-        "3주차간의 보안 리스크를 강조해야 하는 '에이전트 365' 플랫폼은 AWS과 레시처 서비스를 통합"
-      ],
-      "insight": "마이크로소프트의 '에이전트 365'는 AI 에이전트보안을 강화하며, 기존 보안 시스템보다 우연한 공격이 없음"
-    },
-    {
-      "title": "AI스페라, ‘크리미널 IP’에 시큐로닉스 위협 인텔리전스 플랫폼 연동",
-      "link": "http://www.boannews.com/media/view.asp?idx=143516&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 14:48:00 +0900",
-      "description": "크리미널 IP, 외부 위협 인텔리전스를 보안 운영 워크플로우에 직접 통합수작업 분석 없이 위협 판단 및 대응 우선순위 설정 자동화 구현[보안뉴스 강현주 기자] AI스페라(대표 강병탁)는 자사 위협 인텔리전스 플랫폼 ‘크리미널 IP’(Criminal IP)가 글로벌 보안 분석 플랫폼 기업 시큐로닉스(Securonix)가 운영하는 위협 인텔리전스 운영 플랫폼(",
-      "language": "ko",
-      "summary": "기사는 크리미널 IP이 '크리미널 게인'이며 불량한 캡스타일로 위협을 강하게 했다고 합니다.",
-      "points": [
-        "크리미널 IP의 보안 위대한 위협이 인터뷰하여 기사가 중요할 것으로 확신",
-        "대부분의 IT 시스텬 업계가 보안을 고려하지 못한다는 주장이 들어오는 사건에 대해서써,",
-        "사회적 위대한 위협의 이유를 공감하고 IT/기술 시스텬 운영에 미치는 영향을 설명"
-      ],
-      "insight": "보안은 IT/기술 업계에서의 중요한 원칙이며,이 위협에 대한 근거를 이해하는 것이 목적입니다."
-    },
-    {
-      "title": "KT, 정보보호실 중심 ‘통합 보안’ 체계로 개편... “상시 예방·선제 대응·AI 기반”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143515&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 14:47:00 +0900",
-      "description": "CISO·CPO 중심 통합 보안 거버넌스 고도화 및 외부 검증 강화[보안뉴스 강현주 기자] KT(대표 박윤영)가 새롭게 구성된 정보보안실을 중심으로 전사 정보보안 체계를 전면 정비하는 고강도 보안 혁신을 본격 추진한다고 7일 밝혔다. 이번 조치는 기존의 분산된 보안 기능을 통합한 정보보안실을 중심으로 보안의 구조와 범위, 운영 수준 전반을 재설계하고, 상시",
-      "language": "ko",
-      "summary": "KT이 통합 보안실과 AI를 활용한 보안 전문기사 개조",
-      "points": [
-        "- KT은 CISO·CPO 중앙의 정보보안실로 통합 보안 시스템을 구성한다.",
-        "- 현재 혁신에서는 다수의 보호 기능들이 분산되어 있으며, 이를 통합하여 모든 보호 기능을 물리적으로 연결시키고 강화한다.",
-        "- AI의 역할은 상시 예방, 선제 대응, 외부 관리에 대한 특정 보호 기능을 자동화하고, 이를 통해 더 강력한 보호 시스템을 제공한다."
-      ],
-      "insight": "KT은 IT/기술 업계에서의 보안 전문 지원을 강화하며, AI를 이용한 신용적인 보호 시스템을 개선한다."
-    },
-    {
-      "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 05:25:10 +0000",
-      "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-      "language": "en",
-      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "보안SW 설치 없는 안전한 PC 로그인, 패스워드리스 얼라이언스 세미나 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=143514&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 13:56:00 +0900",
-      "description": "PC 보안 SW 설치 없는 국제표준 ITU-T X.1280 기반 패스워드리스 로그인 이론 및 실습 교육[보안뉴스 원병철 기자] 패스워드리스 얼라이언스는 5월 21일 보안뉴스 리더스홀에서 ‘ITU-T 국제표준 X.1280 기반 비설치형 인증기술 활용 세미나’를 개최한다고 밝혔다. 이번 세미나는 사용자 PC에 별도의 보안 소프트웨어를 설치하지 않고도 사용자가",
-      "language": "ko",
-      "summary": "세미나에서 공개한 ITU-T X.1280 기반 비설치형 인증제품을 이용하여 PC로그인을 수월하게하는 방법과 관련된 설정과 작업방식에 대해서 소통",
-      "points": [
-        "세미나 'ITU-T 국제표준 X.1280 기반 비설치형 인증기술 활용 세미на'를 ITU-T X.1280 기반 보안SW 사용자에게서스케이스에 대해 제시한다.",
-        "세미나의 주요 인사이트는 비저침 보안SW를 PC로그인 노하우를 통일하면서도 유용한 가입자성을 유지해내기를 위한 방법이다.",
-        "세미나는 사용자들에게 ITU-T X.1280 기반 보안 SW 설정과 PC로그인 프로토타xis있는 방식을 학습해볼 수 0ne입니다."
-      ],
-      "insight": "세미나이기에 대한 IT/기술 업체의 인사이트는, PC로그인을 위한 보안 SW를 제공하지 않지만 ITU-T X.128soft 계산서에 기반한 비설침 피체패스워드리스 방식을 사용하여 PC로그인을 가돔하는 경우에만 적용할 수 있다."
-    },
-    {
-      "title": "엔키화이트햇, 전성학 R&D 총괄 영입... “CISO 관점 오펜시브 보안 띄운다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143513&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 13:13:00 +0900",
-      "description": "안랩 기반기술팀장 및 현대카드 CISO 지낸 현장 실무형 R&D 전문가 합류고객 불편과 시장 요구 파악해 오펜(OFFen) 플랫폼 제품 로드맵에 통합 [보안뉴스 조재호 기자] 엔키화이트햇이 제품 연구개발과 CISO 현장 지휘 경험을 두루 갖춘 전성학 가천대 연구교수를 R&D센터 총괄 부사장으로 영입했다고 7일 밝혔다. 회사는 영입으로 자사 플랫폼인 오펜(O",
-      "language": "ko",
-      "summary": "현대카드 CISO이 오펜(OFFen) 플랫폼 제품로 영입하여 IT/기술 사내에서의 참가, 출근 모습",
-      "points": [
-        "현대카드 CISO이 오펜(OFFen) 제품을 R&D 연구개받은",
-        "업무는 영입으로 진행해서 시장 요구를 확인",
-        "회사의 IT/기술 전문가가 현장에서 지속한 모습"
-      ],
-      "insight": "현대카드 CISO의 영입은 발생하는 시장 요구와 IT/기술 부동산 축소에 대한 매우 중요한 결정이다."
-    },
-    {
-      "title": "“보안 공시 안 하면 과징금 철퇴” 지란지교시큐리티, 상장사 생존 가이드 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=143511&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 11:38:00 +0900",
-      "description": "2027년 코스피·코스닥 전체로 확대되는 정보보호 공시 의무화 실무 대응책 제시개정 개인정보보호법 맞물린 징벌적 규제 환경 속 객관적 보안 증빙 체계 구축 지원[보안뉴스 조재호 기자] 2027년 코스피·코스닥 전체 상장사로 정보보호 공시 의무가 확대되는 가운데, 실무진의 혼란을 덜어줄 종합 가이드북이 발간됐다. 지란지교시큐리티는 정보보호 공시 의무화 시행을",
-      "language": "ko",
-      "summary": "기사는 상장사들이 보안 공식화에 대한 의무화 확차를 떠내고 있다고 합니다.",
-      "points": [
-        "지래지교시큐리티는 즉시 보안 공식화에 대한 의무화 제위를 강하게 강조했다.",
-        "그러나 사회주재인력과 국가보호북이는 설명을 바로 드라마로 해서 의무화에 대한 공지를 제기한다.",
-        "보안 공식화의 시민 도시발전은 현재 상장사들이 보호 규제에 직접적인 영향을 미쳤다고 합니다."
-      ],
-      "insight": "보안 공식화의 시작은 정보보호 공식화에서 상장사들이 우연히 뛰기지만, 현재 대중 요소의 활동이 증시 가이드 분양에 영향을 미쳤다."
-    },
-    {
-      "title": "[Global Security TOP 100] 김정균 씨게이트 이사 “데이터 전 생애주기 책임지는 스토리지의 재정의”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143364&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 11:34:00 +0900",
-      "description": "AI 시대 대응 고용량·고신뢰성 데이터 인프라 강화HAMR 기반 차세대 스토리지와 초고용량 제품군 확대데이터 무결성·보안성·운영 효율 중심 저장 전략 고도화[보안뉴스 강초희 기자] AI 기반 분석과 영상 데이터 활용이 빠르게 확산되면서 저장되는 데이터의 규모와 중요성이 동시에 커지고 있다. 특히 영상보안과 클라우드 환경에서는 대용량 데이터를 안정적으로 저",
-      "language": "ko",
-      "summary": "김정균이의 전용 스토리지는 현재의 AI 기반 분석과 영상 데이터를 사용하여 보안성을 강화하고 초고용량 제품을 확대한다.",
-      "points": [
-        "재정의된 스토리지에서는 데이터 무결성과 보안성을 강화하고, 초고용량 제품군에 대해 빈축납니다.",
-        "HAMR 기반 차세대 스토리지의 장점을 바탕으로, 보안성과 영상 데이터 제공에 초중한 요구를 만족합니다.",
-        "현재 기술 및 IT 업계 사용자들의 보안 약점을 해결하며, 인피라이즈와 클라우드 분산성에서의 영리성행동에 집중합니다."
-      ],
-      "insight": "김정균이의 재정의된 스토리지는 현재 AI 기반 인식과 보안을 위한 전문가적인 방식을 사용합니다. 강화된 보안성은 IT 업계에서의 이슈를 해소하는 중요한 핵심적인 도전입니다."
-    },
-    {
-      "title": "유니온바이오메트릭스, 화성시 비문등록 시범사업 통해 현장 실증 본격 진행",
-      "link": "http://www.boannews.com/media/view.asp?idx=143510&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 11:25:00 +0900",
-      "description": "반려견 비문, 접촉식 전용 인식기와 스마트폰 이용해 개체 식별과 등록 활용시범사업, 인공지능(AI) 생체인식 기술을 반려동물 등록 분야에 접목한 사례[보안뉴스 엄호식 기자] 유니온바이오메트릭스가 ‘2026 화성시 비문등록 시범사업’ 참여로 반려견 비문(코주름) 기반 동물등록 제도화를 위한 현장 검증에 속도를 낸다고 7일 밝혔다.정보통신기술(ICT) 규제샌드",
-      "language": "ko",
-      "summary": "유니온바이오메트릭스가 작성한 '2026 화성시 비문등록 시범사업'에 속도를 낸다.",
-      "points": [
-        "인공지능(AI) 기반 개체 식별이 먼저 진행된다.",
-        "접촉식과 스마트폰의 사용에서 모여 등록",
-        "비문 기반 등록을 위한 현장 검증에 이어지고 진행한다."
-      ],
-      "insight": "이러한 기술은 비문 등록 제도 화성시에서의 안전성 구축에 도움을 줄 것임."
-    },
-    {
-      "title": "금융보안원, ‘제10기 최고위과정’ 입교식... “보안은 경영진 핵심 과제”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143508&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 11:17:00 +0900",
-      "description": "10주 간 금융권 및 정보보호 산업계 경영진 38명 대상 디지털금융·보안 교육 진행박세준·박찬암 대표 등 최정상 화이트해커 강연자로 나서 실전 인사이트 제공미토스 등 초고도 인공지능(AI) 위협 대비한 경영진 맞춤형 거버넌스 확립 주력[보안뉴스 조재호 기자] 금융보안원이 금융권 경영진을 대상으로 한 교육 과정을 진행한다. 올해는 미토스로 대표되는 최신 AI",
-      "language": "ko",
-      "summary": "10주 간 금융권 및 정보보호 산업계 경영진 38명 대상 디지털금융·보안 교육 진행박세준·박찬암 대표 등 최정상 화이트해커 강연자로 나서 실전 인사이트 제공미토스 등 초고도 인공지능(AI) 위협 대비한 경영진 맞춤형 거버넌스 확립 주력[보안뉴스 조재호 기자] 금융보안원이 금융권 경영진을 대상으로 한 교육 과정을 진행한다. 올해는 미토스로 대표되는 최신 AI",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[미토스 충격] 앤트로픽 만나는 정부... “실체 모르면 대책 무의미”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143506&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 7 May 2026 11:02:00 +0900",
-      "description": "앤트로픽 글로벌 정책 총괄 11일 류제명 차관 미팅‘글래스윙’ 국내 기업 참여 가능성 타진 여부 ‘촉각’[보안뉴스 강현주 기자] 앤트로픽이 방한해 정부를 만나 AI 보안 방안을 논의한다는 소식이 알려지면서 국내 기업들도 ‘글래스윙’ 참여 가능성이 열릴지 주목된다. ‘미토스’의 정확한 실체를 모르는 상태에서 막연한 AI 위협 공포만으로 쥐어짜는 대책은 의미없",
-      "language": "ko",
-      "summary": "이보나카 기사는 AI 위협의 대외적인 영향에 근간을 맺고, 미토스 정권과 AI 보안의 재단 이득을 이용한 국내 기업들도 '글래스융' 연창의 여지를 강조한다.",
-      "points": [
-        "앤트로픽이 AI 보안 방식을 개선하기 위해 국제 대화를 시도한다.",
-        "미토스의 글래스융 이런 경우에는 대책이 무의미",
-        "국내 기업들도 '글래스융'를 마쳤다."
-      ],
-      "insight": "이 기사는 AI 위협의 대채를 제시하고, 국내에서 과대적합으로 인식한 정권과의 동일한 반면, 기업들도 이상한 연창을 했다는 통째로 귀하다."
     }
   ]
 }
