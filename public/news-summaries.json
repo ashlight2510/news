@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-05-08T13:49:30.520Z",
+  "generatedAt": "2026-05-08T19:21:53.547Z",
   "articles": [
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 18:33:21 +0000",
+      "description": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "language": "en",
+      "summary": "Cloudflare is conducting its largest ever wave of employee redundancies amidst record revenue growth due to AI efficiency gains that reduce the number of needed human-based support roles.",
+      "points": [
+        "CloudFlare, a major content delivery network (CDN), experienced job losses attributed primarily to artificial intelligence implementations within their operations.",
+        "The company reported hitting record revenue despite cutting around 1,100 jobs that were previously considered essential for its services and infrastructure maintenance.",
+        "CEO Matthew Prince has indicated the role of AI in streamlining CloudFlare's processes to a point where fewer human resources are required."
+      ],
+      "insight": "The news indicates a trend within IT industries towards increased automation with AI technologies, potentially leading to significant job displacement despite revenue growth. This shift could prompt companies and the industry at large to adapt strategies for workforce management in response to these efficiency gains."
+    },
+    {
+      "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
+      "link": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 18:25:29 +0000",
+      "description": "More than 500 people will be affected by the closures.",
+      "language": "en",
+      "summary": "Porsche is shutting down its e-bike subsidiary along with a battery and software division as part of an extensive company restructuring.",
+      "points": [
+        "The Porsche Group, known for high-performance sports cars like the Cayenne SUV and Taycan electric vehicle, is expanding into mobility services.",
+        "More than 500 employees in Germany will lose their jobs as a result of these closures.",
+        "The restructuring efforts aim to consolidate Porsche' extramural business units under one entity."
+      ],
+      "insight": "This move signifies the automotive industry's pivot towards sustainable mobility options, as traditional car manufacturers are integrating and expanding into electric vehicles (EVs), battery technology, and related software solutions to stay competitive in a changing market."
+    },
+    {
+      "title": "Mother Ventures is looking at moms as the ‘economic engine’",
+      "link": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 17:46:08 +0000",
+      "description": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
+      "language": "en",
+      "summary": "Mother Ventures, an investment firm focusing on the purchasing power of moms (MPOs), has successfully closed its inaugural fund aimed at empowering MPOs as economic drivers through technology and innovation.",
+      "points": [
+        "The VC firm Mother Ventures focuses exclusively on mothers, considered to be major consumers in the economy",
+        "Mother Ventures raised a $1 endowment of $10 million for investments targeting moms as economic engines with their purchasing power.",
+        "This fund is aimed at empowering MPOs through technology and innovation, which could lead to transformative changes in the retail sector."
+      ],
+      "insight": "The Mother Ventures initiative recognizes mothers as significant consumers who can drive economic growth when given access to targeted investments. As more firms focus on specific demographic segments like moms, we could see tailored technological solutions and innovations that address the unique needs of these influential consumer groups in IT/technology industries."
+    },
+    {
+      "title": "Uber partner Avride is under investigation for self-driving crashes",
+      "link": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 17:33:46 +0000",
+      "description": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
+      "language": "en",
+      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
+      "link": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 17:20:37 +0000",
+      "description": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
+      "language": "en",
+      "summary": "Poland's intelligence agency reported Russian state-linked actors conducted cyberattacks on Poland's water treatment plants as well as various public institutions such as the electricity grid and transportation system.",
+      "points": [
+        "Report by Polish intelligence accuses Russia of sabotage activities targeting infrastructure",
+        "Saboteurs allegedly gained access to key civilian systems using a combination of malware, social engineering, phishing attacks, as well as exploiting known vulnerabilities and Zero-Day flaws.",
+        "Polish authorities have temporarily suspended the Russian programme Squall while investigations continue"
+      ],
+      "insight": "The reported cyberattacks against Poland's water treatment plants underscore a growing threat to essential services worldwide, raising concerns for national security and emphasizing urgent need for robust IT defense measures."
+    },
+    {
+      "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
+      "link": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 16:43:19 +0000",
+      "description": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
+      "language": "en",
+      "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1. 3 million to a Russian broker that works with Putin’s government",
+      "points": [
+        "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold ...",
+        "3 million to a Russian broker that works with Putin’s government",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Pentagon releases UFO files on new website",
+      "link": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 15:56:36 +0000",
+      "description": "The initial set of files housed on the site will include those containing unidentified anomalous phenomena (UAP) videos, photos, and original source documents from across the entire U.S. government. The materials have been reviewed for security purposes, but many have \"not yet been analyzed for resolution of any anomalies,\" the Department's statement read.",
+      "language": "en",
+      "summary": "The Pentagon has launched a website to publicly release files on unidentified aerial phenomena (UAP), also known as UFO sightings or encounters.",
+      "points": [
+        "Pentagon launches new website with first set of UFO-related videos, photos and documents",
+        "Materials reviewed for security but many not analyzed yet to resolve anomalies reported in the content",
+        "The release is a significant shift towards transparency as all 47 departments have agreed on releasing relevant materials"
+      ],
+      "insight": "This move by the Pentagon represents an important step toward addressing public interest and curiosity about UFO sightings while maintaining national security."
+    },
+    {
+      "title": "Truecaller slashes 70 jobs amid declining ad sales",
+      "link": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 14:41:53 +0000",
+      "description": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
+      "language": "en",
+      "summary": "Ad revenue for Truecaller dropped significantly resulting in a large-scale job cut of around 70 positions.",
+      "points": [
+        "Truecaller's ad revenue fell by more than half",
+        "Layoffs impact approximately one fifth of the company staff, totaling about 125 employees",
+        "Increase in investment to boost business and retain talent"
+      ],
+      "insight": "These layoffs suggest significant challenges within Truecaller'table industry as they may struggle with funding. Investments are crucial for their survival, but this incident underscores the fragility of digital companies reliant on advertisement revenues."
+    },
+    {
+      "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+      "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 14:30:00 +0000",
+      "description": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
+      "language": "en",
+      "summary": "The article discusses why many startup founders are not expected to raise a Series A round of funding until after TechCrunch Disrupt in October 2026.",
+      "points": [
+        "TechCrunch is hosting an event on the future strategies for raising a series A and will provide expert insights from top VCs at this year's edition taking place next month, according to TechCrunch. The company plans its funding rounds based around these events with many aiming to pitch their companies between October 20-October 25 during Disrupt each fall.",
+        "With the tech startup industry becoming increasingly crowded and VC investors having more options, it's essential for founders seeking Series A funding to present a compelling business case tailored towards specific types of venture capitalists. Understanding that many startups face challenges in this area due to market saturation, the article emphasizes the importance of strategic pitch timing and alignment with VC priorities.",
+        "The session at TechCrunch Disrupt 2026 will not only serve as a platform for learning but also an opportunity for startups that have already secured funding or are considering Series A to understand how their preparation aligns with industry trends."
+      ],
+      "insight": "Given the increasing competition and VC options in startup financing, strategic timing of pitches during events like TechCrunch Disrupt can significantly improve a company's chances of securing Series A funding. The article highlights this trend as crucial for founders to stay ahead."
+    },
+    {
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 08 May 2026 14:00:00 +0000",
+      "description": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+      "language": "en",
+      "summary": "TechCrunch is offering the last opportunity to purchase two passes for TechCrunch Disrupt 2026 with one pass bought today and a second at half price.",
+      "points": [
+        "- Limited time offer ends soon",
+        "- Two-for-one deal on tickets available now",
+        "- Special rates for partners, co-founders, or colleagues"
+      ],
+      "insight": "This promotion not only provides savings but also encourages networking within the tech industry at one of its key events."
+    },
     {
       "title": "Lime, the Uber-backed micromobility company, files for IPO",
       "link": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
@@ -596,155 +746,6 @@
         "This discovery has led to an overhaul in how cybersecurity threats are assessed within the organization"
       ],
       "insight": "Anthropic's AI-driven approach signifies a transformative shift for Mozilla, where they now prioritize innovative methods like Mythos system to enhance their traditional security testing and bug bounty programs. This can potentially set new standards in the cybersecurity industry."
-    },
-    {
-      "title": "Google’s $9.99-per-month AI health coach launches May 19",
-      "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 15:35:38 +0000",
-      "description": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
-      "language": "en",
-      "summary": "Google is launching an AI health coaching platform called Gemini for $9.99 per month starting May 19. This virtual coach will offer fitness guidance, sleep expertise, and general well-betable advice.",
-      "points": [
-        "Google's new AI service named 'Gemini' is a multi-functional health coaching tool launched for $9.99/month starting May 19th.",
-        "The platform will act as both a fitness coach and sleep expert, providing personalized advice on workouts, rest schedules, nutrition guidelines, meditation practices (if applicable), stress management techniques, hydration habits, supplement intake recommendations if relevant, etc., based on the user's data.",
-        "Gemini will offer users 24/7 access to their coach and enable them to communicate with an AI assistant that can also understand natural language."
-      ],
-      "insight": "The launch of Google's $9.99-per-month health coaching platform, Gemini, represents a significant expansion for the company in offering personalized wellness advice through artificial intelligence and is likely to increase competition among AI fitness platforms as they attempt to provide more comprehensive services."
-    },
-    {
-      "title": "Google unveils Whoop-like screenless Fitbit Air",
-      "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 15:17:38 +0000",
-      "description": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
-      "language": "en",
-      "summary": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-      "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 15:00:00 +0000",
-      "description": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
-      "language": "en",
-      "summary": "Startup Battlefield 200 provides a platform where startups can compete in various categories to gain access to funding from venture capitalists (VCs), global visibility through media coverage and networking opportunities.",
-      "points": [
-        "Applications are open until May 27, providing an opportunity for significant startup impact within this period",
-        "Participation offers chances of VC access without equity dilution",
-        "$100,000 in funding and more opportunities available"
-      ],
-      "insight": "This competition can serve as a catalyst for startups to accelerate their growth by providing financial support, networking connections with potential investors, media exposure, and increased visibility."
-    },
-    {
-      "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
-      "link": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 14:49:02 +0000",
-      "description": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
-      "language": "en",
-      "summary": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada",
-      "points": [
-        "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
-      "link": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 14:30:00 +0000",
-      "description": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
-      "language": "en",
-      "summary": "Tech startups are encouraged to showcase their innovation and business potential at TechCrunch Disrupt 2026 by securing a table on the crowded exhibit floor.",
-      "points": [
-        "Startup visibility is crucial for success, as noted in an article discussing its importance ahead of TechCrunch Disrupt 2026.",
-        "The event promises to bring together over ten thousand decision-makers ready to discover and invest in promising tech startups.",
-        "Securing a spot on the exhibit floor is essential for startup competitors aiming to impress potential customers, partners, or funders."
-      ],
-      "insight": "TechCrunch Disrupt serves as an influential platform where early-stage companies can secure vital attention and investment opportunities that may propel them ahead in the tech industry. The competition for prime exhibit spaces at such events reflects the high stakes involved, signaling to startups that effective networking strategies are critical components of their business development."
-    },
-    {
-      "title": "India’s first space tech unicorn emerges as Skyroot gears up for orbital launch",
-      "link": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 14:28:35 +0000",
-      "description": "Skyroot's valuation has more than doubled since 2023 as the Indian rocket startup prepares for the country's first private orbital launch.",
-      "language": "en",
-      "summary": "India's space technology company Skyroot has rapidly grown to become a unicorn with its valuation more than doubling since 2023 as it prepares for the country's first private orbital launch.",
-      "points": [
-        "Skyroot, an Indian rocket startup founded in April 2019, has emerged as India’s first space technology unicorn.",
-        "The company specializes in designing and manufacturing advanced rockets for commercial satellites to be launched into Earth's orbit or beyond. They have also been working on developing reusable launch systems aimed at reducing the cost of access to outer space, which is a key requirement for future economies such as Mars colonization.",
-        "With its valuation having more than doubled since 2023 and setting ambitious targets in rocket design, Skyroot gears up for India's first private orbital launch."
-      ],
-      "insight": "Skyroot’s success highlights the potential of privatized space technology companies to contribute significantly to commercial satellite deployments. Additionally, their focus on reusable rockets and reducing costs can disrupt traditional aerospace manufacturing industries by offering more affordable options."
-    },
-    {
-      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 14:00:00 +0000",
-      "description": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
-      "language": "en",
-      "summary": "The article announces a limited-time offer for TechCrunch Disrupt 2026 event tickets with significant savings available on both first and second passes.",
-      "points": [
-        "TechCrunch is offering up to $410 off each pass, valid until May 8 at midnight PT",
-        "The offer includes a deal for two passes: original price of $952 plus tax ($63), with the second discounted by half after applying an additional coupon worth approximately $7"
-      ],
-      "insight": "This aggressive pricing strategy could draw in more attendees to TechCrunch Disrupt, potentially increasing networking opportunities and exposure for startups."
-    },
-    {
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
-      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 13:44:25 +0000",
-      "description": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-      "language": "en",
-      "summary": "China’s AI startup Moonshot has secured a massive $2 billion funding round at an impressive $20 billion valuation amidst skyrocketing demand for open-source artificial intelligence.",
-      "points": [
-        "China's AI company, Moonshot, raised $2 billion in seed financing led by Chinese tech giant Tencent and US investment firm Sequoia Capital.",
-        "Moonshot is a platform offering access to open-source models that power natural language processing applications such as text classification or machine translation. The service supports the creation of custom AI tools without coding knowledge, using simple interfaces for model training on cloud servers like Google Cloud and Amazon Web Services (AWS).",
-        "With an annualized recurring revenue surpassing $200 million in April alone due to a rapid increase in paid subscriptions and API usage."
-      ],
-      "insight": "The success of Moonshot's fundraising round demonstrates the significant potential for growth within China’th AI sector. As more startups like this seek capital, it suggests that open-source AI is playing a crucial role in democratizing access to advanced technology."
-    },
-    {
-      "title": "Spotify wants to become the home for AI-generated personal audio",
-      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 13:00:00 +0000",
-      "description": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
-      "language": "en",
-      "summary": "Spotify is enhancing its platform by integrating AI-generated content for personalized audio experiences.",
-      "points": [
-        "Users can generate a podcast using Spotify'simate codex or Claude, and import it to the service.",
-        "This initiative comes with concerns about copyright infringement on music being used as backing tracks for AI-generated audio content.",
-        "The move by Spotify demonstrates an increasing role of artificial intelligence within streaming platforms."
-      ],
-      "insight": "As the integration of AI and personalized experiences become more prevalent in technology, concerns over copyright rights will also need to be addressed for a sustainable model."
-    },
-    {
-      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 12:20:04 +0000",
-      "description": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-      "language": "en",
-      "summary": "The Spotify AI DJ can create personalized music mixes in multiple languages including French, German, Italian, and Brazilian Portuguese.",
-      "points": [
-        "- The Spotify AI DJ supports four additional language options: French, German, Italian, and Brazilian Portuguese.",
-        "- Users have the ability to set their desired tempo or BPM (beats per minute) for music mixes created by the AI.",
-        "- The new update includes a variety of songs from different artists in multiple languages as part of its database."
-      ],
-      "insight": "This expansion makes Spotify's AI DJ more accessible to non-English speaking users, promoting music enjoyment and discovery across diverse cultures. This could lead to increased engagement within the platform overall."
     }
   ]
 }
