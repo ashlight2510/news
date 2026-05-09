@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-09T13:18:46.523Z",
+  "generatedAt": "2026-05-09T19:01:54.796Z",
   "articles": [
+    {
+      "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+      "link": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 09 May 2026 15:45:00 +0000",
+      "description": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
+      "language": "en",
+      "summary": "The article discusses the enduring appeal of analog instant photography amidst AI advancements in digital tech due to factors like nostalgia and newness.",
+      "points": [
+        "Nostalgic factor: Analog cameras offer a tactile experience that harkens back to simpler times, resisting the push towards fully automated smartphones.",
+        "Novelty aspect: The Instax Wide 400 introduces new capabilities and design improvements while maintaining its instant film essence.",
+        "Digital vs analog debate: Despite digital tech's convenience in image storage and sharing, there remains a significant market for disposable cameras."
+      ],
+      "insight": "The Instax Wide 400 reflects the resilience of traditional photography within modern technology culture. It suggests that while we progress digitally, tangible experiences like instant film capturing continue to thrive and evolve due to their unique qualities."
+    },
+    {
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 09 May 2026 14:43:30 +0000",
+      "description": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "language": "en",
+      "summary": "Nvidia has announced its commitment of $40 billion to equity-based artificial intelligence (AI) deals within this year alone.",
+      "points": [
+        "Investment in AI exceeds past trends",
+        "Focused on accelerating the development and deployment of AI technologies",
+        "Commitment reflects confidence in AI'ran industry growth"
+      ],
+      "insight": "This news emphasizes Nvidia's pivotal role within the expanding artificial intelligence sector, potentially influencing strategies for investments across other companies and startups."
+    },
     {
       "title": "[Global Security TOP 100] 김기화 시큐인포 대표이사 “운영 최적화로 음성 기반 지능형 관제”",
       "link": "http://www.boannews.com/media/view.asp?idx=143362&kind=&sub_kind=",
@@ -716,36 +746,6 @@
         "Enhancements include improved collision avoidance and pedestrian detection systems"
       ],
       "insight": "This marks a significant step in driver assistance technology, setting new standards for future automotive safety features."
-    },
-    {
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 19:57:59 +0000",
-      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "language": "en",
-      "summary": "The Perplexity personal computer, an AI-driven device for Mac users, has been released publicly.",
-      "points": [
-        "Perplexity's Personal Computer offers integrated artificial intelligence on a single portable unit designed specifically for Mac computers.",
-        "It emphasizes assisting with everyday tasks such as scheduling appointments and sending emails without the need for cloud computing dependency, offering potential privacy benefits in comparison to its competitors like Amazon’s Alexa or Google Home.",
-        "This product represents a shift towards local processing power on personal devices rather than relying heavily on internet-based AI services."
-      ],
-      "insight": "As local processing becomes increasingly important in a world concerned about privacy and internet dependency, Perplexity's Personal Computer could become a preferred choice among tech-minded individuals looking to reduce cloud reliance while maintaining AI accessibility on their Mac devices."
-    },
-    {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 19:21:21 +0000",
-      "description": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
-      "language": "en",
-      "summary": "Elon Musk's lawsuit against OpenAI has put its safety record in the spotlight as concerns about AI risk grow.",
-      "points": [
-        "Elon Musk filed a legal complaint alleging that Safety Gating, an independent organization he founded to assess risks of emerging technologies like artificial intelligence (AI), was unfairly excluded from OpenAI's safety protocol review process.",
-        "Musk argues this omission led to the unrestrained release and rapid advancement of Microsoft-owned ChatGPT, which has sparked significant debate about AI risks worldwide.",
-        "The legal action highlights a growing concern among industry experts that some tech leaders might prioritize speed or corporate interests over thorough safety assessments in the era of superintelligent machines."
-      ],
-      "insight": "Musk's lawsuit and Safety Gating could lead to increased scrutiny within the AI field, encouraging more rigorous risk evaluations before release. It may also prompt tech companies like Microsoft to reconsider their approach towards safety in developing superintelligent systems."
     }
   ]
 }
