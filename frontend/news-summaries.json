@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-09T02:46:39.769Z",
+  "generatedAt": "2026-05-09T07:56:55.768Z",
   "articles": [
+    {
+      "title": "CVE 발급보다 빠른 AI의 역추론, 길 잃은 ‘책임감 있는 공개’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143537&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 9 May 2026 12:50:00 +0900",
+      "description": "‘더티 프래그’ 사태로 본 정보 비대칭의 위협, 즉시 공개 요청한 리눅스 진영쏟아지는 AI 리포트에 메인테이너 업무 과중... 기존 보안 거버넌스 무력화[보안뉴스 조재호 기자] 리눅스 커널 취약점 ‘더티 프래그’(Dirty Frag)의 엠바고 파기를 계기로 취약점 분석 체계가 한계를 드러내고 있다. AI를 활용한 코드 분석이 보편화되면서 ‘책임감 있는 공개",
+      "language": "ko",
+      "summary": "생산성이 핵심 요소로, AI를 활용한 코드 분석이 기술에 많은 업무를 수월화시키고 있음.",
+      "points": [
+        "현재 AI가 공개된 내역에 대한 의사결정에 중요한 영향을 미치기를",
+        "보안 지원이 아니라 AI의 더불어로 인식되는 계약 사태를",
+        "보안 거리가 긤하게 살아남고, 이로써 공개 요청은 자유지착수의 운동을"
+      ],
+      "insight": "보안이 매우중요한 AI 기술에서는 변화와 피해야만 하는 현상이다. AI가 공개를 통해 인식되지 않도록 정보를 제어할 수 0가지는 아니라, 계약으로 보호하고자 한다."
+    },
     {
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
       "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
@@ -731,21 +746,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
-      "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 18:36:29 +0000",
-      "description": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
-      "language": "en",
-      "summary": "Lovable, the Stockholm-based startup focused on creating positive work environments through 'vibe coding', has decided to provide its employees with an automatic 1 end of year pay raise as a method to avoid negative corporate politics and foster better working relationships.",
-      "points": [
-        "The Lovable company's unique approach involves automating the annual salary increase process, eliminating traditional hierarchical influences on compensation decisions within an organization. This new policy is rooted in their distinctive organizational culture that emphasizes positivity and collective responsibility.",
-        "CEO Daniel Carlsson views this pay rise as a tool to dismantle long-standing workplace politics, which he believes can damage professional relationships and employee wellbeing. By implementing an automatic 10% raise for all employees annually without managerial approval or competition among staff members.",
-        "This move by Lovable has been recognized as a potentially transformative policy within corporate culture circles; it not only directly improves financial conditions but also contributes to creating healthier, more supportive work environments."
-      ],
-      "insight": "Lovable's approach could set a new standard for how businesses address internal politics and promote positive organizational cultures within the IT/technology industry. As companies become increasingly aware of these issues impacting employee morale, Lovable’s model offers an innovative way to mitigate such problems."
     }
   ]
 }
