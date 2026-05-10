@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-10T08:06:58.915Z",
+  "generatedAt": "2026-05-10T13:20:21.131Z",
   "articles": [
+    {
+      "title": "“통제 잃은 AI는 재앙” 글로벌 보안 당국, 자율형 AI 도입 가이드라인 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=143540&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 10 May 2026 17:35:00 +0900",
+      "description": "미국 CISA 및 영국 NCSC 등 주도해 자율형 인공지능 오남용 방지 안전장치 마련데이터 탈취 및 시스템 파괴 막기 위한 긴급 정지 기능 의무화 등 세부 지침 공개[보안뉴스 김형근 기자] 미국 사이버보안 및 인프라보안국(CISA)과 영국 국가사이버보안센터(NCSC)를 비롯한 주요국 사이버 보안 기관들이 자율형 인공지능(Agentic AI) 도입을 위한 새",
+      "language": "ko",
+      "summary": "주제가 자율형 AI의 인사이시카 도입 대상이다.",
+      "points": [
+        "CISA, NCSC 등이 자동화된 보안없음을 줄이기 위해 Agentic AI를 도약",
+        "- 주제가 인공지능의 이전과는 차이가 크다.",
+        "- 자율형 AI를 도임시, 보안없이도 보호하고자 한다."
+      ],
+      "insight": "여러 주간의 정리보안 기사는 Agentic AI의 도약으로 인공지능이 보안없이도 보호하고자 한다."
+    },
+    {
+      "title": "[이슈 칼럼] 가정의 달에 제언하는 대한민국 보안의 ‘성인식’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143534&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 10 May 2026 17:35:00 +0900",
+      "description": "규제의 역설을 넘어, 레질리언스와 자율적 책임의 시대로[보안뉴스= 김정덕 중앙대 산업보안학과 명예교수/인간중심보안포럼 의장] 5월은 가정의 달로서 어린이날(5일)과 성년의 날(18일)이 공존하는 시기입니다. 어린이날이 보호자의 세심한 보살핌과 안전을 기원하는 날이라면, 성년의 날은 사회적 주체로서의 권리와 그에 따르는 무거운 책임을 자각하는 날입니다. 현재",
+      "language": "ko",
+      "summary": "규제의 역설을 넘어, 레질리언스와 자율적 책임의 시대로[보안뉴스= 김정덕 중앙대 산업보안학과 명예교수/인간중심보안포럼 의장] 5월은 가정의 달로서 어린이날(5일)과 성년의 날(18일)이 공존하는 시기입니다. 어린이날이 보호자의 세심한 보살핌과 안전을 기원하는 날이라면, 성년의 날은 사회적 주체로서의 권리와 그에 따르는 무거운 책임을 자각하는 날입니다",
+      "points": [
+        "규제의 역설을 넘어, 레질리언스와 자율적 책임의 시대로[보안뉴스= 김정덕 중앙대 산업보안학과 명예교수/인간중심보안포럼 의장] 5월은 가정의 달로서 어린이날(5일)과 성년의 날(18...",
+        "어린이날이 보호자의 세심한 보살핌과 안전을 기원하는 날이라면, 성년의 날은 사회적 주체로서의 권리와 그에 따르는 무거운 책임을 자각하는 날입니다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -720,36 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 22:24:50 +0000",
-      "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "language": "en",
-      "summary": "OpenAI has introduced updated voice intelligence capabilities to its API suite aimed at enhancing customer service systems while also finding use in educational settings and creator ecosystems.",
-      "points": [
-        "New advanced speech recognition features improve accuracy for complex queries.",
-        "Personalized tutor bots using OpenAI'CTRL can assist students with homework questions, adapting to individual learning paces.",
-        "Creative industries leverage the technology for AI-driven content generation and personalization."
-      ],
-      "insight": "The introduction of voice intelligence features by OpenAI is likely to revolutionize customer service interactions while enriching educational experiences through adaptive assistance, as well as fostering innovation in creative industries with automated AI-driven content generation and personalization."
-    },
-    {
-      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-      "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 21:49:24 +0000",
-      "description": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
-      "language": "en",
-      "summary": "Kodiak AI announced raising $100 million at steep discounts which caused its stock to fall by 37%. The company also made new contract announcterm along with a Canadian pilot program and collaboration details.",
-      "points": [
-        "Raised $100M funding from investors, leading to significant stock price drop",
-        "Secured commercial contracts for AI technology deployment in various sectors",
-        "Expanded operations into Canada with a new pilot program and collaboration"
-      ],
-      "insight": "This article highlights Kodiak'AI’s growth strategy by diversifying its application of AI through strategic partnerships, commercial contracts, and geographical expansion. However, the substantial funding discount has negatively affected investor sentiment."
     }
   ]
 }
