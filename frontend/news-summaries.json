@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-05-10T13:20:21.131Z",
+  "generatedAt": "2026-05-10T19:07:25.580Z",
   "articles": [
+    {
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+      "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 10 May 2026 18:08:54 +0000",
+      "description": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
+      "language": "en",
+      "summary": "Uber has been aiming to extend its influence in various technology sectors including autonomous vehicles (AVs), data provision, investment, and distribution platforms.",
+      "points": [
+        "In January Uber made a significant $500 million equity bet on Zoox as an 'anchor company' for ride-hailing within the AV industry.",
+        "The move represents about one-sixth of its valuation but is seen as strategic, given potential future dominance in self-driving technology transport services due to its vast resources and experience in managing a global network of drivers.",
+        "Uber also invested $40 million earlier this year into Aurora Innovation which focuses on developing autonomous vehicle systems."
+      ],
+      "insight": "This news signifies Uber's proactive approach to remain relevant and competitive in the rapidly evolving AV sector, leveraging its expertise and resources as it anticipates future shifts towards automated transport services."
+    },
+    {
+      "title": "TechCrunch Mobility: Lime’s IPO gamble",
+      "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 10 May 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "language": "en",
+      "summary": "Lime has gone public with an IPO that could redefine its role in urban mobility services.",
+      "points": [
+        "- Lime's electric scooter sharing service is expanding post-IPO, indicating confidence in the growing demand for micromobility options as part of smart city initiatives.",
+        "- Investor interest appears high despite concerns over safety and regulatory challenges faced by peer companies like Bird Rides.",
+        "- Lime'seregulatory strategy seems proactive with efforts to navigate changing laws, which may set a precedent for other mobility services operating under varying regional regulations."
+      ],
+      "insight": "Lime’s IPO could signal the industry that despite regulatory and safety challenges, there is sufficient market confidence in micro-mobility solutions as an integral component of future urban transportation systems. Their ability to adapt their business model within different legal frameworks might influence broader strategic approaches across similar companies."
+    },
+    {
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 10 May 2026 15:34:25 +0000",
+      "description": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "language": "en",
+      "summary": "The article discusses concerns surrounding OpenAI's partnership with anthropomorphic AI firm Anthropic and the potential implications for Elon Musk' extraterrestrial company SpaceX.",
+      "points": [
+        "Elon Musk has invested in a new open-source artificial intelligence project called LLaMA, developed by Meta Platforms (formerly known as Facebook).",
+        "In response to this development and amid criticisms of OpenAI's approach towards AI safety, Elon Musk announced his own initiative - an alternative for generative models that are designed with ethical considerations.",
+        "Meta CEO Mark Zuckerberg defended the LLaMA project as a way forward while addressing misconceptions about its training methodology."
+      ],
+      "insight": "The developments in AI safety and model alternatives could lead to more responsible development of generative models, ensuring that they align with human values and ethical considerations. This may influence the way tech companies approach future advancements in artificial intelligence."
+    },
+    {
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 10 May 2026 15:13:07 +0000",
+      "description": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+      "language": "en",
+      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor",
+      "points": [
+        "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "“통제 잃은 AI는 재앙” 글로벌 보안 당국, 자율형 AI 도입 가이드라인 발표",
       "link": "http://www.boannews.com/media/view.asp?idx=143540&kind=&sub_kind=",
@@ -690,66 +750,6 @@
         "안전 시스템화에 대한 광범위한 전시 개설을 마케팅합니다."
       ],
       "insight": "이러한 보안 전시는 사용자의 정보와 인터넷 연결성증가에 따라 IT 엔지니어맹에서의 중화으로써 최신 보안 입문을 제공하여, 사용자의 인생이 전환하는 시기적인 새로운 질의를 가진다."
-    },
-    {
-      "title": "[테크톡톡] 지능형 영상분석, ‘AI’가 먼저 찾고 ‘상황’까지 판단한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143393&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 8 May 2026 11:02:00 +0900",
-      "description": "CCTV 관제, ‘실시간 수색·판단 플랫폼’으로 진화[보안뉴스= 강왕재 렉스젠 기술 연구소 소장] 지능형 영상분석 시장은 지금 빠르게 재편되고 있다. 과거 CCTV는 단순 기록과 사후 확인을 위한 수단에 머물렀지만, 최근에는 AI 기술을 기반으로 위험을 사전에 감지하고 상황을 분석하는 능동형 시스템으로 전환되고 있다. 단순 영상 저장 장비에서 벗어나, 의미",
-      "language": "ko",
-      "summary": "CCTV 관제, ‘실시간 수색·판단 플랫폼’으로 진화[보안뉴스= 강왕재 렉스젠 기술 연구소 소장] 지능형 영상분석 시장은 지금 빠르게 재편되고 있다. 과거 CCTV는 단순 기록과 사후 확인을 위한 수단에 머물렀지만, 최근에는 AI 기술을 기반으로 위험을 사전에 감지하고 상황을 분석하는 능동형 시스템으로 전환되고 있다...",
-      "points": [
-        "CCTV 관제, ‘실시간 수색·판단 플랫폼’으로 진화[보안뉴스= 강왕재 렉스젠 기술 연구소 소장] 지능형 영상분석 시장은 지금 빠르게 재편되고 있다",
-        "과거 CCTV는 단순 기록과 사후 확인을 위한 수단에 머물렀지만, 최근에는 AI 기술을 기반으로 위험을 사전에 감지하고 상황을 분석하는 능동형 시스템으로 전환되고 있다",
-        "단순 영상 저장 장비에서 벗어나, 의미"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "부천시, CCTV 1만여대 통합 관리하며 스마트도시 기반 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143521&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 8 May 2026 10:30:00 +0900",
-      "description": "상황판·영상분석 운영관리 S/W 도입으로 도시 상황 관리 및 부정주차 검출 기능 고도화BEMS 연계 건물관리플랫폼 구축 통해 에너지 사용량 실시간 모니터링 기반 마련[보안뉴스 강초희 기자] 부천시(시장 조용익)는 스마트도시 통합운영센터 기반시설 정보화 사업을 완료하고 5월 7일 스마트비전룸에서 준공보고회를 열었다.이번 사업은 CCTV 1만1000여대를 하나",
-      "language": "ko",
-      "summary": "부천시는 CCTV를 통해 IT/기술을 이용한 도시 관리 및 에너지 사용을 고안하고 있다.",
-      "points": [
-        "부천시는 CCTV 1만1000여대를 기반으로 IT/기술을 통합운영센터에서 구축한 도시 관리 시스템을 개발하고",
-        "이 시스템은 보안, 물과 자동차의 제어, 공지설정, 방문자 기록 등을 포함한다.",
-        "마련도 시설이 에너지 사용량과 보안 지침을 모니터링하고 효율적인 소비, 리바R팩 관리를 수월하게 제공한다."
-      ],
-      "insight": "이러한 IT/기술을 통한 도시 관리 시스템은 현지 위치와 시각에 의ings로 시스템이 주요한 시나리오를 제공하며, 도시 광단과 보안을 강화할 수 있다."
-    },
-    {
-      "title": "사천시, 센서형 태양광 LED 주소정보시설물 구축 완료",
-      "link": "http://www.boannews.com/media/view.asp?idx=143520&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 8 May 2026 10:28:00 +0900",
-      "description": "태양광 충전·동작 감지 센서를 적용해 전력 소모를 줄이면서 야간 시인성 강화조도 부족 지역과 CCTV 설치 구간 중심으로 배치... 긴급상황 위치 확인 지원 및 안전사고 예방 기대[보안뉴스 강초희 기자] 사천시(시장 박동식)는 시민들의 야간 보행 안전을 강화하고 주소정보 이용 편의를 높이기 위해 ‘센서형 태양광 LED 주소정보시설물’ 설치를 완료했다고 7일",
-      "language": "ko",
-      "summary": "사천시는 LED 주소정보시설물을 이용한 태양광 LED 설치를 기원한 것으로, 야간 보호를 강화하고 주소정보 사용 개선을 목표로 한국어로 요약",
-      "points": [
-        "- LED 주소정보시설물을 이용한 태양광 LED 설치 기원 (즉, 공급)",
-        "- 야간 보호 강화",
-        "- 주소정보 사용 개선 목표"
-      ],
-      "insight": "이 기사는 사천시의 LED 주소정보시설물을 이용한 태양광 LED 구축 확인에 대해 한국어로 논리적으로 요약되어 있습니다."
-    },
-    {
-      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-      "link": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 07 May 2026 23:11:43 +0000",
-      "description": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
-      "language": "en",
-      "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion",
-      "points": [
-        "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more th...",
-        "It last raised in November at $32 billion",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
