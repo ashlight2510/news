@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-05-11T10:11:17.544Z",
+  "generatedAt": "2026-05-11T14:51:39.199Z",
   "articles": [
+    {
+      "title": "NYT’s Wordle to become a TV game show",
+      "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 11 May 2026 14:23:25 +0000",
+      "description": "The popular mobile puzzle game will become a TV game show next year.",
+      "language": "en",
+      "summary": "Next year, the NYT's Wordle-like mobile app is set to transform into a televised game show.",
+      "points": [
+        "A popular New York Times mobile puzzle game will turn into a TV competition next year",
+        "The format of the new version remains similar but with added elements for viewer engagement and interaction",
+        "Experts predict an increase in public interest towards word games as more people participate"
+      ],
+      "insight": "This news indicates that popular digital entertainment formats are increasingly being adapted into traditional media to reach wider audiences."
+    },
+    {
+      "title": "TikTok launches an ad-free subscription plan in the UK",
+      "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 11 May 2026 14:05:47 +0000",
+      "description": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
+      "language": "en",
+      "summary": "TikTok has launched an ad-free subscription service in the UK market that removes all non-video content from users' feeds and ensures privacy by not using data for advertising.",
+      "points": [
+        "The new TikTok ad-free plan provides a premium experience without video thumbnails or other non-video elements on user feeds.",
+        "With this subscription, personal information of UK users will no longer be used to serve targeted advertisements within the app.",
+        "As part of its commitment to privacy and ad transparency in Europe's stringent data protection regulations."
+      ],
+      "insight": "The introduction of an ad-free plan on TikTok signals a strategic shift towards user experience personalization while complying with European Union digital advertising laws. This could influence other social platforms to adopt similar privacy and content policies for competitive advantage in the market."
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+      "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "language": "en",
+      "summary": "Cowboy Space is raising $275 million for space-based data center construction after realizing that insufficient rocket supply stands in their way.",
+      "points": [
+        "Startup Cowboy Space Corporation has raised a substantial fund of $275 million to overcome the issue of limited availability of rockets necessary for transporting and installing offsite-built data centers into orbit.",
+        "The founders believe that by creating their own space infrastructure, they can address gaps in global connectivity, especially focusing on areas like Africa where internet access is a significant challenge.",
+        "Cowboy Space plans to develop these orbital data centers which would not only serve as cloud computing hubs but also aim at enabling remote work and education from space."
+      ],
+      "insight": "The Cowboy Space venture represents an innovative approach within the IT industry by creating a solution for global internet connectivity through orbiting data centers, potentially transforming access to information in underserved regions of Earth. This could set new precedents and challenges regarding space infrastructure's role beyond communication."
+    },
+    {
+      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
+      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+      "description": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.",
+      "language": "en",
+      "summary": "Discord has introduced the Nitro Rewards program granting subscribers access to Xbox Game Pass for free as part of their subscription without any additional cost.",
+      "points": [
+        "The core benefit is that Discord'ner, upon upgrading from Light or Free plan and having a verified payment method linked with an existing Microsoft account (excluding the need for signing up), can access Xbox Game Pass at no extra charge. This includes games such as Call of Duty Warzone 2.",
+        "This is Discord's first official rewards program, aimed to provide added value and incentivize users by rewarding their engagement with the platform through game subscriptions.",
+        "The new plan also offers discounts on popular gaming accessories from Logitech (like X720 Gaming Mouse) as well as custom SteelSeries Keyboards, enhancing overall user experience and promoting cross-platform interaction between Discord & Microsoft ecosystem"
+      ],
+      "insight": "This move indicates the potential convergence of social media platforms with gaming experiences by providing access to popular online game services like Xbox Game Pass. It can potentially enhance community engagement, increase user retention for both Dis-cord and its partners while expanding Microsoft's customer base across different digital communities."
+    },
+    {
+      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
+      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 11 May 2026 12:00:00 +0000",
+      "description": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
+      "language": "en",
+      "summary": "PayPal is planning to restructure by creating Venmo as an independent business unit before considering a possible sale of the service.",
+      "points": [
+        "Venmo' endorsement in customer decisions, particularly for social purposes such as splitting bills among friends or paying homage at restaurants."
+      ],
+      "insight": "The strategic move by PayPal to potentially sell Venmo could be a result of the platform gaining popularity and might influence competitors like Stripe in their market positioning, although this does not guarantee an immediate sale or transaction between these companies."
+    },
+    {
+      "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+      "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 11 May 2026 10:58:00 +0000",
+      "description": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
+      "language": "en",
+      "summary": "Korea's leading manufacturers have invested in Config, an ambitious tech company aiming to become the central hub for all things robotics by processing and managing data related to robots.",
+      "points": [
+        "Samsung Electronics has made a significant investment into Korean startup Config which seeks to be at the heart of the burgeoning 'Industrial Internet of Things' (IIoT) in Asia, providing big manufacturers like Samsung with essential data processing capabilities.",
+        "Hyundai and LG are also among Korea’s largest companies that have shown support for Config. The startup aims to gather vast amounts of robot-related information from various industries such as automotive, logistics services, medical equipment manufacturing and service providers, aiming at becoming the primary data processor in Asia.",
+        "Config is working on technology with strong similarities between sensors that produce industrial big data within robots to smart machines used across different sectors. Their goal includes developing advanced algorithms for processing this information."
+      ],
+      "insight": "The backing of major Korean manufacturers such as Samsung, Hyundai and LG into Config suggests a substantial shift towards embracing the 'Industrial Internet of Things' (IIoT) in Asia. It indicates that these companies are likely to experience increased efficiency through advanced data processing systems."
+    },
     {
       "title": "[한국정보공학기술사 보안을 論하다-38] AI 거버넌스, 보안과 함께 작동해야 한다",
       "link": "http://www.boannews.com/media/view.asp?idx=143566&kind=&sub_kind=",
@@ -660,96 +748,6 @@
         "CEO Matthew Prince has indicated the role of AI in streamlining CloudFlare's processes to a point where fewer human resources are required."
       ],
       "insight": "The news indicates a trend within IT industries towards increased automation with AI technologies, potentially leading to significant job displacement despite revenue growth. This shift could prompt companies and the industry at large to adapt strategies for workforce management in response to these efficiency gains."
-    },
-    {
-      "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
-      "link": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 08 May 2026 18:25:29 +0000",
-      "description": "More than 500 people will be affected by the closures.",
-      "language": "en",
-      "summary": "Porsche is shutting down its e-bike subsidiary along with a battery and software division as part of an extensive company restructuring.",
-      "points": [
-        "The Porsche Group, known for high-performance sports cars like the Cayenne SUV and Taycan electric vehicle, is expanding into mobility services.",
-        "More than 500 employees in Germany will lose their jobs as a result of these closures.",
-        "The restructuring efforts aim to consolidate Porsche' extramural business units under one entity."
-      ],
-      "insight": "This move signifies the automotive industry's pivot towards sustainable mobility options, as traditional car manufacturers are integrating and expanding into electric vehicles (EVs), battery technology, and related software solutions to stay competitive in a changing market."
-    },
-    {
-      "title": "Mother Ventures is looking at moms as the ‘economic engine’",
-      "link": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 08 May 2026 17:46:08 +0000",
-      "description": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
-      "language": "en",
-      "summary": "Mother Ventures, an investment firm focusing on the purchasing power of moms (MPOs), has successfully closed its inaugural fund aimed at empowering MPOs as economic drivers through technology and innovation.",
-      "points": [
-        "The VC firm Mother Ventures focuses exclusively on mothers, considered to be major consumers in the economy",
-        "Mother Ventures raised a $1 endowment of $10 million for investments targeting moms as economic engines with their purchasing power.",
-        "This fund is aimed at empowering MPOs through technology and innovation, which could lead to transformative changes in the retail sector."
-      ],
-      "insight": "The Mother Ventures initiative recognizes mothers as significant consumers who can drive economic growth when given access to targeted investments. As more firms focus on specific demographic segments like moms, we could see tailored technological solutions and innovations that address the unique needs of these influential consumer groups in IT/technology industries."
-    },
-    {
-      "title": "Uber partner Avride is under investigation for self-driving crashes",
-      "link": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 08 May 2026 17:33:46 +0000",
-      "description": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
-      "language": "en",
-      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
-      "link": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 08 May 2026 17:20:37 +0000",
-      "description": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
-      "language": "en",
-      "summary": "Poland's intelligence agency reported Russian state-linked actors conducted cyberattacks on Poland's water treatment plants as well as various public institutions such as the electricity grid and transportation system.",
-      "points": [
-        "Report by Polish intelligence accuses Russia of sabotage activities targeting infrastructure",
-        "Saboteurs allegedly gained access to key civilian systems using a combination of malware, social engineering, phishing attacks, as well as exploiting known vulnerabilities and Zero-Day flaws.",
-        "Polish authorities have temporarily suspended the Russian programme Squall while investigations continue"
-      ],
-      "insight": "The reported cyberattacks against Poland's water treatment plants underscore a growing threat to essential services worldwide, raising concerns for national security and emphasizing urgent need for robust IT defense measures."
-    },
-    {
-      "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
-      "link": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 08 May 2026 16:43:19 +0000",
-      "description": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
-      "language": "en",
-      "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1. 3 million to a Russian broker that works with Putin’s government",
-      "points": [
-        "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold ...",
-        "3 million to a Russian broker that works with Putin’s government",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Pentagon releases UFO files on new website",
-      "link": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 08 May 2026 15:56:36 +0000",
-      "description": "The initial set of files housed on the site will include those containing unidentified anomalous phenomena (UAP) videos, photos, and original source documents from across the entire U.S. government. The materials have been reviewed for security purposes, but many have \"not yet been analyzed for resolution of any anomalies,\" the Department's statement read.",
-      "language": "en",
-      "summary": "The Pentagon has launched a website to publicly release files on unidentified aerial phenomena (UAP), also known as UFO sightings or encounters.",
-      "points": [
-        "Pentagon launches new website with first set of UFO-related videos, photos and documents",
-        "Materials reviewed for security but many not analyzed yet to resolve anomalies reported in the content",
-        "The release is a significant shift towards transparency as all 47 departments have agreed on releasing relevant materials"
-      ],
-      "insight": "This move by the Pentagon represents an important step toward addressing public interest and curiosity about UFO sightings while maintaining national security."
     }
   ]
 }
