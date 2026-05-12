@@ -1,6 +1,286 @@
 {
-  "generatedAt": "2026-05-12T14:31:51.964Z",
+  "generatedAt": "2026-05-12T20:08:42.729Z",
   "articles": [
+    {
+      "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 18:45:05 +0000",
+      "description": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
+      "language": "en",
+      "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III",
+      "points": [
+        "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 18:14:58 +0000",
+      "description": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+      "language": "en",
+      "summary": "Former Tesla executive and current Heron Power CEO Drew Baglino has started a heat pump technology company named Sadi Thermal Machines after leaving his previous roles.",
+      "points": [
+        "Drew Baglino founded the startup, Sadi Thermal Machines.",
+        "The new venture is focused on innovative heating and cooling solutions using heat pumps.",
+        "Baglino's experience in Tesla’s energy division has significantly contributed to his current entrepreneurial journey. "
+      ],
+      "insight": "Drew Baglino's transition from the electric vehicle market at a major company like Tesla into an emerging and alternative heating technology indicates growing interest within tech industries towards sustainable solutions."
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 18:05:15 +0000",
+      "description": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "language": "en",
+      "summary": "Elon Musk considered transferring OpenAI to his children after discussing AI risks with CEO Sam Altman.",
+      "points": [
+        "During a conversation about the dangers of artificial intelligence, Elon Musk expressed concerns that led him to consider entrusting OpenAI to his offspring as heirs apparent."
+      ],
+      "insight": "This event suggests potential changes in leadership and future direction for one of AI's leading entities, with implications beyond the organization itself into broader tech industry governance norms."
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:36:34 +0000",
+      "description": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+      "language": "en",
+      "summary": "Anthropic warns investors against secondary platforms offering unautclated share trading opportunities.",
+      "points": [
+        "The company has identified several unregulated entities that claim to offer access to Anthropi's shares",
+        "These platforms include Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive among others"
+      ],
+      "insight": "The warning emphasizes the need for investor vigilance and reliance on authorized channels to avoid potential fraudulent schemes."
+    },
+    {
+      "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+      "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:33:29 +0000",
+      "description": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+      "language": "en",
+      "summary": "Samsara uses artificial intelligence alongside trucks for efficient identification and prioritization of varying types of road damages such as potholes.",
+      "points": [
+        "Samsara has created an AI model to identify various potholes, evaluating their deterioration speed which helps in planning repairs more efficiently.",
+        "Using cameras on Samsara'curbed trucks allows for real-time damage assessment and prioritization while the fleet is actively patrolling streets.",
+        "The AI system assists city departments to focus resources effectively, potentially saving millions in road repair costs."
+      ],
+      "insight": "Samsara's approach demonstrates how technology can optimize infrastructure maintenance within limited budgets and could influence public sector practices for asset management globally."
+    },
+    {
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:30:57 +0000",
+      "description": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+      "language": "en",
+      "summary": "Google and SpaceX are exploring partnerships to establish data centers in orbit with a focus on artificial intelligence computing.",
+      "points": [
+        "Space-based data centers could become the future for AI compute despite current high costs compared to ground facilities.",
+        "Google is actively seeking cost savings and performance improvements by potentially moving its infrastructure into space through partnership with SpaceX or other companies like Lockheed Martin or Airbus Defence & Space.",
+        "Key benefits of orbit data centers include faster computation times for big AI projects, better temperature regulation due to the cold vacuum environment in space."
+      ],
+      "insight": "The endeavor by Google and partners to build data centers in space could revolutionize access to high-performance computing resources while challenging current cost structures within IT industries."
+    },
+    {
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:01:00 +0000",
+      "description": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+      "language": "en",
+      "summary": "Google announced several new AI and personalization features at its Android Show event including Googlebooks laptops, Gemini-based functionalities, vibe-coded widgets, integration of the feature in Chrome browser via an extension called 'Gemini', as well as refreshed versions for Android Auto.",
+      "points": [
+        "Google unveiled AI-first laptop named Googlebooks with personalized features like agentic Gemini and language learning tailored to user preferences",
+        "The new laptops have a focus on privacy, allowing users full control over their data without third-party interference.",
+        "Google introduced vibe-coded widgets that change appearance based on the time of day or weather conditions."
+      ],
+      "insight": "This news signifies Google' endorsement for AI as a core technology, pushing personalized computing experiences while emphasizing user privacy and seamless integration across different devices in their ecosystem. The addition of vibe-coded widgets reflects the company’s commitment to integrating everyday life with digital convenience."
+    },
+    {
+      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+      "language": "en",
+      "summary": "Anthropic announces a new range of tools for the AI legal services market.",
+      "points": [
+        "AI startup Anthropic is entering the growing field of artificial intelligence in law",
+        "The company's suite will assist with various tasks within law firms, including contract analysis and drafting",
+        "Anthropic plans to scale its offerings globally"
+      ],
+      "insight": "This move by Anthropic signifies the rapid adoption of AI in professional services sectors like legal practice."
+    },
+    {
+      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+      "language": "en",
+      "summary": "Google has launched a new transcription feature on its Gboard app powered by Gemini AI that could impact dictation startup businesses.",
+      "points": [
+        "Gemini-powered dictation features will be initially available for Samsung Galaxy and Google Pixel phones with Google Duplex updates.",
+        "This feature is expected to expand across all Android devices in the coming months, including Windows Phone hardware.",
+        "The integration of AI into messaging apps could significantly disrupt traditional speech-to-text services."
+      ],
+      "insight": "Google's new dictation service using AI threatens existing businesses in the dictation startup industry and exemplifies how technology can rapidly evolve to deliver personalized experiences directly within commonly used applications, potentially setting a standard for future tech developments across various platforms."
+    },
+    {
+      "title": "Android adds a feature to stop you from doomscrolling",
+      "link": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
+      "language": "en",
+      "summary": "The article discusses Google's introduction of a new Android feature called Pause Point aimed at reducing compulsive app usage by delaying the opening time.",
+      "points": [
+        "Google introduces 'Pause Point,' an iOS-like system for Android to stop doomscrolling",
+        "Newly released on October 12, with updates arriving monthly starting in November through April of next year",
+        "Functionality available via Google Play Store's free PausePoint app"
+      ],
+      "insight": "The introduction of the 'Pause Point' feature by Android signals a growing acknowledgment within tech companies about digital addiction issues and their willingness to incorporate features that promote healthier device usage habits."
+    },
+    {
+      "title": "Google unveils Googlebooks, a new line of AI-native laptops",
+      "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
+      "language": "en",
+      "summary": "Google is introducing a new line of AI-native laptops called Googlebooks this fall that are designed specifically with 'Gemini Intelligence' to provide personalized and proactive assistance.",
+      "points": [
+        "Googlebooks, powered by Gemini Intelligence technology, represent the first generation of laptops built from scratch for AI integration",
+        "The new line is set to launch in the fall with a focus on providing users with tailored help and enhancing productivity through advanced features.",
+        "Gemini Intelligence will enable Googlebooks to understand user needs, anticipate requirements, and proactively offer assistance."
+      ],
+      "insight": "The introduction of AI-native laptops like Googlebooks signifies a shift towards more personalized computing experiences. This could lead to new standards in laptop design that emphasize artificial intelligence for improved productivity and user engagement within the IT industry."
+    },
+    {
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
+      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.",
+      "language": "en",
+      "summary": "Google introduces 'Create My Widget' for Galaxy and Pixel phone users to design their own widgets using HTML/CSS.",
+      "points": [
+        "The new feature allows vibrant customization of live updates on home screens."
+      ],
+      "insight": "This news propels the trend towards personalized user experiences in smartphones, potentially influencing future design choices for mobile platforms and apps within the IT industry."
+    },
+    {
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "language": "en",
+      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "points": [
+        "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google launches new Android security feature to help uncover spyware attacks",
+      "link": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
+      "description": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
+      "language": "en",
+      "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Indigo brings the open social web to one app",
+      "link": "https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 16:46:03 +0000",
+      "description": "Indigo's new social app lets you cross-post to the open social web, including Mastodon and Bluesky, and browse a unified timeline.",
+      "language": "en",
+      "summary": "The article discusses Indigo's new app that integrates with the open social web platforms like Mastodon and Bluesky while providing users an option to browse a unified timeline across these services.",
+      "points": [
+        "Indigo introduces 'Beyond Blue,' its first standalone social media platform designed for professionals, which is built on Twitter's open API but with enhanced privacy controls and content sharing capabilities tailored to the needs of businesses.",
+        "'Rocket Chat', a secure communication tool that allows live chat sessions within teams using end-to end encryption. The app supports voice and video calls in addition to text messaging, offers integration with third-party apps like Slack via plugins/webhooks.,",
+        "The company behind the social media platform 'Talos' shut down operations but continued development for another year under a new entity called Lift Social before eventually ceasing activity and dissolving."
+      ],
+      "insight": "This news demonstrates how technology companies are developing unique communication tools designed specifically to cater to various user needs, such as business professionals requiring privacy or secure team interactions. However, the lifespan of social media platforms can be unpredictable with many struggling and shutting down."
+    },
+    {
+      "title": "US bank discloses security lapse after sharing customer data with AI app",
+      "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 16:36:44 +0000",
+      "description": "Community Bank, which operates in Pennsylvania, Ohio, and West Virginia, disclosed a cybersecurity incident that exposed customers’ names, dates of birth, and Social Security numbers.",
+      "language": "en",
+      "summary": "Community Bank experienced a data breach where customer personal information such as names, DOBs, and SSNs were exposed after sharing the data with an AI application.",
+      "points": [
+        "US bank Community Bank disclosed exposure of sensitive customer details following cybersecurity incident",
+        "Personal identifiable information (PII) including full names, dates of birth, Social Security numbers shared unintentionally",
+        "The breach was linked to the sharing of data with an AI application that did not adecurately protect customer privacy"
+      ],
+      "insight": "This incident raises concerns about how banks share and secure sensitive information when integrating third-party applications, potentially affecting trust in digital financial services."
+    },
+    {
+      "title": "Threads tests a Meta AI integration that works similarly to Grok",
+      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 16:34:36 +0000",
+      "description": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+      "language": "en",
+      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+      "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 15:07:37 +0000",
+      "description": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
+      "language": "en",
+      "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million",
+      "points": [
+        "The round valued the three-year-old startup at $725 million",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Waymo issues recall to deal with a flooding problem",
+      "link": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 12 May 2026 14:47:17 +0000",
+      "description": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
+      "language": "en",
+      "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works",
+      "points": [
+        "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas",
+        "A \"final remedy\" is in the works",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Instructure strikes deal with hackers who breached it twice",
       "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
@@ -465,289 +745,6 @@
         "Ahuja's hiring reflects the importance of strong financial leadership for Redwood Materials as it continues its mission."
       ],
       "insight": "Deepak Ahuja's perspective on timing and focus highlights a careful approach by Redwood Materials towards growth while considering environmental impact, which could influence investor confidence in their long-term vision within the EV battery recycling sector."
-    },
-    {
-      "title": "NYT’s Wordle to become a TV game show",
-      "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 11 May 2026 14:23:25 +0000",
-      "description": "The popular mobile puzzle game will become a TV game show next year.",
-      "language": "en",
-      "summary": "Next year, the NYT's Wordle-like mobile app is set to transform into a televised game show.",
-      "points": [
-        "A popular New York Times mobile puzzle game will turn into a TV competition next year",
-        "The format of the new version remains similar but with added elements for viewer engagement and interaction",
-        "Experts predict an increase in public interest towards word games as more people participate"
-      ],
-      "insight": "This news indicates that popular digital entertainment formats are increasingly being adapted into traditional media to reach wider audiences."
-    },
-    {
-      "title": "TikTok launches an ad-free subscription plan in the UK",
-      "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 11 May 2026 14:05:47 +0000",
-      "description": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
-      "language": "en",
-      "summary": "TikTok has launched an ad-free subscription service in the UK market that removes all non-video content from users' feeds and ensures privacy by not using data for advertising.",
-      "points": [
-        "The new TikTok ad-free plan provides a premium experience without video thumbnails or other non-video elements on user feeds.",
-        "With this subscription, personal information of UK users will no longer be used to serve targeted advertisements within the app.",
-        "As part of its commitment to privacy and ad transparency in Europe's stringent data protection regulations."
-      ],
-      "insight": "The introduction of an ad-free plan on TikTok signals a strategic shift towards user experience personalization while complying with European Union digital advertising laws. This could influence other social platforms to adopt similar privacy and content policies for competitive advantage in the market."
-    },
-    {
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
-      "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-      "language": "en",
-      "summary": "Cowboy Space is raising $275 million for space-based data center construction after realizing that insufficient rocket supply stands in their way.",
-      "points": [
-        "Startup Cowboy Space Corporation has raised a substantial fund of $275 million to overcome the issue of limited availability of rockets necessary for transporting and installing offsite-built data centers into orbit.",
-        "The founders believe that by creating their own space infrastructure, they can address gaps in global connectivity, especially focusing on areas like Africa where internet access is a significant challenge.",
-        "Cowboy Space plans to develop these orbital data centers which would not only serve as cloud computing hubs but also aim at enabling remote work and education from space."
-      ],
-      "insight": "The Cowboy Space venture represents an innovative approach within the IT industry by creating a solution for global internet connectivity through orbiting data centers, potentially transforming access to information in underserved regions of Earth. This could set new precedents and challenges regarding space infrastructure's role beyond communication."
-    },
-    {
-      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
-      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
-      "description": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.",
-      "language": "en",
-      "summary": "Discord has introduced the Nitro Rewards program granting subscribers access to Xbox Game Pass for free as part of their subscription without any additional cost.",
-      "points": [
-        "The core benefit is that Discord'ner, upon upgrading from Light or Free plan and having a verified payment method linked with an existing Microsoft account (excluding the need for signing up), can access Xbox Game Pass at no extra charge. This includes games such as Call of Duty Warzone 2.",
-        "This is Discord's first official rewards program, aimed to provide added value and incentivize users by rewarding their engagement with the platform through game subscriptions.",
-        "The new plan also offers discounts on popular gaming accessories from Logitech (like X720 Gaming Mouse) as well as custom SteelSeries Keyboards, enhancing overall user experience and promoting cross-platform interaction between Discord & Microsoft ecosystem"
-      ],
-      "insight": "This move indicates the potential convergence of social media platforms with gaming experiences by providing access to popular online game services like Xbox Game Pass. It can potentially enhance community engagement, increase user retention for both Dis-cord and its partners while expanding Microsoft's customer base across different digital communities."
-    },
-    {
-      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
-      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 11 May 2026 12:00:00 +0000",
-      "description": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
-      "language": "en",
-      "summary": "PayPal is planning to restructure by creating Venmo as an independent business unit before considering a possible sale of the service.",
-      "points": [
-        "Venmo' endorsement in customer decisions, particularly for social purposes such as splitting bills among friends or paying homage at restaurants."
-      ],
-      "insight": "The strategic move by PayPal to potentially sell Venmo could be a result of the platform gaining popularity and might influence competitors like Stripe in their market positioning, although this does not guarantee an immediate sale or transaction between these companies."
-    },
-    {
-      "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
-      "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 11 May 2026 10:58:00 +0000",
-      "description": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
-      "language": "en",
-      "summary": "Korea's leading manufacturers have invested in Config, an ambitious tech company aiming to become the central hub for all things robotics by processing and managing data related to robots.",
-      "points": [
-        "Samsung Electronics has made a significant investment into Korean startup Config which seeks to be at the heart of the burgeoning 'Industrial Internet of Things' (IIoT) in Asia, providing big manufacturers like Samsung with essential data processing capabilities.",
-        "Hyundai and LG are also among Korea’s largest companies that have shown support for Config. The startup aims to gather vast amounts of robot-related information from various industries such as automotive, logistics services, medical equipment manufacturing and service providers, aiming at becoming the primary data processor in Asia.",
-        "Config is working on technology with strong similarities between sensors that produce industrial big data within robots to smart machines used across different sectors. Their goal includes developing advanced algorithms for processing this information."
-      ],
-      "insight": "The backing of major Korean manufacturers such as Samsung, Hyundai and LG into Config suggests a substantial shift towards embracing the 'Industrial Internet of Things' (IIoT) in Asia. It indicates that these companies are likely to experience increased efficiency through advanced data processing systems."
-    },
-    {
-      "title": "[한국정보공학기술사 보안을 論하다-38] AI 거버넌스, 보안과 함께 작동해야 한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143566&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 17:55:00 +0900",
-      "description": "AI가 조직 의사결정 개입하는 환경... 보안 패러다임 대전환시스템 침해 차단 넘어 판단 신뢰성 훼손 막는 능동적 대책 필요[보안뉴스= 강병일 한국정보공학기술사회 미래융합기술원 위원] AI의 도입 속도는 우리가 예상한 것보다 훨씬 빠르다. 기업과 공공기관은 업무 자동화와 의사결정 지원 영역까지 AI를 도입하고 있으며, 이제 AI는 단순 보조 도구를 넘어 조",
-      "language": "ko",
-      "summary": "AI가 조직 의사결정 개입하는 환경. 보안 패러다임 대전환시스템 침해 차단 넘어 판단 신뢰성 훼손 막는 능동적 대책 필요[보안뉴스= 강병일 한국정보공학기술사회 미래융합기술원 위원] AI의 도입 속도는 우리가 예상한 것보다 훨씬 빠르다...",
-      "points": [
-        "보안 패러다임 대전환시스템 침해 차단 넘어 판단 신뢰성 훼손 막는 능동적 대책 필요[보안뉴스= 강병일 한국정보공학기술사회 미래융합기술원 위원] AI의 도입 속도는 우리가 예상한 것...",
-        "기업과 공공기관은 업무 자동화와 의사결정 지원 영역까지 AI를 도입하고 있으며, 이제 AI는 단순 보조 도구를 넘어 조",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[신간] ‘달리는 호모 사피엔스’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143568&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 17:50:00 +0900",
-      "description": "700만 년 전 사바나의 사냥꾼이, 지금 한강변을 달리는 당신에게[보안뉴스 원병철 기자] “왜 우리는 이렇게 지치고, 외롭고, 불안한가” 진화생물학이 답하다.하루 종일 화면 앞에 앉아 있었는데도 왜 이렇게 피곤한가. 사람들 속에 있으면서도 왜 이렇게 외로운가. 딱히 위험한 일도 없는데 왜 이렇게 불안한가. 출판 브랜드 소금나무(시간팩토리)가 펴낸 신간 ‘달",
-      "language": "ko",
-      "summary": "700만 년 전 사바나의 사냥꾼이, 지금 한강변을 달리는 당신에게[보안뉴스 원병철 기자] “왜 우리는 이렇게 지치고, 외롭고, 불안한가” 진화생물학이 답하다. 하루 종일 화면 앞에 앉아 있었는데도 왜 이렇게 피곤한가...",
-      "points": [
-        "700만 년 전 사바나의 사냥꾼이, 지금 한강변을 달리는 당신에게[보안뉴스 원병철 기자] “왜 우리는 이렇게 지치고, 외롭고, 불안한가” 진화생물학이 답하다",
-        "하루 종일 화면 앞에 앉아 있었는데도 왜 이렇게 피곤한가",
-        "사람들 속에 있으면서도 왜 이렇게 외로운가"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "다온기술, CAASM 핵심 기술 특허 5건 확보... 미식별 자산 탐지부터 위험 기반 운영까지 자체 기술화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143567&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 17:19:00 +0900",
-      "description": "DHCP·고정 IP 환경 무관 자산 식별, 자산 변화 감지·중복 제거, 위험도 관리 등 핵심 기술 확보RiskMap 기반으로 미식별 자산과 보안 운영 공백 해소하는 CAASM 기술 포트폴리오 구축[보안뉴스 원병철 기자] 다온기술은 사이버 자산 공격표면 관리(CAASM) 플랫폼 ‘RiskMap’의 핵심 기반 기술과 관련해 총 5건의 특허를 확보했다고 밝혔다.",
-      "language": "ko",
-      "summary": "DHCP·고정 IP 환경 무관 자산 식별, 자산 변화 감지·중복 제거, 위험도 관리 등 핵심 기술 확보RiskMap 기반으로 미식별 자산과 보안 운영 공백 해소하는 CAASM 기술 포트폴리오 구축[보안뉴스 원병철 기자] 다온기술은 사이버 자산 공격표면 관리(CAASM) 플랫폼 ‘RiskMap’의 핵심 기반 기술과 관련해 총 5건의 특허를 확보했다고 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“AI CCTV가 하천 고립사고 막는다” 서울시, 풍수해 대응 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143565&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 16:53:00 +0900",
-      "description": "서울시, 지능형 CCTV·AI 침수예측 도입해 풍수해 대응체계 강화하천 고립사고 예방 위해 CCTV 640대 운영골목 단위 침수 감시망·빗물그릇 확대 통해 집중호우 대응력 강화[보안뉴스 강초희 기자] 서울시(시장 오세훈)가 올여름 집중호우와 국지성 호우 등 풍수해종 피해를 막기 위해 재해 발생 우려 지역에 대한 집중 관리에 나선다. 서울시는 저지대와 지하차",
-      "language": "ko",
-      "summary": "서울시, 지능형 CCTV·AI 침수예측 도입해 풍수해 대응체계 강화하천 고립사고 예방 위해 CCTV 640대 운영골목 단위 침수 감시망·빗물그릇 확대 통해 집중호우 대응력 강화[보안뉴스 강초희 기자] 서울시(시장 오세훈)가 올여름 집중호우와 국지성 호우 등 풍수해종 피해를 막기 위해 재해 발생 우려 지역에 대한 집중 관리에 나선다. 서울시는 저지대와 지하차",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "위험할 때 버튼 한 번... 강력범죄 불안에 ‘안심헬프미’ 신청 급증",
-      "link": "http://www.boannews.com/media/view.asp?idx=143564&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 16:49:00 +0900",
-      "description": "버튼 누르면 경고음, CCTV 관제센터 신고, 경찰 출동까지2024년 도입 후 청소년·여성 등 현재까지 11만개 배포이용시민 73% ‘만족’, 56%는 ‘두려움 줄었다’ 답해... 안전정책 실질 체감으로 연결[보안뉴스 강초희 기자] 최근 강력범죄 발생으로 시민 불안이 높아지는 가운데, 서울시(시장 오세훈)는 시민들이 안전하게 일상을 누릴 수 있도록 다양한",
-      "language": "ko",
-      "summary": "시민이 버튼을 눌러도 상당한 위험성을 인식해내고, 안전방향을 지켜나가는 과정에서 보호를 위해 신청.",
-      "points": [
-        "인기대로 '안심헬프미'는 버튼이 우리 안전한 일상을 조금씩 덮어줘야한다는 의지를 말해.",
-        "73%는 신청에 만족, 56%는 도전에 다음과 같은 마주하게 표현한.",
-        "논리적으로 보호에 대한 인사이트를 느끼고 안전하게 진행하기를 원하였다."
-      ],
-      "insight": "여성과 초년이들은 강력한 규칙이 되어 있는 피해지로 탑시의 버팸에 대한 우리식경제적인 신뢰가 느껴고, '안심헬프미'은 이러한 안전성을 보장하는 중요한 단계이다."
-    },
-    {
-      "title": "금융보안원, 스마트 컨트랙트 보안 검증 도구 개발... “디지털자산 신뢰 제고”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143562&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 16:47:00 +0900",
-      "description": "토큰증권(STO) 및 가상자산 2단계 입법 대비, 3대 핵심 추진 과제 선정AI 기술 활용... 재진입 공격 등 빈출 취약점 자동 탐지하는 통합 룰셋 구축[보안뉴스 조재호 기자] 금융사가 안전하게 디지털자산 비즈니스를 전개할 수 있도록 금융보안원이 ‘스마트 컨트랙트 보안 안내서’ 발간과 전문 인력 양성 등 전방위 지원 생태계를 조성한다.금융보안원은 토큰증권",
-      "language": "ko",
-      "summary": "토큰증권(STO) 및 가상자산 2단계 입법 대비, 3대 핵심 추진 과제 선정AI 기술 활용. 재진입 공격 등 빈출 취약점 자동 탐지하는 통합 룰셋 구축[보안뉴스 조재호 기자] 금융사가 안전하게 디지털자산 비즈니스를 전개할 수 있도록 금융보안원이 ‘스마트 컨트랙트 보안 안내서’ 발간과 전문 인력 양성 등 전방위 지원 생태계를 조성한다...",
-      "points": [
-        "토큰증권(STO) 및 가상자산 2단계 입법 대비, 3대 핵심 추진 과제 선정AI 기술 활용",
-        "재진입 공격 등 빈출 취약점 자동 탐지하는 통합 룰셋 구축[보안뉴스 조재호 기자] 금융사가 안전하게 디지털자산 비즈니스를 전개할 수 있도록 금융보안원이 ‘스마트 컨트랙트 보안 안내...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "SK쉴더스, 기업 보안 실무자 대상 ‘생성형 AI’ 실전 훈련 가동",
-      "link": "http://www.boannews.com/media/view.asp?idx=143560&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 16:41:00 +0900",
-      "description": "지능형 위협 환경 대응 위한 실무 교육 운영취약점 분석 및 침해사고 탐지 전반에 생성형 인공지능 적용하는 문제중심학습 도입[보안뉴스 조재호 기자] 시스템 침투에 걸리는 평균 시간이 29분으로 단축되는 등 초고속 지능형 사이버 위협이 현실화된 2026년, SK쉴더스가 이에 맞설 실무자 양성에 돌입했다.SK쉴더스는 국내 기업 보안 분야 실무자를 대상으로 ‘생성",
-      "language": "ko",
-      "summary": "지능형 위협 환경 대응 위한 실무 교육 운영취약점 분석 및 침해사고 탐지 전반에 생성형 인공지능 적용하는 문제중심학습 도입[보안뉴스 조재호 기자] 시스템 침투에 걸리는 평균 시간이 29분으로 단축되는 등 초고속 지능형 사이버 위협이 현실화된 2026년, SK쉴더스가 이에 맞설 실무자 양성에 돌입했다. SK쉴더스는 국내 기업 보안 분야 실무자를 대상으로 ‘생성",
-      "points": [
-        "SK쉴더스는 국내 기업 보안 분야 실무자를 대상으로 ‘생성",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "앤트로픽 만난 정부 “취약점 공개 대응 위한 정보 공유 요청”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143561&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 15:47:00 +0900",
-      "description": "과기정통부·국정원 등 앤트로픽 글로벌 정책 총괄 만나글래스윙 참여 여부는 아직 확답 없어[보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 장관 배경훈)가 앤트로픽을 만나 “취약점 공개에 사전 대비할 수 있도록 정보 공유를 요청했다”고 밝혔다. 글래스윙 프로젝트에 한국 기업이 참여할 가능성에 대해서는 아직 확답을 받지 못한 것으로 알려졌다. 과기정통부는",
-      "language": "ko",
-      "summary": "앤트로픽을 만나는 것이 우리나라에서 제한되어 있다고 부총리가 한국 기업의 참여가 안전성에 대해서도 인기로 등불했다.",
-      "points": [
-        "앤트로픽 정책 총괄자국군청장지는 우리나라의 기업이 참여할 수 0ne에 대한 보호를 요구하였다.",
-        "부총리는 기업에 대한 참여가 안전성에 거쳤을 지표로 고쳤었다.",
-        "이러한 요청은 글래스윙 프로젝트에서 한국 기업이 참여하더라도 공유 방식에 대해서는 다음으로 알려져있다."
-      ],
-      "insight": "부총리가 요청한 정보 공유 요청은 IT/기술 업계에서 한국 기업이 발전시와 연귀지는 과정에서 보장을 위해 핵심적인 포기를 하고자 한다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] AI 해킹을 AI 보안이 막을 수 있나",
-      "link": "http://www.boannews.com/media/view.asp?idx=143559&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 15:21:00 +0900",
-      "description": "고도화된 공격형 AI의 등장, 기존 방어 체계 무력화하며 보안 패러다임의 근본적인 전환 요구[보안뉴스= 배종찬 인사이트케이 연구소장] 현재 글로벌 보안 시장은 거대한 변곡점에 서 있다. 썸트렌드(SomeTrend)의 ‘빅데이터 연관어 분석’ 결과(2026년 4월 1~28일)가 보여주듯, 인공지능(AI)은 이제 기술적 도구를 넘어 국가적 안보와 금융 시스템의",
-      "language": "ko",
-      "summary": "고도화된 공격형 AI의 등장, 기존 방어 체계 무력화하며 보안 패러다임의 근본적인 전환 요구[보안뉴스= 배종찬 인사이트케이 연구소장] 현재 글로벌 보안 시장은 거대한 변곡점에 서 있다. 썸트렌드(SomeTrend)의 ‘빅데이터 연관어 분석’ 결과(2026년 4월 1~28일)가 보여주듯, 인공지능(AI)은 이제 기술적 도구를 넘어 국가적 안보와 금융 시스템의",
-      "points": [
-        "고도화된 공격형 AI의 등장, 기존 방어 체계 무력화하며 보안 패러다임의 근본적인 전환 요구[보안뉴스= 배종찬 인사이트케이 연구소장] 현재 글로벌 보안 시장은 거대한 변곡점에 서 ...",
-        "썸트렌드(SomeTrend)의 ‘빅데이터 연관어 분석’ 결과(2026년 4월 1~28일)가 보여주듯, 인공지능(AI)은 이제 기술적 도구를 넘어 국가적 안보와 금융 시스템의",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘숨고’, 개인정보 유출 의심 정황 공지... 선제적 대응 착수",
-      "link": "http://www.boannews.com/media/view.asp?idx=143558&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 14:27:00 +0900",
-      "description": "지난달 27일 외부자 침입 흔적 발견, 결제 내역 및 식별번호 등 유출 가능성 조사당국 신고 및 보안 취약점 진단 마쳐... “플랫폼 시스템은 안전하게 정상 운영 중”[보안뉴스 조재호 기자] 생활 서비스 매칭 플랫폼 서비스 ‘숨고’ 운영사 브레이브모바일이 지난달 27일 서비스 시스템에 대한 외부자 침입 및 개인정보 유출 의심 정황을 포착했다. 브레이브모바일",
-      "language": "ko",
-      "summary": "브레이브모바일의 서비스 시스템에서 개인정보 유출 위한 외부자 침입을 포착하고 있음",
-      "points": [
-        "결제 내역과 식별번호를 공개한 것이 이 기사에서의 중요한 주제야.",
-        "의심적으로 포컅하고 있는 외부자의 목적이 서비스 안전성에 어떤영판이 가장 이상?",
-        "개인정보 유출에 대한 보호 취약점을 고민하는 것이 이 기사에서의 주요 내용임"
-      ],
-      "insight": "개인정보를 공개하지 않거나 권한 제어해야만, 국내에서는 누구로부터 이러한 행위가 일으킨다."
-    },
-    {
-      "title": "원모어시큐리티, AI 산불 감지 솔루션 조달 혁신제품 지정",
-      "link": "http://www.boannews.com/media/view.asp?idx=143553&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 11:53:00 +0900",
-      "description": "원모어아이(산불) v1.0 솔루션 지정, 2019년 법인 설립 이후 3번째 혁신제품합성곱신경망(CNN) 및 시각언어모델(VLM) 하이브리드 기술로 기상 변수 오탐 완화[보안뉴스 조재호 기자] 원모어시큐리티는 자사 산불 감지 솔루션 ‘원모어아이(산불) v1.0’이 조달청 혁신제품으로 지정됐다고 밝혔다. 2019년 법인 설립 이후 원모어시큐리티의 3번째 조달청",
-      "language": "ko",
-      "summary": "원모어시큐리티는 '원모어아이(산불) v1.0' AI 관리 시스템을 세부침과 소표줄로 조달하여 IT 영향력을 강화할 수 있도록 합니다.",
-      "points": [
-        "원모어시큐리티는 AI를 이용한 '원모어아이(산불) v1.0' 기준을 세부침과 소표줄로 조달합니다.",
-        "이 제품은 2019년 법인 설립 이후에 3번째 조달청을 적으면서, IT 영향력을 높이기를 기원한다.",
-        "세부침과 소표줄로 시스템을 조달하여 자사의 산불을 감지하고, 공안에서 인증하여 제출한다."
-      ],
-      "insight": "원모어시큐리티는 AI를 이용한 산불 관련 시스템을 개발, 조달하고 세부침과 소표줄로 제공하여 IT 영향력을 높이기를 못하지만, 3번째 조달청을 확보할 수 있다."
-    },
-    {
-      "title": "스마트 폴로 ‘묻지마 범죄’ 막는다... 전남자치경찰위, 예방 치안 인프라 확충",
-      "link": "http://www.boannews.com/media/view.asp?idx=143552&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 11:19:00 +0900",
-      "description": "화순·장성·영광·진도 등 15개 시군에 지능형 스마트폴 등 설치총 17억5000만원 투입해 범죄 취약지역 중심 예방형 안전환경 조성 계획[보안뉴스 강초희 기자] 전라남도자치경찰위원회(위원장 정순관)가 이른바 ‘묻지마 범죄’라 불리는 이상동기 범죄로부터 도민 안전을 지키기 위해 치안 인프라 확충에 나선다.전남도자치경찰위원회는 최근 공모를 거쳐 화순·장성·영광",
-      "language": "ko",
-      "summary": "전남자치경찰위는 현재 범죄를 방隣하게 표시해서 도민의 안전을 유지하고자 한다.",
-      "points": [
-        "전남도자치경찰위원회이 준비되어 있는 계획",
-        "17천5백만원 소유가 사용하여 화순·장성·영광, 다수의 시군을 위한 안전하고 좋은 미국 스마트포맥스 지구와",
-        "치안 인프라에서 조성하여 범죄를 덜이거나, 이상동기가 있는 공모로 진행"
-      ],
-      "insight": "전남도자치경찰위는 IT/기술 환경에서의 안전보다 인간의 안전을 우선적으로 강조하고자 한다. 이를 위해서는 스마트포맥스가 기술화되어있으며, 확산실제의 시각을 보여준 계획에 중단없이 국가 안전을 강제로 지원하고자 한다."
-    },
-    {
-      "title": "강릉시 CCTV 통합관제센터, 범인 검거 540건 기여하며 안전도시 구축 기여",
-      "link": "http://www.boannews.com/media/view.asp?idx=143551&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 11 May 2026 11:16:00 +0900",
-      "description": "강릉시 CCTV 통합관제센터, 2026년 1분기 영상정보 열람·제공 8135건 기록관제사 실시간 대응과 경찰 공조로 수사 목적 검거 540건·실시간 범죄 해결 52건 지원[보안뉴스 강초희 기자] 강릉시(시장 김홍규)는 2026년 1분기 방범용 CCTV 영상정보 열람·제공 실적이 총 8135건에 달하며, 이 과정에서 CCTV 통합관제센터 관제사들의 보이지 않",
-      "language": "ko",
-      "summary": "강릉시 CCTV 통합관제센터는 8135건의 영상정보를 열려고 하고, 지도성이 위협질리어인 상황에서 540건을 기록한 것으로, 경찰 공조로 수사 시스템을 강화하고 지도성이 일어나는 위협을 줄이고자 한다.",
-      "points": [
-        "- 강릉시의 CCTV 통합관제센터가 8135건의 영상정보를 열려고 하고",
-        "- 여전히 위협질리어 지도성이 문제로, 최대 540건을 수사에 기여했다.",
-        "공공자이 강릉시의 시장 김홍규가 보안위원회에서 CCTV 논설십에 따라 현재 540건을 수사 시스템이 준비되고, 핵심적인 보안 기능을 강화하여 지도성이 일어나는 위협을 충전"
-      ],
-      "insight": "이러한 처음으로 CCTV 관제사의 기여가 인정받을 수 01 보안기업의 중요성에 대한 인식을 확립, 이용자들이 모든 지역의 보안논문에서 가장 상세하게 보안 기술을 다루도록 도전"
     }
   ]
 }
