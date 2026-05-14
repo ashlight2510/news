@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-05-14T14:14:54.211Z",
+  "generatedAt": "2026-05-14T19:50:28.432Z",
   "articles": [
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 19:12:03 +0000",
+      "description": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+      "language": "en",
+      "summary": "OpenAI is reportedly considering legal action against Apple due to their business relationship issues",
+      "points": [
+        "Bloomberg reports that OpenAI has hired an external law firm for potential legal action.",
+        "Apple's policies have allegedly caused friction in its partnership with OpenAI.",
+        "The specific terms of the contract between OpenAI and Apple are not disclosed."
+      ],
+      "insight": "This could potentially set a precedent impacting future collaborations within the IT/technology industry, highlighting tensions that may arise from restrictive platform policies."
+    },
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 19:05:01 +0000",
+      "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "language": "en",
+      "summary": "Clawdmeter is an innovative and cost-free tool that transforms Claude Code usage statistics into miniature desktop displays aiding in the optimization of AI coding practices.",
+      "points": [
+        "Open source gadget Clawdmeter converts Claude Code stats to small, interactive dashboards",
+        "Designed specifically for code monitors and optimizers interested in visual data representation",
+        "Allows users to instantly recognize trends in their AI coding patterns"
+      ],
+      "insight": "Clawdmeter could significantly impact how developers track and optimize the efficiency of Claude Code, potentially leading to a more streamlined approach within this niche sector."
+    },
+    {
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 18:56:43 +0000",
+      "description": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+      "language": "en",
+      "summary": "YouTube viewers watch a significant amount of short-form content known as 'Shorts' not just on mobile devices but also frequently on TV screens.",
+      "points": [
+        "Despite being designed for mobile, YouTube Shorts attract considerable views on televisions monthly.",
+        "The popularity of YouTube Shorts extends beyond their primary platform, showing a versatile appeal across different screen sizes.",
+        "This trend indicates that short-form content is flexible and widely consumed."
+      ],
+      "insight": "YouTube's strategy to make its video format adaptable has paid off as users are consuming Shorts on various devices, suggesting a shift in how people prefer watching online videos. The success of YouTube Shorts across multiple platforms can encourage other content creators and tech companies to create more versatile formats."
+    },
+    {
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 16:30:02 +0000",
+      "description": "A year ago, it looked like this day would never happen for Cerebras.",
+      "language": "en",
+      "summary": "Cerebras successfully completed its initial public offering (IPO) last month on Wall Street with a valuation of $5.5 billion after raising funds and seeing the stock price jump by as much as 108%. This event marks one of the largest tech IPOs in history.",
+      "points": [
+        "Cerebras, specializing in artificial intelligence for data centers to optimize energy efficiency, completed its first successful public offering with a valuation of $5.5 billion and raised nearly half-a-billion dollars.",
+        "The company's stock price surged by as much as 108% following the IPO despite concerns about an economic slowdown in Asia which impacted AI investments earlier that year.",
+        "Cerebras has plans to build a $350 million chip plant and anticipates deploying its chips across numerous industries."
+      ],
+      "insight": "The massive tech IPO of Cerebras showcases the growing confidence in AI-focused companies within the technology industry, emphasizing sustainability as a key factor for investment despite economic uncertainties. The company's success also signals increased interest and belief in custom hardware tailored to specific sectors like healthcare."
+    },
+    {
+      "title": "OpenAI says hackers stole some data after latest code security issue",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 16:25:20 +0000",
+      "description": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+      "language": "en",
+      "summary": "After a security vulnerability in OpenAI's codebase allowed hackers to access some devices used by employees, the company confirmed that there was limited damage and critical systems remain unaffected.",
+      "points": [
+        "- Hackers exploited an unspecified security issue within OpenAI’CTF (Community Technology Foundation) environment for Codeforces users in Europe since April 2019.",
+        "- The compromised access was limited to employee devices and did not affect user data, production systems or Intellectual Property of the organization.",
+        "- Organizations like Microsoft have previously faced similar cybersecurity issues."
+      ],
+      "insight": "While this incident is relatively contained within OpenAI's ecosystem, it underscores ongoing global concerns regarding IT security vulnerabilities and highlights why proactive measures are crucial in the technology industry."
+    },
+    {
+      "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+      "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 15:42:18 +0000",
+      "description": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows.",
+      "language": "en",
+      "summary": "The music-streaming giant Spotify has announced its plan to use Apple' endorsed HLS video podcast distribution tech, simplifying creators’ processes for monetizing their content on both platforms without altering current workflows.",
+      "points": [
+        "Spotify adopts Apple’s new technology (HLS) allowing cross-platform compatibility with the popular music streaming service",
+        "Creators won't need to change existing production or distribution processes as Spotify integrates seamlessly into their workflow",
+        "This move is significant for creators seeking wider reach and more revenue from diverse platforms without additional complexity"
+      ],
+      "insight": "The integration of HLS technology by a major player like Spotify will likely set new standards in cross-platform content distribution, benefiting creators with easier access to broader audiences on various services."
+    },
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 15:20:18 +0000",
+      "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "language": "en",
+      "summary": "Khosla Ventures invested $1 endorses Ian Crosby's new startup Synthetic after his previous company Bench failed.",
+      "points": [
+        "Ian Crosby, founder of the now-defunct bookkeeping service for startups called Bench, is launching a fully autonomous AI solution named Synthetic.",
+        "$10M investment from Khosla Ventures supports Ian'tablet Crosby after his startup collapsed with debts and legal issues due to allegations of misconduct by former employees.",
+        "Synthetic promises to provide fully autonomous AI-based accounting services for startups, including automated invoicing and payroll functions."
+      ],
+      "insight": "This development shows that venture capitalists are willing to support entrepreneurs even after previous failures if they present promising new ideas. It also highlights the trend of integrating AI for business operations, which could significantly impact how startups manage their financial tasks."
+    },
+    {
+      "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
+      "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 15:06:39 +0000",
+      "description": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have accidentally sent images to others, not fully understanding how the feature works.",
+      "language": "en",
+      "summary": "Instagram's new Instants live-sharing platform is creating confusion among users due to its real-time sharing features and a lack of clear instructions on retracting shared images.",
+      "points": [
+        "Many users are unaware how the instant camera feature works, leading them to accidentally share photos or videos they didn't intend to post live.",
+        "To stop using Instagram Stories for photo sharing temporarily while traveling abroad, you can toggle off 'Story Photos'.",
+        "Users have expressed a desire for more information and clearer guidelines on the new instant camera feature provided by Meta."
+      ],
+      "insight": "The ambiguity surrounding how to use or retract content shared via Instagram's new Stories format highlights user concerns over privacy, control, and clear communication from social media platforms. This could indicate a need for better education around the platform's features among users."
+    },
     {
       "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
       "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
@@ -631,126 +751,6 @@
         "In the aftermath of these security incidents, US House lawmakers have shown concern over potential privacy implications for students affected by unauthorized data breaches and are requesting detailed explanations from Instructure on how it ensures robust cybersecurity measures to protect user information."
       ],
       "insight": "This news highlights the growing concerns of legislators regarding corporate accountability in maintaining strong security protocols, as well as potential reputational damage and trust issues for companies that experience data breaches. It underscores how crucial it is for businesses to be transparent with customers about their cybersecurity practices."
-    },
-    {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "description": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
-      "language": "en",
-      "summary": "Anthropic surpassed OpenAI in terms of business clients for the first time as per latest data; Anthropi's technology and vision were key factors.",
-      "points": [
-        "Anthropic now has more verified business customers than OpenAI",
-        "Core to its appeal is an understanding model that enables conversations with AI systems using common language",
-        "Their future-oriented approach includes integrating large languages models for broader adoption"
-      ],
-      "insight": "Anthropi'slong term strategy prioritizing human centricity and accessible technology seems to resonate more with businesses, indicating a shift towards inclusive AI development in the industry."
-    },
-    {
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "description": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-      "language": "en",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass",
-      "points": [
-        "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250...",
-        "Register now to save up to $410, plus 50% off a second pass",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-      "language": "en",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat",
-      "points": [
-        "Meta said these incognito conversations are not saved, and messages will disappear by default once y...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 13 May 2026 13:27:09 +0000",
-      "description": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
-      "language": "en",
-      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 13 May 2026 12:11:33 +0000",
-      "description": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-      "language": "en",
-      "summary": "AutoScientist by Adaption aims at providing AI systems with the ability to swiftly adopt new capabilities using automatic adaptation techniques as opposed to traditional manual tuning methods.",
-      "points": [
-        "AutoScientist is an automated approach for model fine-tableuning, enabling rapid adoption of specific capabilities without extensive human intervention.",
-        "The tool's innovative technique circumvents the need for exhaustive and time-consumin user manual tuning processes typically required in AI adaptations.",
-        "Adaption is set to release AutoScientist, which uses a unique strategy of finding an unseen learning task that corresponds with what a model needs to learn."
-      ],
-      "insight": "This development could significantly speed up the process of deploying and updating AI models in various industries by reducing reliance on manual tuning processes. As such, it represents progress towards more adaptive and efficient AI technologies within IT/technology industry practices."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 영화 ‘아이 로봇’에서 드러난 피지컬AI의 위협",
-      "link": "http://www.boannews.com/media/view.asp?idx=143603&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 17:34:00 +0900",
-      "description": "피지컬AI 해킹, 현실 공간에서 즉각적인 물리적 피해로 나타나... 보안 위협 돌아봐야[보안뉴스= 배종찬 인사이트케이 연구소장] 2004년 개봉한 윌 스미스 주연의 영화 ‘아이, 로봇’(I, Robot)은 SF 거장 아이작 아시모프의 단편 소설집에서 모티브를 가져온 작품으로, 2035년을 배경으로 휴머노이드 로봇이 일상화된 미래 사회를 그리고 있다. 영화",
-      "language": "ko",
-      "summary": "피지컬AI는 현실에서 진짜로 인간처럼 보호를 위해 대체할 수 0ne인가지이다.",
-      "points": [
-        "- 영화는 사회에 미치는 현실 기술의 위협과 유대한 이해를 제공",
-        "- 로봇의 비록 인공지컨의 경우, 그들이 같은 정보에서 자신의 용사축호가를 통해 인생을 유지한다.",
-        "- '아이 로봇'는 변화력과 그의 영향을 제어하는 것의 위협을 질, 그리고 인간의 마음과 동기성에 대한 의미"
-      ],
-      "insight": "이 영화는 IT/기술 업계가 우리의 삶이 되는 현상을 강조하고, AI의 위협과 사회에 미치는 영향에 대해 직접적으로 감솔루커습니다."
-    },
-    {
-      "title": "AI로 만든 해킹 도구의 습격... ‘Mr_Rot13’, 정부·군사 기밀 4.37GB 빼돌려",
-      "link": "http://www.boannews.com/media/view.asp?idx=143608&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 17:32:00 +0900",
-      "description": "c패널 및 WHM 고위험 취약점 악용 공격 증가[보안뉴스 김형근 기자] 널리 쓰이는 웹 서버 관리 도구 c패널(cPanel)과 WHM에서 최근 발견된 심각한 보안 취약점이 세계 곳곳에서 악용되고 있다. 이 취약점(CVE-2026-41940)은 비밀번호 없이 서버 관리자 권한을 가로챌 수 있는 치명적 위협으로, 심각도 지수(CVSS) 점수가 9.8에 이른다.",
-      "language": "ko",
-      "summary": "cPanel과 WHM 사용자가 비밀번호를 제공하지 않으면 서버 권한을 수정할 수 0이 있는 취약점",
-      "points": [
-        "cPanel과 WHM 사용자가 비밀번호를 제공하지 않으면 서버 권한을 수정할 수 있는 취약점이",
-        "cPanel과 WHM 사용자가 비밀번호를 제공하지 않으면 서버 권한을 수정할 수 있는 취약점이",
-        "cPanel과 WHM 사용자가 비밀번호를 제공하지 않으면 서버 권한을 수정할 수 있는 취약점이"
-      ],
-      "insight": "웹 서버 관리 도구에 대한 이미지보안 문제로 cPanel와 WHM 사용자가 비밀번호를 제공하지 않는다면, 위험한 취약점을 살펴보고 해결해야 함"
-    },
-    {
-      "title": "AI 에이전트가 공격자 분석해 차단... 그룹아이비, 통합 지능형 보안 엔진 `프레빈 AI` 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143606&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 14:51:00 +0900",
-      "description": "탐지와 예측형 사이버 방어 간 격차 해소 새로운 인지 코어가 능동적 탐지와 지원형 대응 조율… 기계 속도 위협 능가 [보안뉴스 한세희 기자] 그룹아이비(지사장 김기태)는 공격자 의도와 인프라를 사전 파악하는 통합 지능형 보안 엔진 ‘프레빈 AI’(Prevyn AI)를 출시한다고 13일 밝혔다. 수십 년간 축적된 방대한 데이터를 실시간 인사이트와 즉각적 대응",
-      "language": "ko",
-      "summary": "김기태님이 관리자는 공격자의 속도와 이미지적인 방어를 위해 '프레빈 AI'을 개체화",
-      "points": [
-        "그룹아이비는 현재 공격자의 기술성지리적 인식에 대한 속도와 방어를 함순화",
-        "이 보안 엔진은 전체적인 공격자의 의도를 반영하고, 위협을 시대에서 최소화합니다.",
-        "프레빈 AI는 사용자가 제공한 데이터를 학습하여 격리적으로 시대에 대응할 수 있도록 만들어집니다."
-      ],
-      "insight": "이 '프레빈 AI'는 정보보안에 현지시간이 중요한 지속적인 방어와 온리어 분석을 할 수 있으며, 공게를 대비하기 위해서는 이러한 강력한 보안 지원이 필요합니다."
     }
   ]
 }
