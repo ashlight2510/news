@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-05-14T09:02:57.691Z",
+  "generatedAt": "2026-05-14T14:14:54.211Z",
   "articles": [
+    {
+      "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
+      "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 14:07:40 +0000",
+      "description": "A group of likely Russian government hackers tried to hack a security researcher who investigates spyware attacks. He was then able to turn the tables on the hackers and reveal details of their espionage campaign.",
+      "language": "en",
+      "summary": "A group of likely Russian government hackers tried to hack a security researcher who investigates spyware attacks. He was then able to turn the tables on the hackers and reveal details of their espionage campaign",
+      "points": [
+        "A group of likely Russian government hackers tried to hack a security researcher who investigates sp...",
+        "He was then able to turn the tables on the hackers and reveal details of their espionage campaign",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 14:01:14 +0000",
+      "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "language": "en",
+      "summary": "Cisco has announced a reduction of nearly 4,000 jobs to reallocate resources towards investing in artificial intelligence (AI) despite reporting 'record quarterly revenue' and growth.",
+      "points": [
+        "Cisco is undergoing its third round of layoffs with the largest number yet, affecting about 9% of their workforce over three years. This comes after previous rounds in February and April that cut a total of almost 13,000 jobs.",
+        "The company plans to save $56 million annually by reducing its sales force expenses which also impacts customer service responsibilities across the business units due to these layoffs. Additionally, Cisco intends to invest this money into AI research and development.",
+        "Despite significant cutbacks on workforce numbers in recent years as a result of continuous restructuring aimed at streamlining operations."
+      ],
+      "insight": "This trend within the IT industry reflects an increasing shift towards automation, with organizations like Cisco investing heavily into AI to remain competitive and innovative while also dealing with market pressures that force workforce downsizing. As a result, future job roles may evolve to focus more on managing these new technologies."
+    },
+    {
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+      "description": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+      "language": "en",
+      "summary": "AI Labs have a new ally with Wirestock's $23M funding for providing diverse creative data.",
+      "points": [
+        "Wirestock raises over $23 million to power its AI lab-focused platform",
+        "The company has amassed more than 700,00 extrinsic creators on the site who generate photos, videos and 3D content for machine learning models.",
+        "Wirestock's service provides a consistent stream of diverse data sets to AI labs that is otherwise hard-pressed to come together in an organic manner."
+      ],
+      "insight": "The expansion funding provided by Wirestock highlights the growing demand for rich, multi-modal datasets from creative industries and underscores the importance of such data in driving innovation within AI research. This partnership also emphasizes how artistry can intersect with technology to produce sophisticated machine learning models."
+    },
+    {
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+      "description": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+      "language": "en",
+      "summary": "TechCrunch has extended the deadline for submissions in its Startup Battlefield competition until May 27th.",
+      "points": [
+        "Startup Battlefield is a global event by TechCrunch featuring startups from across six continents competing to gain visibility and funding without equity dilution, culminating with the closing of applications on May 27.",
+        "The competition encourages innovation in various sectors including artificial intelligence (AI), healthcare technologies such as telehealth/remote patient monitoring devices using AI for diagnostics assistance like identifying skin cancer lesions or heart conditions, and robotics focused on improving human lives with affordable solutions.",
+        "Startups competing include companies from diverse backgrounds but highlight a notable representation of startups originating in Sub-Saharan Africa within the health tech sector."
+      ],
+      "insight": "The Startup Battlefield competition reflects TechCrunch's commitment to fostering innovation and supporting underrepresented entrepreneurs, particularly from regions like Sub-Saharan Africa. The focus on equity-free funding opportunities for startups is a significant aspect of the industry that enables new players without substantial initial capital."
+    },
+    {
+      "title": "Uber to open 2 campuses in India to support product development, operations",
+      "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 13:43:27 +0000",
+      "description": "Uber plans to open two new engineering campuses with a capacity of nearly 10,000 people in India by the end of 2027.",
+      "language": "en",
+      "summary": "The article discusses Uber's expansion plans to open two new engineering campuses with nearly a capacity of about 10,000 people in India by the end of 2027.",
+      "points": [
+        "Uber is expanding its operations and product development capabilities within the Indian market",
+        "Two U.S.-based campuses will be replicated nearly at full capacity with a combined staff size to support growth objectives in India by end of 2027",
+        "The expansion signifies confidence from one of the largest ride-hailing companies that there's substantial demand and potential for business within Indian IT sector"
+      ],
+      "insight": "This news suggests a continued strong interest and investment in India as an important market by U.S.-based tech firms, reflecting ongoing growth opportunities."
+    },
+    {
+      "title": "강병탁 AI스페라 대표, “AI 시대 보안은 ‘운영’... 에이전트 CTEM 출격”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143627&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 18:15:00 +0900",
+      "description": "“미토스 대응? 기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이 우선입니다. AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다.”강병탁 AI스페라 대표",
+      "language": "ko",
+      "summary": "기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이 우선입니다. AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다...",
+      "points": [
+        "기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이...",
+        "AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "이번엔 마이크로소프트... 새 AI 보안 시스템 MDASH, 취약점 탐지 성적 미토스 넘어",
+      "link": "http://www.boannews.com/media/view.asp?idx=143626&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 18:05:00 +0900",
+      "description": "100개 이상 특화 에이전트 조율해 취약점 탐지... 비공개 프리뷰로 공개[보안뉴스 한세희 기자] 마이크로소프트가 100개 이상의 인공지능(AI) 에이전트를 연결해 취약점을 찾아내는 AI 보안 시스템 ‘MDASH’를 공개했다. 벤치마크 테스트에서 앤트로픽 ‘미토스’나 오픈AI GPT-5.5를 앞서는 결과를 냈다. MDASH는 ‘Multi-moDel Agen",
+      "language": "ko",
+      "summary": "마이크로소프트가 100개 이상의 AI 에이전트를 연동시킨 MDASS, 오픈AI GPT-5.5과 같이 약한 비공개 AI 보안 시스템을 테스트하여 취약점 탐지 방식의 성능을 향상",
+      "points": [
+        "- 마이크로소프트가 100개 이상의 AI 에이전트를 MDASS에 연계한 시스템이다.",
+        "- 오픈AI GPT-5.5과 같이 강력한 AI 어패들로 시작해 약한 보안 시스템을 검사하여 취약점을 식별",
+        "- 과학자가 지원하여 MDASS에서 찾아나니면 우리가 인공지능이 활성화되었다는 것을 알리기도 위해 비공개 PR로 전달한다."
+      ],
+      "insight": "AI 보안에서의 현재 중요성은 충불하지만 근본적인 방식이 아니라 활용방식에 대한 알리미드는 부족해 보게다. MDASS는 AI로 인식되어진 충불사를 모니터링하는 과정에서 문제가 있지만, 기술의 일부에서는 이전보다 성능이 향상되었으리라는 논인이 공격해보고 싶음."
+    },
     {
       "title": "AI 에이전트 시대의 보안... 팔로알토, 아이덴티티 보안 플랫폼 ‘이디라’(Idira) 출시",
       "link": "http://www.boannews.com/media/view.asp?idx=143624&kind=&sub_kind=",
@@ -646,111 +751,6 @@
         "프레빈 AI는 사용자가 제공한 데이터를 학습하여 격리적으로 시대에 대응할 수 있도록 만들어집니다."
       ],
       "insight": "이 '프레빈 AI'는 정보보안에 현지시간이 중요한 지속적인 방어와 온리어 분석을 할 수 있으며, 공게를 대비하기 위해서는 이러한 강력한 보안 지원이 필요합니다."
-    },
-    {
-      "title": "[양자와 보안] 이와이엘, 양자내성암호 암호 보드 개발... 암복호화 속도 높였다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143605&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 14:19:00 +0900",
-      "description": "양자난수생성(QRNG)과 양자내성암호(PQC) 결합통합 하드웨어 솔루션으로 연산 속도 느린 기존 PQC 한계 극복 양자보안 체계 국방·금융·인프라 시장 공략[보안뉴스 한세희 기자] 이와이엘(대표 정부석)이 연산 속도를 대폭 향상시킨 양자내성암호(PQC) 암호보드를 개발했다고 13일 밝혔다. 이와이엘이 보유한 초소형 양자난수생성기(QRNG) 기술을 기반으로",
-      "language": "ko",
-      "summary": "이와이엘이 결합한 양자보안 암호보드(PQC+QRNG)로 연산 속도를 향상시켰다.",
-      "points": [
-        "이와이엘은 결합한 PQC 기능을 기반으로 개발",
-        "연산 속도가 기존 PQC 보다 빠른 장벽을 설정하였다.",
-        "이로써 암호화의 비효율성과 보안성을 향상시켰다."
-      ],
-      "insight": "이러한 기능은 IT/기술 업계에서의 잘리자리와 인피라 보안을 강화하고 Unhackable IoT를 위해 개발한다."
-    },
-    {
-      "title": "[인사] 과학기술정보통신부",
-      "link": "http://www.boannews.com/media/view.asp?idx=143604&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 13:28:00 +0900",
-      "description": "◇국장급 기관 간 전보△통신정책관 남석(개인정보보호위원회사무처 조사조정국장)(2026.05.14.자)[원병철 기자(boanone@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "◇국장급 기관 간 전보△통신정책관 남석(개인정보보호위원회사무처 조사조정국장)(2026. 자)[원병철 기자(boanone@boannews...",
-      "points": [
-        "◇국장급 기관 간 전보△통신정책관 남석(개인정보보호위원회사무처 조사조정국장)(2026",
-        "자)[원병철 기자(boanone@boannews",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "아카마이 “AI 확산 속 API 위협 급증... 사고당 손실 100만달러 돌파”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143601&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 13:09:00 +0900",
-      "description": "아·태지역 보안 의사결정자 대상 API 보안 영향 연구 결과 발표LLM 등 AI 연계 API 겨냥 공격 최다, 가시성 확보는 22% 불과[보안뉴스 조재호 기자] 기업들의 AI 도입이 가속화되는 가운데, 이를 뒷받침하는 API 보안에서 심각한 취약점이 드러나고 있다. 아카마이테크놀로지스가 13일 발표한 ‘API 보안 영향 연구 아시아태평양 에디션’에 따르면,",
-      "language": "ko",
-      "summary": "아·태지역 보안 의사결정자 대상 API 보안 영향 연구 결과 발표LLM 등 AI 연계 API 겨냥 공격 최다, 가시성 확보는 22% 불과[보안뉴스 조재호 기자] 기업들의 AI 도입이 가속화되는 가운데, 이를 뒷받침하는 API 보안에서 심각한 취약점이 드러나고 있다. 아카마이테크놀로지스가 13일 발표한 ‘API 보안 영향 연구 아시아태평양 에디션’에 따르면,",
-      "points": [
-        "아·태지역 보안 의사결정자 대상 API 보안 영향 연구 결과 발표LLM 등 AI 연계 API 겨냥 공격 최다, 가시성 확보는 22% 불과[보안뉴스 조재호 기자] 기업들의 AI 도입...",
-        "아카마이테크놀로지스가 13일 발표한 ‘API 보안 영향 연구 아시아태평양 에디션’에 따르면,",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 비식별화 솔루션] 지우는 데이터에서 활용하는 데이터로... 안전한 AI 거버넌스 이끈다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143580&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 11:53:00 +0900",
-      "description": "개인정보 유출 피해 원천 차단... 비정형 데이터 탐지 및 제거 국내외 개인정보 관련 정부 규제 강화, 컴플라이언스 수요 확대조직 내 AI 활용 위한 데이터 학습 및 관리 수요 증가... 활용성과 안전 사이 균형이 핵심 비식별 솔루션 전문기업 집중분석: 에스에이엔씨, 펜타시스템, 엘세븐시큐리티 [보안뉴스 한세희 기자] 선한 마음으로 기부했다 날벼락을 맞은",
-      "language": "ko",
-      "summary": "이 기사는 AI 활용 안전성에 대한 국제 발전 가능성과 AI 활용 데이터셋에 의존한 인구 재산화, 지원 수요와 다음염소니코인 방식으로 개인정보 섬세하고 안전 계획을 제시한다.",
-      "points": [
-        "AI 기반의 개인정보 유출 척수를 강화하는 국내 정부 논리 강화와 국제 발전 가능성을 피하는 방식으로 AI 활용",
-        "AI 기반의 데이터 관리, 시작, 사용 등 사전에 원천 차단을 위한 개인정보 유출을 방지할 수 있는 솔루션 소식이 제시된다.",
-        "AI 활용성과 안전성의 중간사이를 체우기 위해 다음염소니코인과 유휴륜티드로 개인정보 섬세하고 안전한 AI 거버넌스 방지를 위한 국제 조치"
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 AI의 활용성과 안전성을 중요시하는 현재 위험한 상황에 대랬하고, 국내 개인정보 유출을 강화하면서 지원 수요를 통해 AI 기반의 활용성과 안전성을 조공하는 방식이 제시되어 국제 규정이 추가되어야만 한국에서의 IT/기술 회사가 AI를 활용할 수 있는 정보체계가 개선되도록 하는 전문적인 규제 제안이다."
-    },
-    {
-      "title": "가비아 하이웍스, ‘그룹웨어 프리미엄’ 출시... “AI 문서 생성·공동편집·저장 한 흐름”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143602&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 10:58:00 +0900",
-      "description": "클라우드 드라이브 용량 확대·실시간 문서 공동편집멀티 AI 사용량 2배[보안뉴스 강현주 기자] 클라우드 전문 기업 가비아(공동대표 김홍국·원종홍)가 올인원 업무 플랫폼 ‘하이웍스’의 신규 상품인 ‘그룹웨어 프리미엄’을 13일 출시했다. 그룹웨어 프리미엄은 문서 관리부터 협업·AI 활용까지 핵심 업무 기능을 집약한 통합형 상품이다.통합 환경에 대한 수요는 기",
-      "language": "ko",
-      "summary": "가비아 하이웍스에서 클라우드 그룹웨어 프리미엄을 제시한다.",
-      "points": [
-        "발 infatti, è un sistema che integra tutto il lavoro del team in una sola piattaforma per la gestione di documenti e l'utilizzo collettivo dell'AI",
-        "그룹웨어 프리미엄은 문서 관리부터 협업·AI 활용까지 가능하도록 제공한다.",
-        "이 기술에는 새로웁니다, 현재 기술 구조보다 효과적으로 업무를 수행하도록 도케질화한다."
-      ],
-      "insight": "이러한 기술은 IT/기술 업계에서의 웹 클라우드 문서 관리 영단위를 높일 수 0ne으로 받아들이고 그에 따라 약점을 해소하여 효율적인 업무 수행을 장려한다."
-    },
-    {
-      "title": "포티넷-엔비디아, 기업용 AI 보안 솔루션 ‘포티AI게이트’ 고도화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143600&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 10:38:00 +0900",
-      "description": "“기업 AI 환경에 제로트러스트 보안·데이터 주권 실현”[보안뉴스 강현주 기자] 글로벌 네트워크 보안 융합 솔루션 기업 포티넷(CEO 켄 지)이 엔비디아의 AI 플랫폼 및 소프트웨어 기술을 접목한 포티AI게이트(FortiAIGate) 솔루션을 13일 발표했다. AI 워크로드 보안과 데이터 주권이라는 두 과제를 동시에 해결하는 이 솔루션은 데이터센터와 클라우",
-      "language": "ko",
-      "summary": "포티넷-엔비디아는 AI 보안 질의 시스템인 '포티AI게이트'을 개방적으로 구현하여 IT 업무와 비정상적인 데이터 수신 중복 문제를 해결함으로써, AI 기술의 가능성을 보여준다.",
-      "points": [
-        "포티넷-엔비디아는 '포티AI게이트'솔루션을 13일에 개방한다.",
-        "소프트웨어 기술인 '포티AI게이트'는 AI로 관리된 보안과 데이터 주권을 위한 솔루션이다.",
-        "이로써 IT 업무와 비정상적인 문제를 효율적으로 해결할 수 있는 목표를 가지고 있다."
-      ],
-      "insight": "이 기사는 엔비디어의 AI 보안 솔루션을 소개하였다. '포티AI게이트'은 IT 업무와 비정상적인 문제를 해결하기 위해 AI로 구현되어 있는 소프트웨어 기술이다."
-    },
-    {
-      "title": "美 FCC, 외산 공유기·드론 업데이트 차단 조치 2029년으로 유예... “취약점 방치 막는다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143597&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 10:12:00 +0900",
-      "description": "소비자기술협회(CTA) “업데이트 차단하면 오히려 국가 안보 위협 초래” 경고 수용공급망 배제 명분보다 실질적 보안 패치 우선한 융합보안 거버넌스 현실적 타협[보안뉴스 김형근 기자] 미국 정부가 국가 안보를 이유로 추진했던 외산 통신 장비 규제 정책이 사이버 보안의 현실적 제약에 부딪혀 한발 물러섰다. 이념적 공급망 통제보다 기존 인프라의 안정성을 챙긴 실",
-      "language": "ko",
-      "summary": "CTA 대표로서 미국이 국가보안을 위한 기술화 규제를 강조한다.",
-      "points": [
-        "미국 정부는 국가 안보 위협을 줄일 뿐만 아니라, 사이버에서의 공급망 통제를 강조하고 있다.",
-        "미국은 기존 인피라의 안전성을 보장할 수 s 있는 설정을 소개한다.",
-        "CTA는 2029년에 규제된 이미지로, 국가 안보를 위해서는 기술화 규제를 지원해야 한다."
-      ],
-      "insight": "CTA는 이러한 조치를 내재적으로 받아들일 필요가 있고, IT/기술 업체에서의 안전한 수동 공급 활동을 위해서는 국가의 이미지가 중요하다."
     }
   ]
 }
