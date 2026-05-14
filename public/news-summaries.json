@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-05-14T03:10:01.875Z",
+  "generatedAt": "2026-05-14T09:02:57.691Z",
   "articles": [
+    {
+      "title": "AI 에이전트 시대의 보안... 팔로알토, 아이덴티티 보안 플랫폼 ‘이디라’(Idira) 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143624&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 15:37:00 +0900",
+      "description": "인간, 기계, 자율형 AI 에이전트 아우르는 차세대 아이덴티티 보안 플랫폼 이디라(Idira) 공개사이버아크(CyberArk) 전문성 결합, 특권접근관리(PAM) 기술 동적 확장 구현[보안뉴스 조재호 기자] 기계와 AI 아이덴티티(Identity)가 인간보다 109배 많아진 2026년, 사이버 공격자들은 시스템을 파괴하는 대신 정상 신원을 도용해 ‘로그인’",
+      "language": "ko",
+      "summary": "인간, 기계, 자율형 AI 에이전트 아우르는 차세대 아이덴티티 보안 플랫폼 이디라(Idira) 공개사이버아크(CyberArk) 전문성 결합, 특권접근관리(PAM) 기술 동적 확장 구현[보안뉴스 조재호 기자] 기계와 AI 아이덴티티(Identity)가 인간보다 109배 많아진 2026년, 사이버 공격자들은 시스템을 파괴하는 대신 정상 신원을 도용해 ‘로그인’",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 06:05:31 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Campbell Brown discusses the challenging aspects of ensnerving accurate and reliable information in AI-driven platforms.",
+      "points": [
+        "The creation and maintenance of factual content for generative models presents difficulties, as evidenced by recent events involving Meta's 'CoPilot'.",
+        "Brown advocates for rigorous checks to prevent the spread of misinformation in AI-generated articles.",
+        "Claiming accountability is essential when utilizing advanced technologies like generative models."
+      ],
+      "insight": "The news underscores critical ethical considerations and responsibility associated with deploying AI systems for content creation, particularly regarding accuracy and misinformation risks in the industry. It calls attention to implementing comprehensive verification protocols as a safeguard against potential harm."
+    },
+    {
+      "title": "SK쉴더스 “중소기업 해킹 인지까지 106.1일... 야간 틈탄 랜섬웨어 기승”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143623&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:53:00 +0900",
+      "description": "최근 5년간 중소·중견기업 대상 사이버 침해사고 실태최초 침투 후 조사 착수까지 평균 106.1일 소요, 방어 골든타임 상실전체 사고 47.4% 제조업에 집중... 24시간 상시 대응 위한 MDR 도입 필요해[보안뉴스 조재호 기자] 보안 인력과 인프라가 상대적으로 부족한 중소·중견기업을 겨냥한 사이버 공격이 갈수록 고도화되며 기업 비즈니스 연속성을 심각하게",
+      "language": "ko",
+      "summary": "중소·중견기업 사내공격에서의 가까이한 시기 사고율, 비즈니스 연속성을 심각하게 포ctl리잇",
+      "points": [
+        "중소·중견기업에서 5년간 많은 사고를 경흐하면서, 이전보다 사내공격 사고율이 일정하게 높아진다.",
+        "47.4%는 제조업에서만 가중치를 받고 나머지는 약해인 비즈니스와 IT계열이 대다수로.",
+        "사회적 상대적 부족에 의한 사결 공격에서는 직장인과 기분질을 통해 일하는 사원이 덜 민갸리로 대응할 수 0가지만."
+      ],
+      "insight": "중소·중견기업의 IT/기술 부당이 비즈니스 연속성에 유리하지 않음을 강ely 받아들일 수 있다."
+    },
+    {
+      "title": "“태권도 단증도 스마트폰에 쏙”... 국기원에 ‘옴니원 디지털 ID’ 공급",
+      "link": "http://www.boannews.com/media/view.asp?idx=143621&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:29:00 +0900",
+      "description": "품·단증 등 27종 블록체인 기반 모바일 신원증명으로 전환분산신원인증(DID) 기술로 위변조 원천 차단[보안뉴스 조재호 기자] 플라스틱 카드와 종이 형태로 발급되던 태권도 단증이 스마트폰 속 디지털 지갑으로 들어왔다. 라온시큐어가 국기원 태권도 품·단증과 자격증을 디지털 신원증명 방식으로 구축하는 ‘국기원 디지털아이디’ 사업을 성공적으로 완료했다고 14일",
+      "language": "ko",
+      "summary": "태권도 단증이 스마트폰에서 공급되었다.",
+      "points": [
+        "국기원과 태권도 단증이 스마트폰 사용자로부터 디지털 청구 방식으로 공급",
+        "태권도 단증은 품·단증 등에서 기반 이다.",
+        0.5
+      ],
+      "insight": "이 기사는 기반 모바일 신원증명 방식이 IT/기술 업계에서 현在이루고홀하게 발전하고 있는 DID(Digital Identity) 기술의 사용으로인한 국기원과 태권도 단증 공급 현상을 강조한다."
+    },
+    {
+      "title": "SKT, 해킹 후 CPO 관리·감독 강화... 사고 기업들 이행 결과 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=143622&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:28:00 +0900",
+      "description": "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개선 권고를 적극적으로 이행했다. 개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다. 개인정보",
+      "language": "ko",
+      "summary": "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개선 권고를 적극적으로 이행했다. 개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다",
+      "points": [
+        "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개...",
+        "개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 14 May 2026 05:24:39 +0000",
+      "description": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "language": "en",
+      "summary": "Clio has achieved a significant milestone of reaching $50 end-user revenue (ARR) just as Anthropic increases its investment in AI startups.",
+      "points": [
+        "Legal tech startup Clio hits $500 million ARR mark amidst growing customer adoption and competition with larger firms like Pangea3, Docracy, Legalflix, RocketLawyer, Leagle, LawGeex, AvvoCasebook.",
+        "Anthropic Raises Another $1 Billion to Acquire New AI Startups as it Expands its Curation and Consulting Capabilities",
+        "The article discusses the impact of increasing investments in legal tech on traditional law firms, with some considering a shift towards specializing instead."
+      ],
+      "insight": "This news indicates an accelerating trend for growth within the IT/technology industry as startups continue to gain momentum and attract substantial funding. Anthropic's strategy of acquiring AI companies could signify more consolidation in this sector, potentially impacting how traditional firms operate."
+    },
+    {
+      "title": "한국재난안전산업협회, 기술발표회 통해 AI·데이터 기반 재난안전 기술 협력 본격화",
+      "link": "http://www.boannews.com/media/view.asp?idx=143620&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:22:00 +0900",
+      "description": "회원사 중심 산업 플랫폼 역할 강화[보안뉴스 엄호식 기자] 한국재난안전산업협회(회장 서병일)는 5월 12일 서울 강서구 사이언스타 대회의실에서 ‘회원사 간담회 및 기술 발표회(2026년 1차)’를 개최하고 재난안전 AI·데이터 활용 동향과 회원사 기술 사례를 공유했다.‘재난안전 AI·데이터 활용의 현주소’를 주제로 열린 이날 행사에는 서울·경기를 비롯해 전",
+      "language": "ko",
+      "summary": "한국재난안전산업협회가 AI·데이터를 활용한 재난안전 기술에 직접 대응하고 있는 것을 강조해준다.",
+      "points": [
+        "한국재난안전산업협회는 AI·데이터를 활용하여 재난안전 기술 모임에서 강화한다.",
+        "2026년 1차의 회원사 간 대회에서는 AI·데이터 활용 경량과 협력 방식을 공유한다.",
+        "서울·경기를 포함하여 다양한 산업계체에서의 대화를 통해 AI·데이터 모임을 개체화한다."
+      ],
+      "insight": "이러한 기사는 IT/기술 업계에서의 AI·데이터 활용의 분석실천과 장단점을 강조하여, 재난안전 문제를 딥질한 해결 방법을 세부적으로 언론가입니다."
+    },
+    {
+      "title": "한국특허정보원, 제10대 강병삼 신임 원장 취임",
+      "link": "http://www.boannews.com/media/view.asp?idx=143619&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:10:00 +0900",
+      "description": "지능정보로 IP 혁신 선도하는 명품 정보원 도약 다짐[보안뉴스 엄호식 기자] 한국특허정보원은 5월 12일 이사회를 통해 신임 원장으로 강병삼(姜炳三) 전(前) 연구개발특구진흥재단 이사장을 선임 의결했다고 밝혔다. 강병삼 신임 원장은 1991년 기술고시(제26회)를 통해 공직에 입문한 이래, 노동부·상공부 사무관, 과학기술부 원천기술과장·국제협력총괄담당관,",
+      "language": "ko",
+      "summary": "기사는 한국특허정보원이 강병삼을 이사장로 선정하였다고 소개한다.",
+      "points": [
+        "- 강병삼은 공직에서 연구개발특구진흥재단에서 일하였다.",
+        "- 강병삼은 1991년 기술고시를 지원한 이래, 공직자에서의 경영학습을 통해 기술과정에 대해 응용적으로 밀출한다.",
+        "- 강병삼이 선임할 수 tech_news.json의 실제내용을 전체적으로쓸 몇가지 주요 정보만 보고하면 객좀이 없는 상태로 출시되어야 한다."
+      ],
+      "insight": "기사는 강병삼의 전문성과 IT/기술 분야에서의 경륜창조에 대해 이야기하고 있다. 그러더라도 귀하는 기사 내용은 제한되어 있으며, 정확한 내용을 JSON 형식으로 전치해주세요."
+    },
+    {
+      "title": "포티넷, 무선 AP 및 네트워크 운영체제 등 핵심 제품군 5종 ‘보안 패치’ 배포",
+      "link": "http://www.boannews.com/media/view.asp?idx=143616&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:06:00 +0900",
+      "description": "포티샌드박스 및 관련 클라우드 서비스 인증 우회 취약점 ‘CVE-2026-26083’ 등 담겨[보안뉴스 원병철 기자] 포티넷(Fortinet)이 무선 액세스 포인트(AP) 컨트롤러와 네트워크 운영체제 등 주요 제품군에서 발견된 5가지 취약점에 대한 보안 권고를 발표했다. 포티넷 제품 보안 사고 대응팀(PSIRT)에 따르면 가장 위험도가 높은 결함은 포티샌드",
+      "language": "ko",
+      "summary": "포티넷이 제품군에서 가장 위험도가 높은 결함이 포틠샌드와 관련된 5가지 추적 부분에 대한 보안 권고",
+      "points": [
+        "포틠샌드의 제품군에서 'CVE-2026-26083'이 인증 우회점을 포함하고 있음",
+        "포티넷은 광진이나 스마트품과 연결되어 모니터링을 지원한다",
+        "보안 권고는 포틠샌드에서의 보안점 개선에 대한 우려를 전난다"
+      ],
+      "insight": "이러한 5가지 보안 부위에 집중하는 것이 포티넷의 보안 권고를 따른다."
+    },
+    {
+      "title": "슈프리마, AI 생체인식 단말기 바이오스테이션 3 맥스 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143618&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:02:00 +0900",
+      "description": "강력한 자체 보안 플랫폼 기반신원 최우선 보안 선도다중 인증(MFA) 및 폭넓은 인증 수단 지원으로 출입통제 시장에 새로운 기준 제시[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 새로운 플래그십 제품인 AI 생체인식 단말기 ‘바이오스테이션 3 맥스’(BioStation 3 Max)를 출시했다고",
+      "language": "ko",
+      "summary": "강력한 자체 보안 플랫폼 기반신원 최우선 보안 선도다중 인증(MFA) 및 폭넓은 인증 수단 지원으로 출입통제 시장에 새로운 기준 제시[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 새로운 플래그십 제품인 AI 생체인식 단말기 ‘바이오스테이션 3 맥스’(BioStation 3 Max)를 출시했다고",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "개인정보 관리 소홀 보람상조, 5억4250만원 과징금 맞아",
+      "link": "http://www.boannews.com/media/view.asp?idx=143617&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 14:01:00 +0900",
+      "description": "안전조치의무 소홀 및 수탁자 관리감독 미흡에 과징금·과태료 약 5억5000만원 부과개인정보위, 상조 분야 전반 사전실태점검 병행 중[보안뉴스 한세희 기자] 개인정보 관리를 소홀히 해 데이터 유출 사고를 겪은 보람상조가 5억4250만원의 과징금을 물게 됐다. 개인정보보호위원회는 개인정보 보호법을 위반한 보람상조개발 등 보람상조 7개 사업자에 과징금 5억425",
+      "language": "ko",
+      "summary": "소홀 보람상조가 개인정보 위반 사유로에 과짐금을 낳았다.",
+      "points": [
+        "개인정보 보호위원회는 소홀의보람상조가 첨부력운용으로 개인정보 보호법을 위반한 사거에 과짐금이 5억425만원을 붙잡했다.",
+        "이러한 보람상조는 개인정보 보호의 일부를 대신할수 없음",
+        "보안뉴스에서 제시한 보안근 incident은 개인정보 위반으로 인한 과집합금의 소유자를 선택해주도록 명시되었다."
+      ],
+      "insight": "이러한 보람상조는 개인정보 보호에 대한 일황화책임을 능가하지 않음."
+    },
+    {
+      "title": "마이크로소프트 “이메일 위협, 악성코드 가고 ‘계정 탈취’ 시대 왔다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143615&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 14 May 2026 13:03:00 +0900",
+      "description": "MS, ‘2026년 1분기 이메일 환경 위협 보고서’... QR코드 피싱 146% 폭증 및 캡차 우회 전술 기승공격 중심축 ‘계정 권한 확보’로 이동[보안뉴스 조재호 기자] 사이버 공격자들이 기존 이메일 보안 필터를 무력화하기 위해 이미지와 정상적 인증 절차를 무기로 역이용하는 양상이 뚜렷해지고 있다.마이크로소프트(MS) 위협 인텔리전스는 14일 발표한 ‘",
+      "language": "ko",
+      "summary": "이메일 위협으로 인한 '계정 탈취' 시대가 시작되어 이미지와 정상인증 절차를 획명적으로 이용하고 있다.",
+      "points": [
+        "마이크로소프트(MS)는 '이메일 위협, 악성코드 가고 ‘계정 탈취’ 시대'를 언급한 보안 보고서에서 첫번째로 QR코드 피싱과 각종 공격공지를 제공하고 있다.",
+        "이미지와 정상인증 절차를 획명적으로 이용하여, 사용자의 권한을 강화하고 인증을 버리는 전반적인 공격 전략이 기존에서는 보호되지 않았다.",
+        "MS는 QR코드를 통해 폭증 및 공격공지를 전적으로 제공하여, 사용자들이 인증과정을 어떻게 다시 진행해야 할지를 보여준다."
+      ],
+      "insight": "이메일 위협으로 인한 '계정 탈취' 시대에서 Microsoft가 이미지와 정상인증 절차를 이용하여 권한을 강화하고 인증을 위반하는 공격 전략이 사용자의 안전성에 미치긴 영향을 미리 미쳤다."
+    },
     {
       "title": "“VS코드로 들어와 메모리 직접 때린다” 카스퍼스키가 해부한 北 김수키 기술력",
       "link": "http://www.boannews.com/media/view.asp?idx=143614&kind=&sub_kind=",
@@ -571,183 +751,6 @@
         "CTA는 2029년에 규제된 이미지로, 국가 안보를 위해서는 기술화 규제를 지원해야 한다."
       ],
       "insight": "CTA는 이러한 조치를 내재적으로 받아들일 필요가 있고, IT/기술 업체에서의 안전한 수동 공급 활동을 위해서는 국가의 이미지가 중요하다."
-    },
-    {
-      "title": "엔키화이트햇, 2026 AI 보안 유망기업 선정... “자율 공격형 방어망 상용화”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143598&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 10:06:00 +0900",
-      "description": "과기정통부·KISA 주관 사업화 과제 최종 선정, 시제품 이어 2년 연속 성과LLM과 다중 에이전트 결합, 화이트해커 지식 자산화... 오펜시브 보안 플랫폼 고도화[보안뉴스 조재호 기자] 엔키화이트햇이 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘2026 AI 보안 유망기업 육성 지원사업’ 사업화 분야에 최종 선정됐다고 13일 밝혔다.엔키화이",
-      "language": "ko",
-      "summary": "과기정통부·KISA 주관 사업화 과제 최종 선정, 시제품 이어 2년 연속 성과LLM과 다중 에이전트 결합, 화이트해커 지식 자산화. 오펜시브 보안 플랫폼 고도화[보안뉴스 조재호 기자] 엔키화이트햇이 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘2026 AI 보안 유망기업 육성 지원사업’ 사업화 분야에 최종 선정됐다고 13일 밝혔다",
-      "points": [
-        "과기정통부·KISA 주관 사업화 과제 최종 선정, 시제품 이어 2년 연속 성과LLM과 다중 에이전트 결합, 화이트해커 지식 자산화",
-        "오펜시브 보안 플랫폼 고도화[보안뉴스 조재호 기자] 엔키화이트햇이 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘2026 AI 보안 유망기업 육성 지원사업’ 사업화 분...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "챗GPT에 북한 해킹 그림자? 애플 맥OS용 앱 휴지통 강제 이동 사고",
-      "link": "http://www.boannews.com/media/view.asp?idx=143599&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 10:01:00 +0900",
-      "description": "[보안뉴스 김형근 기자] 최근 맥OS을 사용하는 수많은 사람들이 40시간 동안 챗GPT 데스크톱 앱이 악성코드로 감지돼 휴지통으로 강제 이동되는 심각한 문제를 겪었다. 애플은 북한 해킹 조직 연계를 의심하며 관련 개발자 인증서를 철회했다. 애플의 내장 보안 시스템인 게이트키퍼와 엑스프로텍트는 이 앱이 컴퓨터에 해를 끼칠 수 있다는 위험 알림창을 화면에 띄웠",
-      "language": "ko",
-      "summary": "애플이 사용자가 사용한 맥OS에서의 앱 강제 이동과 보호 시스템",
-      "points": [
-        "북한 해킹 그림자를 활성화하여 관리자가 약속한 임상쟁정을 피해질 수 있다.",
-        "게이트키퍼와 엑스프로텍트는 이 앱에 대한 위반 약솪시공고를 화면에 보여준다.",
-        "관련 개발자의 인증서가 체제에 대한 임신족협사로 직접 확장되어 이를 본격적으로 허용하는 경우였다."
-      ],
-      "insight": "이러한 강제 이동 사고는 정성적인 보안을 위해 모처리 방식으로 구현해야 함을 의미합니다."
-    },
-    {
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 13 May 2026 00:26:48 +0000",
-      "description": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-      "language": "en",
-      "summary": "Medicare is introducing its new payment model designed to support artificial intelligence in healthcare monitoring and coordination services between visits or calls.",
-      "points": [
-        "Government has not previously created a mechanism for paying AI agents that provide patient care beyond direct medical intervention",
-        "ACCESS program pays providers extra when they use technology to monitor patients outside regular appointments and coordinate necessary services like housing, medication pickups.",
-        "Medicare is adapting its payment model specifically for artificial intelligence applications within healthcare."
-      ],
-      "insight": "This Medicare initiative could set a precedent for how AI-driven care coordination might be funded and incentivized across the broader US healthcare system, potentially influencing future IT investments into home monitoring technologies by patients with chronic conditions or those recovering from surgeries."
-    },
-    {
-      "title": "[카드뉴스] “지웠는데 털렸다?”… ‘잊힐 권리’ 이행하다 랜섬웨어 초대하는 기업들",
-      "link": "http://www.boannews.com/media/view.asp?idx=143596&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 13 May 2026 09:20:00 +0900",
-      "description": "개인정보 보호법과 ‘잊힐 권리’에 따른 데이터 삭제 요구가 증가하면서, 삭제 처리를 위해 백업 서버의 보안 권한을 일시적으로 해제하는 틈을 노린 사이버 공격이 급증하고 있다. 법적 규제 준수(Compliance)와 시스템 보안 강화 사이에서 발생하는 ‘역설적 모순’은 랜섬웨어 침투의 핵심 경로가 되고 있어, 이에 대한 새로운 보안 아키텍처 설계가 절실한 상",
-      "language": "ko",
-      "summary": "개인정보 보호법과 '있힐 권리'에 대해 이컷스 공격자가 백업 서비스의 보안 권한을 일시적으로 해제하여 데이021 기사에서, 본격인 온라인 쿠킷 시장은 신용정보 질홨과 '있힐 권리'를 가능한 편리도에 대한 이해의 지식이 모호하게 전향하고, 이로부터 공격자들은 보안을 위해 기존 백업 서비스의 보안 권한을 일시적으로 해제하여 보호에 대한 신뢰성을 돈다고 항상 부정적으로 가정한다. 이 상황에서 공격자들은 쿠킷 시장의 보안 아키텍처를 따라 진전하여 개인정보 보호에 추가적인 방화중이다.",
-      "points": [
-        "- 기사는 '있힐 권리'이 국내 및 공에도 부천하는 문제로 인한 신용정보 보호에 대한 우려가 생김.",
-        "- 시스템의 보안이 여전히 국내에서 그룹화되고 있다는 주장이 드러나고 있음.",
-        "- '잋힠 권리'과 신용정보 질홗에 대한 공룡으로 인해 개인정보 보호에 대한 문제가 전형적으로 발생하고 있다는 사유가 있음."
-      ],
-      "insight": "이러한 '습관점'은 플랫폼에서 공격자들이 활성화하도록 보호 시스템을 개발하는 방향으로, '습관점'가 보다 현실적이지 않은 사상적인 지찍도를 제어하기위해서 '있힠 권리'을 일시적으로 금방 해제하여 보호를 완화시키는 전략이 유도되고 있다."
-    },
-    {
-      "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
-      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 18:45:05 +0000",
-      "description": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
-      "language": "en",
-      "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III",
-      "points": [
-        "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
-      "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 18:14:58 +0000",
-      "description": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
-      "language": "en",
-      "summary": "Former Tesla executive and current Heron Power CEO Drew Baglino has started a heat pump technology company named Sadi Thermal Machines after leaving his previous roles.",
-      "points": [
-        "Drew Baglino founded the startup, Sadi Thermal Machines.",
-        "The new venture is focused on innovative heating and cooling solutions using heat pumps.",
-        "Baglino's experience in Tesla’s energy division has significantly contributed to his current entrepreneurial journey. "
-      ],
-      "insight": "Drew Baglino's transition from the electric vehicle market at a major company like Tesla into an emerging and alternative heating technology indicates growing interest within tech industries towards sustainable solutions."
-    },
-    {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 18:05:15 +0000",
-      "description": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
-      "language": "en",
-      "summary": "Elon Musk considered transferring OpenAI to his children after discussing AI risks with CEO Sam Altman.",
-      "points": [
-        "During a conversation about the dangers of artificial intelligence, Elon Musk expressed concerns that led him to consider entrusting OpenAI to his offspring as heirs apparent."
-      ],
-      "insight": "This event suggests potential changes in leadership and future direction for one of AI's leading entities, with implications beyond the organization itself into broader tech industry governance norms."
-    },
-    {
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 17:36:34 +0000",
-      "description": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
-      "language": "en",
-      "summary": "Anthropic warns investors against secondary platforms offering unautclated share trading opportunities.",
-      "points": [
-        "The company has identified several unregulated entities that claim to offer access to Anthropi's shares",
-        "These platforms include Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive among others"
-      ],
-      "insight": "The warning emphasizes the need for investor vigilance and reliance on authorized channels to avoid potential fraudulent schemes."
-    },
-    {
-      "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
-      "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 17:33:29 +0000",
-      "description": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
-      "language": "en",
-      "summary": "Samsara uses artificial intelligence alongside trucks for efficient identification and prioritization of varying types of road damages such as potholes.",
-      "points": [
-        "Samsara has created an AI model to identify various potholes, evaluating their deterioration speed which helps in planning repairs more efficiently.",
-        "Using cameras on Samsara'curbed trucks allows for real-time damage assessment and prioritization while the fleet is actively patrolling streets.",
-        "The AI system assists city departments to focus resources effectively, potentially saving millions in road repair costs."
-      ],
-      "insight": "Samsara's approach demonstrates how technology can optimize infrastructure maintenance within limited budgets and could influence public sector practices for asset management globally."
-    },
-    {
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 17:30:57 +0000",
-      "description": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-      "language": "en",
-      "summary": "Google and SpaceX are exploring partnerships to establish data centers in orbit with a focus on artificial intelligence computing.",
-      "points": [
-        "Space-based data centers could become the future for AI compute despite current high costs compared to ground facilities.",
-        "Google is actively seeking cost savings and performance improvements by potentially moving its infrastructure into space through partnership with SpaceX or other companies like Lockheed Martin or Airbus Defence & Space.",
-        "Key benefits of orbit data centers include faster computation times for big AI projects, better temperature regulation due to the cold vacuum environment in space."
-      ],
-      "insight": "The endeavor by Google and partners to build data centers in space could revolutionize access to high-performance computing resources while challenging current cost structures within IT industries."
-    },
-    {
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 17:01:00 +0000",
-      "description": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-      "language": "en",
-      "summary": "Google announced several new AI and personalization features at its Android Show event including Googlebooks laptops, Gemini-based functionalities, vibe-coded widgets, integration of the feature in Chrome browser via an extension called 'Gemini', as well as refreshed versions for Android Auto.",
-      "points": [
-        "Google unveiled AI-first laptop named Googlebooks with personalized features like agentic Gemini and language learning tailored to user preferences",
-        "The new laptops have a focus on privacy, allowing users full control over their data without third-party interference.",
-        "Google introduced vibe-coded widgets that change appearance based on the time of day or weather conditions."
-      ],
-      "insight": "This news signifies Google' endorsement for AI as a core technology, pushing personalized computing experiences while emphasizing user privacy and seamless integration across different devices in their ecosystem. The addition of vibe-coded widgets reflects the company’s commitment to integrating everyday life with digital convenience."
-    },
-    {
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
-      "description": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
-      "language": "en",
-      "summary": "Anthropic announces a new range of tools for the AI legal services market.",
-      "points": [
-        "AI startup Anthropic is entering the growing field of artificial intelligence in law",
-        "The company's suite will assist with various tasks within law firms, including contract analysis and drafting",
-        "Anthropic plans to scale its offerings globally"
-      ],
-      "insight": "This move by Anthropic signifies the rapid adoption of AI in professional services sectors like legal practice."
     }
   ]
 }
