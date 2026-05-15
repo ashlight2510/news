@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-05-15T14:08:10.061Z",
+  "generatedAt": "2026-05-15T19:32:20.168Z",
   "articles": [
+    {
+      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+      "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 18:51:33 +0000",
+      "description": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
+      "language": "en",
+      "summary": "A mistake by a tech company led sensitive customer information accessible via their publicly shared check-in system.",
+      "points": [
+        "Tech firm's cloud storage mistakenly set to 'public', exposing user data",
+        "Million+ records of personal identification details, including passports and driver’ endorsements at risk due to security error",
+        "The oversight reflects a serious lapse in cybersecurity protocols within the company"
+      ],
+      "insight": "This incident serves as an urgent wake-up call for all tech companies about stringent data protection and regular auditing of their systems."
+    },
+    {
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 18:14:44 +0000",
+      "description": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "language": "en",
+      "summary": "AI-driven increases in power consumption are leading to soaring costs at Lake Tahoe' end resorts, threatening its status as a vacation destination.",
+      "points": [
+        "Lake Tahoe is facing an increase in energy prices due to heightened AI demand for electricity",
+        "The rise could potentially affect the popularity of Lake Tahoe among Silicon Valley professionals seeking affordable skiing getawyses during vacations.",
+        "Resorts are exploring alternative and sustainable sources of energy as a response to these cost increases."
+      ],
+      "insight": "The news underscores the impact that AI-driven demands can have on infrastructure costs, potentially altering consumer behavior within Silicon Valley's vacation economy. This may drive innovations in sustainable energy solutions at resort destinations affected by such external factors."
+    },
+    {
+      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+      "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 17:13:26 +0000",
+      "description": "Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+      "language": "en",
+      "summary": "Tesla's Robotaxi service experienced crashes where a human driver attempted teleoperation and one incident involved an unlicensed teenager driving the vehicle.",
+      "points": [
+        "Human drivers attempting to operate Tesla robotaxis, leading to two reported crashes without success.",
+        "In one crash in Dallas, Texas, on May 4th, a human driver tried teleoperating but was unable due to lack of internet connection and experienced the vehicle going off-road for extended periods while trying to regain control.",
+        "Another accident occurred near Houston when an unlicensed teenager took the wheel from her mother's Tesla Model 3, leading to a crash."
+      ],
+      "insight": "Tesla may need to reconsider its approach towards scaling robotaxi services due to safety concerns and regulatory challenges presented by these incidents. Teleoperation as an immediate solution might not be the most secure option for human drivers lacking internet access or proper driving licenses."
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 16:00:00 +0000",
+      "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "language": "en",
+      "summary": "OpenAI has launched ChatGPT for personal finance with the feature to link bank accounts directly from its platform.",
+      "points": [
+        "ChatGPT can now be used for managing personal finances",
+        "Integration of financial account connections within OpenAI'in chatbot system",
+        "The dashboard will display portfolio performance, spending habits and upcoming payments"
+      ],
+      "insight": "This launch marks a significant advancement in AI-powered personal finance management tools that offer an end-to-end solution for users to monitor their financial health efficiently."
+    },
+    {
+      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
+      "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 15:45:53 +0000",
+      "description": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
+      "language": "en",
+      "summary": "U.S. power prices have increased by over 76% due to demand from electric vehicle chargers in New York State, highlighting a strain on the grid as it struggles with demands of an AI-driven economy.",
+      "points": [
+        "- Power price spike experienced on America's largest power grid",
+        "- Demand for electricity increased due to EV chargers in New York State, causing prices to rise significantly (76% increase)",
+        "- U.S. power grids were not designed with the current demands of an AI-driven economy and growing energy needs"
+      ],
+      "insight": "The significant price spikes indicate a pressing need for infrastructure upgrades to support the increasing electrical demand from emerging technologies like electric vehicles, which could impact overall power generation costs."
+    },
+    {
+      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
+      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 15:42:11 +0000",
+      "description": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
+      "language": "en",
+      "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities",
+      "points": [
+        "While the summit appeared cordial, China remains a key adversary of the United States, given its adv...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
       "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
@@ -657,96 +747,6 @@
       "points": [
         "기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이...",
         "AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이번엔 마이크로소프트... 새 AI 보안 시스템 MDASH, 취약점 탐지 성적 미토스 넘어",
-      "link": "http://www.boannews.com/media/view.asp?idx=143626&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 18:05:00 +0900",
-      "description": "100개 이상 특화 에이전트 조율해 취약점 탐지... 비공개 프리뷰로 공개[보안뉴스 한세희 기자] 마이크로소프트가 100개 이상의 인공지능(AI) 에이전트를 연결해 취약점을 찾아내는 AI 보안 시스템 ‘MDASH’를 공개했다. 벤치마크 테스트에서 앤트로픽 ‘미토스’나 오픈AI GPT-5.5를 앞서는 결과를 냈다. MDASH는 ‘Multi-moDel Agen",
-      "language": "ko",
-      "summary": "마이크로소프트가 100개 이상의 AI 에이전트를 연동시킨 MDASS, 오픈AI GPT-5.5과 같이 약한 비공개 AI 보안 시스템을 테스트하여 취약점 탐지 방식의 성능을 향상",
-      "points": [
-        "- 마이크로소프트가 100개 이상의 AI 에이전트를 MDASS에 연계한 시스템이다.",
-        "- 오픈AI GPT-5.5과 같이 강력한 AI 어패들로 시작해 약한 보안 시스템을 검사하여 취약점을 식별",
-        "- 과학자가 지원하여 MDASS에서 찾아나니면 우리가 인공지능이 활성화되었다는 것을 알리기도 위해 비공개 PR로 전달한다."
-      ],
-      "insight": "AI 보안에서의 현재 중요성은 충불하지만 근본적인 방식이 아니라 활용방식에 대한 알리미드는 부족해 보게다. MDASS는 AI로 인식되어진 충불사를 모니터링하는 과정에서 문제가 있지만, 기술의 일부에서는 이전보다 성능이 향상되었으리라는 논인이 공격해보고 싶음."
-    },
-    {
-      "title": "AI 에이전트 시대의 보안... 팔로알토, 아이덴티티 보안 플랫폼 ‘이디라’(Idira) 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143624&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 15:37:00 +0900",
-      "description": "인간, 기계, 자율형 AI 에이전트 아우르는 차세대 아이덴티티 보안 플랫폼 이디라(Idira) 공개사이버아크(CyberArk) 전문성 결합, 특권접근관리(PAM) 기술 동적 확장 구현[보안뉴스 조재호 기자] 기계와 AI 아이덴티티(Identity)가 인간보다 109배 많아진 2026년, 사이버 공격자들은 시스템을 파괴하는 대신 정상 신원을 도용해 ‘로그인’",
-      "language": "ko",
-      "summary": "인간, 기계, 자율형 AI 에이전트 아우르는 차세대 아이덴티티 보안 플랫폼 이디라(Idira) 공개사이버아크(CyberArk) 전문성 결합, 특권접근관리(PAM) 기술 동적 확장 구현[보안뉴스 조재호 기자] 기계와 AI 아이덴티티(Identity)가 인간보다 109배 많아진 2026년, 사이버 공격자들은 시스템을 파괴하는 대신 정상 신원을 도용해 ‘로그인’",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 06:05:31 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Campbell Brown discusses the challenging aspects of ensnerving accurate and reliable information in AI-driven platforms.",
-      "points": [
-        "The creation and maintenance of factual content for generative models presents difficulties, as evidenced by recent events involving Meta's 'CoPilot'.",
-        "Brown advocates for rigorous checks to prevent the spread of misinformation in AI-generated articles.",
-        "Claiming accountability is essential when utilizing advanced technologies like generative models."
-      ],
-      "insight": "The news underscores critical ethical considerations and responsibility associated with deploying AI systems for content creation, particularly regarding accuracy and misinformation risks in the industry. It calls attention to implementing comprehensive verification protocols as a safeguard against potential harm."
-    },
-    {
-      "title": "SK쉴더스 “중소기업 해킹 인지까지 106.1일... 야간 틈탄 랜섬웨어 기승”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143623&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:53:00 +0900",
-      "description": "최근 5년간 중소·중견기업 대상 사이버 침해사고 실태최초 침투 후 조사 착수까지 평균 106.1일 소요, 방어 골든타임 상실전체 사고 47.4% 제조업에 집중... 24시간 상시 대응 위한 MDR 도입 필요해[보안뉴스 조재호 기자] 보안 인력과 인프라가 상대적으로 부족한 중소·중견기업을 겨냥한 사이버 공격이 갈수록 고도화되며 기업 비즈니스 연속성을 심각하게",
-      "language": "ko",
-      "summary": "중소·중견기업 사내공격에서의 가까이한 시기 사고율, 비즈니스 연속성을 심각하게 포ctl리잇",
-      "points": [
-        "중소·중견기업에서 5년간 많은 사고를 경흐하면서, 이전보다 사내공격 사고율이 일정하게 높아진다.",
-        "47.4%는 제조업에서만 가중치를 받고 나머지는 약해인 비즈니스와 IT계열이 대다수로.",
-        "사회적 상대적 부족에 의한 사결 공격에서는 직장인과 기분질을 통해 일하는 사원이 덜 민갸리로 대응할 수 0가지만."
-      ],
-      "insight": "중소·중견기업의 IT/기술 부당이 비즈니스 연속성에 유리하지 않음을 강ely 받아들일 수 있다."
-    },
-    {
-      "title": "“태권도 단증도 스마트폰에 쏙”... 국기원에 ‘옴니원 디지털 ID’ 공급",
-      "link": "http://www.boannews.com/media/view.asp?idx=143621&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:29:00 +0900",
-      "description": "품·단증 등 27종 블록체인 기반 모바일 신원증명으로 전환분산신원인증(DID) 기술로 위변조 원천 차단[보안뉴스 조재호 기자] 플라스틱 카드와 종이 형태로 발급되던 태권도 단증이 스마트폰 속 디지털 지갑으로 들어왔다. 라온시큐어가 국기원 태권도 품·단증과 자격증을 디지털 신원증명 방식으로 구축하는 ‘국기원 디지털아이디’ 사업을 성공적으로 완료했다고 14일",
-      "language": "ko",
-      "summary": "태권도 단증이 스마트폰에서 공급되었다.",
-      "points": [
-        "국기원과 태권도 단증이 스마트폰 사용자로부터 디지털 청구 방식으로 공급",
-        "태권도 단증은 품·단증 등에서 기반 이다.",
-        0.5
-      ],
-      "insight": "이 기사는 기반 모바일 신원증명 방식이 IT/기술 업계에서 현在이루고홀하게 발전하고 있는 DID(Digital Identity) 기술의 사용으로인한 국기원과 태권도 단증 공급 현상을 강조한다."
-    },
-    {
-      "title": "SKT, 해킹 후 CPO 관리·감독 강화... 사고 기업들 이행 결과 발표",
-      "link": "http://www.boannews.com/media/view.asp?idx=143622&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:28:00 +0900",
-      "description": "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개선 권고를 적극적으로 이행했다. 개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다. 개인정보",
-      "language": "ko",
-      "summary": "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개선 권고를 적극적으로 이행했다. 개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다",
-      "points": [
-        "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개...",
-        "개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
