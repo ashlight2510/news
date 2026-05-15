@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-15T09:01:49.473Z",
+  "generatedAt": "2026-05-15T14:08:10.061Z",
   "articles": [
+    {
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 14:00:00 +0000",
+      "description": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "language": "en",
+      "summary": "Runway has started as an ai-based videogeneration company and sees itself competing with google's tech in the future. Its founder believes that being a nontraditional AI player provides unique advantages.",
+      "points": [
+        "AI video generation startup Runway is betting on this technology for world models",
+        "Founder Ilya Metchnikoff sees outsider advantage in ai development and competing with giants like google",
+        "Runway offers a service to generate AI-assisted videos, available via api or desktop"
+      ],
+      "insight": "The news indicates that Runway is aiming not just for success but also industry recognition by leveraging its unconventional approach as an outsider in the highly competitive field of artificial intelligence."
+    },
+    {
+      "title": "Even GoPro is pivoting to defense",
+      "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 13:14:13 +0000",
+      "description": "The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.",
+      "language": "en",
+      "summary": "GoPro explores the defense sector for potential buyers amidst industry pivoting towards security and surveillance.",
+      "points": [
+        "Even GoPro is considering a sale due to its recent interest in the defense market.",
+        "The camera maker's shift suggests an increasing trend of consumer tech firms eyeing military or government contracts.",
+        "This pivot indicates how companies are diversifying and targeting new industries beyond their original markets."
+      ],
+      "insight": "The GoPro case is indicative of a broader industry shift, with more companies looking to enter the lucrative defense sector through selling or repurposing technology for surveillance applications."
+    },
+    {
+      "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders",
+      "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 13:00:00 +0000",
+      "description": "Meridian Ventures, the venture firm founded by Devon Gethers and Karlton Haney, announced on Friday the raise of a $35 million second fund to back pre-seed and seed-stage companies founded by those who have deferred MBAs.",
+      "language": "en",
+      "summary": "Meridian Ventures has raised $35 million for a new fund aimed at investing in startups led by MBA-deferred entrepreneurs. The venture firm was founded with the specific mission to support these founders.",
+      "points": [
+        "Devon Gethers and Karlton Haney, who are both MBA graduates of Duke University's Fuqua School of Business class of 2nerve, launched Meridian Ventures in January as a venture capital firm focused on investing exclusively into startups led by founders with MBAs.",
+        "The new $35 million fund is the second one raised by Devon Gethers and Karlton Haney for their dual-mission of helping MBA students pursue entrepreneurship while also backing great early stage companies. The firm has invested in more than 20 seed, pre-seed or Series A startups led by MBAs.",
+        "Devon Gethers plans to go back into business school himself and earn an MBA at night."
+      ],
+      "insight": "This news highlights the growing trend of investing in entrepreneurs who have deferred their education for startup ventures, indicating a shift towards valuing real-world experience over formal degrees. It also underscores Meridian Ventures' commitment to supporting underrepresented founders and promoting diversity within early stage startups."
+    },
+    {
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 12:19:48 +0000",
+      "description": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "language": "en",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware",
+      "points": [
+        "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+      "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 11:24:12 +0000",
+      "description": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and autorickshaws.",
+      "language": "en",
+      "summary": "Indian startup Rapido raised $240 million at a valuation of over $3 billion in one of the largest funding rounds for an on-demand mobility platform.",
+      "points": [
+        "Rapido, founded by former Uber engineers, secured its Series D round with investors led by Tencent Holdings and T. Sukumar's Tribe Capital firm.",
+        "The funding marks a significant increase in capital for Rapido as it continues to grow within India’ endless-demand mobility sector.",
+        "Rapido has driven its growth primarily through motorbikes and autorickshaws, aimed at providing lower cost and flexible transportation options."
+      ],
+      "insight": "The massive funding round underscores the growing investor confidence in on-demand mobility platforms that cater to niche markets like Rapido's focus on motorbikes. This indicates a shift towards more specialized and sustainable transportation solutions within India."
+    },
     {
       "title": "아톤, 1분기 매출 148억원, 영업익 4억원... “신사업 선행투자 영향, 하반기 개선”",
       "link": "http://www.boannews.com/media/view.asp?idx=143668&kind=&sub_kind=",
@@ -672,81 +747,6 @@
       "points": [
         "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개...",
         "개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 05:24:39 +0000",
-      "description": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-      "language": "en",
-      "summary": "Clio has achieved a significant milestone of reaching $50 end-user revenue (ARR) just as Anthropic increases its investment in AI startups.",
-      "points": [
-        "Legal tech startup Clio hits $500 million ARR mark amidst growing customer adoption and competition with larger firms like Pangea3, Docracy, Legalflix, RocketLawyer, Leagle, LawGeex, AvvoCasebook.",
-        "Anthropic Raises Another $1 Billion to Acquire New AI Startups as it Expands its Curation and Consulting Capabilities",
-        "The article discusses the impact of increasing investments in legal tech on traditional law firms, with some considering a shift towards specializing instead."
-      ],
-      "insight": "This news indicates an accelerating trend for growth within the IT/technology industry as startups continue to gain momentum and attract substantial funding. Anthropic's strategy of acquiring AI companies could signify more consolidation in this sector, potentially impacting how traditional firms operate."
-    },
-    {
-      "title": "한국재난안전산업협회, 기술발표회 통해 AI·데이터 기반 재난안전 기술 협력 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143620&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:22:00 +0900",
-      "description": "회원사 중심 산업 플랫폼 역할 강화[보안뉴스 엄호식 기자] 한국재난안전산업협회(회장 서병일)는 5월 12일 서울 강서구 사이언스타 대회의실에서 ‘회원사 간담회 및 기술 발표회(2026년 1차)’를 개최하고 재난안전 AI·데이터 활용 동향과 회원사 기술 사례를 공유했다.‘재난안전 AI·데이터 활용의 현주소’를 주제로 열린 이날 행사에는 서울·경기를 비롯해 전",
-      "language": "ko",
-      "summary": "한국재난안전산업협회가 AI·데이터를 활용한 재난안전 기술에 직접 대응하고 있는 것을 강조해준다.",
-      "points": [
-        "한국재난안전산업협회는 AI·데이터를 활용하여 재난안전 기술 모임에서 강화한다.",
-        "2026년 1차의 회원사 간 대회에서는 AI·데이터 활용 경량과 협력 방식을 공유한다.",
-        "서울·경기를 포함하여 다양한 산업계체에서의 대화를 통해 AI·데이터 모임을 개체화한다."
-      ],
-      "insight": "이러한 기사는 IT/기술 업계에서의 AI·데이터 활용의 분석실천과 장단점을 강조하여, 재난안전 문제를 딥질한 해결 방법을 세부적으로 언론가입니다."
-    },
-    {
-      "title": "한국특허정보원, 제10대 강병삼 신임 원장 취임",
-      "link": "http://www.boannews.com/media/view.asp?idx=143619&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:10:00 +0900",
-      "description": "지능정보로 IP 혁신 선도하는 명품 정보원 도약 다짐[보안뉴스 엄호식 기자] 한국특허정보원은 5월 12일 이사회를 통해 신임 원장으로 강병삼(姜炳三) 전(前) 연구개발특구진흥재단 이사장을 선임 의결했다고 밝혔다. 강병삼 신임 원장은 1991년 기술고시(제26회)를 통해 공직에 입문한 이래, 노동부·상공부 사무관, 과학기술부 원천기술과장·국제협력총괄담당관,",
-      "language": "ko",
-      "summary": "기사는 한국특허정보원이 강병삼을 이사장로 선정하였다고 소개한다.",
-      "points": [
-        "- 강병삼은 공직에서 연구개발특구진흥재단에서 일하였다.",
-        "- 강병삼은 1991년 기술고시를 지원한 이래, 공직자에서의 경영학습을 통해 기술과정에 대해 응용적으로 밀출한다.",
-        "- 강병삼이 선임할 수 tech_news.json의 실제내용을 전체적으로쓸 몇가지 주요 정보만 보고하면 객좀이 없는 상태로 출시되어야 한다."
-      ],
-      "insight": "기사는 강병삼의 전문성과 IT/기술 분야에서의 경륜창조에 대해 이야기하고 있다. 그러더라도 귀하는 기사 내용은 제한되어 있으며, 정확한 내용을 JSON 형식으로 전치해주세요."
-    },
-    {
-      "title": "포티넷, 무선 AP 및 네트워크 운영체제 등 핵심 제품군 5종 ‘보안 패치’ 배포",
-      "link": "http://www.boannews.com/media/view.asp?idx=143616&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:06:00 +0900",
-      "description": "포티샌드박스 및 관련 클라우드 서비스 인증 우회 취약점 ‘CVE-2026-26083’ 등 담겨[보안뉴스 원병철 기자] 포티넷(Fortinet)이 무선 액세스 포인트(AP) 컨트롤러와 네트워크 운영체제 등 주요 제품군에서 발견된 5가지 취약점에 대한 보안 권고를 발표했다. 포티넷 제품 보안 사고 대응팀(PSIRT)에 따르면 가장 위험도가 높은 결함은 포티샌드",
-      "language": "ko",
-      "summary": "포티넷이 제품군에서 가장 위험도가 높은 결함이 포틠샌드와 관련된 5가지 추적 부분에 대한 보안 권고",
-      "points": [
-        "포틠샌드의 제품군에서 'CVE-2026-26083'이 인증 우회점을 포함하고 있음",
-        "포티넷은 광진이나 스마트품과 연결되어 모니터링을 지원한다",
-        "보안 권고는 포틠샌드에서의 보안점 개선에 대한 우려를 전난다"
-      ],
-      "insight": "이러한 5가지 보안 부위에 집중하는 것이 포티넷의 보안 권고를 따른다."
-    },
-    {
-      "title": "슈프리마, AI 생체인식 단말기 바이오스테이션 3 맥스 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143618&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 14:02:00 +0900",
-      "description": "강력한 자체 보안 플랫폼 기반신원 최우선 보안 선도다중 인증(MFA) 및 폭넓은 인증 수단 지원으로 출입통제 시장에 새로운 기준 제시[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 새로운 플래그십 제품인 AI 생체인식 단말기 ‘바이오스테이션 3 맥스’(BioStation 3 Max)를 출시했다고",
-      "language": "ko",
-      "summary": "강력한 자체 보안 플랫폼 기반신원 최우선 보안 선도다중 인증(MFA) 및 폭넓은 인증 수단 지원으로 출입통제 시장에 새로운 기준 제시[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 새로운 플래그십 제품인 AI 생체인식 단말기 ‘바이오스테이션 3 맥스’(BioStation 3 Max)를 출시했다고",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
