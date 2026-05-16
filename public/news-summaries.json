@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-15T19:32:20.168Z",
+  "generatedAt": "2026-05-16T02:55:32.978Z",
   "articles": [
+    {
+      "title": "[미토스 충격] 미토스 이용해 ‘철옹성’ 애플 맥OS 보안 뚫었다",
+      "link": "http://www.boannews.com/media/view.asp?idx=143670&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 16 May 2026 10:28:00 +0900",
+      "description": "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 기술이 적용된 애플 맥OS를 우회 공격하는 코드를 개발한 사례가 나왔다. 미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨",
+      "language": "ko",
+      "summary": "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 기술이 적용된 애플 맥OS를 우회 공격하는 코드를 개발한 사례가 나왔다. 미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨",
+      "points": [
+        "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 ...",
+        "미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“AI 맹신 말고 조별과제 조장 맡아라”... 아주대 달군 보안 선배들의 ‘진짜’ 조언",
+      "link": "http://www.boannews.com/media/view.asp?idx=143625&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 16 May 2026 09:25:00 +0900",
+      "description": "‘SDU COSS x OWASP 사이버 직무 멘토링’곽진 아주대 교수, 네이버·크리밋·화이트햇스쿨 등 실무자 5인 패널 토크[보안뉴스 조재호 기자] 13일 저녁 6시 30분, 모두가 하교를 서두르는 늦은 시간임에도 아주대학교 성호관 135호는 현업 진출을 꿈꾸는 예비 보안인들로 발 디딜 틈 없이 붐볐다. 일방적 발표 중심의 기술 세미나가 아닌, 실무자와 학",
+      "language": "ko",
+      "summary": "대학교 성호관에서 실무자로서 AI의 발언에 대한 대안이 나타내고 그들의 많은 경험적인 지식과 공부와 연귀를 제시.",
+      "points": [
+        "현대학교 성호관에서 5명의 실무자로 이루어진 모임이 발표",
+        "AI는 보안분야에서 여전히 기억과 견해가 필요한 역할을 하고, 실무자들은 AI의 진짜한 지식과 피보나처를 변경시킨 방법에 대해서 이앉기",
+        "일반적인 IT/보안 학문에서도 실무자가 AI를 다룰 때 와우스카드나 공백을 견해하지 않아질 것이 아니라고 강조"
+      ],
+      "insight": "실무자들이 제시한 AI의 진짜한 발언에 대한 대안은 IT/보안 주제로 이루어지는 다음과 같다."
+    },
+    {
+      "title": "18년 숨어있던 NGINX 치명적 결함 발견 “인증 없이 서버 장악 가능”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143669&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 16 May 2026 09:24:00 +0900",
+      "description": "인증 없이 원격 코드 실행(RCE)과 서버 권한 탈취 가능성 제기F5 “최신 버전 즉시 업데이트 필요” 추가 취약점 3종도 함께 패치[보안뉴스 김형근 기자] 전 세계 웹 서버 시장에서 널리 사용되는 엔진엑스 플러스(NGINX Plus) 및 엔진엑스 오픈소스(NGINX Open Source)에서 18년 간 발견되지 않았던 심각한 보안 취약점이 공개됐다.‘엔진",
+      "language": "ko",
+      "summary": "NGINX에서 관심이 많을 때, 18년 전의 예방적인 코드 오프소스와 개정된 엔진엑스 NGINX Plus에서 나타나는 근사한 것이 '인증 없이 원격 코드 실행'와 '서버 권한 탈취'를 가진 적으로 보안에 직접적인 문제점이 있음을 밝힙니다.",
+      "points": [
+        "- '인증 없이 원격 코드 실행'으로 인한 저존에서 직접 정의되어 있는 NGINX Plus에서는 보안성이 제한되어 있지만, Open Source에서는 그러나 '인증 없이 원격 코드 실행' 등의 취약적인 문제점이 있음을 볼 수 0있다.",
+        "- '서버 권한 탈취'에 대한 공개된 약속은 종업원이나 강화하거나 심위가 있는 경우로 보면 이상한 문제점을 볼 수 있다.",
+        "- '인증 없이 원격 코드 실행'과 '서버 권한 탈취'에 대한 공개된 노하우는 NGINX를 위한 보안 논제가 유 Einzeln의 반면이라고 생각해도, 보안적인 기술이나 공개된 서비스에서는 필수점임을 의사결정하시오."
+      ],
+      "insight": "NGINX를 위한 보안성 중요성이 인crease되고 있어서, 이전에 공개된 NGINX 기능과 관련된 보안 문제점은 IT/기술 업계가 중요하게 참고해야할 사항이다."
+    },
+    {
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 20:30:20 +0000",
+      "description": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
+      "language": "en",
+      "summary": "RJ Scaringe has successfully raised over $12 billion in funding across three ventures.",
+      "points": [
+        "Investors continue to show strong interest in RJ Scaringe and his startups despite significant capital already invested.",
+        "The popularity of Rivian, where Behl worked as a senior manager, is linked to the market'intrigue with electric vehicles (EVs).",
+        "RJ Scaringe’s communication skills are considered essential in raising investment for his ventures."
+      ],
+      "insight": "The substantial interest and funding RJ Scaringe has secured demonstrate a robust appetite among the technology sector for forward-thinking, high-risk EV startups. This could signal increased confidence within IT/technology industries regarding future investments in green energy solutions."
+    },
+    {
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 15 May 2026 20:25:35 +0000",
+      "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+      "language": "en",
+      "summary": "General Catalyst posted provocative content criticizing investment firm Andreessen Horowitz (a16z), leading to a heated exchange from Marc Andreessen himself.",
+      "points": [
+        "Marc Andreessen of General Catalyst shared an image and tweet that questioned the priorities, valuations, due diligence practices, investment thesis focus on early-stage companies for venture capital firms like a16z in Silicon Valley.",
+        "The post sparked immediate reactions from Marc Andreessen's peers within both General Catalyst and Andreessen Horowitz (a16z).",
+        "Andreessen emphasized that he is an individual with his own opinions, not representative of a firm."
+      ],
+      "insight": "This exchange highlights the passionate debates among venture capitalists regarding investment strategies and market dynamics in Silicon Valley. It also underscores how personal attacks on firms can provoke strong defenses from within as industry professionals stand by their respective firm's practices."
+    },
     {
       "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
       "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
@@ -675,81 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 14:01:14 +0000",
-      "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-      "language": "en",
-      "summary": "Cisco has announced a reduction of nearly 4,000 jobs to reallocate resources towards investing in artificial intelligence (AI) despite reporting 'record quarterly revenue' and growth.",
-      "points": [
-        "Cisco is undergoing its third round of layoffs with the largest number yet, affecting about 9% of their workforce over three years. This comes after previous rounds in February and April that cut a total of almost 13,000 jobs.",
-        "The company plans to save $56 million annually by reducing its sales force expenses which also impacts customer service responsibilities across the business units due to these layoffs. Additionally, Cisco intends to invest this money into AI research and development.",
-        "Despite significant cutbacks on workforce numbers in recent years as a result of continuous restructuring aimed at streamlining operations."
-      ],
-      "insight": "This trend within the IT industry reflects an increasing shift towards automation, with organizations like Cisco investing heavily into AI to remain competitive and innovative while also dealing with market pressures that force workforce downsizing. As a result, future job roles may evolve to focus more on managing these new technologies."
-    },
-    {
-      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
-      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
-      "description": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
-      "language": "en",
-      "summary": "AI Labs have a new ally with Wirestock's $23M funding for providing diverse creative data.",
-      "points": [
-        "Wirestock raises over $23 million to power its AI lab-focused platform",
-        "The company has amassed more than 700,00 extrinsic creators on the site who generate photos, videos and 3D content for machine learning models.",
-        "Wirestock's service provides a consistent stream of diverse data sets to AI labs that is otherwise hard-pressed to come together in an organic manner."
-      ],
-      "insight": "The expansion funding provided by Wirestock highlights the growing demand for rich, multi-modal datasets from creative industries and underscores the importance of such data in driving innovation within AI research. This partnership also emphasizes how artistry can intersect with technology to produce sophisticated machine learning models."
-    },
-    {
-      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
-      "description": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
-      "language": "en",
-      "summary": "TechCrunch has extended the deadline for submissions in its Startup Battlefield competition until May 27th.",
-      "points": [
-        "Startup Battlefield is a global event by TechCrunch featuring startups from across six continents competing to gain visibility and funding without equity dilution, culminating with the closing of applications on May 27.",
-        "The competition encourages innovation in various sectors including artificial intelligence (AI), healthcare technologies such as telehealth/remote patient monitoring devices using AI for diagnostics assistance like identifying skin cancer lesions or heart conditions, and robotics focused on improving human lives with affordable solutions.",
-        "Startups competing include companies from diverse backgrounds but highlight a notable representation of startups originating in Sub-Saharan Africa within the health tech sector."
-      ],
-      "insight": "The Startup Battlefield competition reflects TechCrunch's commitment to fostering innovation and supporting underrepresented entrepreneurs, particularly from regions like Sub-Saharan Africa. The focus on equity-free funding opportunities for startups is a significant aspect of the industry that enables new players without substantial initial capital."
-    },
-    {
-      "title": "Uber to open 2 campuses in India to support product development, operations",
-      "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 13:43:27 +0000",
-      "description": "Uber plans to open two new engineering campuses with a capacity of nearly 10,000 people in India by the end of 2027.",
-      "language": "en",
-      "summary": "The article discusses Uber's expansion plans to open two new engineering campuses with nearly a capacity of about 10,000 people in India by the end of 2027.",
-      "points": [
-        "Uber is expanding its operations and product development capabilities within the Indian market",
-        "Two U.S.-based campuses will be replicated nearly at full capacity with a combined staff size to support growth objectives in India by end of 2027",
-        "The expansion signifies confidence from one of the largest ride-hailing companies that there's substantial demand and potential for business within Indian IT sector"
-      ],
-      "insight": "This news suggests a continued strong interest and investment in India as an important market by U.S.-based tech firms, reflecting ongoing growth opportunities."
-    },
-    {
-      "title": "강병탁 AI스페라 대표, “AI 시대 보안은 ‘운영’... 에이전트 CTEM 출격”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143627&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 14 May 2026 18:15:00 +0900",
-      "description": "“미토스 대응? 기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이 우선입니다. AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다.”강병탁 AI스페라 대표",
-      "language": "ko",
-      "summary": "기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이 우선입니다. AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다...",
-      "points": [
-        "기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이...",
-        "AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
