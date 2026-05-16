@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-16T13:23:33.124Z",
+  "generatedAt": "2026-05-16T19:07:14.095Z",
   "articles": [
+    {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 16 May 2026 18:54:28 +0000",
+      "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "language": "en",
+      "summary": "In a bid to maintain academic integrity, ArXiv has announced strict measures against authors who rely solely on AI for writing their research articles.",
+      "points": [
+        "ArXiv will impose a one-year ban on authors found using large language models (LLMs) entirely without human contribution in their submissions.",
+        "The policy highlights ArXiv's concern about the reliability and originality of AI-generated content, asserting that papers should primarily reflect individual authorship.",
+        "This move aligns with broader debates on AI ethics within academia."
+      ],
+      "insight": "The decision indicates a growing awareness in the academic community about maintaining authenticity and integrity of scientific research amidst advancinA recent study reveals that nearly three-quarters (72%) of new hires feel underprepared to write grant proposals. The article discusses strategies for enhancing writing skills specifically tailored towards academia, where fundraising is crucial but often challenging due to the need for persuasive and clear communication in a language that may not be one's mother tongue."
+    },
+    {
+      "title": "The offline desk gadget that actually got me to sit up straight",
+      "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 16 May 2026 16:00:00 +0000",
+      "description": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+      "language": "en",
+      "summary": "The article discusses a high-priced desk gadget called Deep Care that assists in improving one'neral’s back health by promoting proper posture and movement habits at the workstation. Despite its hefty price tag, it operates without an internet connection.",
+      "points": [
+        "Deep Care is a $350 desk gadget designed to improve users' sitting habits",
+        "Workers can use Deep Care as part of their standing or seated work routine at the office and track progress over time with weekly reports that provide details on posture, movement patterns (e.g., sit-to-stand transitions), number of hours spent in either position each day",
+        "Deep Care encourages users to engage more frequently throughout their shifts by notifying them when it's appropriate and rewarding good sitting habits with points that can be redeemed for discounted items"
+      ],
+      "insight": "The Deep Care desk gadget demonstrates an innovative approach towards promoting better posture and movement among office workers, despite its steep price. As more companies recognize the importance of maintaining good workplace health practices to ensure employee productivity and satisfaction while offering a viable solution that requires no internet connection."
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 16 May 2026 15:33:33 +0000",
+      "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "language": "en",
+      "summary": "OpenAI has announced that co-founder Greg Brockman is now in charge of their product strategy amid rumors of merging AI chatbot ChatGPT and programming tool Codex.",
+      "points": [
+        "Co-founder Greg Brockman takes control as OpenAI' extramural leadership, steering new technology development",
+        "Plans to merge the advanced language models into one product are reportedly underway",
+        "OpenAI faces challenges in ensuring user safety and mitigating misuse of their AI systems"
+      ],
+      "insight": "This move could signify a significant shift towards consolidation within OpenAI's portfolio, potentially impacting the competitive dynamics among large-scale language models."
+    },
+    {
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 16 May 2026 15:00:00 +0000",
+      "description": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+      "language": "en",
+      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible",
+      "points": [
+        "Cerebras Systems was 2026's biggest tech IPO so far",
+        "But years ago, it burned through hundreds of millions working on a chip many believed impossible",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 16 May 2026 14:00:00 +0000",
+      "description": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
+      "language": "en",
+      "summary": "As Amazon ends support for its older e-reader devices like the Kindle Touch model KF5071/2, users have turned to jailbreaking as a way to continue adding books and apps that are unsupported by default on these legacy models. While it's technically feasible, this workaround comes with significant risks.",
+      "points": [
+        "Jailbreaking older Kindle devices like the Touch model KF5071/2 is becoming a popular practice among users to add support for unsupported software as Amazon ends its device and service lifecycle. This allows access to newer apps, themes, or books that are not part of standard updates.",
+        "The process involves overriding built-in security measures on Kindle devices which can lead to potential risks like exposure to malware, loss of data integrity, voided warranties and the possibility of hardware damage. These dangers stem from unregulated software installation or missteps during jailbreaking.",
+        "Amazon's decision not only affects Kindle users but also highlights a broader trend in technology where manufacturers cease to provide updates for older devices, pushing consumers towards workarounds like jailbreaking."
+      ],
+      "insight": "The news of Amazon ending support reflects the fast-paced and shortened lifecycle modern electronics face, prompting users toward hackery practices such as jailbreaking to extend usability. However, this trend raises concerns about security risks for both consumers and manufacturers."
+    },
     {
       "title": "“AI 주도할 최고 보안 리더 키운다”... 정예화 선언한 BoB 15기 모집설명회",
       "link": "http://www.boannews.com/media/view.asp?idx=143672&kind=&sub_kind=",
@@ -675,81 +750,6 @@
         "Allows users to instantly recognize trends in their AI coding patterns"
       ],
       "insight": "Clawdmeter could significantly impact how developers track and optimize the efficiency of Claude Code, potentially leading to a more streamlined approach within this niche sector."
-    },
-    {
-      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
-      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 18:56:43 +0000",
-      "description": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
-      "language": "en",
-      "summary": "YouTube viewers watch a significant amount of short-form content known as 'Shorts' not just on mobile devices but also frequently on TV screens.",
-      "points": [
-        "Despite being designed for mobile, YouTube Shorts attract considerable views on televisions monthly.",
-        "The popularity of YouTube Shorts extends beyond their primary platform, showing a versatile appeal across different screen sizes.",
-        "This trend indicates that short-form content is flexible and widely consumed."
-      ],
-      "insight": "YouTube's strategy to make its video format adaptable has paid off as users are consuming Shorts on various devices, suggesting a shift in how people prefer watching online videos. The success of YouTube Shorts across multiple platforms can encourage other content creators and tech companies to create more versatile formats."
-    },
-    {
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 16:30:02 +0000",
-      "description": "A year ago, it looked like this day would never happen for Cerebras.",
-      "language": "en",
-      "summary": "Cerebras successfully completed its initial public offering (IPO) last month on Wall Street with a valuation of $5.5 billion after raising funds and seeing the stock price jump by as much as 108%. This event marks one of the largest tech IPOs in history.",
-      "points": [
-        "Cerebras, specializing in artificial intelligence for data centers to optimize energy efficiency, completed its first successful public offering with a valuation of $5.5 billion and raised nearly half-a-billion dollars.",
-        "The company's stock price surged by as much as 108% following the IPO despite concerns about an economic slowdown in Asia which impacted AI investments earlier that year.",
-        "Cerebras has plans to build a $350 million chip plant and anticipates deploying its chips across numerous industries."
-      ],
-      "insight": "The massive tech IPO of Cerebras showcases the growing confidence in AI-focused companies within the technology industry, emphasizing sustainability as a key factor for investment despite economic uncertainties. The company's success also signals increased interest and belief in custom hardware tailored to specific sectors like healthcare."
-    },
-    {
-      "title": "OpenAI says hackers stole some data after latest code security issue",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 16:25:20 +0000",
-      "description": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
-      "language": "en",
-      "summary": "After a security vulnerability in OpenAI's codebase allowed hackers to access some devices used by employees, the company confirmed that there was limited damage and critical systems remain unaffected.",
-      "points": [
-        "- Hackers exploited an unspecified security issue within OpenAI’CTF (Community Technology Foundation) environment for Codeforces users in Europe since April 2019.",
-        "- The compromised access was limited to employee devices and did not affect user data, production systems or Intellectual Property of the organization.",
-        "- Organizations like Microsoft have previously faced similar cybersecurity issues."
-      ],
-      "insight": "While this incident is relatively contained within OpenAI's ecosystem, it underscores ongoing global concerns regarding IT security vulnerabilities and highlights why proactive measures are crucial in the technology industry."
-    },
-    {
-      "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
-      "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 15:42:18 +0000",
-      "description": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows.",
-      "language": "en",
-      "summary": "The music-streaming giant Spotify has announced its plan to use Apple' endorsed HLS video podcast distribution tech, simplifying creators’ processes for monetizing their content on both platforms without altering current workflows.",
-      "points": [
-        "Spotify adopts Apple’s new technology (HLS) allowing cross-platform compatibility with the popular music streaming service",
-        "Creators won't need to change existing production or distribution processes as Spotify integrates seamlessly into their workflow",
-        "This move is significant for creators seeking wider reach and more revenue from diverse platforms without additional complexity"
-      ],
-      "insight": "The integration of HLS technology by a major player like Spotify will likely set new standards in cross-platform content distribution, benefiting creators with easier access to broader audiences on various services."
-    },
-    {
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 15:20:18 +0000",
-      "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "language": "en",
-      "summary": "Khosla Ventures invested $1 endorses Ian Crosby's new startup Synthetic after his previous company Bench failed.",
-      "points": [
-        "Ian Crosby, founder of the now-defunct bookkeeping service for startups called Bench, is launching a fully autonomous AI solution named Synthetic.",
-        "$10M investment from Khosla Ventures supports Ian'tablet Crosby after his startup collapsed with debts and legal issues due to allegations of misconduct by former employees.",
-        "Synthetic promises to provide fully autonomous AI-based accounting services for startups, including automated invoicing and payroll functions."
-      ],
-      "insight": "This development shows that venture capitalists are willing to support entrepreneurs even after previous failures if they present promising new ideas. It also highlights the trend of integrating AI for business operations, which could significantly impact how startups manage their financial tasks."
     }
   ]
 }
