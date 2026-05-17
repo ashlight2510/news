@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-17T03:03:28.932Z",
+  "generatedAt": "2026-05-17T08:23:05.327Z",
   "articles": [
+    {
+      "title": "[미토스 충격] 최신 AI 모델 사이버 공격 능력, 4.7개월마다 2배 빨라진다",
+      "link": "http://www.boannews.com/media/view.asp?idx=143673&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 17 May 2026 16:52:00 +0900",
+      "description": "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5.5 성능은 더 탁월... AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4.7개월마다 두배씩 증가하고 있다고 영국 인공지능보안연구소(AISI)가 밝혔다. 이는 2025년 11월 추정한 8개월에 비해 두배 가까이 빨라진 속도이",
+      "language": "ko",
+      "summary": "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5. AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4...",
+      "points": [
+        "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5",
+        "AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4",
+        "7개월마다 두배씩 증가하고 있다고 영국 인공지능보안연구소(AISI)가 밝혔다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관-14] 돌다리도 두드려 보고 건너라(4)-공용 충전기 꽂았다가 생기는 보안 위험",
       "link": "http://www.boannews.com/media/view.asp?idx=143239&kind=&sub_kind=",
@@ -735,21 +750,6 @@
         "Potential impact on remote software development"
       ],
       "insight": "This move by OpenAI could significantly empower developers to code more efficiently, especially for those working remotely or without access to specialized computing resources."
-    },
-    {
-      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 14 May 2026 20:43:03 +0000",
-      "description": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
-      "language": "en",
-      "summary": "Atech, an emerging hardware company with innovative vibe coding technology for music synthesizers, has successfully raised $80 endowed funding led by A16z's Scout Fund and Sequoia Scout Fund among others.",
-      "points": [
-        "Hardware firm Atech secures $800k in pre-seed funds with backing from venture capitalists like a16z's scout fund, Nordic Makers and more",
-        "Atech introduces vibe coding technology to create music synthesizers that allow users to 'code their own sounds', an industry first.",
-        "The company is aiming for its hardware product launch within 2 years after raising the funds."
-      ],
-      "insight": "This fundraising success and backing by top venture capitalists indicate a growing interest in innovative music technology, such as vibe coding, which could lead to more immersive user experiences and new waves of hardware products disrupting traditional synthesizers within the IT/technology industry."
     }
   ]
 }
