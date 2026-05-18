@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-05-18T15:33:28.301Z",
+  "generatedAt": "2026-05-18T19:45:30.348Z",
   "articles": [
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 19:27:52 +0000",
+      "description": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+      "language": "en",
+      "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition",
+      "points": [
+        "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 17:34:43 +0000",
+      "description": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "language": "en",
+      "summary": "Elon Musk lost the suit he brought against Sam Altman and OpenAI because of timing issues with filing complaints.",
+      "points": [
+        "The jury in California unanimously decided that Elon's lawsuit was filed too late, resulting in a loss for him.",
+        "Elon Musk had accused his cofounders Sam Altman and Greg Brostoff of mistreatment after he left OpenAI but failed to support these allegations with sufficient evidence within the statute of limitations.",
+        "Despite Elon's attempts, there was not enough proof presented for misconduct or fraud by his co-founders in their handling of Musk’s resignation."
+      ],
+      "insight": "This verdict reinforces the significance of timely legal action within technology startups and sets a precedent on how personal disputes can impact such business relationships if not resolved professionally."
+    },
+    {
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 16:32:33 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "The New York City Department of Education (DOE) announced a security incident involving unautcurated access to the network that stores student information on more than two dozen school campuses across NYC. The data included personal identifiers, academic records, and grades.",
+      "points": [
+        "- Unauthorized individuals exploited vulnerabilities in the DOE's IT system between January and June of this year",
+        "- Sensitive information such as names, Social Security numbers, dates of birth, addresses, phone numbers were accessed",
+        "- No financial data or passwords appear to have been compromised"
+      ],
+      "insight": "This security breach underscores the importance of robust cybersecurity measures within educational institutions. Failure to do so can result in loss of public trust and potential legal consequences."
+    },
     {
       "title": "Kin Health raises $9M to build an AI notetaker for patients",
       "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
@@ -703,51 +748,6 @@
         "RJ Scaringe’s communication skills are considered essential in raising investment for his ventures."
       ],
       "insight": "The substantial interest and funding RJ Scaringe has secured demonstrate a robust appetite among the technology sector for forward-thinking, high-risk EV startups. This could signal increased confidence within IT/technology industries regarding future investments in green energy solutions."
-    },
-    {
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 20:25:35 +0000",
-      "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
-      "language": "en",
-      "summary": "General Catalyst posted provocative content criticizing investment firm Andreessen Horowitz (a16z), leading to a heated exchange from Marc Andreessen himself.",
-      "points": [
-        "Marc Andreessen of General Catalyst shared an image and tweet that questioned the priorities, valuations, due diligence practices, investment thesis focus on early-stage companies for venture capital firms like a16z in Silicon Valley.",
-        "The post sparked immediate reactions from Marc Andreessen's peers within both General Catalyst and Andreessen Horowitz (a16z).",
-        "Andreessen emphasized that he is an individual with his own opinions, not representative of a firm."
-      ],
-      "insight": "This exchange highlights the passionate debates among venture capitalists regarding investment strategies and market dynamics in Silicon Valley. It also underscores how personal attacks on firms can provoke strong defenses from within as industry professionals stand by their respective firm's practices."
-    },
-    {
-      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-      "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 18:51:33 +0000",
-      "description": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
-      "language": "en",
-      "summary": "A mistake by a tech company led sensitive customer information accessible via their publicly shared check-in system.",
-      "points": [
-        "Tech firm's cloud storage mistakenly set to 'public', exposing user data",
-        "Million+ records of personal identification details, including passports and driver’ endorsements at risk due to security error",
-        "The oversight reflects a serious lapse in cybersecurity protocols within the company"
-      ],
-      "insight": "This incident serves as an urgent wake-up call for all tech companies about stringent data protection and regular auditing of their systems."
-    },
-    {
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 18:14:44 +0000",
-      "description": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-      "language": "en",
-      "summary": "AI-driven increases in power consumption are leading to soaring costs at Lake Tahoe' end resorts, threatening its status as a vacation destination.",
-      "points": [
-        "Lake Tahoe is facing an increase in energy prices due to heightened AI demand for electricity",
-        "The rise could potentially affect the popularity of Lake Tahoe among Silicon Valley professionals seeking affordable skiing getawyses during vacations.",
-        "Resorts are exploring alternative and sustainable sources of energy as a response to these cost increases."
-      ],
-      "insight": "The news underscores the impact that AI-driven demands can have on infrastructure costs, potentially altering consumer behavior within Silicon Valley's vacation economy. This may drive innovations in sustainable energy solutions at resort destinations affected by such external factors."
     }
   ]
 }
