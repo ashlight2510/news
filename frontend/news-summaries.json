@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-05-18T10:27:26.323Z",
+  "generatedAt": "2026-05-18T15:33:28.301Z",
   "articles": [
+    {
+      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 15:26:00 +0000",
+      "description": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+      "language": "en",
+      "summary": "Kin Health has raised $9 million in funding to develop an AI-powered app called 'Notetaker' that records doctor visits and provides concise summaries of medical consultations for patients.",
+      "points": [
+        "AI company Kin Health raises capital",
+        "Notetaker will record, transcribe and condense doctors’ notes with next steps included (sharing option)",
+        "Funding secured to support development into a consumer-facing app"
+      ],
+      "insight": "The launch of Kin Health'in Notetaker could significantly improve the patient experience by providing clear, accessible post-consultation summaries. Additionally, it highlights an increasing trend in AI applications for personal healthcare management."
+    },
+    {
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 14:56:47 +0000",
+      "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "language": "en",
+      "summary": "Alexa has expanded capabilities with Amazon's Alexa+ feature that can create custom podcast episodes using artificial intelligence on demand.",
+      "points": [
+        "Amazon introduces a new AI-driven capability for its virtual assistant, allowing users to generate personalized content.",
+        "The updated system uses machine learning algorithms and natural language processing to produce audio narratives or dialogues tailored to user preferences in real time without the need for human writers.",
+        "Amazon provides various customization options including storylines based on specific interests, conversations with AI-powered characters designed by users themselves."
+      ],
+      "insight": "This advancement indicates Amazon's growing commitment to positioning Alexa as more than just a voice assistant and highlights the increasing convergence of artificial intelligence in content creation within the IT/technology industry. It could potentially disrupt traditional podcast production methods by making it much simpler for anyone with access to an AI-powered device like Amazon's Echo or Echo Studio."
+    },
+    {
+      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+      "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 13:42:19 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Grafana Labs, a company known for creating open-source monitoring solutions, has been hit by a cyberattack resulting in the loss of its source code.",
+      "points": [
+        "Hackers have reportedly gained access to Grafana's servers and stolen proprietary software including its core product - an open-source monitoring tool designed for operational intelligence across businesses, industries, infrastructure/system environments. The hacking attempt dates back from October 2019 through February of this year.",
+        "Although the attackers demanded a $36 million ransom in exchange for not releiderating code stolen and leaked on-line within two weeks post compromise, Grafana Labs refused to pay up. The company believes that once it begins working with third parties after an incident of this nature, its products' integrity will likely be permanently undermined.",
+        "Grafana has also taken measures such as isolating the affected servers and initiating a code forensic investigation on their own to prevent potential future breaches."
+      ],
+      "insight": "This incident underlines critical vulnerabilities within open-source tools, which may lack sufficient security protocols despite being widely used in enterprise settings. While refusal to pay the ransom is a commendable stance against funding cybercriminal activities, it also highlights potential risks of relying solely on internal resources for mitigation."
+    },
+    {
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 11:00:00 +0000",
+      "description": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "language": "en",
+      "summary": "South Korea's LetinAR is developing miniature lenses for use in next-generation smartglasses with artificial intelligence capabilities.",
+      "points": [
+        "LetinAR has developed a tiny thumbnail-size optical element integral to future AI glasses technology.",
+        "The startup recently secured $23 million USD in funding from investors including Sequoia Capital and Goldman Sachs Group, with plans for commercial production starting this year.",
+        "This represents the first time South Korea has produced a consumer-level optical component specifically designed to work within an AI glasses system."
+      ],
+      "insight": "The advancements by LetinAR could signal increased accessibility and affordability of cutting-edge smartglass technology, potentially revolutionizing various industries reliant on augmented reality (AR)."
+    },
     {
       "title": "[해킹을 결제하시겠습니까?] #3. 해외직구, 배송은 안 오고 카드만 털렸다",
       "link": "http://www.boannews.com/media/view.asp?idx=143498&kind=&sub_kind=",
@@ -688,66 +748,6 @@
         "Resorts are exploring alternative and sustainable sources of energy as a response to these cost increases."
       ],
       "insight": "The news underscores the impact that AI-driven demands can have on infrastructure costs, potentially altering consumer behavior within Silicon Valley's vacation economy. This may drive innovations in sustainable energy solutions at resort destinations affected by such external factors."
-    },
-    {
-      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-      "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 17:13:26 +0000",
-      "description": "Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
-      "language": "en",
-      "summary": "Tesla's Robotaxi service experienced crashes where a human driver attempted teleoperation and one incident involved an unlicensed teenager driving the vehicle.",
-      "points": [
-        "Human drivers attempting to operate Tesla robotaxis, leading to two reported crashes without success.",
-        "In one crash in Dallas, Texas, on May 4th, a human driver tried teleoperating but was unable due to lack of internet connection and experienced the vehicle going off-road for extended periods while trying to regain control.",
-        "Another accident occurred near Houston when an unlicensed teenager took the wheel from her mother's Tesla Model 3, leading to a crash."
-      ],
-      "insight": "Tesla may need to reconsider its approach towards scaling robotaxi services due to safety concerns and regulatory challenges presented by these incidents. Teleoperation as an immediate solution might not be the most secure option for human drivers lacking internet access or proper driving licenses."
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 16:00:00 +0000",
-      "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "language": "en",
-      "summary": "OpenAI has launched ChatGPT for personal finance with the feature to link bank accounts directly from its platform.",
-      "points": [
-        "ChatGPT can now be used for managing personal finances",
-        "Integration of financial account connections within OpenAI'in chatbot system",
-        "The dashboard will display portfolio performance, spending habits and upcoming payments"
-      ],
-      "insight": "This launch marks a significant advancement in AI-powered personal finance management tools that offer an end-to-end solution for users to monitor their financial health efficiently."
-    },
-    {
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
-      "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 15:45:53 +0000",
-      "description": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
-      "language": "en",
-      "summary": "U.S. power prices have increased by over 76% due to demand from electric vehicle chargers in New York State, highlighting a strain on the grid as it struggles with demands of an AI-driven economy.",
-      "points": [
-        "- Power price spike experienced on America's largest power grid",
-        "- Demand for electricity increased due to EV chargers in New York State, causing prices to rise significantly (76% increase)",
-        "- U.S. power grids were not designed with the current demands of an AI-driven economy and growing energy needs"
-      ],
-      "insight": "The significant price spikes indicate a pressing need for infrastructure upgrades to support the increasing electrical demand from emerging technologies like electric vehicles, which could impact overall power generation costs."
-    },
-    {
-      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
-      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 15:42:11 +0000",
-      "description": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
-      "language": "en",
-      "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities",
-      "points": [
-        "While the summit appeared cordial, China remains a key adversary of the United States, given its adv...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
