@@ -1,6 +1,305 @@
 {
-  "generatedAt": "2026-05-19T15:20:58.244Z",
+  "generatedAt": "2026-05-19T20:03:30.784Z",
   "articles": [
+    {
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 19:15:31 +0000",
+      "description": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+      "language": "en",
+      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
+      "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:51:39 +0000",
+      "description": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+      "language": "en",
+      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:51:30 +0000",
+      "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+      "language": "en",
+      "summary": "Google has unveiled Gemini 3.5 Flash, an advanced AI model that can autonomously execute complex coding tasks and construct software without human intervention.",
+      "points": [
+        "Gemini 3 endowed with the ability to learn from interactions much like a neural network by observing patterns in data",
+        "The new Gemini platform is designed for agency, acting as an agent capable of autonomous learning and decision-making through coding.",
+        "Developers can interact naturally with AI agents using plain language or code snippets to request specific outcomes."
+      ],
+      "insight": "Gemini represents a significant shift in how developers may expect future AI tools to operate, focusing on proactive capabilities rather than passive responses. This could greatly enhance efficiency and productivity within the tech industry by automating more complex tasks that were previously handled manually."
+    },
+    {
+      "title": "How to use Google’s new information agents",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:50:00 +0000",
+      "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "language": "en",
+      "summary": "Google has introduced new information agents, powered by artificial intelligence (AI), designed to track specific subjects of interest on social media platforms like Twitter in real-time without user prompting.",
+      "points": [
+        "The AI system will monitor tweets and other public posts related to predefined topics or keywords set up by users.",
+        "Users can customize the information agents based on interests such as politics, entertainment, tech updates etc., ensuring relevant content delivery in their feeds.",
+        "Google'softs AI technology is expected to evolve over time and provide more personalized user experiences."
+      ],
+      "insight": "This development by Google indicates a shift towards proactive, interest-based information consumption. As the algorithms become refined with continued use patterns and feedback loops, they could potentially transform how users interact with online content on social media platforms in general."
+    },
+    {
+      "title": "Google Search as you know it is over",
+      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:46:00 +0000",
+      "description": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+      "language": "en",
+      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google’s AI now lets you talk to your Gmail inbox",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "language": "en",
+      "summary": "Google has added a 'conversational' feature to its Gmail service using Google’s AI model called Gemini that allows users to interact with their emails through voice commands.",
+      "points": [
+        "Users can now use conversational text and speech, powered by the multimodal language understanding capabilities of Google's Gemini technology, for communication within Gmail inboxes without typing."
+      ],
+      "insight": "This innovation highlights an increasing trend towards natural user interaction with digital platforms across industries. In IT/technology, it demonstrates the importance and continuous advancement of AI to improve accessibility and enhance communication experiences for users globally."
+    },
+    {
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      "language": "en",
+      "summary": "Google introduced an online tool called Google's AI Studio which enables users to create native Android apps quickly using artificial intelligence technology.",
+      "points": [
+        "The new web-based tool by Google allows anyone with internet access to generate a custom Android app in just minutes, utilizing AI capabilities for rapid development.",
+        "Google is expanding its efforts into the software development field and pushing towards creating more user-friendly platforms that enable easy creation of complex applications without deep technical knowledge or coding skills. This aligns closely with Google'selowered accessibility initiatives in tech, aiming to democratize app development.",
+        "The tool uses a combination of AI techniques including pattern recognition and predictive modeling to generate the code needed for an Android application based on user input."
+      ],
+      "insight": "Google's move into providing web-based tools that leverage artificial intelligence could revolutionize app development, making it accessible even with no prior coding skills. It may also increase competition in the software market and push other companies to develop similar technologies or find new ways of staying competitive."
+    },
+    {
+      "title": "Google just declared itself a contender in AI design",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "language": "en",
+      "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners",
+      "points": [
+        "The tech giant says it's designed the app to be accessible to everyone, from teachers to small busin...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "language": "en",
+      "summary": "Google has updated the Gemini app with advanced features aimed at competing in the conversational AI market against rivals like ChatGPT and Claude.",
+      "points": [
+        "The updates to Google's Gemini transform it into a multifaceted AI platform rather than just an isolated chatbot, as per CEO Sundar Pichai",
+        "Investors have expressed concerns over the feasibility of creating such complex AI capabilities with limited hardware resources and potential security risks related to neural network usage.",
+        "Gemini's latest version is designed for extensive conversations that span various topics, demonstrating Google's commitment to enhancing its technology in this sector."
+      ],
+      "insight": "This move by Google signifies a strategic shift towards becoming an all-encompassing AI service provider and acknowledges the fierce competition from existing conversational models like ChatGPT. While there are concerns regarding resource allocation, it's evident that companies see potential in this direction for future growth."
+    },
+    {
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+      "language": "en",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+      "language": "en",
+      "summary": "Google has introduced a new feature called Universal Cart that tracks user browsing across different devices to streamline shopping experiences.",
+      "points": [
+        "Universal Cart is Google's response to multi-device online shopping habits, providing unified tracking and experience.",
+        "The cart follows users as they switch between smartphones, tablets, laptops or other devices during their daily activities. ",
+        "Retailers will be able to use this information for a more personalized recommendation system without compromising user privacy."
+      ],
+      "insight": "Universal Cart has the potential to revolutionize e-commerce by offering seamless shopping experiences across devices, while also respecting and enhancing consumer privacy within Google' extranet environment. This could set a new standard for online retailers who compete with Amazon in personalized customer service."
+    },
+    {
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "language": "en",
+      "summary": "Google has unveiled 'Gemini Spark', a personal assistant available round the clock that integrates with Gmail.",
+      "points": [
+        "Google'sel presents Gemini Spark as an all-day agentic assistant capable of understanding and acting upon natural language commands."
+      ],
+      "insight": "'Gemini Spark', being fully integrated into Google services, marks a step towards more seamless user experiences by providing consistent assistance across different platforms. Its availability anytime strengthens the reliance on AI for daily tasks and highlights potential privacy concerns due to constant data collection."
+    },
+    {
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+      "language": "en",
+      "summary": "Google has introduced a feature in its updated Workspace allowing users to dictate documents into Docs or Keep, simplifying tasks like creating drafts and searching emails.",
+      "points": [
+        "Voice-based prompting is added for taking notes with Google Drive's new update",
+        "The capability extends document creation services in Google Workspace such as making a draft within Docs or composing an email in Gmail through voice commands",
+        "This functionality enhances the overall accessibility and user experience, particularly benefiting users who rely on dictation"
+      ],
+      "insight": "The integration of voice-based prompts into Google Drive' endorses a more accessible work environment for those using speech recognition technology. As companies increasingly adopt remote or hybrid models, offering tools that cater to various user preferences is essential."
+    },
+    {
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
+      "language": "en",
+      "summary": "Google has introduced a new pricing tier for its AI services called 'AI Ultra', which offers significantly higher usage limits than the existing plans.",
+      "points": [
+        "Google announces Antigravity 2.0 with desktop app and CLI tool",
+        "Antigravity 2.0 allows controlling gravity levels in simulations or games, starting at $5/month for a small team of five people",
+        "New AI Ultra plan offers up to 3x more data usage than the Pro version"
+      ],
+      "insight": "The launch of Antigravity as an application and CLI tool represents Google's push towards integrating its powerful machine learning models into user-friendly, versatile tools for creators in the IT industry."
+    },
+    {
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+      "language": "en",
+      "summary": "Google's Gemini Omni can create and modify videos by understanding natural language commands involving text, images, audio, and video elements. It launches initially as the Omni Flash.",
+      "points": [
+        "Gemini Omni is a conversational multimodal model that generates content without coding knowledge.",
+        "Launched with Omni Flash for free conversion of existing videos into rich multimedia formats using simple text prompts.",
+        "Google plans to expand capabilities beyond video generation, including the ability to create AI-generated artwork and music."
+      ],
+      "insight": {
+        "content_generation": "Gemini Omni represents a significant leap in content creation technology by simplifying multimedia production for non-coders.",
+        "industry_impact": "This innovation could democratize video and media editing, making it more accessible to users without technical skills."
+      }
+    },
+    {
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
+      "description": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+      "language": "en",
+      "summary": "OpenAI has introduced methods for distinguishing between human-created images and those produced by their models.",
+      "points": [
+        "Joining the open C2PA standard helps in detecting AI generated imagery",
+        "Google'ider SynthID is integrated into OpenAI products to aid detection of synthetic content",
+        "These measures aim at improving transparency and trustworthiness around image generation"
+      ],
+      "insight": "The steps taken by OpenAI could set a new industry standard for ensuring the authenticity and ethical use of AI-generated imagery."
+    },
+    {
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 15:43:04 +0000",
+      "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+      "language": "en",
+      "summary": "OpenAI co-founder Andrej Karpathy has joined Anthropic as part of their pre-training team for the development of large language models like Claude.",
+      "points": [
+        "Andrej Karpathy, OpenAI'CTO and an early member of its founding team is now at Anthropic working on a novel approach to AI training called 'pre-training'.",
+        "Pre-training helps provide large language models with core knowledge before fine-tuning them for specific tasks.",
+        "The process can be resource-intensive and expensive, but it plays an essential role in developing powerful AI systems."
+      ],
+      "insight": "With Andrej Karpathy's expertise from his time at OpenAI working on language models like GPT3.5 Turbo (Davinci) now contributing to Anthropic’s pre-training efforts, the technology industry is witnessing a shift towards more sophisticated and resource-intensive AI training methods that could shape future generations of large language models."
+    },
+    {
+      "title": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
+      "link": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 15:37:17 +0000",
+      "description": "\"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch.",
+      "language": "en",
+      "summary": "Light Phone and Noble Mobile collaborate to pay users for discontinuing the habit of doomscrolling through news.",
+      "points": [
+        "The Light Phone is a minimalist smartphone designed by Joe Hollier with features aimed at reducing phone dependency, such as removing social media apps and not having constant internet access via Wi-Fi or cellular data. It has gained popularity for helping users disconnect from their devices.",
+        "Andrew Yang's Noble Mobile plans to partner with the Light Phone creator to launch a service called PayOff where individuals can earn money by reducing time spent on news consumption, particularly targeting those who engage in excessive doomscrolling. The initiative uses blockchain technology and rewards users through an app.",
+        "The project has received support from various organizations like the Bill & Melinda Gates Foundation, UNICEF UK, Comic Relief, and others, signifying a wider recognition of mental health issues related to constant news consumption."
+      ],
+      "insight": "This collaboration highlights how technology can potentially address negative aspects such as doomscrolling by encouraging users' digital well-bestatic behaviors. It demonstrates an innovative way for the IT industry and startups like Noble Mobile to contribute positively towards mental health."
+    },
+    {
+      "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
+      "link": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 15:32:46 +0000",
+      "description": "The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, developers and companies that use them.",
+      "language": "en",
+      "summary": "An ongoing supply chain attack named Mini Shai-Hulud is targeting dozens of popular open source packages by compromising the developers and companies that use them.",
+      "points": [
+        "The 'Mini Shai-Hulud' campaign has impacted several well-known open source projects, affecting their security integrity due to developer exploitation.",
+        "Many enterprises and individual developers are inadvertently introducing vulnerabilities into applications by using these compromised packages without proper oversight or updates.",
+        "The widespread use of open source software makes it increasingly difficult for organizations not specialized in cybersecurity to protect against such targeted supply chain attacks."
+      ],
+      "insight": "This attack underscores the critical need for heightened security practices and vigilance within the IT community, particularly regarding dependencies on third-party open source software. Organizations must proactively audit their codebases to detect compromises early on and establish more robust supply chain defenses."
+    },
+    {
+      "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
+      "link": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 15:06:42 +0000",
+      "description": "The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian Krebs.",
+      "language": "en",
+      "summary": "Brian Krebs' investigation reveals the US cyber agency CISA exposed clear text passwords and cloud access keys in a GitHub repository accessible to anyone with internet connectivity.",
+      "points": [
+        "The federal cybersecurity agency, Cybersecurity Infrastructure Security Agency (CISA), made its IT files publicly available on GitHub without encryption or password protection. This included sensitive data like plaintext passwords and unprotected cloud keys vital for accessing secure information systems.",
+        "Brian Krebs obtained a copy of the repository from CISA's website, finding numerous entries in clear text that led to various confidential domains under government control such as .gov email addresses. The leaked files potentially gave anyone access to these protected spaces without any form of authentication or security measures.",
+        "The exposure was not limited to just the data found within CISA'selibrary; it also included a list on GitHub detailing which computers could be used for accessing certain domains, effectively making them 'zombie' machines. This raised significant concerns about network and system vulnerabilities."
+      ],
+      "insight": "The revelation of plaintext passwords and unprotected cloud keys by CISA is alarming as it undermines the very essence of cybersecurity – to protect sensitive information from unauthorized access. This incident could erode trust in federal agencies' ability to safeguard critical infrastructure."
+    },
     {
       "title": "Apple announces Apple Intelligence powered accessibility feature updates",
       "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
@@ -450,306 +749,6 @@
         "Despite Elon's attempts, there was not enough proof presented for misconduct or fraud by his co-founders in their handling of Musk’s resignation."
       ],
       "insight": "This verdict reinforces the significance of timely legal action within technology startups and sets a precedent on how personal disputes can impact such business relationships if not resolved professionally."
-    },
-    {
-      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-      "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 18 May 2026 16:32:33 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The New York City Department of Education (DOE) announced a security incident involving unautcurated access to the network that stores student information on more than two dozen school campuses across NYC. The data included personal identifiers, academic records, and grades.",
-      "points": [
-        "- Unauthorized individuals exploited vulnerabilities in the DOE's IT system between January and June of this year",
-        "- Sensitive information such as names, Social Security numbers, dates of birth, addresses, phone numbers were accessed",
-        "- No financial data or passwords appear to have been compromised"
-      ],
-      "insight": "This security breach underscores the importance of robust cybersecurity measures within educational institutions. Failure to do so can result in loss of public trust and potential legal consequences."
-    },
-    {
-      "title": "Kin Health raises $9M to build an AI notetaker for patients",
-      "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 18 May 2026 15:26:00 +0000",
-      "description": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
-      "language": "en",
-      "summary": "Kin Health has raised $9 million in funding to develop an AI-powered app called 'Notetaker' that records doctor visits and provides concise summaries of medical consultations for patients.",
-      "points": [
-        "AI company Kin Health raises capital",
-        "Notetaker will record, transcribe and condense doctors’ notes with next steps included (sharing option)",
-        "Funding secured to support development into a consumer-facing app"
-      ],
-      "insight": "The launch of Kin Health'in Notetaker could significantly improve the patient experience by providing clear, accessible post-consultation summaries. Additionally, it highlights an increasing trend in AI applications for personal healthcare management."
-    },
-    {
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 18 May 2026 14:56:47 +0000",
-      "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "language": "en",
-      "summary": "Alexa has expanded capabilities with Amazon's Alexa+ feature that can create custom podcast episodes using artificial intelligence on demand.",
-      "points": [
-        "Amazon introduces a new AI-driven capability for its virtual assistant, allowing users to generate personalized content.",
-        "The updated system uses machine learning algorithms and natural language processing to produce audio narratives or dialogues tailored to user preferences in real time without the need for human writers.",
-        "Amazon provides various customization options including storylines based on specific interests, conversations with AI-powered characters designed by users themselves."
-      ],
-      "insight": "This advancement indicates Amazon's growing commitment to positioning Alexa as more than just a voice assistant and highlights the increasing convergence of artificial intelligence in content creation within the IT/technology industry. It could potentially disrupt traditional podcast production methods by making it much simpler for anyone with access to an AI-powered device like Amazon's Echo or Echo Studio."
-    },
-    {
-      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-      "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 18 May 2026 13:42:19 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Grafana Labs, a company known for creating open-source monitoring solutions, has been hit by a cyberattack resulting in the loss of its source code.",
-      "points": [
-        "Hackers have reportedly gained access to Grafana's servers and stolen proprietary software including its core product - an open-source monitoring tool designed for operational intelligence across businesses, industries, infrastructure/system environments. The hacking attempt dates back from October 2019 through February of this year.",
-        "Although the attackers demanded a $36 million ransom in exchange for not releiderating code stolen and leaked on-line within two weeks post compromise, Grafana Labs refused to pay up. The company believes that once it begins working with third parties after an incident of this nature, its products' integrity will likely be permanently undermined.",
-        "Grafana has also taken measures such as isolating the affected servers and initiating a code forensic investigation on their own to prevent potential future breaches."
-      ],
-      "insight": "This incident underlines critical vulnerabilities within open-source tools, which may lack sufficient security protocols despite being widely used in enterprise settings. While refusal to pay the ransom is a commendable stance against funding cybercriminal activities, it also highlights potential risks of relying solely on internal resources for mitigation."
-    },
-    {
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 18 May 2026 11:00:00 +0000",
-      "description": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
-      "language": "en",
-      "summary": "South Korea's LetinAR is developing miniature lenses for use in next-generation smartglasses with artificial intelligence capabilities.",
-      "points": [
-        "LetinAR has developed a tiny thumbnail-size optical element integral to future AI glasses technology.",
-        "The startup recently secured $23 million USD in funding from investors including Sequoia Capital and Goldman Sachs Group, with plans for commercial production starting this year.",
-        "This represents the first time South Korea has produced a consumer-level optical component specifically designed to work within an AI glasses system."
-      ],
-      "insight": "The advancements by LetinAR could signal increased accessibility and affordability of cutting-edge smartglass technology, potentially revolutionizing various industries reliant on augmented reality (AR)."
-    },
-    {
-      "title": "[해킹을 결제하시겠습니까?] #3. 해외직구, 배송은 안 오고 카드만 털렸다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143498&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 17:21:00 +0900",
-      "description": "결제 전 도메인·가격·결제수단 등 기본 요소 교차 확인 필요 결제 직후 승인 내역 점검으로 이상 거래 조기 인지 중요[보안뉴스 강초희 기자] 해외 직구가 일상화되면서 소비자들이 체감하는 가장 큰 변화는 ‘가격’이다. 국내보다 저렴한 가격과 다양한 상품 선택이 가능하다는 점에서 이용자는 빠르게 늘고 있다. “야 이거 봐봐. 나이키 신발인데 반",
-      "language": "ko",
-      "summary": "결제 전 도메인·가격·결제수단 등 기본 요소 교차 확인 필요 결제 직후 승인 내역 점검으로 이상 거래 조기 인지 중요[보안뉴스 강초희 기자] 해외 직구가 일상화되면서 소비자들이 체감하는 가장 큰 변화는 ‘가격’이다. 국내보다 저렴한 가격과 다양한 상품 선택이 가능하다는 점에서 이용자는 빠르게 늘고 있다",
-      "points": [
-        "결제 전 도메인·가격·결제수단 등 기본 요소 교차 확인 필요 결제 직후 승인 내역 점검으로 이상 거래 조기 인지 중요[보안뉴스 강초희 기자] 해외 직구가 일상화되면서 소비자들이 체...",
-        "국내보다 저렴한 가격과 다양한 상품 선택이 가능하다는 점에서 이용자는 빠르게 늘고 있다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이승준 옵시아 대표 “오탐의 벽 넘은 자율형 AI, 제로데이 발굴로 실체 증명해”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143688&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 17:13:00 +0900",
-      "description": "SAST·DAST 결합한 하이브리드 엔진으로 오탐률 획기적 개선워드프레스 CVSS 9.1 취약점(CVE-2026-40769) 단독 발굴 성과“단순 마케팅 용어 넘어선 실전적 방어 수단으로 AI 증명할 것”[보안뉴스 조재호 기자] “옵시아(OPCIA)는 AI 기반 정밀 취약점 분석을 시작으로 자동 보안 패치, 실전형 모의해킹 등을 핵심 역량으로 망분리 환경을",
-      "language": "ko",
-      "summary": "SAST·DAST 결합한 하이브리드 엔진으로 오탐률 획기적 개선워드프레스 CVSS 9. 1 취약점(CVE-2026-40769) 단독 발굴 성과“단순 마케팅 용어 넘어선 실전적 방어 수단으로 AI 증명할 것”[보안뉴스 조재호 기자] “옵시아(OPCIA)는 AI 기반 정밀 취약점 분석을 시작으로 자동 보안 패치, 실전형 모의해킹 등을 핵심 역량으로 망분리 환경을",
-      "points": [
-        "SAST·DAST 결합한 하이브리드 엔진으로 오탐률 획기적 개선워드프레스 CVSS 9",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "금융사 취약점 찾으면 1000만원... 금보원-금감원, 버그바운티 실시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143695&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 17:00:00 +0900",
-      "description": "참여기관 70개로 전년 대비 119% 증가... 신고 대상 서비스 306개보안취약점 선제적 발굴로 금융사 자율보안 역량 지원[보안뉴스 한세희 기자] 금융보안원과 금융감독원이 금융사 대상 버그바운티 대회를 연다. 두 기관은 금융사 디지털 금융서비스의 보안취약점을 외부 시각에서 선제적으로 발굴하고 신속히 보완하기 위해 ‘2026년 금융권 보안취약점 신고포상제’",
-      "language": "ko",
-      "summary": "금융사의 보안취약점을 확인하여 1만원 도날로 보완할 수 있으며, 채권회사 대한민국의 경우에만",
-      "points": [
-        "금융사의 보안취약점이 계속 확인받고 신속적으로 대처하고 있다.",
-        "금융사와 급한 보완솔루션이 필요해진다.",
-        "금융사가 신고를 기반으로 1만원 보상을 제공하고 있다."
-      ],
-      "insight": "이러한 취약점이 운현적으로 중요하다는 것을 알려내며, 금융사의 보안정리가 신용카지하이스에서 확인해야 한다."
-    },
-    {
-      "title": "에듀테크 기업 개인정보 보호 실태 들여다본다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143694&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 16:34:00 +0900",
-      "description": "개인정보위·교육부 합동으로 개인정보 보호법 준수 여부 점검공교육 지원 플랫폼 서비스 제공하는 에듀테크 분야 사업자 대상[보안뉴스 한세희 기자] 최근 개인정보 유출 사고가 터진 에듀테크 업계에 대해 개인정보위가 실태 점검에 나선다. 개인정보보호위원회(위원장 송경희)는 교육부(장관 최교진)와 함께 에듀테크 분야 사업자를 대상으로 합동 사전 실태점검을 실시한다",
-      "language": "ko",
-      "summary": "개인정보위·교육부 합동으로 개인정보 보호법 준수 여부 점검공교육 지원 플랫폼 서비스 제공하는 에듀테크 분야 사업자 대상[보안뉴스 한세희 기자] 최근 개인정보 유출 사고가 터진 에듀테크 업계에 대해 개인정보위가 실태 점검에 나선다. 개인정보보호위원회(위원장 송경희)는 교육부(장관 최교진)와 함께 에듀테크 분야 사업자를 대상으로 합동 사전 실태점검을 실시한다",
-      "points": [
-        "개인정보위·교육부 합동으로 개인정보 보호법 준수 여부 점검공교육 지원 플랫폼 서비스 제공하는 에듀테크 분야 사업자 대상[보안뉴스 한세희 기자] 최근 개인정보 유출 사고가 터진 에듀...",
-        "개인정보보호위원회(위원장 송경희)는 교육부(장관 최교진)와 함께 에듀테크 분야 사업자를 대상으로 합동 사전 실태점검을 실시한다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "오픈AI, 과기정통부에 ‘신뢰 기반 사이버 접근 프로그램’ 소개",
-      "link": "http://www.boannews.com/media/view.asp?idx=143692&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 16:00:00 +0900",
-      "description": "“AI 위협 대응 위한 정보 공유 요청” [보안뉴스 강현주 기자] 오픈AI가 정부에 신뢰 기반 사이버 접근 프로그램(TAC)을 소개했다고 과기정통부(부총리 겸 장관 배경훈)가 18일 밝혔다. 과기정통부는 오픈AI에게 AI 보안 위협 대응을 위한 정보 공유를 요청했다. 과기정통부는 외교부(장관 조현), 국가정보원(원장 이종석), 금융위원회(위원장 이억원),",
-      "language": "ko",
-      "summary": "“AI 위협 대응 위한 정보 공유 요청” [보안뉴스 강현주 기자] 오픈AI가 정부에 신뢰 기반 사이버 접근 프로그램(TAC)을 소개했다고 과기정통부(부총리 겸 장관 배경훈)가 18일 밝혔다. 과기정통부는 오픈AI에게 AI 보안 위협 대응을 위한 정보 공유를 요청했다...",
-      "points": [
-        "“AI 위협 대응 위한 정보 공유 요청” [보안뉴스 강현주 기자] 오픈AI가 정부에 신뢰 기반 사이버 접근 프로그램(TAC)을 소개했다고 과기정통부(부총리 겸 장관 배경훈)가 18...",
-        "과기정통부는 오픈AI에게 AI 보안 위협 대응을 위한 정보 공유를 요청했다",
-        "과기정통부는 외교부(장관 조현), 국가정보원(원장 이종석), 금융위원회(위원장 이억원),"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "한국정보통신자격협회, 2026년 제2회 국가공인 자격시험 접수",
-      "link": "http://www.boannews.com/media/view.asp?idx=143693&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 15:53:00 +0900",
-      "description": "19-22일 원서접수네트워크관리사·PC정비사·지능형홈관리사·영상정보관리사 4개 종목 시행AI·디지털 기반 시설 확대에 따라 관련 국가공인 자격 관심 이어져[보안뉴스 강초희 기자] 한국정보통신자격협회(이사장 한복수)는 6월 21일 시행되는 2026년 제2회 국가공인 자격시험 원서를 19일부터 22일까지 접수한다고 밝혔다.이번 시험은 △국가공인 네트워크관리사",
-      "language": "ko",
-      "summary": "19-22일 원서접수네트워크관리사·PC정비사·지능형홈관리사·영상정보관리사 4개 종목 시행AI·디지털 기반 시설 확대에 따라 관련 국가공인 자격 관심 이어져[보안뉴스 강초희 기자] 한국정보통신자격협회(이사장 한복수)는 6월 21일 시행되는 2026년 제2회 국가공인 자격시험 원서를 19일부터 22일까지 접수한다고 밝혔다. 이번 시험은 △국가공인 네트워크관리사",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "다후아테크놀로지코리아-비전케이, 차량용·이동형 영상보안 솔루션 협력 MOU 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=143690&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 13:52:00 +0900",
-      "description": "차량용·이동형 영상보안 제품 및 관련 솔루션의 공동 프로모션과 제품 테스트 등 진행고객 수요에 효과적 대응 및 맞춤형 솔루션 경쟁력 강화 기대[보안뉴스 엄호식 기자] 글로벌 영상 중심 AIoT 솔루션 및 서비스 기업 다후아테크놀로지코리아(이하 다후아)가 차량용 영상보안 솔루션 기업 비전케이와 차량용·이동형 영상보안 제품 및 솔루션 분야 협력을 위한 업무협약",
-      "language": "ko",
-      "summary": "차량용·이동형 영상보안 제품 및 관련 솔루션의 공동 프로모션과 제품 테스트 등 진행고객 수요에 효과적 대응 및 맞춤형 솔루션 경쟁력 강화 기대[보안뉴스 엄호식 기자] 글로벌 영상 중심 AIoT 솔루션 및 서비스 기업 다후아테크놀로지코리아(이하 다후아)가 차량용 영상보안 솔루션 기업 비전케이와 차량용·이동형 영상보안 제품 및 솔루션 분야 협력을 위한 업무협약",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "엘세븐시큐리티, “파일 속 이미지까지 마스킹, 스캔, 차단”... AI 솔루션 웨비나 27일 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=143681&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 13:48:00 +0900",
-      "description": "GS 1등급 인증 ImageScan & Masking 핵심 기술 공개참석자 전원 무료 서버 스캔 제공[보안뉴스 한세희 기자] AI 기반 개인정보 보호 전문 기업 엘세븐시큐리티(대표 최복희)가 27일 오후 2시 무료 온라인 웨비나 ‘AI 이미지 개인정보 자동 마스킹 솔루션 공개’를 개최한다. 이번 웨비나는 이미지·PDF·한글·MS 오피스 문서 내부 이미지를",
-      "language": "ko",
-      "summary": "AI-기반 ImageScan & Masking 플러스에서 인증이미지 자동 마스킹과 제약처리 기능을 공개한다.",
-      "points": [
-        "- AI 기반 이미지 스캔과 마스킹 서비스는 개인정보의 보호를 강力化",
-        "- 무료 기기업 'AI 이미지 개인정보 자동 마스킹 솔루션 공개'에서 전문가를 선보여",
-        "- 이를 기초로커리행 스트레이크인 'ImageScan & Masking'는 'GS'의 하나"
-      ],
-      "insight": "AI 기반 이미지 자동 마스킹은 개인정보를 공개로 제약시킬 수 0에 가까이, 'GS'의 'ImageScan & Masking'는 인증과정을 독튼하게 만듭니다."
-    },
-    {
-      "title": "토르체인, 보관소 해킹으로 1000만 달러 가상자산 도난당해",
-      "link": "http://www.boannews.com/media/view.asp?idx=143676&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 13:28:00 +0900",
-      "description": "펙실드 등 보안 업체 최초 포착... 비트코인 36개 등 탈취비정상 거래 감지 후 시스템 전면 중단 “자체 운영 자금만 피해”[보안뉴스 김형근 기자] 스위스 기반의 가상자산 플랫폼 ‘토르체인’(THORChain)이 대규모 해킹 공격을 받아 1000만달러 규모의 자체 자산을 도난당했다. 사용자 예치금 피해는 막았으나, 잇따른 대형 보안 사고에 가상자산 업계",
-      "language": "ko",
-      "summary": "THORChain, IT/기술 에이전트들의 자산이 100th(천)만 달러 규모로 도난했다. 여기서 비트코인 36개 등이 토르체인을 폭사용하여 전체 자산을 유발했다.",
-      "points": [
-        "THORChain이 IT/기술 에이전트들의 자산이 1000만 원균 단위로 도루지고 있다는 소식",
-        "토르체인은 이전에 THORChain이 5천만원 자산을 모두 유발했다.",
-        "비트코인 36개의 폭사용은 전문가들이 보관설정을 강화하고자 한다."
-      ],
-      "insight": "이러한 토르체인 해군이 IT/기술 업체에서의 보호설정이 중요해 보인다. THORChain이 IT/기술 시장에서의 자산 유발은 본근대한 침식의 문제점을 가지고 있는 수집업권에서도 확인될 수 s가 있다."
-    },
-    {
-      "title": "그라파나, 깃허브 인증 토큰 유출로 소스코드 털렸다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143689&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 13:25:00 +0900",
-      "description": "고객 데이터 유출 정황은 없어... 해커 협박에도 몸값 지급 거부공격 배후로 ‘코인베이스카르텔’ 지목[보안뉴스 김형근 기자] 모니터링·시각화 플랫폼 기업 그라파나(Grafana)가 깃허브(GitHub) 환경 접근에 사용되는 인증 토큰이 탈취돼 자사 소스코드 일부가 외부로 유출되는 보안 사고를 겪었다고 밝혔다.그라파나는 공식 엑스(X) 계정을 통해 유출 사고",
-      "language": "ko",
-      "summary": "그라파나가 GitHub에서의 인증 토큰 유출에 대한 보안 위기",
-      "points": [
-        "그라파나가 인증 토큰 유출에 깔독하게 노출되었다.",
-        "이러한 보안 위기는 GitHub과 공식 엑스계정을 중심으로 진행돼",
-        "보안 위기를 대비함에 따라 IT/컴지에게 의도치 않은 리모델링이 일어가는 위복기가 있다."
-      ],
-      "insight": "인증 토큰 유출은 GitHub 공격자의 업계와 보안 전문가들이 조정되고 일정하게 진화하는 과제이다."
-    },
-    {
-      "title": "안랩클라우드메이트 ‘애크미아이’, 공공부문 SW 어워즈 수상... “안전한 AI 행정 선도”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143686&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 11:34:00 +0900",
-      "description": "공공 분야 AI 업무 혁신 지원하는 맞춤형 어시스턴트 구축 플랫폼 가치 인정발주자들이 직접 꼽은 최고 수준의 운영 경쟁력 입증[보안뉴스 조재호 기자] 안랩 AX·MSP 전문 자회사 안랩클라우드메이트는 자사 AI 어시스턴트 구축 플랫폼 ‘애크미아이’(ACMEi)가 서울 대한상공회의소에서 열린 2026 제6회 공공부문 SW 어워즈에서 AI SW 부문 공공부문발",
-      "language": "ko",
-      "summary": "서울 대한상공회의소에서 공공부문 SW 어워즈에서 열려 질 전용 AI 행정 수준인 ‘애크미아이’(ACMEi)를 공급하며, 대한민국 공지 공장이 안랑스 서표본인으로부터 AI SW 수상을 받았다.",
-      "points": [
-        "- 귀하의 자사 AI 어시스턴트 구축 플랫포인트 ‘애크미아이’(ACMEi)가 서울 대한상공회의소에서 공공부문 SW 어워즈에서 AI SW 부문 공지로 공급되도록 하였다.",
-        "- 대한민국 공지 공장은 이러한 수상을 강제로 내로받아서 활동을 시작하여, 최고의 SW 기능과 안전성을 보장한 AI 행정 수준인 ‘애크미아이’(ACMEi)를 공급하며, 대한민국 공지 공장에서 공개한다.",
-        "- 전시는 2026년 제6회 공급방식을 설정하여 질했다."
-      ],
-      "insight": "이러한 AI SW 수상은 대한민국의 기술화 시대를 나타내고 있는데, 공급방식을 확보하고 사용되기를 위해서는 최상의 기술 인삼과 IT 지원을 받아야한다."
-    },
-    {
-      "title": "서울시, 보안관제요원 채용 “사이버위협 대응 강화”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143679&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 11:11:00 +0900",
-      "description": "디지털도시국 정보보안과서 2명 모집24시간 보안관제·사이버위협 대응 수행21-26일 원서 접수[보안뉴스 강초희 기자] 서울특별시(시장 오세훈)가 사이버위협 대응 역량 강화를 위해 보안관제 분야 시간선택제임기제공무원을 공개 채용한다.서울시는 디지털도시국 정보보안과 소속 ‘보안관제요원’ 지방시간선택제임기제 나급 2명을 선발한다고 밝혔다. 근무기간은 임용일로부터",
-      "language": "ko",
-      "summary": "서울시는 보안관제 분약을 강화하기 위해 2명 모짜리 이용자를 훼동으로 고루 선정한다.",
-      "points": [
-        "서울시는 보안관제 분약을 강화하기 위해 2명 모짜리 이용자를 훼동으로 고루 선정한다.",
-        "근무기간은 임용일으로부터 9시까지이다.",
-        "모신과의 본인을 강력히 보호하는 방법으로 선정되었다."
-      ],
-      "insight": "이 뉴스는 국내적 보안관제가 중요한 문제에 대해서 IT/기술 업체에서 이슈가 있다고 예상된다."
-    },
-    {
-      "title": "아우토크립트 “자율주행 보안, 차량 넘어 생태계 묶는 E2E 전략 필수”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143684&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:55:00 +0900",
-      "description": "AI 모빌리티 보안 패러다임 전환 이끄는 자율주행 사이버보안 백서 공개기존 단일 계층 보안 한계 지적하며 통합 vSOC 및 제로트러스트 모델 결합 제안[보안뉴스 조재호 기자] 자율주행 차량이 단순한 기계를 넘어 거대한 개방형 플랫폼으로 진화하면서, 차량만 지키는 파편화된 방어 체계가 치명적인 물리적 사고를 초래할 수 있다는 경고가 나왔다.아우토크립트는 자율",
-      "language": "ko",
-      "summary": "자동차 포인터가 보안에 어떤 역할을 할까? 이 기사는 아우토크립트의 자율주행 보안 전문가로부け분석한 전략과 IT 업체에서의 공식 참고.",
-      "points": [
-        "근무중인 이유를 조사하기 위해 자동차 포인터가 요구한 절대적 보안 전략에서의 중요성",
-        "제로보안 기술을 통한 분산성 강화로 이미지의 개방으로 차선을 마주하는 보안 전용 시스텬",
-        "감옥의 진짜인지 모니터링 방식을 소개"
-      ],
-      "insight": "이러한 보안 전략은 자동차 포인터가 IT 업체에서의 보안 및 시스템관리에서 기여하고, 자동차에 미세조정이 요구되는 확장성과 새로운 IT 전용 기능을 보증하여 보안을 개선시킬 것."
-    },
-    {
-      "title": "가비아, 지키다에 공공 클라우드 공급... “CSAP 인증 취득 뒷받침”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143685&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:54:00 +0900",
-      "description": "지키다, 컴플라이언스 점검 서비스 본격화[보안뉴스 강현주 기자] 클라우드 전문 기업 가비아(공동대표 김홍국·원종홍)는 개인정보 보호 및 법률 컴플라이언스 솔루션 기업 지키다(대표 김진환)에 공공기관 전용 클라우드 서비스를 공급했다고 18일 밝혔다.지키다는 법률 콘텐츠를 기반으로 기업의 개인정보 보호 및 법규 준수 체계 점검 서비스를 제공하는 민간 사업자다.",
-      "language": "ko",
-      "summary": "지키다, 컴플라이언스 점검 서비스 본격화[보안뉴스 강현주 기자] 클라우드 전문 기업 가비아(공동대표 김홍국·원종홍)는 개인정보 보호 및 법률 컴플라이언스 솔루션 기업 지키다(대표 김진환)에 공공기관 전용 클라우드 서비스를 공급했다고 18일 밝혔다. 지키다는 법률 콘텐츠를 기반으로 기업의 개인정보 보호 및 법규 준수 체계 점검 서비스를 제공하는 민간 사업자다",
-      "points": [
-        "지키다, 컴플라이언스 점검 서비스 본격화[보안뉴스 강현주 기자] 클라우드 전문 기업 가비아(공동대표 김홍국·원종홍)는 개인정보 보호 및 법률 컴플라이언스 솔루션 기업 지키다(대표 ...",
-        "지키다는 법률 콘텐츠를 기반으로 기업의 개인정보 보호 및 법규 준수 체계 점검 서비스를 제공하는 민간 사업자다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "SK쉴더스, NHN와플랫과 시니어 디지털 돌봄 사업 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143683&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:43:00 +0900",
-      "description": "NHN와플랫과 협력해 AI 및 스마트홈 기반 디지털 돌봄 서비스 추진복지부 ‘AX Sprint’ 스마트홈 사업 참여로 물리보안 관제·출동 인프라와 AI 기술 연계‘캡스홈’ 서비스 내 돌봄 기능 강화 및 생활 밀착형 안전 서비스로 확대 [보안뉴스 엄호식 기자] SK쉴더스(대표 민기식)가 물리보안 브랜드 ADT캡스의 AI 기반 돌봄 서비스 및 생활안전 사업 확",
-      "language": "ko",
-      "summary": "NHN와플랫는 AI를 통해 SK쉴더스의 돌본 서비스 강화와 생활 안전성을 확보하기 위해 합쟁적으로 참여한다.",
-      "points": [
-        "NHN와플랫가 SK쉴더스의 돌본 서비스와 AI를 통해 강화하는 사업에 합쟁적으로 참여한다.",
-        "결혼적인 논의와 연동은 서비스 시장에서 SK쉴더스의 전문성과 신뢰성을 강조한다.",
-        "이러한 합잇은 돌본 서비스 활동 모니터링에 도움이 되고, 것에 대한 인사이트가 발침될 것입니다."
-      ],
-      "insight": "SK쉴더스와 NHN와플랫는 AI를 이용한 돌본 서비스 모델 개발과 강화에 합쟁적으로 대체하고 싶은데, 이러한 거의는 IT/기술 업체들이 다른 매맞치가 되어서 그들이 시장에서 공통적으로 보유하고 있는 인풋성을 보여줄 것이다."
     }
   ]
 }
