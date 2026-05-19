@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-05-18T19:45:30.348Z",
+  "generatedAt": "2026-05-19T03:48:22.329Z",
   "articles": [
+    {
+      "title": "이글루코퍼레이션 “AI 공격 막는 자율형 SOC 연다”... 핵심 특허 2건 확보",
+      "link": "http://www.boannews.com/media/view.asp?idx=143708&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:51:00 +0900",
+      "description": "쏟아지는 경보 속 위험 공격만 선별하고 시스템 취약점 자동 차단하는 기술보안 전문가의 반복 업무 덜어내고 고난도 의사결정에만 집중할 수 있는 환경 조성[보안뉴스 조재호 기자] 이글루코퍼레이션은 자율형 보안운영센터(Autonomous SOC) 구현을 위한 인공지능(AI) 및 보안 운영·위협 대응 자동화(SOAR) 핵심 특허 2건을 신규 취득했다고 19일 발표",
+      "language": "ko",
+      "summary": "AI를 사용한 자율형 SOC 구현을 위한 인공지능과 모델 보안",
+      "points": [
+        "- AI를 이용한 자율형 SOC 구현에 대해 신규 최소한의 시스템 공격과 일치",
+        "- 인공지능(AI)와 보안 전문가 모델을 도입한 함손이 확보",
+        "- 기술보안 업계에서 중요한 IT/기술 인식으로 자동화되어진 촉없는 커뮤니키"
+      ],
+      "insight": "이러한 AI 기반의 보안 전문회사는 IT/기술 업계에서 보안운영이 중요하고 자동화가 필요하다는 말이다."
+    },
+    {
+      "title": "여의시스템, Moxa 차세대 산업용 시리얼 솔루션 ‘G2 시리즈’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143707&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:38:00 +0900",
+      "description": "강화된 보안 환경에서 안전하게 연결 및 데이터 통합・프로토콜 변환까지 한 번에 구현직관적인 웹 기반 인터페이스로 설치・운영 편의성 개선[보안뉴스 엄호식 기자] 여의시스템이 세계적인 산업용 네트워크 전문기업 Moxa의 차세대 시리얼 솔루션 ‘G2 시리즈’를 국내 시장에 본격 출시한다. G1에서 G2로의 세대교체는 기존 레거시 시리얼",
+      "language": "ko",
+      "summary": "이야기에서는 여의시스템이 Moxa의 산업용 시리얼코드 'G2 시리즈'을 국내 시장에 본격으로 출시하는 것입니다.",
+      "points": [
+        "한국어로 작성",
+        "...",
+        "..."
+      ],
+      "insight": "이러한 솔루션은 IT/기술 업계에서의 보안과 편안한 연결 및 데이터 통합과 중요성을 강조로드니와 대부분 동일합니다."
+    },
+    {
+      "title": "세연테크, 글로벌셔터 카메라용 고출력 스트로브 LED 제어기 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143706&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:34:00 +0900",
+      "description": "최대 80와트급 스트로브 LED 제어기[보안뉴스 엄호식 기자] 세연테크가 ITS 및 차량번호인식(LPR) 환경에 적합한 글로벌셔터 카메라용 고출력 스트로브 LED 제어기(모델명 FW-3W-80LED-CONTROLLER)를 출시했다. 이 제품은 세연테크가 실제 자사 ITS 카메라 제품 및 다양한 솔루션 업체 프로젝트에 공급하며 운영해 오던 기술 기반으로, 이",
+      "language": "ko",
+      "summary": "최대 80와트급 스트로브 LED 제어기[보안뉴스 엄호식 기자] 세연테크가 ITS 및 차량번호인식(LPR) 환경에 적합한 글로벌셔터 카메라용 고출력 스트로브 LED 제어기(모델명 FW-3W-80LED-CONTROLLER)를 출시했다. 이 제품은 세연테크가 실제 자사 ITS 카메라 제품 및 다양한 솔루션 업체 프로젝트에 공급하며 운영해 오던 기술 기반으로, 이",
+      "points": [
+        "최대 80와트급 스트로브 LED 제어기[보안뉴스 엄호식 기자] 세연테크가 ITS 및 차량번호인식(LPR) 환경에 적합한 글로벌셔터 카메라용 고출력 스트로브 LED 제어기(모델명 F...",
+        "이 제품은 세연테크가 실제 자사 ITS 카메라 제품 및 다양한 솔루션 업체 프로젝트에 공급하며 운영해 오던 기술 기반으로, 이",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "윈도우 업데이트의 배신? 적용된 줄 알았던 취약점 패치 흔적 없이 증발해",
+      "link": "http://www.boannews.com/media/view.asp?idx=143699&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:22:00 +0900",
+      "description": "독립 연구원 카오틱 이클립스, 패치되지 않은 채 방치된 치명적 결함 발표5월 최신 업데이트 마친 윈도우 11에서도 작동 확인되며 패치 롤백 의혹 제기[보안뉴스 김형근 기자] 마이크로소프트(MS)가 공식적으로 해결했다고 발표한 보안 결함이 수년간 방치되면서 최신 윈도우 시스템을 위협하고 있다. 지난 2020년 구글이 발견한 취약점을 악용한 신종 제로데이 ‘미",
+      "language": "ko",
+      "summary": "윈도우 시스템의 결함이 수년간 동안 방치되고, MS가 공식적으로 해결하지 못했음을 보앗다.",
+      "points": [
+        "윈도우 OS의 이전 시스템은 구글에서 식별되는 것이 아니라 신속한 개인들을 위한 보안이 중요한 포인트와 각각의 작동 방식에 대해 명백하게 다른 경우로 나타내고 있다.",
+        "익명적으로 '미'라는 것은 신종 제2로그인 구글 스톤의 업데이트가 '미'와 동일한 예상치 않은 방식을 말한다.",
+        "MS는 공식적으로 해결을 안다고 밝히며, 이로써 추가적으로 보호 문제가 이어지고 있다."
+      ],
+      "insight": "일부 보안 검색자는 이러한 '미'를 구글의 광고 프로그램에 의해 창들이 발칭되었다고 주장하지만, 실제로는 사용자가 모니터링에 대한 일부 정보를 공개할 수 0ne가 있을 가능성이 높다."
+    },
+    {
+      "title": "[미토스 충격] 앤트로픽, 미토스로 찾은 보안 취약점 외부 공유 허용",
+      "link": "http://www.boannews.com/media/view.asp?idx=143704&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:21:00 +0900",
+      "description": "AI 악용한 보안 위협 증가에 대응[보안뉴스 한세희 기자] 앤트로픽이 자사 최첨단 인공지능(AI) 모델 ‘클로드 미토스’로 발견한 보안 취약점을 공유할 수 있도록 최근 허용했다고 월스트리트저널이 18일(현지시간) 보도했다. 미토스는 소프트웨어 취약점을 발견하고 공격을 실행하는 능력이 뛰어난 것으로 알려졌다. 이에 따라 앤트로픽은 ‘프로젝트 글래스윙’을 구",
+      "language": "ko",
+      "summary": "AI 사용자가 보안취약점을 이용해 전환경에서의 위발을 행한다고 보도한 미토스 게시머니입니다.",
+      "points": [
+        "- AI 기반 미토스는 보안에 대한 전환문제를 이용한 위발을 생각해야 했다.",
+        "- 소프트웨어 공개에서의 방화기로 인한 보안취약점이 볼륨으로 광범위하게 공유받은.",
+        "- AI 기술을 통해 보안 문제에 대한 소식이 인터뷰를 가지고 전시."
+      ],
+      "insight": "미토스의 공개는 광범위한 보안 업데이트와 개인정보 보호에 직접영패지로 해당설명을 제시."
+    },
+    {
+      "title": "히타치 스토리지, 국내 하이엔드 스토리지 시장 12년 연속 1위",
+      "link": "http://www.boannews.com/media/view.asp?idx=143703&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:17:00 +0900",
+      "description": "AI 시대 핵심 자산, 데이터 보호하는 고가용성·복구 역량 입증매출액 기준 2025년 국내 하이엔드 스토리지 시장 점유율 39.6%로 업계 리더십 재확인[보안뉴스 엄호식 기자] AI・데이터 인프라 솔루션 전문기업 HS효성인포메이션시스템(대표 양정규)은 IT 시장분석 및 컨설팅 기관 IDC의 분기별 외장형 스토리지 시스템 시장조사 자료(출처 ID",
+      "language": "ko",
+      "summary": "AI 시대 핵심 자산, 데이터 보호하는 고가용성·복구 역량 입증매출액 기준 2025년 국내 하이엔드 스토리지 시장 점유율 39. 6%로 업계 리더십 재확인[보안뉴스 엄호식 기자] AI・데이터 인프라 솔루션 전문기업 HS효성인포메이션시스템(대표 양정규)은 IT 시장분석 및 컨설팅 기관 IDC의 분기별 외장형 스토리지 시스템 시장조사 자료(출처 ID",
+      "points": [
+        "AI 시대 핵심 자산, 데이터 보호하는 고가용성·복구 역량 입증매출액 기준 2025년 국내 하이엔드 스토리지 시장 점유율 39",
+        "6%로 업계 리더십 재확인[보안뉴스 엄호식 기자] AI・데이터 인프라 솔루션 전문기업 HS효성인포메이션시스템(대표 양정규)은 IT 시장분석 및 컨설팅 기관 IDC의 분기별 외장형 ...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "시놀로지, 미디어 워크플로우 전 과정 아우르는 통합 스토리지 전략 선보여",
+      "link": "http://www.boannews.com/media/view.asp?idx=143702&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:09:00 +0900",
+      "description": "KOBA 2026 부스 참가 성황리에 종료[보안뉴스 엄호식 기자] 글로벌 데이터 관리 전문 기업 시놀로지(Synology)가 방송·미디어 전문 전시회 KOBA 2026 참가를 성공적으로 마무리했다. 최근 4K·8K 영상과 대용량 콘텐츠 제작이 보편화되면서 스토리지는 단순 저장 장치를 넘어 제작 효율성과 협업 환경, 데이터 보호까지 좌우하는 핵심 인프라로 자",
+      "language": "ko",
+      "summary": "Synology, a global data storage specialist firm, successfully closed its presentation at the KOBA 2026 M+ Media Expo by showcasing their integrated strategy for managing multimedia content including high-definition and ultra-high-definition videos.",
+      "points": [
+        "Synology 한국에서 성공적으로 KOBA 2026 M+ Media Expo 전시회를 마무리했다.",
+        "그들은 보편화되어 찍히지만, 스토리지가 단순 저장 장치로 이루지는 것에 대비해서, 제작 효율성과 플라켓 환경, 데이터 보호를 고려한 전략을 세부적으로 소개했다.",
+        "대용량 콘텐츠 인프라는 것에 대해서는 '시놀로지 그들은 이를 전시하는 방식으로 소개한다.'"
+      ],
+      "insight": "이러한 Synology의 플라켓 모델을 따르면, IT/기술 업계는 스트리밋한 제처fte가 중요하다. '스트리밋과 핵심인덱스를 이용해서 광고와 마케푸의 판매율을 높일 수 있음'라고 논문에 따름."
+    },
+    {
+      "title": "“생성형 AI가 내 정보 학습 못하게 ‘옵트아웃’ 가능해요”... 개인정보 가이드 나와",
+      "link": "http://www.boannews.com/media/view.asp?idx=143700&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:08:00 +0900",
+      "description": "개인정보위, ‘생성형 AI 서비스 이용자를 위한 개인정보 보호 가이드’ 발간[보안뉴스 강현주 기자] A씨는 생성형 인공지능(AI)에 가족사진을 올리며 “애니메이션풍 그림으로 바꿔줘” 라고 요청했다. 완성된 이미지를 보며 즐거워했지만, 곧 이런 궁금증이 들었다. “내 가족 얼굴 사진은 어디에 저장될까? AI 학습에도 쓰이는 걸까?” 개인정보보호위원회(위원장",
+      "language": "ko",
+      "summary": "개인정보위, ‘생성형 AI 서비스 이용자를 위한 개인정보 보호 가이드’ 발간[보안뉴스 강현주 기자] A씨는 생성형 인공지능(AI)에 가족사진을 올리며 “애니메이션풍 그림으로 바꿔줘” 라고 요청했다. 완성된 이미지를 보며 즐거워했지만, 곧 이런 궁금증이 들었다...",
+      "points": [
+        "개인정보위, ‘생성형 AI 서비스 이용자를 위한 개인정보 보호 가이드’ 발간[보안뉴스 강현주 기자] A씨는 생성형 인공지능(AI)에 가족사진을 올리며 “애니메이션풍 그림으로 바꿔줘...",
+        "완성된 이미지를 보며 즐거워했지만, 곧 이런 궁금증이 들었다",
+        "“내 가족 얼굴 사진은 어디에 저장될까"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "델 테크놀로지스, AI 비전 성과로 이끄는 인프라 솔루션 대거 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=143701&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 11:04:00 +0900",
+      "description": "델 테크놀로지스 월드(DTW) 2026 통해 엔비디아 기반 델 AI 팩토리 혁신 소개[보안뉴스 엄호식 기자] 델 테크놀로지스는 2026년 5월 19일 ‘델 테크놀로지스 월드’(DTW) 1일차 행사에서 엔비디아와 협력해 ‘델 AI 팩토리’(Dell AI Factory with NVIDIA)의 대규모 업데이트를 발표했다. 이번 혁신은 기업들이 AI 비전을 실제",
+      "language": "ko",
+      "summary": "델 테크놀로지스 월드(DTW) 2026 통해 엔비디아 기반 델 AI 팩토리 혁신 소개[보안뉴스 엄호식 기자] 델 테크놀로지스는 2026년 5월 19일 ‘델 테크놀로지스 월드’(DTW) 1일차 행사에서 엔비디아와 협력해 ‘델 AI 팩토리’(Dell AI Factory with NVIDIA)의 대규모 업데이트를 발표했다. 이번 혁신은 기업들이 AI 비전을 실제",
+      "points": [
+        "이번 혁신은 기업들이 AI 비전을 실제",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“AI가 만든 스팸성 버그 ‘신고 홍수’ 지쳐”... 리누스 토발즈, 리눅스 보안 커뮤니티 마비 경고",
+      "link": "http://www.boannews.com/media/view.asp?idx=143698&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 10:42:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 리눅스 시스템 설계자 리누스 토발즈(Linus Torvalds)는 인공지능(AI)으로 자동 생성된 보안 결함 신고가 폭주하면서 리눅스 보안 메일링 리스트가 거의 관리 불가능한 마비 상태에 직면했다고 경고했다.토발즈는 리눅스 7.1-rc4 출시 발표를 통해, 동일한 AI 자동화 도구를 구동한 다수의 연구자가 같은 결함을 중복 신고하는",
+      "language": "ko",
+      "summary": "[보안뉴스 김형근 기자] 리눅스 시스템 설계자 리누스 토발즈(Linus Torvalds)는 인공지능(AI)으로 자동 생성된 보안 결함 신고가 폭주하면서 리눅스 보안 메일링 리스트가 거의 관리 불가능한 마비 상태에 직면했다고 경고했다. 1-rc4 출시 발표를 통해, 동일한 AI 자동화 도구를 구동한 다수의 연구자가 같은 결함을 중복 신고하는",
+      "points": [
+        "[보안뉴스 김형근 기자] 리눅스 시스템 설계자 리누스 토발즈(Linus Torvalds)는 인공지능(AI)으로 자동 생성된 보안 결함 신고가 폭주하면서 리눅스 보안 메일링 리스트가...",
+        "1-rc4 출시 발표를 통해, 동일한 AI 자동화 도구를 구동한 다수의 연구자가 같은 결함을 중복 신고하는",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 21:55:02 +0000",
+      "description": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+      "language": "en",
+      "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites",
+      "points": [
+        "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
+      "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "language": "en",
+      "summary": "SandboxAQ introduces its drug discovery platforms 'Claude' to simplify model building without deep computing knowledge.",
+      "points": [
+        "Accessibility is the key challenge in AI for healthcare and SandboxAQ addresses it with user-friendly models.",
+        "With a modular design, Claude enables non-experts to build custom pipelines seamlessly",
+        "Claude stands out by offering an open platform without academic or computing prerequisites."
+      ],
+      "insight": "SandboxAQ' extrinsic approach to making AI tools more accessible could set a new standard for democratizing technology in healthcare and beyond, potentially spurring innovation from non-traditional areas of expertise."
+    },
     {
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
@@ -568,186 +748,6 @@
         "It raises concerns about accessibility of technology and resources for smaller firms or individuals attempting to participate in this booming market."
       ],
       "insight": "The AI gold rush is creating a digital divide, potentially amplifying existing socioeconomic disparities within the tech industry. It brings forward important discussions about accessibility and inclusivity for smaller firms or individuals trying to compete in this rapidly growing market."
-    },
-    {
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 16 May 2026 19:26:14 +0000",
-      "description": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-      "language": "en",
-      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 16 May 2026 18:54:28 +0000",
-      "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "language": "en",
-      "summary": "In a bid to maintain academic integrity, ArXiv has announced strict measures against authors who rely solely on AI for writing their research articles.",
-      "points": [
-        "ArXiv will impose a one-year ban on authors found using large language models (LLMs) entirely without human contribution in their submissions.",
-        "The policy highlights ArXiv's concern about the reliability and originality of AI-generated content, asserting that papers should primarily reflect individual authorship.",
-        "This move aligns with broader debates on AI ethics within academia."
-      ],
-      "insight": "The decision indicates a growing awareness in the academic community about maintaining authenticity and integrity of scientific research amidst advancinA recent study reveals that nearly three-quarters (72%) of new hires feel underprepared to write grant proposals. The article discusses strategies for enhancing writing skills specifically tailored towards academia, where fundraising is crucial but often challenging due to the need for persuasive and clear communication in a language that may not be one's mother tongue."
-    },
-    {
-      "title": "The offline desk gadget that actually got me to sit up straight",
-      "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 16 May 2026 16:00:00 +0000",
-      "description": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
-      "language": "en",
-      "summary": "The article discusses a high-priced desk gadget called Deep Care that assists in improving one'neral’s back health by promoting proper posture and movement habits at the workstation. Despite its hefty price tag, it operates without an internet connection.",
-      "points": [
-        "Deep Care is a $350 desk gadget designed to improve users' sitting habits",
-        "Workers can use Deep Care as part of their standing or seated work routine at the office and track progress over time with weekly reports that provide details on posture, movement patterns (e.g., sit-to-stand transitions), number of hours spent in either position each day",
-        "Deep Care encourages users to engage more frequently throughout their shifts by notifying them when it's appropriate and rewarding good sitting habits with points that can be redeemed for discounted items"
-      ],
-      "insight": "The Deep Care desk gadget demonstrates an innovative approach towards promoting better posture and movement among office workers, despite its steep price. As more companies recognize the importance of maintaining good workplace health practices to ensure employee productivity and satisfaction while offering a viable solution that requires no internet connection."
-    },
-    {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 16 May 2026 15:33:33 +0000",
-      "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "language": "en",
-      "summary": "OpenAI has announced that co-founder Greg Brockman is now in charge of their product strategy amid rumors of merging AI chatbot ChatGPT and programming tool Codex.",
-      "points": [
-        "Co-founder Greg Brockman takes control as OpenAI' extramural leadership, steering new technology development",
-        "Plans to merge the advanced language models into one product are reportedly underway",
-        "OpenAI faces challenges in ensuring user safety and mitigating misuse of their AI systems"
-      ],
-      "insight": "This move could signify a significant shift towards consolidation within OpenAI's portfolio, potentially impacting the competitive dynamics among large-scale language models."
-    },
-    {
-      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-      "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 16 May 2026 15:00:00 +0000",
-      "description": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
-      "language": "en",
-      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible",
-      "points": [
-        "Cerebras Systems was 2026's biggest tech IPO so far",
-        "But years ago, it burned through hundreds of millions working on a chip many believed impossible",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 16 May 2026 14:00:00 +0000",
-      "description": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
-      "language": "en",
-      "summary": "As Amazon ends support for its older e-reader devices like the Kindle Touch model KF5071/2, users have turned to jailbreaking as a way to continue adding books and apps that are unsupported by default on these legacy models. While it's technically feasible, this workaround comes with significant risks.",
-      "points": [
-        "Jailbreaking older Kindle devices like the Touch model KF5071/2 is becoming a popular practice among users to add support for unsupported software as Amazon ends its device and service lifecycle. This allows access to newer apps, themes, or books that are not part of standard updates.",
-        "The process involves overriding built-in security measures on Kindle devices which can lead to potential risks like exposure to malware, loss of data integrity, voided warranties and the possibility of hardware damage. These dangers stem from unregulated software installation or missteps during jailbreaking.",
-        "Amazon's decision not only affects Kindle users but also highlights a broader trend in technology where manufacturers cease to provide updates for older devices, pushing consumers towards workarounds like jailbreaking."
-      ],
-      "insight": "The news of Amazon ending support reflects the fast-paced and shortened lifecycle modern electronics face, prompting users toward hackery practices such as jailbreaking to extend usability. However, this trend raises concerns about security risks for both consumers and manufacturers."
-    },
-    {
-      "title": "“AI 주도할 최고 보안 리더 키운다”... 정예화 선언한 BoB 15기 모집설명회",
-      "link": "http://www.boannews.com/media/view.asp?idx=143672&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 16 May 2026 17:37:00 +0900",
-      "description": "인원 감축 및 교육 난이도 상향 예고, 중상급 정예 보안 인재 육성 집중대학생 피드백 반영, 면접 일정 조정[보안뉴스 조재호 기자] 공격과 방어 모두 AI을 무기로 삼는 시대, 국가 사이버안보를 책임질 최정예 보안 리더의 조건도 변화하고 있다. 16일 열린 차세대 보안리더 양성 프로그램(BoB: Best of the Best) 15기 모집설명회는 단순한 인",
-      "language": "ko",
-      "summary": "인원 감축 및 교육 난이도 상향 예고, 중상급 정예 보안 인재 육성 집중대학생 피드백 반영, 면접 일정 조정[보안뉴스 조재호 기자] 공격과 방어 모두 AI을 무기로 삼는 시대, 국가 사이버안보를 책임질 최정예 보안 리더의 조건도 변화하고 있다. 16일 열린 차세대 보안리더 양성 프로그램(BoB: Best of the Best) 15기 모집설명회는 단순한 인",
-      "points": [
-        "인원 감축 및 교육 난이도 상향 예고, 중상급 정예 보안 인재 육성 집중대학생 피드백 반영, 면접 일정 조정[보안뉴스 조재호 기자] 공격과 방어 모두 AI을 무기로 삼는 시대, 국...",
-        "16일 열린 차세대 보안리더 양성 프로그램(BoB: Best of the Best) 15기 모집설명회는 단순한 인",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "미국 주유소 연료 저장 탱크 시스템 해킹 공격, 이란 소행?",
-      "link": "http://www.boannews.com/media/view.asp?idx=143671&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 16 May 2026 17:06:00 +0900",
-      "description": "미 수사당국, 이란 해커 그룹을 배후로 지목이란 전쟁 발발 후 미국 겨냥 이란 사이버 공격 더 심해져[보안뉴스 한세희 기자] 최근 미국 각지에서 일어난 주유소 연료 저장탱크 계측 시스템 해킹 공격의 배후로 이란이 지목됐다. 15일(현지시간) 복수 소식통을 인용한 CNN 보도에 따르면, 미국 수사당국은 이란 해커 조직이 미국 여러 주(州) 연료저장탱크 계측",
-      "language": "ko",
-      "summary": "미 수사당국, 이란 해커 그룹을 배후로 지목이란 전쟁 발발 후 미국 겨냥 이란 사이버 공격 더 심해져[보안뉴스 한세희 기자] 최근 미국 각지에서 일어난 주유소 연료 저장탱크 계측 시스템 해킹 공격의 배후로 이란이 지목됐다. 15일(현지시간) 복수 소식통을 인용한 CNN 보도에 따르면, 미국 수사당국은 이란 해커 조직이 미국 여러 주(州) 연료저장탱크 계측",
-      "points": [
-        "미 수사당국, 이란 해커 그룹을 배후로 지목이란 전쟁 발발 후 미국 겨냥 이란 사이버 공격 더 심해져[보안뉴스 한세희 기자] 최근 미국 각지에서 일어난 주유소 연료 저장탱크 계측 ...",
-        "15일(현지시간) 복수 소식통을 인용한 CNN 보도에 따르면, 미국 수사당국은 이란 해커 조직이 미국 여러 주(州) 연료저장탱크 계측",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[미토스 충격] 미토스 이용해 ‘철옹성’ 애플 맥OS 보안 뚫었다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143670&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 16 May 2026 10:28:00 +0900",
-      "description": "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 기술이 적용된 애플 맥OS를 우회 공격하는 코드를 개발한 사례가 나왔다. 미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨",
-      "language": "ko",
-      "summary": "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 기술이 적용된 애플 맥OS를 우회 공격하는 코드를 개발한 사례가 나왔다. 미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨",
-      "points": [
-        "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 ...",
-        "미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“AI 맹신 말고 조별과제 조장 맡아라”... 아주대 달군 보안 선배들의 ‘진짜’ 조언",
-      "link": "http://www.boannews.com/media/view.asp?idx=143625&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 16 May 2026 09:25:00 +0900",
-      "description": "‘SDU COSS x OWASP 사이버 직무 멘토링’곽진 아주대 교수, 네이버·크리밋·화이트햇스쿨 등 실무자 5인 패널 토크[보안뉴스 조재호 기자] 13일 저녁 6시 30분, 모두가 하교를 서두르는 늦은 시간임에도 아주대학교 성호관 135호는 현업 진출을 꿈꾸는 예비 보안인들로 발 디딜 틈 없이 붐볐다. 일방적 발표 중심의 기술 세미나가 아닌, 실무자와 학",
-      "language": "ko",
-      "summary": "대학교 성호관에서 실무자로서 AI의 발언에 대한 대안이 나타내고 그들의 많은 경험적인 지식과 공부와 연귀를 제시.",
-      "points": [
-        "현대학교 성호관에서 5명의 실무자로 이루어진 모임이 발표",
-        "AI는 보안분야에서 여전히 기억과 견해가 필요한 역할을 하고, 실무자들은 AI의 진짜한 지식과 피보나처를 변경시킨 방법에 대해서 이앉기",
-        "일반적인 IT/보안 학문에서도 실무자가 AI를 다룰 때 와우스카드나 공백을 견해하지 않아질 것이 아니라고 강조"
-      ],
-      "insight": "실무자들이 제시한 AI의 진짜한 발언에 대한 대안은 IT/보안 주제로 이루어지는 다음과 같다."
-    },
-    {
-      "title": "18년 숨어있던 NGINX 치명적 결함 발견 “인증 없이 서버 장악 가능”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143669&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 16 May 2026 09:24:00 +0900",
-      "description": "인증 없이 원격 코드 실행(RCE)과 서버 권한 탈취 가능성 제기F5 “최신 버전 즉시 업데이트 필요” 추가 취약점 3종도 함께 패치[보안뉴스 김형근 기자] 전 세계 웹 서버 시장에서 널리 사용되는 엔진엑스 플러스(NGINX Plus) 및 엔진엑스 오픈소스(NGINX Open Source)에서 18년 간 발견되지 않았던 심각한 보안 취약점이 공개됐다.‘엔진",
-      "language": "ko",
-      "summary": "NGINX에서 관심이 많을 때, 18년 전의 예방적인 코드 오프소스와 개정된 엔진엑스 NGINX Plus에서 나타나는 근사한 것이 '인증 없이 원격 코드 실행'와 '서버 권한 탈취'를 가진 적으로 보안에 직접적인 문제점이 있음을 밝힙니다.",
-      "points": [
-        "- '인증 없이 원격 코드 실행'으로 인한 저존에서 직접 정의되어 있는 NGINX Plus에서는 보안성이 제한되어 있지만, Open Source에서는 그러나 '인증 없이 원격 코드 실행' 등의 취약적인 문제점이 있음을 볼 수 0있다.",
-        "- '서버 권한 탈취'에 대한 공개된 약속은 종업원이나 강화하거나 심위가 있는 경우로 보면 이상한 문제점을 볼 수 있다.",
-        "- '인증 없이 원격 코드 실행'과 '서버 권한 탈취'에 대한 공개된 노하우는 NGINX를 위한 보안 논제가 유 Einzeln의 반면이라고 생각해도, 보안적인 기술이나 공개된 서비스에서는 필수점임을 의사결정하시오."
-      ],
-      "insight": "NGINX를 위한 보안성 중요성이 인crease되고 있어서, 이전에 공개된 NGINX 기능과 관련된 보안 문제점은 IT/기술 업계가 중요하게 참고해야할 사항이다."
-    },
-    {
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 15 May 2026 20:30:20 +0000",
-      "description": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
-      "language": "en",
-      "summary": "RJ Scaringe has successfully raised over $12 billion in funding across three ventures.",
-      "points": [
-        "Investors continue to show strong interest in RJ Scaringe and his startups despite significant capital already invested.",
-        "The popularity of Rivian, where Behl worked as a senior manager, is linked to the market'intrigue with electric vehicles (EVs).",
-        "RJ Scaringe’s communication skills are considered essential in raising investment for his ventures."
-      ],
-      "insight": "The substantial interest and funding RJ Scaringe has secured demonstrate a robust appetite among the technology sector for forward-thinking, high-risk EV startups. This could signal increased confidence within IT/technology industries regarding future investments in green energy solutions."
     }
   ]
 }
