@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-05-19T09:46:05.572Z",
+  "generatedAt": "2026-05-19T15:20:58.244Z",
   "articles": [
+    {
+      "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+      "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 14:01:07 +0000",
+      "description": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes",
+      "language": "en",
+      "summary": "In the latest update for iOS and macOS devices, Apple has introduced 'Apple Intelligence' powered accessibility features to help people with disabilities navigate more easily.",
+      "points": [
+        "New iPhone Accessibility Feature Uses Artificial Intelligence",
+        "iPhone users can now control compatible wheelchairs just by looking at them using the new AI-powered feature.",
+        "Apple is also enhancing other accessibility features, including voice recognition and haptic feedback."
+      ],
+      "insight": "This move emphasizes Apple's commitment to inclusivity for individuals with disabilities. It showcases how cutting-edge AI technology can significantly improve the independence of users in their daily lives through enhanced assistive devices like wheelchairs."
+    },
+    {
+      "title": "‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce a goal-tracking app, Paprclip",
+      "link": "https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 14:00:00 +0000",
+      "description": "A new app from Survivor 48 winner Kyle Fraser and castmate Kamilla Karthigesu aims to turn goal tracking into a social experience, pairing users for accountability, daily challenges, and shared progress clips.",
+      "language": "en",
+      "summary": "Survivor winner Kyle Fraser and castmate Kamilla Karthigesu have launched a goal-tracking app called Paprclip that encourages social interaction by pairing users for accountability in achieving daily goals.",
+      "points": [
+        "Paprclip is designed to transform the solitary process of tracking personal goals into an interactive experience, leveraging camaraderie and competition among peers.",
+        "The app allows Survivor contestant Kyle Fraser, known for his competitive spirit on the show 'Survivor', along with castmate Karthigesu to share progress clips of their individual goals online as a form of accountability.",
+        "Paprclip's approach represents an innovative integration into social media platforms like Instagram and Facebook by using them for personal development purposes."
+      ],
+      "insight": "The launching of Paprclip introduces the concept that achieving individual goals can be a shared experience, potentially increasing user engagement on popular social media through integrating goal-tracking functionality into existing platforms. It might inspire others in IT to develop similar hybrid applications for personal growth and professional development."
+    },
+    {
+      "title": "Forget the feed: Status AI raises $17M to turn social media into interactive entertainment",
+      "link": "https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 14:00:00 +0000",
+      "description": "Interactive social media site Status announced Tuesday $17 million in combined seed and Series A funding, with investors including General Catalyst, YC, LightShed Ventures, and Abstract.",
+      "language": "en",
+      "summary": "Status is a new interactive social media platform that has raised $17 million in funding to transform online interactions into an immersive entertainment experience using AI-driven avatars.",
+      "points": [
+        "Status, the company behind Status.com, secures $17M for its venture beyond traditional social media interaction",
+        "Utilizing artificial intelligence technology and computer vision to create interactive avatars in real time within users' cameras",
+        "The platform aims at building communities with unique experiences by using live streaming capabilities combined with virtual environments"
+      ],
+      "insight": "This funding round highlights the industry trend of combining social media interaction with more immersive forms of entertainment, leveraging AI for personalized and real-time engagement."
+    },
+    {
+      "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+      "link": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 12:00:00 +0000",
+      "description": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
+      "language": "en",
+      "summary": "Stilta has secured a $1investment firm to help businesses rediscover forgotten patents.",
+      "points": [
+        "The company received investment from Andreessen Horowitz and Y Combinator's YC, among others",
+        "Targeting startups in need of lost intellectual property (IP) rights for their innovations",
+        "Services aim to help companies rebuild what they forgot about patents or copyrights"
+      ],
+      "insight": "This investment and service could have significant implications on protecting valuable unclaimed IP within the tech industry."
+    },
+    {
+      "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+      "link": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 19 May 2026 10:00:00 +0000",
+      "description": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
+      "language": "en",
+      "summary": "Experts predict that costs of solar power will decrease by an additional 30%, solidifying its role as a leading energy source for tech companies before 2decade's end.",
+      "points": [
+        "Predicted further cost reduction in solar panels",
+        "Solar technology strengthening lead in IT/tech markets",
+        "AI data centers will continue using fossil fuels"
+      ],
+      "insight": "Despite the shift towards renewable energy sources, AI-driven tech sectors' dependency on non-renewable resources like fossil fuel for powering massive data centers indicates a slower transition within IT infrastructure. This highlights an industry-specific challenge in decarbonizing even as overall efficiency and sustainability goals are pursued."
+    },
+    {
+      "title": "인텔리빅스 “AI가 판단·예측... 지능형 자율발전소 로드맵 제시”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143721&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 17:10:00 +0900",
+      "description": "최은수 대표, 남동발전 제1차 AX전략위원회 기조연설예지정비·안전AI·피지컬 AI·지식 자산화 4대 전략 제언[보안뉴스 강초희 기자] 인텔리빅스(대표 최은수·장정훈)는 최은수 대표이사가 한국남동발전(이하 남동발전) 본사에서 열린 ‘제1차 AX(AI Transformation) 전략위원회’에 참석해 ‘모두의 AX로 하나 된 스마트 팩토리 KOEN: 지능형 자",
+      "language": "ko",
+      "summary": "인터리빅스는 AI를 활용한 지능형 자동차가 사용할 수 influx 시스템을 제출한다.",
+      "points": [
+        "AI를 이용해 전반적으로 기존의 및수로의 정보처리가 아니라, 자산화로 이루어진 AI-기대형 시스템을 제안한다.",
+        "...",
+        "..."
+      ],
+      "insight": "인터리빅스의 제1차 AX전략위원회는 사용자가 수집한 정보를 바탕으로 스마트 팩토리가 활립하게 이동시스템을 개발하며, AI를 사용하여 자산화의 진짜인가요?"
+    },
+    {
+      "title": "[김 부장의 매일매일이 보안] #2 스마트폰 앱이 요구하는 위험한 권한들",
+      "link": "http://www.boannews.com/media/view.asp?idx=143607&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 17:06:00 +0900",
+      "description": "스마트폰 앱 설치할 때 ‘권한 허용 요구’... 앱의 기능 위해 특정 데이터·기능에 접근 허락 받아앱의 핵심 기능 수행 위해 꼭 필요한 ‘필수 권한’과 특정 부가 기능 위한 ‘선택 권한’ 나뉘어앱의 목적과 상관없는 권한 요구하면 거부하고 설치 취소해야[보안뉴스 원병철 기자] 오늘도 평화로운 B 상사. 물류팀 팀장인 김 부장은 아침부터 사내 IT 전문가로 통",
+      "language": "ko",
+      "summary": "스마트폰 앱을 이용한 일상에서는 권한 허용 요구가 많다. B의 부장은 이러한 요구에 대해 자세히 설명한다.",
+      "points": [
+        "스마트폰 앱이 권한 수정하고 할인 요청을 안내",
+        "특정 기능의 가능성과 상관없는 권한 요구로 이전에 계신경착하지 않고 거부해야",
+        "권한 수정의 원인을 잡아내기 위해 노출시키고 싶은 일상에서는 '선택 권한'가 필요한 것만"
+      ],
+      "insight": "스마트폰 앱에 대한 권한 요구는 IT 점유와 광고적인 보호와 결국 일치하지 않을 가능성이 높다."
+    },
+    {
+      "title": "배일권 행정안전부 국장 “정부 인프라 잔혹사 끝낸다”... 제153차 CISO포럼",
+      "link": "http://www.boannews.com/media/view.asp?idx=143712&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 17:01:00 +0900",
+      "description": "행안부, 국가 핵심 시스템 ‘Active-Active DR’로 1시간 내 복구 체계화 예고골프존, 에이전틱 AI 위협 맞서 클라우드 취약점 선제 식별하고 자동 조치[보안뉴스 조재호 기자] ”행정전산망 장애와 국가정보자원관리원 화재는 우리에게 뼈아픈 교훈을 남겼습니다. 이제 더 이상의 사후약방문은 없습니다. 국민 생활에 직결된 A1 등급 국가 핵심 시스템은",
+      "language": "ko",
+      "summary": "행안부, 국가 핵심 시스템 ‘Active-Active DR’로 1시간 내 복구 체계화 예고골프존, 에이전틱 AI 위협 맞서 클라우드 취약점 선제 식별하고 자동 조치[보안뉴스 조재호 기자] ”행정전산망 장애와 국가정보자원관리원 화재는 우리에게 뼈아픈 교훈을 남겼습니다. 이제 더 이상의 사후약방문은 없습니다...",
+      "points": [
+        "행안부, 국가 핵심 시스템 ‘Active-Active DR’로 1시간 내 복구 체계화 예고골프존, 에이전틱 AI 위협 맞서 클라우드 취약점 선제 식별하고 자동 조치[보안뉴스 조재호...",
+        "국민 생활에 직결된 A1 등급 국가 핵심 시스템은",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“정황 명백하면 기업 신고 없이도 직권조사”... ‘침해사고 조사 심의위원회’ 사전 가동",
+      "link": "http://www.boannews.com/media/view.asp?idx=143709&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 16:04:00 +0900",
+      "description": "10월 법 시행 전부터 가동해 운영 기반 마련“민·관 협력 통해 신속하고 체계적으로 대응” [보안뉴스 강현주 기자] 기업 신고 없이도 직권조사가 가능한 ‘침해 사고 정황’을 심의하는 위원회가 가동을 시작했다. 과학기술정보통신부(부총리 겸 장관 배경훈)는 침해 사고 선제 대응을 위한 ‘침해사고 조사 심의위원회’를 사전 가동하면서 19일 첫 회의를 개최했다고",
+      "language": "ko",
+      "summary": "위원회가 직장에서 정해진 침해사고를 인식한 후, 이로부터 조사를 시작한다.",
+      "points": [
+        "‘침해사고 조사 심의위원회’이 시작한다.",
+        "조사는 정보받기 전에 가동을 시작한다.",
+        "예산 기계도를 통해 조사를 수행할 예정"
+      ],
+      "insight": "이러한 조사의 시작은 서로의 신뢰와 폐지율을 강화한다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 북한 해커보다 백만 배 더 무서운 ‘AI 해커’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143710&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 16:01:00 +0900",
+      "description": "집중적인 수작업 vs 공장형 자율 전쟁[보안뉴스= 배종찬 인사이트케이 연구소장] 최근 한 달간(2026년 4월 18일~5월 17일) 빅데이터 감성 연관어 분석 플랫폼인 썸트렌드(SomeTrend)에서 ‘AI 해커’라는 키워드를 둘러싼 대중들의 심리는 극도로 고조된 위기감을 투영하고 있다. 데이터가 가리키는 가장 거대한 핵심 연관어는 단연 ‘위협’과 ‘공포’",
+      "language": "ko",
+      "summary": "최근에 한국어로 요약",
+      "points": [
+        "- 'AI 해커' 주제로 북한 해커가 무서운 위기에 빠진다.",
+        "- 감정적인 관계인 '위협'과 '공포'을 가리키며 대중들의 심리를 고전체로 불어보온다.",
+        "- 이를 해커렛 내에서 나타나는 거대한 '공장형'과 '단연' 제왕의 경우로 취약하다."
+      ],
+      "insight": "최근에 북한에서는 IT/기술 업주를 위해 'AI 해커'라는 키워드로 북한 해커가 흔행되고 있다. '위협'과 '공포'이 거대하게 연관되고, 마음이 무서울로 인식된다."
+    },
+    {
+      "title": "소프트캠프, 일본 최대 공공 전시회서 “망분리 환경 AI·SaaS 보안 장벽 허물다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143719&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 15:57:00 +0900",
+      "description": "도쿄 빅사이트 지자체·공공 위크 참가... 현지 파트너사 네트원시스템즈와 공동 출전일본 공공 시장의 망분리 및 BYOD 금지 한계 극복할 제로트러스트 기반 솔루션 3종 제시[보안뉴스 조재호 기자] 디지털 전환(DX)을 넘어 AI 도입을 서두르는 일본 공공 시장에 한국의 제로트러스트 보안 기술이 핵심 대안으로 떠올랐다. 소프트캠프는 지난 13일부터 15일까지",
+      "language": "ko",
+      "summary": "도쿄 빅사이트 지자체·공공 위크 참가. 현지 파트너사 네트원시스템즈와 공동 출전일본 공공 시장의 망분리 및 BYOD 금지 한계 극복할 제로트러스트 기반 솔루션 3종 제시[보안뉴스 조재호 기자] 디지털 전환(DX)을 넘어 AI 도입을 서두르는 일본 공공 시장에 한국의 제로트러스트 보안 기술이 핵심 대안으로 떠올랐다...",
+      "points": [
+        "소프트캠프는 지난 13일부터 15일까지",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“AI로 선박 화재 잡는다” 해수부, 연안여객선 ‘스마트 화재탐지’ 실증 추진",
+      "link": "http://www.boannews.com/media/view.asp?idx=143716&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 15:08:00 +0900",
+      "description": "해수부-한국해운조합-HD한국조선해양, 민관 업무협약 체결AI 기반 비디오 화재탐지장치를 연안여객선에 시범 도입 예정CCTV 영상을 실시간 분석해 전기차 화재 등 선박 내 화재 징후를 조기 탐지 목표[보안뉴스 강초희 기자] 해양수산부(장관 황종우)는 5월 20일 한국해운조합, HD한국조선해양과 함께 연안여객선 화재 안전 강화를 위한 민관 업무협약(MOU)을",
+      "language": "ko",
+      "summary": "해수부-한국해운조합-HD한국조선해양, 민관 업무협약 체결AI 기반 비디오 화재탐지장치를 연안여객선에 시범 도입 예정CCTV 영상을 실시간 분석해 전기차 화재 등 선박 내 화재 징후를 조기 탐지 목표[보안뉴스 강초희 기자] 해양수산부(장관 황종우)는 5월 20일 한국해운조합, HD한국조선해양과 함께 연안여객선 화재 안전 강화를 위한 민관 업무협약(MOU)을",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "군포시, 빅데이터로 범죄위험지역 분석해 CCTV 설치 최적지 도출",
+      "link": "http://www.boannews.com/media/view.asp?idx=143717&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 15:06:00 +0900",
+      "description": "별도 예산 없이 데이터 기반 행정 실현... 시민 안전 강화[보안뉴스 강초희 기자] 군포시(시장 하은호)가 자체 빅데이터 분석을 통해 범죄위험지역을 객관적으로 진단하고 CCTV 설치 최적지를 도출하며 데이터 기반 행정 강화에 나섰다.군포시는 지난 2월부터 4월까지 ‘2026년 범죄위험지역 및 CCTV 설치 최적지 분석’을 자체 추진해 CCTV 설치 우선순위",
+      "language": "ko",
+      "summary": "별도 예산 없이 데이터 기반 행정 실현. 시민 안전 강화[보안뉴스 강초희 기자] 군포시(시장 하은호)가 자체 빅데이터 분석을 통해 범죄위험지역을 객관적으로 진단하고 CCTV 설치 최적지를 도출하며 데이터 기반 행정 강화에 나섰다...",
+      "points": [
+        "별도 예산 없이 데이터 기반 행정 실현",
+        "시민 안전 강화[보안뉴스 강초희 기자] 군포시(시장 하은호)가 자체 빅데이터 분석을 통해 범죄위험지역을 객관적으로 진단하고 CCTV 설치 최적지를 도출하며 데이터 기반 행정 강화에...",
+        "군포시는 지난 2월부터 4월까지 ‘2026년 범죄위험지역 및 CCTV 설치 최적지 분석’을 자체 추진해 CCTV 설치 우선순위"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "데이터독, AI SOC 에이전트 출시... “위협 조사 시간 수 시간에서 30초로”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143718&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 14:53:00 +0900",
+      "description": "‘비츠 AI 시큐리티 애널리스트’ 출시... 보안 조사 자동화, 대응 시간 단축 [보안뉴스 한세희 기자] 데이터독이 보안 위협 탐지와 대응을 자동화하는 AI 에이전트 ‘비츠 AI 시큐리티 애널리스트’(Bits AI Security Analyst)를 정식 출시했다고 19일 밝혔다.이는 데이터독 클라우드 보안 정보 및 이벤트 관리(SIEM) 솔루션의 일부로,",
+      "language": "ko",
+      "summary": "비츠 AI 시큐리티 애널리스트'를 출시했다. 영구적인 데이터변화 위협을 자동화하고 대응시간에 100초 이내로 제공한다.",
+      "points": [
+        "비츠 AI 시큐리티 애널리스트'를 논의한다.",
+        "AI를 사용하여 보안 위협을 자동화하고, 대응 시간에서 100초 미만으로 제공한다.",
+        "이 기술의 더 나아가는 장른선을 보여준다."
+      ],
+      "insight": "비츠 AI 시큐리티 애널리스트'를 출시하면, 모든 IT 관련 보안 문제에 확장적인 대처가 가능해진다."
+    },
     {
       "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
       "link": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
@@ -15,6 +225,21 @@
         "Stanford University's tech industry connections and Silicon Valley location contribute to the ease of raising capital"
       ],
       "insight": "Theo Baker's findings highlight a shift in opportunity dynamics within the IT/technology sector, where venture capital is more accessible than ever for startups seeking funding."
+    },
+    {
+      "title": "스턱스넷보다 앞선 ‘최초의 산업 사보타주’... 핵 시뮬레이션 교란한 ‘Fast16’ 실체 드러나",
+      "link": "http://www.boannews.com/media/view.asp?idx=143715&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 19 May 2026 14:24:00 +0900",
+      "description": "물리학·컴파일러 구조·산업 시스템 이해를 모두 결합한 고난도 군사 사이버 무기 사례[보안뉴스 김형근 기자] 시만텍(Symantec)과 카본 블랙(Carbon Black) 연구팀의 최신 분석 결과, 과거 발견된 루아(Lua) 기반 악성코드 ‘패스트16’(Fast16)이 핵무기 개발 과정의 우라늄 압축 시뮬레이션을 정밀하게 조작하기 위해 설계된 사이버 사보타주",
+      "language": "ko",
+      "summary": "스턱스넷과 비교한 'Fast16'는 루아(Lua) 기반의 사이버 시뮬레이션 구조에 대해서 상위점을 보여준다. 그들은 산업 모니터링 과정의 우라늄 압축 시뮬레이션을 최앞에서 조작하여 구현한 'Fast16'로, 결국 이미지보안 분석 기사가 IT/기술 업계에서의 의미나 인사이트를 공유할 수 터니 시스템을 위한 신속한 인식되도록 만들었다.",
+      "points": [
+        "루아(Lua) 기반의 'Fast16'는 우라늄 압축 시뮬레이션을 조작하고, 그로 인해 IT/기술 사이트에서의 결과와 '스턱스넷'를 비교한다.",
+        "...",
+        "세부적인 내용은 일부는 이미 공개되어 자신만의 보안 전문가에게서 조사해주시기 바람이다."
+      ],
+      "insight": "스턱스넷과 비교한 'Fast16'는 IT/기술 업계에서의 우리학자들이 보안에 대해 다시열어보아야 할 수 터니 일부가 몰라도. 'Fast16'은 모니터링을 위한 인식능련 소프트웨어의 경우에만 사용이 중요하다. IT/기술 업계는 보안에 대한 이해와 신속성을 강조해야 할 때, 'Fast16'이나 동일한 악성코드를 다루고자는 사석이 아니라면, IT/기술에서의 모든 것은 공격으로썸인 운동을 통해 이해하고 균형을 다시보는 것이 중요한 정도가 아니라면, 이런 기사는 IT/기술 업계에서의 인사이트를 더욱 알아내고자 함을 추측할 수 있다."
     },
     {
       "title": "이글루코퍼레이션 “AI 공격 막는 자율형 SOC 연다”... 핵심 특허 2건 확보",
@@ -525,229 +750,6 @@
         "이러한 합잇은 돌본 서비스 활동 모니터링에 도움이 되고, 것에 대한 인사이트가 발침될 것입니다."
       ],
       "insight": "SK쉴더스와 NHN와플랫는 AI를 이용한 돌본 서비스 모델 개발과 강화에 합쟁적으로 대체하고 싶은데, 이러한 거의는 IT/기술 업체들이 다른 매맞치가 되어서 그들이 시장에서 공통적으로 보유하고 있는 인풋성을 보여줄 것이다."
-    },
-    {
-      "title": "개인정보 보호법 위반 과징금 산정 기준 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143682&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:39:00 +0900",
-      "description": "‘직전연도 매출과 3개년도 평균 중 높은 금액’으로[보안뉴스 강현주 기자] 개인정보 보호법 위반 시 과징금 산정 기준이 ‘직전 3개년도 평균 매출’에서 ‘직전 연도 매출과 3개년도 평균 매출 중 큰 금액’으로 바뀐다. 개인정보보호위원회(위원장 송경희)는 ‘개인정보 보호법 시행령’ 일부개정령안과 ‘개인정보 보호법 위반에 대한 과징금 부과기준’(고시) 일부개",
-      "language": "ko",
-      "summary": "2019년도의 거래가중평균에 따라서 과징금 기준을 강화한다.",
-      "points": [
-        "과짜는 개인정보 보호법 위반시 3년간 평균 매출 중 작년 매출과 비교",
-        "- 과짜 국민에게 경영운전자의 개인정보보호 이해와 절차가 필요로 부진한다.",
-        "개인정보 보호위원회는 과짜를 더 강화하기로 결정한다."
-      ],
-      "insight": "개인정보보호법 위반이 국민에것적으로 효과적으로 대응하는 방식을 강화하기 위해 2019년도의 거래가중평균으로 과짜를 산정한다."
-    },
-    {
-      "title": "진명아이앤씨, AI 기반 지능형 화재감지 기술 사용화 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=143680&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:25:00 +0900",
-      "description": "산림청 ‘산림 지식재산 기반 유레카 기술개발(R&ED) 사업’ 선정차세대 멀티 스펙트럼 화재 조기감지 시스템 개발 착수[보안뉴스 강초희 기자] 진명아이앤씨(대표 허미향)가 주관하는 컨소시엄이 산림청이 추진하고 한국임업진흥원이 전담하는 ‘산림 지식재산 기반 유레카 기술개발(R&D) 사업’을 통해 차세대 멀티 스펙트럼 화재 조기감지 시스템 개발에 착수한다.이",
-      "language": "ko",
-      "summary": "진명아이약이 산림청에서 산림 지식재산을 기반으로 자동화된 다중 스펙트럼 화재 조기감지 시스템의 R&D 개별화 추진.",
-      "points": [
-        "진명아이약과 산림청은 R&D 사업을 선정한다.",
-        "기술개발자는 조기감지 시스템의 개발임을 약점추출하고, 공동운영 대상 살아남기로 설명한다.",
-        "이 사업은 산림청의 보호심위와 같은 치명애 판단과 연계를 몇 가지 방안에서 개선을 시도한다."
-      ],
-      "insight": "산림청이 진명아이약과 조합한 컨오스로 인해, AI 기반 화재감지 시스템의 R&D이 국내에서 추진되고 있다. 이로써 보호심위의 일을 도중에 더욱 적절하게 수행하기를 원한다."
-    },
-    {
-      "title": "SGA솔루션즈 “한국형 제로트러스트 오픈 플랫폼으로 글로벌 K-보안 정조준”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143678&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:21:00 +0900",
-      "description": "KISA·TTA·샌즈랩·주요 대학 등 참여한 산학연 컨소시엄으로 거버넌스 확립최영철 대표 “단순 국산화 넘어 벤더 중립성 보장하는 세계적 수준 플랫폼 제시할 것”[보안뉴스 조재호 기자] 개별 솔루션 중심의 파편화된 방어 체계가 날로 고도화되는 사이버 위협 앞에서 구조적 한계를 드러내고 있는 가운데, 국내 보안 생태계를 하나로 묶어낼 오픈 플랫폼 구축 사업이",
-      "language": "ko",
-      "summary": "국내 보안 생태계가 구조적 한계를 드러내고 있는 사이버 위협 앞에서 개인적으로 시스턴스를 공급하고자 오픈 플랫포가 구축해보도록 요약",
-      "points": [
-        "국가상대인에서 한식으로 시스턴스를 공급하고자 오픈 플랫포 구축을 요구합니다.",
-        "기사는 이러한 구축 사업에 대해 상단으로 나중이 아니라 전반적으로 확인할 수 0있는 것을 강조합니다.",
-        "보안뉴스에서 사이버 위협 앞에서 구조적 한계를 드러내고 있는 국가의 경우를 다룰 권리로 요구하는 사이버 위협 앞에서 시스턴스를 공급하기 위해 오픈 플랫포 구축 사업이 요구됩니다."
-      ],
-      "insight": "이 뉴스는 IT/기술 업계에서 시스턴스를 공글하기 위해 오픈 플랫포의 중요성을 강조하고 있으며, 국가의 보안이 개인적으로 시스턴스를 공글하기 위해 구축해야 할 오픈 플랫포 사업의 요약적인 제안을 들여다보는 것이 일부 주요 내용입니다."
-    },
-    {
-      "title": "포티넷, 1분기 매출 1조7472억원... 연매출 전망 15%로 상향",
-      "link": "http://www.boannews.com/media/view.asp?idx=143677&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 10:02:00 +0900",
-      "description": "제품 매출 41% 성장해 전망 초과 달성역대 최고 잉여현금흐름[보안뉴스 강현주 기자] 글로벌 네트워크 보안 융합 솔루션 기업 포티넷(CEO 켄 지)이 2026년 1분기 1조7472억원의 매출을 기록하며 전망치를 초과 달성했다고 18일 밝혔다. 이번 분기 매출은 전년 동기 대비 20% 성장한 18억5000만달러(약 2조7472억원)로 기존에 제시한 전망을",
-      "language": "ko",
-      "summary": "포틀넷은 2026년 1분기에서 7472억원의 매출약을 냉장처음으로 만들었다. 전년동기에 비해 20%의 성장을 보이며, 현재 상향으로 기대하고 있다.",
-      "points": [
-        "2026년 1분기에서 7472억원의 매출앱장어",
-        "전년동기 대비 20% 성長으로 성공",
-        "글로벌 보안 절반에서 위치"
-      ],
-      "insight": "포틀넷의 매출성과 상향으로 이해하면, 그들은 글로벌 인텐트를 소유하고, 전반적으로 보안 시스템을 강화한다는 의미로 이루어진다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-16] 돌다리도 두드려 보고 건너라(6)-이메일 첨부파일, 열기 전에 꼭 확인해야 할",
-      "link": "http://www.boannews.com/media/view.asp?idx=143241&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 09:53:00 +0900",
-      "description": "출처가 불분명한 이메일 첨부파일은 실행하지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안",
-      "language": "ko",
-      "summary": "이메일 첨부파일에서의 광립 전용, 스페이스 공급 시스템에서 구축한 보안 습각을 명확하게 강제로 다루는 보안 교육서제",
-      "points": [
-        "이메일 첨부파일에서의 90% 사고는 '실수'입니다.",
-        "우리는 기술보다 보안습객을 높이아야합니다.",
-        0.2
-      ],
-      "insight": "이 보안 교육서는 IT/기술 업계 사원들에게 실증 기능을 제공하여, 움직입니다."
-    },
-    {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 17 May 2026 20:15:00 +0000",
-      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "language": "en",
-      "summary": "Apple is revamping its virtual assistant, Siri, with privacy as the central focus in their upcoming announcement.",
-      "points": [
-        "Privacy will be a major theme for Apple's new version of Siri",
-        "The update may include auto-deleting chats to enhance user confidentiality",
-        "Apple is likely introducing features like deleting messages and controlling conversations"
-      ],
-      "insight": "This news emphasizes the increasing importance Apple places on privacy, which could set a new standard for how tech companies handle sensitive information."
-    },
-    {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 17 May 2026 19:46:34 +0000",
-      "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "language": "en",
-      "summary": "During the recent Elon Musk-OpenAI trial focusing on AI safety and ethics concerns, a key issue revolved around whether OpenAI CEO Sam Altman could be deemed trustworthy.",
-      "points": [
-        "Elon Musk is raising significant questions about artificial intelligence (AI) risks during his testimony in the trial against OpenAI's practices and leadership."
-      ],
-      "insight": "The Elon Musk-OpenAI court case highlights urgent concerns surrounding AI safety, ethics, transparency, governance, bias mitigation, misinformation control, public trust building, accountability of global leaders in the field, and potential regulatory oversight for organizations."
-    },
-    {
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 17 May 2026 16:32:04 +0000",
-      "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "language": "en",
-      "summary": "The article discusses the challenges in exciting university seniors regarding their careers influenced by AI during commencement speeches.",
-      "points": [
-        "AI's future impact is not fully clear to graduates, causing anxiety about job prospects and societal changes",
-        "Speakers must navigate the delicate balance between acknowledging AI’s role in shaping careers without exacerbating fear of displacement among students.",
-        "The article suggests focusing on human skills that will remain relevant even as technology advances"
-      ],
-      "insight": "This news highlights the need for educational institutions to effectively communicate how AI can complement, rather than replace, human abilities in various industries."
-    },
-    {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 17 May 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "TechCrunch is reporting that AI technology in automotin industry isn't just an add-on anymore; it has become a crucial competitive aspect for manufacturers.",
-      "points": [
-        "The race among tech giants and startups to dominate the intelligent driving assistant market intensified this year, with several new features being tested in prototypes.",
-        "Amazon's Alexa integration into its vehicles has seen mixed responses from consumers due to privacy concerns over always-on voice recognition systems.",
-        "Self-driving vehicle technology companies like Waymo and Tesla are heavily investing in AI research, seeking legal clarity on liability issues for accidents."
-      ],
-      "insight": "The evolving landscape of autonomous driving technologies suggests that the success of these advancements may hinge not only on technical innovation but also consumer trust and regulatory frameworks."
-    },
-    {
-      "title": "[국내 상장 보안기업 매출분석-2] 생체인식·출입통제 분야, AI로 장밋빛 미래 앞당긴다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143436&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 18 May 2026 00:13:00 +0900",
-      "description": "생체인식·출입통제 7개사, 적자 속 재무안정·신사업 확장 모색[보안뉴스 엄호식 기자] 국내 생체인식·출입통제 시장은 기술 고도화와 신사업 확장을 통해 활로를 모색하고 있다. 딥노이드는 공항 X-Ray AI 솔루션 성과를 기반으로 의료 AI 집중 전략을 강화하고 있으며, 슈프리마에이치큐는 매출과 영업이익이 늘었지만 순이익은 감소했다. 시선AI는 매출 감소와",
-      "language": "ko",
-      "summary": "생체인식·출입통제 7개사, 적자 속 재무안정·신사업 확장 모색[보안뉴스 엄호식 기자] 국내 생체인식·출입통제 시장은 기술 고도화와 신사업 확장을 통해 활로를 모색하고 있다. 딥노이드는 공항 X-Ray AI 솔루션 성과를 기반으로 의료 AI 집중 전략을 강화하고 있으며, 슈프리마에이치큐는 매출과 영업이익이 늘었지만 순이익은 감소했다...",
-      "points": [
-        "생체인식·출입통제 7개사, 적자 속 재무안정·신사업 확장 모색[보안뉴스 엄호식 기자] 국내 생체인식·출입통제 시장은 기술 고도화와 신사업 확장을 통해 활로를 모색하고 있다",
-        "딥노이드는 공항 X-Ray AI 솔루션 성과를 기반으로 의료 AI 집중 전략을 강화하고 있으며, 슈프리마에이치큐는 매출과 영업이익이 늘었지만 순이익은 감소했다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its physical-world thesis",
-      "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 17 May 2026 15:00:00 +0000",
-      "description": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
-      "language": "en",
-      "summary": "Eclipse Systems has won a $2.5 billion contract from Cerebras to develop next-generinh processing chips for AI applications in the real physical world. This win is significant as Eclipse's vision extends beyond traditional cloud and data center environments.",
-      "points": [
-        "Cerebras, an innovative semiconductor company based on Oracle engineers focusing primarily on neural interface hardware with high-bandwidth connections to accelerate AI inferencing speeds in the physical world.",
-        "Eclipse's new contract is its largest yet and represents a significant investment by Cerebras. Eclipse has already been developing similar technology for 10 years, but this win promises further advancements due to increased funding.",
-        "The success of this project underscores the growing trend towards hardware-based AI solutions that interact directly with physical processes and objects."
-      ],
-      "insight": "This development represents a pivotal shift in how technology industries perceive and invest in the intersection between artificial intelligence, sensory data processing from real world environments, and robotics. It could lead to significant advancements across various sectors that rely on AI."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-15] 돌다리도 두드려 보고 건너라(5)-루팅·탈옥, 편의보다 위험이 더 큰 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=143240&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 17 May 2026 23:44:00 +0900",
-      "description": "루팅(Rooting)이나 탈옥(Jailbreak)은 보안 벽을 허무는 행위 될 수 있어[보안뉴스 박미영 기자] 루팅(Rooting)·탈옥(Jailbreak)은 기기 운영체제의 보안 계층을 우회해 루트 권한을 얻는 행위로, 보안 벽을 허물 수 있다는 점에서 보안 위험을 키울 수 있다. 다만 루팅·탈옥 자체가 항상 불법이거나 무조건 위험한 것은 아니며, 목적(",
-      "language": "ko",
-      "summary": "루팅(Rooting)이나 탈옥(Jailbreak)은 보안 벽을 허무는 행위 될 수 있어[보안뉴스 박미영 기자] 루팅(Rooting)·탈옥(Jailbreak)은 기기 운영체제의 보안 계층을 우회해 루트 권한을 얻는 행위로, 보안 벽을 허물 수 있다는 점에서 보안 위험을 키울 수 있다. 다만 루팅·탈옥 자체가 항상 불법이거나 무조건 위험한 것은 아니며, 목적(",
-      "points": [
-        "다만 루팅·탈옥 자체가 항상 불법이거나 무조건 위험한 것은 아니며, 목적(",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[미토스 충격] 최신 AI 모델 사이버 공격 능력, 4.7개월마다 2배 빨라진다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143673&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 17 May 2026 16:52:00 +0900",
-      "description": "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5.5 성능은 더 탁월... AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4.7개월마다 두배씩 증가하고 있다고 영국 인공지능보안연구소(AISI)가 밝혔다. 이는 2025년 11월 추정한 8개월에 비해 두배 가까이 빨라진 속도이",
-      "language": "ko",
-      "summary": "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5. AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4...",
-      "points": [
-        "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5",
-        "AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4",
-        "7개월마다 두배씩 증가하고 있다고 영국 인공지능보안연구소(AISI)가 밝혔다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-14] 돌다리도 두드려 보고 건너라(4)-공용 충전기 꽂았다가 생기는 보안 위험",
-      "link": "http://www.boannews.com/media/view.asp?idx=143239&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 17 May 2026 09:22:00 +0900",
-      "description": "공공장소 충전기 사용 시 ‘데이터 전송’ 허용 팝업이 뜨면 거부하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지",
-      "language": "ko",
-      "summary": "공공장소 충전기 사용 시 ‘데이터 전송’ 허용 팝업이 뜨면 거부하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "공공장소 충전기 사용 시 ‘데이터 전송’ 허용 팝업이 뜨면 거부하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 사람 목소리를 훔쳐가는 AI 보이스피싱",
-      "link": "http://www.boannews.com/media/view.asp?idx=143665&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 17 May 2026 09:19:00 +0900",
-      "description": "AI 딥페이크 기술, ‘보이스 클로닝’ 위협 현실... 인간관계 신뢰를 무기화[보안뉴스= 배종찬 인사이트케이 연구소장] 디지털 기술의 발전은 인류에게 전례 없는 편의성을 제공했지만, 동시에 범죄의 도구로서도 정교하게 진화하고 있다. 특히 인공지능(AI)과 딥페이크(Deepfake) 기술을 결합한 보이스피싱은 과거의 조잡한 수법을 벗어나 실시간으로 목소리와",
-      "language": "ko",
-      "summary": "AI기술이 인먼생성에 활용되어 '보이스 클로닝'의 위험성을 통화하고있다.",
-      "points": [
-        "AI과 딥페이크기법이 인간관계를 빨리 시원한지, 그리고 신뢰를 떨어뜨리는 방식으로 개선되고 있다.",
-        "보안에 영향을 미쳤으나 IT/기술 업계가 위한 의미를 이해하도록 학습해야 한다.",
-        "인류는 이를 모니터링하고자 합니다."
-      ],
-      "insight": "인먼생성기술이 인류의 신뢰와 관련된 가격차를 통화하고 있다."
     }
   ]
 }
