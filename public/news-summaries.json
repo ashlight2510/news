@@ -1,6 +1,128 @@
 {
-  "generatedAt": "2026-05-20T09:51:46.936Z",
+  "generatedAt": "2026-05-20T15:22:26.102Z",
   "articles": [
+    {
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 15:14:31 +0000",
+      "description": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
+      "language": "en",
+      "summary": "Intuit is planning to cut over 3,000 jobs as part of its strategy to streamline operations and refocus on artificial intelligence (AI). CEO Sasan Goodarzi aims to reduce complexity in the company's corporate structure.",
+      "points": [
+        "Over 3,000 employees at Intuit are set to be laid off as part of workforce reduction strategy",
+        "The layoffs are intended to simplify the organization and streamline its focus on AI products",
+        "CEO Sasan Goodarzi believes this move will enhance product development efforts in artificial intelligence"
+      ],
+      "insight": "Intuit's decision highlights a shift within the financial technology industry towards prioritizing AI. This could indicate that as companies invest more resources into developing advanced technologies, they may need to make tough choices regarding workforce size and structure."
+    },
+    {
+      "title": "AI search startups are blowing up",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 15:04:45 +0000",
+      "description": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "language": "en",
+      "summary": "Search and retrieval processes within IT sectors are being transformed by a surge in artificial intelligence (AI) startups that specialize in advanced search solutions.",
+      "points": [
+        "Artificial intelligence is significantly enhancing consumer experiences through personalized, efficient searches across various industries",
+        "Emerging AI-driven companies are rapidly gaining market share and disrupting traditional business models with innovative technologies",
+        "The proliferation of smart devices has increased the demand for sophisticated search algorithms to manage information effectively"
+      ],
+      "insight": {
+        "English": "This trend indicates a paradigm shift in how consumers and businesses approach data management, as AI-driven startups prioritize personalized experiences while also posing new challenges for established companies to adapt. It suggests that continuous innovation will be crucial for staying competitive."
+      }
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 15:00:00 +0000",
+      "description": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "language": "en",
+      "summary": "The IT/technology news article discusses Stability AI's release of a new audio generation tool that can create six-minute songs.",
+      "points": [
+        "Stability Audio has launched its latest iteration, small model version three (3.0), capable of generating two-minute long tracks directly on devices without additional computing power or hardware resources.",
+        "The Stability AI tool leverages the strengths of pretrained language models and machine learning techniques to produce music across various genres while maintaining a natural flow, coherence in lyrics, melody structures, harmonies, instrumentation, rhythm patterns. It can also integrate different elements such as video or visual prompts into its creations.",
+        "The new model promises versatty musical output and adaptability to user inputs while maintaining a consistent quality of audio generation across diverse styles."
+      ],
+      "insight": "This development signifies an advancement in generative AI's capabilities, offering potential for democratizing music creation by enabling individuals without extensive technical knowledge or resources. Additionally, it may reshape the way content creators approach their craft and open up new possibilities within various industries that utilize audio-generated material."
+    },
+    {
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
+      "description": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "language": "en",
+      "summary": "NanoCo successfully garnered $12M in seed funding following NanoClaw's popular online campaign after declining a buyout offer of $20M.",
+      "points": [
+        "After its open-source alternative, OpenClaw, failed to gain traction due to the lackluster response from developers tired of complex setup processes and unreliable software tools for creating tiny robots (microrobots), NanoCo introduced a new version called 'NanoClaw'.",
+        "The founders behind this project decided not to pursue their initial plan, which was developing the OpenClaw open-source toolkit into an enterprise product. Instead, they aimed for simplicity and ease of use by reducing complexity in setup procedures.",
+        "$12 million seed funding has been raised after a viral launch through social media."
+      ],
+      "insight": "The successful crowdfunding campaign demonstrates the potential power of community engagement within technology startups, while also highlighting that simplicity and clear communication are vital for widespmediatech startup success. The choice to raise seed capital instead of accepting a buyout offer could indicate confidence in NanoClaw's long-term value."
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
+      "description": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
+      "language": "en",
+      "summary": "Startup Battlefield 200 applications will close on May 27 for startups seeking investor access and prizes including a $100K prize.",
+      "points": [
+        "Applications open to early-stage founders, closing date: May 27",
+        "$100K prize included in the event along with other scaling perks",
+        "Event provides pitching opportunity at TechCrunch Disrupt for startups"
+      ],
+      "insight": "The Startup Battlefield is creating a platform that helps early-stage tech founders gain investor access, which could lead to potential growth and success in the technology industry."
+    },
+    {
+      "title": "GitHub says hackers stole data from thousands of internal repositories",
+      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 13:25:58 +0000",
+      "description": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.",
+      "language": "en",
+      "summary": "GitHub has experienced unautclated access to its systems following an investigation into a security incident involving thousands of repositories without clear indicators that user or company-specific information was compromised.",
+      "points": [
+        "Ghub identified suspicious activity within the firm's network, leading them to launch a comprehensive inquiry.",
+        "The breach seems limited in scope as no customer data appears to have been directly stolen despite unauthorized access being detected for numerous internal repositories.",
+        "GitHub has urged employees and customers alike to remain vigilant while the company continues its investigation into potential security vulnerabilities."
+      ],
+      "insight": "The GitHub incident underscores how large-scale code hosting services are increasingly becoming targets of cybercrime, even when they may not hold directly identifiable personal data. This can have implications for IT companies' risk management and the need to reinforce internal security protocols."
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 13:00:00 +0000",
+      "description": "Figma's new AI assistant will be first available on Figma Design",
+      "language": "en",
+      "summary": "The software company Figma has introduced a proprietary Artificial Intelligence (AI) tool named 'Renee,' which functions as an AI assistant within its collaborative design platform.",
+      "points": [
+        "Figma's new AI, Renee, is available on the Figma Design app exclusively for collaboration purposes",
+        "The AI assists in various aspects of interface and website design tasks such as generating wireframes or creating color palettes",
+        "Renee aims to streamline the collaborative process among team members working within the same project"
+      ],
+      "insight": "Figma's introduction of Renee, its AI assistant, is setting new standards for collaboration tools in design software by making real-time assistance accessible directly on Figma Design."
+    },
+    {
+      "title": "Quartermaster is building a maritime hive mind",
+      "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 20 May 2026 13:00:00 +0000",
+      "description": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
+      "language": "en",
+      "summary": "Quartermaster is developing a maritime hive mind by raising $42 million for ship sensor technology.",
+      "points": [
+        "The Arlington startup Quartermaster has raised significant funding to advance its unique sensory system, which could revolutionize the shipping industry's data collection and monitoring processes.",
+        "Unlike traditional AIS systems that rely on manual input or basic electronic devices for vessel tracking, this maritime hive mind is projected by CEO Daniel Cohen as a more intuitive way to gather comprehensive environmental information without disrupting the flow of traffic in congested waterways like New York.",
+        "The new technology has already received support from industry leaders and government agencies such as the U.S. Coast Guard, indicating its potential for widespdependent adoption."
+      ],
+      "insight": "This advancement could dramatically improve ship safety, environmental monitoring, and operational efficiency in congested waterways while reducing reliance on traditional AIS technology that is less capable of capturing real-time ecosystem data. It represents a significant step forward for the maritime industry."
+    },
     {
       "title": "인터엠, 공공·보안 방송 대응 가능한 차세대 IP 오디오 기술로 NET 인증 획득",
       "link": "http://www.boannews.com/media/view.asp?idx=143748&kind=&sub_kind=",
@@ -626,127 +748,6 @@
         "This functionality enhances the overall accessibility and user experience, particularly benefiting users who rely on dictation"
       ],
       "insight": "The integration of voice-based prompts into Google Drive' endorses a more accessible work environment for those using speech recognition technology. As companies increasingly adopt remote or hybrid models, offering tools that cater to various user preferences is essential."
-    },
-    {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
-      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
-      "description": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
-      "language": "en",
-      "summary": "Google has introduced a new pricing tier for its AI services called 'AI Ultra', which offers significantly higher usage limits than the existing plans.",
-      "points": [
-        "Google announces Antigravity 2.0 with desktop app and CLI tool",
-        "Antigravity 2.0 allows controlling gravity levels in simulations or games, starting at $5/month for a small team of five people",
-        "New AI Ultra plan offers up to 3x more data usage than the Pro version"
-      ],
-      "insight": "The launch of Antigravity as an application and CLI tool represents Google's push towards integrating its powerful machine learning models into user-friendly, versatile tools for creators in the IT industry."
-    },
-    {
-      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
-      "description": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
-      "language": "en",
-      "summary": "Google's Gemini Omni can create and modify videos by understanding natural language commands involving text, images, audio, and video elements. It launches initially as the Omni Flash.",
-      "points": [
-        "Gemini Omni is a conversational multimodal model that generates content without coding knowledge.",
-        "Launched with Omni Flash for free conversion of existing videos into rich multimedia formats using simple text prompts.",
-        "Google plans to expand capabilities beyond video generation, including the ability to create AI-generated artwork and music."
-      ],
-      "insight": {
-        "content_generation": "Gemini Omni represents a significant leap in content creation technology by simplifying multimedia production for non-coders.",
-        "industry_impact": "This innovation could democratize video and media editing, making it more accessible to users without technical skills."
-      }
-    },
-    {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
-      "description": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-      "language": "en",
-      "summary": "OpenAI has introduced methods for distinguishing between human-created images and those produced by their models.",
-      "points": [
-        "Joining the open C2PA standard helps in detecting AI generated imagery",
-        "Google'ider SynthID is integrated into OpenAI products to aid detection of synthetic content",
-        "These measures aim at improving transparency and trustworthiness around image generation"
-      ],
-      "insight": "The steps taken by OpenAI could set a new industry standard for ensuring the authenticity and ethical use of AI-generated imagery."
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
-      "description": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
-      "language": "en",
-      "summary": "Google announced significant enhancements for its Gemini application during the International Conference on Artificial Intelligence (IO) in June 2026 as it aims to compete directly with AI services like ChatGPT and Claude.",
-      "points": [
-        "Google unveiled substantial updates at IO 2026 for its Gemini app, transforming it into an all-purpose AI hub rather than just another standalone chatbot.",
-        "The new features in Gemini are designed to compete directly with other popular open source models such as ChatGPT and Claude by integrating deep learning technologies that promise more accurate responses across various tasks, including text completion, image generation, translation services for multiple languages (including Spanish), document summarization, question-answering capabilities based on external databases like Wikipedia or Google search results.",
-        "To enhance the user experience in using Gemini and facilitate its usage as a universal AI assistant, developers will be provided with an open source framework that enables them to easily build customized versions of this chatbot."
-      ],
-      "insight": "The update indicates Google's intentions towards becoming more competitive within the industry by offering versatile and powerful tools through Gemini while promoting developer innovation in AI applications. This could lead to a broader adoption of similar all-inclusive platforms, potentially shaping future development strategies for tech companies."
-    },
-    {
-      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
-      "description": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-      "language": "en",
-      "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart",
-      "points": [
-        "Most people shop across multiple devices, many retailers, and over the course of many days, which is...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 17:45:00 +0000",
-      "description": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
-      "language": "en",
-      "summary": "Google has unveiled Antigravity 2.0 at I/O 2term with enhanced desktop app features and a command-line tool.",
-      "points": [
-        "Antigravity 2.0 includes an updated desktop application along with a CLI (command-line) interface for users of Google Cloud Platforms."
-      ],
-      "insight": "This demonstrates the increasing importance of user experience and customizability in cloud technology services, potentially prompting other firms to enhance their offerings similarly."
-    },
-    {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 15:43:04 +0000",
-      "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
-      "language": "en",
-      "summary": "OpenAI co-founder Andrej Karpathy has joined Anthropic as part of their pre-training team for the development of large language models like Claude.",
-      "points": [
-        "Andrej Karpathy, OpenAI'CTO and an early member of its founding team is now at Anthropic working on a novel approach to AI training called 'pre-training'.",
-        "Pre-training helps provide large language models with core knowledge before fine-tuning them for specific tasks.",
-        "The process can be resource-intensive and expensive, but it plays an essential role in developing powerful AI systems."
-      ],
-      "insight": "With Andrej Karpathy's expertise from his time at OpenAI working on language models like GPT3.5 Turbo (Davinci) now contributing to Anthropic’s pre-training efforts, the technology industry is witnessing a shift towards more sophisticated and resource-intensive AI training methods that could shape future generations of large language models."
-    },
-    {
-      "title": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
-      "link": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 19 May 2026 15:37:17 +0000",
-      "description": "\"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch.",
-      "language": "en",
-      "summary": "Light Phone and Noble Mobile collaborate to pay users for discontinuing the habit of doomscrolling through news.",
-      "points": [
-        "The Light Phone is a minimalist smartphone designed by Joe Hollier with features aimed at reducing phone dependency, such as removing social media apps and not having constant internet access via Wi-Fi or cellular data. It has gained popularity for helping users disconnect from their devices.",
-        "Andrew Yang's Noble Mobile plans to partner with the Light Phone creator to launch a service called PayOff where individuals can earn money by reducing time spent on news consumption, particularly targeting those who engage in excessive doomscrolling. The initiative uses blockchain technology and rewards users through an app.",
-        "The project has received support from various organizations like the Bill & Melinda Gates Foundation, UNICEF UK, Comic Relief, and others, signifying a wider recognition of mental health issues related to constant news consumption."
-      ],
-      "insight": "This collaboration highlights how technology can potentially address negative aspects such as doomscrolling by encouraging users' digital well-bestatic behaviors. It demonstrates an innovative way for the IT industry and startups like Noble Mobile to contribute positively towards mental health."
     }
   ]
 }
