@@ -1,6 +1,170 @@
 {
-  "generatedAt": "2026-05-21T03:59:35.266Z",
+  "generatedAt": "2026-05-21T09:56:17.384Z",
   "articles": [
+    {
+      "title": "[이슈칼럼] 깃허브도 뚫렸다, TeamPCP가 보여준 ‘NHI 시대’의 공급망 공격 진화",
+      "link": "http://www.boannews.com/media/view.asp?idx=143763&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 18:22:00 +0900",
+      "description": "인증 배지와 공식 빌드마저 무력화시킨 8개월간의 공급망 장악 캠페인EDR도 탐지 못 하는 정상적인 API 호출 악용... NHI 인벤토리 점검 시급[보안뉴스= 김동현 OWASP 서울 챕터 리더] 지난 20일 깃허브(GitHub)가 자사 내부 저장소 약 3800개의 외부 유출을 공식 인정했다. 전 세계 개발자가 코드를 맡기는 플랫폼에서 직원 한 명이 설치한",
+      "language": "ko",
+      "summary": "GitHub의 내부저장소가 3800개의 외부 유출을 형성한 깃허딩 알맛이다.",
+      "points": [
+        "GitHub가 내부저장소에 380 endpoints이 있는 중요한 시사점",
+        "구조화된 API를 통해 공급망을 보호하기 어려워서 API를 강제로 활용하여 공급망의 공격 진화에 대한 작은 운동",
+        "이를 통해 IT/기술 업계의 공급망 보호가 있어야만 하는 심층한 분석"
+      ],
+      "insight": "이런 현상은 IT/기술 업계에서의 공급망 보호를 강조하고자 함으로oted API 문제를 선정한다."
+    },
+    {
+      "title": "한화저축은행-오픈소프트랩, ‘차세대 AI 보안 거버넌스’ 고도화 협력 MOU 체결",
+      "link": "http://www.boannews.com/media/view.asp?idx=143764&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 18:18:00 +0900",
+      "description": "생성형 AI 도입 따른 금융 안전성 확보AI-GRC 기반 선제적 감사 체계 구축 ‘박차’ [보안뉴스 강현주 기자] 한화저축은행이 생성형 인공지능(AI) 도입 가속화에 따른 금융 보안 경쟁력을 강화하기 위해 AI 보안 거버넌스 전문기업 오픈소프트랩과 손을 잡았다.한화저축은행(대표이사 강성수)은 오픈소프트랩(대표이사 정형택)과 ‘인공지능(AI) 보안",
+      "language": "ko",
+      "summary": "한화저축은행이 AI를 사용하여 금융 보안을 높이고 인공지능 기술에 대한 모더페이시 의무와 연동하여 인구집단과 체계적으로 개선한 'AI-GRC' 문화적 협력 MOU 체결",
+      "points": [
+        "한화저축은행이 AI를 적용하여 금융 안전성을 강화",
+        "인공지능 기술에 대한 모더페이시 의무에 대한 연동하여 'AI-GRC' 문화적 협력 MOU 체결",
+        0
+      ],
+      "insight": "이러한 협력은 IT/기술 산업의 보안성과 모델을 강화하여 확장하는 전문기업들에게 해시침을 주도로 'AI-GRC' MOU 참조"
+    },
+    {
+      "title": "“부팅 시 특정 키 누르면 암호화 해제” MS, 윈도우 비트락커 결함 ‘옐로우키’ 긴급 조치 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=143759&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 17:25:00 +0900",
+      "description": "비트락커 암호화 무력화 제로데이 취약점 폭로제보 처리 방식에 항의하는 보복성 공격 코드 유출정식 패치 전 레지스트리 수정 및 다중 인증 권고[보안뉴스 김형근 기자] 마이크로소프트(MS)가 윈도우의 핵심 드라이브 암호화 기능인 비트락커(BitLocker)를 무력화하는 제로데이 취약점 ‘옐로우키’(YellowKey)에 대한 긴급 완화 조치를 발표했다.이번 결함",
+      "language": "ko",
+      "summary": "MS는 BitLocker의 취약점 '옐로우키'를 강화하고자 한다.",
+      "points": [
+        "- MS은 BitLocker 무력화 제로데이 취약점을 바로 해결하기 위한 YellowKey를 개시했다.",
+        "- MS는 제가자원의 드라이브에서만 YellowKey를 사용할 수 0에 없으며, 일부 드라이브는 개시전지다.",
+        "- MS은 이제 YellowKey를 사용하여 BitLocker의 인증과 화재 방식을 개선한다."
+      ],
+      "insight": "MS의 이러한 조치는 IT 업계에서 비저변언어와 특정 키암호화 방식을 중단시스템으로 바꿉니다."
+    },
+    {
+      "title": "[미토스 충격] AI 해킹, 다 못 막는 ‘물량전’ 도래... ‘성실실패’ 기준 진화해야",
+      "link": "http://www.boannews.com/media/view.asp?idx=143761&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 17:14:00 +0900",
+      "description": "공격 당연해져... 당했다고 질타하는 문화 이별해야쏟아지는 무차별 공격에 기본 안된 중소기업 더 치명적[보안뉴스 강현주 기자] ‘미토스 충격’으로 AI의 ‘물량전’ 위협이 부각되면서 해킹 사고 기업 제재 시 ‘성실실패’ 개념도 진화해야 한다는 인식이 확산되고 있다. 21일 보안 업계는 기업 보안 패러다임 뿐 아니라 ‘제재 패러다임’도 속도전과 물량전을 펼치",
+      "language": "ko",
+      "summary": "미토스의 AI 확진에 의해 '물량전' 대체로 보안문제가 확장되고, 해킹 기업들은 자신을 제재를 받아서 '성실실패' 개념을 근인화해야 할 만한 시기이다.",
+      "points": [
+        "미토스의 AI 열립기율은 모든 비즈니커뮤테 institutions에서 보장하는 수식이 깨지고 진화해온다.",
+        "밀도별 보안문제가 중소기업에 질타한 영향을 미리되고 전체화해야 한다.",
+        "해킹 기업이 근대로 자신의 보안에 대해 간식하지 않은 경우, '제재 패러다임'도 인식해야 한다."
+      ],
+      "insight": "미토스의 AI 관련 문제가 곧바로 IT/기술 업체에서 직접 영향을 미치거나, 보안에 대한 인식이 줄어들 경로를 돌아오고 있다면 '성실실패' 개념이 그에 대한 저창기관에 더욱 중요해진다."
+    },
+    {
+      "title": "[부고] 손주욱 신세계디에프 CISO 부친상",
+      "link": "http://www.boannews.com/media/view.asp?idx=143762&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 17:05:00 +0900",
+      "description": "△내용: 손주욱 신세계디에프 CISO 부친상△고인: 故 손순선님 (향년 89세)△빈소: 고려대학교안암병원장례식장 303호실△발인: 2026년 5월 23일 05시△장지: 서울시립승화원 - 광릉더크레스트[강초희 기자(choh@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
+      "language": "ko",
+      "summary": "신세계디에프 고인 손주욱이 '서울시립승화원 - 광릉더크레스트'로 부찀상으로, 기업에서의 IT/다영산규맙성을 위해 선정이며, 신세계온도대학교에서 CISO 학습으로 전문화를 낸.",
+      "points": [
+        "- 신세계디에프 손주욱이 '서울시립승화원 - 광릉더크레스트'에 부찀상으로 선정.",
+        "- CISO(캡인손리) 학습을 위해서 신세계온도대학교에서 시작한.",
+        "- IT/다영산규맙성 문제를 다루기 위해 선정된."
+      ],
+      "insight": "신세계디에프 손주욱이 CISO(캡인손리)의 노하영을 차지하여 IT/다영산규맙성에 대한 기여를 위해 선정되었음. CISO 학습은 IT 위원회가 간주적이진하게 해보며, IT/다영산규맙성을 개선하여 향상시키기 위해 강화되어야 한다."
+    },
+    {
+      "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+      "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 21 May 2026 06:00:00 +0000",
+      "description": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
+      "language": "en",
+      "summary": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries",
+      "points": [
+        "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days",
+        "Initially, the launch will make the eSIM product available in 29 countries",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+      "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 21 May 2026 05:52:38 +0000",
+      "description": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
+      "language": "en",
+      "summary": "General Catalyst led a $63 million investment in Scapia, an Indian company that offers integrated travel booking solutions with co-branded credit cards and mobile payments, which has now doubled its valuation.",
+      "points": [
+        "Investment by General Catalyst leads to significant increase for Scapia",
+        "General Catalyst invests $63 million in Indian startup specializing in travel booking solutions with co-branded credit cards and mobile payments, doubling its valuation.",
+        "Indian market'ty presents opportunities as seen by the investment from General Catalyst."
+      ],
+      "insight": "The interest of a major venture capital firm like General Catalyst in Indian travel technology startups indicates significant growth potential within this niche sector and represents an opportunity for similar businesses to seek funding globally. This also suggests that there might be new advancements or innovative ideas emerging from the burgeoning IT industry, driving investment opportunities."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관-19] 돌다리도 두드려 보고 건너라(9)-중고거래 링크, 왜 사기로 이어질까",
+      "link": "http://www.boannews.com/media/view.asp?idx=143244&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 14:42:00 +0900",
+      "description": "중고 거래 시 ‘안전 결제’를 위장한 가짜 링크를 조심하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지",
+      "language": "ko",
+      "summary": "90% 사고는 사기로 이어진다고, 핵심으로 보안습감을 높여야한다.",
+      "points": [
+        "중고거래에서 가볍글리는 '안전 결제'를 위한 광고를 확보하세요",
+        "속담과 연계하여 보안을 적절하게 이해할 수 0ne가다.",
+        "보안과정에서 기술은 핵심지만, 습관은 매우중요하다."
+      ],
+      "insight": "속담이 사고를 어떻게 방안해보시는가? 큰 인식을 적으면서도 보안을 조심스럽게 다니세요."
+    },
+    {
+      "title": "디도스 공격 아냐... 룩셈부르크 마비시킨 화웨이 장비의 치명적 결함",
+      "link": "http://www.boannews.com/media/view.asp?idx=143750&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 14:30:00 +0900",
+      "description": "불량 데이터 패킷 통과하자 장비 스스로 멈춰 서며 국가 기간망 연쇄 붕괴사고 후 10개월 지났지만, 글로벌 취약점 등록 전무해 타국 통신망 위협 여전해[보안뉴스 김형근 기자] 지난해 룩셈부르크 전역의 유무선 통신과 긴급 구조망을 3시간 이상 마비시켰던 국가 통신망 대참사의 배후가 중국 통신장비업체 화웨이(Huawei)의 기업용 라우터 미공개 보안 결함이었던",
+      "language": "ko",
+      "summary": "불량 데이터 패킷 통과하자 장비 스스로 멈춰 서며 국가 기간망 연쇄 붕괴사고 후 10개월 지났지만, 글로벌 취약점 등록 전무해 타국 통신망 위협 여전해[보안뉴스 김형근 기자] 지난해 룩셈부르크 전역의 유무선 통신과 긴급 구조망을 3시간 이상 마비시켰던 국가 통신망 대참사의 배후가 중국 통신장비업체 화웨이(Huawei)의 기업용 라우터 미공개 보안 결함이었던",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "관악구, 현대시장 사거리 일대 ‘스마트폴 안심가로등’ 20개소 확충",
+      "link": "http://www.boannews.com/media/view.asp?idx=143760&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 21 May 2026 14:25:00 +0900",
+      "description": "CCTV·비상벨·공공와이파이 결합해 통합관제센터와 실시간 연동 운영2년 연속 공모 선정 기반으로 신림역 이어 생활밀착형 방범 인프라 확대[보안뉴스 강초희 기자] 서울 관악구(구청장 박준희)가 주민들이 더욱 안심하고 통행할 수 있는 안전한 밤거리를 조성하기 위해 성현·중앙동 현대시장 사거리(은천로 109~137) 일대에 ‘스마트폴 안심가로등’ 20개소 설치를",
+      "language": "ko",
+      "summary": "서울 관악구에서 '스마트폴 안심가로등' 20개소의 설치으로 이탈시장 사거리를 안전한 밤거리로 조성한다.",
+      "points": [
+        "서울관악구에서 '스마트폴 안심가로등' 2 energy-efficient LED lighting system을 20개소 설치",
+        "이를 위해 성현·중앙동과 현대시장 사거리 공모집을 선정하였다.",
+        "이러한 플로리아를 통해 주민들이 더욱 안심하고 통행할 수 있는 안전한 밤거리를 조성한다."
+      ],
+      "insight": "이러한 LED 설치는 주민들의 안전을 강 Pri쳐 보장하며, 도시의 이탈시장 사거리 분석에서 먼저 진입해야 하는 것이다."
+    },
+    {
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 21 May 2026 04:00:00 +0000",
+      "description": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+      "language": "en",
+      "summary": "Imperagen has raised £5 million to enhance enzyme engineering using quantum physics and AI.",
+      "points": [
+        "£5 million seed round led by PXN Ventures",
+        "Participation from IQ Capital and Northern Gritstone"
+      ],
+      "insight": "The funding allows Imperagen to advance its enzyme engineering technology, which has the potential to make drug development more efficient."
+    },
     {
       "title": "아우토크립트, 자동차 넘어 로봇·의료기기까지 ‘피지컬 AI’ 보안 영토 확장",
       "link": "http://www.boannews.com/media/view.asp?idx=143755&kind=&sub_kind=",
@@ -585,171 +749,6 @@
         "이 기술은 비상 및 공공·보안 방송에 필요한 오디오 기능을 제공하여 국가의 안내협업에 도움이다."
       ],
       "insight": "인터엠은 IT/기술 업계에서 가장 강력한 보안 기술이며, 여러 국가의 비상 활동에 대해 잘 응용함을 나타냅니다."
-    },
-    {
-      "title": "Omada, ‘HSKC 2026’서 호텔 통합 네트워크·영상보안 전략 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=143747&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 17:07:00 +0900",
-      "description": "Omada Central 기반 통합 운영 플랫폼 소개호텔 산업 운영 복잡성·관리 비용 절감 방향 제시[보안뉴스 강초희 기자] 글로벌 네트워크 솔루션 브랜드 Omada는 오는 6월 4일 서울에서 개최되는 ‘Hospitality South Korea Conference(HSKC) 2026’에 골드 스폰서로 참가한다고 밝혔다.HSKC 2026은 국내 호텔 및 호",
-      "language": "ko",
-      "summary": "Omada, 중요한 운영통합 서비스를 제공하는 회사가 HSKC 2026에서 골드 스폰서로 참여할 예정입니다.",
-      "points": [
-        "‘Hospitality South Korea Conference(HSKC) 2026’에서 공개해본 통합 시스템이며, IT/기술 사이의 연결성증가와 보안보다는 경영비용 절감으로 인한 장쟁화",
-        "Omada은 추가적인 인텐트를 제공하여 호텔 운영을 개선시키며, 이더로리의 경우는 서비스화와 통합으로 몇 가지 항상주요 방식으로 시스템을 구성한다.",
-        "공개해본 시스템은 광고화의 기능과 그리고 통합 운영에서 필요한 IT 지원을 제공하는 몇 가지 경우를 중단적으로 사용할 수 있다."
-      ],
-      "insight": "이러한 시스템의 개체적인 공개는 호텔 운영 평가에서 확장을 통과하기 위해 예상되고, IT/기술 업계의 중요성이 증가하고 있음을 나타내고 그에 대한 IT 지원에 인위와 따라 회사가 보호해주기로 함양으로서 시장의 이해를 높이고자 하는 것을 예상한다."
-    },
-    {
-      "title": "AI안전연구소, CBRN 포함 AI모델 42종 평가... “美·英과 함께 CBRN 평가국 손꼽혀”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143746&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 16:50:00 +0900",
-      "description": "“국내외 주요 모델 지속 평가 중”[보안뉴스 강현주 기자] AI안전연구소(AISI, 소장 김명주)가 화학·생물·방사선·핵(CBRN) 특화 평가를 포함해 국내외 42종 AI 모델에 대한 안전성 평가를 진행한 것으로 나타났다. 20일 과학기술정보통신부는 AISI가 설립 이후 국내외 AI 모델 총 42종(2025년 29종, 2026년13종)에 대해 안전성 평가를",
-      "language": "ko",
-      "summary": "“국내외 주요 모델 지속 평가 중”[보안뉴스 강현주 기자] AI안전연구소(AISI, 소장 김명주)가 화학·생물·방사선·핵(CBRN) 특화 평가를 포함해 국내외 42종 AI 모델에 대한 안전성 평가를 진행한 것으로 나타났다. 20일 과학기술정보통신부는 AISI가 설립 이후 국내외 AI 모델 총 42종(2025년 29종, 2026년13종)에 대해 안전성 평가를",
-      "points": [
-        "“국내외 주요 모델 지속 평가 중”[보안뉴스 강현주 기자] AI안전연구소(AISI, 소장 김명주)가 화학·생물·방사선·핵(CBRN) 특화 평가를 포함해 국내외 42종 AI 모델에 ...",
-        "20일 과학기술정보통신부는 AISI가 설립 이후 국내외 AI 모델 총 42종(2025년 29종, 2026년13종)에 대해 안전성 평가를",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "美 CISA 협력업체 직원, 정부 핵심 클라우드 키 깃허브에 공개 노출",
-      "link": "http://www.boannews.com/media/view.asp?idx=143740&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 15:51:00 +0900",
-      "description": "내부 시스템 비밀번호·아티팩토리 자격증명까지 평문 상태로 노출CISA, 저장소 차단 후에도 핵심 인증키 48시간 유효 상태 유지[보안뉴스 김형근 기자] 미국의 사이버 안보를 총괄하는 CISA와 협력하는 외부 용역 업체 나이트윙(Nightwing) 소속 관리자가 민감한 정부 클라우드 자격증명을 공용 깃허브 저장소에 노출하는 초유의 보안 사고를 낸 것으로 확인",
-      "language": "ko",
-      "summary": "내부 시스템 비밀번호·아티팩토리 자격증명까지 평문 상태로 노출CISA, 저장소 차단 후에도 핵심 인증키 48시간 유효 상태 유지[보안뉴스 김형근 기자] 미국의 사이버 안보를 총괄하는 CISA와 협력하는 외부 용역 업체 나이트윙(Nightwing) 소속 관리자가 민감한 정부 클라우드 자격증명을 공용 깃허브 저장소에 노출하는 초유의 보안 사고를 낸 것으로 확인",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“해커도 AI 에이전트 쓴다” CISO가 말하는 2026 산업별 보안 진단",
-      "link": "http://www.boannews.com/media/view.asp?idx=143745&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 15:48:00 +0900",
-      "description": "한국정보보호학회 단기강좌 ‘CISO와 함께하는 산업별 보안 위협 분석’코리안리 문광석 파트장, 자율형 AI 해커 미토스 위협 및 사이버 보험 강조투이컨설팅·토스증권·골프존·롯데렌탈 등 각계 CISO 출동해 실무 노하우 공유[보안뉴스 조재호 기자] 금융과 핀테크, 레포츠, 모빌리티 등 대한민국의 디지털 혁신을 이끄는 각 산업군 CISO들이 한자리에 모였다.",
-      "language": "ko",
-      "summary": "한국정보보호학회 단기강좌 ‘CISO와 함께하는 산업별 보안 위협 분석’코리안리 문광석 파트장, 자율형 AI 해커 미토스 위협 및 사이버 보험 강조투이컨설팅·토스증권·골프존·롯데렌탈 등 각계 CISO 출동해 실무 노하우 공유[보안뉴스 조재호 기자] 금융과 핀테크, 레포츠, 모빌리티 등 대한민국의 디지털 혁신을 이끄는 각 산업군 CISO들이 한자리에 모였다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "인스피언, 공공·금융 폐쇄망 AI 보안 시장 공략 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143743&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 15:38:00 +0900",
-      "description": "정보보안 7조원 시대... 망분리 환경 대응하는 AI 보안 운영 기술 고도화 박차보안 이벤트 확인부터 감사 대응까지 운영자 피로도 낮추는 실무형 AI 구현[보안뉴스 조재호 기자] 보안 운영자의 업무 부담을 줄이고 지능화된 사이버 위협에 대응하기 위한 AI 접목이 활발한 가운데, 외부 통신이 차단된 폐쇄망 환경에서도 안전하게 구동되는 특화 AI 보안 기술이",
-      "language": "ko",
-      "summary": "정보보안 7조원 시대. 망분리 환경 대응하는 AI 보안 운영 기술 고도화 박차보안 이벤트 확인부터 감사 대응까지 운영자 피로도 낮추는 실무형 AI 구현[보안뉴스 조재호 기자] 보안 운영자의 업무 부담을 줄이고 지능화된 사이버 위협에 대응하기 위한 AI 접목이 활발한 가운데, 외부 통신이 차단된 폐쇄망 환경에서도 안전하게 구동되는 특화 AI 보안 기술이",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 20 May 2026 05:45:00 +0000",
-      "description": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
-      "language": "en",
-      "summary": "YouTube has introduced an AI-powered conversational search feature called 'Ask Google', adding Gemini Omni to Shorts.",
-      "points": [
-        "Google revamps YouTube's search experience with a new AI tool named Ask Google, which is expected to reshape how users interact and find content on the platform. The introduction of this technology will enable more natural and conversational ways for people to ask questions directly through videos.",
-        "Gemini Omni has been added as part of YouTube's Shorts ecosystem – a micro-video format designed specifically with AI search in mind, aiming at making content discovery even simpler. This addition could signal the beginning of more advanced and interactive video features on social media platforms influenced by Google.",
-        "Google is testing this new feature exclusively for Android users but plans to expand it later into other devices as well."
-      ],
-      "insight": "The integration of Ask Google within YouTube represents a significant evolution in user search capabilities, potentially leading the way towards more intelligent and conversational interaction with video content across social media platforms influenced by tech giants like Google. As these AI-driven tools become commonplace, they could redefine how users discover and interact with digital content on an industry scale."
-    },
-    {
-      "title": "구글, 사이버 보안 AI 경쟁 참전... 보안 특화 AI 에이전트 ‘코드멘더’ 접근 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=143744&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 14:24:00 +0900",
-      "description": "연례 I/O 행사에서 코드멘더 관련 계획 발표소프트웨어 보안 취약점 발굴 및 수정 기능 갖춘 AI 에이전트 [보안뉴스 한세희 기자] 구글이 사이버 보안을 위한 AI 경쟁에 뛰어든다.구글은 19일(현지시간) 미국 마운틴뷰에서 열린 자사 연례 개발자 행사 I/O에서 소프트웨어 코드 보안을 위한 AI 에이전트 ‘코드멘더’(CodeMender) APi를 소수 전문",
-      "language": "ko",
-      "summary": "구글이 '코드멘더' AI 에이전트를 소패이비 소프트웨어 보안 개발에 사용하여 업무 광범위한 보안 논리화 진입을 나타내고 있다.",
-      "points": [
-        "구글이 소패이비 AI 에이전트 '코드멘더' 강공폭으로 보안 업무 단축 진행",
-        "'코드멘더' AI는 소패이비 서비스에서의 보안 지침을 제공한다.",
-        0
-      ],
-      "insight": "구글은 생산성과 업무 효과율을 위해 '코드멘더'이라는 AI 에이전트를 소팺하여 IT/기술 업계에서보안 분야의 시대대로 진전을 하고 있다."
-    },
-    {
-      "title": "“국내 기업 84.6% AI 활용하지만, 전사 확산은 24.8% 불과해”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143742&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 14:10:00 +0900",
-      "description": "엠클라우독 설문, 기업 64% 사내 문서 분산 저장... AI 고도화 위해선 ‘문서중앙화’ 필수도입 시 최대 고민은 ‘보안 및 정보 유출’ 40.6% 차지하며 압도적 1위[보안뉴스 조재호 기자] 국내 기업 대다수가 인공지능(AI)의 필요성에 공감하고 실무에 활용 중이지만, 파편화된 데이터 인프라와 보안에 대한 우려로 인해 전사적 도입에는 큰 어려움을 겪고",
-      "language": "ko",
-      "summary": "국내 기업이 AI 활용 가능성을 인정한 하지만, 보안 검출의 어려움로 전사 활동은 차지하지 않음",
-      "points": [
-        "국내 기업이 AI 쓰기에 대한 동의 높고 인공지능이 강력하게 활용되고 있다.",
-        "...",
-        "전사 불안정도는 보안, 정보 유출에 대한 어려움로 인해 차지하지 않음"
-      ],
-      "insight": "기업이 AI를 활용하고 있지만, 전사적인 모니터링에서는 보안저컨한 어려움을 겪고 아예 제곱수와 인공지능의 핵심성을 활용하지 않음"
-    },
-    {
-      "title": "원모어시큐리티, FIDO 인증 솔루션 ‘원모어패스’ AWS 마켓플레이스 입점",
-      "link": "http://www.boannews.com/media/view.asp?idx=143739&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 14:06:00 +0900",
-      "description": "글로벌 클라우드 환경에서 생체인증･간편인증 서비스 제공 기반 마련[보안뉴스 강초희 기자] 원모어시큐리티(대표이사 김민식)는 자사의 FIDO 기반 인증 솔루션 ‘원모어패스’(OMPASS)가 AWS 마켓플레이스(AWS Marketplace)에 입점했다고 밝혔다.OMPASS는 사용자의 생체인증, PIN, OTP 인증 등 FIDO 기반 인증 방식을 활",
-      "language": "ko",
-      "summary": "글로벌 클라우드 환경에서 생체인증･간편인증 서비스 제공 기반 마련[보안뉴스 강초희 기자] 원모어시큐리티(대표이사 김민식)는 자사의 FIDO 기반 인증 솔루션 ‘원모어패스’(OMPASS)가 AWS 마켓플레이스(AWS Marketplace)에 입점했다고 밝혔다. OMPASS는 사용자의 생체인증, PIN, OTP 인증 등 FIDO 기반 인증 방식을 활",
-      "points": [
-        "글로벌 클라우드 환경에서 생체인증･간편인증 서비스 제공 기반 마련[보안뉴스 강초희 기자] 원모어시큐리티(대표이사 김민식)는 자사의 FIDO 기반 인증 솔루션 ‘원모어패스’(OMPA...",
-        "OMPASS는 사용자의 생체인증, PIN, OTP 인증 등 FIDO 기반 인증 방식을 활",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "스틸리언, AI 기반 취약점 분석 솔루션 ‘에일리언레이’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143741&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 13:41:00 +0900",
-      "description": "소스코드 없이 윈도우·모바일 소프트웨어 취약점 분석공급망 보안 대응 위한 블랙박스 기반 AI 분석기술 적용 [보안뉴스 한세희 기자] 스틸리언(대표 박찬암)은 AI 기반 취약점 분석 솔루션 ‘에일리언레이’(AlienRay)를 출시했다고 20일 밝혔다. 이번 에일리언레이 윈도우 및 모바일 버전을 시작으로 향후 다양한 제품군으로 순차 확대한다. 에일리언레이는",
-      "language": "ko",
-      "summary": "소스코드 없이 윈도우·모바일 소프트웨어 취약점 분석공급망 보안 대응 위한 블랙박스 기반 AI 분석기술 적용 [보안뉴스 한세희 기자] 스틸리언(대표 박찬암)은 AI 기반 취약점 분석 솔루션 ‘에일리언레이’(AlienRay)를 출시했다고 20일 밝혔다. 이번 에일리언레이 윈도우 및 모바일 버전을 시작으로 향후 다양한 제품군으로 순차 확대한다",
-      "points": [
-        "소스코드 없이 윈도우·모바일 소프트웨어 취약점 분석공급망 보안 대응 위한 블랙박스 기반 AI 분석기술 적용 [보안뉴스 한세희 기자] 스틸리언(대표 박찬암)은 AI 기반 취약점 분석...",
-        "이번 에일리언레이 윈도우 및 모바일 버전을 시작으로 향후 다양한 제품군으로 순차 확대한다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 SASE 솔루션 리포트] “본사 네트워크 시대는 끝났다” SASE로 여는 기업 네트워크 보안",
-      "link": "http://www.boannews.com/media/view.asp?idx=143723&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 20 May 2026 11:52:00 +0900",
-      "description": "클라우드·SaaS 확산에 따른 ‘본사 중심 네트워크’ 구조의 한계로 SASE 중심 재편 가속화AI 기반 트래픽 분석·위협 대응·보안 정책 자동화를 둘러싼 차세대 SASE 경쟁 본격화SASE 인식 관련 설문조사 결과, ‘네트워크·보안 운영 복잡성’에 기업 부담 커SASE 솔루션 전문업체 집중 분석: 아리아카[보안뉴스 강초희 기자] “사용자와 애플리케이션이 더",
-      "language": "ko",
-      "summary": "클라우드·SaaS 확산에 따른 ‘본사 중심 네트워크’ 구조의 한계로 SASE 중심 재편 가속화AI 기반 트래픽 분석·위협 대응·보안 정책 자동화를 둘러싼 차세대 SASE 경쟁 본격화SASE 인식 관련 설문조사 결과, ‘네트워크·보안 운영 복잡성’에 기업 부담 커SASE 솔루션 전문업체 집중 분석: 아리아카[보안뉴스 강초희 기자] “사용자와 애플리케이션이 더",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
