@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-22T14:40:00.164Z",
+  "generatedAt": "2026-05-22T19:47:25.990Z",
   "articles": [
+    {
+      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+      "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 22 May 2026 16:28:06 +0000",
+      "description": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
+      "language": "en",
+      "summary": "Kash Patel's clothing brand website suffered a cyber attack, leading to its shutdown after reports of hackers attempting to install malware.",
+      "points": [
+        "Hackers targeted Kash Patel’this is the core content that can be summarized in two or three sentences",
+        "The attempt was to trick visitors into installing harmful software, compromising website integrity and user security",
+        "Following these events, X's clothing brand site has been taken offline for investigation"
+      ],
+      "insight": "This incident highlights the increasing vulnerability of online businesses to cyber attacks which can lead to severe financial loss and damage to reputation. It underscores the necessity for robust cybersecurity measures."
+    },
+    {
+      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+      "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 22 May 2026 16:27:57 +0000",
+      "description": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
+      "language": "en",
+      "summary": "Apple wants the Supreme Court to limit a previous court decision that affected App Store rules regarding third-party payments for apps and games.",
+      "points": [
+        "Supreme Court asked by Apple to narrow injunction against Epic Games' payment practices",
+        "Epic Games won an earlier ruling where they challenged the requirement of using in-app purchase options within the App Store exclusively",
+        "Court overturned a contempt finding that forced developers who use alternative payments outside the app store to accept Apple’ extraneous fees"
+      ],
+      "insight": "The outcome could redefine how apps handle transactions and financial policies, potentially influencing similar cases in future."
+    },
+    {
+      "title": "Spotify’s AI bet: more of everything, less of what you want",
+      "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 22 May 2026 16:18:10 +0000",
+      "description": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
+      "language": "en",
+      "summary": "Spotify's new suite of AI features encourages the creation and discovery of music by analyzing user behavior and suggesting similar or related songs to listeners. Critics argue that this approach could overwhelm users with excess content.",
+      "points": [
+        "AI tools released by Spotify push for increased musical output among creators",
+        "Spotify'static recommendation algorithms are refined using AI and machine learning technologies to suggest more similar or related music based on user behavior",
+        "Critics argue that the influx of recommended content may overwhelm users"
+      ],
+      "insight": "The Spotify initiative highlights an evolving strategy within the streaming industry, prioritizing increased creation and discovery while facing criticism for potentially bombarding consumers with excessive recommendations."
+    },
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 22 May 2026 16:16:48 +0000",
+      "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "language": "en",
+      "summary": "Following an AI-driven update by Google, typing 'disregard' causes technical issues within their platform.",
+      "points": [
+        "Google Search has experienced a malfunction with the word 'disregard'.",
+        "The issue arises after updating to new AI technology for better understanding of queries.",
+        "This problem may suggest limitations in current language processing capabilities."
+      ],
+      "insight": "While Google's update aimed at improving query comprehension, this incident highlights potential hurdles that can emerge and points towards the ongoing need to refine AI understanding of nuanced or less common words."
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 22 May 2026 15:37:15 +0000",
+      "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "language": "en",
+      "summary": "The article discusses Google's recent demonstration of a prototype set of Android XR glasses that incorporate AI to provide translations and navigational assistance directly in the user'ner field of view.",
+      "points": [
+        "Google has unveiled a working pair of smartglasses named Project Glass, which utilizes Google Assistant for voice commands and displays information within the wearer's vision without needing to look away from their surroundings.",
+        "The glasses aim to transform various aspects of daily life by providing hands-free access to digital information through simple eye movements or gestures. They also have potential applications in professional fields such as medicine, manufacturing and retail sales due to its augmented reality (AR) capabilities for enhancing training sessions.",
+        "The glasses feature a miniature display that provides visual feedback directly on the user's field of vision without requiring them to look at it. This creates an immersive experience where digital content is integrated into real-world objects."
+      ],
+      "insight": "These AI smartglasses could revolutionize how people interact with technology in their daily lives, offering a more seamless and hands-free way of accessing information while keeping users engaged within their physical surroundings. The glasses have potential to disrupt various industries by providing real-time assistance through augmented reality."
+    },
     {
       "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
       "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
@@ -17,6 +92,21 @@
       "insight": {
         "English": "This incident highlights the potential risks associated with third-party vendors in handling customer information, emphasizing the need for stringent security measures and transparent communication protocols within the IT/technology industry."
       }
+    },
+    {
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 22 May 2026 14:30:00 +0000",
+      "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+      "language": "en",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+      "points": [
+        "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     },
     {
       "title": "Meta quietly launches a new Reddit-like app called Forum",
@@ -662,96 +752,6 @@
         "Partnership between Wayve, an autonomous software company based in London, UK; PMD Automation Limited (PMA), a subsidiary of Stellantis N.V., parent company of Chrysler FCA North America LLC"
       ],
       "insight": "This partnership is expected to accelerate the development and deployment of autonomous vehicle technology, furthering advancements in safety and efficiency within the industry."
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 13:38:42 +0000",
-      "description": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-      "language": "en",
-      "summary": "With soaring aluminum prices by up to 20%, recycling startups are investing in AI technology for mineral recovery with high expectations.",
-      "points": [
-        "Recycling startup Recyclap is developing an AI-powered platform called AluTronics, which leverages machine learning and computer vision to automate the process of recycling aluminum cans. The goal is a more efficient extraction method with lower costs.",
-        "The global price for primary raw bauxite has increased by 50% in just two years due largely to China's demand, resulting in significant financial losses for many countries that rely on exports like Guyana and Suriname. These nations are now turning to recycling as a means of profiting from their aluminum resources.",
-        "Companies such as AluSmart have been using AI systems since 2017, but the current price surge is prompting new entrants in the market."
-      ],
-      "insight": "The integration of advanced technologies like AI into recycling processes represents a significant opportunity for startups to capitalize on rising aluminum prices while promoting sustainable practices within the IT/technology industry. The potential environmental benefits and economic gains underscore this emerging trend as an influential force shaping future market dynamics."
-    },
-    {
-      "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
-      "link": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 13:25:37 +0000",
-      "description": "Flipper Devices said that the new gadget is in development and the base model will cost under $350",
-      "language": "en",
-      "summary": "Flipper has developed a Linux-powered networking device aimed at hackers and DIY enthusiaststatic for less than $350.",
-      "points": [
-        "The new gadget by Flipper is designed with hacker communities in mind, utilizing the openness of the Linux operating system to offer customization options unheard of before",
-        "This low-cost device provides a platform for experimentation and innovation within network security without needing deep technical knowledge or large investments.",
-        "Flipper's approach indicates an increasing trend towards affordable technology that democratizes access to advanced IT skills."
-      ],
-      "insight": "The introduction of this cost-effective networking device opens the door for a broader range of individuals and communities, including those with limited resources or knowledge in tech, which may result in more diverse perspectths on network security solutions within the industry."
-    },
-    {
-      "title": "피지컬AI 모델, 정보보호... 한국정보처리학회 ‘ASK 2026’ 산학연 연구 성과 공유",
-      "link": "http://www.boannews.com/media/view.asp?idx=143765&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 21 May 2026 22:09:00 +0900",
-      "description": "한국정보처리학회(KIPS) 연례 학술 행사... 20-23일 강릉에서융합AI, 보안, 차세대 컴퓨팅 시스템 등 최신 학술 이론과 산업 접목 [보안뉴스 한세희 기자] “동작과 기억, 감각 센싱의 결합, 학습을 위한 합성 데이터 품질 강화, 3단계 훈련 기법 개발 등을 통해 사람처럼 움직이는 로봇을 위한 파운데이션 모델을 개발했습니다.” (신진우 KAIST A",
-      "language": "ko",
-      "summary": "한국정보처리학회(KIPS) 연례 학술 행사. 20-23일 강릉에서융합AI, 보안, 차세대 컴퓨팅 시스템 등 최신 학술 이론과 산업 접목 [보안뉴스 한세희 기자] “동작과 기억, 감각 센싱의 결합, 학습을 위한 합성 데이터 품질 강화, 3단계 훈련 기법 개발 등을 통해 사람처럼 움직이는 로봇을 위한 파운데이션 모델을 개발했습니다...",
-      "points": [
-        "한국정보처리학회(KIPS) 연례 학술 행사",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 11:42:57 +0000",
-      "description": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.",
-      "language": "en",
-      "summary": "Spammers are exploiting an internal Microsoft loophole that enables them to use valid Microsoft email addresses to send malicious links and scams.",
-      "points": [
-        "The spamming scheme involves using legitimate alerts emails for sending unsolicited phishing messages. ",
-        "Microsoft is working on fixing the issue, but it remains a significant security concern as of now.",
-        "This practice not only damages Microsoft's reputation but also endangers user safety and data privacy."
-      ],
-      "insight": "The IT/technology industry must prioritize securing internal systems against misuse to protect users from phishing scams, which harm the brand image of companies like Microsoft."
-    },
-    {
-      "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
-      "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 11:00:00 +0000",
-      "description": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
-      "language": "en",
-      "summary": "Fresha, a beauty and wellness booking platform, has secured an $80 million investment from KKR for its Next Generation Technology Growth fund. The startup recently announced it reached a valuation of over $1 billion.",
-      "points": [
-        "Beauty marketplace Fresha raised funds through the support and backing by private equity firm, KKR.",
-        "The recent investment will help accelerate its growth within the beauty industry sector.",
-        "Fresha has achieved a valuation exceeding $1 billion."
-      ],
-      "insight": "This significant fundraise indicates strong confidence in Fresha's business model and potential for substantial market share expansion, which could reshape competition dynamics among key players within the beauty booking industry. Additionally, KKR backing may provide valuable resources such as network connections to further enhance its growth prospects."
-    },
-    {
-      "title": "[이슈칼럼] 깃허브도 뚫렸다, TeamPCP가 보여준 ‘NHI 시대’의 공급망 공격 진화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143763&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 21 May 2026 18:22:00 +0900",
-      "description": "인증 배지와 공식 빌드마저 무력화시킨 8개월간의 공급망 장악 캠페인EDR도 탐지 못 하는 정상적인 API 호출 악용... NHI 인벤토리 점검 시급[보안뉴스= 김동현 OWASP 서울 챕터 리더] 지난 20일 깃허브(GitHub)가 자사 내부 저장소 약 3800개의 외부 유출을 공식 인정했다. 전 세계 개발자가 코드를 맡기는 플랫폼에서 직원 한 명이 설치한",
-      "language": "ko",
-      "summary": "GitHub의 내부저장소가 3800개의 외부 유출을 형성한 깃허딩 알맛이다.",
-      "points": [
-        "GitHub가 내부저장소에 380 endpoints이 있는 중요한 시사점",
-        "구조화된 API를 통해 공급망을 보호하기 어려워서 API를 강제로 활용하여 공급망의 공격 진화에 대한 작은 운동",
-        "이를 통해 IT/기술 업계의 공급망 보호가 있어야만 하는 심층한 분석"
-      ],
-      "insight": "이런 현상은 IT/기술 업계에서의 공급망 보호를 강조하고자 함으로oted API 문제를 선정한다."
     }
   ]
 }
