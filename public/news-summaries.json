@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-05-23T13:24:09.346Z",
+  "generatedAt": "2026-05-23T19:10:41.315Z",
   "articles": [
+    {
+      "title": "These special phone and app features can help protect you from spyware",
+      "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 23 May 2026 16:00:00 +0000",
+      "description": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+      "language": "en",
+      "summary": "Tech giants Apple, Meta (now Facebook), and Google have introduced special security features that enhance device protection against targeted spyware attacks.",
+      "points": [
+        "Special modes provided by major tech companies aim to secure devices from sophisticated spyware threats.",
+        "These methods vary but generally involve additional verification steps or app restrictions before using sensitive features, such as making a payment or accessing personal data.",
+        "Switching these security modes often requires user action and knowledge of the specific settings available in their respective platforms."
+      ],
+      "insight": {
+        "text": "The introduction of targeted spyware protection within major tech companies' devices is crucial, as it shows a proactive approach to safeguarding users against escalating threats that increasingly aim for deep system access. These measures could set new standards in the industry and encourage broader adoption of similar features."
+      }
+    },
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
+      "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "language": "en",
+      "summary": "Ferrari is collaborating with IBM to use AI technology in an effort to create more passionate fans for Formula One racing.",
+      "points": [
+        "IBM and Scuderia Ferrari are using advanced artificial intelligence tools provided by the company's supercomputer, Summit Supercluster.",
+        "The collaboration aims to personalize fan experiences through data analytics across various touch points including social media engagement, merchandise sales, website interactions, mobile app usage and race attendance details. This includes understanding their interests using AI analysis of Twitter conversations in real time during races or on-site at the track.",
+        "The goal is to create targeted fan content like exclusive previews based on personal preferences as well as develop a predictive model for merchandise sales and ticket purchases."
+      ],
+      "insight": "This partnership highlights how AI technology can be used by sports teams, not just traditional industries such as healthcare or finance. It represents an innovative strategy that enhances fan engagement through personalized experiences using big data analytics and predictive modeling."
+    },
+    {
+      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+      "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 23 May 2026 14:50:00 +0000",
+      "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+      "language": "en",
+      "summary": "Nuclear startup Deep Fission plans to go public with a goal of raising up to $157 million through an IPO, despite some investors expressing skepticism about the company'investment story.",
+      "points": [
+        "Deep Fission is preparing for its second attempt at going public in hopes of securing as much as $157 million",
+        "The startup has faced and continues to face investor doubts regarding its business model, technology, potential revenue streams, growth plan, partnerships with established nuclear firms like Exelon Nuclear or NextEra Energy.",
+        "CEO David Sweerex expressed determination despite challenges but acknowledged the difficulty in convincing risk-averse investors to bet on a nascent technology."
+      ],
+      "insight": "Deep Fission's struggle with securing funding highlights broader skepticism within the nuclear sector about adopting new technologies and emphasizes the critical need for established industry backing in pioneering energy solutions. Their IPO experience underscores the importance of transparency, clear business models, viable revenue streams, strong growth plans, and strategic partnerships when venturing into alternative energy sectors."
+    },
     {
       "title": "Elon Musk has given up on solar power (on Earth)",
       "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
@@ -707,51 +754,6 @@
         "Google's changes are part of an industry-wide trend where tech companies leverage AI to enhance user engagement, but it also raises concerns about privacy, data misuse, transparency in algorithms."
       ],
       "insight": "The news highlights a critical juncture for the IT/technology industry as they balance innovation with consumer trust and ethical considerations around AI implementation within major platforms like Google Search. It implies that companies need to navigate evolving user expectations while managing privacy, transparency issues."
-    },
-    {
-      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
-      "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 17:41:20 +0000",
-      "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
-      "language": "en",
-      "summary": "Convective Capital has raised an $85 million fund focused on building technological solutions for improved fire safety and expanding into broader aspects of disaster resilience.",
-      "points": [
-        "The new Convective Fund targets investments in startups developing innovative technology to mitigate the impacts of fires, floods, extreme temperatures, earthquakes, wildfries, and tornadoes on people, infrastructure, business continuity, supply chains, agriculture/food security.",
-        "The Fund's investments are expected to reach startups addressing various aspects including risk assessment through AI for floods and fire disaster resilience technologies that integrate with buildings and homes.",
-        "Convective Capital aims at reducing risks, costs of damage from natural catastrophes by supporting companies focused on early detection systems like drones to improve response times."
-      ],
-      "insight": "The Convective Fund illustrates an increasing recognition in the IT/technology industry for its role not just as a means for innovation but also crucial support mechanism towards reducing human and economic loss from natural disasters by improving preparedness, detection, response, resilience strategies."
-    },
-    {
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
-      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 17:30:45 +0000",
-      "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "language": "en",
-      "summary": "President Trump postponed a directive mandating federal agencies to review artificial intelligence systems for potential biases before release due to concerns over its wording.",
-      "points": [
-        "Trump delayed signing an executive order on AI security reviews",
-        "The reason given was dissatisfaction with the language of the proposed order",
-        "Federal agencies were meant to assess potential biases in pre-release AI models"
-      ],
-      "insight": "While the President's decision delays immediate action, it highlights concerns about policy precision and its impact on federal technology initiatives."
-    },
-    {
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 16:00:00 +0000",
-      "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-      "language": "en",
-      "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures",
-      "points": [
-        "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betawo...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
