@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-23T19:10:41.315Z",
+  "generatedAt": "2026-05-24T03:32:52.556Z",
   "articles": [
+    {
+      "title": "미토스가 불러온 보안 위협의 시대, ‘소버린 AI 보안 전략’이 필요하다",
+      "link": "http://www.boannews.com/media/view.asp?idx=143786&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 24 May 2026 09:47:00 +0900",
+      "description": "국회입법조사처, ‘미토스’ 사태와 AI 보안 위협 대응 전략 간담회“소버린 AI 전략 넘어서는 ‘소버린 AI 보안 전략’ 조속히 추진해야”[보안뉴스 원병철 기자] 미토스의 등장 이후 챗GPT 5.5 사이버, 마이크로소프트 MDASH 등 다양한 사이버보안 강화 AI가 등장하면서 전 세계의 이목이 쏠리고 있지만, 아직 특정 기업에만 공급되는 등 불균형 문제가",
+      "language": "ko",
+      "summary": "국회입법조사처, ‘미토스’ 사태와 AI 보안 위협 대응 전략 간담회“소버린 AI 전략 넘어서는 ‘소버린 AI 보안 전략’ 조속히 추진해야”[보안뉴스 원병철 기자] 미토스의 등장 이후 챗GPT 5. 5 사이버, 마이크로소프트 MDASH 등 다양한 사이버보안 강화 AI가 등장하면서 전 세계의 이목이 쏠리고 있지만, 아직 특정 기업에만 공급되는 등 불균형 문제가",
+      "points": [
+        "국회입법조사처, ‘미토스’ 사태와 AI 보안 위협 대응 전략 간담회“소버린 AI 전략 넘어서는 ‘소버린 AI 보안 전략’ 조속히 추진해야”[보안뉴스 원병철 기자] 미토스의 등장 이...",
+        "5 사이버, 마이크로소프트 MDASH 등 다양한 사이버보안 강화 AI가 등장하면서 전 세계의 이목이 쏠리고 있지만, 아직 특정 기업에만 공급되는 등 불균형 문제가",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 23 May 2026 20:03:13 +0000",
+      "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+      "language": "en",
+      "summary": "Indian solar energy company SolarSquare is negotiating a potential funding round of up to $60M as interest from venture capitalists in the country'ty burgeoning rooftop solar market continues.",
+      "points": [
+        "Rooftop solar installations are increasing rapidly across India, spurred by government initiatives and falling costs for panels",
+        "Solar Square is a leading independent developer of microgrids in South Africa with significant experience deploying over 1GW worth of rooftop PVs globally.",
+        "The company's potential valuation after raising funds could reach up to $500 million"
+      ],
+      "insight": "As solar energy becomes a more attractive and financially viable option in India, companies like SolarSquare are likely to continue drawing interest from venture capitalists looking for investment opportunities within this expanding market."
+    },
     {
       "title": "These special phone and app features can help protect you from spyware",
       "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
@@ -724,36 +754,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-      "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 19:33:39 +0000",
-      "description": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
-      "language": "en",
-      "summary": "Europol has successfully tracked down and notified the owners of a VPN used by dozener ransomware gangs, threatening legal action.",
-      "points": [
-        "Criminals using two dozen different ransomware strains utilized this particular virtual private network for anonymity during cyberattacks",
-        "After Europol's investigation and the subsequent identification of users behind one user IP address, service provider BigBoss VPN was alerted.",
-        "BigBoss has now agreed to take legal action against individuals involved in ransomware attacks using their services"
-      ],
-      "insight": "This marks a significant development for cybersecurity as law enforcement successfully identifies and disrupts the tools used by criminals, potentially setting an example that could deter future misuse of VPNs."
-    },
-    {
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 19:19:05 +0000",
-      "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "language": "en",
-      "summary": "The article discusses how Google is changing its image by integrating more artificial intelligence into search results and the resulting user experience.",
-      "points": [
-        "Google's AI overview feature may not be well-received due to privacy concerns, indicating a shift in brand perception as technology evolves within the company.",
-        "The integration of large language models (LLMs) into Google Search could lead users down less productive information paths and affect how people use search engines for efficiency rather than discovery.",
-        "Google's changes are part of an industry-wide trend where tech companies leverage AI to enhance user engagement, but it also raises concerns about privacy, data misuse, transparency in algorithms."
-      ],
-      "insight": "The news highlights a critical juncture for the IT/technology industry as they balance innovation with consumer trust and ethical considerations around AI implementation within major platforms like Google Search. It implies that companies need to navigate evolving user expectations while managing privacy, transparency issues."
     }
   ]
 }
