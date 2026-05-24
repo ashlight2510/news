@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-05-24T13:26:34.680Z",
+  "generatedAt": "2026-05-24T19:18:47.278Z",
   "articles": [
+    {
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 24 May 2026 19:00:00 +0000",
+      "description": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "language": "en",
+      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point",
+      "points": [
+        "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turnin...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "6 kitchen gadgets that make adulting feel easier",
+      "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 24 May 2026 17:00:00 +0000",
+      "description": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+      "language": "en",
+      "summary": "The article presents six kitchen appliances designed to simplify cooking tasks for adults.",
+      "points": [
+        "A robotic stirring device can help with mixing ingredients without constant monitoring",
+        "An electric grill offers convenience and ease in preparing food, ideal for indoor use or outdoor barbecues",
+        "Smart ovens allow users to control cooking processes via mobile apps while multitasking at home"
+      ],
+      "insight": "These innovations demonstrate a growing trend towards automation and convenience in everyday household tasks, suggesting potential for similar advancements across various industries."
+    },
+    {
+      "title": "TechCrunch Mobility: Robotaxi reality check",
+      "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 24 May 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "TechCrunch highlights robotaxi services from companies like Cruise Automation and Zoox while also considering regulatory challenges that could impact their progress.",
+      "points": [
+        "Robotaxis are beginning to enter the market with early trials in cities such as San Francisco, Dallas, Pittsburgh, Los Angeles, Phoenix, New York City, Sacramento, Atlanta, Detroit and Washington D.C., signaling potential growth for autonomous vehicle technology.",
+        "Regulatory bodies like Caltrans (California Department of Transportation) have delayed the approval process in some cities due to concerns about safety standards following fatal accidents involving self-driving cars from companies such as Uber and Waymo, posing significant challenges for robotaxi services.",
+        "Furthermore, a potential partnership between Cruise Automation (a subsidiary of General Motors) and Honda Motor Company could facilitate mass production by sharing R&D costs to develop autonomous vehicles."
+      ],
+      "insight": "The news suggests that while robotaxi services are making headway in select cities, they face significant hurdles related to safety regulations which may stall or limit their progress and adoption. Additionally, strategic partnerships within the industry might be key for scaling production of autonomous vehicles."
+    },
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
+      "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "language": "en",
+      "summary": "The article explores the author'selands intrigue with using Amazon's new AI wearable known as 'Bee', while also expressing concern for their privacy due to its capabilities.",
+      "points": [
+        "Amazon introduces Bee, a smartwatch-like device that tracks health metrics and provides hands-free assistance through Alexa without needing headphones or Bluetooth earbuds.",
+        "The author tries the Bee wearable but feels creeped out by its ability to provide real-time feedback on heart rate, sleep patterns, daily steps taken, as well as voice commands for various tasks such as setting timers and sending messages without using hands or speaking aloud.",
+        "Despite enjoying some features of the Bee wearable like checking health stats with a glance at its display during exercise breaks, the author remains concerned about privacy due to Amazon's extensive data collection capabilities."
+      ],
+      "insight": "The advent of AI-powered smartwatches such as 'Bee', while convenient and innovative in tracking personal fitness metrics through voice commands, raises concerns over user privacy given the extent of data that companies like Amazon can potentially collect. This could prompt a discussion within the industry about finding ways to enhance security measures for users."
+    },
     {
       "title": "The Dreamie alarm clock got me to stop using my phone in bed",
       "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
@@ -694,66 +754,6 @@
         "This move underscores the challenges and responsibilities faced by autonomous vehicle companies to ensure safety in unpredictable environmental situations."
       ],
       "insight": "The pause of Waymo's robotaxi service due to floods highlights ongoing concerns around how self-driving cars handle adverse weather conditions, pushing the industry towards more robust testing and preparation for extreme scenarios."
-    },
-    {
-      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-      "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 22 May 2026 00:07:47 +0000",
-      "description": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
-      "language": "en",
-      "summary": "SpaceX called off the launch of their third-generation Starship V3 just moments before its liftoff due to last-minute technical issues; they are planning another attempt on Friday.",
-      "points": [
-        "Technical difficulties led SpaceX to scrub a near-liftoff with the first fully reusable rocket ever flown, Starship V3.",
-        "The delay is seen as an indication of SpaceX's commitment to perfection and safety despite their reputation for pushing boundaries in space exploration.",
-        "SpaceX plans another attempt on Friday after addressing the issues that caused them to scrub this launch."
-      ],
-      "insight": "The delay highlights how even industry leaders like SpaceX cannot completely eliminate risk, particularly when developing cutting-edge technologies for space travel. It underscores a relentless pursuit of perfection and safety in the exploration field which could set new standards if future launches proceed without similar issues."
-    },
-    {
-      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
-      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 21:39:03 +0000",
-      "description": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
-      "language": "en",
-      "summary": "The article discusses Elon Musk's massive stake in SpaceX through his IPO and the significant influence it grants him over the company.",
-      "points": [
-        "Elon Musk holds a substantial portion of shares after SpaceX'th IPO, making him one of its largest shareholders.",
-        "Musk also has considerable stakes in Tesla Inc., which might affect his ability to focus on both companies simultaneously due to potential conflicts of interest.",
-        "The concentration of ownership within the inner circle could pose governance risks and impact SpaceX's decision-making process."
-      ],
-      "insight": "This consolidation of wealth highlights Musk's personal investment in his ventures but also raises concerns about potential conflicts, corporate governance issues, and influence over the company's direction within a sector where leadership decisions can have profound implications."
-    },
-    {
-      "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-      "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 21:13:23 +0000",
-      "description": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
-      "language": "en",
-      "summary": "Waymo is temporarily halting freeway rides due to difficulties experienced by autonomous vehicles in construction zones and during inclement weather conditions.",
-      "points": [
-        "Autonomous vehicle technology encounters challenges at road intersections, traffic signals with malfunctioning detectors or sensors that are not functioning as expected (like the yellow lights on an intersection), flooded streets due to extreme rainfall events and other weather conditions.",
-        "Waymo's autonomous vehicles experienced difficulties operating in construction zones where workers manually direct vehicle traffic, during freeway incidents with debris or unpredictable situations such as accidents involving multiple lanes of cars from different directions at the same time (converging and diverging movements).",
-        "Waymo's autonomous vehicles also struggled to drive safely in rainy weather conditions, which led to temporary service suspensions after encountering several incidents where passengers were not properly secured within their seats."
-      ],
-      "insight": "The Waymo experience highlights the complexities of real-world testing for self-driving technology and emphasizes that autonomous vehicles still face significant challenges when navigating various road conditions, construction zones, and adverse weather. These insights may prompt further investment in improving sensors, algorithms, and safety measures to enhance reliability."
-    },
-    {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 19:45:00 +0000",
-      "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "language": "en",
-      "summary": "Spotify has teamed up with Universal Music Group to enable Premium subscribers to create AI-generated song covers and remixes. Artists who participate will earn a share of the revenue generated by their creations.",
-      "points": [
-        "Partnership between Spotify and Universal Music Group",
-        "AI generation for songs covered or mixed by subscribers",
-        "Revenue sharing with participating artists"
-      ],
-      "insight": "This deal opens new revenue streams within the music industry through fan-generated content, potentially altering how royalties are earned and distributed."
     }
   ]
 }
