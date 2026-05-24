@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-24T08:28:25.141Z",
+  "generatedAt": "2026-05-24T13:26:34.680Z",
   "articles": [
+    {
+      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 24 May 2026 13:00:00 +0000",
+      "description": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
+      "language": "en",
+      "summary": "The article highlights a unique feature in the new 'Dreamie' alarm clock that allows users to listen to podcasts instead of traditional alarms.",
+      "points": [
+        "Dreamie distinguishes itself from other expensive gadgets by enabling bedtime entertainment through its ability to play recorded audio, such as popular Podcast episodes.",
+        "The Dreamie alarm clock is portrayed as an innovative alternative that aims at retaining user engagement throughout the night.",
+        "Despite being described humorously for its simplicity, this product reflects current trends in technology where entertainment and comfort are blended into everyday devices."
+      ],
+      "insight": "The Dreamie alarm clock's emphasis on providing an engaging audio experience instead of a conventional ring or beep highlights the growing consumer preference for personalized bedtime routines, potentially impacting traditional alarm device markets and encouraging innovation in sleep-related technology."
+    },
+    {
+      "title": "미토스, 상용 소프트웨어에서 1만개 이상의 제로데이 취약점 발견",
+      "link": "http://www.boannews.com/media/view.asp?idx=143787&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 24 May 2026 18:01:00 +0900",
+      "description": "프로젝트 글래스윙, 전 세계에서 가장 많이 사용하는 소프트웨어에서 1만개 제로데이 발견심각도가 매우 높은 400개를 포함한 2000개의 버그 발견... 보안전문가보다 오탐률 적어[보안뉴스 원병철 기자] 앤트로픽 미토스를 위한 사이버보안 이니셔티브 ‘프로젝트 글래스윙’(Project Glasswing)이 전 세계에서 가장 ‘시스템적으로’ 중요한 소프트웨어 전",
+      "language": "ko",
+      "summary": "미토스에서 1백년감소로 이어진 제로데이 취약점 300개를 매우 높은 400개의 상위 400개 버그 발견",
+      "points": [
+        "미토스에서 제로데이 취약점 400개가 매우 높은 400개의 상위 40 end 버그 발견",
+        "보안 논문 'Project Glasswing'에서는 미토스와 상대적으로 우선한 소프트웨어인 앤트로픽의 '이마실리 브런지'를 중요시해온다",
+        "포부군과 충격철이 발생하여 보안을 강화하고자 한국어로 소프트웨어의 제약점을 요구한다"
+      ],
+      "insight": "소프트웨어에서 가장 많이 사용하는 도구인 미토스에서, IT/기술 업계는 보안의 중요성을 강조해야한다"
+    },
     {
       "title": "미토스가 불러온 보안 위협의 시대, ‘소버린 AI 보안 전략’이 필요하다",
       "link": "http://www.boannews.com/media/view.asp?idx=143786&kind=&sub_kind=",
@@ -724,36 +754,6 @@
         "Revenue sharing with participating artists"
       ],
       "insight": "This deal opens new revenue streams within the music industry through fan-generated content, potentially altering how royalties are earned and distributed."
-    },
-    {
-      "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
-      "link": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 19:35:21 +0000",
-      "description": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-      "language": "en",
-      "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "How Elon Musk will increase his power through the SpaceX IPO",
-      "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 21 May 2026 19:35:21 +0000",
-      "description": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-      "language": "en",
-      "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
