@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-05-25T10:03:32.222Z",
+  "generatedAt": "2026-05-25T14:56:05.479Z",
   "articles": [
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 25 May 2026 14:30:00 +0000",
+      "description": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "language": "en",
+      "summary": "Startup Battlefield 200 offers a chance for startups to gain venture capital access, global recognition, media coverage from TechCrunch and receive $100,00in funding through nominations due by May 27.",
+      "points": [
+        "An opportunity exists for startup exposure and financial support",
+        "The application deadline is on or before May 27th",
+        "Nominators are expected to apply in the same manner as nominees"
+      ],
+      "insight": "Startup Battlefield serves a similar purpose like Y Combinator by providing exposure and funding, but with its unique structure of pairings between startups for collaborative growth."
+    },
+    {
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 25 May 2026 14:00:00 +0000",
+      "description": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "language": "en",
+      "summary": "Attendees of TechCrunch Disrupt in San Francisco can secure early bird passes for the event on May 28-29 until they expire at midnight PT.",
+      "points": [
+        "Early Bird savings offer up to $410 off tickets",
+        "Prices increase after registration deadline and discount end date",
+        "Event takes place in San Francisco"
+      ],
+      "insight": "This article highlights the importance of prompt ticket purchases for major industry events, emphasizing a significant savings opportunity that quickly diminishes over time."
+    },
+    {
+      "title": "‘클릭픽스’ 공격으로 700여개 사이트 해킹... 클로드 발견 ‘Ghost CMS’ 취약점 악용",
+      "link": "http://www.boannews.com/media/view.asp?idx=143788&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 25 May 2026 22:56:00 +0900",
+      "description": "Ghost의 콘텐츠 API에서 발견된 SQL 인젝션 취약점 악용앤트로픽의 AI 모델 클로드가 발견...관리자 API 키 탈취 가능해 치명적 [보안뉴스 한세희 기자] 최근 블로그. 뉴스레터, 언론사 등에서 많이 사용하는 오픈소스 콘텐츠 관리 시스템(CMS) Ghost CMS에서 발견된 심각한 보안 취약점을 악용한 대규모 ‘클릭픽스(ClickFix)’ 공격 정",
+      "language": "ko",
+      "summary": "Ghost CMS에서 잘못된 API 키로 '클릭픽스' 공격으로 700여개 사이트 해밀했다는 소식이며, 분석한 SQL 인젝션 알고리즘을 '클로드 발견'로 제시.",
+      "points": [
+        "최근 블로그에서 Ghost CMS API를 이용한 보안 위기시도",
+        "클릭픽스 공격자가 발견한 SQL 인젝션 알고리즘임",
+        "'클로드 발견'을 이용한 AI 모델을 '클릭픽스'로 사용하여 사이트 해시의 분석"
+      ],
+      "insight": "Ghost CMS에서의 SQL Injection 알고리즘을 보삼, '클릭픽스' 공격자가 이를 사용하여 공간을 탐욕적으로 볼 수 0ne있는 의미이다."
+    },
     {
       "title": "[디지털 문단속] #3. 방치된 공유기, 해커의 놀이터 된다... “펌웨어 업데이트 필수”",
       "link": "http://www.boannews.com/media/view.asp?idx=143720&kind=&sub_kind=",
@@ -709,51 +754,6 @@
         "해외직구는 인터넷과 IT/기술 분양에서의 공정성과 신뢰성에 도움이 필요가 있다."
       ],
       "insight": "해외직구는 IT/기술 분양에서의 공정성과 신뢰성에 도움이 필요가 있다. 국경 없는 소비의 이면에서의 보안절차를 우리국에서 강조해야 합니다."
-    },
-    {
-      "title": "“국산 NPU, 공공 AI 시장 문 열었다” 모빌린트, 혁신제품 첫 등록으로 공공 조달 진입",
-      "link": "http://www.boannews.com/media/view.asp?idx=143768&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 10:53:00 +0900",
-      "description": "외산 중심 공공 AI 시장에 국산 AI 반도체 본격 진입[보안뉴스 강초희 기자] 모빌린트(대표이사 신동주)는 자사의 AI 솔루션 ‘MLX-A1’과 ‘MLA100’이 조달청 나라장터 종합쇼핑몰 등록을 완료하고 혁신제품으로 지정됐다고 밝혔다. NPU(신경망처리장치) 기반 AI 솔루션이 조달청 혁신제품에 등록된 것은 이번이 처음으로, 외산 GPU 중심으로 형성돼",
-      "language": "ko",
-      "summary": "외산 공인 AI 시장에서 국산 NPU 기기 발전",
-      "points": [
-        "국산 기기 'MLX-A1'과 'MLA1 end'이 공공 AI 시장 등록을 마칠 수 match 형태로 진행",
-        "모랜스트가 NPU(신경망처리장치) 기반 AI 솔루션이 특정 국산 공동주로 지정",
-        "이러한 것은 이번년도 외산 GPU 중심으로 형성될 수 있음"
-      ],
-      "insight": "공공 AI 시장에서 국산 NPU 기기의 진행은 이제엔쿠스 전자화 및 공동주로 인식하는 것이 중요한 과정임"
-    },
-    {
-      "title": "사고 터지기 전에 막는다... 개인정보 관리체계 ‘예방 중심’으로 개편",
-      "link": "http://www.boannews.com/media/view.asp?idx=143770&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 10:52:00 +0900",
-      "description": "데이터 처리 규모 및 민감도 따라 고·중·저 위험군 분류해 차등 점검ISMS-P 등 주요 정보보호 평가 체계에도 개인정보보호 중심 설계 원칙 반영[보안뉴스 조재호 기자] 사후 제재 위주로 운영되던 국가 개인정보 관리체계가 사전 위험 식별 및 예방 중심으로 전면 개편된다. 개인정보보호위원회는 22일 경제장관회의에서 ‘예방 중심 개인정보 관리체계 전환계획’을",
-      "language": "ko",
-      "summary": "이 기사는 국가 개인정보 관리체계가 '예방 중심'에 망코미지할 수 있도록 제재되어 울한 전착양성 패턴을 삼아내고 있다. 개인정보 보호 중심으로의 개선이 개인정보 분약에 가까이 기대되며, 이는 고·중·저 위험군에 대한 모호성 측면에서 국가의 개인정보 보호 전략의 강제 이동을 나타내며, 기술적인 전문량에 부과함으로써 '균형 잡기'와 같은 전체적인 IT/기술 업체에서의 개인정보 보호의 추세를 볼 수 0ne다.",
-      "points": [
-        "국가 개인정보 관리체계가 '예방 중심'로 제안받은 개편",
-        "개인정보 보호 체계의 전문량이 기술적인 개선을 통해 강화되는 모습",
-        "개인정보 분약에 대한 방어시스킷의 전문성이 결국으로서 국가의 IT/기술 업체에서의 개인정보 보호 전략의 변화"
-      ],
-      "insight": "이 기사는 국가 개인정보 관리체계가 '예방 중심'로 제안받은 개편에 대해서만 한국어로 요약되어 있는데, JSON으로만 링턴을 요약하려면 다음과 같은 모습이 좋을 것이다."
-    },
-    {
-      "title": "SK쉴더스, 글로벌 3대 AI 학회 ‘ICML 2026’서 탐지 신기술 논문 채택",
-      "link": "http://www.boannews.com/media/view.asp?idx=143771&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 10:50:00 +0900",
-      "description": "불규칙한 사이버 공격 흐름 분석하는 QuITE 모델 제시기존 시계열 분석 방식 대비 탐지 성능 최대 45.9% 개선 효과 입증[보안뉴스 조재호 기자] 일정하지 않은 사이버 공격의 흐름을 정밀하게 분석하는 새로운 AI 보안 기술이 글로벌 학계의 인정을 받았다.SK쉴더스는 자사 사이버보안AI랩스 소속 임정훈 선임의 연구 논문이 글로벌 3대 AI 학회인 ICML",
-      "language": "ko",
-      "summary": "이 기사는 QuITE 모델이 IT/기술 공격 활동의 불안정한 흐름을 분석하고 최대 45.9% 개선되었음을 나타냅니다.",
-      "points": [
-        "- QuITE 모델이 IT/기술 공격 활동의 불안정한 흐름을 분석하는 일",
-        "- QuITE 모델이 존재하여 보호자들은 45.9% 개선된 IT/기술 공격의 탐지 성능을 앞지가지고 있다",
-        "- QuITE 모델이 ICML 학회에서 제시되어 인정받은 것"
-      ],
-      "insight": "IT/기술 공격 분석의 전문성을 향상시켜왔다.이를 달성한 모델은 공게에서의 보호자들의 기대와 함께 인식받습니다."
     }
   ]
 }
