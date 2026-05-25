@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-05-24T19:18:47.278Z",
+  "generatedAt": "2026-05-25T03:46:08.673Z",
   "articles": [
+    {
+      "title": "[디지털 문단속] #3. 방치된 공유기, 해커의 놀이터 된다... “펌웨어 업데이트 필수”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143720&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 25 May 2026 09:01:00 +0900",
+      "description": "공유기 펌웨어 최신 상태 유지해야신규 취약점 막고 디도스 공격 좀비화 전면 차단 가능[보안뉴스 조재호 기자] 우리의 일상을 편리하게 만들어주는 사물인터넷(IoT) 기기가 내 사생활을 훔쳐보는 눈과 귀로 변할 수도 있다. IoT란 거실의 스마트 TV부터 로봇청소기, 홈캠 등 집안의 다양한 사물이 인터넷으로 연결되어 데이터를 주고받는 통신 기술을 뜻한다. 이처",
+      "language": "ko",
+      "summary": "IoT기기가 내 일상을 편리하게 만들어주지만, 공유기에 대한 보호와 정보보안이 필요한 것인지는 질화해야 한다.",
+      "points": [
+        "- IoT기기가 사물의 공유와 업무를 어렵게 만들어내고, 공격없이 우리의 일상을 편안하게 하는 의미",
+        "- 보안에 대한 중요성과 정보보안의 맞음에 있어, 공유기에 대한 이해와 보호를 강조하고자 할 수 있다.",
+        "- 이상적으로 공유기 또는 IoT기기에 대한 보안과 신경도는 모든 사람들이 간주하고 싶을 수 없다."
+      ],
+      "insight": "IoT기기가 일상을 더 편안한 방식으로 유지하도록 할 수 있는데, 그러나 보안의 중요성이 아니라 정보보안에 대한 이해와 준비가 필요하다. IoT기기를 골목적으로 보호하는 방법은 모든 사람들에게 중요한 질문이다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관-20] 돌다리도 두드려 보고 건너라(10)-이벤트 문자, 왜 대부분 의심해야 할까",
+      "link": "http://www.boannews.com/media/view.asp?idx=143245&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 25 May 2026 08:48:00 +0900",
+      "description": "모르는 사람에게 받은 기프티콘이나 이벤트 당첨 문자를 조심하세요[보안뉴스 박미영 기자] 모르는 사람에게 받은 기프티콘이나 이벤트 당첨 문자는 스미싱(문자 피싱)일 가능성이 있어 링크 클릭·개인정보 입력·상담 연결을 요구하는 문자는 즉시 삭제하고 신고하는 것이 안전하다. 특히 ‘당첨’ 문자는 발신번호가 공식 번호와 다르거나, 문자 본문에 링크가 포함되면 사기",
+      "language": "ko",
+      "summary": "모든 피드백이 공격으로 이해되도록 강조하여, 스미싱이나 이벤트 당첨 문자는 즉시 삭제하고 신고하는 것이 안전하다.",
+      "points": [
+        "스미싱일 가능성이 있어, 판매자와 서버에 연계되어야 한다.",
+        "발신번호가 공식 번호와 다르면 사고가 일어날 수 0가지",
+        "스미싱이나 이벤트 당첨 문자는 발신번호가 공식 번호에서 이와 다르다."
+      ],
+      "insight": "스미싱나 이벤트 당첨 문자는 일반적으로 공격으로 이해되지 않기 때문에 매우 안전하다."
+    },
+    {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 24 May 2026 21:39:21 +0000",
+      "description": "We're in the transition period -- all of us.",
+      "language": "en",
+      "summary": "Google and others are currently addressing challenges related to AI security real-time as this technology becomes more prevalent.",
+      "points": [
+        "Google is actively navigating the complexities of artificial intelligence (AI) security in real time, acknowledging that all parties involved in tech development are experienthy facing similar transitions.",
+        "The reliance on AI systems has increased considerably across various industries, making it essential for companies to safeguard these technologies effectively against potential threats and vulnerabilities.",
+        "As artificial intelligence becomes increasingly integrated into our daily lives, the security of AI-driven devices and services is a growing concern that demands immediate attention."
+      ],
+      "insight": "The rapid integration of AI across various sectors places immense pressure on organizations to prioritize robust AI security measures. Realizing this need underscores Google's commitment not only to its own platforms but also contributes positively towards elevating the industry-wide standards for cybersecurity."
+    },
     {
       "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
       "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
@@ -709,51 +754,6 @@
         "- QuITE 모델이 ICML 학회에서 제시되어 인정받은 것"
       ],
       "insight": "IT/기술 공격 분석의 전문성을 향상시켜왔다.이를 달성한 모델은 공게에서의 보호자들의 기대와 함께 인식받습니다."
-    },
-    {
-      "title": "한국공항보안, 공항시장역 일대서 ‘제3회 한마음 플로깅’ 실시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143767&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 10:47:00 +0900",
-      "description": "지역 환경정화 활동 통해 ESG 실천과 지역사회 상생 앞장[보안뉴스 강초희 기자] 한국공항보안(사장 김수봉) 본사 임직원 60여명은 5월 22일 오전 10시부터 11시까지 공항시장역 일대에서 ‘제3회 한마음 플로깅’ 사회공헌활동을 실시했다.‘한마음 플로깅’은 임직원들이 함께 걸으며 쓰레기를 수거하는 환경정화 활동으로, 한국공항보안이 지역사회와의 상생과 ES",
-      "language": "ko",
-      "summary": "60명 거주하는 공항시장역에서 '제3회 한마음 플로깃' 플로팅을 한 날.",
-      "points": [
-        "1. 60명 임직원들이 공항시장역에서 '제3회 한마음 플로깃' 플로팅을 하여 쓰레기를 수거합니다.",
-        "2. 이 플로팅은 임직원들이 함께 공규화하고 환경을 개선해나가는 행위입니다.",
-        "3. 이 플로팅은 공항시장 일부인 '제3회 한마음 플로깃'이라고 불어보는 것입니다."
-      ],
-      "insight": "이 기사는 공항시장에서의 직접적인 환경정화 조치임을 밝ly 강조하고 있다."
-    },
-    {
-      "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
-      "link": "http://www.boannews.com/media/view.asp?idx=143769&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 09:59:00 +0900",
-      "description": "미국 규제당국에 데이터 유출 신고... 가맹점주 SSN 포함 민감정보 탈취클라우드 저장소 노린 샤이니헌터스, 유통·교육·금융 전방위 공격 확산[보안뉴스 김형근 기자] 글로벌 편의점 기업 세븐일레븐(7-Eleven)이 국제 사이버 범죄 조직 ‘샤이니헌터스’(ShinyHunters)의 공격으로 가맹점 관련 문서 저장 시스템이 침해됐음을 공식 인정했다.세븐일레븐",
-      "language": "ko",
-      "summary": "세븐일레븐이 공격에 대해 인정",
-      "points": [
-        "세븐일레븐(7-Eleven)에서 공격으로 인한 저장 시스템 침해",
-        "SSN 정보가 탈취한다는 신고",
-        "즉시 공격으로 발생하여 국내 영구적인 정보 캐스팅"
-      ],
-      "insight": "글로벌 IT 계정에서의 한국어 공지와 내용: 발화가 목적을 충졊할 수 0ne가지는 없다."
-    },
-    {
-      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
-      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 22 May 2026 00:37:00 +0000",
-      "description": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
-      "language": "en",
-      "summary": "As part of safety measures, Waymo has temporarily halted robotaxi service due to concerns over their potential presence on flood-affected routes in Atlanta and San Antonio.",
-      "points": [
-        "Waymo's autonomous vehicles have been paused as the company seeks to prevent them from operating during flooding events in two cities, illustrating proactive safety measures amidst natural disaster scenarios.",
-        "The decision comes after concerns that Waymo’selfa robotaxis may drive into waterlogged areas where it can be unsafe for human drivers but is not yet safe for self-driving vehicles under such extreme conditions.",
-        "This move underscores the challenges and responsibilities faced by autonomous vehicle companies to ensure safety in unpredictable environmental situations."
-      ],
-      "insight": "The pause of Waymo's robotaxi service due to floods highlights ongoing concerns around how self-driving cars handle adverse weather conditions, pushing the industry towards more robust testing and preparation for extreme scenarios."
     }
   ]
 }
