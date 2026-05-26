@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-05-25T19:30:35.421Z",
+  "generatedAt": "2026-05-26T03:40:54.524Z",
   "articles": [
+    {
+      "title": "117개 잠복 기법 잡아낸다... 헥사스트라이크, 차세대 포렌식 툴 ‘파시스턴스 스나이퍼’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=143800&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 11:43:00 +0900",
+      "description": "윈도우·리눅스·맥 대상117개 지속성 악성 기법 식별 지원포렌식 이미지·KAPE 덤프 분석 기반... DLL 프록싱·LOLBin 등 탐지 강화YAML 기반 규칙 설정·MITRE ATT&CK 연동 통해 IR 대응 효율성 높여[보안뉴스 김형근 기자] 보안 기업 헥사스트라이크(Hexastrike)가 오프라인 시스템에 숨은 지속성 악성코드를 추적하는 보안 도구를",
+      "language": "ko",
+      "summary": "윈도우·리눅스·맥 대상117개 지속성 악성 기법 식별 지원포렌식 이미지·KAPE 덤프 분석 기반. DLL 프록싱·LOLBin 등 탐지 강화YAML 기반 규칙 설정·MITRE ATT&CK 연동 통해 IR 대응 효율성 높여[보안뉴스 김형근 기자] 보안 기업 헥사스트라이크(Hexastrike)가 오프라인 시스템에 숨은 지속성 악성코드를 추적하는 보안 도구를",
+      "points": [
+        "윈도우·리눅스·맥 대상117개 지속성 악성 기법 식별 지원포렌식 이미지·KAPE 덤프 분석 기반",
+        "DLL 프록싱·LOLBin 등 탐지 강화YAML 기반 규칙 설정·MITRE ATT&CK 연동 통해 IR 대응 효율성 높여[보안뉴스 김형근 기자] 보안 기업 헥사스트라이크(Hexas...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "누리랩, 대량문자 전송자격인증제 선제 대응 나선다...AskURL 지원 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=143795&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 11:34:00 +0900",
+      "description": "문자재판매사 및 중계사 대상 피싱·불법 광고 사전 차단 체계 제공API 및 구축형 연동 지원 통해 발송 업체의 컴플라이언스·증빙 관리 지원[보안뉴스 조재호 기자] 대량문자 전송자격인증제 시행으로 문자 발송 사업자의 보안 책임이 강화되는 가운데, 누리랩이 악성 URL 탐지 솔루션 애스크URL(AskURL)을 통한 실무 지원에 나선다.누리랩은 26일 문자재판매",
+      "language": "ko",
+      "summary": "문자재판매사 및 중계사 대상 피싱·불법 광고 사전 차단 체계 제공API 및 구축형 연동 지원 통해 발송 업체의 컴플라이언스·증빙 관리 지원[보안뉴스 조재호 기자] 대량문자 전송자격인증제 시행으로 문자 발송 사업자의 보안 책임이 강화되는 가운데, 누리랩이 악성 URL 탐지 솔루션 애스크URL(AskURL)을 통한 실무 지원에 나선다. 누리랩은 26일 문자재판매",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "그룹아이비(Group-IB), ‘AWS 금융 서비스 컴피턴시’ 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=143803&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 11:29:00 +0900",
+      "description": "AWS 검증한 금융 사이버보안 전문사 인정...은행·보험·결제사 대상 예측형 방어 체계 제공 [보안뉴스 원병철 기자] 디지털 범죄를 조사, 예방 및 대응하기 위한 사이버보안 기술 분야의 글로벌 선도적 기업인 그룹아이비(Group-IB, 지사장 김기태)는 ‘AWS 금융 서비스 컴피턴시’(AWS Financial Services Competency)를 획득했다",
+      "language": "ko",
+      "summary": "Group-IB 기사에서 AWS Financial Services Competency를 획득한 내용을 요약합니다.",
+      "points": [
+        "그룹아이비는 AWS 금융 서비스 컴피턴시에 대해 인식하였습니다",
+        "그룹아이비의 전문적 게별성을 강조합니다",
+        "이러한 커뮤니템 소식은 AWS 금융 서비스에 가까이 연구하고자 하는 회사들에게 도움을 주지 않을까요?"
+      ],
+      "insight": "그룹아이비는 AWS 금융 서비스를 위한 소통방어 기술에 관련하여 AWS Financial Services Competency를 획득하며, 이 기사는 AWS의 중요한 IT/기술 분야에서의 기술을 강조하고자 합니다."
+    },
+    {
+      "title": "여의시스템, Moxa 산업용 네트워크 기술 교육 프로그램 공식 운영",
+      "link": "http://www.boannews.com/media/view.asp?idx=143793&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 11:27:00 +0900",
+      "description": "산업용 네트워크 엔지니어 위한 Moxa 공식 인증 자격 교육 프로그램[보안뉴스 강초희 기자] 여의시스템(공동대표 성명기·성제현)이 글로벌 산업용 통신 분야 리더 Moxa의 공식 인증 기술 교육 프로그램 ‘MXCx’(Moxa Certification and Training Service)를 국내에서 정식 운영한다. MXCx는 산업용 통신 네트워크의 설계·구축",
+      "language": "ko",
+      "summary": "산업용 네트워크 엔지니어 위한 Moxa 공식 인증 자격 교육 프로그램[보안뉴스 강초희 기자] 여의시스템(공동대표 성명기·성제현)이 글로벌 산업용 통신 분야 리더 Moxa의 공식 인증 기술 교육 프로그램 ‘MXCx’(Moxa Certification and Training Service)를 국내에서 정식 운영한다. MXCx는 산업용 통신 네트워크의 설계·구축",
+      "points": [
+        "MXCx는 산업용 통신 네트워크의 설계·구축",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "넷앤드, ‘2026 파트너 데이’ 성료... 파트너와 동반성장·EGS 실천",
+      "link": "http://www.boannews.com/media/view.asp?idx=143801&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 11:07:00 +0900",
+      "description": "단순한 비즈니스 교류 넘어 파트너사와 함께 나눔 활동 실천하는 ESG 행사로 자리매김2026 파트너 정책, 자사 대표 솔루션 ‘HIWARE’의 고도화된 신규 기능 및 파트너 영업 전략 공유[보안뉴스 원병철 기자] 통합 접근제어 및 계정관리(IAM) 솔루션 전문기업 넷앤드(대표 신호철)가 지난 21일 주요 파트너를 초청해 ‘2026년 넷앤드 파트너 데이’(P",
+      "language": "ko",
+      "summary": "ESG 행사는 2026년 넷앤드에서 IAM 기술을 사용하여 파트너 연결 증진, 보호, 시장 대선으로 전략 공유",
+      "points": [
+        "2026년 넷앤드에서 ESG 행사는 IAM 기술을 활용하여 판단이 가능한 보호증진으로부터 동기화 시작",
+        "계정관리, 공급 모드의 개선적용, 질서와 동의를 통한 고도화된 신규 기능을 제공",
+        "ESG 행사는 공식화되어 파트너 구성, 연산 이응, 영업 전략에 기여하여 성공적으로 진행"
+      ],
+      "insight": "ESG 행사는 기술의 도전과 동기화를 위한 일정 계약이 구현되어 2026년에서 파트너들과의 활립적인 상호작용을 통해 IT 밀리드를 지원하기 전반적으로 이를 이루는 것을 의미"
+    },
+    {
+      "title": "“무엇이 어디에 있는지 알아야 보안도 시작”... 다온기술, RiskMap 1.6 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143797&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 10:51:00 +0900",
+      "description": "N2SF·망 분리 전환 시대에 맞춰 백업·복구, 자산 수집 중계 서버, macOS 에이전트 지원[보안뉴스 원병철 기자] 다온기술은 사이버 자산 관리 플랫폼 ‘RiskMap 1.6 버전’을 출시했다고 밝혔다. 이번 업데이트는 단순한 기능 추가가 아니라, 실제 보안 운영 환경에서 반복적으로 제기되는 문제를 반영한 릴리즈다. 특히 장애 발생 시 빠른 복구, 지사",
+      "language": "ko",
+      "summary": "이 기사는 RiskMap 1.6 버전을 시작한다.",
+      "points": [
+        "RiskMap 1 endows administrators with a robust asset management console in macOS environments",
+        "Incorporates features for rapid recovery during incidents, ensuring business continuity and resilience",
+        "Introduces new security issues observed through continuous monitoring of the operational environment"
+      ],
+      "insight": "이러한 기능들은 IT 업무에서 보안을 더욱 강력하게 구현하고, 인자와 발생자를 통해 매일 시스텬의 보호와 조정을 쉽게 제공"
+    },
+    {
+      "title": "“단일 인증 넘어 통합 플랫폼으로” 라온시큐어, 디지털 신뢰 인프라 구축",
+      "link": "http://www.boannews.com/media/view.asp?idx=143794&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 10:13:00 +0900",
+      "description": "블록체인 DID 기술 결합해 신원 확인과 자격 검증 아우르는 전략 추진김창수 본부장 “금융 및 공공 분야 인증 수요 변화에 선제적 대응할 것”[보안뉴스 조재호 기자] 라온시큐어가 공공 마이데이터 기반 비대면 서비스 확산에 맞춰 자사 통합인증 서비스 ‘옴니원 CX’를 앞세워 금융권 디지털 인증 시장 공략에 속도를 내고 있다.라온시큐어는 케이뱅크·BC카드·KB",
+      "language": "ko",
+      "summary": "라온시큐어는 DID 기술을 통합한 비대면 서비스를 제공하여, 금융 및 공공 분야 인증에 대한 대응 전략을 개체화",
+      "points": [
+        "라온시큐어는 '옴니원 CX'로 금융권 디지털 인증 서비스를 공룡한다.",
+        "삽입 전략을 통해 모바일 소품이나 환자 서버로부터 인증 요청을 내주고 신규 사용자에게 받는다.",
+        "맥북의 DID 기술과 함께 블록체인 지원 시스템을 통해 금융 인증 서비스를 전용으로 공급한다."
+      ],
+      "insight": "이러한 대처는 라온시큐어가 금융 업체 인증 서비스에 의존한 기술을 기반으로 개선하고, 공급 앞세를 강화한다."
+    },
+    {
+      "title": "“기술유출의 핵심은 사람” 산업기술보호협회, 맞춤형 보안교육 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=143792&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 10:10:00 +0900",
+      "description": "지난해 기술유출 범죄 82.7%가 내부자 소행... 인적 관리 취약성 대두국가핵심기술 집중교육 및 CSO 양성교육 등 실무 중심 프로그램 운영[보안뉴스 조재호 기자] 고도화되는 산업기술 유출 사고를 막기 위해 시스템 구축을 넘어 기업 내부 인력을 대상으로 한 맞춤형 보안 교육의 중요성이 강조되고 있다.한국산업기술보호협회 산하 산업보안교육원은 기술보호의 핵심",
+      "language": "ko",
+      "summary": "지난해 기술유출 범죄 82. 인적 관리 취약성 대두국가핵심기술 집중교육 및 CSO 양성교육 등 실무 중심 프로그램 운영[보안뉴스 조재호 기자] 고도화되는 산업기술 유출 사고를 막기 위해 시스템 구축을 넘어 기업 내부 인력을 대상으로 한 맞춤형 보안 교육의 중요성이 강조되고 있다...",
+      "points": [
+        "인적 관리 취약성 대두국가핵심기술 집중교육 및 CSO 양성교육 등 실무 중심 프로그램 운영[보안뉴스 조재호 기자] 고도화되는 산업기술 유출 사고를 막기 위해 시스템 구축을 넘어 기...",
+        "한국산업기술보호협회 산하 산업보안교육원은 기술보호의 핵심",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "민관 집단지성으로 해킹 막는다... 美 CISA 실전형 제보 플랫폼 가동",
+      "link": "http://www.boannews.com/media/view.asp?idx=143790&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 09:47:00 +0900",
+      "description": "외부 연구원과 기업 파트너가 직접 제보할 수 있는 새로운 보안 경로 신설AI 동원해 무차별 취약점 찾아내는 해커 공격 속도에 대응한 조치[보안뉴스 김형근 기자] 미국 연방 사이버보안 및 인프라보안국(CISA)이 정부 외부의 민간 보안 연구원과 기업 파트너들이 해킹 취약점을 직접 제보할 수 있는 새로운 보안 경로를 개방했다.이번 조치는 해커들이 실제로 악용",
+      "language": "ko",
+      "summary": "CISA 이 정부와 기업이나 연구자를 위한 민간 보안 플랫폼을 개방",
+      "points": [
+        "- CISA는 해커들이 악용적인 코드의 질환으로 근인 보호를 위한 신설AI 및 AI-기반 공격 속도를 제어",
+        "- 민간이나 연구원들은 내부적이지 않고 CISA의 보안 보호를 위한 신뢰있고 보상을 통합할 수 있다",
+        "- 이러한 조치는 해커들이 공격으로 대체하기 어려울 수 있음"
+      ],
+      "insight": "CISA는 민간 보안 기능을 강화하여 해커가 공격으로 대체할 수 없도록 도전하고, 이를 통해 보안에 중요한 지식이 전문가들과 민간인들에게 얻을 수 있다."
+    },
+    {
+      "title": "시놀로지, 액티브-액티브 NVMe 엔터프라이즈 스토리지 솔루션 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143791&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 26 May 2026 09:31:00 +0900",
+      "description": "듀얼 컨트롤러 아키텍처 기반의 4U 섀시에 48개의 NVMe SSD 베이 탑재최대 7개의 확장 유닛 추가로 최대 1.65PB의 원시 용량 및 2048GB 메모리 확장[보안뉴스 엄호식 기자] 시놀로지(Synology)가 자사 최초의 액티브-액티브 올플래시 NVMe 엔터프라이즈 스토리지 솔루션 ‘PAS7700’의 출시를 발표했다. PAS7700은 고성능과 높은",
+      "language": "ko",
+      "summary": "듀얼 컨트롤러 아키텍처 기반의 4U 섀시에 48개의 NVMe SSD 베이 탑재최대 7개의 확장 유닛 추가로 최대 1. 65PB의 원시 용량 및 2048GB 메모리 확장[보안뉴스 엄호식 기자] 시놀로지(Synology)가 자사 최초의 액티브-액티브 올플래시 NVMe 엔터프라이즈 스토리지 솔루션 ‘PAS7700’의 출시를 발표했다...",
+      "points": [
+        "듀얼 컨트롤러 아키텍처 기반의 4U 섀시에 48개의 NVMe SSD 베이 탑재최대 7개의 확장 유닛 추가로 최대 1",
+        "65PB의 원시 용량 및 2048GB 메모리 확장[보안뉴스 엄호식 기자] 시놀로지(Synology)가 자사 최초의 액티브-액티브 올플래시 NVMe 엔터프라이즈 스토리지 솔루션 ‘P...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "What ClickUp’s mass layoff tells us about the future of work",
       "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
@@ -604,156 +754,6 @@
         "Founder and CEO Ali Khavari said Oura plans on going public with an IPO set next summer"
       ],
       "insight": "This upcoming initial public offering (IPO) indicates significant industry confidence, as well as potential growth opportunities within the wearable technology sector."
-    },
-    {
-      "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
-      "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 22 May 2026 13:48:03 +0000",
-      "description": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month",
-      "language": "en",
-      "summary": "The audio generation application Huxe, which was developed by former NotebookLM employees, announced the end of its service with a shutdown scheduled for this month.",
-      "points": [
-        "Huxe has decided to cease operations later in the current quarter without providing direct reasons within their announcement statement. This decision comes after pulling their application from major app stores such as Apple's App Store and Google Play Store, indicating a significant change or possibly unforeseen issues.",
-        "The company behind Huxe is known for its innovative approach to audio generation technology but has not publicly disclosed the specific reasons leading up to this closure. Their absence from app stores further adds an element of mystery regarding their operational status and financial health.",
-        "While users have expressed disappointment over losing access, with no current alternatives in a prominent marketplace that offers similar services."
-      ],
-      "insight": "Huxe'in shutting down suggests the competitive nature of audio generation apps is high-stakes. Potential startups might face challenges entering and sustaining within this industry without clear differentiation or unique value propositions, as well as understanding customer needs."
-    },
-    {
-      "title": "티디지, 스패로우와 ‘DevSecOps 기반 보안체계 구축’ 계약",
-      "link": "http://www.boannews.com/media/view.asp?idx=143781&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 17:03:00 +0900",
-      "description": "SBOM 기반 공급망 보안 강화... 금융권 등 시장 선점[보안뉴스 원병철 기자] AI 클라우드 전문기업 티디지(사장 이문형)가 애플리케이션 보안 전문기업 스패로우(대표 장일수)와 ‘소프트웨어 공급망 보안 강화’를 위한 계약을 체결했다. 양사는 이번 계약에 따라 소프트웨어 구성요소의 투명성을 확보하고, SBOM(Software Bill of Materia",
-      "language": "ko",
-      "summary": "소프트웨어 공급망이 보안에 대한 중요성과 SBOM을 기반으로 강화하는 계약",
-      "points": [
-        "티디지와 스패로우가 소프트웨어 공급망의 SBOM 기반 보안 전문화를 강화",
-        "이러한 계약은 시장 선점에서 발평을 얻을 수 0ne다.",
-        "이 계약는 공급망의 온도 안전성과 보안 체계를 높일 계획로 제시되어 있다."
-      ],
-      "insight": "이 계약에서 소프트웨어 공급망과 보안체계를 중요적으로 취약한 곳을 개선하기 위해 SBOM을 사용하는 최신 기술적 테마인몬스트임"
-    },
-    {
-      "title": "‘불법 주정차 근절’ 인천 중구, 주행형 단속 CCTV 3대 신규 도입",
-      "link": "http://www.boannews.com/media/view.asp?idx=143779&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 16:40:00 +0900",
-      "description": "단속 업무 효율화, 불필요한 대민 마찰 최소화, 주정차 질서 확립 도모[보안뉴스 강초희 기자] 인천시 중구(구청장 김정헌)는 올해 영종국제도시 지역 불법 주정차 근절을 위해 ‘불법 주정차 단속 주행형 CCTV’ 3대를 신규 도입한다고 22일 밝혔다.이는 불법 주정차 단속 업무의 효율화를 꾀함으로써 교통사고 사전 예방과 차량의 원활한 소통, 주민 불편 해소",
-      "language": "ko",
-      "summary": "인천시 중구는 3대의 신규 CCTV 도착했다.이로써 불법 주정차 근절을 해결하여 교통환경 개선을 위해 진행한다.",
-      "points": [
-        "- 시민이 안전한 이들이며, 교통이 원숯으로 가갈수록",
-        "- 사용자들의 시간을 단축하여 도로에서 소지를 위해서.",
-        "공중적인 신규 CCTV 구성이 기술형행동을 통한 포인트로 받을 수 02/11/2019(화요일)에."
-      ],
-      "insight": "인천시 중구이 업계적으로 신경쓰기 포인트를 보여주는 3대의 자동차와 CCTV 도착은 IT/기술 업계에서 교통안전성과 소화량 증가을 위해 매우 중요한 이벤트이다."
-    },
-    {
-      "title": "구로구, ‘2026년 스마트빌리지 조성사업’ 추진... 구로형 스마트폴 설치",
-      "link": "http://www.boannews.com/media/view.asp?idx=143780&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 16:39:00 +0900",
-      "description": "개봉2·3동 일대 5가지 유형의 구로형 특화 스마트폴 총 36대 설치[보안뉴스 강초희 기자] 서울 구로구(구청장 장인홍)가 올해 ‘스마트빌리지 조성사업’을 통해 개봉2·3동 일대에 구로구만의 특화된 5가지 유형의 ‘구로형 스마트폴’ 36대를 설치한다. ‘스마트빌리지 조성사업’은 스마트 인프라 취약지역에 정보통신기술을 접목한 스마트폴을 설치해 범죄 및 교통사",
-      "language": "ko",
-      "summary": "구로구는 2026년에 개봉2·3동 일대에서 구로형 스마트폴을 설치한다.",
-      "points": [
-        "구로구가 스마트폴을 설치하여 범죄적 지역에서 IT 기술을 강화",
-        "설치는 36대의 구로형 스마트폴 모델을 구현",
-        "각 유형에서 5가지의 다른 스마트폴를 개별적으로 구축하고자 한다."
-      ],
-      "insight": "스마트빌리지 조성사업은 IT 기술의 전용성을 강화하여 교통및 현대 문서보안에 효과적인 기능을 제공한다."
-    },
-    {
-      "title": "“몇 시간 내 공격 코드 풀린다” 드루팔, 모든 버전 긴급 보안 패치 예고",
-      "link": "http://www.boannews.com/media/view.asp?idx=143776&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 16:36:00 +0900",
-      "description": "현지시간 20일 지원 중인 전 버전 대상 코어 보안 업데이트 동시 배포취약점 세부 사항 비공개 “공개 직후 자동화 해킹 도구 유포 위험 높아”[보안뉴스 김형근 기자] 전 세계 수많은 기업과 기관이 웹사이트 구축에 사용하는 핵심 플랫폼 드루팔(Drupal)이 대규모 사이버 공격을 막기 위한 긴급 대응에 나섰다.드루팔 보안팀은 20일(현지시간) 모든 지원 버전",
-      "language": "ko",
-      "summary": "Drupal 20일 모든 지원 버전의 공격코드 풀에 대한 증사.",
-      "points": [
-        "Drupal 보안팀은 긴급 공격 알erme이를 방어하기 위해 모든 지원 버전 대상 드루팔에 대한 서비스가 발생.",
-        "이는 환경 보안 근거를 제시하여 공격자의 자유를 줄일 수 増了.",
-        "Drupal 보안 팀은 전용도로 해결을 위해 이러한 기곡차고에서 대다수의 공격알erme이를 제거하고 사용하지 않도록 툴플랫폼을 개선시켜준다."
-      ],
-      "insight": "Drupal 보안 팁의 창립은 IT/기술 업계에서 공격앨련 집단의 잘못받아지는 경로를 정리하고 해방시키며, 다음 주에도 보안업덤치가 대응을 위해서 계속적으로 개선을 진행하고자 한다."
-    },
-    {
-      "title": "소프트캠프, 금융 보안 플러그인 제거 의무화에 대응하는 RBI 기반 보안 접속 플랫폼 ‘SHIELD Web’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143778&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 16:16:00 +0900",
-      "description": "금융당국 설치형 보안 SW 의무 제거 흐름 속...플러그인 없이도 금융사가 직접 보안 통제정부, 2026년부터 금융권 설치형 보안 SW 단계적 제거 의무화보안 위해 도입한 플러그인이 오히려 공급망 공격 통로로...구조적 전환 불가피“플러그인 제거는 기능 포기 아냐”...보안 통제권을 금융사 클라우드로 이전AI 해킹 시대, 브라우저 노출 코드 자체가 표적..",
-      "language": "ko",
-      "summary": "RBI 금융 보안 SW 의무제한 제거로 인한 'SHIELD Web' 출시 기사",
-      "points": [
-        "중요한 RBI 전문가 진정포인트: 'SHIELD Web' SW 플랫폼이 직접 금융 보안 SW 의무제한 제거 축구에서 기여하였다.",
-        "강화된 'SHIELD Web' SW 은 플랫폼에 인터넷 스마트 로맨스가 제공되는 확보물이 아니라 금융사의 자체적인 SW 보호 시스템을 위한 도임의지로 사용되었다.",
-        "구조적 전환 불가에 대한 문제가 아니라 금융사의 자체 보호 시스템의 성능과 안정성이 증가하고 그다음 AI 해킹 시대에 도착한 매뉴언어와 디자인점을 보충받는 'SHIELD Web' SW 이랑 호겁."
-      ],
-      "insight": "전제로 구조적 전환이 아니라 금융사의 자체 보호 시스템을 이용한 'SHIELD Web' SW 이란 기술 진전이 IT 엔지니어에게 새로운 가능성을 제공하는 결송형한 이상적인 보안 SW 기능의 논현"
-    },
-    {
-      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
-      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 22 May 2026 06:41:28 +0000",
-      "description": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
-      "language": "en",
-      "summary": "Finnish smartphone company HMD has integrated an Indian AI Chatbot called Sarvam into their latest phone models as a strategy to penetrate the local markets in India and surrounding regions.",
-      "points": [
-        "HMD is bundling Indus chatbot with its new device release",
-        "Sarvam supports multiple languages (22) important for diverse marketpries",
-        "This move represents HMD's strategy to adapt technology in multilingual markets"
-      ],
-      "insight": "HMD's incorporation of Sarvam chatbot signifies an industry trend where companies are localizing their tech offerings with AI capabilities for better market penetration and user engagement."
-    },
-    {
-      "title": "팔로알토 “그렘린 스틸러 변종, 암호화된 자원 영역에 C2 숨겨”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143766&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 14:55:00 +0900",
-      "description": "글로벌 보안 장비 감시망 우회한 채 정상 구동 중인 신규 C2 서버 적발문자열 암호화 및 무의미한 루프 삽입으로 자동화 분석 도구 무력화[보안뉴스 김형근 기자] 가상자산 지갑 주소를 무단 변경하는 클립보드 하이재커 기능과 디스코드(Discord) 계정 탈취 모듈을 탑재한 악성코드가 등장했다. 팔로알토 네트웍스가 분석한 그렘린 스틸러(Gremlin Steal",
-      "language": "ko",
-      "summary": "글로벌 보안 장비 감시망 우회한 채 정상 구동 중인 신규 C2 서버 적발문자열 암호화 및 무의미한 루프 삽입으로 자동화 분석 도구 무력화[보안뉴스 김형근 기자] 가상자산 지갑 주소를 무단 변경하는 클립보드 하이재커 기능과 디스코드(Discord) 계정 탈취 모듈을 탑재한 악성코드가 등장했다. 팔로알토 네트웍스가 분석한 그렘린 스틸러(Gremlin Steal",
-      "points": [
-        "팔로알토 네트웍스가 분석한 그렘린 스틸러(Gremlin Steal",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[김정덕의 인간중심보안-6] 감정과 비합리성, 보안의 숨은 힘",
-      "link": "http://www.boannews.com/media/view.asp?idx=143773&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 14:51:00 +0900",
-      "description": "인간의 심리를 보안 설계에 녹여내는 방법[연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. 인간 중심 보안과 제로트러스",
-      "language": "ko",
-      "summary": "이 기사는 AI 시대에서 인간의 심리와 보안의 중요성에 대한 학문적인 통착지를 제공한다.",
-      "points": [
-        "AI 시대가 되어야만 하는 이유: '인간 중심 보안의 중요성'",
-        "인간의 창의성과 AI 보안은 고 Hand in design and human-centered AI security interdependent.",
-        "보안 위반에서의 '뇌 과학 해법'는 활동적인 문제로 불가."
-      ],
-      "insight": "이 기사는 인간의 심리와 AI 보안이 서로 중요하고 결합되어야 할 수도를 강조하고, 뇌 과학 해법은 근본적인 문제에서부터의 답을 존재 X"
-    },
-    {
-      "title": "[카드뉴스] “직진인 줄 알았는데 강물로?”… 민간에 뚫린 ‘위성 교란’ 기술, 일상 인프라 저격",
-      "link": "http://www.boannews.com/media/view.asp?idx=143777&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 22 May 2026 14:29:00 +0900",
-      "description": "과거 전유물이었던 고도의 ‘위성 교란’ 기술이 민간 기술 수준에서 복제 가능해지면서, 배낭 형태의 소형 장비로도 반경 5km 이내의 GPS/GNSS 신호를 완벽히 기만하는 위협이 현실화되었다. 이번 위성 신호 조작 공격은 자율주행 시스템, 드론 배송, 물류 이동 네트워크 등 사회 핵심 위치 기반 인프라를 직접 조준하여 스마트 도시의 물리적 마비와 안전사고를",
-      "language": "ko",
-      "summary": "이 기사는 민간 기술 수준에서 위성 신호 조작 공격이 진정한 위성 교랑을 만들어내고 인피모의 안전성과 물리적 마비를 촉착시키는 일은 강조하지 않음. 다만, 이 기사는 IT/기술 업계에서의 맥락에서 위성 교랑과 GPS 신호를 활용한 공격에 대해 알아보고자 한다.",
-      "points": [
-        "민족 기술 수원으로 위성 교랑",
-        "5km 이내의 GPS/GNSS 신호를 조작해서 인피모 안전성을 위협으로써 직진인 일은 일어나고 상당재산 주택 내의 인피모가 균형이 바뀌면서 기술적 위성 교랑과 공격 방식에 대한 소질여의 미래를 지원하는 인간들에게 약점이 존재함",
-        "위성 교랑과 GPS/GNSS 신호 조작 공격은 IT/기술 업계에서의 심각한 인피모 안전성 위대한 질문이 되어, IT 팀에서는 이러한 공격에 충독하게 대비가 필요해졌을 것임"
-      ],
-      "insight": "위성 교랑은 IT/기술 업계에서 강세에 그리고 영향을 미치도록 한국어로 '우리 모음이 위성 교랑 공격의 물리적인 위기에 대한 마음과 동시에 IT 단지 '위성 교랑은 강세에 빛내어진다'였다.'라는 이야기로 인정할 수 s있지만, 여전히 공격의 영향을 완화시키고자 하더니 '위성 교랑의 공격으로인해서 IT 업계는 물리적인 안전성 문제를 일직적으로 다시 고민해야 한다.'라는 아이딘에 대한 보안절차가 필요하다."
     }
   ]
 }
