@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-05-26T15:28:40.482Z",
+  "generatedAt": "2026-05-26T20:11:16.339Z",
   "articles": [
+    {
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 26 May 2026 18:48:04 +0000",
+      "description": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+      "language": "en",
+      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX",
+      "points": [
+        "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the la...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 26 May 2026 18:33:01 +0000",
+      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "language": "en",
+      "summary": "In just one year since its founding, OpenRouter has experienced more than a doubling of valuation to $1.3 billion with significant user growth and adoption of multi-AI models.",
+      "points": [
+        "OpenRouter's Series B fundraising round raised $113 million led by CapitalG",
+        "The company witnessed over fivefold growth in usage within six months, indicating widespstatic acceptance",
+        "Investment into multi-AI models suggests a shift towards more intelligent network infrastructure"
+      ],
+      "insight": "OpenRouter's success reflects the industry's trend toward AI integration and scalability in networking technologies."
+    },
+    {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 26 May 2026 16:00:00 +0000",
+      "description": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "language": "en",
+      "summary": "Human Archive is a startup using India's gig economy workers for manual labor tasks with the help of cameras and sensors to create data sets required by AI labs.",
+      "points": [
+        "The company was founded by UC Berkeley and Stanford researchers.",
+        "Gig workers in India are paid to use camera-equipped caps and sensor devices for collecting training data.",
+        "This initiative aims to bridge the gap between real world experiences and robot learning."
+      ],
+      "insight": "Human Archive presents an innovative approach towards acquiring diverse, robust datasets necessary in AI/robotics advancement by leveraging India's gig economy workforce. This could significantly expedite development cycles for intelligent systems requiring real-world training data and democratize access to such labor."
+    },
+    {
+      "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+      "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 26 May 2026 15:44:23 +0000",
+      "description": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
+      "language": "en",
+      "summary": "The Dutch government has blocked a proposed acquisition of its leading cloud company by a US firm, asserting the deal poses risks to public interest and national security.",
+      "points": [
+        "Dutch digital ID service is hosted on an EU-based platform amidst European efforts to reduce U.S.-centric technology reliance.",
+        "The Dutch government cited 'risk to the public interest' as a reason for blocking the acquisition by a US company.",
+        "European countries are actively working towards reducing dependency on American tech firms in light of recent events."
+      ],
+      "insight": "This decision reflects growing European concerns over national security and data sovereignery, potentially prompting further actions to protect critical digital infrastructure from foreign control or influence."
+    },
+    {
+      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 26 May 2026 15:27:12 +0000",
+      "description": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
+      "language": "en",
+      "summary": "The article discusses a cybersecurity mystery involving ghost hackers who stole and released the NSA's powerful tools, highlighting its ongoing impact on corporate risk management strategies.",
+      "points": [
+        "Ghost hackers are responsible for stealing and relenergizing some of the world’s most potent digital weaponry",
+        "This cybersecurity mystery continues to influence how companies perceive and manage their IT risks today, despite years elapsing without a solution.",
+        "The article underscores that while significant progress has been made in combating such threats since the initial breach."
+      ],
+      "insight": "While no one group of hackers is responsible for this ongoing cybersecurity mystery, it demonstrates how powerful tools can fall into unaccountable hands and persist as a threat to companies' digital security. The continued relevance in corporate risk management highlights the necessity for persistent vigilance."
+    },
+    {
+      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+      "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 26 May 2026 15:26:27 +0000",
+      "description": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
+      "language": "en",
+      "summary": "Iranian state-sponsored hacker Ababil of Minab is believed to be behind several cyberattacks on various entities during a period associated with heightened geopolitical tensions.",
+      "points": [
+        "Ababil, linked to Iran's government, claimed responsibility for multiple data breaches affecting targets related to the war in Ukraine and beyond since December of an unspecified year.",
+        "The hacker targeted entities including a US city transit system (Los Angeles), financial institutions like Visa Europe, British gas supplier Bulb Energy Ltd., and numerous websites across sectors such as news media and entertainment industry through SQL injection attacks exploiting poor website security measures.",
+        "These breaches highlight the vulnerability of entities to cyberattacks in times of geopolitical conflict and underscore the importance for businesses, especially those operating internationally or with valuable data stores, to prioritize robust cybersecurity practices."
+      ],
+      "insight": "The persistent targeting by Ababil demonstrates how state-sponsored hackers exploit geopolitical situations and raises awarenin of vulnerabilities that can affect various sectors during international conflicts. As the attacks become more sophisticated, it becomes essential for organizations to maintain advanced cybersecurity measures."
+    },
     {
       "title": "Ferrari’s first EV is not for you",
       "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
@@ -661,96 +751,6 @@
       "insight": {
         "text": "The introduction of targeted spyware protection within major tech companies' devices is crucial, as it shows a proactive approach to safeguarding users against escalating threats that increasingly aim for deep system access. These measures could set new standards in the industry and encourage broader adoption of similar features."
       }
-    },
-    {
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
-      "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "language": "en",
-      "summary": "Ferrari is collaborating with IBM to use AI technology in an effort to create more passionate fans for Formula One racing.",
-      "points": [
-        "IBM and Scuderia Ferrari are using advanced artificial intelligence tools provided by the company's supercomputer, Summit Supercluster.",
-        "The collaboration aims to personalize fan experiences through data analytics across various touch points including social media engagement, merchandise sales, website interactions, mobile app usage and race attendance details. This includes understanding their interests using AI analysis of Twitter conversations in real time during races or on-site at the track.",
-        "The goal is to create targeted fan content like exclusive previews based on personal preferences as well as develop a predictive model for merchandise sales and ticket purchases."
-      ],
-      "insight": "This partnership highlights how AI technology can be used by sports teams, not just traditional industries such as healthcare or finance. It represents an innovative strategy that enhances fan engagement through personalized experiences using big data analytics and predictive modeling."
-    },
-    {
-      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
-      "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 23 May 2026 14:50:00 +0000",
-      "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
-      "language": "en",
-      "summary": "Nuclear startup Deep Fission plans to go public with a goal of raising up to $157 million through an IPO, despite some investors expressing skepticism about the company'investment story.",
-      "points": [
-        "Deep Fission is preparing for its second attempt at going public in hopes of securing as much as $157 million",
-        "The startup has faced and continues to face investor doubts regarding its business model, technology, potential revenue streams, growth plan, partnerships with established nuclear firms like Exelon Nuclear or NextEra Energy.",
-        "CEO David Sweerex expressed determination despite challenges but acknowledged the difficulty in convincing risk-averse investors to bet on a nascent technology."
-      ],
-      "insight": "Deep Fission's struggle with securing funding highlights broader skepticism within the nuclear sector about adopting new technologies and emphasizes the critical need for established industry backing in pioneering energy solutions. Their IPO experience underscores the importance of transparency, clear business models, viable revenue streams, strong growth plans, and strategic partnerships when venturing into alternative energy sectors."
-    },
-    {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 23 May 2026 13:00:00 +0000",
-      "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-      "language": "en",
-      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised",
-      "points": [
-        "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers",
-        "What happened to the \"solar-electric economy\" he promised",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "사이버 위협에 지갑 여는 중소기업... 하지만 여전히 사후 대응에 머물러",
-      "link": "http://www.boannews.com/media/view.asp?idx=143785&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 23 May 2026 16:37:00 +0900",
-      "description": "경영 과제 순위에서 ‘데이터 보호’와 ‘사이버 보안’을 기업 성장 바로 다음 순위로 올라[보안뉴스 김형근 기자] 8개국 2200개 중소기업(SMB)의 60%가 향후 12개월 동안 사이버 보안 지출을 전격 확대할 계획이라고 글로벌 시장조사기관 IDC가 설문조사 결과를 인용해 발표했다. 다만, 이번 조사 결과에 따르면 많은 중소기업이 예산 증액 조치에도 불구",
-      "language": "ko",
-      "summary": "경영 과제 순위에서 ‘데이터 보호’와 ‘사이버 보안’을 기업 성장 바로 다음 순위로 올라[보안뉴스 김형근 기자] 8개국 2200개 중소기업(SMB)의 60%가 향후 12개월 동안 사이버 보안 지출을 전격 확대할 계획이라고 글로벌 시장조사기관 IDC가 설문조사 결과를 인용해 발표했다. 다만, 이번 조사 결과에 따르면 많은 중소기업이 예산 증액 조치에도 불구",
-      "points": [
-        "다만, 이번 조사 결과에 따르면 많은 중소기업이 예산 증액 조치에도 불구",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
-      "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 23 May 2026 07:01:00 +0000",
-      "description": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
-      "language": "en",
-      "summary": "Startup Peec has seen its annualized revenue surge to over $1 end with the help of artificial intelligence for brand tracking.",
-      "points": [
-        "Peec specializes in helping brands monitor their presence and impact during AI-based searches, indicating a growing market demand.",
-        "The startup's remarkable growth demonstrates that investing in innovative tech solutions can lead to significant business expansion within the European startup ecosystem.",
-        "Despite its relatively small size compared to global giants like Google and Microsoft B.V., Peec proves that local startups have a competitive edge when specializing niche areas."
-      ],
-      "insight": "Peec's success story highlights the potential for smaller European tech companies by focusing on unique services in growing sectors such as AI, and serves to inspire investment into similar innovative ventures across Europe."
-    },
-    {
-      "title": "다크웹 브로커들의 악질적인 개인정보 ‘재포장 사기’ 기승",
-      "link": "http://www.boannews.com/media/view.asp?idx=143784&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 23 May 2026 09:11:00 +0900",
-      "description": "낡은 유출 데이터 가져와 최신 기업 기밀로 위장[보안뉴스 김형근 기자] 최근 다크웹 포럼과 텔레그램 채널을 중심으로 과거 유출 데이터를 최신 기밀로 위장해 판매하는 사기 수법이 급증한 것으로 조사됐다. 싱가포르에 본사를 둔 글로벌 보안 기업 그룹아이비(Group-IB)는 자체 조사 결과 이번 가짜 데이터 폭로 공습을 주도하는 세력은 주로 중국어권 사이버",
-      "language": "ko",
-      "summary": "위장은 Group-IB에서 급변화되는 인터뷰기 사기적인 개인정보 재포장 사기를 실업에서 연구한다.",
-      "points": [
-        "인터뷰기 사기 사전에서 최신 급증이 일어나고 있는",
-        "국제 중요한 그룹인 Group-IB이 수법 연구를 통해 발결한 이러한 사기적인 개인정보 재포장 사고를 확인",
-        "중국어권 사이버의 주로 연도대로 본 것을 알려준다."
-      ],
-      "insight": "그룹-IB이 인터뷰기 사기 심화 방식에 대해서는 공시적인 정보가 필요한 것은 아니지만, 이러한 사기적 경로에서 인터뷰기가 자신의 개인정보를 재포장하는 경향성과 이론적인 지침을 고곤 시도해야 한다."
     }
   ]
 }
