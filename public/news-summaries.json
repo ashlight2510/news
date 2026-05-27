@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-05-27T15:49:17.012Z",
+  "generatedAt": "2026-05-27T20:19:46.092Z",
   "articles": [
+    {
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 20:10:00 +0000",
+      "description": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "language": "en",
+      "summary": "Amazon's cloud services provider Snowflake has signed a $6 billion deal with Amazon Web Services (AWS) to secure chips for AI usage.",
+      "points": [
+        "Snowflake, an SaaS data warehousing company used by big tech firms like Netflix and Twitter have partnered on the chip frontier",
+        "The partnership will deliver custom-made chips for Amazon'selig AI computing services at AWS with a $6 billion deal over five years.",
+        "Chief rival Nvidia is being put to notice again"
+      ],
+      "insight": "This new agreement signifies an important strategic shift in the cloud and data warehousing industry, potentially affecting other competitors like Nvidia."
+    },
+    {
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 19:39:45 +0000",
+      "description": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "language": "en",
+      "summary": "Remote Payroll Service increased its annual recurring revenue by more than half due to the integration of artificial intelligence technologies without expanding headcount.",
+      "points": [
+        "Remote's AI technology enabled a significant growth in revenue per employee, leading to cash-flow positivity and exceeding $30 end goals",
+        "Despite rapid industry expansion requiring more staff, Remote managed its growth by improving efficiency through automation.",
+        "The company now has 45 employees with minimal headcount increase while maintaining high product quality."
+      ],
+      "insight": "Remote Payroll's successful implementation of AI in the payroll industry demonstrates how technology can enhance operational efficiency and drive growth without proportional increases in staff, potentially influencing broader adoption within the sector. The company serves as an example for similar businesses that prioritize technological investment to improve performance."
+    },
+    {
+      "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+      "link": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 18:25:00 +0000",
+      "description": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
+      "language": "en",
+      "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U. visa application process...",
+      "points": [
+        "The third-party website exposed passports, selfies, and the location data of applicants who submitte...",
+        "visa application process",
+        "Instead of fixing the issue, the website sent attorneys"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 18:00:00 +0000",
+      "description": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "language": "en",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+      "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 17:54:28 +0000",
+      "description": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
+      "language": "en",
+      "summary": "Princeton's Thea Energy has raised $100 million with the goal of developing a commercially viable fusion power plant projected to be operational by 2034.",
+      "points": [
+        "Thea Energy, backed by Princeton University and led by CEO Robert Rosner and Professor MIT's Kun-Foy Chen with funding from Breakthrough Energy Coalition among others, raised $100 million in a private equity round.",
+        "Plans for the fusion power plant will use Thea’s proprietary magnet technology inspired by pixels to achieve high temperature densities required for sustaining nuclear reactions while controlling safety parameters like heat and pressure levels during operation. This design has already been successfully tested at facilities operated by Los Alamos National Laboratory.",
+        "The projected cost of the fusion power plant is approximately $25 per megawatt-hour, making it competitive with current costs for non-renewable energy sources."
+      ],
+      "insight": "This funding and technological advancement represents a significant step towards commercializing nuclear fusion as an alternative to fossil fuels. If successful, Thea Energy's project could help pave the way for more sustainable power generation worldwide."
+    },
+    {
+      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 16:59:19 +0000",
+      "description": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
+      "language": "en",
+      "summary": "CrowdStrike and Google have successfully disrupted a botnet known as Glassworm used by cybercriminals to target open source software developers in supply chain attacks.",
+      "points": [
+        "The article reports on the use of a specific type of malware called Glassworm, which infected several projects within the Linux and Windows operating systems",
+        "CrowdStrike revealed that these cybercriminals used sophisticated techniques to target developers directly with social engineering tactics like phishing emails.",
+        "Infected code in a repository is shared among users without detection, leading to widespread distribution of malware and compromising the security integrity within open source projects."
+      ],
+      "insight": "This incident highlights how interconnected software development ecosystems can be exploited through social engineering and direct targeting. It underscores a need for improved education on cybersecurity practices among developers in addition to robust monitoring systems that detect malicious code sharing."
+    },
+    {
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 16:00:00 +0000",
+      "description": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "language": "en",
+      "summary": "AI startup Cognition has raised a substantial $1 billion funding at an impressive pre-money valuation of $25 billion due to its rapid revenue growth.",
+      "points": [
+        "Cognition' enduring customer base and the acquisition strategies have boosted their annualized revenues significantly in eight months, leading them towards a high valuation with an aggressive fundraising strategy of raising $1 billion before generating profit",
+        "Their success has made Cognition one of Silicon Valley's most valuable AI startups despite being relatively unknown and without having turned profitable yet.",
+        "Cognition focuses on automating the code generation process, allowing developers to easily create complex systems that would otherwise be challenging or time-consumclnt."
+      ],
+      "insight": "The success of Cognition in rapidly scaling up its value with substantial fundraising at a pre-money valuation point indicates significant investor confidence in AI's role to transform software development processes. The company’s strategy and growth model could set new benchmarks for other startups operating within the IT/technology industry."
+    },
     {
       "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
       "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
@@ -95,6 +200,21 @@
       "insight": "TechCrunch Disrupt's ability to offer significant price reductions for early registrations indicates its importance as a major event in attracting tech industry professionals."
     },
     {
+      "title": "Google just broke SEO. Here’s what replaces it.",
+      "link": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 14:00:00 +0000",
+      "description": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way. On this episode of TechCrunch’s Equity podcast, Rebecca […]",
+      "language": "en",
+      "summary": "Google I/O revealed that AI-generated answers are now a key component in search results and significantly impact SEO strategies for brands.",
+      "points": [
+        "AI's role is becoming increasingly dominant on Google, affecting brand visibility substantially",
+        "Brands face near obscurity as most have limited insight into AI’ endorsements of their products or services",
+        "The SEO landscape has undergone a significant shift with the introduction and focus on understanding machine-generated content"
+      ],
+      "insight": "This development calls for brands to adapt quickly, focusing less on traditional SEO techniques like backlink acquisition and more on optimizing user experience as AI becomes prevalent in search results."
+    },
+    {
       "title": "China is increasingly keeping its best AI talent to itself",
       "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
       "source": "TechCrunch",
@@ -123,6 +243,21 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 27 May 2026 13:04:20 +0000",
+      "description": "The database provider is eyeing a public debut within the next few years.",
+      "language": "en",
+      "summary": "ClickHouse has significantly increased its revenue in recent years and plans to go public soon.",
+      "points": [
+        "Annualized revenue of ClickHouse tripled from $75 million (2016) to approximately $250 million by the end of fiscal year 2 end-of September",
+        "The company's stock is already traded on Hong Kong Stock Exchange under ticker symbol 'CLK', attracting over a thousand investors since its initial public offering in April",
+        "ClickHouse plans to file for an IPO by the next few years"
+      ],
+      "insight": "The success of ClickHouse's fundraising and potential entry into stock markets could signify increasing confidence within the IT/technology industry towards database providers, possibly encouraging similar strategies among competitors."
     },
     {
       "title": "YouTube will now automatically label AI videos",
@@ -618,140 +753,6 @@
         "This initiative aims to bridge the gap between real world experiences and robot learning."
       ],
       "insight": "Human Archive presents an innovative approach towards acquiring diverse, robust datasets necessary in AI/robotics advancement by leveraging India's gig economy workforce. This could significantly expedite development cycles for intelligent systems requiring real-world training data and democratize access to such labor."
-    },
-    {
-      "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
-      "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 15:44:23 +0000",
-      "description": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
-      "language": "en",
-      "summary": "The Dutch government has blocked a proposed acquisition of its leading cloud company by a US firm, asserting the deal poses risks to public interest and national security.",
-      "points": [
-        "Dutch digital ID service is hosted on an EU-based platform amidst European efforts to reduce U.S.-centric technology reliance.",
-        "The Dutch government cited 'risk to the public interest' as a reason for blocking the acquisition by a US company.",
-        "European countries are actively working towards reducing dependency on American tech firms in light of recent events."
-      ],
-      "insight": "This decision reflects growing European concerns over national security and data sovereignery, potentially prompting further actions to protect critical digital infrastructure from foreign control or influence."
-    },
-    {
-      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
-      "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 15:27:12 +0000",
-      "description": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
-      "language": "en",
-      "summary": "The article discusses a cybersecurity mystery involving ghost hackers who stole and released the NSA's powerful tools, highlighting its ongoing impact on corporate risk management strategies.",
-      "points": [
-        "Ghost hackers are responsible for stealing and relenergizing some of the world’s most potent digital weaponry",
-        "This cybersecurity mystery continues to influence how companies perceive and manage their IT risks today, despite years elapsing without a solution.",
-        "The article underscores that while significant progress has been made in combating such threats since the initial breach."
-      ],
-      "insight": "While no one group of hackers is responsible for this ongoing cybersecurity mystery, it demonstrates how powerful tools can fall into unaccountable hands and persist as a threat to companies' digital security. The continued relevance in corporate risk management highlights the necessity for persistent vigilance."
-    },
-    {
-      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
-      "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 15:26:27 +0000",
-      "description": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
-      "language": "en",
-      "summary": "Iranian state-sponsored hacker Ababil of Minab is believed to be behind several cyberattacks on various entities during a period associated with heightened geopolitical tensions.",
-      "points": [
-        "Ababil, linked to Iran's government, claimed responsibility for multiple data breaches affecting targets related to the war in Ukraine and beyond since December of an unspecified year.",
-        "The hacker targeted entities including a US city transit system (Los Angeles), financial institutions like Visa Europe, British gas supplier Bulb Energy Ltd., and numerous websites across sectors such as news media and entertainment industry through SQL injection attacks exploiting poor website security measures.",
-        "These breaches highlight the vulnerability of entities to cyberattacks in times of geopolitical conflict and underscore the importance for businesses, especially those operating internationally or with valuable data stores, to prioritize robust cybersecurity practices."
-      ],
-      "insight": "The persistent targeting by Ababil demonstrates how state-sponsored hackers exploit geopolitical situations and raises awarenin of vulnerabilities that can affect various sectors during international conflicts. As the attacks become more sophisticated, it becomes essential for organizations to maintain advanced cybersecurity measures."
-    },
-    {
-      "title": "Ferrari’s first EV is not for you",
-      "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 15:16:34 +0000",
-      "description": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
-      "language": "en",
-      "summary": "Ferrari is relealleasing its first electric vehicle (EV), Ferrari Luce, which appears to prioritize meeting regulatory standards and appealing to the Chinese market.",
-      "points": [
-        "The Ferrari Luce EV release follows a year of delays due to design changes necessary for battery compliance with EU laws set in July. The car will be equipped with four electric motors generating up to 1,800 horsepower and produce zero tailpipe emissions.",
-        "While the vehicle is expected to cost between $365,000 and over a million dollars depending on options chosen by buyers, Ferrari has not specified an MSRP in its official website or press releases. The company plans for Luce owners to pay less than 1% of their car's value towards battery replacement costs.",
-        "Despite the focus being more regulatory-driven and aimed at China as opposed to direct consumer interest, Ferrari is not banking on selling a significant number due to these factors. Instead, they are exploring options like leasing for potential customers in wealthy countries."
-      ],
-      "insight": "The release of the Luce EV highlights how traditional luxury automakers are pivoting towards sustainable practices and regulatory compliance rather than solely relying on consumer interest, potentially influencing future strategies within the industry. This shift could also signify a broader trend wherein these brands might explore alternative income streams or market segments to maintain their status in an evolving automotive landscape."
-    },
-    {
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 14:55:05 +0000",
-      "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
-      "language": "en",
-      "summary": "Universal Music Group (UMG) has renewed its agreement with TikTok to combat unautbanished music usage by AI on the platform.",
-      "points": [
-        "Universal Music Group and TikTok have agreed upon measures for preventing non-authorized artificial intelligence from using Universal's songs without permission.",
-        "This agreement signifies UMG's broader campaign to enforce strict content moderation policies across various media platforms, including streaming services.",
-        "The partnership highlighted by the article underscores an industry-wide concern about intellectual property rights and unauthorized use of copyrighted music."
-      ],
-      "insight": "This news illustrates a growing collaboration within the entertainment industry to safeguard against misuse of AI technology in media, which could set precedents for future agreements between similar entities addressing other forms of intellectual property rights protection. It reflects how major companies are increasingly aware and proactive about these emerging challenges."
-    },
-    {
-      "title": "Spotify now lets you stream narrated magazine articles, too",
-      "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 14:38:05 +0000",
-      "description": "Spotify is adding narrated magazine articles to its app as it expands beyond music into audiobooks, podcasts, AI audio, and more.",
-      "language": "en",
-      "summary": "Spotify has diversified its content offerings by including narrated magazine articles in addition to expanding existing categories like music streaming into areas such as audiobooks, podcasts, and AI-generated audio.",
-      "points": [
-        "Narrated magazine articles have been added to Spotify'ty app beyond just music",
-        "The company has expanded its offerings by including narrations in magazines like 'Vogue', 'Wired', among others"
-      ],
-      "insight": "With this move, the technology and media industry is witnessing a blending of traditional print reading with modern audio consumption. This could potentially change how people consume written content."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-      "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 14:00:00 +0000",
-      "description": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
-      "language": "en",
-      "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p. Register here to join the tech epicenter in San Francisco",
-      "points": [
-        "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p",
-        "Register here to join the tech epicenter in San Francisco",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "7-Eleven data breach affects over 185,000 people’s personal data",
-      "link": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 13:04:56 +0000",
-      "description": "The data breach included names, dates-of-birth, postal addresses, and Social Security numbers, according to a state government listing.",
-      "language": "en",
-      "summary": "Over 185,000 individuals' personal data was compromised in the recent data breach at 7-Eleven.",
-      "points": [
-        "The affected data includes names, dates of birth, postal addresses and Social Security numbers",
-        "This is one of the largest known retail store breaches to date with over half a million records believed exposed in total",
-        "No actionable information was found on credit or debit card transactions within the stolen dataset"
-      ],
-      "insight": "The data breach serves as a stark reminder for businesses of all sizes, especially retail stores like convenience shops, to prioritize robust cybersecurity measures and regularly review their security protocols."
-    },
-    {
-      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
-      "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 26 May 2026 12:00:00 +0000",
-      "description": "Stord was founded in 2015 by then-college students CEO Sean Henry and CTO Jacob Boudreau while they were still at Georgia Tech.",
-      "language": "en",
-      "summary": "Startup Stord raised $250 million in funding valuating the company as a billion-dollar entity. The investment will accelerate its expansion plans to compete directly with Amazon's fulfillment services.",
-      "points": [
-        "Stord, founded by former Georgia Tech students CEO Sean Henry and CTO Jacob Boudreau in 2dey5",
-        "$250 million funding secured for Stord to enhance IT infrastructure and scale operations as it competes with Amazon FBA.",
-        "Investment reflects strong confidence from backers like Insight Partners, signaling a shake-up expected in the logistics sector."
-      ],
-      "insight": "Stord's massive fund raise indicates growing competition for fulfillment services within e-commerce and could lead to significant industry innovations as companies vie to offer better pricing and delivery options. This investment also underscores a shift towards more sophisticated IT solutions in logistics, potentially transforming the way online retailers manage inventory and customer interactions."
     }
   ]
 }
