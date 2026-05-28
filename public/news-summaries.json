@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-05-28T10:28:40.817Z",
+  "generatedAt": "2026-05-28T15:59:37.976Z",
   "articles": [
+    {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 15:36:00 +0000",
+      "description": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "language": "en",
+      "summary": "Elon Musk has publicly described Anthropic's compute deal with SpaceX as short and cancellable despite the company'in S-1 document stating otherwise until May 2029.",
+      "points": [
+        "Anthropi, a generative AI startup working on 'Philosophical Conversation,' has entered into an agreement to lease compute time from SpaceX for xAI (extreme artificial intelligence).",
+        "Elon Musk is claiming that Anthropi's deal with SpaceX is short-term and cancellable, which contradicts the S-1 document filed by his company.",
+        "The disagreement over lease terms highlights differing opinions between Elon Musk’s personal stance and official documentation regarding Anthropic’s commitment."
+      ],
+      "insight": "This development reflects a broader uncertainty in the IT/technology industry about long-term partnerships, especially with companies like SpaceX that have conflicting public statements from their leadership."
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 15:35:43 +0000",
+      "description": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      "language": "en",
+      "summary": "Sesame's new iOS app introduces conversational AI agents that provide natural back-and-forth interactions resembling human conversation rather than traditional chatbots.",
+      "points": [
+        "The Sesame team developed a more personalized and interactive form of artificial intelligence for its iPhone application.",
+        "Designed to mimic human interaction, the app represents an advancement in AI conversational technology targeting public usage on iOS devices.",
+        "Sesame's approach could disrupt current expectations about user-AI interactions."
+      ],
+      "insight": "The launch of Sesame's personalized AI agent for mobile has the potential to redefine social interaction within the digital space, pushing traditional chatbot technology further into obsolescence and ushering in a new era where conversational agents are commonplace on smartphones."
+    },
+    {
+      "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
+      "link": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 15:34:10 +0000",
+      "description": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+      "language": "en",
+      "summary": "Slate Auto, an electric vehicle (EV) startup backed by Jeff Bezos, will begin accepting orders for its affordable EV starting on June 24th with deliveries expected later this year.",
+      "points": [
+        "Jeff Bezos's investment propels Slate Auto to start taking car buyer pre-orders",
+        "Affordable pricing and a self-driving feature distinguish the upcoming EV prototype",
+        "Delivery timeline for this first batch of cars is expected by year end"
+      ],
+      "insight": "Slate Auto' extramural funding provides confidence in its ability to produce affordable, autonomous vehicles that could disrupt traditional automotner industry norms."
+    },
+    {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:45:13 +0000",
+      "description": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "language": "en",
+      "summary": "Apple is set to introduce significant changes with the release of iOS 27 in an effort to compete directly with AI tools like ChatGPT by overhauling Siri and introducing a standalone Siri app.",
+      "points": [
+        "New renders showcase redesigned, more capable version of Apple'selfsiri service within iOS 27 update.",
+        "Standalone Siri App being developed to function independently from iPhone hardware allowing for greater AI capabilities and personalization options compared to built-in Assistant functionality. ",
+        "Apple plans further integration with MacOS, HomePod mini, iPad, Apple Watch Series 8 & upcoming AirPods Pro models."
+      ],
+      "insight": "The unveiling of a standalone Siri app represents Apple's strategic effort to directly compete in the rapidly evolving AI assistant marketplace by enhancing capabilities and expanding platform integration. This move could significantly impact how users interact with technology across various devices, potentially increasing user dependence on mobile platforms for seamless digital experiences."
+    },
+    {
+      "title": "Rivian under investigation over rear suspension failures on R1 models",
+      "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:41:56 +0000",
+      "description": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.",
+      "language": "en",
+      "summary": "Rivian is investigating reports of rear suspension failures in R1 models which led to loss of control by at least two owners after recent services.",
+      "points": [
+        "Critical Rivian R1 model component failure leading to vehicle instability",
+        "Previously serviced vehicles involved, raising service quality concerns",
+        "Potential implications for Rivian' extraterrestrial ambitions and investments"
+      ],
+      "insight": "These suspension issues could potentially damage consumer trust in electric vehicle safety among new buyers of Tesla-rivaling vehicles."
+    },
+    {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:30:17 +0000",
+      "description": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "language": "en",
+      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive",
+      "points": [
+        "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:30:00 +0000",
+      "description": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "language": "en",
+      "summary": "At TechCrunch Disrupt 2devo's co-founder speaks on the challenges enterprises face when adopting AI.",
+      "points": [
+        "Enterprise AI is entering a different phase",
+        "Companies are evaluating whether it’s safe to deploy broadly",
+        "Trust issues in technology adoption"
+      ],
+      "insight": "The news signifies enterprises' growing concerns about the security and practicality of AI, which could shape future investments and development priorities."
+    },
+    {
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:28:47 +0000",
+      "description": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "language": "en",
+      "summary": "YouTube has rolled out new features specifically designed to enhance the user experience and increase engagement within its vast array of content including audio programs such as podcasts. Notable additions include an AI-based recommendation tool for discovering similar shows, a 'Auto speed' feature that allows users to listen at their preferred pace without disrupting playback flow, and improved accessibility options.",
+      "points": [
+        "YouTube introduces Podcast Studio with new features aimed at increasing engagement",
+        "Adds AI-powered recommendation tool for discovering similar podcast shows",
+        "Introduces 'Auto speed' feature that allows users to listen in real time or playback as slow down without disrupting flow"
+      ],
+      "insight": "The introduction of these new features not only enhances the user experience but also marks YouTube’s strategic attempt to compete with other platforms like Spotify and Apple Podcast, potentially leading to a significant increase in podcast consumption on YouTube."
+    },
+    {
+      "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
+      "link": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:15:00 +0000",
+      "description": "After overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. Nominate a standout startup or apply yours today.",
+      "language": "en",
+      "summary": "TechCrunch has responded to an overwhelming interest in Startup Battlefield by extending the application deadline from May 29 to June 8.",
+      "points": [
+        "The original deadline for submitting applications was on May 29, which quickly became too restrictive due to high demand.",
+        "TechCrunch extended this deadline to allow more time for founders worldwide to submit their nominations or apply themselves by the new date of June 8.",
+        "The extension is expected to accommodate a greater number of applicants, acknowledging that many aspiring startups may have missed the initial cutoff."
+      ],
+      "insight": "This news illustrates an increased interest in global startup ecosystems and highlights TechCrunch's role as a key platform for recognizing emerging businesses. By extending deadlines, it suggests that the community is more vibrant than previously thought."
+    },
+    {
+      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:00:00 +0000",
+      "description": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+      "language": "en",
+      "summary": "Attendees of TechCrunch Disrupt can save up to $410 if they register by May 29. The event will gather around 10,000 technology leaders for October's dates.",
+      "points": [
+        "Registration deadline ends tomorrow with savings available",
+        "TechCrunch Disrupt brings together thousands of tech professionals in San Francisco",
+        "Significant ticket discount still valid"
+      ],
+      "insight": "The ongoing TechCrunch Disrupt event underscores the importance of networking and industry-wide engagement among technology leaders, which could influence future innovations."
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 14:00:00 +0000",
+      "description": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "language": "en",
+      "summary": "Over a thousand Visa employees are utilizing Replit'static platform to prototype and develop various applications.",
+      "points": [
+        "Visa invests in the cloud-based coding environment called 'Replit'.",
+        "More than 1,000 of Visa’s own staff members have begun using it for creating prototypes.",
+        "The platform is being used to build applications that will enable developers and merchants worldwide."
+      ],
+      "insight": "This news highlights the growing collaboration between finance companies like Visa and technology platforms such as Replit, aimed at empowering global development efforts in a rapidly evolving digital economy."
+    },
+    {
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 13:00:00 +0000",
+      "description": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "language": "en",
+      "summary": "SambaNova Semiconductor has announced plans for a new AI-focused CPU architecture named 'Orion', potentially positioning it as the next big breakout chipmaker in the competitive field of artificial intelligence computing.",
+      "points": [
+        "SambaNova, an emerging AI compute company, is developing its Orion chip with a focus on deep learning workloads and efficient matrix multiplication to accelerate large-scale neural network training tasks within data centers.",
+        "The new design includes specialized hardware components such as tensor cores that are optimized for running convolutional operations critical in image processing applications like facial recognition, which is increasingly relevant with the expanding demand of AI services.",
+        "SambaNova' extranet platform will enable customers to access Orion technology through a cloud service model while maintaining control over their data and customizing algorithms tailored for specific use cases."
+      ],
+      "insight": "This development signifies an ongoing trend in the AI industry towards creating more specialized hardware that can efficiently handle complex neural network calculations, which is crucial as businesses increasingly rely on deep learning models. SambaNova's approach may set a precedent for how chipmakers are designed to cater specifically to this growing sector."
+    },
+    {
+      "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+      "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000",
+      "description": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
+      "language": "en",
+      "summary": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more",
+      "points": [
+        "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "2026년 6월 물리·정보보안 기업 어떤 인재 찾고 있나",
       "link": "http://www.boannews.com/media/view.asp?idx=143860&kind=&sub_kind=",
@@ -558,201 +753,6 @@
         "The Chinese government recognizes the need to support its tech sector in becoming a world-leading industry by heavily subsidizing R&D and promoting self-reliant development strategies, despite concerns about potential innovation stagnation."
       ],
       "insight": "China's strategy of retaining top AI talent could solidify its position as an international leader in the field but might also raise questions regarding global collaboration dynamics within technology advancements."
-    },
-    {
-      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
-      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 27 May 2026 13:04:20 +0000",
-      "description": "The database provider is eyeing a public debut within the next few years.",
-      "language": "en",
-      "summary": "The database provider is eyeing a public debut within the next few years",
-      "points": [
-        "The database provider is eyeing a public debut within the next few years",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 27 May 2026 13:04:20 +0000",
-      "description": "The database provider is eyeing a public debut within the next few years.",
-      "language": "en",
-      "summary": "ClickHouse has significantly increased its revenue in recent years and plans to go public soon.",
-      "points": [
-        "Annualized revenue of ClickHouse tripled from $75 million (2016) to approximately $250 million by the end of fiscal year 2 end-of September",
-        "The company's stock is already traded on Hong Kong Stock Exchange under ticker symbol 'CLK', attracting over a thousand investors since its initial public offering in April",
-        "ClickHouse plans to file for an IPO by the next few years"
-      ],
-      "insight": "The success of ClickHouse's fundraising and potential entry into stock markets could signify increasing confidence within the IT/technology industry towards database providers, possibly encouraging similar strategies among competitors."
-    },
-    {
-      "title": "YouTube will now automatically label AI videos",
-      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 27 May 2026 13:00:00 +0000",
-      "description": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-      "language": "en",
-      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent",
-      "points": [
-        "It's also making AI labels more prominent",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 27 May 2026 12:30:00 +0000",
-      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "language": "en",
-      "summary": "Tech industry leaders seem overly optimistic about AI's capabilities for boosting workplace efficiency and believe it can replace more jobs than existing evidence suggests.",
-      "points": [
-        "AI psychosis may be leading tech CEOs to exaggerate the potential productivity gains of artificial intelligence in their companies.",
-        "Despite widespread belief, AI might not significantly increase efficiency or reduce job roles as predicted by some industry leaders and experts.",
-        "Tech executives' faith could skew resource allocation towards overinvestment in technology that doesn’t necessarily yield expected returns."
-      ],
-      "insight": "The potential bias of AI psychosis among tech CEOs can influence strategic decisions, leading to misguided investments and a possible disconnect between their perceptions and the actual impacts on workforce requirements and efficiency gains within the industry."
-    },
-    {
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 27 May 2026 12:30:00 +0000",
-      "description": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-      "language": "en",
-      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-      "points": [
-        "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trad...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "베이스스톤 ‘Quardian’, 미토스 시대 N2SF 100여 건 대응",
-      "link": "http://www.boannews.com/media/view.asp?idx=143843&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 18:08:00 +0900",
-      "description": "양자 엔트로피 + FIDO2 결합 Zero Trust 풀스택 지원EYL QRNG 엔트로피→자체 특허 변환 IP→일회용 동적 양자키→Auth·Trust·SSO·KMS 풀스택NIST SP 800-90B 충족, Forward Secrecy 지원, PQC 터널링으로 HNDL 사전 대응[보안뉴스 원병철 기자] 양자 보안 전문기업 베이스스톤(대표 박유신)이 미토스로",
-      "language": "ko",
-      "summary": "미포인트시대 NIST SP 800-90B 기원에 따름이면 'Zero Trust' 개선을 위해 자체 특허 변환과 PQC를 소 contributions",
-      "points": [
-        "- 베이스스톤이 'Quardian' 기업이 'Zero Trust' 모델을 지원하고 있음을 인증한다.",
-        "- NIST SP 800-90B 기원에서 충족했다는 사건이 없으며, 'Zero Trust' 개선을 위해 자체 특허 변환과 PQC를 소 contributions하여 기업이 잘 대응했다는 것을 나타낸다.",
-        "- Auth·Trust·SSO·KMS 구성에 FIDO2 관련의 'Zero Trust' 개선이 추가되었다."
-      ],
-      "insight": "이 기사는 'Zero Trust' 개선을 위해 NIST SP 80 endorsed Auth·Trust·SSO·KMS framework를 지원하고, FIDO2를 통한 컴퓨터에서 자신이라는 것을 인식하여 PQC의 기술적인 편의성과 보안젼리를 강조합니다."
-    },
-    {
-      "title": "[인사] 개인정보보호위원회",
-      "link": "http://www.boannews.com/media/view.asp?idx=143841&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 17:38:00 +0900",
-      "description": "◇부이사관 승진△혁신기획담당관 정혜원△조사2과장 이정은(2026년 5월 27일자)[원병철 기자(boanone@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "◇부이사관 승진△혁신기획담당관 정혜원△조사2과장 이정은(2026년 5월 27일자)[원병철 기자(boanone@boannews. com)]<저작권자: 보안뉴스(www...",
-      "points": [
-        "◇부이사관 승진△혁신기획담당관 정혜원△조사2과장 이정은(2026년 5월 27일자)[원병철 기자(boanone@boannews",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
-      "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 27 May 2026 08:00:00 +0000",
-      "description": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with Austin. The new investment reflects a […]",
-      "language": "en",
-      "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U...",
-      "points": [
-        "The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoa...",
-        ", beginning with Austin",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "KISIA, 정보보호 기업 해외 진출 지원사업 안내... 협의체 운영 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143839&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 16:24:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)가 정보보호 기업의 해외 진출을 위한 정부 지원사업을 안내하고, 애로사항 해소를 위한 협의체 운영을 본격화했다. KISIA는 27일 서울 송파구 IT벤처타워 세미나실에서 ‘2026 정보보호 해외진출 협의체 및 해외진출 지원사업 설명회’를 개최했다.이번 설명회는 국내 정보보호 기업들의 해외",
-      "language": "ko",
-      "summary": "KISIA 회장이 한국정보보호 기업의 해외진출을 지원사업과 협의체를 본격화하는 방안을 제시한다.",
-      "points": [
-        "- KISIA 회장이 IT/기술 산업에 고도로 위치를 보였다",
-        "- 해외 정보보호 기업들의 세미나에서 협의체 구성과 지원사업 모델을 개시한다.",
-        "- KISIA 회장이 IT/기술 산업에 대한 정보보호 지원을 제공함으로서, 국내 정보보호 기업들의 해외진출 모델을 개선할 수 0ne 것이다."
-      ],
-      "insight": "KISIA 회장이 한국정보보호 산업에서 IT/기술 지도자인 김진수가 해외진출을 위한 서비스를 개체화하는 방향으로 현재 IT/기술 산업의 정보보호 매데이콘을 다루고자 함으로서, 해외진출에 고급하게 도입하는 일이 가능하다."
-    },
-    {
-      "title": "금융권, nginx 등 고위험 오픈소스 긴급 점검 지시... 미토스發 충격파 대비",
-      "link": "http://www.boannews.com/media/view.asp?idx=143837&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 16:07:00 +0900",
-      "description": "앤트로픽 ‘프로젝트 글래스윙’ 통해 검증 완료된 1596건 중 27개 주요 결함 공개벤더 패치율 6.1% 불과... 금융당국 전 금융권 대상 긴급 자산 점검 권고[보안뉴스 조재호 기자] 앤트로픽이 자사 AI 모델 미토스를 활용해 찾아낸 대규모 오픈소스 취약점을 공개함에 따라 금융당국이 금융권에 신속한 자산 점검과 실무적 방어 조치를 촉구했다. 금융보안원은",
-      "language": "ko",
-      "summary": "앤트로픽 ‘프로젝트 글래스윙’ 통해 검증 완료된 1596건 중 27개 주요 결함 공개벤더 패치율 6. 금융당국 전 금융권 대상 긴급 자산 점검 권고[보안뉴스 조재호 기자] 앤트로픽이 자사 AI 모델 미토스를 활용해 찾아낸 대규모 오픈소스 취약점을 공개함에 따라 금융당국이 금융권에 신속한 자산 점검과 실무적 방어 조치를 촉구했다",
-      "points": [
-        "앤트로픽 ‘프로젝트 글래스윙’ 통해 검증 완료된 1596건 중 27개 주요 결함 공개벤더 패치율 6",
-        "금융당국 전 금융권 대상 긴급 자산 점검 권고[보안뉴스 조재호 기자] 앤트로픽이 자사 AI 모델 미토스를 활용해 찾아낸 대규모 오픈소스 취약점을 공개함에 따라 금융당국이 금융권에 ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "중앙대, ‘개인정보 보호·활용 석·박사 전문인력 양성 사업’ 선정... 5년간 91억원 지원",
-      "link": "http://www.boannews.com/media/view.asp?idx=143838&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 15:52:00 +0900",
-      "description": "서울여자대학교와 컨소시엄 구성[보안뉴스 강현주 기자] 중앙대학교(총장 박세현)가 개인정보 보호·활용 분야 고급 전문인력 양성에 본격적으로 나선다. 중앙대학교(주관 연구개발기관)는 서울여자대학교와 컨소시엄을 구성해 개인정보보호위원회와 한국인터넷진흥원(KISA)이 주관하는 “2026년 개인정보 보호·활용 석·박사 전문인력 양성 사업”에 최종 선정됐다고 밝혔다.",
-      "language": "ko",
-      "summary": "서울여자대학교와 컨소시엄 구성[보안뉴스 강현주 기자] 중앙대학교(총장 박세현)가 개인정보 보호·활용 분야 고급 전문인력 양성에 본격적으로 나선다. 중앙대학교(주관 연구개발기관)는 서울여자대학교와 컨소시엄을 구성해 개인정보보호위원회와 한국인터넷진흥원(KISA)이 주관하는 “2026년 개인정보 보호·활용 석·박사 전문인력 양성 사업”에 최종 선정됐다고 밝혔다",
-      "points": [
-        "서울여자대학교와 컨소시엄 구성[보안뉴스 강현주 기자] 중앙대학교(총장 박세현)가 개인정보 보호·활용 분야 고급 전문인력 양성에 본격적으로 나선다",
-        "중앙대학교(주관 연구개발기관)는 서울여자대학교와 컨소시엄을 구성해 개인정보보호위원회와 한국인터넷진흥원(KISA)이 주관하는 “2026년 개인정보 보호·활용 석·박사 전문인력 양성 ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“사람처럼 드나드는 AI 에이전트... 인증 규격 등 ‘보안 프레임워크’ 시급”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143835&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 15:42:00 +0900",
-      "description": "“안방처럼 드나드는데 인증 규격도 아직 없어”[보안뉴스 강현주 기자] AI 에이전트의 안전한 도입과 운영을 위한 보안 프레임워크가 빠르게 마련돼야 한다는 지적이 나왔다. 사람을 대신해 내부 시스템에 들어와 업무를 수행하는 만큼, 접근 관리 체계 등의 표준이 필요하다는 목소리다. 27일 최영철 SGA솔루션즈 대표는 한국정보보호산업협회(KISIA)에서 열린 기",
-      "language": "ko",
-      "summary": "“안방처럼 드나드는데 인증 규격도 아직 없어”[보안뉴스 강현주 기자] AI 에이전트의 안전한 도입과 운영을 위한 보안 프레임워크가 빠르게 마련돼야 한다는 지적이 나왔다. 사람을 대신해 내부 시스템에 들어와 업무를 수행하는 만큼, 접근 관리 체계 등의 표준이 필요하다는 목소리다...",
-      "points": [
-        "“안방처럼 드나드는데 인증 규격도 아직 없어”[보안뉴스 강현주 기자] AI 에이전트의 안전한 도입과 운영을 위한 보안 프레임워크가 빠르게 마련돼야 한다는 지적이 나왔다",
-        "사람을 대신해 내부 시스템에 들어와 업무를 수행하는 만큼, 접근 관리 체계 등의 표준이 필요하다는 목소리다",
-        "27일 최영철 SGA솔루션즈 대표는 한국정보보호산업협회(KISIA)에서 열린 기"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "싸이터, 로이드선급 AiP 획득... 글로벌 선박 AI 사이버보안 시장 공략",
-      "link": "http://www.boannews.com/media/view.asp?idx=143836&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 27 May 2026 15:38:00 +0900",
-      "description": "디지털 트윈 기반 AI 보안 기술로 상선·함정 사이버 복원력 강화 스마트선박·자율운항 시대 선박 안전 운항 위한 국산 사이버보안 플랫폼 경쟁력 입증 [보안뉴스 한세희 기자] 싸이터(대표 조용현)는 자사 선박 사이버보안 플랫폼 ‘싸이터(CYTUR)-MG’ (CYTUR Maritime Guard)가 영국 로이드선급(Lloyd’s Register)으로부터 사이버",
-      "language": "ko",
-      "summary": "디지털 트윈 기반 AI 보안 기술로 상선·함정 사이버 복원력 강화 스마트선박·자율운항 시대 선박 안전 운항 위한 국산 사이버보안 플랫폼 경쟁력 입증 [보안뉴스 한세희 기자] 싸이터(대표 조용현)는 자사 선박 사이버보안 플랫폼 ‘싸이터(CYTUR)-MG’ (CYTUR Maritime Guard)가 영국 로이드선급(Lloyd’s Register)으로부터 사이버",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
