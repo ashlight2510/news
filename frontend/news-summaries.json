@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-29T15:30:54.953Z",
+  "generatedAt": "2026-05-29T20:29:56.412Z",
   "articles": [
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 29 May 2026 18:49:19 +0000",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "language": "en",
+      "summary": "The article provides clarity on AI terminology that's often misunderstood or heard casually in discussions.",
+      "points": [
+        "AI terms and slang are becoming commonplace as the technology advances.",
+        "A glossary is offered to demystify some of these key terms for better understanding.",
+        "The article emphasizes the importance of having a solid grasp on AI jargon."
+      ],
+      "insight": "Understanding and correct usage of technical terminology in AI will facilitate clearer communication within IT/technology sectors, fostering more informed discussions about emerging trends and applications."
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 29 May 2026 17:57:05 +0000",
+      "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+      "language": "en",
+      "summary": "The article discusses the dangers of companies relying too heavily on AI for job roles and predicts a rise in tech layoffs due to this 'AI psychosis'. Box founder Aaron Levie argues that those who decide about automation often lack understanding of jobs' nuances.",
+      "points": [
+        "Companies are increasingly turning to artificial intelligence (AI) for efficiency, leading some firms like ClickUp to reduce their workforce by significant percentages in anticipation of AI advancenzes. This trend indicates a growing anxiety about automation within the technology sector.",
+        "Aaron Levie from Box suggests this mindset is indicative of 'AI psychosis', wherein decision-makers misjudge the role and value that human labor brings to an organization, often underestimating the complexity inherent in many job functions. The article implies a potential overreliance on AI could lead firms into making poor staffing decisions.",
+        "The piece highlights concerns within Silicon Valley about automation's impact on employment and warns of an imminent 'AI apocalypse', as tech layoffs begin to approach the number seen in 2025. This alarmist tone suggests that businesses might not be fully prepared for such changes, potentially leading to a more significant disruption than anticipated."
+      ],
+      "insight": "The article serves as an early warning about how quickly technology can shift job markets and the importance of balancing AI integration with human oversight in decision-making processes. The tech industry must navigate these changes carefully to prevent unnecessary layoffs while still reaping benefits from automation."
+    },
+    {
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 29 May 2026 17:27:13 +0000",
+      "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "language": "en",
+      "summary": "Groq is raising $650 million as it shifts its focus from hardware chip manufacturing to specializing in artificial intelligence inference technology.",
+      "points": [
+        "Chipmaker Groq pivots away from traditional chip production towards AI-focused business, aiming for significant fundraising internally",
+        "Groq' endgame is not hiring but raising capital to invest back into their company as they refine and develop inference technology in the artificial intelligence sector.",
+        "The move by Groq aligns with a broader trend of AI-centric companies looking for growth through specialization rather than expansion."
+      ],
+      "insight": "Groq's shift towards investing more heavily in their AI technology signifies the increasing importance and potential profitability within niche tech sectors like artificial intelligence, potentially impacting how IT firms structure themselves to remain competitive."
+    },
+    {
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 29 May 2026 17:03:39 +0000",
+      "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
+      "language": "en",
+      "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software",
+      "points": [
+        "A public spat between Microsoft and an independent security researcher reopens a long-running debate...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 29 May 2026 16:13:47 +0000",
+      "description": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "language": "en",
+      "summary": "Cognition’s Devin has emerged as a notable success in AI coding; however, Scott Wu insists that the technology is not intended to replace humans but serve alongside them.",
+      "points": [
+        "AI coding agent 'Devin' developed by Cognition doesn't aim to supplant human programmers",
+        "Scott Wu emphasizes Devin’s role as a collaborative tool in programming tasks",
+        "The technology may augment but not fully replace the skills and insights of experienced developers"
+      ],
+      "insight": "While AI coding agents like 'Devin' can assist with routine code generation, they cannot yet replicate human creativity or problem-solving abilities essential for programming."
+    },
     {
       "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
@@ -669,81 +744,6 @@
         "The extension is expected to accommodate a greater number of applicants, acknowledging that many aspiring startups may have missed the initial cutoff."
       ],
       "insight": "This news illustrates an increased interest in global startup ecosystems and highlights TechCrunch's role as a key platform for recognizing emerging businesses. By extending deadlines, it suggests that the community is more vibrant than previously thought."
-    },
-    {
-      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 14:00:00 +0000",
-      "description": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
-      "language": "en",
-      "summary": "Attendees of TechCrunch Disrupt can save up to $410 if they register by May 29. The event will gather around 10,000 technology leaders for October's dates.",
-      "points": [
-        "Registration deadline ends tomorrow with savings available",
-        "TechCrunch Disrupt brings together thousands of tech professionals in San Francisco",
-        "Significant ticket discount still valid"
-      ],
-      "insight": "The ongoing TechCrunch Disrupt event underscores the importance of networking and industry-wide engagement among technology leaders, which could influence future innovations."
-    },
-    {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 14:00:00 +0000",
-      "description": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
-      "language": "en",
-      "summary": "Over a thousand Visa employees are utilizing Replit'static platform to prototype and develop various applications.",
-      "points": [
-        "Visa invests in the cloud-based coding environment called 'Replit'.",
-        "More than 1,000 of Visa’s own staff members have begun using it for creating prototypes.",
-        "The platform is being used to build applications that will enable developers and merchants worldwide."
-      ],
-      "insight": "This news highlights the growing collaboration between finance companies like Visa and technology platforms such as Replit, aimed at empowering global development efforts in a rapidly evolving digital economy."
-    },
-    {
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 13:00:00 +0000",
-      "description": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-      "language": "en",
-      "summary": "SambaNova Semiconductor has announced plans for a new AI-focused CPU architecture named 'Orion', potentially positioning it as the next big breakout chipmaker in the competitive field of artificial intelligence computing.",
-      "points": [
-        "SambaNova, an emerging AI compute company, is developing its Orion chip with a focus on deep learning workloads and efficient matrix multiplication to accelerate large-scale neural network training tasks within data centers.",
-        "The new design includes specialized hardware components such as tensor cores that are optimized for running convolutional operations critical in image processing applications like facial recognition, which is increasingly relevant with the expanding demand of AI services.",
-        "SambaNova' extranet platform will enable customers to access Orion technology through a cloud service model while maintaining control over their data and customizing algorithms tailored for specific use cases."
-      ],
-      "insight": "This development signifies an ongoing trend in the AI industry towards creating more specialized hardware that can efficiently handle complex neural network calculations, which is crucial as businesses increasingly rely on deep learning models. SambaNova's approach may set a precedent for how chipmakers are designed to cater specifically to this growing sector."
-    },
-    {
-      "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
-      "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000",
-      "description": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
-      "language": "en",
-      "summary": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more",
-      "points": [
-        "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "2026년 6월 물리·정보보안 기업 어떤 인재 찾고 있나",
-      "link": "http://www.boannews.com/media/view.asp?idx=143860&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 28 May 2026 17:33:00 +0900",
-      "description": "보안 기업들의 분야별 인재 채용 동향 정리[보안뉴스 엄호식 기자] 6월, 초여름의 햇살이 본격적으로 기운을 더해가는 시기이며, 특히 올해의 6월은 단순히 계절의 전환점이 아니라, 우리 사회와 국가가 중요한 선택을 마주하는 달이기도 하다. 선거에서 올바른 인재를 뽑아야 국가가 발전하듯, 기업 역시 올바른 인재를 영입해야 성장과 혁신을 이어갈 수 있다. 선거와",
-      "language": "ko",
-      "summary": "2026년 6월에 기술·보안 업체들이 핵심 인재를 찾고 있는 궤지 물리적 상황을 정리한다.",
-      "points": [
-        "2026년 6월에 기술·보안 업체들이 인재를 찾고 있다.",
-        "이러한 선수들은 국가의 큰 시간을 활용하여 기술·보안에서 많은 가천주를 얻어야 한다.",
-        "개인들과 직업군의 합리한 선수들이 중요한 인재를 뽑아야 할 것으로 예상된다."
-      ],
-      "insight": "2026년 6월의 시기에는 선수들이 국가보안에서 중요한 인재를 뽑아야만 하고, 그리고 개인과 직업군의 모든 부위를 통합시켜야 한다."
     }
   ]
 }
