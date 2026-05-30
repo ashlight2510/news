@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-30T03:02:43.770Z",
+  "generatedAt": "2026-05-30T08:30:40.246Z",
   "articles": [
+    {
+      "title": "고려대, 13개국 인재와 소상공인 보안 강화... 사이버보안 클리닉 센터 출범",
+      "link": "http://www.boannews.com/media/view.asp?idx=143878&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 30 May 2026 15:54:00 +0900",
+      "description": "구글 후원 하에 아태 13개국 19개 컨소시엄 참여[보안뉴스 강현주 기자] 고려대학교 정보보호대학원(원장 정익래)이 아시아 태평양 지역 13개국 청년 인재들과 함께 소상공인 보안 역량 강화에 나선다.고려대 정보보호대학원은 29일 고려대학교에서 ‘고려대학교 사이버보안 클리닉 센터 개소식’을 개최했다. 이로써 지역사회 및 소상공인을 위한 사이버보안 아웃리치 활",
+      "language": "ko",
+      "summary": "고려대학교의 정보보호대학원과 13개국 소상공인이 함께 사이버보안 기술을 강화하기 위해 출발한 설먼업입니다.",
+      "points": [
+        "- 고려대학교 정보보호대학원이 '고려대학교 사이버보안 클리닉 센터 개소식'을 개최하였다.",
+        "- 국내외의 13개국 청년인재와 소상공인이 각자의 IT/기술 기술을 통한 보안 강화에 어떻게 녹아질지가?",
+        "- 국내 사회와 생명적인 IT 기술의 미래를 위한 교통을 강화하기 위해서는 함께 지원이 필요합니다."
+      ],
+      "insight": "이러한 설먼업은 IT/기술 공학자가 청년인재를 위한 IT 기술 교육에서 중요한 역할을 하거나, IT 기술에 대한 소상공인의 보호와 지속적인 성장을 보장하는 데 도움이 될 것이다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 인간보다 더 능력 출중한 공포의 AI에이전트",
+      "link": "http://www.boannews.com/media/view.asp?idx=143877&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 30 May 2026 15:52:00 +0900",
+      "description": "인간 대체 아닌 ‘협력적 공존’ 패러다임 구축해야기술에 대한 통제권을 유지 필연적[보안뉴스= 배종찬 인사이트케이 연구소장] 인공지능 기술의 패러다임이 급격한 변곡점을 맞이하고 있다. 최근 한 달간(2026년 4월 28일~5월 27일) 썸트렌드(SomeTrend)가 집계한 ‘AI 에이전트’(AI Agent)에 대한 빅데이터 감성 연관어 분석 결과에 따르면,",
+      "language": "ko",
+      "summary": "기사는 AI 에이전트의 보안 관람을 제시하며, 인공지능과 인색의 질서 상호작용에 대해서 논의한다.",
+      "points": [
+        "인공지력 AI 에이전트가 사회적으로 충불하고 즐거운 포인트를 얻을 수 0r 여러 가지 대상에 대한 공포를 제공",
+        "이러한 AI 의 기본 아이콘과 인간들을 통원하는 방식은 '협력적 공존'로 포함",
+        "AI 가 더 느슨한 인색과제를 일컷으로써 인간이 집중하도록 유도"
+      ],
+      "insight": "빅데이터 기사는 AI 가 우리의 일상에 어떤 영향을 미쳐야 할지를 고민해, '협력적 공존'로 AI 인간들과의 경가 우리가 인간의 질서 그대로 유지하는 방법을 보여준다."
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관-25] 호미로 막을 것을 가래로 막는다(5)-비밀번호 안 바꾸면 생기는 현실적인 위험",
       "link": "http://www.boannews.com/media/view.asp?idx=143250&kind=&sub_kind=",
@@ -717,36 +747,6 @@
         "The US is currently working on legislation aimed at curtailing invasive data collection by private sector entities and protecting military personnel"
       ],
       "insight": "This news has significant implications for the IT/technology industry, highlighting a pressing need to balance consumer tracking with privacy protection. It also underscores growing scrutiny on industries that may pose threats beyond traditional national security concerns."
-    },
-    {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
-      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 15:36:00 +0000",
-      "description": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "language": "en",
-      "summary": "Elon Musk has publicly described Anthropic's compute deal with SpaceX as short and cancellable despite the company'in S-1 document stating otherwise until May 2029.",
-      "points": [
-        "Anthropi, a generative AI startup working on 'Philosophical Conversation,' has entered into an agreement to lease compute time from SpaceX for xAI (extreme artificial intelligence).",
-        "Elon Musk is claiming that Anthropi's deal with SpaceX is short-term and cancellable, which contradicts the S-1 document filed by his company.",
-        "The disagreement over lease terms highlights differing opinions between Elon Musk’s personal stance and official documentation regarding Anthropic’s commitment."
-      ],
-      "insight": "This development reflects a broader uncertainty in the IT/technology industry about long-term partnerships, especially with companies like SpaceX that have conflicting public statements from their leadership."
-    },
-    {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 15:35:43 +0000",
-      "description": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-      "language": "en",
-      "summary": "Sesame's new iOS app introduces conversational AI agents that provide natural back-and-forth interactions resembling human conversation rather than traditional chatbots.",
-      "points": [
-        "The Sesame team developed a more personalized and interactive form of artificial intelligence for its iPhone application.",
-        "Designed to mimic human interaction, the app represents an advancement in AI conversational technology targeting public usage on iOS devices.",
-        "Sesame's approach could disrupt current expectations about user-AI interactions."
-      ],
-      "insight": "The launch of Sesame's personalized AI agent for mobile has the potential to redefine social interaction within the digital space, pushing traditional chatbot technology further into obsolescence and ushering in a new era where conversational agents are commonplace on smartphones."
     }
   ]
 }
