@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-05-30T13:31:54.639Z",
+  "generatedAt": "2026-05-30T19:18:20.906Z",
   "articles": [
+    {
+      "title": "Snap alums unveil Ghost Angels fund",
+      "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 30 May 2026 17:00:00 +0000",
+      "description": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+      "language": "en",
+      "summary": "Twenty former employees from Snapchat have formed a new venture capital firm named Ghost Angels with an initial investment of $35 million to fund innovative startups in social media.",
+      "points": [
+        "A group of over twenty alumni founded Ghost Angels, pooling together their expertise and resources for backing the next generation of online platforms.",
+        "The initiative comes from former Snapchat executives aiming to capitalize on emerging trends in social media technology while filling a gap they observed within venture funding ecosystems.",
+        "$35 million was raised through an initial seed round, indicating significant confidence among the investors and underscoring the perceived potential of this nascent industry."
+      ],
+      "insight": "The formation of Ghost Angels suggests that former Snap executives are actively seeking to influence social media innovation by providing crucial early-stage funding, potentially shaping future trends within IT and technology sectors."
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
+      "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "language": "en",
+      "summary": "Microsoft's GitHub Copilot is facing backlash due to its new token-based billing system for AI suggestions in coding projects.",
+      "points": [
+        "GitHub Copilot has introduced a controversial subscription model that charges developers per code completion request made using the tool, sparking widespread discontent among the programming community.",
+        "Some devs view this fee as an unjustified monetization of AI-generated content while others see it as fair compensation for Microsoft's investment in technology and intellectual property rights protection within coding environments like GitHub Copilot.",
+        "GitHub has announced plans to roll out the billing system, with prices ranging from $10-$5 per month depending on usage levels—a move that raises questions about accessibility of advanced AI tools for individual developers."
+      ],
+      "insight": "The introduction of a token-based billing model by GitHub Copilot highlights the growing concern over monetizing user output within open source communities, potentially impacting future collaborations and innovation in technology development. As this trend continues to evolve, it will be important for developers and platform providers alike to engage in thoughtful dialogue regarding fair compensation while maintaining accessibility of cutting-inAI tools."
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
+      "description": "Meta seems to be making big bets on AI-powered hardware.",
+      "language": "en",
+      "summary": "Meta seems to be making big bets on AI-powered hardware",
+      "points": [
+        "Meta seems to be making big bets on AI-powered hardware",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
+      "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "language": "en",
+      "summary": "Google'curently launched Gemini Spark as an independent AI assistant capable of automating daily tasks like managing emails and organizing local events; its distinct purpose from Google Assistant remains uncertain.",
+      "points": [
+        "Gemini Spark is designed to handle routine activities, including email management with inbox summaries, setting up reminders for appointments or meetings",
+        "The assistant offers features such as finding nearby places and scheduling events based on user preferences and calendar availability",
+        "Despite being a new product aimed at automation of mundane tasks, the specific reasoning behind its separate development from Google Assistant is not clear"
+      ],
+      "insight": "The introduction of Gemini Spark by Google suggests that there's an increasing demand for more personalized and efficient task management solutions in the technology market."
+    },
+    {
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 30 May 2026 14:49:27 +0000",
+      "description": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "language": "en",
+      "summary": "The article discusses the intense focus and excitement surrounding artificial intelligence (AI) in Silicon Valley. Young entrepreneurs who are proficient with AI have a significant advantage over their peers.",
+      "points": [
+        "Silicon Valley experiences an 'age-based prestige' where being older implies having more advanced skills in building something in AI, potentially leading to early funding opportunities like Series A deals even before the age of majority.",
+        "The trend highlights a competitive environment and intense scrutinization based on one’s experience with AI technologies among young entrepreneurs in California's tech hub.",
+        "This phenomenon suggests that not just ideas but technical skills play a crucial role in securing investments within the Silicon Valley startup ecosystem."
+      ],
+      "insight": "The pressure for AI excellence among young entrepreneurs could foster an innovative, high-skilled workforce while potentially marginalizing less technically adept individuals and contributing to a narrower definition of talent in the industry."
+    },
     {
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -672,81 +747,6 @@
         " - Despite recent hiring freezes and restructuring, AI-driven company retains strong backing as it prepares to enter public markets."
       ],
       "insight": "Anthropi's imminent entry into the public market suggests a significant confidence in its potential for growth within the evolving landscape of large language models (LLMs)."
-    },
-    {
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 18:32:25 +0000",
-      "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-      "language": "en",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
-      "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 18:08:37 +0000",
-      "description": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
-      "language": "en",
-      "summary": "H1 Health has secured a $40 million Series B funding round from CVS Health after raising just over half of that amount in an initial investment led by SoftBank Group Corp's Vision Fund last year, demonstrating the continued appeal and potential for growth within the SaaS healthcare sector.",
-      "points": [
-        "H1 secures $40M from CVS to expand its enterprise software offering in digital marketing solutions used by HMOs, clinics and pharmacies",
-        "The deal will also support expansion of salesforce with a focus on customer success services for healthcare institutions.",
-        "This funding round is significant as it occurred during an industry downturn where other SaaS startups have struggled to attract investment."
-      ],
-      "insight": "H1 Health's ability to raise substantial capital from a major retailer like CVS in the current market shows that despite broader economic and pandemic challenges, there is still strong interest and potential for growth within SaaS healthcare solutions. The unique aspect of H1's service – focusing on doctor data integration into digital workflow systems – suggests it could lead to a shift towards more personalized tech-enabled patient care in the industry."
-    },
-    {
-      "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
-      "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 18:00:00 +0000",
-      "description": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
-      "language": "en",
-      "summary": "Security flaws at Pay Tel allowed access to personal IDs of over 300K individuals through prison phone calls.",
-      "points": [
-        "Security researchers exposed the leak containing callers' driver’s licenses and other sensitive ID documents.",
-        "The breach also involved inmate communications, raising privacy concerns among those affected.",
-        "Pay Tel managed to secure the data post-exposure."
-      ],
-      "insight": "This incident highlights significant security vulnerabilities within systems handling personal and privileged information. It underscores a pressing need for rigorous cybersecurity measures in sectors dealing with sensitive user data, especially when it involves individuals who may be unaware of the privacy risks posed by such services."
-    },
-    {
-      "title": "Why Paris may be the most important AI city outside Silicon Valley",
-      "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 17:35:30 +0000",
-      "description": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
-      "language": "en",
-      "summary": "Paris is emerging as a crucial hub for AI outside Silicon Valley due to Europe's growing startup ecosystem and founders opting to scale their companies within the continent.",
-      "points": [
-        "Europe’s startup ecosystem has matured, with more startups choosing to grow locally instead of relocating to the U.S.",
-        "Paris is becoming a key player in AI as Europeans seek opportunities close to home and avoid long commutes or immigration hurdles",
-        "The trend towards localized growth within European cities like Paris may influence future decisions on where tech companies choose to expand"
-      ],
-      "insight": "This news suggests a shift in the global technology landscape, with Europe gaining more prominence as alternative hubs for innovation and AI development."
-    },
-    {
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 28 May 2026 17:30:00 +0000",
-      "description": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-      "language": "en",
-      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more...",
-      "points": [
-        "StrictlyVC Los Angeles is on June 18",
-        "Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
