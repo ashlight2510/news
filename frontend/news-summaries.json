@@ -1,6 +1,212 @@
 {
-  "generatedAt": "2026-06-02T10:28:24.504Z",
+  "generatedAt": "2026-06-02T16:28:14.026Z",
   "articles": [
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "description": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge work, finding its uses go […]",
+      "language": "en",
+      "summary": "OpenAI introduced advanced AI-driven coding solutions aimed at enterprise users to enhance productivity in white-collar jobs.",
+      "points": [
+        "Codex's new capabilities target knowledge work tasks, as per OpenAI’ extrinsic report",
+        "The technology aims to expand Codex use beyond chat applications and into actual job functions",
+        "Enterprise adoption of AI-driven tools like Codex could redefine productivity standards in white-collar sectors"
+      ],
+      "insight": "This move by OpenAI towards enterprise markets with advanced code generation can significantly influence the way businesses automate and optimize their operations."
+    },
+    {
+      "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
+      "link": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 15:56:08 +0000",
+      "description": "Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union Square Ventures.",
+      "language": "en",
+      "summary": "Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union Square Ventures",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Password manager Dashlane says hackers stole some customers’ password vaults",
+      "link": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 15:40:11 +0000",
+      "description": "The password manager giant said hackers were able to 'brute-force' its two-factor system, allowing them to access customer accounts and download their password vaults.",
+      "language": "en",
+      "summary": "Hackers successfully stole some customers' password vaults from the popular password manager Dashlane by exploiting a two-factor system vulnerability.",
+      "points": [
+        "Dashlane fell victim to hackers due to an issue with its two-step verification process, resulting in unautcurated access and data extraction of customers' personal information stored within their password vaults."
+      ],
+      "insight": "This incident highlights the critical importance for IT/technology companies like Dashlane to continuously enhance security measures due to increasing threats from cybercriminals, potentially affecting customer trust and company reputation in the industry. It also emphasizes that no platform can be entirely immune against such attacks; therefore constant vigilance is required."
+    },
+    {
+      "title": "Turning your purse into a cyberdeck is the most fun way to resist big tech",
+      "link": "https://techcrunch.com/2026/06/02/turning-your-purse-into-a-cyberdeck-is-the-most-fun-way-to-resist-big-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 15:24:40 +0000",
+      "description": "The women building these over-the-top, bedazzled cyberdecks aren’t in it for the glitter alone. This trend is reaching its peak at a time when people feel powerless against big tech.",
+      "language": "en",
+      "summary": "Women are creating extravagant cyberdecks as an act of defiance towards the pervasive influence of technology in society.",
+      "points": [
+        "The trend highlights a cultural pushback against big tech, using flashy portable devices to reclaim personal agency.",
+        "This DIY movement is not just about aesthetics but serves as an act of empowerment and commentary on technology' endless encroachment.",
+        "The cyberdeck phenomenon reflects broader societal concerns over privacy, autonomy, and the blending of digital with physical life."
+      ],
+      "insight": "This movement could signal a growing discomfort among certain segments of society regarding technology's influence on personal freedom and agency. It also suggests that resistance to tech domination can take unexpected forms in creative expression, potentially influencing how future technologies are designed with user empowerment in mind."
+    },
+    {
+      "title": "How Europe’s AI strategy diverges from Silicon Valley’s",
+      "link": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 15:05:00 +0000",
+      "description": "The global AI race is often framed as a battle between the United States and China. But at VivaTech, Europe is expected to make the case for an entirely different model.",
+      "language": "en",
+      "summary": "Europe plans to present its unique AI strategy during VivaTech that differs from Silicon Valley's approach.",
+      "points": [
+        "The article discusses Europe’s distinctive model for developing artificial intelligence, diverging significantly from the practices in Silicon Valley and China.",
+        "Europeans emphasize ethics within AI development as a central aspect of their strategy to ensure responsible innovation.",
+        "EU leaders are expected to highlight how European values shape AI policies, contrasting with other regions' more commercially driven approaches."
+      ],
+      "insight": "This article signifies the growing recognition that Europe is taking an independent and ethically grounded approach in its technological advancements. It sets a different precedent for global technology development norms."
+    },
+    {
+      "title": "Meta tests ‘Series’ for episodic Reels on Instagram and Facebook",
+      "link": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 15:00:00 +0000",
+      "description": "Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like.",
+      "language": "en",
+      "summary": "Meta is exploring various options for revenue generation from Instagram and Facebook Reels by creating episodic 'Series'. The company hasn't disclosed specifics of its plans.",
+      "points": [
+        "Meta may monetize Reels through serialized content akin to YouTube series without providing details on the methodology",
+        "Revenue opportunities for creators will potentially include sponsorships and ad placements within episodic content",
+        "The introduction of 'Series' could change how users consume short-form video, promoting more consistent viewing habits similar to television series"
+      ],
+      "insight": "Introducing 'Series' on Reels can attract a wider audience and increase user engagement time. This approach may offer creators new monetization models while providing Meta with additional advertising revenue streams."
+    },
+    {
+      "title": "X caters to creators with new ‘React with Video’ feature",
+      "link": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 14:46:28 +0000",
+      "description": "X will now let you 'react with video' to posts.",
+      "language": "en",
+      "summary": "Streamyard has launched a React with Video feature allowing users to interact creatively in their videos on X.",
+      "points": [
+        "React with Video enables interactive experiences within posts using Streamy's proprietary technology.",
+        "The addition of the video reaction is part of an initiative by CEO Steve Balmer and aims at engaging content producers more deeply.",
+        "Streamyard has collaborated with YouTube to ensure seamless compatibility between its features and existing platforms."
+      ],
+      "insight": "This innovation signifies Streamy's commitment to enhancing user interaction within the video platform industry, potentially setting a new standard for creator engagement on social media channels that utilize similar content sharing models."
+    },
+    {
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 14:44:21 +0000",
+      "description": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+      "language": "en",
+      "summary": "Anthropic is enlarging its Project Glasswing initiative to assess security vulnerabilities in critical infrastructure across power, water, healthcare, and communications sectors.",
+      "points": [
+        "Project Glasswing will extend beyond Anthropi's initial scope of just tech companies",
+        "The program is gaining access from at least 150 organizations worldwide targeting crucial infrastructure components in various industries",
+        "Potential impact on cybersecurity awareness and preparedness for critical sectors"
+      ],
+      "insight": "This initiative highlights the growing concern over potential threats to critical infrastructures globally, emphasizing the need for improved security protocols in industries that significantly affect public well-being."
+    },
+    {
+      "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
+      "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 14:39:29 +0000",
+      "description": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market.",
+      "language": "en",
+      "summary": "Apple's MacBook Neo has rapidly gained popularity among new consumers in its initial weeks on sale.",
+      "points": [
+        "MacBook Neo shipped an estimated 1.1 million units within the first few weeks after release, according to IDC estimates.",
+        "This sales success marks Apple'selowering presence in mainstream laptop markets with this new device.",
+        "The MacBook Neo may represent a more affordable and accessible option for consumers not typically associated with premium brands like Apple."
+      ],
+      "insight": "Apple appears to be successfully expanding its reach beyond traditional consumer bases by offering devices that appeal to price-sensitive segments of the market, without compromising on their brand image. This could signify a shift in strategy for future products and services from other competitors as well."
+    },
+    {
+      "title": "Amazon Prime Day 2026 takes place June 23-26",
+      "link": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 13:47:53 +0000",
+      "description": "Groceries and household essentials will be a main focus of this year's deals event.",
+      "language": "en",
+      "summary": "Amazon Prime Day 2dealssince its debut in 2008 has become an annual tradition for the e-commerce giant and is expected to continue this year with a focus on groceries and household essentials.",
+      "points": [
+        "The core content of Amazon's popular shopping event Prime Day highlighted that, while electronics are typically offered at steep discounts during previous years, the spotlight for this year is expected to be more affordable prices on everyday items like groceries and household essentials.",
+        "Amazon has historically used its annual sale events not only as opportunities for customers but also as strategic moves in their broader business operations. This includes enhancing customer loyalty by offering special promotions to Prime members, increasing inventory turnover during slower sales periods like summer and holidays when people may have more time at home.",
+        "The emphasis on daily essentials for Amazon's upcoming sale reflects the evolving needs of their customers who are looking beyond just entertainment products. By offering significant discounts in these categories, they not only meet customer demands but also compete with rivals like Walmart and Target."
+      ],
+      "insight": "The shift towards affordable daily essentials on Amazon Prime Day signals the company's understanding of changing consumer preferences for practicality over entertainment products. This strategy could potentially expand their market share in everyday retail as customers increasingly turn to e-commerce platforms."
+    },
+    {
+      "title": "Blue Origin plans to launch New Glenn again this year after explosion",
+      "link": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 13:25:59 +0000",
+      "description": "CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected. But Blue Origin still hasn't shared the cause of last week's explosion.",
+      "language": "en",
+      "summary": "Blue Origin experienced an unfortunate explosion during a test flight this year and plans to resume launches despite some damage to their Florida launchpad.",
+      "points": [
+        "CEO Dave Limp stated the expected pad repairs are less severe than anticipated but no cause for the recent failure was shared by Blue Origin, resulting in an announcement that they will attempt another flight this year as planned.",
+        "Blue Origin's launchpad sustained damage due to a failed test of their New Glenn rocket which is aimed at reaching orbit; however details on repairs and cause were not disclosed publicly by the company following last week’s event.",
+        "The uncertainty surrounding these repeated failures has raised industry concerns about Blue Origin's future, while also leading to discussions around improved safety measures."
+      ],
+      "insight": "Blue Origin faces heightened scrutiny and pressure from both within their company and the wider space technology community due to a string of failed launches impacting trust in reliability. The industry may now expect more transparency regarding failure causes, as well reaffirmation of safety protocols."
+    },
+    {
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "language": "en",
+      "summary": "ZeroDrift has raised $10M in funding for its service designed to monitor AI-generated content between models and users, ensuring messages remain compliant with regulations.",
+      "points": [
+        "AI startup ZeroDrift secures $10 million towards developing a monitoring tool that acts as an intermediary between AI outputs and human consumers."
+      ],
+      "insight": "The increasing need for technology firms to monitor their automated systems, especially those with significant societal impact like language models (e.g., ChatGPT), is driving innovation in the form of services designed specifically for this purpose – representing a shift towards greater accountability and governance within AI-driven industries."
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 12:00:00 +0000",
+      "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "language": "en",
+      "summary": "Impulse Space has raised $50 end of the year holiday shopping season and is looking for people rather than investing in artificial intelligence.",
+      "points": [
+        "- Impulse Space president Eric Romo believes engineering physical systems still depends on human talent.",
+        "- The company has secured a significant fundraising round with $50 million, led by Dentsu Aegis Alliance and joined by new investors Andreessen Horowitz and Coatue Management LLC among others.",
+        "- Despite interest in artificial intelligence within the space industry, Impulse Space is prioritizing hiring skilled individuals for their rocket engine projects."
+      ],
+      "insight": "The emphasis on human talent over AI investment by companies like Impulse Space indicates that hands-on skills and experience remain crucial in aerospace technology development during the current market trend of automation."
+    },
+    {
+      "title": "Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst",
+      "link": "https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 02 Jun 2026 11:00:00 +0000",
+      "description": "Pacific Fusion's subscale prototype delivered enormous amounts of power in a flash, setting the company up for its demonstration power plant.",
+      "language": "en",
+      "summary": "The IT/technology news article discusses Pacific Fusion’s development and testing of an experimental fusion reactor prototype that has successfully generated a substantial amount of electricity in a very short time frame.",
+      "points": [
+        "Pacific Fusion's subscale proto-type delivered power equivalent to over half a billion wind turbines at one go",
+        "This demonstration marks the first fusion energy production for Pacific Fusion and sets the stage for their planned commercial plant in B.C.",
+        "The successful test indicates that controlled nuclear fusion could become commercially viable, potentially revolutionizing global power generation"
+      ],
+      "insight": "If further development continues to progress as successfully demonstrated by this prototype, Pacific Fusion's energy production technology might bring about a significant shift towards more sustainable and environmentally friendly methods of electricity generation within the IT/technology industry."
+    },
     {
       "title": "넷스카우트, ‘디지털 뱅킹’ 가시성 솔루션 제공... “트랜잭션 투명성 보장”",
       "link": "http://www.boannews.com/media/view.asp?idx=143928&kind=&sub_kind=",
@@ -535,216 +741,6 @@
       "points": [
         "매출 최대 10%까지 과징금 입법 예고“고의·중과실 3년 내 반복 및 1000만 명 이상 대규모 피해 시”[보안뉴스 강현주 기자] 개인정보 보호법 위반 기업에 전체 매출액의 10%...",
         "사전 예방 투자 노력은 최대 40%까지 감경 사유가 되는 근거도 마련되지만, 고의나 중과실의 경우 감경에",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“준비 안 하면 직무유기?”... 망분리 전면 해제가 부른 금융권 AI 보안 속도 경쟁",
-      "link": "http://www.boannews.com/media/view.asp?idx=143885&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 17:14:00 +0900",
-      "description": "금융위 망분리 규제 특례 1차 신청, 망분리 빗장 풀리자 49개사 중 절반 가까이 몰려클라우드 인증부터 ‘API 키’ 관리까지 까다로운 대체 통제 요건에 실무진 압박감 가중문광석 원장 “방어자에게 합리적 무기 쥐여준 조치... 중소 금융사 소외는 아쉬워”[보안뉴스 조재호 기자] 공공부문의 국가망 보안체계(N2SF) 본격화를 시작으로 국내 망분리 정책이 새로",
-      "language": "ko",
-      "summary": "국내 금융사 소와 '망분리 전면 해제'는 아쉬워한, 이를 대체로케이스에 회병시취당하여 보안 위대행성을 높일 수 influenced.",
-      "points": [
-        "금융사 소와 마음에 들이기는 '망분리 전면 해제'가 국내 기업에서의 민감성과 일정을 높여가고 싶어함",
-        "대체로케이스는 환경 안전성을 유지하지 않음",
-        "국내 소의 보안에 도움량이 아직 부족해서 '망분리 전면 해제'이 부르긴다"
-      ],
-      "insight": "금융사 소와 기업에 대한 보안이 중요하지만, '망분리 전면 해제'은 국내에서 진정할 수 0있다고 생각한다."
-    },
-    {
-      "title": "국민주권정부 1주년, 조달청 “AI·혁신제품 공공조달 진입 확대” 성과",
-      "link": "http://www.boannews.com/media/view.asp?idx=143907&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 17:11:00 +0900",
-      "description": "AI 제품 우수·혁신제품 지정 90% 증가하며 공공조달 전 과정에서 AI 기업 진입장벽 완화혁신제품 지정 24%, 공공구매 11% 증가해... AI·로봇 등 첨단전략산업 제품 지정 확대비수도권 기업 우대와 불공정 조달행위 단속 강화로 공정한 조달시장 조성 추진[보안뉴스 강초희 기자] 조달청(청장 백승보)은 국민주권정부 출범 이후 공공조달을 전략적으로 활용해",
-      "language": "ko",
-      "summary": "AI 제품 우수·혁신제품 지정 90% 증가하며 공공조달 전 과정에서 AI 기업 진입장벽 완화혁신제품 지정 24%, 공공구매 11% 증가해. AI·로봇 등 첨단전략산업 제품 지정 확대비수도권 기업 우대와 불공정 조달행위 단속 강화로 공정한 조달시장 조성 추진[보안뉴스 강초희 기자] 조달청(청장 백승보)은 국민주권정부 출범 이후 공공조달을 전략적으로 활용해",
-      "points": [
-        "AI 제품 우수·혁신제품 지정 90% 증가하며 공공조달 전 과정에서 AI 기업 진입장벽 완화혁신제품 지정 24%, 공공구매 11% 증가해",
-        "AI·로봇 등 첨단전략산업 제품 지정 확대비수도권 기업 우대와 불공정 조달행위 단속 강화로 공정한 조달시장 조성 추진[보안뉴스 강초희 기자] 조달청(청장 백승보)은 국민주권정부 출...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 넥스원소프트, AI 기반 개인정보 비식별화·필터링 솔루션 ‘Innover De-ID’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143896&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 17:07:00 +0900",
-      "description": "AI 프롬프트 내 개인정보 실시간 차단과 대용량 데이터 비식별처리 지원생성형 AI 활용 환경의 개인정보 보호 강화 기대[보안뉴스 강초희 기자] 디지털 환경에서 기업과 기관이 다루는 데이터의 양이 증가함에 따라 개인정보를 안전하게 보관하고 관리할 수 있는 개인정보 비식별화·필터링 솔루션이 주목받고 있다. 특히 이메일, 상담 기록, 문서 파일, 생성형 AI 등",
-      "language": "ko",
-      "summary": "AI 기사는 개인정보 비식별화·필터링 방식에 관한 넥스원소프트의 'Innover De-ID' 솔루션에 대해서 다룬다.",
-      "points": [
-        "Baek Sang Hyun, CEO이 불범한 AI 개인정보 비식별화·필터링 솔루션 'Innover De-ID'는 자동차등식 모델을 이용해 개인정보를 안전하게 비식별화하고 필터링한다.",
-        "이 솔루션은 간략하거나, 단순한 텍스트의 중요한 정보만을 제출하는 'de-ID'를 지원합니다.",
-        "Baek Sang Hyun이 디지털 열차에서 개인정보 보호를 강화하고, 대용량의 데이터를 처리할 수 있도록 시장에서의 제품성을 강조한다."
-      ],
-      "insight": "넥스원소프트의 'Innover De-ID'는 IT/기술 업체가 우리와 개인정보에 대해 신중한 권약을 지친다. 이러한 권약은 사용자의 고유성과 생명술상품에 대한 개인정보를 보호하는 일을 제공한다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-27] 호미로 막을 것을 가래로 막는다(7)-백업 안 해두면 생기는 최악의 상황",
-      "link": "http://www.boannews.com/media/view.asp?idx=143252&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 17:04:00 +0900",
-      "description": "중요 데이터는 외장하드나 클라우드에 ‘이중 백업’하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐",
-      "language": "ko",
-      "summary": "이 기사는 우리가 움컷으로 보안에 대한 습각을 더러와지지 할 수 없다고 행정 기사를 소개합니다. 우리는 기술을 강조하지만 보안에 대해 자세한 이해가 필요한 것을 제안합니다.",
-      "points": [
-        "중요 데이0타는 보안예상과 '이중 백업'로 이어주기를 요구합니다.",
-        "90%의 보안 사고는 실수에서 시작하며 균형을 조정해야 한다.",
-        "속담으로 배워쓸 100가지 보안 습각은 인기있는 쿠키를 형성하여, 보안업계에서의 이해와 직접점이 지름잡기가 필요한 것으로 보면서 참조"
-      ],
-      "insight": "이 기사는 IT/기술 업계에서의 보안치렉스를 확립하고자 한다. '속담의 모니터링'을 추가로 강조하여 IT/기술 전문가들이 보안치렉스에 익숙해야 할 수 있도록 광범위한 기준착제가 필요."
-    },
-    {
-      "title": "공공조달, 경쟁은 늘리고 AI 제품 문턱은 낮춘다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143906&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 17:02:00 +0900",
-      "description": "다수공급자계약(MAS) 제도 개정... 공공조달 경쟁 확대 및 계약관리 강화AI 제품 신규 등록 요건 완화 통해 실적 요건 폐지·참여 업체 수 2개사로 축소국내 생산품 원산지증명서 제출 의무화, 공공조달관리사 취득 기업 가점 부여 [보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공조달 시장의 경쟁성을 강화하고 미래 신성장 산업을 지원하기 위해 물품 다수공",
-      "language": "ko",
-      "summary": "다수공급자계약(MAS) 제도 개정. 공공조달 경쟁 확대 및 계약관리 강화AI 제품 신규 등록 요건 완화 통해 실적 요건 폐지·참여 업체 수 2개사로 축소국내 생산품 원산지증명서 제출 의무화, 공공조달관리사 취득 기업 가점 부여 [보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공조달 시장의 경쟁성을 강화하고 미래 신성장 산업을 지원하기 위해 물품 다수공",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "옵시아/피넛AI, IAEA CyberCon 2026서 논문 4편 발표... 10개국과 OT·원자력 보안 협력 논의",
-      "link": "http://www.boannews.com/media/view.asp?idx=143905&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 16:35:00 +0900",
-      "description": "국제 원자력 사이버보안 무대서 기술력 입증… AI 기반 OT·ICS 보안 글로벌 진출 본격화[보안뉴스 한세희 기자] OT·ICS·IoT 보안 전문기업 옵시아/피넛AI(대표 이승준)가 국제원자력기구(IAEA)가 주관하는 세계 최대 원자력 사이버보안 행사인 ‘IAEA CyberCon 2026’에서 논문 4편 발표, 국제 해킹대회(CTF) 운영, 전시 부스 참여",
-      "language": "ko",
-      "summary": "이승준 가정에서 기사의 핵심 내용을 요약한 한국어 요약",
-      "points": [
-        "인터뷰에서 이승준은 OT·ICS의 AI를 활용한 전문가 기술이 IAEA CyberCon 2026에서 핵심적으로 논의했다.",
-        "원자력 사이버보안에 대한 매우 중요성을 강조하여, OT·ICS를 기술로 창전화시스템으로 확장한 것이 IAEA CyberCon 2026에서 나오는 중요한 사건으로 인식하였다.",
-        "국제 해킹대회(CTF)과 전시 부스의 노력이 OT·ICS 기술에 영향을미쳤다."
-      ],
-      "insight": "이승준의 논문은 OT·ICS·IoT 보안 전문회의에서 국제원자력기구(IAEA)에게 주요한 IT/기술 분앞을 통해 원자력 사이버보안에 대한 시사를 전재으로 제시하였다."
-    },
-    {
-      "title": "이노뎁, 약 73억 벨리즈 AI 관제사업 수주... ‘K-관제센터 수출’ 현실화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143904&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 16:25:00 +0900",
-      "description": "전년도 매출 10% 이상 단일판매·공급계약 공시... 해외 AI 관제사업이 실제 매출로 연결공개입찰 통해 선정, 국내 관제센터 운영 노하우와 AI 영상분석 기술력 해외서 검증조달시장 중심 VMS 기업 넘어 글로벌 AI 도시안전 플랫폼 기업으로 확장[보안뉴스 강초희 기자] 이노뎁(대표이사 이성진)이 약 73억원 규모의 벨리즈 AI 관제 인프라 확장사업을 수주",
-      "language": "ko",
-      "summary": "전년도 매출 10% 이상 단일판매·공급계약 공시. 해외 AI 관제사업이 실제 매출로 연결공개입찰 통해 선정, 국내 관제센터 운영 노하우와 AI 영상분석 기술력 해외서 검증조달시장 중심 VMS 기업 넘어 글로벌 AI 도시안전 플랫폼 기업으로 확장[보안뉴스 강초희 기자] 이노뎁(대표이사 이성진)이 약 73억원 규모의 벨리즈 AI 관제 인프라 확장사업을 수주",
-      "points": [
-        "전년도 매출 10% 이상 단일판매·공급계약 공시",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "S2W, ‘CSAP SaaS’ 간편등급 취득... 공공 안보 AI 시장 정조준",
-      "link": "http://www.boannews.com/media/view.asp?idx=143897&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 16:04:00 +0900",
-      "description": "자비스(XARVIS)·퀘이사(QUAXAR) 2종 인증 통과, 조달청 디지털서비스몰 등록 요건 충족단순 조달 자격 확보 넘어 국가 사이버 안보망에 검증된 민간 위협 인텔리전스 이식 본격화[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA) 주관의 엄격한 보안 요건을 통과한 에스투더블유(S2W)가 공공 클라우드 시장 점유율 확대에 나선다.S2W는 자사의 서비스형",
-      "language": "ko",
-      "summary": "S2W이 XARVIS·QUAXAR에 의해 인증을 받고, 이를 통해 국가 사이버 안보망에서 인텔리전스 이식에 가까이 진행중입니다.",
-      "points": [
-        "- XARVIS·QUAXAR 2종 인증을 내리고, 조달청의 등록요건에 의해서 국가 사이버 안보망에서 국제 인텔리전스 이식에 가까이 진행중입니다.",
-        "- 한국인터넷진흥원(KISA)에서 강조하고싶은 것은 클라우드 시장의 보안 요건을 올바렛시기로 하는 것입니다.",
-        "- S2W의 이상적인 모델과 취약성에 대한 공감으로, KISA가 보안에 주장하는 부분은 중요합니다."
-      ],
-      "insight": "이 기사는 S2W이 국가 사이버 안보시장에서의 이식과 광범위한 확산을 언제든지 강조하고있습니다. 그리고 보안에 취약한 S2W가 공간상승에 이어가기 전 문제로 인정하면서도 모델의 효과성을 강조해주는 KISA의 역대 촬영으로부터 보안권칭의 중요성을 강조합니다."
-    },
-    {
-      "title": "‘애플리케이션·신뢰 기반·계정 악용’ 카스퍼스키가 꼽은 3대 사이버 위협",
-      "link": "http://www.boannews.com/media/view.asp?idx=143899&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 16:00:00 +0900",
-      "description": "외부 노출 애플리케이션 공격 43.7% 차지하며 기업 전산망의 가장 취약한 고리로 확인 전체 공격 절반은 단 하루 만에 시스템 장악해 파일 암호화하는 신속 타격으로 분류[보안뉴스 조재호 기자] 전체 사이버 위협의 과반인 50.9%가 하루 이내에 파일 암호화를 끝내는 신속 타격 유형이며, 이어 33%는 평균 108시간 동안 은밀히 체류하며 기밀을 유출하는",
-      "language": "ko",
-      "summary": "외부 노출 애플리케이션 공격 43. 7% 차지하며 기업 전산망의 가장 취약한 고리로 확인 전체 공격 절반은 단 하루 만에 시스템 장악해 파일 암호화하는 신속 타격으로 분류[보안뉴스 조재호 기자] 전체 사이버 위협의 과반인 50...",
-      "points": [
-        "7% 차지하며 기업 전산망의 가장 취약한 고리로 확인 전체 공격 절반은 단 하루 만에 시스템 장악해 파일 암호화하는 신속 타격으로 분류[보안뉴스 조재호 기자] 전체 사이버 위협의 ...",
-        "9%가 하루 이내에 파일 암호화를 끝내는 신속 타격 유형이며, 이어 33%는 평균 108시간 동안 은밀히 체류하며 기밀을 유출하는",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "파수 AI, 미국 법인 ‘심볼로직’ 출범… 글로벌 ‘AX’ 시장 정조준",
-      "link": "http://www.boannews.com/media/view.asp?idx=143889&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 11:41:00 +0900",
-      "description": "빅테크 출신 포진한 컨실릭스의 플랫폼 구축 기술과 데이터 보안 역량의 결합 AI 전환의 핵심 뇌관인 정보 유출 리스크 해소하며 글로벌 시장 연착륙 시동[보안뉴스 조재호 기자] 파수 AI가 인공지능 전환(AX) 지원 기업으로의 쇄신을 선언한 데 이어 1일 미국 현지에 신규 통합 법인 ‘심볼로직’(Symbologic)을 공식 출범하며 글로벌 사이버보안 및 A",
-      "language": "ko",
-      "summary": "미국 '심볼로직' 법인이 파수 AI의 정보 유출 및 글로벌 시장 연착을 위한 기술 진 Academy",
-      "points": [
-        "- '심볼로직' 법인이 파수 AI를 사용하여 신규 기술 컨실릭스 구성",
-        "- 정보 유출 리스크를 해소하며 글로벌 시장 연착",
-        "이 기사는 AI의 역사와 미국 제2 화재에 대한 기술적인 개선으로 직접적으로 IT/엔지니어맹임을 중심"
-      ],
-      "insight": "이 기사는 AI가 글로벌 브루드업 및 보안 시장 연착에 어떠한 활동을 지원하고 있는 정보를 제공합니다."
-    },
-    {
-      "title": "개인정보위, 2026년 PbD 인증 참여 제품·솔루션 공모 “인증비용 전액 지원”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143892&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 11:37:00 +0900",
-      "description": "가정용 CCTV·로봇청소기 등 개인정보 처리 제품 대상 PbD 인증 참여 기업 모집전문가 컨설팅과 인증 수수료 전액 지원인증 제품은 소비자 신뢰 확보와 시장 경쟁력 강화 기대...향후 법정 인증 전환 시 효력 유지[보안뉴스 강초희 기자] 개인정보보호위원회(위원장 송경희, 이하 개인정보위)는 개인정보 처리 기능이 있는 제품과 솔루션 등을 대상으로 2026년",
-      "language": "ko",
-      "summary": "2026년에 개인정보 위원회는 개인정보 처리 기술 제품과 솔루션을 대상으로 인증 비용 전액 지원을 시도함을 약손하게 만들기를 기다리고 있음.",
-      "points": [
-        "개인정보 위원회는 2026년에 개인정보 처리 기술 제품 대상",
-        "인증비용 전액 지원 제품의 시도를 기다림",
-        "인증 비용 전액 지원을 강화한다면 소비자 신뢰 확보와 경쟁력 향상"
-      ],
-      "insight": "2026년에 개인정보 위원회는 기존 제출에 비해 새로운 인증 제약조건을 협발하고 있습니다. 이를 위해 인증 비용 전액 지원을 시도할 계획이며, 이것은 IT/기술 업체들의 경영력과 소비자 신뢰를 보호하고자는 의미나 시장에서의 인력성을 향상시키기로 계획된 것입니다."
-    },
-    {
-      "title": "레드펜소프트, 공급망 보안 통합 플랫폼 ‘XSCAN Secure Asset’ 출시... “운영 가시성 뚫는다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143895&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 11:33:00 +0900",
-      "description": "과천 ‘DX타워’서 2026 상반기 파트너 세미나 성료, 신규 브랜드 및 시장 확대 전략 공유 개발 및 외부 반입부터 운영 서버 실행까지 아우르는 ‘XSCAN’ 3종 라인업 다각화[보안뉴스 조재호 기자] 레드펜소프트가 개발부터 운영에 이르는 소프트웨어 공급망 보안 전 주기를 단일 워크플로우로 통합 관리하는 신규 솔루션 ‘엑스스캔 시큐어 에셋’(XSCAN",
-      "language": "ko",
-      "summary": "소프트웨어 'XSCAN'를 이용한 보안 전략의 시작으로, 레드펜소프트는 공급망 보안을 다수의 시나리오로 연결하여 개선한다.",
-      "points": [
-        "‘XSCAN’ 솔루션이 ‘DX타워’서와 파트너 세미나에서 제공되는 3종 라인업으로 보안 전략을 구현",
-        "공급망 보안 전시가 공급범위 내의 보안 패뼈이 무한정의를 만족하는 방법에 대한 고도화",
-        0
-      ],
-      "insight": "이러한 모듈화와 결합으로, 이 뉴스는 IT/기술 업체가 보안 전략의 개선과 효율성에 대한 중요한 도전을 시사하며, 'XSCAN'이라는 소프트웨어는 이러한 기술적 보충 판단으로서 IT/기술 업계에서의 영향력과 인시스톰을 중요하게 작성한다."
-    },
-    {
-      "title": "“AI CCTV부터 스마트 에어백까지” 해수부, 항만사업장 안전시설 지원 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=143893&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 11:30:00 +0900",
-      "description": "해수부, 2026년 항만사업장 재해예방시설 지원사업 대상지 71곳 선정AI CCTV·스마트 에어백·응급구조함 등 안전장비 설치 지원으로 항만 근로자 안전 강화50인 미만 사업장 국비 지원율 50% 유지, 중대재해 예방 위한 소규모 사업장 지원 확대[보안뉴스 강초희 기자] 해양수산부(장관 황종우)는 2026년 항만사업장 근로자 재해예방시설 지원사업 대상지로",
-      "language": "ko",
-      "summary": "해수부, 2026년 항만사업장 재해예방시설 지원사업 대상지 71곳 선정AI CCTV·스마트 에어백·응급구조함 등 안전장비 설치 지원으로 항만 근로자 안전 강화50인 미만 사업장 국비 지원율 50% 유지, 중대재해 예방 위한 소규모 사업장 지원 확대[보안뉴스 강초희 기자] 해양수산부(장관 황종우)는 2026년 항만사업장 근로자 재해예방시설 지원사업 대상지로",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 피앤피시큐어, 차세대 공격표면 관리 플랫폼 ‘DBSAFER Shadow Control’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143894&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 1 Jun 2026 11:16:00 +0900",
-      "description": "내부 인프라와 데이터 영역을 아우르는 통합 가시성 확보로 보안 사각지대 제거개인정보 접속기록 관리 솔루션 ‘INFOSAFER’와 연계해 더욱 강력한 시너지 창출개정 개인정보보호법 완벽 대응 및 글로벌 제로트러스트 보안 시장 선도 가속화[보안뉴스 원병철 기자] 국내 통합 보안 솔루션 선도 기업 피앤피시큐어(대표 박천오)가 6월 22~23일 열리는 ‘PIS F",
-      "language": "ko",
-      "summary": "내부 인프라와 데이터 영역을 아우르는 통합 가시성 확보로 보안 사각지대 제거개인정보 접속기록 관리 솔루션 ‘INFOSAFER’와 연계해 더욱 강력한 시너지 창출개정 개인정보보호법 완벽 대응 및 글로벌 제로트러스트 보안 시장 선도 가속화[보안뉴스 원병철 기자] 국내 통합 보안 솔루션 선도 기업 피앤피시큐어(대표 박천오)가 6월 22~23일 열리는 ‘PIS F",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
