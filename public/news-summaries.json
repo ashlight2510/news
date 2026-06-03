@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-06-03T11:04:35.675Z",
+  "generatedAt": "2026-06-03T16:54:43.685Z",
   "articles": [
+    {
+      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+      "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 16:12:06 +0000",
+      "description": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
+      "language": "en",
+      "summary": "The article discusses a security breach on Instagram where hackers managed to take over user accounts even after Meta fixed the problem with its AI chatbot.",
+      "points": [
+        "Hackers took control of victims' Facebook and Instagram accounts using an exploit in Facebook’ end-to-end encryption protocols, bypassing security measures put forth for communications within those platforms.",
+        "Meta acknowledged the issue but claimed it was resolved promptly without affecting user data; however, users reported that their hacker profiles were still being used to spread misinformation and engage in hate speech at least weeks after Meta fixed its AI chatbot on 9 November.",
+        "Instagram's artificial intelligence platform is designed for automated support interactions but was exploited by cybercriminals using a series of social engineering tactics, including catfishing."
+      ],
+      "insight": "This news highlights the potential vulnerabilities in AI chatbots used on major platforms and serves as an important reminder that despite technological advancements in security measures, user awareness is still a key factor. It also emphasizes that even after resolving issues related to platform features or services, monitoring for continued suspicious activity remains crucial."
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 15:50:26 +0000",
+      "description": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "language": "en",
+      "summary": "Amazon plans to implement an AI-driven visual search feature using computer vision and machine learning technologies that generate product images relevant to user queries.",
+      "points": [
+        "Introduction of Amazon's Visual Search: Utilizing artificial intelligence, the online retailer aims to provide users with immediate access to products by generating realistic AI-generated visual content based on their search terms or uploaded pictures.",
+        "AI-Driven Image Generation and Machine Learning Algorithms: At the core of this new service is computer vision technology that powers Amazon's Visual Search, which combines neural networks trained with millions of images to produce detailed product representations in real time for a more intuitive shopping experience.",
+        "Product Recommendations Based on User Interactions and Image Analysis: The system refines its recommendations by analyzing how users interact with the AI-generated visuals, adjusting search results based on user behavior patterns."
+      ],
+      "insight": "The launch of Amazon'semvisualsearch feature marks a significant development in ecommerce technology that bridges online shopping and traditional brick-and-mortar retail experience. The realistic AI product images are expected to provide users with an easier way to locate products, reduce search times, increase user satisfaction rates and potentially boost sales."
+    },
+    {
+      "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+      "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 15:31:42 +0000",
+      "description": "The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
+      "language": "en",
+      "summary": "AI music generator Suno continues to face copyright lawsuits but secures another round of funding worth over $400 million.",
+      "points": [
+        "Suno has been sued for allegedly infringing on the works of famous artists despite its attempts at original content creation through AI technology.",
+        "The company recently raised additional capital to support Suno'ner, an initiative aimed at addressing racial and gender inequality within music production industries using artificial intelligence (AI).",
+        "$417.5 million in fundraising round announced on January 29th takes the total investment since its founding as of February 3rd to $806 million."
+      ],
+      "insight": "The continued legal challenges and substantial capital raised by Suno demonstrate both the industry's contentious stance toward AI-generated music, but also highlight significant interest in diversifying representation within this evolving field of technology. This situation is likely to influence future copyright discussions as well as shape how originality can be balanced with fair compensation and opportunities for underrepresented creatives."
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "description": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "language": "en",
+      "summary": "Two former employees from Goldman Sachs and Meta leave to create a voice AI startup for the markets they believe are overlooked in Africa.",
+      "points": [
+        "The duo, after working at prestigious tech firms, saw an opportunity in African call centers due to their high growth potential amid market imbalances.",
+        "Voxi's solution targets the 'bottom of the pyramid', a strategy that has been successful for others but is less understood by outsiders and often overlooked investors.",
+        "The startup focuses on industries like tourism, fashion retailing, cosmetic products where offline-first strategies are vital due to limited internet penetration."
+      ],
+      "insight": "This news highlights the untapped potential in African markets for voice AI startups and underscores how market imbalances can be leveraged for innovative solutions. It's an example of disruptive technology finding its niche where it was previously ignored."
+    },
+    {
+      "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+      "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 14:59:30 +0000",
+      "description": "The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.",
+      "language": "en",
+      "summary": "The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform",
+      "points": [
+        "The company is reducing its workforce as it exits 22 countries, reduces management layers, and inves...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 14:58:33 +0000",
+      "description": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "language": "en",
+      "summary": "U.K. regulators have mandated Google to create a tool for website publishers to opt-out of AI search functions.",
+      "points": [
+        "Google must provide an 'opt out' option for generative AI in the U.K., with plans to extend it globally.",
+        "This regulation comes after concerns that content misrepresentation could occur due to algorithmic processing within Google Lens and ChatGPT.",
+        "The opt-out tool will ensure website owners have control over how their sites appear in AI search results."
+      ],
+      "insight": "This news highlights the growing concerns about content authenticity on digital platforms, leading to increased regulation of generative AI tools like Google Lens and ChatGPT. The opt-out tool for publishers could set a precedent for global implementation in maintaining control over their own content."
+    },
+    {
+      "title": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
+      "link": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 14:04:38 +0000",
+      "description": "The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.",
+      "language": "en",
+      "summary": "TikTok has introduced a new feature called TikTok Pro Events that allows users to engage with cultural moments like the FIFA World Cup.",
+      "points": [
+        "The app enables fans to connect and interact with other supporters during major events",
+        "It offers access to trending videos related to the event of interest, such as the FIFA World Cup this year in Qatar",
+        "TikTok has curated a feed featuring creators from around the world who are contributing content for these special moments"
+      ],
+      "insight": "The launch of TikTok Pro Events highlights the platform's ability to create and maintain engaging experiences during major cultural events, further strengthening its position as an influential social media tool in this industry."
+    },
+    {
+      "title": "The worst hacks and breaches of 2026 (so far)",
+      "link": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 14:02:45 +0000",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "language": "en",
+      "summary": "The article details various high-impact hacks including a major DOGE data breach, critical infrastructure targeted in energy and water systems attacks, as well as an FBI surveillance system hack.",
+      "points": [
+        "A massive DOGE data breach compromised digital assets linked to the cryptocurrency market.",
+        "Critical energy and water systems were subjected to cyber-physical threats that could disrupt essential services.",
+        "An FBI surveillance system was hacked, potentially exposing sensitive national security information."
+      ],
+      "insight": "This year's incidents underscore the increasing convergence of technology and physical infrastructure in critical systems. As such vulnerabilities become more apparent across different sectors, a unified approach to cybersecurity becomes imperative for industry resilience against sophisticated threats."
+    },
+    {
+      "title": "Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’",
+      "link": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 14:00:58 +0000",
+      "description": "This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites.",
+      "language": "en",
+      "summary": "This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites",
+      "points": [
+        "This open-source community project lets you create a StumbleUpon-like experience for recommending yo...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 13:40:00 +0000",
+      "description": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "language": "en",
+      "summary": "Meta's artificial intelligence (AI) assistant for WhatsApp Business is now globally available and charges users a fee per transaction.",
+      "points": [
+        "Global rollout of Meta AI on WhatsApp Business with token-based fees",
+        "Businesses can use automated chatbot, voice assistants in customer interactions to save time",
+        "New billing system based on tokens will be implemented for business transactions"
+      ],
+      "insight": "The availability of Meta AI globally and its token-based payment model may encourage more small and medium-sized enterprises (SMEs) to adopt WhatsApp Business due to time savings in customer interactions. However, the transaction fee could be a potential barrier for smaller businesses with limited budgets."
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "description": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "language": "en",
+      "summary": "The Series F round values Coralogix at $1. 6 billion and comes less than a year after its previous raise",
+      "points": [
+        "The Series F round values Coralogix at $1",
+        "6 billion and comes less than a year after its previous raise",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
+      "link": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "description": "Plex has come a long way from being just a personal media server. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movie rental options. Now, the company is setting its sights on competing with social networking platforms like Reddit and Letterboxd: on Wednesday, Plex unveiled several […]",
+      "language": "en",
+      "summary": "Plex has expanded beyond a personal media server to include ad-supported content and rental options as it ventures into the social networking space with new features unveiled on Wednesday.",
+      "points": [
+        "Plex, traditionally known for its streaming capabilities within users' homes, is adding 'likes,' follow buttons, comment sections to attract more users in a bid to compete with Reddit and Letterboxd.",
+        "The social features introduced are part of Plex's new service called Stream Social (PSS), which has no subscription fee but requires monthly donations as payment. The company plans another price hike for its lifetime pass after the launch.",
+        "While Reddit is more video-focused and Letterboxd specializes in movie discussions, Plex's Stream Social seeks to become a one-stop social media platform catering to various interests like movies or music."
+      ],
+      "insight": "The launch of Plex Stream Social represents the company'selseeking entry into direct competition with established streaming and discussion platforms, potentially disrupting the traditional subscription model by offering a donation-based alternative. This move could significantly alter how users engage in community discussions around media."
+    },
     {
       "title": "아디다스 “2028년까지 ‘비밀번호’ 완전 폐기”... 고객·유통 모든 접점 ‘연결’",
       "link": "http://www.boannews.com/media/view.asp?idx=143939&kind=&sub_kind=",
@@ -568,184 +748,6 @@
         "The emphasis on daily essentials for Amazon's upcoming sale reflects the evolving needs of their customers who are looking beyond just entertainment products. By offering significant discounts in these categories, they not only meet customer demands but also compete with rivals like Walmart and Target."
       ],
       "insight": "The shift towards affordable daily essentials on Amazon Prime Day signals the company's understanding of changing consumer preferences for practicality over entertainment products. This strategy could potentially expand their market share in everyday retail as customers increasingly turn to e-commerce platforms."
-    },
-    {
-      "title": "Blue Origin plans to launch New Glenn again this year after explosion",
-      "link": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 13:25:59 +0000",
-      "description": "CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected. But Blue Origin still hasn't shared the cause of last week's explosion.",
-      "language": "en",
-      "summary": "Blue Origin experienced an unfortunate explosion during a test flight this year and plans to resume launches despite some damage to their Florida launchpad.",
-      "points": [
-        "CEO Dave Limp stated the expected pad repairs are less severe than anticipated but no cause for the recent failure was shared by Blue Origin, resulting in an announcement that they will attempt another flight this year as planned.",
-        "Blue Origin's launchpad sustained damage due to a failed test of their New Glenn rocket which is aimed at reaching orbit; however details on repairs and cause were not disclosed publicly by the company following last week’s event.",
-        "The uncertainty surrounding these repeated failures has raised industry concerns about Blue Origin's future, while also leading to discussions around improved safety measures."
-      ],
-      "insight": "Blue Origin faces heightened scrutiny and pressure from both within their company and the wider space technology community due to a string of failed launches impacting trust in reliability. The industry may now expect more transparency regarding failure causes, as well reaffirmation of safety protocols."
-    },
-    {
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 12:32:59 +0000",
-      "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-      "language": "en",
-      "summary": "ZeroDrift has raised $10M in funding for its service designed to monitor AI-generated content between models and users, ensuring messages remain compliant with regulations.",
-      "points": [
-        "AI startup ZeroDrift secures $10 million towards developing a monitoring tool that acts as an intermediary between AI outputs and human consumers."
-      ],
-      "insight": "The increasing need for technology firms to monitor their automated systems, especially those with significant societal impact like language models (e.g., ChatGPT), is driving innovation in the form of services designed specifically for this purpose – representing a shift towards greater accountability and governance within AI-driven industries."
-    },
-    {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 12:00:00 +0000",
-      "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-      "language": "en",
-      "summary": "Impulse Space has raised $50 end of the year holiday shopping season and is looking for people rather than investing in artificial intelligence.",
-      "points": [
-        "- Impulse Space president Eric Romo believes engineering physical systems still depends on human talent.",
-        "- The company has secured a significant fundraising round with $50 million, led by Dentsu Aegis Alliance and joined by new investors Andreessen Horowitz and Coatue Management LLC among others.",
-        "- Despite interest in artificial intelligence within the space industry, Impulse Space is prioritizing hiring skilled individuals for their rocket engine projects."
-      ],
-      "insight": "The emphasis on human talent over AI investment by companies like Impulse Space indicates that hands-on skills and experience remain crucial in aerospace technology development during the current market trend of automation."
-    },
-    {
-      "title": "Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst",
-      "link": "https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 11:00:00 +0000",
-      "description": "Pacific Fusion's subscale prototype delivered enormous amounts of power in a flash, setting the company up for its demonstration power plant.",
-      "language": "en",
-      "summary": "The IT/technology news article discusses Pacific Fusion’s development and testing of an experimental fusion reactor prototype that has successfully generated a substantial amount of electricity in a very short time frame.",
-      "points": [
-        "Pacific Fusion's subscale proto-type delivered power equivalent to over half a billion wind turbines at one go",
-        "This demonstration marks the first fusion energy production for Pacific Fusion and sets the stage for their planned commercial plant in B.C.",
-        "The successful test indicates that controlled nuclear fusion could become commercially viable, potentially revolutionizing global power generation"
-      ],
-      "insight": "If further development continues to progress as successfully demonstrated by this prototype, Pacific Fusion's energy production technology might bring about a significant shift towards more sustainable and environmentally friendly methods of electricity generation within the IT/technology industry."
-    },
-    {
-      "title": "넷스카우트, ‘디지털 뱅킹’ 가시성 솔루션 제공... “트랜잭션 투명성 보장”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143928&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 17:59:00 +0900",
-      "description": "하이브리드 금융 인프라 전반의 트랜잭션 모니터링하는 ‘엔지니어스원`AI 서비스 흐름 추적 및 제로트러스트 보안 가시성 강화[보안뉴스 조재호 기자] 넷스카우트가 금융기관의 디지털 뱅킹 환경 고도화에 맞춰 스마트 데이터를 활용한 관찰 가능성(Observability) 관리 솔루션을 제공한다고 2일 밝혔다.넷스카운트는 통합 모니터링 솔루션 ‘엔지니어스원’(nGe",
-      "language": "ko",
-      "summary": "넷스카우트는 금융시장의 대중화인 '엔지니어스원' AI를 제공하여, 스마트 기능을 활용한 관찰 가능성을 강화한다.",
-      "points": [
-        "넷스카우트는 '엔지니어스원' AI를 제공",
-        "인터럽트 시장에서의 금융시장 모니터링",
-        "스마트 기능과 조직을 활용한 관찰 가능성 강화"
-      ],
-      "insight": "넷스카우트는 금융시장의 모니터링과 보안을 확산하고, '엔지니어스원' AI에 기초를 둔 것이다."
-    },
-    {
-      "title": "[단독] 삼성전자·SK하이닉스·SKT, 미토스 접근권한 확보... “반도체 보안 국가적 문제”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143930&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 17:43:00 +0900",
-      "description": "반도체 공정 보안은 국가 산업에 중대한 문제SKT의 앤트로픽 지분 4조원 가치 추정... 파트너십 작용[보안뉴스 강현주 기자] 앤트로픽이 ‘프로젝트 글래스윙’의 글로벌 참여 확대 기조에 나선 가운데 국내 기업으로는 삼성전자와 SK하이닉스, SK텔레콤이 ‘미토스’ 접근 권한을 갖게 됐다. 2일 반도체 업계 및 IT 업계에 따르면 삼성전자와 SK하이닉스, SK",
-      "language": "ko",
-      "summary": "반도체 공정 보안은 국가 산업에 중대한 문제SKT의 앤트로픽 지분 4조원 가치 추정. 파트너십 작용[보안뉴스 강현주 기자] 앤트로픽이 ‘프로젝트 글래스윙’의 글로벌 참여 확대 기조에 나선 가운데 국내 기업으로는 삼성전자와 SK하이닉스, SK텔레콤이 ‘미토스’ 접근 권한을 갖게 됐다...",
-      "points": [
-        "반도체 공정 보안은 국가 산업에 중대한 문제SKT의 앤트로픽 지분 4조원 가치 추정",
-        "파트너십 작용[보안뉴스 강현주 기자] 앤트로픽이 ‘프로젝트 글래스윙’의 글로벌 참여 확대 기조에 나선 가운데 국내 기업으로는 삼성전자와 SK하이닉스, SK텔레콤이 ‘미토스’ 접근 ...",
-        "2일 반도체 업계 및 IT 업계에 따르면 삼성전자와 SK하이닉스, SK"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[해킹을 결제하시겠습니까?] #5. “PC방에서 인터넷뱅킹을?” 나도 모르게 모두와 공유하는 개인정보",
-      "link": "http://www.boannews.com/media/view.asp?idx=143922&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 16:26:00 +0900",
-      "description": "PC방·호텔·공항 컴퓨터에 남겨진 로그인 정보계좌보다 먼저 털리는 건 개인정보 “급한데 스마트폰 배터리가 없네.” “그래서?” “PC방 컴퓨터로 인터넷뱅킹 하려고.” “하지 마.” “왜? 로그인만 하면 되는데.” “그 한 번 때문에 비밀번호 바꾸는 사람이 한둘이",
-      "language": "ko",
-      "summary": "PC방·호텔·공항 컴퓨터에 남겨진 로그인 정보계좌보다 먼저 털리는 건 개인정보 “급한데 스마트폰 배터리가 없네. ” “PC방 컴퓨터로 인터넷뱅킹 하려고...",
-      "points": [
-        "PC방·호텔·공항 컴퓨터에 남겨진 로그인 정보계좌보다 먼저 털리는 건 개인정보 “급한데 스마트폰 배터리가 없네",
-        "” “PC방 컴퓨터로 인터넷뱅킹 하려고",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "챗GPT에서 링크만 클릭했을 뿐인데... 신종 피싱 공격 ‘ChatGPhish’ 등장",
-      "link": "http://www.boannews.com/media/view.asp?idx=143913&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 15:51:00 +0900",
-      "description": "AI가 생성한 링크 통해 금융정보·비밀번호 탈취 시도AI 개발사들, 악성 프롬프트 차단 필터 강화 추진[보안뉴스 김형근 기자] 생성형 인공지능(AI) 플랫폼 챗GPT의 웹 요약 기능을 악용해 사용자를 피싱 사이트로 유인하는 ‘챗지피시’(ChatGPhish) 취약점의 위험성을 보안 기업 퍼미소 시큐리티(Permiso Security)의 AI 보안 전문가들이",
-      "language": "ko",
-      "summary": "AI-기由처럼 'ChatGPhish' 사이트는 글자의 인적십과 비밀번호를 함 automount로 유발시.",
-      "points": [
-        "인공지능(AI)를 위해 'ChatGPhish' 사이트 환경을 설정합니다.",
-        "인터넷 방식으로 유인한 공격으로, 자동화된 서비스로, 딥싱 공격의 함수가 수행되는.",
-        "보안 기술 회사인 'Permiso Security'이 이에 대한 보안 전문가를 모여 개방을 세우기로 결실화."
-      ],
-      "insight": "이러한 AI-기용 공격으로 인식할 수 s랑양 'ChatGPhish'는 IT 업체에서의 채널을 통해 사용자를 유의성과 동일한 방향으로 제금여기로 이동시키고 있습니다."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 이지서티, AI 기반 개인정보보호 솔루션 ‘EZRO’ 시리즈",
-      "link": "http://www.boannews.com/media/view.asp?idx=143924&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 15:46:00 +0900",
-      "description": "EZRO-PSM V4.0 시작으로, AI 개인정보보호 솔루션 시대 서막[보안뉴스 강현주 기자] 이지서티는 AI 기반 개인정보보호 기술을 핵심 역량으로 하는 개인정보보호 전문기업으로, 공공·금융·민간 전 분야에 걸쳐 솔루션을 제공하고 있다. 2025년은 이지서티에 있어 특히 의미 있는 한 해였다. 개인정보 유출 사고가 연이어 발생하며 시장 수요가 급증한 가운",
-      "language": "ko",
-      "summary": "EZRO-PSM V4. 0 시작으로, AI 개인정보보호 솔루션 시대 서막[보안뉴스 강현주 기자] 이지서티는 AI 기반 개인정보보호 기술을 핵심 역량으로 하는 개인정보보호 전문기업으로, 공공·금융·민간 전 분야에 걸쳐 솔루션을 제공하고 있다...",
-      "points": [
-        "0 시작으로, AI 개인정보보호 솔루션 시대 서막[보안뉴스 강현주 기자] 이지서티는 AI 기반 개인정보보호 기술을 핵심 역량으로 하는 개인정보보호 전문기업으로, 공공·금융·민간 전...",
-        "2025년은 이지서티에 있어 특히 의미 있는 한 해였다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "스틸컷, 국가 ‘AI’ 혁신조달 대전 최우수상 쾌거... 딥페이크 방어 성능 입증",
-      "link": "http://www.boannews.com/media/view.asp?idx=143926&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 15:41:00 +0900",
-      "description": "조달청 주관 공모전서 보호 노이즈 주입 기술 적용된 ‘StealCut Protect’로 1위혁신 시제품 지정 및 시범구매 연계로 B2G 공공 보안 시장 진출 청신호[보안뉴스 조재호 기자] 보안 스타트업 스틸컷(Stealcut)이 조달청과 한국조달연구원 혁신제품지원센터가 공동 주관하는 ‘2026 대한민국 AI 혁신조달 대전’에서 최우수상을 수상하며 공공조달",
-      "language": "ko",
-      "summary": "‘StealCut Protect’ 시번 제품이 공공 보안 시장에서 가장 우수한 성능을 기입하였다.",
-      "points": [
-        "Stealcut와 조달청은 공균주로 'StealCut Protect' 시번 제품을 제출한다.",
-        "이 제품은 국민보안에 기여하며, 최우수상과 귀하님의 공료에 대한 인용식을 꼭 요구했다.",
-        "시번이 'StealCut Protect' 제품은 대안적인 보안 기능 제공을 위해 조달청과 의무를 한국정부에게 의해 개인저감하여 추진했다."
-      ],
-      "insight": "이 기사는 공개보안 시장에서 뛰어나 우수한 성능을 제공하는 'StealCut Protect' 제품의 중요성과 국가적인 업체지식이 기술 혁신에서 확립된 의미를 포함한다."
-    },
-    {
-      "title": "사람과 AI 신원 함께 관리... 비욘드트러스트, 새 프레임워크로 신원 보안 위협 평가 확장",
-      "link": "http://www.boannews.com/media/view.asp?idx=143925&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 13:43:00 +0900",
-      "description": "보안 취약 영역, 위험 감소 조치 빠르게 파악데이터, 도구 사용, 기밀 유출 등 AI 보안 위협 유발 요소 식별[보안뉴스 한세희 기자] 비욘드트러스트가 사람과 AI 신원을 아울러 신원 공격 표면을 관리하고 위협에 대응하기 위한 새 아이덴티티 보안 위험 평가(ISRA)를 2일 발표했다. ISRA는 비욘드크러스트의 신원 보안 솔루션 ‘비욘드트러스트 아이덴티티",
-      "language": "ko",
-      "summary": "기사는 AI로 관리한다가 위협을 확인",
-      "points": [
-        "비욘드트러스트이 AI보안 제품의 신원 보호 목적으로",
-        "사람과 함께 신원을 관리하고, 이를 AI기준비에 확장한다",
-        "AI보안 위협의 요소를 식별하여 보호 솔루션을 개선해야 한다"
-      ],
-      "insight": "이러한 AI보안 시스템은 큰 미세한 차원의 광범위한 신원 보호를 위해 개발되었지만, 위협심진 공격에 대비하기 전에 충전과 수정이 필요해졌다."
-    },
-    {
-      "title": "“K-인증, 글로벌 표준으로” 한국디지털인증협회, 염흥열 신임 회장 취임",
-      "link": "http://www.boannews.com/media/view.asp?idx=143920&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 2 Jun 2026 11:34:00 +0900",
-      "description": "국제전기통신연합 전기통신표준화부문(‘ITU-T’) 의장 출신의 세계적 정보보호 석학 영입美 연방수사국(FBI) 협력 이끌어낸 글로벌 네트워크 바탕으로 회원사 해외 진출 집중 지원[보안뉴스 조재호 기자] 한국디지털인증협회가 세계적인 정보보호 전문가를 수장으로 선임하고, AI 시대 디지털 신원 인프라의 국제 표준화 주도에 박차를 가한다.한국디지털인증협회는 염흥",
-      "language": "ko",
-      "summary": "국제전기통신연합 전기통신표준화부문(‘ITU-T’) 의장 출신의 세계적 정보보호 석학 영입美 연방수사국(FBI) 협력 이끌어낸 글로벌 네트워크 바탕으로 회원사 해외 진출 집중 지원[보안뉴스 조재호 기자] 한국디지털인증협회가 세계적인 정보보호 전문가를 수장으로 선임하고, AI 시대 디지털 신원 인프라의 국제 표준화 주도에 박차를 가한다. 한국디지털인증협회는 염흥",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
