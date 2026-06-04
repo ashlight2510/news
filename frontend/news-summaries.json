@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-06-04T04:07:47.118Z",
+  "generatedAt": "2026-06-04T10:04:26.547Z",
   "articles": [
+    {
+      "title": "신라대 부산보안검색교육센터, 동남권 최초 국토교통부 항공보안검색교육기관 지정",
+      "link": "http://www.boannews.com/media/view.asp?idx=143969&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 17:39:00 +0900",
+      "description": "보안검색과 항공경비, 폭발물 관련 교육 등 11개 항공보안 분야 교육과정 운영[보안뉴스 엄호식 기자] 신라대학교(총장 허남식) 평생교육원 부산보안검색교육센터는 국토교통부로부터 항공보안검색교육기관으로 지정받았다고 4일 밝혔다. 이는 수도권 중심으로 운영되던 항공보안검색인력 양성체계에서 동남권 최초로 항공보안검색교육기관으로 지정된 사례다.이번 지정은 ‘항공보안",
+      "language": "ko",
+      "summary": "신라대학교 부산에서 최초로 항공보안검색교육기관이 지정되었음을 경영학위노리스에서 밝여.",
+      "points": [
+        "신라대학교 부산 포인트는 보안검색과 항공경비, 폭발물 관련 교육 분앞에서 나타나지만 신라대학교가 국토교통부로부터 지정되었다.",
+        "이 진짜인 지정은 주요 기술관련 생산기반잡회에서 보호청가와 안전수선 제2종로부터 지정되어 동남권에서 최초로이다.",
+        "보안검색기업의 역할은 국민의 안전과 상황을 강화하는 목적으로 명시되어 교육센터를 지원한다."
+      ],
+      "insight": "국내 공통보안청가인 국토교통부이 SSL로 지정해주기로 한국어로 작성"
+    },
+    {
+      "title": "아프간 재무부 무너뜨린 스피어피싱 ‘오퍼레이션 제노피스컬’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143948&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 17:07:00 +0900",
+      "description": "파키스탄 배후 ‘사이드카피’ 대사관 사칭 도메인과 다단계 감염 체인 악용해오픈소스 제노 랫(Xeno RAT)으로 인프라 장악, 타 APT 조직과 인프라 밀월 포착[보안뉴스 김형근 기자] 파키스탄 정부가 배후에 있는 것으로 추정되는 해킹 조직 ‘사이드카피’가 아프가니스탄 재무부를 겨냥한 표적형 스피어피싱 공격을 감행했다.글로벌 보안 기업 시크리트(Seqrit",
+      "language": "ko",
+      "summary": "아프가니스탄 정부가 국민의 인터럽트 서비스에 대한 공격으로 재무부를 겨본 공격.",
+      "points": [
+        "- '사이드카피' 대사관 사칭 도메인과 다단계 감염 체인 악용",
+        "- 스피어피싱 ‘오퍼레이션 제노피스컬’(Xeno RAT)를 사용한 공격",
+        "- 국민의 인터럽트 서비스 활동성을 위해 대체적으로 공격"
+      ],
+      "insight": "이 보안에 관한 일은 현재 국내에서만 발생하며, '사이드카피' 대사관이 인터럽트 서비스를 위해 공격하고 있음을 나타내는 '오퍼레이션 제노피스컬'(Xeno RAT)의 사용으로 인한 국민의 정보보호 문제가 존재하고, 국민의 인터럽트 서비스 이력을 통해 '사이드카피' 대사관은 인터럽트 서비스를 위해 공격한다."
+    },
+    {
+      "title": "파수 AI, 美 가트너 서밋서 ‘AI 데이터 유출’ 해법 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=143966&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 17:05:00 +0900",
+      "description": "1~3일 미국 메릴랜드 ‘가트너 시큐리티 서밋 2026’ 참가해 글로벌 거버넌스 전략 공유‘섀도우 AI’ 확산 속 기존 경계 보안 한계 지적... 다중 모니터링 포인트 조합 필수 역설[보안뉴스 조재호 기자] 파수 AI가 기존 통제 방식의 한계를 지적하고 조직 리스크에 맞춘 다층적 모니터링 기반의 실용적인 AI 데이터 보안 프레임워크를 제안했다.파수 AI는",
+      "language": "ko",
+      "summary": "미국 메릴랜드가 파수 AI를 이용한 다층적인 AI 보안 전략을 제안하여 기존 방식의 한계를 해결",
+      "points": [
+        "파수 AI는 다중 모니터링 포인트 조합을 통해 구성된 AI 데이터 보안 프레임워크를 제안",
+        "기존 텍스트 모드로 인식하는 전처리기, 모니터링 시기 및 활동 모드로 인식하는 구조적 요소를 통해 보안 프레임워크 진전을 위해",
+        "생성과 유지보호에 대한 데이터 관리에 대한 근사적인 방식을 제시하여 AI 많은 영향을 미소"
+      ],
+      "insight": "파수 AI는 IT/기술 업계에서의 보안에 주로 영향을 미치는 현재 공지인데, 이를 위한 단순한 방식은 아니다. 대개 기존 방식의 한계와 보호에 대해서 생각해도 아주 중요하며, 파수 AI는 이를 바로 연출하여 AI 보안 전략을 새로운 방식으로 제시"
+    },
+    {
+      "title": "[PIS FAIR 2026 미리보기] 인스피언, AP·WEB 통합 개인정보 접속기록 플랫폼 ‘xCon’",
+      "link": "http://www.boannews.com/media/view.asp?idx=143938&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 16:52:00 +0900",
+      "description": "접속기록 관리부터 감사 대응까지 규제 대응 새 기준개인정보보호 체계 통합 플랫폼[보안뉴스 강현주 기자] 인스피언은 SAP 환경에 특화된 보안 및 데이터 연계 기술력을 기반으로, 기업의 개인정보보호와 컴플라이언스 대응을 지원하는 IT 솔루션 전문 기업이다. SAP 인터페이스, EDI, 데이터 보안 등 다양한 영역에서 기술력을 축적해왔으며, 특히 개인정보 접속",
+      "language": "ko",
+      "summary": "SAP의 질서 기술 전문가인 인스피언은 IT 솔루션을 제공하여 개인정보보호와 컴플라이언스에 고수준의 기술이 필요한 사원들과 근절의 운영 지침을 제공.",
+      "points": [
+        "인스피언은 SAP 환경에서 개인정보보호와 컴플라이언스 대응에 미치는 손해를 매겨내는 기술 전문가",
+        "다양한 영역, 즉 SAP 인터페이스, EDI, 데이00,00,35492186: [2022-07-07] AI기기가 일정 시간동안 누적으로 환경에서 개인정보를 모니터링하여 이를 사용자가 원하는 방식으로 제어할 수 있도록 지원할 수 있다.",
+        "인스피언은 기술 및 개인정보 보호에 관하여 많이 알맊리는 논의나 지원한다."
+      ],
+      "insight": "인스피언은 지속적으로 IT 기술에 대한 전문가로서 개인정보보호 및 컴플라이언스에 상응하는 제품의 시작줄임을 나타낸다."
+    },
+    {
+      "title": "스스로 판단하고 막아낸다... 이글루코퍼레이션, ‘자율형 보안운영센터’ 본격화",
+      "link": "http://www.boannews.com/media/view.asp?idx=143965&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 16:49:00 +0900",
+      "description": "단순 탐지 넘어서는 능동적 ‘에이전틱 AI’ 엔진 고도화 통해 방어 생명주기 주도KISA 지원사업 통해 실제 SOC 환경과 유사한 시뮬레이션 인프라 구축 및 실증[보안뉴스 조재호 기자] 이글루코퍼레이션이 한국인터넷진흥원(KISA)에서 주관하는 ‘2026년 인공지능(AI) 보안 유망기업 육성 지원사업’의 시제품 개발 과제 수행기관으로 최종 선정됐다고 4일 밝",
+      "language": "ko",
+      "summary": "기사는 2026년에 이미 구현되어 있는 '자율형 보안업계'을 소개한다.",
+      "points": [
+        "KISA가 2026년 인공지능(AI)를 이용한 보안업계 구축에 제안한다.",
+        "대형기사의 발행과정이 KISA 지원사업의 시작으로 연결되어왔다.",
+        "탑재방식, 인프라구축 방법에 대해서도 상세한 내용을 제공한다."
+      ],
+      "insight": "기사는 IT/기술 업계에서 AI를 활용하여 보안업계를 개발하는 대형기사의 시작과정을 소개한다."
+    },
+    {
+      "title": "[보안최전선 ⑥] 공지훈 라포랩스 보안 컴플라이언스 엔지니어 “AI 시대의 보안은 ‘정책 공학’에 있어”",
+      "link": "http://www.boannews.com/media/view.asp?idx=143931&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 16:40:00 +0900",
+      "description": "공공·금융·산업 포괄한 실전 경험으로 다져진 실용주의 보안 철학 제시사내 보안 문화 정착 이끌며 기술 기반의 AI 자율책임 보안 전략 공유 [보안뉴스 조재호 기자] “보안이 타 부서의 발목을 잡는 답답한 규제로 인식되어선 안 됩니다. 조직이 달성하고자 하는 비즈니스 목표를 정확히 파악하고, 가이드라인 안에서 최적의 해법을 찾아주는 조력자가 되어야 합니다.”",
+      "language": "ko",
+      "summary": "AI로 인식되어 보안에 대한 체계를 강화해야 합니다",
+      "points": [
+        "AI 기반의 보안 전략이 중요합니다.",
+        "조직이 진행하고자 하는 계산을 외우지 않으면 정신저를 해제할 수 0가 있습니다.",
+        "AI로 또는 시스텬화된 보안은 ‘정책 공학’이라고 계산하면 바로 이해할 수 있습니다."
+      ],
+      "insight": "AI에 대한 보안 문제는 기술에 의존하며, ‘정책 공학’과 관련성을 강조해주세요."
+    },
+    {
+      "title": "화재·폭발·침입까지 AI가 먼저 본다... 엑시스, 산업안전 특수카메라 풀라인업 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=143923&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 16:13:00 +0900",
+      "description": "열화상·레이더·방폭·해양 특수카메라 라인업으로 산업안전 강화자체 AI 칩과 엣지 분석 기술로 실시간 감지·예측·대응 구현[보안뉴스 강초희 기자] 산업 현장의 안전 관리 패러다임이 사고 발생 이후 대응 중심에서 위험 징후를 사전에 감지하고 예방하는 방식으로 빠르게 전환되고 있다. 화재와 설비 과열, 위험구역 침입, 폭발 위험 등 다양한 산업재해 요인을 실시간",
+      "language": "ko",
+      "summary": "열화상·레이더·방폭·해양 특수카메라 라인업으로 산업안전 강화자체 AI 칩과 엣지 분석 기술로 실시간 감지·예측·대응 구현[보안뉴스 강초희 기자] 산업 현장의 안전 관리 패러다임이 사고 발생 이후 대응 중심에서 위험 징후를 사전에 감지하고 예방하는 방식으로 빠르게 전환되고 있다. 화재와 설비 과열, 위험구역 침입, 폭발 위험 등 다양한 산업재해 요인을 실시간",
+      "points": [
+        "화재와 설비 과열, 위험구역 침입, 폭발 위험 등 다양한 산업재해 요인을 실시간",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "시놀로지, ‘디지털 주권’으로 프라이빗 클라우드 도입 가속화 강조",
+      "link": "http://www.boannews.com/media/view.asp?idx=143959&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 16:04:00 +0900",
+      "description": "AI와 데이터 결합, 기업 IT 전략의 새로운 도전 제시데이터 소유권 및 안전한 AI・사이버 회복력 등 강조[타이베이=보안뉴스 엄호식 기자] 시놀로지(Synology)의 마이크 첸(Mike Chen) 마케팅 디렉터(Marketing Director)는 4일(현지시간) 타이베이 난강 전시센터 제2전시장(TaiNEX 2) 콘퍼런스룸에서 진행된 포럼",
+      "language": "ko",
+      "summary": "시놀로지는 디지턾 주권(PaaS)인 프라이빗 클라우드를 IT 기술에 강요잡고, 데이터 소유, AI 회복력을 장려한다.",
+      "points": [
+        "시놀로지는 프라이빗 클라우드를 사용하여 IT 기술에서 도전 제시가 되어 진행중이다.",
+        "인재축구의 전문가로 한계를 벗어나는 시놀로지는 소유권과 회복력을 강조한다.",
+        "다양한 IT 기술에서의 연구나 도전을 하나로 모아 악이롱스카프에게 특정한 업무를 제공함으로다."
+      ],
+      "insight": "시놀로지는 IT/기술 업계에서도 기존의 경로가 아니라, 새로운 인지과학적 기반이나 인사이트로 전런드를 통해 시작하고 진전을 주장하고있다."
+    },
+    {
+      "title": "티빙, 개인정보 유출 사고 연계 서비스로 번지나? ‘CJ ONE’ 연계 피해 우려",
+      "link": "http://www.boannews.com/media/view.asp?idx=143958&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 15:50:00 +0900",
+      "description": "티빙 회원정보 유출 ‘중대한 사고’로 판단한 과기정통부 민관합동조사단 조사 착수700만명 규모 ‘CI’ 탈취 정황... 통합 로그인 연동된 ‘CJ ONE’ 수평 이동 가능성[보안뉴스 조재호 기자] 국내 대표 온라인 동영상 서비스(OTT) 티빙(TVING)에서 개인정보 유출 사고가 터지자 정부가 민관합동조사단을 꾸려 조사에 착수했다. 단순 식별정보를 넘어 7",
+      "language": "ko",
+      "summary": "티빙 회원정보 유출 ‘중대한 사고’로 판단한 과기정통부 민관합동조사단 조사 착수700만명 규모 ‘CI’ 탈취 정황. 통합 로그인 연동된 ‘CJ ONE’ 수평 이동 가능성[보안뉴스 조재호 기자] 국내 대표 온라인 동영상 서비스(OTT) 티빙(TVING)에서 개인정보 유출 사고가 터지자 정부가 민관합동조사단을 꾸려 조사에 착수했다...",
+      "points": [
+        "티빙 회원정보 유출 ‘중대한 사고’로 판단한 과기정통부 민관합동조사단 조사 착수700만명 규모 ‘CI’ 탈취 정황",
+        "통합 로그인 연동된 ‘CJ ONE’ 수평 이동 가능성[보안뉴스 조재호 기자] 국내 대표 온라인 동영상 서비스(OTT) 티빙(TVING)에서 개인정보 유출 사고가 터지자 정부가 민관...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "의료기기 2등급 인증 기반 유니온바이오메트릭스 ‘HealthID’, 건설현장 재해예방 솔루션 부상",
+      "link": "http://www.boannews.com/media/view.asp?idx=143960&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 4 Jun 2026 14:32:00 +0900",
+      "description": "건설현장 건강 모니터링 비용, 산업안전보건관리비 활용 가능얼굴인식 기반 비접촉 생체신호 분석으로 근로자 건강 상태 확인의료기기 2등급 인증 기술 적용해 현장 신뢰성과 운영 효율성 강화[보안뉴스 강초희 기자] 유니온바이오메트릭스(대표이사 신요식)가 건설현장 근로자 건강 모니터링 솔루션 ‘HealthID’(헬스ID)로 건설 안전 분야의 시장 확대에 나선다고 4",
+      "language": "ko",
+      "summary": "건설현장 건강 모니터링 비용, 산업안전보건관리비 활용 가능얼굴인식 기반 비접촉 생체신호 분석으로 근로자 건강 상태 확인의료기기 2등급 인증 기술 적용해 현장 신뢰성과 운영 효율성 강화[보안뉴스 강초희 기자] 유니온바이오메트릭스(대표이사 신요식)가 건설현장 근로자 건강 모니터링 솔루션 ‘HealthID’(헬스ID)로 건설 안전 분야의 시장 확대에 나선다고 4",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
       "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
@@ -600,156 +750,6 @@
         "비인가로 시스템을 통과하지 마세요."
       ],
       "insight": "이러한 사고는 IT/기술 업계에서 회원 개인정보가 잘못으로 확산되어 직장에서의 스마트ㆍ종사 이상을 의미하고 있다."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 이노티움, ‘이노 스마트 플랫폼 프라이버시’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143908&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 09:03:00 +0900",
-      "description": "개정 개인정보보호법 정조준... 금융·공공·SaaS 3대 축 시장 확장한수원·신한라이프 잇단 수주… AI 시대 ‘전주기 거버넌스’가 답[보안뉴스 강현주 기자] 지능형 데이터 보안 플랫폼 전문기업 이노티움(각자대표 김종필·이형택)은 ‘이노 스마트 플랫폼 프라이버시’(Inno Smart Platform Privacy)를 앞세워 강화된 개인정보보호 규제 환경을",
-      "language": "ko",
-      "summary": "기사는 개정 개인정보보호법 정조준 시대의 이노티움 프라이버시에 관한 걸쳐, 개인정보보호 규제 환경과 IT/기술 사내의 신용, 공동잇장집단, 생산업체에서 발전하고 있는 '이노 스마트 플랫폼 프라이버시'의 경우를 다룬다.",
-      "points": [
-        "개정 개인정보보호법에 대한 실시간 정환을 위해, IT/기술 업체는 '이노 스마트 플랫폼 프라이버시'를 구축하고 있다.",
-        "개인정보보호 규제에 대한 새로운 웹 사용자의 신용 신속성을 강화한다.",
-        "공동잇장집단과 IT/기술 산업체에서 확장하고 있는 '이노 스마트 플랫폼 프라이버시'는 보안을 위한 기술적인 인novation과 소풍선화 활동을 통해 개인정보보호를 강화한다."
-      ],
-      "insight": "이노티움의 '이노 스마트 플랫폼 프라이버시'는 IT/기술 업계에서 개인정보보호에 고유한 인novation과 소풍선화 활동을 통해 개인정보보호 규제 환경의 이끔한 성장을 촉진시키고 있다."
-    },
-    {
-      "title": "핀텔, 국토부 AI 시티 사업 최종 선정 “골목길 사고까지 예측하는 에이전틱 AI 실증 착수”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143929&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 08:56:00 +0900",
-      "description": "현대건설·모빌인텍·양주시와 컨소시엄, 올해 12월까지 생활도로 2개 거점 실증에이전틱 AI로 생활도로 사각지대까지, 공공·민간 아우르는 안전망 확장 기반 마련[보안뉴스 강초희 기자] 핀텔(대표 김동기)은 국토교통부가 주관한 ‘2026년 AI 시티 혁신기술 발굴사업’에 최종 선정됐다고 2일 밝혔다.이번 공모는 도시 문제를 AI 기술로 풀어내는 혁신기술의 조기",
-      "language": "ko",
-      "summary": "공모전을 통해 도시문제를 AI 기술로 풀어내는 근면의 발전",
-      "points": [
-        "국토교통부가 'AI 시티 혁신기술 발굴사업'로 2026년공모전을 선정",
-        "도시문제를 처리하는 한 단지인 AI가 도시의 안전이 확보할 수 s있는 방벡스이다.",
-        "골목길 사고에 대한 예측을 위한 AI 실증기를 개체화할 수 있는 데이터를 자동으로 생산하도록 도와줘야 할 계획이다."
-      ],
-      "insight": "이러한 AI 시티는 도시 문제를 해결하고 안전화학 기술의 활용을 촉진시키는 대처가 될 수 있다. 이러한 AI 기술의 도전과정은 IT/기술 업체에서 최신 발전사상을 통해 개선되어야 한다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관-29] 호미로 막을 것을 가래로 막는다(9)-집 비밀번호 그대로 쓰면 생기는 일",
-      "link": "http://www.boannews.com/media/view.asp?idx=143254&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 08:55:00 +0900",
-      "description": "집 비밀번호를 정기적으로 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지키느냐의 차",
-      "language": "ko",
-      "summary": "집 비밀번호를 정기적으로 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "집 비밀번호를 정기적으로 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[카드뉴스] 해커는 대기업 안 친다… 가장 약한 고리 ‘공공망’ 찔러 일상 인질로 잡는 공포",
-      "link": "http://www.boannews.com/media/view.asp?idx=143927&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 08:53:00 +0900",
-      "description": "막강한 자본을 가진 민간 빅테크 기업과 달리 공공기관 및 국제기구의 23%가 사이버 공격 방어 능력이 부족한 상황에 처하면서 국가적 ‘보안 격차(Cyber Inequity)’ 문제가 심각한 수위에 도달했다. 해커들은 대기업의 견고한 방어벽을 우회하여 상대적으로 취약한 ‘공공망’과 사회적 인프라를 집중 공격하는 전략을 취하고 있으며, 이는 주민등록등본 등 민",
-      "language": "ko",
-      "summary": "막강한 자본을 가진 민간 빅테크 기업과 달리 공공기관 및 국제기구의 23%가 사이버 공격 방어 능력이 부족한 상황에 처하면서 국가적 ‘보안 격차(Cyber Inequity)’ 문제가 심각한 수위에 도달했다. 해커들은 대기업의 견고한 방어벽을 우회하여 상대적으로 취약한 ‘공공망’과 사회적 인프라를 집중 공격하는 전략을 취하고 있으며, 이는 주민등록등본 등 민",
-      "points": [
-        "막강한 자본을 가진 민간 빅테크 기업과 달리 공공기관 및 국제기구의 23%가 사이버 공격 방어 능력이 부족한 상황에 처하면서 국가적 ‘보안 격차(Cyber Inequity)’ 문제...",
-        "해커들은 대기업의 견고한 방어벽을 우회하여 상대적으로 취약한 ‘공공망’과 사회적 인프라를 집중 공격하는 전략을 취하고 있으며, 이는 주민등록등본 등 민",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "싱가포르 사이버보안청장 “AI 피싱 고도화, 패스키 필요한 이유”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143933&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 08:52:00 +0900",
-      "description": "“싱가포르, 피싱 방지형 인증으로 전환 중”전문가들 “정교해진 피싱에 ‘패스키’ 해법” [싱가포르=보안뉴스 강현주 기자] AI로 인해 고도화된 피싱에 효과적으로 대응하기 위해 설계 단계부터 보안성을 갖춘 ‘패스키’로의 전환이 필요하다는 목소리가 나왔다. 2일부터 이틀간 FIDO 얼라이언스(FIDO Alliance)가 그랜드 하얏트 싱가포르에서 개최하는 ‘어",
-      "language": "ko",
-      "summary": "“싱가포르, 피싱 방지형 인증으로 전환 중”전문가들 “정교해진 피싱에 ‘패스키’ 해법” [싱가포르=보안뉴스 강현주 기자] AI로 인해 고도화된 피싱에 효과적으로 대응하기 위해 설계 단계부터 보안성을 갖춘 ‘패스키’로의 전환이 필요하다는 목소리가 나왔다. 2일부터 이틀간 FIDO 얼라이언스(FIDO Alliance)가 그랜드 하얏트 싱가포르에서 개최하는 ‘어",
-      "points": [
-        "“싱가포르, 피싱 방지형 인증으로 전환 중”전문가들 “정교해진 피싱에 ‘패스키’ 해법” [싱가포르=보안뉴스 강현주 기자] AI로 인해 고도화된 피싱에 효과적으로 대응하기 위해 설계...",
-        "2일부터 이틀간 FIDO 얼라이언스(FIDO Alliance)가 그랜드 하얏트 싱가포르에서 개최하는 ‘어",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "시놀로지 & TPARK 방재센터: 데이터와 도시 보안의 기준",
-      "link": "http://www.boannews.com/media/view.asp?idx=143932&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 08:48:00 +0900",
-      "description": "시놀로지, 첨단 단지 ‘TPARK’에 글로벌 ICT 기업들과 함께 입주보관에서 보호, 활용까지... 데이터의 모든 길을 책임진다[타이베이=보안뉴스 엄호식 기자] 대만 신베이시 반차오구에 위치한 TPARK(Taipei Far Eastern Telecom Park)는 글로벌 ICT 기업들이 모여 있는 첨단 단지다. 구글(Google)과 아마존웹서비스(AWS),",
-      "language": "ko",
-      "summary": "TPARK는 글로벌 ICT 기업들과 함께 있어, Google와 AWS에서도 보호와 활용을 촉착하게 한국어로 요약",
-      "points": [
-        "TPARK는 구글(Google)과 아마존웹서비스(AWS), 그리고 다른 IT 기업들을 모여 통합 보호 시스템과 도시 보안에 대한 발전",
-        "시놀로지이며 TPARK은 계정 주문, 소유자 예상력 수정과 다루기 때문에 고급 보호와 활용을 중요한 요소",
-        "도시 보안은 TPARK이 지원하는 것으로서, IT 기업들의 발전과 동시에 도시를 위해 중요적으로 선정"
-      ],
-      "insight": "이러한 TPARK은 한국의 IT 기술 산재에 대한 안전성과 보호와 함께 생겨나고, 현재인구세계에서도 유용한 공동연산 영역을 지원하는 중요 기업이라고 생각할 수 019가지다."
-    },
-    {
-      "title": "미토스 접근 ‘프로젝트 글래스윙’ 참여 조직 150곳으로 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=143934&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 08:44:00 +0900",
-      "description": "보안 사고 터지면 세계적 영향 끼치는 기업, 기관 위주로 추가 선정빠른 AI 발전 속도에 대응[보안뉴스 한세희 기자] 인공지능(AI) 기업 앤트로픽이 보안 취약점 탐지에 강점을 지닌 AI 모델 미토스 접근 권한을 세계 15개 국가 150개 기업과 기관으로 확대한다고 2일(현지시간) 밝혔다. 앤트로픽은 4월 소수 정부 기관과 기업만 미토스 모델에 접근해 보안",
-      "language": "ko",
-      "summary": "보안 사고 터지면 세계적 영향 끼치는 기업, 기관 위주로 추가 선정빠른 AI 발전 속도에 대응[보안뉴스 한세희 기자] 인공지능(AI) 기업 앤트로픽이 보안 취약점 탐지에 강점을 지닌 AI 모델 미토스 접근 권한을 세계 15개 국가 150개 기업과 기관으로 확대한다고 2일(현지시간) 밝혔다. 앤트로픽은 4월 소수 정부 기관과 기업만 미토스 모델에 접근해 보안",
-      "points": [
-        "앤트로픽은 4월 소수 정부 기관과 기업만 미토스 모델에 접근해 보안",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
-      "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 23:25:20 +0000",
-      "description": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
-      "language": "en",
-      "summary": "Uber drivers are often left with items such as Squishmallows and dentures after rides due to untrustworthy customers.",
-      "points": [
-        "Several Uber users in New York were caught leaving behind unusual personal belongings",
-        "A passenger's laptop was stolen from a driver, leading authorities across the world seeking him online",
-        "Uber has found thousands of items left in robotaxis"
-      ],
-      "insight": "This news highlights potential trust issues within Uber's service and raises concerns about customer behavior. It may necessitate stricter guidelinesto ensure responsible usage."
-    },
-    {
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 22:50:56 +0000",
-      "description": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-      "language": "en",
-      "summary": "Cyera targets a massive $12 billion valuation using an ARR multiple of 80x its annual recurring revenue despite ongoing losses.",
-      "points": [
-        "Even with operating at a loss, Cyera is seeking to raise up to $300 million in their fundraising round led by Evolution Equity Partners.",
-        "The company's ambitious goal of reaching an enterprise value as high as $12 billion implies using an unconventional ARR multiple that exceeds industry norms significantly (80x).",
-        "This move comes at a time when the cybersecurity sector is experiencing both growth and increased scrutiny over valuation metrics."
-      ],
-      "insight": "Cyera's approach challenges conventional investment strategies in startups, especially those with negative cash flows. If successful, it could redefine how potential value is assessed within the cybersecurity sector despite traditional skepticism towards high ARR multiples."
-    },
-    {
-      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-      "link": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 02 Jun 2026 20:20:00 +0000",
-      "description": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
-      "language": "en",
-      "summary": "Over the last few months there has been a surge in popularity for DIY hardware communities like Cyberdecks as people showcase their creative gadgets on social media.",
-      "points": [
-        "Cyberdecks, and similar digital rights advocacy groups are gaining attention by creating innovative devices that reject surveillance capitalism of big tech firms",
-        "The communities promote the use of open-source software to maintain control over personal data security.",
-        "There is a cultural movement towards valuing privacy, with these gadgets serving as symbols and tools for advocacy."
-      ],
-      "insight": "This trend indicates a growing awareness and rejection of invasive surveillance practices among the general public. It highlights an industry shift where consumers are seeking greater control over their personal data security, ultimately challenging big tech firms to prioritize user privacy."
     }
   ]
 }
