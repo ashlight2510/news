@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-06-04T15:00:08.548Z",
+  "generatedAt": "2026-06-04T20:09:14.882Z",
   "articles": [
+    {
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 19:33:09 +0000",
+      "description": "Meta may have one found one way to slash its massive data center bill: tents.",
+      "language": "en",
+      "summary": "Meta is using large shipping containers as temporary structures for building modular and cost-effective data centers.",
+      "points": [
+        "Met's partnership with Modu enables it to construct tents that can be reused multiple times, reducing both the initial investment in physical infrastructure and environmental impact through efficient recycling of materials like aluminum foil used for insulation.",
+        "The use of shipping containers allows Met to avoid large expenditures on land acquisition while still having a significant presence across major markets worldwide including North America, Europe, Asia-Pacific and Latin America. This strategy also circumvents potential supply chain disruptions in the event of natural calamities or pandemics.",
+        "Building data centers with modular construction techniques not only cut costs but can be scaled up as demand grows without compromising quality."
+      ],
+      "insight": "This innovative approach could potentially lead to a new standard in cost-efficient and sustainable building of large IT infrastructure, benefiting the industry by lowering operational expenses while also addressing concerns regarding environmental impact through recycling initiatives. Furthermore, this tactic provides better flexibility against supply chain disruptions."
+    },
+    {
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 19:20:58 +0000",
+      "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "language": "en",
+      "summary": "Apple'CTA: Poke is now the first AI chatbot to be fully integrated into their business messaging service.",
+      "points": [
+        "Poke has received approval for integration with Apple Messages for Business",
+        "The startup enables users to interact using simple text messages and basic language commands",
+        "This marks a significant advancement in AI-assisted communication within the business sector"
+      ],
+      "insight": "Apple's move paves the way for widespread adoption of intelligent personal assistants across various industries, promoting efficiency and streamlined internal communications."
+    },
+    {
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 18:54:08 +0000",
+      "description": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
+      "language": "en",
+      "summary": "Helion, an IT fusion energy company backed by Sam Altman and led by Michaela Dicleston, has raised $465 million to build a power plant for Microsoft by the year 2028.",
+      "points": [
+        "Sam Altman-backed Helion secured funding of $465 million with intentions",
+        "to complete fusion energy research within five years and provide clean, abundant electricity to multiple customers including Microsoft as a long term customer.",
+        "Helion is planning for its first commercial power plant in 2028 after completing construction by the end of 2025."
+      ],
+      "insight": "This funding and project timeline indicate significant confidence from tech leaders like Sam Altman and Microsoft in fusion energy as a viable solution to future electricity needs, signaling potential growth for Helion within the IT/technology industry."
+    },
+    {
+      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+      "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 16:47:12 +0000",
+      "description": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
+      "language": "en",
+      "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations",
+      "points": [
+        "Meta's board cites \"due process\" concerns over account bans",
+        "It's also pushing Meta to offer clear information about violations and its use in AI in making its d...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 16:32:48 +0000",
+      "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+      "language": "en",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post. \" and \"What are people saying in my comments",
+      "points": [
+        "\" and \"What are people saying in my comments",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 16:31:12 +0000",
+      "description": "Apple's WWDC nears: Here's what you can look forward to.",
+      "language": "en",
+      "summary": "Expect major enhancements and new features in Apple products at the upcoming WWDC 2026, focusing on Siri's revamped capabilities and updates to 'Apple Intelligence'.",
+      "points": [
+        "The anticipated update of Siri during WWDC aims to transform its performance by introducing advanced language understanding.",
+        "Innovative features expected from Apple include improvements in productivity tools, enhanced camera technology for professional use, and extended battery life across all devices.",
+        "Additionally, the announcement hints at future developments towards seamless integration with smart home systems using 'Apple Intelligence'."
+      ],
+      "insight": "The WWDC updates will likely reinforce Apple’s commitment to user-friendly design and technological innovation in voice assistants, further establishing their ecosystem as a dominant force within the IT/technology industry."
+    },
+    {
+      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 16:16:37 +0000",
+      "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
+      "language": "en",
+      "summary": "A burglar in San Francisco exploited a Waymo self-driving taxi to commit a crime involving yoga clothes, bringing attention to the company's handling of recorded footage.",
+      "points": [
+        "Theft using autonomous vehicle technology",
+        "Waymo'curated data and privacy concerns arise",
+        "Highlight potential misuse risks in self-driving taxis"
+      ],
+      "insight": "This event raises questions about the security measures of recorded footage within self-driving cars, emphasizing a need for stricter data protection policies."
+    },
+    {
+      "title": "Cash App launches a wand for tap-and-pay",
+      "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 16:00:00 +0000",
+      "description": "Cash App plans to launch more tap-to-pay tags.",
+      "language": "en",
+      "summary": "Cash App is expanding its services with the introduction of a wand for touchless payments.",
+      "points": [
+        "Cash App introduces new hardware: Tap-to-pay wands",
+        "The devices are designed to be used in situations where physical contact may not be ideal or necessary, like during health crises such as the COVID-19 pandemic.",
+        "This expansion of tap-and extraneous services is part of Cash App's broader objective of revolutionizing how people pay for goods and services."
+      ],
+      "insight": "The introduction of a wand device by Cash App reflects an increasing industry trend towards touchless transactions, which could become essential as digital interactions continue to rise in significance within the IT/technology sector. This move might set new standards for user interaction experiences and open up discussions on security measures associated with such innovations."
+    },
+    {
+      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
+      "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 15:48:41 +0000",
+      "description": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
+      "language": "en",
+      "summary": "Waymo has partnered with B2U Storage Solutions for a deal where spent robotaxi batteries will be repurposed to serve as grid storage.",
+      "points": [
+        "Waymo and B2U are collaborating on battery repurposing.",
+        "Battery packs from Waymo's retired fleet headed towards recycling is redirected for energy storage purposes",
+        "The pilot project could help in balancing the electricity grid."
+      ],
+      "insight": "This deal reflects a growing trend in repurposing EV batteries to support sustainable technologies and renewable energy initiatives within IT/technology industries, potentially setting new standards for circular economy practices. It demonstrates an innovative approach towards e-waste management."
+    },
+    {
+      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 15:08:34 +0000",
+      "description": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
+      "language": "en",
+      "summary": "Investor interest in Ramp's AI fintech story has led to a significant valuation increase and fundraising.",
+      "points": [
+        "-Ramp nearly tripled its valuation over the past year, indicating strong investor confidence",
+        "-The company raised $750M at an unprecedented $4.3B post-money valuation in a recent financing round",
+        "-Without providing specific business details or financial numbers beyond those mentioned"
+      ],
+      "insight": "Ramp's success is indicative of the growing demand for fintech startups with strong AI components and could inspire similar ventures."
+    },
+    {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 04 Jun 2026 15:05:00 +0000",
+      "description": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "language": "en",
+      "summary": "Hello Robot has unveiled a new generation of their domestic helper robots named 'Stretch.' The updated models come with better intelligence and capabilities.",
+      "points": [
+        "California startup Hello Robot releases the fourth-generation home assistant robot, Stretch.",
+        "The upgraded Stretch boasts improved AI for enhanced functionality in domestic tasks.",
+        "Hello Robot aims to make robots more accessible and beneficial for everyday use at homes."
+      ],
+      "insight": "This development indicates Hello Robot's ambition is not only advancing technology but also focusing on making smart home assistance devices economically viable, thereby influencing broader market acceptance within the IT/technology industry and beyond."
+    },
     {
       "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
       "link": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
@@ -585,171 +750,6 @@
         "The opt-out tool will ensure website owners have control over how their sites appear in AI search results."
       ],
       "insight": "This news highlights the growing concerns about content authenticity on digital platforms, leading to increased regulation of generative AI tools like Google Lens and ChatGPT. The opt-out tool for publishers could set a precedent for global implementation in maintaining control over their own content."
-    },
-    {
-      "title": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
-      "link": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 14:04:38 +0000",
-      "description": "The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.",
-      "language": "en",
-      "summary": "TikTok has introduced a new feature called TikTok Pro Events that allows users to engage with cultural moments like the FIFA World Cup.",
-      "points": [
-        "The app enables fans to connect and interact with other supporters during major events",
-        "It offers access to trending videos related to the event of interest, such as the FIFA World Cup this year in Qatar",
-        "TikTok has curated a feed featuring creators from around the world who are contributing content for these special moments"
-      ],
-      "insight": "The launch of TikTok Pro Events highlights the platform's ability to create and maintain engaging experiences during major cultural events, further strengthening its position as an influential social media tool in this industry."
-    },
-    {
-      "title": "The worst hacks and breaches of 2026 (so far)",
-      "link": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 14:02:45 +0000",
-      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-      "language": "en",
-      "summary": "The article details various high-impact hacks including a major DOGE data breach, critical infrastructure targeted in energy and water systems attacks, as well as an FBI surveillance system hack.",
-      "points": [
-        "A massive DOGE data breach compromised digital assets linked to the cryptocurrency market.",
-        "Critical energy and water systems were subjected to cyber-physical threats that could disrupt essential services.",
-        "An FBI surveillance system was hacked, potentially exposing sensitive national security information."
-      ],
-      "insight": "This year's incidents underscore the increasing convergence of technology and physical infrastructure in critical systems. As such vulnerabilities become more apparent across different sectors, a unified approach to cybersecurity becomes imperative for industry resilience against sophisticated threats."
-    },
-    {
-      "title": "Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’",
-      "link": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 14:00:58 +0000",
-      "description": "This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites.",
-      "language": "en",
-      "summary": "This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites",
-      "points": [
-        "This open-source community project lets you create a StumbleUpon-like experience for recommending yo...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 13:40:00 +0000",
-      "description": "WhatsApp will charge businesses for using its AI agent based on token usage",
-      "language": "en",
-      "summary": "Meta's artificial intelligence (AI) assistant for WhatsApp Business is now globally available and charges users a fee per transaction.",
-      "points": [
-        "Global rollout of Meta AI on WhatsApp Business with token-based fees",
-        "Businesses can use automated chatbot, voice assistants in customer interactions to save time",
-        "New billing system based on tokens will be implemented for business transactions"
-      ],
-      "insight": "The availability of Meta AI globally and its token-based payment model may encourage more small and medium-sized enterprises (SMEs) to adopt WhatsApp Business due to time savings in customer interactions. However, the transaction fee could be a potential barrier for smaller businesses with limited budgets."
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 13:02:51 +0000",
-      "description": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-      "language": "en",
-      "summary": "The Series F round values Coralogix at $1. 6 billion and comes less than a year after its previous raise",
-      "points": [
-        "The Series F round values Coralogix at $1",
-        "6 billion and comes less than a year after its previous raise",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[2026 개인정보보호 솔루션 리포트] 끊임없는 개인정보 유출 사건, 법률 강화와 AI 기술로 최소화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143909&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 22:01:00 +0900",
-      "description": "강력해진 거버넌스... 정부, 개인정보 침해를 막기 위해 칼을 빼다[설문조사] 공공기관 및 기업의 개인정보보호 업무 전담 직원 0명 또는 1명, 70%에 달해 개인정보보호 솔루션 전문기업 집중분석: 시큐와우, 펜타시큐리티, 지란지교데이터, 위즈코리아, 삼오씨엔에스, 에버스핀[보안뉴스 원병철 기자] 쿠팡 ‘3367만건’, 듀오 ‘43만건’, 대한항공 ‘3만건",
-      "language": "ko",
-      "summary": "기사는 IT/기술 업무에 필요한 개인정보보호 솔루션의 리포트와 국내과입니다.",
-      "points": [
-        "강력해진 거버넌스로 인한 개인정보 유출에 대한 대응",
-        "보안뉴스 원병철의 336만건, 43만건, 3만건 통합을 강조",
-        "국내 IT/기술 분석기업에 직접 영향"
-      ],
-      "insight": "이러한 보안살풀이은 IT/기술 업무에 가까이 연창되고, 국내 개인정보보호 전문화가 확산."
-    },
-    {
-      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
-      "link": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "description": "Plex has come a long way from being just a personal media server. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movie rental options. Now, the company is setting its sights on competing with social networking platforms like Reddit and Letterboxd: on Wednesday, Plex unveiled several […]",
-      "language": "en",
-      "summary": "Plex has expanded beyond a personal media server to include ad-supported content and rental options as it ventures into the social networking space with new features unveiled on Wednesday.",
-      "points": [
-        "Plex, traditionally known for its streaming capabilities within users' homes, is adding 'likes,' follow buttons, comment sections to attract more users in a bid to compete with Reddit and Letterboxd.",
-        "The social features introduced are part of Plex's new service called Stream Social (PSS), which has no subscription fee but requires monthly donations as payment. The company plans another price hike for its lifetime pass after the launch.",
-        "While Reddit is more video-focused and Letterboxd specializes in movie discussions, Plex's Stream Social seeks to become a one-stop social media platform catering to various interests like movies or music."
-      ],
-      "insight": "The launch of Plex Stream Social represents the company'selseeking entry into direct competition with established streaming and discussion platforms, potentially disrupting the traditional subscription model by offering a donation-based alternative. This move could significantly alter how users engage in community discussions around media."
-    },
-    {
-      "title": "과기정통부, 티빙(TVING) 침해사고 조사 나서",
-      "link": "http://www.boannews.com/media/view.asp?idx=143942&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 21:10:00 +0900",
-      "description": "침해사고 조사 심의위원회 심의... 민관합동조사단 구성·운영 결정티빙 대표, 사과문 발표[보안뉴스 한세희 기자] 정부가 티빙 개인정보 유출 사고에 대한 조사에 나섰다. 과학기술정보통신부(장관 겸 부총리 배경훈)는 OTT 서비스 티빙(TVING) 회원정보 유출에 따른 피해 현황과 사고원인 등을 조사하기 위해 3일 민관합동조사단을 구성, 조사에 착수했다고 밝",
-      "language": "ko",
-      "summary": "서울시 민관합동조사단이 TVING OTT 회원정보 유출에 대해 조사를 시작한다.",
-      "points": [
-        "민관합동조사단 구성, 조사 시작",
-        "국민의 권리에 대한 반영, TVING 회원정보 유출 가능성 확인",
-        "결국 이러한 조사는 민관 자체로 제결되어 있음"
-      ],
-      "insight": "이러한 정보 유출은 회원정보 보호에 대한 건성을 강조하여 국민의 권리를 강조해준다."
-    },
-    {
-      "title": "아디다스 “2028년까지 ‘비밀번호’ 완전 폐기”... 고객·유통 모든 접점 ‘연결’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143939&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 19:17:00 +0900",
-      "description": "“웹·앱·소매·도매 아우르는 ‘연결된 생태계’ 구현”“패스키 도입으로 사용자 경험 만족도 40% 상승”[싱가포르=보안뉴스 강현주 기자] 글로벌 스포츠 브랜드 아디다스가 오는 2028년까지 자사 디지털 생태계 전반에서 ‘비밀번호’를 완전히 없앤다고 밝혔다. 고객과 소매 매장, 도매 파트너 등 모든 디지털 접점이 대상이다. 비밀번호를 ‘패스키’로 대체해 하나의",
-      "language": "ko",
-      "summary": "“웹·앱·소매·도매 아우르는 ‘연결된 생태계’ 구현”“패스키 도입으로 사용자 경험 만족도 40% 상승”[싱가포르=보안뉴스 강현주 기자] 글로벌 스포츠 브랜드 아디다스가 오는 2028년까지 자사 디지털 생태계 전반에서 ‘비밀번호’를 완전히 없앤다고 밝혔다. 고객과 소매 매장, 도매 파트너 등 모든 디지털 접점이 대상이다...",
-      "points": [
-        "“웹·앱·소매·도매 아우르는 ‘연결된 생태계’ 구현”“패스키 도입으로 사용자 경험 만족도 40% 상승”[싱가포르=보안뉴스 강현주 기자] 글로벌 스포츠 브랜드 아디다스가 오는 202...",
-        "고객과 소매 매장, 도매 파트너 등 모든 디지털 접점이 대상이다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The world’s largest privately owned laser just turned on",
-      "link": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 03 Jun 2026 10:00:00 +0000",
-      "description": "Fusion startup Xcimer fired up the world's largest privately owned laser.",
-      "language": "en",
-      "summary": "Xcimer has activated its powerful private laser system to advance research in fusion energy.",
-      "points": [
-        "The world's largest privately owned laser just turned on at Xcimer, a U.K.-based company focused on plasma heating and diagnostics for nuclear fusion applications.",
-        "Xcimer is developing an ultra-intense infrared laser capable of producing high temperature temperatures necessary to achieve the conditions needed for controlled thermonuclear fusion reactions in their facility located near Oxford, England.",
-        "The company's CEO stated that this achievement represents a significant step towards making nuclear fusion energy commercially viable."
-      ],
-      "insight": "This news indicates promising advancements and increased private investment into research for sustainable clean energy solutions like nuclear fusion, potentially leading to future breakthroughs in the field."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 넷킬러, 데이터 오염 막는 ‘안전한 AI 학습 거버넌스’ 선보인다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143916&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 3 Jun 2026 17:30:00 +0900",
-      "description": "정제되지 않은 AI 학습 데이터는 개인정보 유출 뇌관... 철저한 데이터 거버넌스 필수구글 드라이브 실시간 스캔 및 전자결재 기반 검증된 데이터 공급, 안전한 AI 환경 구축AI 결과물 문서 소스 및 최종 결재자까지 역추적해 데이터 신뢰성 극대화[보안뉴스 강초희 기자] 구글 클라우드 공식 파트너사 넷킬러(Netkiller, 대표 정성욱)가 ‘PIS FAIR",
-      "language": "ko",
-      "summary": "이 기사는 개인정보 유출에 대한 광고적 이용법을 소품로 제시하고, Google 클라우드 공식 파트너사의 데이터 오염과 안전한 AI 학습 거버넌스를 고려한 대안을 제시.",
-      "points": [
-        "넷킬러이 개인정보 유출을 통해 Google의 공식 클라우드 공급자가 데이터를 첨부시키고 전자결재를 통한 질의에 대하여 인식",
-        "예방해제에 대한 대안을 제공하며, Google가 모든 사용자들에게 개인정보를 열리지 않도록 최종적으로 확보",
-        "안전한 AI 학습이 구축되는 환경에서의 결코없는 방식을 제시하여, Google에게 자바스크립트를 사용하도록 유도"
-      ],
-      "insight": "이 기사는 IT/기술 업체가 개인정보 안전성을 강ely하게 확보하고, AI를 위한 학습 데이0이를 공급하는 일부 방식의 근본적인 문제점을 통해 개인정보 추첨와 Google의 광고적 이용법에 대한 대안을 제시하여, 구성자의 인터뷰를 가림절화 풍부하게 시도해보는 방식을 제안."
     }
   ]
 }
