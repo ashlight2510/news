@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-06-05T14:50:32.267Z",
+  "generatedAt": "2026-06-05T19:58:10.853Z",
   "articles": [
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 18:57:20 +0000",
+      "description": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
+      "language": "en",
+      "summary": "Google has struck a landmark agreement with Elon Musk-founded SpaceX to purchase compute time for its data centers using the latter' endless energy from space.",
+      "points": [
+        "Google and SpaceX signed an unprecedented deal worth $920 million per month, leveraging SpaceX's ability to create a sustainable source of power in low Earth orbit (LEO).",
+        "The initiative is part of Google’s commitment towards building data centers that are completely carbon-free by 2035 and will help the company save significant costs on energy bills.",
+        "Through this deal, SpaceX can monetize its LEO solar panels while providing a reliable power source to keep Google's operations running round-the-clock."
+      ],
+      "insight": "This pact between tech giants marks the beginning of commercializing space energy for Earthbound purposes. As companies continue investing in renewable energies, this partnership could herald a new era where sustainability becomes an integral aspect of global IT infrastructure."
+    },
+    {
+      "title": "GM’s electric future depends on a new battery — and this facility",
+      "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 17:44:18 +0000",
+      "description": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
+      "language": "en",
+      "summary": "General Motors (GM) plans to reduce the price of electric vehicles by utilizing new battery technology developed at a facility in Brownstown Township.",
+      "points": [
+        "The GM's upcoming EV production will be cheaper thanks to advancin",
+        "Newcomer LG Energy Solution, alongside Stellantis-owned VistaJet Batteries Europe GmbH and Samsung Display are also involved in the project.",
+        "This facility is expected to help GM cut prices by up to 30%."
+      ],
+      "insight": "The article highlights a significant shift towards cost-effective electric vehicle production, which could lead to increased adoption and investment within the technology sector. The collaboration also suggests industry trends of partnerships in R&D efforts for advancing EV tech."
+    },
+    {
+      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+      "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 17:38:06 +0000",
+      "description": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
+      "language": "en",
+      "summary": "As several venture-backed e-bike startups have gone bankrupt, bootstrapped Lectric EV is expanding through brand launches to capitalize on the U.A.",
+      "points": [
+        "Lectric has launched three new brands in past six months",
+        "Several VC-backed e-bike startups have gone bankrupt recently",
+        "The US market is perceived as ripe for competition and choice"
+      ],
+      "insight": "This development indicates that bootstrapped companies can compete effectively in the burgeoning U.S. e-bike industry, despite recent failures of venture capital-backed startups."
+    },
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 17:17:06 +0000",
+      "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+      "language": "en",
+      "summary": "Mirror founder Brynn Putnam is raising money for Board, a company aiming to reduce smartphone use by facilitating in-person games and social experiences.",
+      "points": [
+        "Brynn Putnam's startup, Mirror, has pivoted from an AI platform to creating 'Board,' which brings people together through face-to-face interactions rather than screen time.",
+        "Cyberdeck creators are popularizing the use of whimsical DIY computers that encourage physical interaction with technology and nature.",
+        "The trend suggests a growing desire among certain tech users to reconnect with real-world experiences, challenging prevailing norms around constant digital connectivity."
+      ],
+      "insight": "This shift toward in-person interactions reflects broader concerns about the impact of technology on social skills and mental health within the IT/technology industry. It signifies a movement towards creating more tangible, shared experiences as alternatives to screen time."
+    },
+    {
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 16:32:27 +0000",
+      "description": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+      "language": "en",
+      "summary": "Supabase, an open source project in the IT sector, experienced rapid growth doubling its valuation to $1 endorsing AI's pivotal role for startups.",
+      "points": [
+        "The company grew exponentially within eight months due largely to their adoption of AI tools such as Claude and Codex. These innovations have enabled Supabase to enhance its user experience significantly, thus accelerating growth.",
+        "Supabase has leveraged the power of other vibe-coding platforms in addition to developing open source projects that are integral for startups' successes like Facebook GraphQL or MongoDB Atlas",
+        "The company doubles valuation within eight months showcases how AI and machine learning tools can propel a startup into exponential growth."
+      ],
+      "insight": "This development underscores the potential of integrating advanced technologies, particularly AI and ML platforms in startups to enable rapid scalability and success. It further highlights that open-source projects with these capabilities are key drivers for businesses within this sector as they can quickly adapt new tools into their systems."
+    },
+    {
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 16:07:46 +0000",
+      "description": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+      "language": "en",
+      "summary": "The Silent Ransom Group consists of cybercriminals who send impersonators posing as IT workers to target law firms' offices and steal data via USB drives or remote access tools.",
+      "points": [
+        "Silent Ransom Group is a gang that employs ransomware tactics including physical intrusion under the guise of providing IT support.",
+        "The criminals have targeted law firms, exploiting them by pretending to be new employees or contractors hired to set up computers and networks.",
+        "They use USB drives for direct data exfiltration alongside remote access tools like TeamViewer and AnyDesk."
+      ],
+      "insight": "The Silent Ransom Group's method of blending physical infiltration with digital attacks represents a significant threat to the IT security posture within various sectors, especially those dealing with sensitive legal information. It underscores the importance for organizations across all industries to invest more deeply in both their cybersecurity measures and background checks."
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "language": "en",
+      "summary": "With AI development costs skyrocketing within the industry, there is a growing concern about runaway expenses and calls for controlling these spending surges.",
+      "points": [
+        "AI development has led to rapidly increasing industry-wide costs with significant implications on research budgets.",
+        "Industry stakeholdinbks are now prioritizing the need for effective cost management strategies and guardrails in AI projects.",
+        "The shift from a 'go fast' mentality towards more control reflects growing concerns about financial sustainability."
+      ],
+      "insight": "This news underscores an essential pivot within IT/technology, highlighting the need for cost-effective strategies and fiscal responsibility in AI development to ensure long-term industry stability. It suggests a greater emphasis on prudent spending amidst technological advancements."
+    },
     {
       "title": "NASA tells astronauts to shelter in SpaceX Dragon due to new ISS leaks",
       "link": "https://techcrunch.com/2026/06/05/nasa-tells-astronauts-to-shelter-in-spacex-dragon-due-to-new-leaks-on-the-iss/",
@@ -17,6 +122,21 @@
       "insight": {
         "text": "This situation highlights not only challenges in space exploration but also emphasizes international cooperation between agencies and commercial entities for ensuring crew safety."
       }
+    },
+    {
+      "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+      "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 05 Jun 2026 14:42:52 +0000",
+      "description": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
+      "language": "en",
+      "summary": "NASA had astronauts temporarily move to SpaceX's Dragon capsule due to urgent water leak repairs on the International Space Station (ISS).",
+      "points": [
+        "Roscosmos found new leaks in Russia’ extraterrestrial habitat, prompting NASA action.",
+        "Astronauts were flown into a stationary Dragon capsule for emergency shelter and repair work completion.",
+        "Daily ISS maintenance tasks continued while astronauts remain grounded."
+      ],
+      "insight": "This incident highlights the importance of reliable partnerships in space exploration, as well as NASA's flexibility to respond promptly when faced with unexpected challenges onboard other countries' modules. It may also lead to discussions about protocol for international collaborations and contingency planning."
     },
     {
       "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
@@ -632,126 +752,6 @@
         "생성과 유지보호에 대한 데이터 관리에 대한 근사적인 방식을 제시하여 AI 많은 영향을 미소"
       ],
       "insight": "파수 AI는 IT/기술 업계에서의 보안에 주로 영향을 미치는 현재 공지인데, 이를 위한 단순한 방식은 아니다. 대개 기존 방식의 한계와 보호에 대해서 생각해도 아주 중요하며, 파수 AI는 이를 바로 연출하여 AI 보안 전략을 새로운 방식으로 제시"
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 인스피언, AP·WEB 통합 개인정보 접속기록 플랫폼 ‘xCon’",
-      "link": "http://www.boannews.com/media/view.asp?idx=143938&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 16:52:00 +0900",
-      "description": "접속기록 관리부터 감사 대응까지 규제 대응 새 기준개인정보보호 체계 통합 플랫폼[보안뉴스 강현주 기자] 인스피언은 SAP 환경에 특화된 보안 및 데이터 연계 기술력을 기반으로, 기업의 개인정보보호와 컴플라이언스 대응을 지원하는 IT 솔루션 전문 기업이다. SAP 인터페이스, EDI, 데이터 보안 등 다양한 영역에서 기술력을 축적해왔으며, 특히 개인정보 접속",
-      "language": "ko",
-      "summary": "SAP의 질서 기술 전문가인 인스피언은 IT 솔루션을 제공하여 개인정보보호와 컴플라이언스에 고수준의 기술이 필요한 사원들과 근절의 운영 지침을 제공.",
-      "points": [
-        "인스피언은 SAP 환경에서 개인정보보호와 컴플라이언스 대응에 미치는 손해를 매겨내는 기술 전문가",
-        "다양한 영역, 즉 SAP 인터페이스, EDI, 데이00,00,35492186: [2022-07-07] AI기기가 일정 시간동안 누적으로 환경에서 개인정보를 모니터링하여 이를 사용자가 원하는 방식으로 제어할 수 있도록 지원할 수 있다.",
-        "인스피언은 기술 및 개인정보 보호에 관하여 많이 알맊리는 논의나 지원한다."
-      ],
-      "insight": "인스피언은 지속적으로 IT 기술에 대한 전문가로서 개인정보보호 및 컴플라이언스에 상응하는 제품의 시작줄임을 나타낸다."
-    },
-    {
-      "title": "스스로 판단하고 막아낸다... 이글루코퍼레이션, ‘자율형 보안운영센터’ 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=143965&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 16:49:00 +0900",
-      "description": "단순 탐지 넘어서는 능동적 ‘에이전틱 AI’ 엔진 고도화 통해 방어 생명주기 주도KISA 지원사업 통해 실제 SOC 환경과 유사한 시뮬레이션 인프라 구축 및 실증[보안뉴스 조재호 기자] 이글루코퍼레이션이 한국인터넷진흥원(KISA)에서 주관하는 ‘2026년 인공지능(AI) 보안 유망기업 육성 지원사업’의 시제품 개발 과제 수행기관으로 최종 선정됐다고 4일 밝",
-      "language": "ko",
-      "summary": "기사는 2026년에 이미 구현되어 있는 '자율형 보안업계'을 소개한다.",
-      "points": [
-        "KISA가 2026년 인공지능(AI)를 이용한 보안업계 구축에 제안한다.",
-        "대형기사의 발행과정이 KISA 지원사업의 시작으로 연결되어왔다.",
-        "탑재방식, 인프라구축 방법에 대해서도 상세한 내용을 제공한다."
-      ],
-      "insight": "기사는 IT/기술 업계에서 AI를 활용하여 보안업계를 개발하는 대형기사의 시작과정을 소개한다."
-    },
-    {
-      "title": "[보안최전선 ⑥] 공지훈 라포랩스 보안 컴플라이언스 엔지니어 “AI 시대의 보안은 ‘정책 공학’에 있어”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143931&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 16:40:00 +0900",
-      "description": "공공·금융·산업 포괄한 실전 경험으로 다져진 실용주의 보안 철학 제시사내 보안 문화 정착 이끌며 기술 기반의 AI 자율책임 보안 전략 공유 [보안뉴스 조재호 기자] “보안이 타 부서의 발목을 잡는 답답한 규제로 인식되어선 안 됩니다. 조직이 달성하고자 하는 비즈니스 목표를 정확히 파악하고, 가이드라인 안에서 최적의 해법을 찾아주는 조력자가 되어야 합니다.”",
-      "language": "ko",
-      "summary": "AI로 인식되어 보안에 대한 체계를 강화해야 합니다",
-      "points": [
-        "AI 기반의 보안 전략이 중요합니다.",
-        "조직이 진행하고자 하는 계산을 외우지 않으면 정신저를 해제할 수 0가 있습니다.",
-        "AI로 또는 시스텬화된 보안은 ‘정책 공학’이라고 계산하면 바로 이해할 수 있습니다."
-      ],
-      "insight": "AI에 대한 보안 문제는 기술에 의존하며, ‘정책 공학’과 관련성을 강조해주세요."
-    },
-    {
-      "title": "화재·폭발·침입까지 AI가 먼저 본다... 엑시스, 산업안전 특수카메라 풀라인업 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=143923&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 16:13:00 +0900",
-      "description": "열화상·레이더·방폭·해양 특수카메라 라인업으로 산업안전 강화자체 AI 칩과 엣지 분석 기술로 실시간 감지·예측·대응 구현[보안뉴스 강초희 기자] 산업 현장의 안전 관리 패러다임이 사고 발생 이후 대응 중심에서 위험 징후를 사전에 감지하고 예방하는 방식으로 빠르게 전환되고 있다. 화재와 설비 과열, 위험구역 침입, 폭발 위험 등 다양한 산업재해 요인을 실시간",
-      "language": "ko",
-      "summary": "열화상·레이더·방폭·해양 특수카메라 라인업으로 산업안전 강화자체 AI 칩과 엣지 분석 기술로 실시간 감지·예측·대응 구현[보안뉴스 강초희 기자] 산업 현장의 안전 관리 패러다임이 사고 발생 이후 대응 중심에서 위험 징후를 사전에 감지하고 예방하는 방식으로 빠르게 전환되고 있다. 화재와 설비 과열, 위험구역 침입, 폭발 위험 등 다양한 산업재해 요인을 실시간",
-      "points": [
-        "화재와 설비 과열, 위험구역 침입, 폭발 위험 등 다양한 산업재해 요인을 실시간",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "시놀로지, ‘디지털 주권’으로 프라이빗 클라우드 도입 가속화 강조",
-      "link": "http://www.boannews.com/media/view.asp?idx=143959&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 16:04:00 +0900",
-      "description": "AI와 데이터 결합, 기업 IT 전략의 새로운 도전 제시데이터 소유권 및 안전한 AI・사이버 회복력 등 강조[타이베이=보안뉴스 엄호식 기자] 시놀로지(Synology)의 마이크 첸(Mike Chen) 마케팅 디렉터(Marketing Director)는 4일(현지시간) 타이베이 난강 전시센터 제2전시장(TaiNEX 2) 콘퍼런스룸에서 진행된 포럼",
-      "language": "ko",
-      "summary": "시놀로지는 디지턾 주권(PaaS)인 프라이빗 클라우드를 IT 기술에 강요잡고, 데이터 소유, AI 회복력을 장려한다.",
-      "points": [
-        "시놀로지는 프라이빗 클라우드를 사용하여 IT 기술에서 도전 제시가 되어 진행중이다.",
-        "인재축구의 전문가로 한계를 벗어나는 시놀로지는 소유권과 회복력을 강조한다.",
-        "다양한 IT 기술에서의 연구나 도전을 하나로 모아 악이롱스카프에게 특정한 업무를 제공함으로다."
-      ],
-      "insight": "시놀로지는 IT/기술 업계에서도 기존의 경로가 아니라, 새로운 인지과학적 기반이나 인사이트로 전런드를 통해 시작하고 진전을 주장하고있다."
-    },
-    {
-      "title": "티빙, 개인정보 유출 사고 연계 서비스로 번지나? ‘CJ ONE’ 연계 피해 우려",
-      "link": "http://www.boannews.com/media/view.asp?idx=143958&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 15:50:00 +0900",
-      "description": "티빙 회원정보 유출 ‘중대한 사고’로 판단한 과기정통부 민관합동조사단 조사 착수700만명 규모 ‘CI’ 탈취 정황... 통합 로그인 연동된 ‘CJ ONE’ 수평 이동 가능성[보안뉴스 조재호 기자] 국내 대표 온라인 동영상 서비스(OTT) 티빙(TVING)에서 개인정보 유출 사고가 터지자 정부가 민관합동조사단을 꾸려 조사에 착수했다. 단순 식별정보를 넘어 7",
-      "language": "ko",
-      "summary": "티빙 회원정보 유출 ‘중대한 사고’로 판단한 과기정통부 민관합동조사단 조사 착수700만명 규모 ‘CI’ 탈취 정황. 통합 로그인 연동된 ‘CJ ONE’ 수평 이동 가능성[보안뉴스 조재호 기자] 국내 대표 온라인 동영상 서비스(OTT) 티빙(TVING)에서 개인정보 유출 사고가 터지자 정부가 민관합동조사단을 꾸려 조사에 착수했다...",
-      "points": [
-        "티빙 회원정보 유출 ‘중대한 사고’로 판단한 과기정통부 민관합동조사단 조사 착수700만명 규모 ‘CI’ 탈취 정황",
-        "통합 로그인 연동된 ‘CJ ONE’ 수평 이동 가능성[보안뉴스 조재호 기자] 국내 대표 온라인 동영상 서비스(OTT) 티빙(TVING)에서 개인정보 유출 사고가 터지자 정부가 민관...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "의료기기 2등급 인증 기반 유니온바이오메트릭스 ‘HealthID’, 건설현장 재해예방 솔루션 부상",
-      "link": "http://www.boannews.com/media/view.asp?idx=143960&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 4 Jun 2026 14:32:00 +0900",
-      "description": "건설현장 건강 모니터링 비용, 산업안전보건관리비 활용 가능얼굴인식 기반 비접촉 생체신호 분석으로 근로자 건강 상태 확인의료기기 2등급 인증 기술 적용해 현장 신뢰성과 운영 효율성 강화[보안뉴스 강초희 기자] 유니온바이오메트릭스(대표이사 신요식)가 건설현장 근로자 건강 모니터링 솔루션 ‘HealthID’(헬스ID)로 건설 안전 분야의 시장 확대에 나선다고 4",
-      "language": "ko",
-      "summary": "건설현장 건강 모니터링 비용, 산업안전보건관리비 활용 가능얼굴인식 기반 비접촉 생체신호 분석으로 근로자 건강 상태 확인의료기기 2등급 인증 기술 적용해 현장 신뢰성과 운영 효율성 강화[보안뉴스 강초희 기자] 유니온바이오메트릭스(대표이사 신요식)가 건설현장 근로자 건강 모니터링 솔루션 ‘HealthID’(헬스ID)로 건설 안전 분야의 시장 확대에 나선다고 4",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
-      "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 03:52:15 +0000",
-      "description": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
-      "language": "en",
-      "summary": "Benchmark has launched a first-ever growth fund as part of a record $2 billion capital raise.",
-      "points": [
-        "Benchmark is launching its first-ever growth fund.",
-        "$2 billion in new funds raised for the firm's investment portfolio.",
-        "The move marks an end to Benchmark'CTL more than two decades of tradition."
-      ],
-      "insight": "This strategic shift indicates a desire by hedge fund managers and their firms, like Benchmark Capital Management LLC., for greater autonomy in asset allocation within the industry. It also suggests an evolving landscape where large funds seek more control over investments to adapt quickly to market conditions."
     }
   ]
 }
