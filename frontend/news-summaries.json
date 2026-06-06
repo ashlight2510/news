@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-06T03:04:36.868Z",
+  "generatedAt": "2026-06-06T08:37:10.541Z",
   "articles": [
+    {
+      "title": "전 세계 윈도우 서버가 표적... ‘Netlogon’ 제로클릭 취약점",
+      "link": "http://www.boannews.com/media/view.asp?idx=143912&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 6 Jun 2026 17:12:00 +0900",
+      "description": "사용자 조작 없이도 내부망 장악하는 원격코드실행(RCE) 취약점 악용MS 패치 배포에도 현장서 호환성 문제나 운영상 이유로 업데이트 지연[보안뉴스 김형근 기자] 글로벌 보안 기관들은 윈도우 시스템의 ‘넷로그온’(Netlogon) 프로토콜에서 발견된 제로클릭 원격코드실행 취약점(CVE-2026-41089)이 실제 현장에서 활발히 악용되고 있다고 경고했다.벨기",
+      "language": "ko",
+      "summary": "Netlogon RCE vulnerability exposes enterprise networks to remote code execution without user interaction.",
+      "points": [
+        "원격코드실행 취약점에 대해, 전세계 윈도우 시스템의 '넷로그온' 프로토콜에서 일어났다.",
+        "이 공지는 이전에는 확인되지 않은, 제2026년도 CVE-2026-41089의 원격코드실행 취약점에 대한 경고로 전반적으로 다니고 있다.",
+        "이 취약점은 현장서 호환성이나 운영상 이유로와 결합되어 보안에 해를 내기가 어렵다고 판단된다."
+      ],
+      "insight": "전세계 윈도우의 '넷로그온' 공지는 IT 업무자원이 방해로 인한 보안위유의에서 주몸하게 나오고 있다."
+    },
+    {
+      "title": "인포트렌드, CCTV·보안 분석 등 실사용 환경에 최적화된 타워형·랙형 서버 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=143972&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 6 Jun 2026 17:10:00 +0900",
+      "description": "스토리지 전문 기업에서 AI 서버 기업으로 변신, 한국 시장 공략 본격화[타이베이=보안뉴스 엄호식 기자] 인포트렌드는 32년간 스토리지 전문 기업으로 자리매김해 왔으나, 최근 2년간 AI를 접목한 ‘올인원 시스템’을 제공하겠다는 목표로 신제품을 연이어 출시하고 있다. 지난해 선보인 5000시리즈는 인텔과 AMD 기반의 쿠버네티스 지원 모델로, 오픈소스를 활",
+      "language": "ko",
+      "summary": "인포트렌드는 AI를 이용한 타워형·랙형 서버 공개에 대해서 이야기하고, 현재의 광범위성으로 IT 시장에서 공인되는 비즈니콌와 AMD 기준으로 스토리지 전문 기업이 변형되고 있음을 소개한다.",
+      "points": [
+        "인포트렌드는 AI를 이용해서 공개하며, 현재의 IT 시장에서 공인되고자 하는 비즈니콌",
+        "스토리지 전문 기업이 AI를 접목한 상태로, 오프소스 기반의 쿠버네티스 지원 모델을 선보인 500thousand에 공개해",
+        "기업이 스토리지 전문 기업로 자리매김한 이유는 인포트렌드의 모바일인식 시스템을 제공하여 '예전체인'를 변신할 수 있도록 하고, AMD 기반의 스쿼리 완화 기능이 주요"
+      ],
+      "insight": "인포트렌드가 IT 시장에서 공략 본격화하며 AI를 이용한 서비스 공개로, 예전체인과 오프소스 기업의 통합이 중요한 시대가 되고 있음을 나타내는 현재에서는 IT 기업들이 AI를 보다 많이 적용해야 함을 의미한다."
+    },
+    {
+      "title": "[PIS FAIR 2026 미리보기] 지란지교데이터, PC필터·AI필터",
+      "link": "http://www.boannews.com/media/view.asp?idx=143947&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 6 Jun 2026 17:06:00 +0900",
+      "description": "생성형 AI 통제와 비정형 데이터 보호 결합한 차별화 경쟁력 확보[보안뉴스 강현주 기자] 지란지교데이터는 데이터 보호 및 데이터 활용 기술을 기반으로 다양한 산업군에 보안 솔루션을 공급하고 있는 전문 기업이다. 최근에는 생성형 AI 확산과 함께 증가하는 데이터 유출 리스크에 대응하기 위해, 기존 DLP 중심 사업을 AI 기반 데이터 보호 영역으로 확장하고",
+      "language": "ko",
+      "summary": "지란지교데이터는 AI를 사용하여 DLP 기술을 강화하고, 생성형 AI 데이터 유출에 대응할 수 있게 노동한다.",
+      "points": [
+        "지란지교데터는 AI를 활용하여 DLP 기술을 강화",
+        "전문 기업들이 사업 또한 DLP 중야를 유지",
+        "DLP 기술의 차별화가 해결 요구로 AI 통제와 기존에는 비해 강력한 방식을 형성"
+      ],
+      "insight": "이러한 IT/기술 업계가 AI를 사용하여 보안 기술을 개선하고 데이0터를 활용함에 초창세대쟁이 유도되는 새로움"
+    },
     {
       "title": "CU 택배 전산망 뚫렸다... BGF네트웍스, 웹 취약점 해킹으로 CI 등 유출",
       "link": "http://www.boannews.com/media/view.asp?idx=143985&kind=&sub_kind=",
@@ -707,51 +752,6 @@
         "The pilot project could help in balancing the electricity grid."
       ],
       "insight": "This deal reflects a growing trend in repurposing EV batteries to support sustainable technologies and renewable energy initiatives within IT/technology industries, potentially setting new standards for circular economy practices. It demonstrates an innovative approach towards e-waste management."
-    },
-    {
-      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
-      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 15:08:34 +0000",
-      "description": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
-      "language": "en",
-      "summary": "Investor interest in Ramp's AI fintech story has led to a significant valuation increase and fundraising.",
-      "points": [
-        "-Ramp nearly tripled its valuation over the past year, indicating strong investor confidence",
-        "-The company raised $750M at an unprecedented $4.3B post-money valuation in a recent financing round",
-        "-Without providing specific business details or financial numbers beyond those mentioned"
-      ],
-      "insight": "Ramp's success is indicative of the growing demand for fintech startups with strong AI components and could inspire similar ventures."
-    },
-    {
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 15:05:00 +0000",
-      "description": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-      "language": "en",
-      "summary": "Hello Robot has unveiled a new generation of their domestic helper robots named 'Stretch.' The updated models come with better intelligence and capabilities.",
-      "points": [
-        "California startup Hello Robot releases the fourth-generation home assistant robot, Stretch.",
-        "The upgraded Stretch boasts improved AI for enhanced functionality in domestic tasks.",
-        "Hello Robot aims to make robots more accessible and beneficial for everyday use at homes."
-      ],
-      "insight": "This development indicates Hello Robot's ambition is not only advancing technology but also focusing on making smart home assistance devices economically viable, thereby influencing broader market acceptance within the IT/technology industry and beyond."
-    },
-    {
-      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
-      "link": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 14:57:41 +0000",
-      "description": "The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.",
-      "language": "en",
-      "summary": "The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information",
-      "points": [
-        "The advisory warns that Chinese spies are using public job search platforms to recruit people with a...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
