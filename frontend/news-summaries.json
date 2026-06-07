@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-06-07T13:50:15.950Z",
+  "generatedAt": "2026-06-07T19:23:08.222Z",
   "articles": [
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
+      "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "language": "en",
+      "summary": "Anthropic experienced a service disruption with Notion following its partnership announcement; Notion has since restored access to Anthropic.",
+      "points": [
+        "Notion and Anthropic announced their collaboration on Thursday, causing an unexpected surge in traffic for both platforms due to the release of new AI services",
+        "The increased demand overwhelmed Notion'CTP-1 service leading to a disruption; this affected companies using Notion as well including tech giants such as Twitter and Microsoft.",
+        "Notion has since restored access for Anthropic after apologizing in their official tweet, assuring that the issue was resolved quickly."
+      ],
+      "insight": "The incident highlights potential risks involved with partnerships between major companies when they launch new services simultaneously. It underscores a need for scalable infrastructure to handle such unexpected demands and reminds businesses of shared platform dependencies, as seen in the disruptions experienced by tech giants Twitter and Microsoft."
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 07 Jun 2026 16:23:22 +0000",
+      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "language": "en",
+      "summary": "Despite claims from an internal source that 'chat' might be dying out in the AI sector, leading innovators like Microsoft and Google are investing heavily to develop their own conversational interfaces.",
+      "points": [
+        "An OpenAI employee falsely claimed chat was dead within a company culture focused on avoiding past failures",
+        "Microsoft is developing its 'Bing Chat' feature as an essential part of Windows for business users, aiming to improve accessibility and efficiency in the workplace.",
+        "Google has been working intensively since January 2023 with Microsoft-built technology on Google Bard, seeking integration opportunities while maintaining a different approach from OpenAI"
+      ],
+      "insight": "The news indicates that despite some claims of chat's decline in the AI industry, major players continue to heavily invest and develop conversational interfaces as essential tools for both business users and personal interactions."
+    },
+    {
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 07 Jun 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "TechCrunch explores GM's significant investment in EV battery technology as part of its $90 end-to end bet.",
+      "points": [
+        "General Motors invested a total of nearly $900 million to develop and commercialize solid-state electric vehicle batteries, with the goal of replacing traditional lithium ion cells by mid-decade. The initial focus is on battery production before introducing EVs in 2035.",
+        "The GM investment includes contributions from suppliers like Saft Groupe and Umicore to reduce costs while maintaining high standards for safety, performance, energy density, stability over time, temperature tolerance, charging speed, durability, recyclability or reusability of batteries.",
+        "GM is also working on a solid-state battery cell design that uses lithium metal and plans to begin pilot production by 2030."
+      ],
+      "insight": "General Motors' investment in EV battery technology could significantly accelerate the adoption of electric vehicles, given GM's large scale manufacturing capabilities. However, technical challenges with solid-state batteries remain as the industry continues to innovate and improve upon existing technologies."
+    },
+    {
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 07 Jun 2026 14:00:00 +0000",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "language": "en",
+      "summary": "The article discusses significant cybersecurity incidents in 2026 that targeted a wide range of sectors including cryptocurrency (DOGE), energy and water systems, as well as FBI surveillance infrastructure.",
+      "points": [
+        "A massive DOGE data breach occurred in the first half of the year",
+        "Critical energy and water systems were targeted by hackers leading to operational disruptions",
+        "An FBI surveillance system was compromised, raising concerns over national security"
+      ],
+      "insight": "These breaches highlight vulnerabilities in critical infrastructure sectors and underscore the importance of robust cybersecurity measures within IT/technology industries."
+    },
     {
       "title": "EU, 미국 빅테크 겨냥 ‘클라우드·AI 개발법’ 발의... 기술 주권 선언",
       "link": "http://www.boannews.com/media/view.asp?idx=143992&kind=&sub_kind=",
@@ -692,66 +752,6 @@
         "- The show has already attracted over 280 people from across Silicon Valley through Facebook invites. It's expected that Founders Fund will continue recruiting participants until midsummer."
       ],
       "insight": "The launch of 'Futuristic Minds' by Founders Fund represents an innovative way to bring together the tech industry’ end-users, experts and entrepreneurs for a competition that could lead to new technological advancements while providing entertainment."
-    },
-    {
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 22:43:26 +0000",
-      "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-      "language": "en",
-      "summary": "Daniela Amodei is confident about AI'nerating returns for her company Anthropic despite recent doubts before its IPO.",
-      "points": [
-        "Anthropic reported a significant year-over-year revenue increase to $47 billion in May",
-        "The high growth rate of the company faces real tests ahead of its upcoming IPO",
-        "Daniela Amodei dismisses doubts about AI's returns, expressing confidence for Anthropic"
-      ],
-      "insight": "This news demonstrates a positive outlook towards significant technological advancements and financial growth within the IT industry."
-    },
-    {
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 22:29:50 +0000",
-      "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "language": "en",
-      "summary": "Airbnb’s Brian Chesky plans to launch a new AI lab despite previous setbacks in readiness for partnerships with language models.",
-      "points": [
-        "Brian Chesky, CEO of Airbnb, has announced the upcoming establishment of an artificial intelligence (AI) research facility within his company.",
-        "The project aims to develop large language model technologies that can enhance customer experiences and streamline business operations.",
-        "Previously, in November last year, it was revealed by Chesky himself that Airbnb had not established an LLM partnership due to their existing products' readiness level."
-      ],
-      "insight": "Brian Chesky’s commitment to creating a dedicated AI lab indicates the growing importance of advanced language technologies in improving customer experiences and operational efficiences within the hospitality industry, despite previous setbacks with existing products' readiness for integration."
-    },
-    {
-      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 21:44:09 +0000",
-      "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
-      "language": "en",
-      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 21:30:00 +0000",
-      "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
-      "language": "en",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today",
-      "points": [
-        "Secure your spot today",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
