@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-06T19:23:06.068Z",
+  "generatedAt": "2026-06-07T03:49:39.792Z",
   "articles": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "language": "en",
+      "summary": "OpenAI has launched Lockdown Mode for ChatGPT as a safeguard against prompt injection attacks that could lead to sharing of sensitive information. Despite these measures, vulnerabilities may still exist.",
+      "points": [
+        "Lockdown Mode is OpenAI's latest security feature designed to protect users from potential data breaches via malicious input or 'prompt injections'.",
+        "Prompt injection attacks exploit the conversational AI systems by inserting harmful code into prompts, risking unautCTive disclosure of confidential information.",
+        "Even with Lockdown Mode activated, ChatGPT could still be susceptible to sophisticated attack vectors that might circumvent these security measures."
+      ],
+      "insight": "This development by OpenAI underscores the ongoing arms race in cybersecurity within AI systems and highlights potential areas for future enhancements to data privacy protection mechanisms. It's a reminder of how important it is for companies continuously evolving their security protocols, especially as they become more integral to our daily lives."
+    },
     {
       "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
       "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
@@ -734,21 +749,6 @@
       "points": [
         "Meta's board cites \"due process\" concerns over account bans",
         "It's also pushing Meta to offer clear information about violations and its use in AI in making its d...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 04 Jun 2026 16:32:48 +0000",
-      "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-      "language": "en",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post. \" and \"What are people saying in my comments",
-      "points": [
-        "\" and \"What are people saying in my comments",
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
