@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-06-08T11:03:17.353Z",
+  "generatedAt": "2026-06-08T15:55:10.667Z",
   "articles": [
+    {
+      "title": "Amazon now lets you design custom merch using AI",
+      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 15:49:12 +0000",
+      "description": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "language": "en",
+      "summary": "Amazon has introduced a feature in the Shopping app that enables users to design custom merchandise using Alexa AI for various products.",
+      "points": [
+        "The new Amazon Feature allows creating personalized designs with voice commands through Alexa",
+        "Available items include T-shirts, hoodies and tumblers which can be printed from the app",
+        "Requires a WiFi connection for designing and printing features to function"
+      ],
+      "insight": "This feature represents Amazon'nergizing convenience in merchandise customization while promoting brand loyalty, potentially impactful on e-commerce."
+    },
+    {
+      "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
+      "link": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 15:37:31 +0000",
+      "description": "The messaging giant announced that it disrupted a phishing campaign targeting its users with NSO’s spyware.",
+      "language": "en",
+      "summary": "WhatsApp has identified and interrupted a sophisticated attack using the Pegasus spyware developed by Israel's NSO Group on its platform in violation of legal restrictions.",
+      "points": [
+        "WhatsApp caught new phishing campaign targeting users with NSO’s Pegasus spyware",
+        "Campaign linked to the illegal sale or distribution of powerful surveillance tools like Pegasus software by non-state actors such as Hackers, Terrorists and Spies. (This is a known risk)",
+        "Disruption led WhatsApp's users in India targeted"
+      ],
+      "insight": "The disruption of these attacks underlines the ongoing battle between privacy advocates striving to protect user data, and malicious entities attempting unauthorized surveillance. The case also highlights the need for greater international cooperation in monitoring and preventing cyber-attacks."
+    },
+    {
+      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 15:34:59 +0000",
+      "description": "Apple's WWDC nears: Here's what you can look forward to.",
+      "language": "en",
+      "summary": "The Worldwide Developers Conference (WWDC) 2026 will showcase major updates from Apple including a revamp of Siri and the introduction of new features like Apple Intelligence.",
+      "points": [
+        "Siri is set to receive significant improvements, enhancing user interaction with personal assistant technology.",
+        "Apple Intelligence represents an expansion into AI-driven analytics for businesses across various industries.",
+        "The unveiling of iOS 27 marks the latest evolution in Apple's mobile operating system."
+      ],
+      "insight": "These advancements indicate a push by Apple towards integrating more intuitive AI technologies, which could set new industry standards and raise expectations for smart assistant capabilities going forward."
+    },
+    {
+      "title": "Sam Bankman-Fried applies for a pardon from Trump",
+      "link": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 15:04:21 +0000",
+      "description": "The FTX co-founder is serving a 25-year sentence, doled out in 2024.",
+      "language": "en",
+      "summary": "Sam Bankman-Fried has applied for clemency from President Trump after being sentenced to a substantial prison term related to FTX.",
+      "points": [
+        "- Sam Bankman-Fried co-founded the cryptocurrency exchange FTX and was involved in its downfall due to allegations of fraudulent activities.",
+        "- He is serving a 25-year sentence, handed down after his sentencing hearing which occurred on January 17th when President Trump was still in office. The clemency process began during Trump's term and continued into the Biden administration without resolution as of early February.",
+        "- Bankman-Fried has asked for a full pardon or commutation, arguing that he is not guilty of any criminal wrongdoing."
+      ],
+      "insight": "Bankman-Fried' endorsement could potentially influence public perception and the wider conversation around cryptocurrency regulation due to his prominent status in this emerging field. However, as investigations continue regarding FTX operations, it remains unclear whether such clemency will be granted."
+    },
+    {
+      "title": "Eventbrite and Vimeo owner Bending Spoons files to go public",
+      "link": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 13:57:00 +0000",
+      "description": "Bending Spoons say its app caters to a user base of over 500 million monthly active users.",
+      "language": "en",
+      "summary": "Eventbrite and Vimeo owner Bending Spoons is going public after securing $275 million in funding from SoftBank's Horizons initiative. The company claims to serve over half a billion monthly active users with its event planning app.",
+      "points": [
+        "Eventbrite and Vimeo owner Bending Spoons is going public after securing $275 million in funding from SoftBank'CTC initiative",
+        "The company claims to serve over half a billion monthly active users with its event planning app",
+        "Bezos invested early on, leading the way for Bending Spoons and raising industry interest"
+      ],
+      "insight": "With Bezos's backing from an earlier investment phase, this move by Eventbrite and Vimeo owner Bending Spoons signifies strong confidence in event-based startups within the IT/technology sector. As they go public with significant funding secured through SoftBank’s Horizons initiative, it highlights the growing trend of tech companies raising substantial capital to scale their operations and user base."
+    },
+    {
+      "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
+      "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 13:26:03 +0000",
+      "description": "The bill is expected to blanket-ban companies and startups from selling people's precise location data across the state.",
+      "language": "en",
+      "summary": "Massachusetts has passed a new privacy rights bill that prohibits the sale of individuals' exact location information within the state.",
+      "points": [
+        "The Massachusetts General Court voted in favor of HB 860, known as An Act to Protect Personal Data Security and Privacy (a.kinflighty referredto as Digital Shield).",
+        "Under this law companies can no longer sell precise location data.",
+        "Companies found guilty could face fines up to $1 million or risk their business license."
+      ],
+      "insight": "The bill sets a precedent for other states in the US, highlighting growing concerns about digital privacy and setting new standards that technology companies must consider when handling user data within Massachusetts. It signifies an increasing emphasis on protecting personal information across various industries affected by technological advancements."
+    },
+    {
+      "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
+      "link": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 11:00:00 +0000",
+      "description": "Uber customers in the UK can now join an interest list to increase their chances of being matched with a Wayve robotaxi.",
+      "language": "en",
+      "summary": "UK Uber users have joined lists for potential matches with autonomous taxis from companies including Wayve and Waymo in London.",
+      "points": [
+        "-Uber customers can now join interest list to be matched with a robotaxi",
+        "-Wayve, founded by former Tesla engineers using real-world data to improve driving algorithms is one of the contenders for autonomous taxi service in London",
+        "-Waymo'in an ongoing trial and Uber continues testing fully driverless vehicles as part of their expansion strategy"
+      ],
+      "insight": "The emergence of multiple players competing to provide robotaxi services indicates a significant move towards the commercialization of autonomous vehicle technology within public transportation, which could potentially transform urban mobility in major cities."
+    },
     {
       "title": "펜타시큐리티, ‘클라우드브릭 마스크 API’ 출시... 커뮤니티 맞춤형 비식별화 지원",
       "link": "http://www.boannews.com/media/view.asp?idx=144013&kind=&sub_kind=",
@@ -645,113 +750,6 @@
         "Through this deal, SpaceX can monetize its LEO solar panels while providing a reliable power source to keep Google's operations running round-the-clock."
       ],
       "insight": "This pact between tech giants marks the beginning of commercializing space energy for Earthbound purposes. As companies continue investing in renewable energies, this partnership could herald a new era where sustainability becomes an integral aspect of global IT infrastructure."
-    },
-    {
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 17:44:18 +0000",
-      "description": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
-      "language": "en",
-      "summary": "General Motors (GM) plans to reduce the price of electric vehicles by utilizing new battery technology developed at a facility in Brownstown Township.",
-      "points": [
-        "The GM's upcoming EV production will be cheaper thanks to advancin",
-        "Newcomer LG Energy Solution, alongside Stellantis-owned VistaJet Batteries Europe GmbH and Samsung Display are also involved in the project.",
-        "This facility is expected to help GM cut prices by up to 30%."
-      ],
-      "insight": "The article highlights a significant shift towards cost-effective electric vehicle production, which could lead to increased adoption and investment within the technology sector. The collaboration also suggests industry trends of partnerships in R&D efforts for advancing EV tech."
-    },
-    {
-      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-      "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 17:38:06 +0000",
-      "description": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
-      "language": "en",
-      "summary": "As several venture-backed e-bike startups have gone bankrupt, bootstrapped Lectric EV is expanding through brand launches to capitalize on the U.A.",
-      "points": [
-        "Lectric has launched three new brands in past six months",
-        "Several VC-backed e-bike startups have gone bankrupt recently",
-        "The US market is perceived as ripe for competition and choice"
-      ],
-      "insight": "This development indicates that bootstrapped companies can compete effectively in the burgeoning U.S. e-bike industry, despite recent failures of venture capital-backed startups."
-    },
-    {
-      "title": "The most interesting startups right now want to get you off your phone",
-      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 17:17:06 +0000",
-      "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
-      "language": "en",
-      "summary": "Mirror founder Brynn Putnam is raising money for Board, a company aiming to reduce smartphone use by facilitating in-person games and social experiences.",
-      "points": [
-        "Brynn Putnam's startup, Mirror, has pivoted from an AI platform to creating 'Board,' which brings people together through face-to-face interactions rather than screen time.",
-        "Cyberdeck creators are popularizing the use of whimsical DIY computers that encourage physical interaction with technology and nature.",
-        "The trend suggests a growing desire among certain tech users to reconnect with real-world experiences, challenging prevailing norms around constant digital connectivity."
-      ],
-      "insight": "This shift toward in-person interactions reflects broader concerns about the impact of technology on social skills and mental health within the IT/technology industry. It signifies a movement towards creating more tangible, shared experiences as alternatives to screen time."
-    },
-    {
-      "title": "Supabase doubles valuation to $10B in 8 months",
-      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 16:32:27 +0000",
-      "description": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
-      "language": "en",
-      "summary": "Supabase, an open source project in the IT sector, experienced rapid growth doubling its valuation to $1 endorsing AI's pivotal role for startups.",
-      "points": [
-        "The company grew exponentially within eight months due largely to their adoption of AI tools such as Claude and Codex. These innovations have enabled Supabase to enhance its user experience significantly, thus accelerating growth.",
-        "Supabase has leveraged the power of other vibe-coding platforms in addition to developing open source projects that are integral for startups' successes like Facebook GraphQL or MongoDB Atlas",
-        "The company doubles valuation within eight months showcases how AI and machine learning tools can propel a startup into exponential growth."
-      ],
-      "insight": "This development underscores the potential of integrating advanced technologies, particularly AI and ML platforms in startups to enable rapid scalability and success. It further highlights that open-source projects with these capabilities are key drivers for businesses within this sector as they can quickly adapt new tools into their systems."
-    },
-    {
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 16:07:46 +0000",
-      "description": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
-      "language": "en",
-      "summary": "The Silent Ransom Group consists of cybercriminals who send impersonators posing as IT workers to target law firms' offices and steal data via USB drives or remote access tools.",
-      "points": [
-        "Silent Ransom Group is a gang that employs ransomware tactics including physical intrusion under the guise of providing IT support.",
-        "The criminals have targeted law firms, exploiting them by pretending to be new employees or contractors hired to set up computers and networks.",
-        "They use USB drives for direct data exfiltration alongside remote access tools like TeamViewer and AnyDesk."
-      ],
-      "insight": "The Silent Ransom Group's method of blending physical infiltration with digital attacks represents a significant threat to the IT security posture within various sectors, especially those dealing with sensitive legal information. It underscores the importance for organizations across all industries to invest more deeply in both their cybersecurity measures and background checks."
-    },
-    {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 14:49:12 +0000",
-      "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "language": "en",
-      "summary": "With AI development costs skyrocketing within the industry, there is a growing concern about runaway expenses and calls for controlling these spending surges.",
-      "points": [
-        "AI development has led to rapidly increasing industry-wide costs with significant implications on research budgets.",
-        "Industry stakeholdinbks are now prioritizing the need for effective cost management strategies and guardrails in AI projects.",
-        "The shift from a 'go fast' mentality towards more control reflects growing concerns about financial sustainability."
-      ],
-      "insight": "This news underscores an essential pivot within IT/technology, highlighting the need for cost-effective strategies and fiscal responsibility in AI development to ensure long-term industry stability. It suggests a greater emphasis on prudent spending amidst technological advancements."
-    },
-    {
-      "title": "NASA tells astronauts to shelter in SpaceX Dragon due to new ISS leaks",
-      "link": "https://techcrunch.com/2026/06/05/nasa-tells-astronauts-to-shelter-in-spacex-dragon-due-to-new-leaks-on-the-iss/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 05 Jun 2026 14:42:52 +0000",
-      "description": "The space agency says Roscosmos has discovered new leaks in the Russian service module that it is trying to repair.",
-      "language": "en",
-      "summary": "NASA and SpaceX are dealing with unexpected ISS leaks from Russia's service module; astronauts have been ordered to shelter in the Dragon capsule for safety.",
-      "points": [
-        "Roscosmos has discovered new leaks in Russian service module on ISS",
-        "NASA and SpaceX are working together to repair them as soon as possible ",
-        "Due to potential risks, NASA instructed astronauts aboard the station to seek shelter inside a Dragon capsule"
-      ],
-      "insight": {
-        "text": "This situation highlights not only challenges in space exploration but also emphasizes international cooperation between agencies and commercial entities for ensuring crew safety."
-      }
     }
   ]
 }
