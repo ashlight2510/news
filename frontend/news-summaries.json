@@ -1,6 +1,154 @@
 {
-  "generatedAt": "2026-06-09T14:50:04.114Z",
+  "generatedAt": "2026-06-09T20:16:14.373Z",
   "articles": [
+    {
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "language": "en",
+      "summary": "The article discusses how if tech companies could use cheaper Artificial Intelligence (AI) models without compromising on quality, it would revolutionize the economics of AI.",
+      "points": [
+        "Cheaper AI model availability can transform business practices within technology sectors",
+        "Maintaining product quality with less expensive tools may reshape industry standards and investments in tech research",
+        "The potential shift towards affordable, high-performing AI models could democratize access to advanced technologies"
+      ],
+      "insight": "This development would not only lower costs for companies but also level the playing field by making cutting-edge technology more accessible."
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 18:04:24 +0000",
+      "description": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "language": "en",
+      "summary": "At WWDC 2decade later: Apple announced significant updates for Siri with the addition of an all-AI experience and iOS 27 to bring new levels of intelligence across its devices.",
+      "points": [
+        "Apple unveiled a major revamp in AI capabilities within their flagship assistant, 'Siri', at WWDC 2026. This includes enhanced understanding for complex queries and more personalized responses through improved natural language processing (NLP).",
+        "The tech giant also announced the release of iOS 27 to accompany these Siri improvements while introducing other AI-driven features across their devices.",
+        "Additionally, Apple introduced its 'Apple Intelligence' framework that integrates with third-party apps and services on iPhones using a common language for seamless interaction between the OS and external software."
+      ],
+      "insight": "These announcements represent significant steps towards creating an ecosystem where AI is deeply integrated into daily interactions, potentially setting new standards in human-computer interfaces within the tech industry."
+    },
+    {
+      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 17:40:08 +0000",
+      "description": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
+      "language": "en",
+      "summary": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government",
+      "points": [
+        "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of it...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "language": "en",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology",
+      "points": [
+        "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public",
+        "The model comes with guardrails that block responses in high-risk areas like cybersecurity and biolo...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Rivian starts deliveries of its all-important R2 SUV",
+      "link": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 16:46:08 +0000",
+      "description": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"",
+      "language": "en",
+      "summary": "Rivian began deliveries of its first all-electric pickup truck model named R2 SUV.",
+      "points": [
+        "The Rivian R2 SUV is the company' end goal, symbolizing a significant advancement in electric vehicle (EV) technology and design",
+        "Rivian CEO claims this launch as potentially one of their most impactful product introductions to date",
+        "Early deliveries have already commenced with customers eager for Rivian’s innovative EV models"
+      ],
+      "insight": "This news signifies a significant milestone in the electric vehicle industry, particularly emphasizing an all-electric SUV as competitive against traditional gasoline pickups. It showcases that consumer demand exists and is ready for such vehicles."
+    },
+    {
+      "title": "Apple’s foldable iPhone could be just around the corner",
+      "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 16:22:56 +0000",
+      "description": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
+      "language": "en",
+      "summary": "Apple's rumored upcoming iPhone with foldable technology is reported to have been included in an iOS developer beta release.",
+      "points": [
+        "Developer Beta for iOS includes code related to a potential new Apple foldable iPhone",
+        "The inclusion of 'fold state' and 'screen angle' references suggests the device could feature hinge mechanisms similar to those found in some Android phones or Microsoft Surfaces.",
+        "Although rumors persist, concrete details about specifications such as screen size remain unclear."
+      ],
+      "insight": "The potential development of a foldable iPhone by Apple indicates the company'seligibility for significant innovation within their flagship product lineup that may disrupt current market trends and consumer expectations in mobile technology design."
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 16:09:14 +0000",
+      "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "language": "en",
+      "summary": "The tech industry is witnessing the emergence of SpaceX, Anthropic, and OpenAI as new contenders for massive public offerings alongside traditional giants known as FAANG (Facebook, Amazon, Apple, Netflix, Alphabet). These companies are collectively referred to as MANGOS.",
+      "points": [
+        "SpaceX's plan for a mega-IPO and Anthropic following Elon Musk’s lead may redefine market dynamics with its projected valuation of $25 billion, signaling massive growth potential in AI research & development."
+      ],
+      "insight": "The birth of MANGOS suggests an expanding frontier for tech innovation and capitalization beyond traditional giants. With their substantial investments into cutting-edge fields like space exploration (SpaceX) and language models (Anthropic), these entities could significantly shape the direction and ethics within IT/technology industry."
+    },
+    {
+      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+      "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 15:23:40 +0000",
+      "description": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users.",
+      "language": "en",
+      "summary": "Apple has indicated a potential policy change where they might remove certain applications from the App Store for not being user-attractive enough.",
+      "points": [
+        "Apple is considering removing apps deemed stale, low-value or unable to attract users",
+        "The decision will impact existing apps that do not evolve with changing trends and technology",
+        "This move could redefine the criteria for app approval in Apple's App Store"
+      ],
+      "insight": "Apple's potential policy change might disrupt established gaming or utility apps but encourages developers to continuously improve user experience."
+    },
+    {
+      "title": "iOS 27 features we didn’t see onstage",
+      "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 15:06:12 +0000",
+      "description": "While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users.",
+      "language": "en",
+      "summary": "Apple unveiled new minor enhancements in iOS 27 rather than major changes.",
+      "points": [
+        "iOS 27 introduces small features to improve everyday iPhone usage",
+        "No significant alterations or radical updates included in the latest version of Apple's mobile operating system for iPhones and iPads (Source: The Verge)",
+        "Despite lacking major new developments, iOS 27 has numerous smaller features aimed at refining daily experience"
+      ],
+      "insight": "Though the updates to iOS 27 are modest, they still demonstrate Apple's commitment to continuous improvement and user-focused innovation."
+    },
+    {
+      "title": "Apple brings streaming-style subscription bundles to the App Store",
+      "link": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 14:55:36 +0000",
+      "description": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages.",
+      "language": "en",
+      "summary": "Apple has expanded the App Bundle feature for app developers to create streaming-style bundled subscriptions.",
+      "points": [
+        "Developers can partner on discounted subscription packages",
+        "Part of Apple'simproved product mix with more exclusive content offerings and lower prices in recent months",
+        "Bundling could encourage developers to collaborate for the first time"
+      ],
+      "insight": "This move has potential implications for fostering collaboration among app creators, while potentially increasing user engagement through bundled subscription options."
+    },
     {
       "title": "Apple’s App Store rolls out personalized recommendations",
       "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
@@ -600,153 +748,6 @@
         "Experts are anticipating that this upgrade will further solidify Apple's position in AI creative tools."
       ],
       "insight": "The refurbished Image Playground suggests a strategic move by Apple to maintain its dominance and possibly attract new users interested in harnessing the capabilities of advanced generative design within their products, thus driving innovation forward."
-    },
-    {
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 18:36:04 +0000",
-      "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-      "language": "en",
-      "summary": "Apple's Photos app is introducing a 'Reframe' AI feature that allows users to change the perspective of their photos with ease.",
-      "points": [
-        "Introduces spatial ReFrame for adjusting photo perspectthood using Apple's newest AI-enhanced editing tools in iOS and iPadOS devices,",
-        "Users can quickly transform a portrait by shifting the subject to appear more dynamic or even turn landscape photos into portraits.",
-        "Reframe uses machine learning for realistic photo retouching without needing professional skills."
-      ],
-      "insight": "This update reflects Apple's commitment to making advanced technology accessible, enhancing user creativity and control over digital content. It also indicates a trend where AI becomes an integral part of everyday photography tools beyond specialized software."
-    },
-    {
-      "title": "Apple gives Siri its own dedicated app",
-      "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 18:33:42 +0000",
-      "description": "Siri is finally getting its own app.",
-      "language": "en",
-      "summary": "Apple has announced the development of a standalone application for Siri to enhance user interaction and accessibility beyond iOS devices.",
-      "points": [
-        "The dedicated Siri app allows users on iPhones with Face ID or older models without Apple Pay, as well as those using third-party apps like AirTag that track location via Bluetooth LE technology."
-      ],
-      "insight": "This decision by Apple indicates an expansion of their ecosystem to include standalone Siri applications for various platforms and devices beyond just iPhone. It could potentially drive further innovations in AI voice assistants across the tech industry."
-    },
-    {
-      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-      "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 18:23:04 +0000",
-      "description": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
-      "language": "en",
-      "summary": "Apple has introduced a new Camera feature for iPhones that allows users to easily split restaurant bills by integrating with the Apple Cash payment system.",
-      "points": [
-        "The Siri-enhanced camera feature can identify items ordered in photos taken at restaurants and facilitate tab splitting using preloaded balance on iPhone cards.",
-        "Sebastien Marineau-Mes, VP of Software for Apple, announced the new technology as part of a larger effort to improve digital payment methods within mobile devices.",
-        "To use this feature effectively, users must ensure their camera lenses are clean and positioned correctly during an image capture."
-      ],
-      "insight": "This development is likely to streamline restaurant payments for iPhone users by simplifying the process of identifying expenses from a shared meal. The integration with Apple Cash suggests that this feature could be part of broader changes in payment methods across mobile devices, potentially impacting how consumers manage dining out costs."
-    },
-    {
-      "title": "Apple puts parents back in control of kids’ iPhone use",
-      "link": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 18:07:32 +0000",
-      "description": "Apple is putting control back into the hands of parents with more granular screen time features.",
-      "language": "en",
-      "summary": "Apple has introduced new, detailed controls for managing childrens' iPhone usage through Family Sharing and Screen Time.",
-      "points": [
-        "Parents can now set specific time limits on different types of apps: games/entertainment (e.g., TikTok), social media interactions like Instagram Stories, educational resources such as Khan Academy videos, etc.",
-        "Parental control options include setting daily or weekly time restrictions for kids' phone use and the ability to enforce them effectively starting August 25th."
-      ],
-      "insight": "These updates signify Apple’s effort in addressing growing concerns over children'deexposureto potentially harmful online content, by providing parents with more power to monitor their kids' digital activities and ensure a safe tech environment for the younger generation."
-    },
-    {
-      "title": "Apple’s Health app can now tell you if you’re in perimenopause",
-      "link": "https://techcrunch.com/2026/06/08/apples-health-app-can-now-tell-you-if-youre-in-perimenopause/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 18:03:05 +0000",
-      "description": "Cycle tracker will now notify women when their cycle patterns are suggestive of perimenopause.",
-      "language": "en",
-      "summary": "Apple has updated its Health app to include notifications about potential signs of perimenopause in women'energetic cycles.",
-      "points": [
-        "The Apple Health app now tracks cycle patterns and notifies users when they suggest perimenopause",
-        "Perimenopausal changes often begin between the ages of 40-58, with symptoms like irregular periods becoming more common as women age into their mid-life years.",
-        "Apple's update reflects an increased awareness and interest in personal health technology to monitor transitions such as perimenopause."
-      ],
-      "insight": "The Apple Health app enhancement shows the expanding role of consumer tech companies in monitoring long-term health changes, which could potentially improve early detection for conditions like menopause. This may influence future developments aimed at personalized medicine and age-related wellness tracking."
-    },
-    {
-      "title": "Apple introduces systemwide dictation",
-      "link": "https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 18:00:09 +0000",
-      "description": "Apple's new dictation system could compete with Wispr Flow and others.",
-      "language": "en",
-      "summary": "Apple's new dictation system could compete with Wispr Flow and others",
-      "points": [
-        "Apple's new dictation system could compete with Wispr Flow and others",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 17:56:21 +0000",
-      "description": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "language": "en",
-      "summary": "Apple has unveiled its updated Siri with enhanced artificial intelligence capabilities, transforming it into a friendlier and more intelligent assistant.",
-      "points": [
-        "Siri AI is an overhauled voice-controlled personal assistant from Apple designed to provide companionship along with functionality.",
-        "The new system uses advanced machine learning algorithms for better understanding natural language, making Siri responses feel more human and less robotic.",
-        "Apple emphasizes improved privacy controls in the updated AI Siri."
-      ],
-      "insight": "With Apple's latest overhaul of Siri as an intelligent assistant that can converse with users like a friend, there is potential for significant advancement and broader acceptance of conversational agents within everyday tech applications. However, the success will largely depend on continuous learning algorithms to adapt to diverse user needs."
-    },
-    {
-      "title": "Apple says it’s fixed the awful search function for emails, photos",
-      "link": "https://techcrunch.com/2026/06/08/apple-says-its-fixed-the-awful-search-function-for-emails-photos/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 17:53:29 +0000",
-      "description": "Apple says a completely rebuilt Search function will competently find the emails, photos and other content you are searching for.",
-      "language": "en",
-      "summary": "Apple says a completely rebuilt Search function will competently find the emails, photos and other content you are searching for",
-      "points": [
-        "Apple says a completely rebuilt Search function will competently find the emails, photos and other c...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Apple is tweaking its controversial Liquid Glass design",
-      "link": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 17:24:33 +0000",
-      "description": "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's design overhaul from last year to be hard to read.",
-      "language": "en",
-      "summary": "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's design overhaul from last year to be hard to read",
-      "points": [
-        "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's desig...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline",
-      "link": "https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 16:14:14 +0000",
-      "description": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-      "language": "en",
-      "summary": "The article provides essential information about applying for Startup Battlefield 2nerd-out event happening in August of 2026, including a deadline and what applicants need to prepare.",
-      "points": [
-        "Startup Battlefield applications open on June 7th with the submission due by midnight EST. The winners will be announced at the Startup Battlefest event from August 18-20 in Minneapolis, MN.",
-        "Applicants must create a profile and submit an application through EventBrite within two weeks before their desired start date for consideration.",
-        "The article emphasizes that this is not just about applying to the event but also being invited. The author stresses on understanding what makes up Startup Battlefield, which includes networking with investors."
-      ],
-      "insight": "This news underscores the importance of planning and preparation in IT/technology competitions like Startup Battlefield as they can provide significant opportunities for exposure and growth within the industry. The event's focus on a blend of skill, networking, and presentation skills suggests that success is not only about having an innovative product but also effectively communicating it."
     }
   ]
 }
