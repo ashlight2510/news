@@ -1,6 +1,276 @@
 {
-  "generatedAt": "2026-06-08T20:21:15.010Z",
+  "generatedAt": "2026-06-09T03:14:20.689Z",
   "articles": [
+    {
+      "title": "[PIS FAIR 2026 미리보기] 한국기업보안, SSL/TLS 인증서 자동화 관리 솔루션 UCLM",
+      "link": "http://www.boannews.com/media/view.asp?idx=143964&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:46:00 +0900",
+      "description": "47일 SSL/TLS 인증서 자동화의 해답, UCLM[보안뉴스 한세희 기자] 한국기업보안(대표 전귀선)이 ‘PIS 페어(제15회 개인정보보호페어 & CPO워크숍) 2026’에 참가해 SSL/TLS 인증서 자동화 관리 솔루션 ‘UCLM’을 선보인다.2008년 설립된 한국기업보안은 18년간 국내 정보보호 산업을 선도해온 IT 보안 전문기업이다. SSL/TLS",
+      "language": "ko",
+      "summary": "47일 SSL/TLS 인증서 자동화의 해답, UCLM[보안뉴스 한세희 기자] 한국기업보안(대표 전귀선)이 ‘PIS 페어(제15회 개인정보보호페어 & CPO워크숍) 2026’에 참가해 SSL/TLS 인증서 자동화 관리 솔루션 ‘UCLM’을 선보인다. 2008년 설립된 한국기업보안은 18년간 국내 정보보호 산업을 선도해온 IT 보안 전문기업이다",
+      "points": [
+        "47일 SSL/TLS 인증서 자동화의 해답, UCLM[보안뉴스 한세희 기자] 한국기업보안(대표 전귀선)이 ‘PIS 페어(제15회 개인정보보호페어 & CPO워크숍) 2026’에 참가...",
+        "2008년 설립된 한국기업보안은 18년간 국내 정보보호 산업을 선도해온 IT 보안 전문기업이다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[PIS FAIR 2026 미리보기] 지키다, AI기반 개인정보 컴플라이언스 관리·감독 솔루션",
+      "link": "http://www.boannews.com/media/view.asp?idx=143921&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:44:00 +0900",
+      "description": "A로 증빙자료와 답변 정합성 자동 점검, 실시간 개인정보 처리 현황 점검[보안뉴스 한세희 기자] 지키다(ZIKIDA)는 AI 기반 컴플라이언스 점검 서비스 제공 기업이다. 정보보호 부서와 현업 부서, 수탁사가 효과적으로 협업해 개인정보 처리 현황을 점검하고 법 준수 여부를 평가할 수 있도록 지원한다. 개인정보 관련 과업과 프로젝트를 체계적으로 관리하는 기능",
+      "language": "ko",
+      "summary": "A로 증빙자료와 답변 정합성 자동 점검, 실시간 개인정보 처리 현황 점검[보안뉴스 한세희 기자] 지키다(ZIKIDA)는 AI 기반 컴플라이언스 점검 서비스 제공 기업이다. 정보보호 부서와 현업 부서, 수탁사가 효과적으로 협업해 개인정보 처리 현황을 점검하고 법 준수 여부를 평가할 수 있도록 지원한다...",
+      "points": [
+        "A로 증빙자료와 답변 정합성 자동 점검, 실시간 개인정보 처리 현황 점검[보안뉴스 한세희 기자] 지키다(ZIKIDA)는 AI 기반 컴플라이언스 점검 서비스 제공 기업이다",
+        "정보보호 부서와 현업 부서, 수탁사가 효과적으로 협업해 개인정보 처리 현황을 점검하고 법 준수 여부를 평가할 수 있도록 지원한다",
+        "개인정보 관련 과업과 프로젝트를 체계적으로 관리하는 기능"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 34] 믿는 도끼에 발등 찍힌다(4)-공용 PC 비밀번호 저장이 위험한 이유",
+      "link": "http://www.boannews.com/media/view.asp?idx=143572&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:43:00 +0900",
+      "description": "브라우저의 ‘비밀번호 저장’ 기능은 공용 PC에서 절대 쓰지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않",
+      "language": "ko",
+      "summary": "공용 PC에서 실수로 잘못된 비밀번호 저장이 일괄적으로 IT보안 사고를 유발하기 때문입니다.",
+      "points": [
+        "공용 PC의 비밀번호 저장은 공용 PC에서만 권한을 줄 수 s로 함",
+        "-보안심화를 위해 자신이 들고나가는 곳에서 다음과 같은 보안 습관을 따라주세요.",
+        "-공용 PC에서는 비밀번호를 적으시는 것이 위험한다.사고가 되지 않도록 유지"
+      ],
+      "insight": "보안을 강화하기 위해 IT보안과 사용자의 실습으로 인한 체감적적으로 사고를 변형할 수 있습니다."
+    },
+    {
+      "title": "中 스파이, 구인광고로 정부·군 인력 접근... “보고서 한 건에 수천달러”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144021&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:41:00 +0900",
+      "description": "파이브 아이즈 “중국, 채용 플랫폼으로 정보원 모집”정부·군 관계자 대상 정보 수집 활동 경고중국 “간첩 위협론은 날조” 전면 부인[보안뉴스 강초희 기자] 중국 정보기관이 온라인 채용 플랫폼을 활용해 내부 정보원 모집 활동을 벌이고 있디고 파이브 아이즈(Five Eyes) 정보동맹 국가들이 경고했다. 호주 보안정보기구(ASIO), 캐나다 보안정보국(CSIS",
+      "language": "ko",
+      "summary": "파이브 아이즈 “중국, 채용 플랫폼으로 정보원 모집”정부·군 관계자 대상 정보 수집 활동 경고중국 “간첩 위협론은 날조” 전면 부인[보안뉴스 강초희 기자] 중국 정보기관이 온라인 채용 플랫폼을 활용해 내부 정보원 모집 활동을 벌이고 있디고 파이브 아이즈(Five Eyes) 정보동맹 국가들이 경고했다. 호주 보안정보기구(ASIO), 캐나다 보안정보국(CSIS",
+      "points": [
+        "호주 보안정보기구(ASIO), 캐나다 보안정보국(CSIS",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "베일 벗은 ‘시리 AI’, 유럽에선 못 쓴다... 애플과 EU의 디지털 시장법 충돌",
+      "link": "http://www.boannews.com/media/view.asp?idx=144019&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:38:00 +0900",
+      "description": "EU 디지털 시장법 규제로 제동, 외부 AI 기기 제어에 대한 양측 입장차 팽팽18개월 점진적 배포도 거부... 애플 “건설적 논의 응하지 않는 규제 당국에 유감”[보안뉴스 조재호 기자] 오늘 오전 애플의 세계개발자회의(WWDC 2026)에서 공개된 ‘시리 AI’(Siri AI)가 유럽연합(EU)의 디지털시장법(DMA) 규제에 부딪혀 반쪽짜리 출시에 그치게",
+      "language": "ko",
+      "summary": "EU 이정의한 DMA 규제로 유리양자기기 '시리 AI' 추진에 대해 애플은 공개된 세계개발자회의에서 부딪히 짐습니다.",
+      "points": [
+        "EU 이정의한 DMA 규제로 '시리 AI'을 공개 받았음, 그로 유리양자기기 제조자인 애플은 EU의 디지털 시장법에 부딪쳐 이어질 것입니다.",
+        "유리양자기기 '시리 AI' 출시에서는 EU 규제로 제외되었음을 주장합니다.",
+        "EU DMA의 필요성과 유리양자기기 제조자가 EU 이나 유럽에서 거부하는 의지를 보여줍니다."
+      ],
+      "insight": "이러한 사정은 IT/기술 업계에서 EU 규제의 일반화 요동성을 보여줌으로써 '시리 AI'의 유리양자기인 애플이 부당하게 EU 이정의를 촉착해 원인성을 가지고 있다는 것을 나타냅니다."
+    },
+    {
+      "title": "금융권 비정형 데이터 유출 막는다... 지란지교시큐리티 메일스크린 공급",
+      "link": "http://www.boannews.com/media/view.asp?idx=144022&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:30:00 +0900",
+      "description": "우리은행·우리카드 외부 메일 승인 시스템 OCR 연동 고도화지란지교데이터 고성능 AI 탐지 기술 결합해 보안 시너지 높여[보안뉴스 조재호 기자] 지란지교시큐리티가 우리은행과 우리카드 등에 AI 기반 광학문자인식(AI-OCR) 기술을 접목한 메일 데이터 유출 방지 솔루션을 공급한다.지란지교시큐리티는 우리은행과 우리카드, 베트남우리은행의 ‘외부 메일 승인 시스",
+      "language": "ko",
+      "summary": "우리은행·우리카드 같은 대학체계의 재산보호에 중요한 기술이 등장하고 있습니다.",
+      "points": [
+        "- 우리은행과 우리카드를 위해 AI-OCR 기술을 강화한다.",
+        "- 메일 데이터 유출에서의 고성능 탐지가 중요합니다.",
+        "- OCR 연동과 AI를 결합하여보안노 Star기사는 건물의 디자인적으로 유출되는 지란지교시큐리티 메일스크린이 보안 시너지를 제공한다."
+      ],
+      "insight": "우리은행으로부터의 보안을 강화하는 AI-OCR 기술이 고전화제공입니다.메일스크립트를 OCR 기반으로 건물에서의 보안 시너지는 새로운 IT/기술 분양체계 노 Star 메이트를 통한 고성능 AI가 확장하여 제공한다."
+    },
+    {
+      "title": "모빌린트, COMPUTEX 2026서 대만 AI 생태계와 협력 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=144023&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:26:00 +0900",
+      "description": "DFI·NEXCOBOT·TOP MEASURE와 MOU 체결... 산업용 AI 협력 강화로보틱스·머신비전·산업용 컴퓨팅 분야 공동 개발 및 글로벌 사업 확대 추진VLM·멀티채널 AI·화재감지 등 다양한 라이브 데모로 NPU 상용화 역량 공개[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 아시아 최대 ICT 전시회 ‘COMPUTEX 2026’에서 대만 주요",
+      "language": "ko",
+      "summary": "DFI·NEXCOBOT·TOP MEASURE와 MOU 체결. 산업용 AI 협력 강화로보틱스·머신비전·산업용 컴퓨팅 분야 공동 개발 및 글로벌 사업 확대 추진VLM·멀티채널 AI·화재감지 등 다양한 라이브 데모로 NPU 상용화 역량 공개[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 아시아 최대 ICT 전시회 ‘COMPUTEX 2026’에서 대만 주요",
+      "points": [
+        "DFI·NEXCOBOT·TOP MEASURE와 MOU 체결",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "안랩-경찰청 피싱 범죄 뿌리 뽑는다... 악성 앱 공동 대응 체계 구축",
+      "link": "http://www.boannews.com/media/view.asp?idx=144020&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:24:00 +0900",
+      "description": "악성 앱 분석 고도화 통한 피싱 범죄 대응 MOU 체결V3 모바일 시큐리티에 최신 위협 정보 신속 반영해 사용자 보호[보안뉴스 조재호 기자] 안랩이 경찰청과 손잡고 보이스피싱 등 각종 사이버 민생범죄에 악용되는 악성 앱 근절에 나선다.안랩은 8일 서울 종로구 경찰청 전기통신금융사기 통합대응단 회의실에서 경찰청과 ‘악성 앱 분석 고도화를 통한 피싱 범죄 대응",
+      "language": "ko",
+      "summary": "근접한국인 '안랩'가 경찰청과 함께 악성 앱 대응 모드를 개시하여 이민수동에서 주요 위협 발생점을 보졉한 체계로 피싱.",
+      "points": [
+        "안랩이 경찰청과 함께 악성 앱 대응 살사를 기록했다.",
+        "일부 전역 민생에 주로 아시아 경찰 공조자 국가의 '근접한국'이다.",
+        "그들은 8일짜리 서울 경찰청과 연동하기 때문에, 위협물을 수집하고 MOU를 개시했다."
+      ],
+      "insight": "이러한 살직한 인식주의와 공동체계의 구축으로, '안랩'과 경찰청은 공세적으로 피싱을 위한 지속적인 환경을 만들어내고 있다."
+    },
+    {
+      "title": "BHSN, AI 계약 관리 ‘앨리비 큐’ 출시... 계약서 보관부터 이행 관리까지 통합 지원",
+      "link": "http://www.boannews.com/media/view.asp?idx=144014&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:20:00 +0900",
+      "description": "계약 체결 이후 지급·갱신·통지 등 20여가지 핵심 일정 AI까지 자동 알림분산된 계약서 통합 및 실시간 연동 지원해 담당자 변경 시 업무 공백 방지[보안뉴스 조재호 기자] 비에이치에스엔(BHSN)이 계약 체결 이후 발생하는 다방면의 후속 업무를 자동으로 통제하고 관리해 주는 AI 기반 서비스 ‘앨리비 큐’(allibee Cue)를 출시했다고 8일 밝혔다.",
+      "language": "ko",
+      "summary": "AI기기 '앨리비 큐'를 통해 계약서 보관부터 이행까지 AI의 영리를 활용한 계약 분쟁 방지입니다.",
+      "points": [
+        "BHSN은 AI '앨리비 큐'를 이용하여 계약서 보관부터 이행까지 모든 과정을 자동으로 연동합니다.",
+        "이 서비스는 계약 신청, 체결 시기, 귀하의 일부를 복원할 수도, 이행 일정, 통지, 변경 요청 등을 계약서 내에서 자동으로 모니터링합니다.",
+        "BHSN은 보안노born이 개정해 주며 사용자 피로그램을 제공한다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서의 계약 분쟁 방지 및 자동 시원형 디바이스를 위한 AI기발주의인 '앨리비 큐' 서비스가 BHSN이 개정해 주는 관련 IT 기술에 대한 의미와 인사이트를 제시한다."
+    },
+    {
+      "title": "“패스키는 생태계 연결 ‘접착제’... 보안도, 고객 수도 높여”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144015&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 11:17:00 +0900",
+      "description": "그랩 “교통, 물류, 배달, 결제까지 하나의 생태계로 관통”아디다스 “웹·앱·소매·도매 아우르는 접착제”[보안뉴스 강현주 기자] “보안은 더 이상 당신이 기억해야할 암호가 아닌, 당신 그 자체입니다. 패스키를 통해 교통, 물류, 결제, 배달을 아우르는 보안 일원화를 구현할 것입니다.” (동남아 슈퍼앱 그랩)“수백 개의 소매 매장과 도매 파트너, 웹, 앱이",
+      "language": "ko",
+      "summary": "그랩 “교통, 물류, 배달, 결제까지 하나의 생태계로 관통”아디다스 “웹·앱·소매·도매 아우르는 접착제”[보안뉴스 강현주 기자] “보안은 더 이상 당신이 기억해야할 암호가 아닌, 당신 그 자체입니다. 패스키를 통해 교통, 물류, 결제, 배달을 아우르는 보안 일원화를 구현할 것입니다...",
+      "points": [
+        "그랩 “교통, 물류, 배달, 결제까지 하나의 생태계로 관통”아디다스 “웹·앱·소매·도매 아우르는 접착제”[보안뉴스 강현주 기자] “보안은 더 이상 당신이 기억해야할 암호가 아닌, ...",
+        "패스키를 통해 교통, 물류, 결제, 배달을 아우르는 보안 일원화를 구현할 것입니다",
+        "” (동남아 슈퍼앱 그랩)“수백 개의 소매 매장과 도매 파트너, 웹, 앱이"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 01:56:48 +0000",
+      "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "language": "en",
+      "summary": "Apple has faced criticism for its slow approach to integrating artificial intelligence into products and services but is now starting to see significant benefits from this strategy.",
+      "points": [
+        "Despite accusations of lagging behind in the AI race, Apple's careful expansion with tools like Siri over recent years has strengthened it against rivals such as Google.",
+        "Apple continues its focus on integrating user-friendly and privacy-centric solutions into all devices which appeals to a significant consumer base.",
+        "The company is leveraging AI in areas of high customer interaction like the App Store, Apple Music subscription services, iMessage chatbots for better personalized experiences."
+      ],
+      "insight": "Apple's deliberate and privacy-conscious approach to AI integration may not only have bolstered its brand loyalty but also strategically positioned it well against more invasive competitors in the long term, as customer trust is increasingly linked with data handling practices."
+    },
+    {
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 00:45:56 +0000",
+      "description": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "language": "en",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices",
+      "points": [
+        "Sequoia is just one of the top firms that sells same equity at two different prices",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 22:41:45 +0000",
+      "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "language": "en",
+      "summary": "Sam Altman’sen eye-scanning startup Tools for Humanity is experiencing financial difficulties and has begun layoffs after failing to secure a deal with Google.",
+      "points": [
+        "Tools for Humanity, led by Sam Altman's company Anthrotect AI, was aiming to become the industry standard in identity verification but failed due to lack of market acceptance.",
+        "The startup has faced revenue shortfalls and is downsizing its workforce as a result of financial struggles.",
+        "Tools for Humanity's efforts have not met expectations, leading to questioning on the viability of human-centric identity verification methods."
+      ],
+      "insight": "The failure of Tools for Humanity indicates potential challenges in proving the efficacy and efficiency of AI over traditional biometric systems within certain sectors of IT/technology industries, particularly regarding consumer acceptance and regulatory compliance. This raises questions about market-readiness for advanced human-AI identity verification solutions."
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "language": "en",
+      "summary": "Apple's WWDC keynote for their artificial intelligence showcased realistic human-like interactions following a $250 million false advertising settlement.",
+      "points": [
+        "The vibe of Apple’ endorsement was notably more authentic in the AI demos due to past issues with unrealistic representations being highlighted at WWDC.",
+        "$250 million paid by Facebook-owned Meta for misleading consumers about its virtual assistant 'Dorothy' has prompted tech giants, including Apple, to strive for more truthful AI demonstrations in keynotes and promotions.",
+        "While still a workshop setting with no real humans interacting directly, the latest WWDC demos present users feeling closer interactions between their devices."
+      ],
+      "insight": "The recent settlement has forced tech companies to reevaluate how they showcase AI capabilities in public demonstrations for consumers and investors alike. Apple's keynote at the upcoming WWDC will likely emphasize realism and user-friendly interactions, setting a new standard."
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "language": "en",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms",
+      "points": [
+        "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public,...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 21:15:42 +0000",
+      "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "language": "en",
+      "summary": "Apple focused on enhancin and updating existing features during WWDC before introducing an improved Siri for users.",
+      "points": [
+        "During the keynote at Worldwide Developers Conference (WWDC), Apple heavily emphasized fixes, performance improvements, and previously requested features as core components of their presentation.",
+        "Apple unveiled its upgraded AI-powered Siri during WWDC, showing that they view this technology as an integral part in improving the overall user experience with software updates beyond just standalone applications or tools for developers.",
+        "The keynote highlights Apple's dedication to continuously evolving and enhancing its ecosystem of products while addressing customer feedback."
+      ],
+      "insight": "This news reinforces the significance of continuous improvement in user experience, integrating AI seamlessly within a broader software development strategy for tech companies like Apple. It also highlights how consumer needs and industry trends can shape company policies towards product evolution."
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 20:53:55 +0000",
+      "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "language": "en",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads",
+      "points": [
+        "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with few...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 08 Jun 2026 20:50:55 +0000",
+      "description": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
+      "language": "en",
+      "summary": "Waymo has acquired an extensive self-driving car testing facility in Arizona that was previously owned by Route 14 Investment Partners LLC linked to Apple.",
+      "points": [
+        "- Waymo purchased a large proving ground for autonomous vehicle development totaling 5,500 acres from Delaware-based shell company associated with Apple.",
+        "- The deal includes land and infrastructure at the Newnan Proving Grounds in Arizona, previously owned by Route 14 Investment Partners LLC which had its origins linked to Steve Wozniak's Applied Semiconductor division from where he sold his shares worth $20 million.",
+        "- The purchase price of $220M was paid through a loan, suggesting Waymo is heavily investing in autonomous driving technology."
+      ],
+      "insight": "This acquisition indicates that traditional automakers are not the only players interested in self-driving car technologies. It suggests increasing competition within this field and shows major tech companies like Apple making significant strides towards integrating their expertise into autonomous driving solutions."
+    },
     {
       "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
@@ -477,276 +747,6 @@
         "공개한 AI보안 시스템은 PoC에서는 금융권 10곡이상의 사각지대에서 OCR로 신분증·계좌번호·서명 등을 이미지로 인식하여 직접 보안 방안을 테스트한다."
       ],
       "insight": "비정형 데이터에 대한 위기인식과 AI를 사용하여 우리나라의 금융권 시장을 보호해내는 방안은 지속적으로 고려해야 한다. PIS FAIR 2026의 AI보안 시스템이라면 우리나라의 금융권 시장에서도 마스킹 기능을 확보하는 방안을 고안해주세요."
-    },
-    {
-      "title": "[Global Security TOP 100] 전명진 아마노코리아 대표이사 “주차관제 넘어 공간 플랫폼으로”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143831&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 13:12:00 +0900",
-      "description": "AI·무인화 기반 플랫폼 기업 전환 가속전국 1만4000여개 운영 현장과 26개 서비스 거점 기반 경쟁력 강조AI 기반 전기차 화재 진압 토탈 솔루션 연내 상용화 추진[보안뉴스 강초희 기자] 1996년 설립 이후 대한민국 주차관제 산업을 이끌어온 아마노코리아가 AI와 무인화 기술을 기반으로 대대적인 체질 개선에 나서고 있다. 전국 1만4000여개 운영 현장",
-      "language": "ko",
-      "summary": "전망의 기사는 대한민국의 주차관제 산업이 AI와 무인화 기술로 개선되어 여성 1만4000여개 운영 현장에서 경쟁력을 통합으로 강화하고 있다.",
-      "points": [
-        "대한민국의 주차관제 산업이 AI와 기술로 개선되어 경쟁할 수 있는 체인으로 강화",
-        "여성이 기술화 가진 1만4000여개 운영 현장에서 경쟁력을 통합으로 강화하고 있다.",
-        "AI,인스페이스 기술로 전문적인 플랫폼 제조체질을 촉진시키고 있다."
-      ],
-      "insight": "이러한 재미성 기술화 모델은 IT/기술 업체에서 경쟁적 장려리가지는 기회를 보장"
-    },
-    {
-      "title": "KISA, 음성스팸 차단 정조준... 유선·인터넷전화 사업자 방어망 넓힌다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143997&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 12:01:00 +0900",
-      "description": "스팸문자 91% 급감 속 음성스팸 873만건으로 폭증하는 풍선효과 선제 타개정보통신망법 기반 사업자 의무사항 안내 및 신고량 대국민 공개 전격 예고[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 유선 및 인터넷전화(VoIP) 사업자를 대상으로 불법스팸 대응 역량 강화를 위한 사업자 설명회를 11일 서울 세텍에서 개최한다고 9일 밝혔다.이번 행사는 3월",
-      "language": "ko",
-      "summary": "스팸문자 91% 급감 속 음성스팸 873만건으로 폭증하는 풍선효과 선제 타개정보통신망법 기반 사업자 의무사항 안내 및 신고량 대국민 공개 전격 예고[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 유선 및 인터넷전화(VoIP) 사업자를 대상으로 불법스팸 대응 역량 강화를 위한 사업자 설명회를 11일 서울 세텍에서 개최한다고 9일 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "라온시큐어, FIDO 글로벌 인증 컨퍼런스서 에이전틱 AI 보안 전략 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144002&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 11:45:00 +0900",
-      "description": "파이도 얼라이언스 주최 ‘어센티케이트 APAC 2026’ 참가해 빅테크와 기술 나란히안면·지문 생체인증 및 이상 행위 탐지 기능 결합한 차세대 ‘원패스’ 현장 시연[보안뉴스 조재호 기자] 라온시큐어는 지난 2일 싱가포르에서 개최된 국제 디지털 인증 컨퍼런스 ‘어센티케이트 APAC 2026’에 참가해 AI 환경에 최적화된 다중인증(MFA) 플랫폼 ‘원패스’(",
-      "language": "ko",
-      "summary": "발행한 '어센티케이트 APAC 2026'에서 AI를 환경에 확장하여 다중인증을 줍니다.",
-      "points": [
-        "이 회사는 많은 기기들과 유대인자동 인증(FIDO)를 기반으로 제공합니다.",
-        "라온시큐어의 '원패스'는 AI를 이용한 강화가 가능합니다.",
-        "대근로기재에서 인증과 안전성을 보장할 수 있으리라고 생각합니다."
-      ],
-      "insight": "이 뉴스는 AI의 영향을 인증에 미치게 강제하고 안전성을 유지하는 방법에 대해서 소개하고 있습니다."
-    },
-    {
-      "title": "MS 깃허브 저장소 73곳 감염... ‘미아스마’ 웜 공급망 공격 비상",
-      "link": "http://www.boannews.com/media/view.asp?idx=144003&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 11:23:00 +0900",
-      "description": "미아스마 웜, MS가 관리하는 깃허브 저장소 73곳 연쇄 감염개발자 개인 접근 토큰(PAT)과 인증 키 탈취해 침투[보안뉴스 김형근 기자] 전염성이 강한 미아스마(Miasma) 웜 악성코드가 마이크로소프트(MS)가 관리하는 핵심 깃허브(GitHub) 소스코드 저장소 73곳을 연쇄적으로 공격했다.이번 사건은 개발자 인증 자격을 탈취해 정상 프로그램을 오염시킨",
-      "language": "ko",
-      "summary": "MS GitHub 소스코드 73곳에서 Miasma 웜 공격: PAT과 인증 키 탈취",
-      "points": [
-        "개발자 인증 자격을 탈취한 Miasma 웜이 73개의 MS GitHub 소스코드 깃허브를 연쇄적으로 공격한다.",
-        "이러한 공격은 정상 프로그램의 기능을 제대로 유지하지 못하고, 보안성을 변동시켜 준비했다.",
-        "이러한 공격은 MS GitHub 소스코드 73곳에서 연기가 일어난 사건이다."
-      ],
-      "insight": "Miasma 웜의 이전 보호업산성과 공격 폭력은 IT 엔진에 대한 우려와 방어가 필요하다."
-    },
-    {
-      "title": "서울시설공단, 170만건 데이터 기반 도로관리 핵심기술 특허 출원 “교량 노후화 예측한다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=143998&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 11:19:00 +0900",
-      "description": "올림픽대로 등 서울시 전체 자동차전용도로 12개 노선·164개 시설물로 시스템 전면 확장디지털 트윈 연계·AI 기술 도입 추진으로 노후 시설물 안전관리의 새로운 표준 정립[보안뉴스 강초희 기자] 서울시설공단(이사장 한국영)이 서울 도로관리의 안전 증진을 위해 구축한 ‘데이터 기반 도로관리 시스템’의 핵심기술의 특허출원을 완료했다고 5일 밝혔다.공단은 준공",
-      "language": "ko",
-      "summary": "서울시 줄여진 게이트로 도로 협업에 기여한 '데이터 기반 도로관리 시스템'의 핵심기술을 얻으며 공단은 이를 완전히 청구한다.",
-      "points": [
-        "서울시설공단은 준공 '데이터 기반 도로관리 시스템'의 추진에 자세히 완전풀한 특허를 제출",
-        "이전에는 AI 기술을 알고리즘으로 도로 관리의 노후 시설물이 모니터링, 보호를 쉽게 수행할 수 있었다",
-        "공단은 '데이터 기반 도로관리 시스템'의 노현식과 안전성을 위해 신용저장, 크레인처리 기술을 활용한다"
-      ],
-      "insight": "이러한 '데이터 기반 도로관리 시스템'의 개선이 서울시의 교통공학부와 줌니코프가 도로 알고리즘 개발과정에 중요한 기능을 수월하게 수행할 수 있다."
-    },
-    {
-      "title": "행안부, ‘최고의 재난안전 AI 프롬프트’ 찾는다... 창업경진대회 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=143999&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 11:17:00 +0900",
-      "description": "‘제4회 재난안전데이터 활용 창업경진대회’ 공모작 7월 7일까지 접수재난안전 데이터와 AI를 활용한 프롬프트·서비스 아이디어 발굴 추진[보안뉴스 강초희 기자] AI가 재난 상황을 스스로 판단해 담당 공무원에게 위험지역, 대피 대상과 같은 맞춤형 대응 조치를 신속하고 정확하게 안내하기 위한 ‘AI 프롬프트’를 국민과 함께 찾는다.행정안전부(장관 윤호중)는 재",
-      "language": "ko",
-      "summary": "4차 재난 상황대보를 AI로 받아들이는 경진대회 개최",
-      "points": [
-        "4차 재난에 의해 위험한 지역을 AI로 분석하여 대응 조치를 결정하는 경진대회",
-        "공모작 7월 7일까지 기사 접수",
-        "행정안전부의 투자와 함께 제10만원 상답으로 다수의 공무원이 마주한 대상"
-      ],
-      "insight": "AI를 이용해 재난 위기에서 판단한 위험지역에 대한 조치가 시스템화되고, 공모작의 결정이 국민과 함께 진전"
-    },
-    {
-      "title": "“열차 운전실 CCTV 설치 예외 없앤다” 국토부, 철도안전법 개정 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=144000&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 11:15:00 +0900",
-      "description": "철도안전법 시행령·시행규칙 개정안 입법예고운전실 CCTV 설치 면제 규정 폐지하고 모든 열차로 확대기관사 개인정보 보호와 근무환경 개선 방안도 병행 추진[보안뉴스 강초희 기자] 국토교통부(장관 김윤덕)는 7월 15일까지 ‘철도안전법 시행령·시행규칙’ 일부 개정안을 입법예고한다.이번 개정은 철도 사고 원인의 명확한 규명과 철도 안전 강화를 위해 모든 열차에",
-      "language": "ko",
-      "summary": "국토교통부은 철도 안전성을 강화하기 위해 시행령·시행규칙의 일부를 개정으로 진행중이다.",
-      "points": [
-        "철도 사고 원인의 명확한 규명과 초기화",
-        "모든 열차에서의 개인정보보호",
-        "근무환경 개선"
-      ],
-      "insight": "이 기사는 국내시장에서의 철도안전 개정에 대해 통과되고 진화하고 있음을 강조한다."
-    },
-    {
-      "title": "美 CISA, 솔라윈즈 결함 KEV 등재... ‘Serv-U’ 취약점 악용 비상",
-      "link": "http://www.boannews.com/media/view.asp?idx=143996&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 10:53:00 +0900",
-      "description": "관리자 시선 돌린 틈 타 내부망 깊숙이 우회 침투하는 고도의 기만전술 확인6월 28일까지 연방 기관 대상 보안 패치 및 망 격리 긴급 지침 하달[보안뉴스 김형근 기자] 미국 사이버보안인프라보안국(CISA)이 글로벌 네트워크 관리 솔루션 솔라윈즈(SolarWinds)의 파일 전송 프로그램 결함을 ‘악용 확인 취약점’(KEV) 목록에 등재하며 긴급 방어 태세에",
-      "language": "ko",
-      "summary": "美 CISA 관리자가 극진함에 대비해서 솔라윈즈의 파일전손 전문적인 보안업계와 국내의 망급 위기로 충동하는 경향력이 나타내어진.",
-      "points": [
-        "美 CISA가 솔라윈즈의 보안관리 취약점을 식사하는",
-        "결혼적인 방법으로 대응",
-        "글로벌 위기와 국내의 보안 공동작성에 중요한 역할을 지니한다"
-      ],
-      "insight": "이 실시사컷 코드 예외인식 감염으로 극진하여 미국의 보안 관련 운동에 큰 영향을 미칠가능성이 강조된다."
-    },
-    {
-      "title": "[2026 LiDAR 기반 외곽감시 리포트] 국가 경계와 중요시설 보안을 위한 새로운 눈",
-      "link": "http://www.boannews.com/media/view.asp?idx=143880&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 10:18:00 +0900",
-      "description": "라이다, 군사기지부터 항만, 발전소까지 국가 중요시설 및 민간 산업시설 보호에 빠르게 확산CCTV 및 주요 센서들과 조화로운 역할 분담으로 철통 감시 구현[보안뉴스 엄호식 기자] 밤이나 폭우 속에서도 침입자를 미리 알아챌 수 있다면 어떨까. CCTV가 보지 못하는 사각지대, 센서가 놓치는 순간을 메워줄 새로운 눈이 등장했다. 바로 라이다(LiDAR)다. 수",
-      "language": "ko",
-      "summary": "라이다, 군사기지부터 항만, 발전소까지 국가 중요시설 및 민간 산업시설 보호에 빠르게 확산CCTV 및 주요 센서들과 조화로운 역할 분담으로 철통 감시 구현[보안뉴스 엄호식 기자] 밤이나 폭우 속에서도 침입자를 미리 알아챌 수 있다면 어떨까. CCTV가 보지 못하는 사각지대, 센서가 놓치는 순간을 메워줄 새로운 눈이 등장했다...",
-      "points": [
-        "라이다, 군사기지부터 항만, 발전소까지 국가 중요시설 및 민간 산업시설 보호에 빠르게 확산CCTV 및 주요 센서들과 조화로운 역할 분담으로 철통 감시 구현[보안뉴스 엄호식 기자] ...",
-        "CCTV가 보지 못하는 사각지대, 센서가 놓치는 순간을 메워줄 새로운 눈이 등장했다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "파이오링크, AI 에이전트 기반 사이버위협 관리 플랫폼 ‘블루헌터’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=143995&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 10:14:00 +0900",
-      "description": "“사이버 복원력 시장 정조준”자산 및 취약점 식별을 넘어 비즈니스 관점 위협 관리[보안뉴스 강현주 기자] 파이오링크(대표 조영철)가 인공지능(AI) 기반의 사이버위협 관리 플랫폼 ‘블루헌터(BlueHunter) 서비스’를 정식 출시하며 사이버 복원력 시장 공략에 나선다고 8일 밝혔다. 이번에 선보인 블루헌터는 가트너가 제시한 지속적 위협 노출관리(CTEM,",
-      "language": "ko",
-      "summary": "패이오링크는 AI 기기로 비롯한 IT/기술 업체에서 사이버 위협 관리를 도와주는 블루헌터 서비스를 출시했다.",
-      "points": [
-        "AI 기기로 개인정보에 대한 위협을 방지하기 위해 개별 컴퓨터(PC)의 경우에도 출시",
-        "전자 거주세트, PC 공급사(DMS) 그리고 IT/기술 서비스가 손해받을 수 s를 줄이기 위해 시작",
-        "개인정보가 유지하는 것을 효과적으로 제어하고, 위협을 방針시키기 위한 '블리친' 서비스"
-      ],
-      "insight": "이 관련 뉴스는 IT/기술 업체에서의 개인정보 보호와 IT/기술 위협 관리에 대한 시사이트 출시이다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 33] 믿는 도끼에 발등 찍힌다(3)-스팸 차단 안 하면 계속 당하는 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=143571&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 10:05:00 +0900",
-      "description": "스팸 차단 앱(후후, T전화 등)을 활용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지",
-      "language": "ko",
-      "summary": "스팸 차단 앱(후후, T전화 등)을 활용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "스팸 차단 앱(후후, T전화 등)을 활용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 07 Jun 2026 20:26:13 +0000",
-      "description": "We're likely to see more price increases as the big AI companies plan to go public.",
-      "language": "en",
-      "summary": "The article discusses concerns over significant token price hikes due to major artificial intelligence firms going public.",
-      "points": [
-        "Major AI companies are preparing for IPOs which could drive up token prices and cause market volatility",
-        "Token owners might face financial risks as their investments' values fluctuate with the broader market trends influenced by these tech giants going public",
-        "The phenomenon is likened to a 'tokenpocalypse', indicating fears of mass token sell-offs or extreme price drops"
-      ],
-      "insight": "This development could lead the IT/technology industry towards greater market scrutiny and regulatory interest, potentially impacting future fundraising methods."
-    },
-    {
-      "title": "Notion restores access to Anthropic after service disruption",
-      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
-      "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-      "language": "en",
-      "summary": "Anthropic experienced a service disruption with Notion following its partnership announcement; Notion has since restored access to Anthropic.",
-      "points": [
-        "Notion and Anthropic announced their collaboration on Thursday, causing an unexpected surge in traffic for both platforms due to the release of new AI services",
-        "The increased demand overwhelmed Notion'CTP-1 service leading to a disruption; this affected companies using Notion as well including tech giants such as Twitter and Microsoft.",
-        "Notion has since restored access for Anthropic after apologizing in their official tweet, assuring that the issue was resolved quickly."
-      ],
-      "insight": "The incident highlights potential risks involved with partnerships between major companies when they launch new services simultaneously. It underscores a need for scalable infrastructure to handle such unexpected demands and reminds businesses of shared platform dependencies, as seen in the disruptions experienced by tech giants Twitter and Microsoft."
-    },
-    {
-      "title": "OpenAI is still working on that ‘super app’",
-      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 07 Jun 2026 16:23:22 +0000",
-      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-      "language": "en",
-      "summary": "Despite claims from an internal source that 'chat' might be dying out in the AI sector, leading innovators like Microsoft and Google are investing heavily to develop their own conversational interfaces.",
-      "points": [
-        "An OpenAI employee falsely claimed chat was dead within a company culture focused on avoiding past failures",
-        "Microsoft is developing its 'Bing Chat' feature as an essential part of Windows for business users, aiming to improve accessibility and efficiency in the workplace.",
-        "Google has been working intensively since January 2023 with Microsoft-built technology on Google Bard, seeking integration opportunities while maintaining a different approach from OpenAI"
-      ],
-      "insight": "The news indicates that despite some claims of chat's decline in the AI industry, major players continue to heavily invest and develop conversational interfaces as essential tools for both business users and personal interactions."
-    },
-    {
-      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
-      "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 07 Jun 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "TechCrunch explores GM's significant investment in EV battery technology as part of its $90 end-to end bet.",
-      "points": [
-        "General Motors invested a total of nearly $900 million to develop and commercialize solid-state electric vehicle batteries, with the goal of replacing traditional lithium ion cells by mid-decade. The initial focus is on battery production before introducing EVs in 2035.",
-        "The GM investment includes contributions from suppliers like Saft Groupe and Umicore to reduce costs while maintaining high standards for safety, performance, energy density, stability over time, temperature tolerance, charging speed, durability, recyclability or reusability of batteries.",
-        "GM is also working on a solid-state battery cell design that uses lithium metal and plans to begin pilot production by 2030."
-      ],
-      "insight": "General Motors' investment in EV battery technology could significantly accelerate the adoption of electric vehicles, given GM's large scale manufacturing capabilities. However, technical challenges with solid-state batteries remain as the industry continues to innovate and improve upon existing technologies."
-    },
-    {
-      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
-      "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 07 Jun 2026 14:00:00 +0000",
-      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-      "language": "en",
-      "summary": "The article discusses significant cybersecurity incidents in 2026 that targeted a wide range of sectors including cryptocurrency (DOGE), energy and water systems, as well as FBI surveillance infrastructure.",
-      "points": [
-        "A massive DOGE data breach occurred in the first half of the year",
-        "Critical energy and water systems were targeted by hackers leading to operational disruptions",
-        "An FBI surveillance system was compromised, raising concerns over national security"
-      ],
-      "insight": "These breaches highlight vulnerabilities in critical infrastructure sectors and underscore the importance of robust cybersecurity measures within IT/technology industries."
-    },
-    {
-      "title": "EU, 미국 빅테크 겨냥 ‘클라우드·AI 개발법’ 발의... 기술 주권 선언",
-      "link": "http://www.boannews.com/media/view.asp?idx=143992&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 7 Jun 2026 17:16:00 +0900",
-      "description": "‘클라우드·AI 개발법’ 및 ‘반도체법 2.0’ 동시 제안… 2030년 반도체 점유율 20% 목표 금융·에너지·보건 등 민감 분야 공공 조달 시 유럽산 하드웨어·소프트웨어 도입 의무화AWS·MS 등 미국 클라우드 기업, 현지 독립 인프라 및 합작 법인 앞세워 장벽 돌파 시도[보안뉴스 조재호 기자] 유럽연합집행위원회(EC)는 미국 빅테크 기업에 대한 기술적",
-      "language": "ko",
-      "summary": "‘클라우드·AI 개발법’ 및 ‘반도체법 2. 0’ 동시 제안… 2030년 반도체 점유율 20% 목표 금융·에너지·보건 등 민감 분야 공공 조달 시 유럽산 하드웨어·소프트웨어 도입 의무화AWS·MS 등 미국 클라우드 기업, 현지 독립 인프라 및 합작 법인 앞세워 장벽 돌파 시도[보안뉴스 조재호 기자] 유럽연합집행위원회(EC)는 미국 빅테크 기업에 대한 기술적",
-      "points": [
-        "‘클라우드·AI 개발법’ 및 ‘반도체법 2",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "이재명 대통령, 차기 총리에 한성숙 중소벤처기업부 장관 지명",
-      "link": "http://www.boannews.com/media/view.asp?idx=143993&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 7 Jun 2026 17:12:00 +0900",
-      "description": "네이버 CEO 출신 중기부 장관 전격 발탁... 인사청문회 통과 시 20년 만의 두 번째 여성 총리반도체·수출 호황 온기를 중소기업·소상공인 등 골목상권으로 확산하는 실전형 리더십 기대[보안뉴스 조재호 기자] 이재명 대통령이 7일 차기 국무총리 후보자로 네이버 CEO 출신인 한성숙 중소벤처기업부 장관을 지명했다.강훈식 대통령비서실장은 청와대 춘추관 브리핑을",
-      "language": "ko",
-      "summary": "이재명 대통령이 차기 국무총리 후보자로 선정된다.",
-      "points": [
-        "이재명 대통령이 한성숙 중소벤처기업부 장관을 지명했다.",
-        "전국의 여자 브랜마충전에 대한 시야를 그리고 정치적인 진화를 가르게 이어지고 있다.",
-        "이 기사는 여성의 중요성을 강조하여 공정한 후보로 선정된 이재명 대통령이 차기 국무총리 선수가 되어 나온다."
-      ],
-      "insight": "여성이 국민청고 국무에서의 중요성과 중요한 역할을 강조하는 데 문제가 없는 이재명 대통령의 선수로 차기 국무총리를 만들게되어 다시 국민의 이해를 도모해야 한다."
     }
   ]
 }
