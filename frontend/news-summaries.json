@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-06-09T03:14:20.689Z",
+  "generatedAt": "2026-06-09T09:52:51.565Z",
   "articles": [
+    {
+      "title": "쿠팡 개인정보 유출 과징금 10일 심의... 역대급 과징금 여부 주목",
+      "link": "http://www.boannews.com/media/view.asp?idx=144039&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 18:26:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 정부가 쿠팡의 대규모 개인정보 유출 사고 조사를 시작한지 7개월 만에 제재 수위를 10일 최종 결정한다. 3367만여 건의 고객 정보가 유출된 대형 사고인 만큼 역대 최대 규모의 과징금 부과될지 주목된다. 9일 개인정보보호위원회에 따르면 개인정보위는 10일 오전 전체회의를 열고 쿠팡의 개인정보 보호법 위반 여부, 제재 수위를 심의할",
+      "language": "ko",
+      "summary": "쿠팡의 대규모 개인정보 유출 사고에 대한 제재 수위 10일 결정",
+      "points": [
+        "쿠팡과 이러한 기술 사내에서의 개인정보 보호 위반이 차지하는 과징금 부과",
+        "10일 오전 최종 결정으로 33만여간의 고간 사고에 대해 제기되었다.",
+        "기존의 제재 수위보다는 이전에 과집한 거의 모든 경우에 대해 제기된다."
+      ],
+      "insight": "이 기사는 IT/기술 업체에서의 개인정보보호가 중요하고 국민의 증액과 회사와의 계승간의 있다면 강력한 제약이 필요해진다."
+    },
+    {
+      "title": "대륜-SJKP, 美 로펌과 쿠팡 소송 공동 대응... “자체 디스커버리로 승부”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144038&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 18:12:00 +0900",
+      "description": "연방 집단소송 경험 풍부한 ‘나폴리 슈콜닉’과 협업“국가 간 협업 통해 한미 양국 피해자 권리 되찾을 것”[보안뉴스 강현주 기자] 법무법인 대륜의 업무협력 로펌인 SJKP가 미국 뉴욕동부연방지방법원에 제기된 미국 쿠팡(Coupang, Inc.) 대상 대규모 개인정보 유출 집단소송에서 미국 집단소송 전문대형 로펌인 나폴리 슈콜닉(Napoli Shkolnik)",
+      "language": "ko",
+      "summary": "대륜 SJKP, 미로포먼 밖에서 Napoli Shkolnik 슈콜닉으로 각자의 주민청구 정보를 공유하기 시작한다.",
+      "points": [
+        "대륜 SJKP과 Napoli Shkolnik의 협업",
+        "개인정보 및 주민청구 정보를 공유하기로 해야 한다.",
+        "이러한 대응은 IT 업계에서의 공세 또는 상호작용으로 인식할 수 trep니다."
+      ],
+      "insight": "이러한 대응은 IT 업체들이 공세를 강화하고, 상호작용을 도모하는 중요한 행동으로 보인다."
+    },
+    {
+      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+      "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 09:00:00 +0000",
+      "description": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites.",
+      "language": "en",
+      "summary": "Evotrex has raised $30 million to create an RV capable of long-distance travel without needing a charging station.",
+      "points": [
+        "Startup Evotrex secures funding for innovative electric vehicle technology in the RV market",
+        "Hybrid power system eliminates dependence on traditional campsites and charger availability",
+        "Evotrex's plan includes charging infrastructure to support their eco-friendly RV designs"
+      ],
+      "insight": "This development by Evotrex signifies a growing trend in the automobile industry towards more sustainable and independent vehicle usage, which could significantly reduce reliance on conventional fuels."
+    },
+    {
+      "title": "“취약점 퍼붓는 AI 시대, ‘사람’이 보안 병목”... 태니엄, ‘자율형 패치 관리’ 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144037&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 16:59:00 +0900",
+      "description": "“패치 이메일 승인 기다리는 동안 공격은 시작”미토스 프리뷰 발견 취약점 3만개 이상... 패치율 0.4% 불과[보안뉴스 강현주 기자] “AI로 사이버 공격 프로세스가 자동화되면서, 매일 취약점이 쏟아지는 ‘포스트 미토스’ 시대에는 사람 중심의 보안 프로세스가 가장 큰 보안 병목입니다. 정책 기반 시스템이 스스로 작동하는 ‘자율형 패치 관리’가 답입니다.”",
+      "language": "ko",
+      "summary": "“패치 이메일 승인 기다리는 동안 공격은 시작”미토스 프리뷰 발견 취약점 3만개 이상. 4% 불과[보안뉴스 강현주 기자] “AI로 사이버 공격 프로세스가 자동화되면서, 매일 취약점이 쏟아지는 ‘포스트 미토스’ 시대에는 사람 중심의 보안 프로세스가 가장 큰 보안 병목입니다...",
+      "points": [
+        "“패치 이메일 승인 기다리는 동안 공격은 시작”미토스 프리뷰 발견 취약점 3만개 이상",
+        "4% 불과[보안뉴스 강현주 기자] “AI로 사이버 공격 프로세스가 자동화되면서, 매일 취약점이 쏟아지는 ‘포스트 미토스’ 시대에는 사람 중심의 보안 프로세스가 가장 큰 보안 병목입...",
+        "정책 기반 시스템이 스스로 작동하는 ‘자율형 패치 관리’가 답입니다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "삼성 ‘AI 대전환’ 본격화... 全 계열사 AI 보안 인재 확보 총력전",
+      "link": "http://www.boannews.com/media/view.asp?idx=144036&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 16:27:00 +0900",
+      "description": "외부 생성형 인공지능 도입 앞두고 전사적 보안 체계 및 전담 조직 구축 돌입AI 중심으로 일하는 방식-조직문화 재정의... 주요 계열사 AI 보안 인재 채용 공고 등록[보안뉴스 조재호 기자] 삼성이 연구개발부터 경영 지원에 이르는 모든 업무에 인공지능을 전면 도입하는 ‘AI 대전환’을 선언한 가운데, 전 계열사가 인공지능 보안 인력 확보에 총력을 기울이고",
+      "language": "ko",
+      "summary": "외부 생성형 인공지능 도입 앞두고 전사적 보안 체계 및 전담 조직 구축 돌입AI 중심으로 일하는 방식-조직문화 재정의. 주요 계열사 AI 보안 인재 채용 공고 등록[보안뉴스 조재호 기자] 삼성이 연구개발부터 경영 지원에 이르는 모든 업무에 인공지능을 전면 도입하는 ‘AI 대전환’을 선언한 가운데, 전 계열사가 인공지능 보안 인력 확보에 총력을 기울이고",
+      "points": [
+        "외부 생성형 인공지능 도입 앞두고 전사적 보안 체계 및 전담 조직 구축 돌입AI 중심으로 일하는 방식-조직문화 재정의",
+        "주요 계열사 AI 보안 인재 채용 공고 등록[보안뉴스 조재호 기자] 삼성이 연구개발부터 경영 지원에 이르는 모든 업무에 인공지능을 전면 도입하는 ‘AI 대전환’을 선언한 가운데, ...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "한서대 항공보안학과, ‘관세청 공무원(전문경력관 다군)’ 최종 합격자 6명 대거 배출",
+      "link": "http://www.boannews.com/media/view.asp?idx=144035&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 15:57:00 +0900",
+      "description": "학과 역사상 최초 합격, 지도교수와 학생들의 열정이 함께 만들어낸 쾌거[보안뉴스 강초희 기자] 국내 최고 수준의 엘리트 보안 인재를 양성하는 한서대학교 항공보안학과 졸업생 6명(19학번 신민용, 20학번 김창기, 명상현, 박종균, 22학번 이나은, 최가연)이 2026년 6월 5일부로 관세청 전문경력관 다군(경력경쟁채용)에 최종 합격하는 쾌거를 이루었다.관세",
+      "language": "ko",
+      "summary": "한서대학교의 항공보안학과 학생들이 관세청 전문경력관 다군에 합격하였다.",
+      "points": [
+        "- 6명의 학생이 한서대학교 항공보안학과 연终시장에서 승리",
+        "- 이러한 학생들은 전문적인 일을 수행하기 위해 최고의 게임자를 선정",
+        "- 합격하여 교수나 연구가능성을 확보"
+      ],
+      "insight": "이 뉴스는 IT/기술 업계에서 학생들의 경련과 교수의 인정을 보여주는, 그리고 교육의 중요성과 핵심 인재가 필요한 역사를 시사한다."
+    },
+    {
+      "title": "노드VPN, GTA 6 위장 악성코드 주의보... 트로이목마 및 피싱 확산",
+      "link": "http://www.boannews.com/media/view.asp?idx=144033&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 15:44:00 +0900",
+      "description": "[보안뉴스 조재호 기자] 2026년 최대 기대작으로 꼽히는 게임 GTA 6 사전 예약이 임박했다는 소문이 퍼지면서 가짜 설치 파일과 허위 베타 키, 피싱 사이트 유포가 증가하는 추세다. 노드VPN은 GTA 6 출시를 앞두고 이용자들의 기대 심리를 악용한 악성코드 및 피싱 공격이 확산하고 있다고 9일 밝혔다. 노드VPN 위협 인텔리전스 연구팀 분석 결과 이번",
+      "language": "ko",
+      "summary": "[보안뉴스 조재호 기자] 2026년 최대 기대작으로 꼽히는 게임 GTA 6 사전 예약이 임박했다는 소문이 퍼지면서 가짜 설치 파일과 허위 베타 키, 피싱 사이트 유포가 증가하는 추세다. 노드VPN은 GTA 6 출시를 앞두고 이용자들의 기대 심리를 악용한 악성코드 및 피싱 공격이 확산하고 있다고 9일 밝혔다...",
+      "points": [
+        "[보안뉴스 조재호 기자] 2026년 최대 기대작으로 꼽히는 게임 GTA 6 사전 예약이 임박했다는 소문이 퍼지면서 가짜 설치 파일과 허위 베타 키, 피싱 사이트 유포가 증가하는 추...",
+        "노드VPN은 GTA 6 출시를 앞두고 이용자들의 기대 심리를 악용한 악성코드 및 피싱 공격이 확산하고 있다고 9일 밝혔다",
+        "노드VPN 위협 인텔리전스 연구팀 분석 결과 이번"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "해커보다 먼저 약점 찾는다... 케이알시큐리티 ASM 솔루션 무상 제공",
+      "link": "http://www.boannews.com/media/view.asp?idx=144031&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 15:30:00 +0900",
+      "description": "복지기관 및 소상공인 등 10곳 선정, ‘리콘레드’ 최대 1년간 무료 제공외부 노출 자산, 취약점 자동 점검... 전담 인력 없는 기관 선제 방어 지원[보안뉴스 조재호 기자] 해커의 관점에서 취약점을 찾아내는 공격표면관리(ASM) 솔루션 ‘리콘레드’(ReconRED)가 보안 여력이 부족한 중소기업과 소상공인에게 1년간 무료로 제공된다.오펜시브 시큐리티 전문",
+      "language": "ko",
+      "summary": "복지기관 및 소상공인 등 10곳 선정, ‘리콘레드’ 최대 1년간 무료 제공외부 노출 자산, 취약점 자동 점검. 전담 인력 없는 기관 선제 방어 지원[보안뉴스 조재호 기자] 해커의 관점에서 취약점을 찾아내는 공격표면관리(ASM) 솔루션 ‘리콘레드’(ReconRED)가 보안 여력이 부족한 중소기업과 소상공인에게 1년간 무료로 제공된다...",
+      "points": [
+        "복지기관 및 소상공인 등 10곳 선정, ‘리콘레드’ 최대 1년간 무료 제공외부 노출 자산, 취약점 자동 점검",
+        "전담 인력 없는 기관 선제 방어 지원[보안뉴스 조재호 기자] 해커의 관점에서 취약점을 찾아내는 공격표면관리(ASM) 솔루션 ‘리콘레드’(ReconRED)가 보안 여력이 부족한 중소...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“이 트래픽이 악성이라 판단한 이유”, AI가 설명한다... KAIST 사이버보안연구센터-쿼드마이너 공동 연구",
+      "link": "http://www.boannews.com/media/view.asp?idx=144034&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 15:28:00 +0900",
+      "description": "복잡한 네트워크 트래픽, AI가 식별... 공격자 다음 행동까지 예측[보안뉴스 한세희 기자] 최근 사이버 공격은 한 번의 공격으로 끝나는 것이 아니라, 여러 단계의 정밀한 공격들이 사슬처럼 엮인 복합 공격 형태를 띠고 있다. 이를 막기 위한 사이버 보안의 핵심은 방대한 네트워크 트래픽 속에서 악성 행위를 효율적으로 찾아내는 것이다. KAIST와 쿼드마이너는",
+      "language": "ko",
+      "summary": "복잡한 네트워크 트래픽, AI가 식별. 공격자 다음 행동까지 예측[보안뉴스 한세희 기자] 최근 사이버 공격은 한 번의 공격으로 끝나는 것이 아니라, 여러 단계의 정밀한 공격들이 사슬처럼 엮인 복합 공격 형태를 띠고 있다...",
+      "points": [
+        "공격자 다음 행동까지 예측[보안뉴스 한세희 기자] 최근 사이버 공격은 한 번의 공격으로 끝나는 것이 아니라, 여러 단계의 정밀한 공격들이 사슬처럼 엮인 복합 공격 형태를 띠고 있다",
+        "이를 막기 위한 사이버 보안의 핵심은 방대한 네트워크 트래픽 속에서 악성 행위를 효율적으로 찾아내는 것이다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[양자와 보안] SKT, EU와 협력해 차세대 양자암호 기술 개발",
+      "link": "http://www.boannews.com/media/view.asp?idx=144032&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 15:06:00 +0900",
+      "description": "양자암호 통신 분야 ‘호라이즌 유럽’ 과제 수주… 아시아 민간기업 최초양자·AI 기술 결합, 광집적회로 기술 기반으로 양자암호 통신 저변 확대그리스·오스트리아·독일·한국 공동 R&D 수행[보안뉴스 한세희 기자] SK텔레콤(대표 정재헌)은 유럽연합(EU) 대규모 연구기금 ‘호라이즌 유럽’(Horizon Europe)의 차세대 양자암호 기술 개발 과제를 수주했",
+      "language": "ko",
+      "summary": "양자암호 통신 분야 ‘호라이즌 유럽’ 과제 수주… 아시아 민간기업 최초양자·AI 기술 결합, 광집적회로 기술 기반으로 양자암호 통신 저변 확대그리스·오스트리아·독일·한국 공동 R&D 수행[보안뉴스 한세희 기자] SK텔레콤(대표 정재헌)은 유럽연합(EU) 대규모 연구기금 ‘호라이즌 유럽’(Horizon Europe)의 차세대 양자암호 기술 개발 과제를 수주했",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "개인정보 유출 사고 막는다... 금융보안원 내부통제 전문가 양성 본격화",
+      "link": "http://www.boannews.com/media/view.asp?idx=144030&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 9 Jun 2026 14:51:00 +0900",
+      "description": "법률 및 AI 활용부터 유출 사고 대응까지 아우르는 8단계 실무 커리큘럼 제공박상원 원장 “AI 시대 금융사 내부통제 역량 주도적 강화 적극 지원할 것”[보안뉴스 조재호 기자] 금융보안원은 예비 개인정보보호책임자(CPO) 및 신용정보관리보호인(CIAP) 육성을 위한 ‘개인정보보호 내부통제 전문가 양성 과정’을 신설한다고 9일 밝혔다. 이번 교육 과정 개설은",
+      "language": "ko",
+      "summary": "금융보안원이 개인정보 유출 사고를 예방할 수 s로 확신한다.",
+      "points": [
+        "8단계 실무 커리크럼을 제공한다.",
+        "AI 시대에 강화하여 개인정보보호를 위해 강조한다.",
+        "개인정보 내부통제 전문가 양성 진행"
+      ],
+      "insight": "이러한 기사는 IT/기술 업체에서의 금융보안응용의 중요성과 AI와 개인정보보호 연구의 현장에 대한 우난 신호를 표시한다."
+    },
+    {
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 09 Jun 2026 05:07:17 +0000",
+      "description": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+      "language": "en",
+      "summary": "Zepto experienced significant growth with its ad revenues increasing by over a third from June to December of last year while overall operating revenue grew more modestly.",
+      "points": [
+        "Advertising Revenues Increased Significantly: Zepto'thad an impressive rise in advertising revenues, which soared upwards of threefold during the reported period.",
+        "Growing Operating Expenses and Losses Continue: Despite this revenue growth, operating expenses also surged by 174%, leading to widened losses as indicated on their SEC filings.",
+        "Valuation Concerns Remain Unanswered Post-IPO: As Zepto prepares for its initial public offering (IPO), there are lingering questions about the company's valuation and future prospects within a competitive market."
+      ],
+      "insight": "Zepto’s rapid revenue growth in advertising is promising, but growing losses may be concerning to investors. The unanswered question of its pre-IPO value raises further concerns about the company'thorough understanding by potential shareholders."
+    },
     {
       "title": "[PIS FAIR 2026 미리보기] 한국기업보안, SSL/TLS 인증서 자동화 관리 솔루션 UCLM",
       "link": "http://www.boannews.com/media/view.asp?idx=143964&kind=&sub_kind=",
@@ -567,186 +747,6 @@
         "The unveiling of iOS 27 marks the latest evolution in Apple's mobile operating system."
       ],
       "insight": "These advancements indicate a push by Apple towards integrating more intuitive AI technologies, which could set new industry standards and raise expectations for smart assistant capabilities going forward."
-    },
-    {
-      "title": "Sam Bankman-Fried applies for a pardon from Trump",
-      "link": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 15:04:21 +0000",
-      "description": "The FTX co-founder is serving a 25-year sentence, doled out in 2024.",
-      "language": "en",
-      "summary": "Sam Bankman-Fried has applied for clemency from President Trump after being sentenced to a substantial prison term related to FTX.",
-      "points": [
-        "- Sam Bankman-Fried co-founded the cryptocurrency exchange FTX and was involved in its downfall due to allegations of fraudulent activities.",
-        "- He is serving a 25-year sentence, handed down after his sentencing hearing which occurred on January 17th when President Trump was still in office. The clemency process began during Trump's term and continued into the Biden administration without resolution as of early February.",
-        "- Bankman-Fried has asked for a full pardon or commutation, arguing that he is not guilty of any criminal wrongdoing."
-      ],
-      "insight": "Bankman-Fried' endorsement could potentially influence public perception and the wider conversation around cryptocurrency regulation due to his prominent status in this emerging field. However, as investigations continue regarding FTX operations, it remains unclear whether such clemency will be granted."
-    },
-    {
-      "title": "Eventbrite and Vimeo owner Bending Spoons files to go public",
-      "link": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 13:57:00 +0000",
-      "description": "Bending Spoons say its app caters to a user base of over 500 million monthly active users.",
-      "language": "en",
-      "summary": "Eventbrite and Vimeo owner Bending Spoons is going public after securing $275 million in funding from SoftBank's Horizons initiative. The company claims to serve over half a billion monthly active users with its event planning app.",
-      "points": [
-        "Eventbrite and Vimeo owner Bending Spoons is going public after securing $275 million in funding from SoftBank'CTC initiative",
-        "The company claims to serve over half a billion monthly active users with its event planning app",
-        "Bezos invested early on, leading the way for Bending Spoons and raising industry interest"
-      ],
-      "insight": "With Bezos's backing from an earlier investment phase, this move by Eventbrite and Vimeo owner Bending Spoons signifies strong confidence in event-based startups within the IT/technology sector. As they go public with significant funding secured through SoftBank’s Horizons initiative, it highlights the growing trend of tech companies raising substantial capital to scale their operations and user base."
-    },
-    {
-      "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
-      "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 13:26:03 +0000",
-      "description": "The bill is expected to blanket-ban companies and startups from selling people's precise location data across the state.",
-      "language": "en",
-      "summary": "Massachusetts has passed a new privacy rights bill that prohibits the sale of individuals' exact location information within the state.",
-      "points": [
-        "The Massachusetts General Court voted in favor of HB 860, known as An Act to Protect Personal Data Security and Privacy (a.kinflighty referredto as Digital Shield).",
-        "Under this law companies can no longer sell precise location data.",
-        "Companies found guilty could face fines up to $1 million or risk their business license."
-      ],
-      "insight": "The bill sets a precedent for other states in the US, highlighting growing concerns about digital privacy and setting new standards that technology companies must consider when handling user data within Massachusetts. It signifies an increasing emphasis on protecting personal information across various industries affected by technological advancements."
-    },
-    {
-      "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
-      "link": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 08 Jun 2026 11:00:00 +0000",
-      "description": "Uber customers in the UK can now join an interest list to increase their chances of being matched with a Wayve robotaxi.",
-      "language": "en",
-      "summary": "UK Uber users have joined lists for potential matches with autonomous taxis from companies including Wayve and Waymo in London.",
-      "points": [
-        "-Uber customers can now join interest list to be matched with a robotaxi",
-        "-Wayve, founded by former Tesla engineers using real-world data to improve driving algorithms is one of the contenders for autonomous taxi service in London",
-        "-Waymo'in an ongoing trial and Uber continues testing fully driverless vehicles as part of their expansion strategy"
-      ],
-      "insight": "The emergence of multiple players competing to provide robotaxi services indicates a significant move towards the commercialization of autonomous vehicle technology within public transportation, which could potentially transform urban mobility in major cities."
-    },
-    {
-      "title": "펜타시큐리티, ‘클라우드브릭 마스크 API’ 출시... 커뮤니티 맞춤형 비식별화 지원",
-      "link": "http://www.boannews.com/media/view.asp?idx=144013&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 17:02:00 +0900",
-      "description": "복잡한 인공지능 모델 구축 없이 간편 연동만으로 영상·이미지 속 얼굴·번호판 블러 처리호출 통계 보고서 제공해 관리자 실시간 모니터링 및 데이터 기반 서비스 운영 적극 지원[보안뉴스 조재호 기자] 펜타시큐리티가 온라인 플랫폼의 가장 큰 불안 요소인 개인정보 노출 리스크를 원천 차단하는 솔루션을 선보였다. 이용자가 이미지를 업로드하면 실시간으로 비식별화해 관",
-      "language": "ko",
-      "summary": "펜타시큐리티는 개인정보 노출을 위한 솔루션을 제공해서 사용자가 이미지를 업로드하면 작동",
-      "points": [
-        "펜타시큐리티의 고급 컴러바 블랙커에서 개인정보 이미지 비식별화 지원",
-        "인기로 부여받은 클라우드브릭(CloudBio)를 이용한 API 제공",
-        "커뮤니티맞춤형 서비스를 제공해 모니터링 및 관리에 추가 지원"
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 개인정보 비식별화를 위한 새로운 기술을 소개한다."
-    },
-    {
-      "title": "지란지교시큐리티, 한일 보안 동맹 구축 “일본 엔드포인트 시장 정조준”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144012&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 17:02:00 +0900",
-      "description": "서브소프트·엑소스피어랩스·제이시큐리티 3자 제휴로 모바일·PC 통합 솔루션 공급 제이시큐리티 한국 R&D 법인 제이시큐리티엑스 신설... 30년 노하우 현지화 전담[보안뉴스 조재호 기자] 지란지교 시큐리티가 한일 양국의 기술력과 유통망을 결합한 전방위적 보안 동맹을 앞세워 일본 엔드포인트 방어 시장을 정조준한다.지란지교시큐리티 자회사 서브소프트는 일본 보",
-      "language": "ko",
-      "summary": "서브소프트·엑소스피어랩스·제이시큐리티 3자 제휴로 모바일·PC 통합 솔루션 공급 제이시큐리티 한국 R&D 법인 제이시큐리티엑스 신설. 30년 노하우 현지화 전담[보안뉴스 조재호 기자] 지란지교 시큐리티가 한일 양국의 기술력과 유통망을 결합한 전방위적 보안 동맹을 앞세워 일본 엔드포인트 방어 시장을 정조준한다...",
-      "points": [
-        "서브소프트·엑소스피어랩스·제이시큐리티 3자 제휴로 모바일·PC 통합 솔루션 공급 제이시큐리티 한국 R&D 법인 제이시큐리티엑스 신설",
-        "30년 노하우 현지화 전담[보안뉴스 조재호 기자] 지란지교 시큐리티가 한일 양국의 기술력과 유통망을 결합한 전방위적 보안 동맹을 앞세워 일본 엔드포인트 방어 시장을 정조준한다",
-        "지란지교시큐리티 자회사 서브소프트는 일본 보"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "타포, 프리미엄 올인원 로봇청소기 ‘Tapo RV50 Pro Omni’ 출시... 최대 22% 사전예약 할인",
-      "link": "http://www.boannews.com/media/view.asp?idx=144011&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 16:37:00 +0900",
-      "description": "최대 1만5000Pa 흡입력·자동 먼지 비움·물걸레 세척·건조 지원6월 21일까지 최대 22% 할인 및 액세서리 증정 혜택 제공[보안뉴스 강초희 기자] Tapo(타포)는 프리미엄 올인원 로봇청소기 ‘Tapo RV50 Pro Omni’를 국내 시장에 선보이며 사전예약 프로모션을 진행한다고 밝혔다. Tapo RV50 Pro Omni은 강력한 흡입력과 자동화 기",
-      "language": "ko",
-      "summary": "최대 1만5000Pa 흡입력·자동 먼지 비움·물걸레 세척·건조 지원6월 21일까지 최대 22% 할인 및 액세서리 증정 혜택 제공[보안뉴스 강초희 기자] Tapo(타포)는 프리미엄 올인원 로봇청소기 ‘Tapo RV50 Pro Omni’를 국내 시장에 선보이며 사전예약 프로모션을 진행한다고 밝혔다. Tapo RV50 Pro Omni은 강력한 흡입력과 자동화 기",
-      "points": [
-        "Tapo RV50 Pro Omni은 강력한 흡입력과 자동화 기",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "VIGI, 25배 광학 줌 PTZ 스피드 돔 ‘InSight PTZ5425’ 국내 정식 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144009&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 16:35:00 +0900",
-      "description": "최대 2.6㎞ 탐지와 자동 추적, 풀 컬러 야간 영상 지원NDAA 준수와 ONVIF 호환으로 중대형 실외 시설 공략 강화[보안뉴스 강초희 기자] 영상보안 브랜드 VIGI는 AI 기능을 탑재한 프리미엄 CCTV 라인업 ‘InSight 시리즈’를 통해 지능형 영상보안 시장 공략을 강화하고 있다.InSight 시리즈는 사람·차량 분석, 오탐 감소, 야간 식별력",
-      "language": "ko",
-      "summary": "6㎞ 탐지와 자동 추적, 풀 컬러 야간 영상 지원NDAA 준수와 ONVIF 호환으로 중대형 실외 시설 공략 강화[보안뉴스 강초희 기자] 영상보안 브랜드 VIGI는 AI 기능을 탑재한 프리미엄 CCTV 라인업 ‘InSight 시리즈’를 통해 지능형 영상보안 시장 공략을 강화하고 있다. InSight 시리즈는 사람·차량 분석, 오탐 감소, 야간 식별력",
-      "points": [
-        "InSight 시리즈는 사람·차량 분석, 오탐 감소, 야간 식별력",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] ‘AI 보안 동맹’, 젠슨 황이 네이버와 손잡는 까닭",
-      "link": "http://www.boannews.com/media/view.asp?idx=144010&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 16:33:00 +0900",
-      "description": "한국을 단순한 부품 공급처가 아닌 미래 AI 생태계의 공동 주역으로 낙점했기 때문[보안뉴스= 배종찬 인사이트케이 연구소장] 엔비디아(Nvidia)의 젠슨 황 최고경영자(CEO)가 다시 한국을 찾았다. 지난 가을 화제를 모았던 ‘깐부치킨 회동’에 이어, 이번에는 서울 홍대입구 인근의 삼겹살집에서 최태원 SK그룹 회장, 구광모 LG그룹 회장, 이해진 네이버 의",
-      "language": "ko",
-      "summary": "젠슨 황이가 한국을 재전탈하여, 기술과 보안에 중요한 논의를 시작한다.",
-      "points": [
-        "- Nvidia 기술자인 젠슨 황이가 서울에 오썽니다",
-        "- 이런 것들을 통해 불공정한 기술시대를 이어올 수 discussed",
-        "- Nvidia의 AI로부인이 이해를 풋니다"
-      ],
-      "insight": "이 뉴스는 IT/기술 업계에서의 공동체가 중요한 문제점을 포함하여 AI로부인이 정보운전에 참여하고자 하는 불안전한 시대를 의미합니다."
-    },
-    {
-      "title": "다후아테크놀로지, AI 기반 저조도 영상 솔루션 ‘WizColor Pro X’ 선보여",
-      "link": "http://www.boannews.com/media/view.asp?idx=144006&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 15:27:00 +0900",
-      "description": "센서·렌즈·AI 영상처리 기술 통합해 야간 영상 품질 향상F0.8 초대구경 렌즈와 4㎛ 대형 픽셀 센서 적용[보안뉴스 강초희 기자] 글로벌 영상보안 기업 다후아테크놀로지(한국지사장 여심일)가 저조도 환경에서 컬러 영상 품질을 한층 강화한 ‘WizColor Pro X’를 공개했다. WizColor Pro X는 글로벌 제품명 WizColor 2.0을 기반으로",
-      "language": "ko",
-      "summary": "다후아테크는 글로벌 WizColor Pro X, AI를 사용하여 영상 손실을 최소화한다.",
-      "points": [
-        "WizColor Pro X는 글로벌 WizColor 2.0의 기본 작성자로, AI를 활용하여 4㎛ 대형 렌즈와 센서·렌즈·AI를 결합한 시스텬이다.",
-        "4㎛, 2㎛으로 제공되는 AI 기반 컬러 영상 처리는 정확도 또한 향상",
-        "이러한 렌즈와 센서·렌즈·AI를 통해 영상 품질을 더욱 강화하여, 액션영상 제작에 도움이다."
-      ],
-      "insight": "위의 WizColor Pro X는 IT/기술 업계가 영상 품질 개선을 위해 핵심으로 하고 있다."
-    },
-    {
-      "title": "티빙 2차 공지, 사칭 피싱 사기 주의보... “개인정보·금전 요구 절대 없다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144008&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 15:25:00 +0900",
-      "description": "보상·피해 구제 명목으로 텔레그램 등 메신저 유도하는 사칭 피싱 기승피해 예방 위해 의심 문자 내 링크 클릭 금지 및 전용 고객센터 신고 당부[보안뉴스 조재호 기자] 티빙이 개인정보 유출 사태 이후 회사를 사칭한 피싱 사기 시도가 잇따르고 있어 이용자들의 각별한 주의가 필요하다는 2차 공지문을 게시했다.공지에 따르면 티빙은 최근 자사를 사칭한 전화와 문자,",
-      "language": "ko",
-      "summary": "보상·피해 구제 명목으로 텔레그램 등 메신저 유도하는 사칭 피싱 기승피해 예방 위해 의심 문자 내 링크 클릭 금지 및 전용 고객센터 신고 당부[보안뉴스 조재호 기자] 티빙이 개인정보 유출 사태 이후 회사를 사칭한 피싱 사기 시도가 잇따르고 있어 이용자들의 각별한 주의가 필요하다는 2차 공지문을 게시했다. 공지에 따르면 티빙은 최근 자사를 사칭한 전화와 문자,",
-      "points": [
-        "공지에 따르면 티빙은 최근 자사를 사칭한 전화와 문자,",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 엘세븐시큐리티, AI 기반 ‘이미지 마스킹’으로 보안 사각지대 해소",
-      "link": "http://www.boannews.com/media/view.asp?idx=143988&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 8 Jun 2026 13:18:00 +0900",
-      "description": "지능형 이미지 스캔·마스킹 솔루션 공개... 금융권 10곳 이상 PoC 통과딥러닝 기반 OCR로 신분증·계좌번호·서명 등 비정형 데이터까지 전수 조사금융권 최다 레퍼런스 바탕으로 핀테크·제2금융권까지 시장 지배력 확대[보안뉴스 조재호 기자] 엘세븐시큐리티가 ‘PIS FAIR 2026’에 참가해 차세대 AI 보안 솔루션을 공개한다. 최근 공공기관뿐만 아니라",
-      "language": "ko",
-      "summary": "지능형 이미지 스캔·마스킹 기법을 사용하여 금융권 등 비정형 데이터에 대한 안전 보호솔루션을 PIS FAIR 2026에서 공개하였다.",
-      "points": [
-        "PIS FAIR 2026에서는 AI를 이용해서 금융권 정보 등의 비정형 데이터를 마스킹하도록 조직화 시스템을 공개한다.",
-        "연구점에서는 인기있는 인저분산 확장성(Non-uniform Expansion)의 병목점, DDoS 공격, 전반적인 이미지 스캔과 비슷한 위기인식을 통해 보안 악용 질시가 진짜로 모니터Risk를 고나내게 확대되어 먼저 방어솔루션을 개발한다.",
-        "공개한 AI보안 시스템은 PoC에서는 금융권 10곡이상의 사각지대에서 OCR로 신분증·계좌번호·서명 등을 이미지로 인식하여 직접 보안 방안을 테스트한다."
-      ],
-      "insight": "비정형 데이터에 대한 위기인식과 AI를 사용하여 우리나라의 금융권 시장을 보호해내는 방안은 지속적으로 고려해야 한다. PIS FAIR 2026의 AI보안 시스템이라면 우리나라의 금융권 시장에서도 마스킹 기능을 확보하는 방안을 고안해주세요."
     }
   ]
 }
