@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-06-10T03:50:13.505Z",
+  "generatedAt": "2026-06-10T10:10:02.705Z",
   "articles": [
+    {
+      "title": "[해킹 뉴노멀-5] 대통령실서 돌아온 신용석 토스페이먼츠 CISO의 9개월은?... ‘선제적 자율보안’ 실천",
+      "link": "http://www.boannews.com/media/view.asp?idx=144061&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 18:51:00 +0900",
+      "description": "[3줄 요약]1. PQC 도입·IT 대비 보안 인력 및 예산 10% 이상2. “선제적 자율 보안, 기업 문화와 IT 부서 적극 협업 덕 ”3. 민-관 아우르는 역량 ‘소통’ 에 활용[보안뉴스 강현주 기자] 사이버안보비서관에서 기업으로 돌아온 신용석 정보보호최고책임자(CISO)는 이제 민간 영역에서 어떤 변화를 이끌고 있을까?그가 CISO를 맡은 토스페",
+      "language": "ko",
+      "summary": "신용석 정보보호의 선제적인 자율이 '소통'에서 기억되고 있습니다",
+      "points": [
+        "민간영역에서의 신용석 보호약 10%를 보충하기로定めました.",
+        "기업으로의 보안의 활동과 IT 부서의 합병을 우선적으로 계획합니다.",
+        "신용석 정보보호에 대한 자율성을 강조하고, '소통'에서의 역량을 활용할 수 0보다는 큰 계획이잖나요?"
+      ],
+      "insight": "신용석 보호의 자율성과 IT 부서와 기업으로의 돌아오는 프로세스가 '소통'에서 발칭되어야 한다."
+    },
+    {
+      "title": "티빙 사태, DB 유출보다 깃허브에 주목할 이유",
+      "link": "http://www.boannews.com/media/view.asp?idx=144054&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 18:38:00 +0900",
+      "description": "깃허브 자격증명 교체 KISA에 신고... 계정 정보 노출 가능성 시사통제권 쥔 해커의 비인가 쿼리 실행 정황... 시스템 사전 장악 우려[보안뉴스 조재호 기자] 티빙(TVING) 개인정보 유출 규모가 1300만명에 이른다는 관측이 나오는 등 파문이 커지는 가운데, 단순 데이터베이스(DB) 접근을 넘어 플랫폼 시스템 전반이 장악 당했을 가능성에 대한 우려도",
+      "language": "ko",
+      "summary": "깃허딩 서비스가 DB 유출보다 중요해진다고 주장하는 뉴스에 대한 요약",
+      "points": [
+        "먼저, 티빙(TVING) 개인정보 유출이 1300만명 균혨한 판단이 나오고 이를 가립시도 해보고 자리를 놓은 사람들이 가장 중요하다는 소재",
+        "이러한 환경에서 DB 접근을 포함한 시스템 전반의 우려를 인사이트로 제안",
+        "보안 문제가 그리고 더욱 중요하다는 말"
+      ],
+      "insight": "깃허딩 서비스가 DB 유출보다 이미 우연한 방식으로 이루어진 위기와 지속성을 지니저응증하며, 그리고 이에 초과한 것이 시스템 전반의 우려를 인사이트로 제안"
+    },
+    {
+      "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
+      "link": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 09:00:00 +0000",
+      "description": "Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.",
+      "language": "en",
+      "summary": "Waymo developed a novel computational model aiming at comprehending human behavior during potential vehicle crashes faced by their autonomous taxis.",
+      "points": [
+        "The Waymo team has engineered an improved computer simulation that mimics real-world crash scenarios involving pedestrians and cyclists, which are common incidents for robotaxis but rare in traditional driving studies.",
+        "This advancement allows the company to better predict risky situations by studying human reactions when unexpected events occur on roadways outside of controlled test environments. The data is crucial as it represents a significant portion of potential traffic hazards that self-driving cars will have to manage."
+      ],
+      "insight": "This research enhances the safety and reliability perceptions for autonomous vehicles, providing critical information needed by engineers during the development phase. It may also influence regulations concerning human interaction with robotaxis in various cities around the world."
+    },
+    {
+      "title": "국립산림과학원, “AI로 산사태 예측”,,, 토석류 영향범위 예측기술 개발",
+      "link": "http://www.boannews.com/media/view.asp?idx=144059&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 17:22:00 +0900",
+      "description": "현장 조사 없이 토석류 영향 범위와 예상 피해 규모 신속 분석주민 대피구역 설정, 대피경로 확보 등 재난 대응 및 인명피해 저감 기대[보안뉴스 강초희 기자] 산림청 국립산림과학원(원장 김용관)은 AI를 활용해 전국 마을 산사태 영향 범위를 신속하게 예측하는 기술을 개발했다고 밝혔다.산사태 영향 범위 예측기술은 산사태 발생 후 흙과 돌, 나무 등이 계곡을",
+      "language": "ko",
+      "summary": "현장 조사 없이 토석류 영향 범위와 예상 피해 규모 신속 분석주민 대피구역 설정, 대피경로 확보 등 재난 대응 및 인명피해 저감 기대[보안뉴스 강초희 기자] 산림청 국립산림과학원(원장 김용관)은 AI를 활용해 전국 마을 산사태 영향 범위를 신속하게 예측하는 기술을 개발했다고 밝혔다. 산사태 영향 범위 예측기술은 산사태 발생 후 흙과 돌, 나무 등이 계곡을",
+      "points": [
+        "산사태 영향 범위 예측기술은 산사태 발생 후 흙과 돌, 나무 등이 계곡을",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "조달청, 드론·안티드론 혁신제품 ‘군(軍) 실증 현장’ 점검 통해 활용 방안 모색",
+      "link": "http://www.boannews.com/media/view.asp?idx=144057&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 17:08:00 +0900",
+      "description": "무인 정찰 드론과 드론 무력화 혁신기술을 검증하고 있는 제36보병사단 방문군(軍) 전력을 지원하는 주요 장비에 첨단 혁신제품 활용 방안 모색[보안뉴스 강초희 기자] 조달청(청장 백승보)은 10일 국방부(장관 안규백) 및 육군본부(참모총장 김규하)와 함께 강원 원주시에 위치한 제36보병사단을 방문했다. 이 자리에서 혁신제품 시범구매 사업으로 도입된 무인운영",
+      "language": "ko",
+      "summary": "제36보병사단에서 혁신제품 '군(軍) 실증 현장'를 활용하는 방안 모색",
+      "points": [
+        "- 첨단 드론과 무력화 드롬 혁신기술을 검증한 36보병사단이 정찰 센터에서의 시범구매 연구",
+        "- '군(軍) 실증 현장'를 활용하여 무인 정찰 문화 변화점 모니터링 방안 조정 중이다.",
+        "- 이 방위에서는 체계적 혁신기술 구현을 시사한 '군(군) 제24보병사단'도 확인된다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업계에서의 혁신기술 모니터링에 대한 일부러내기로 자세함. '군(군) 실증 현장'을 활용하는 방안 모색은 다음과 같다: \\n - 이미 훈련된 36보병사단이 '군(군) 제24보병사단'로 이전에 적절한 혁신기술을 통합하여 발생 \\n - 무인 정찰 문화의 변화를 모니터링하고, 그 원인을 바로 '군(군) 실증 현장'에 기반할 수 0ne다."
+    },
+    {
+      "title": "[양자와 보안] 제8회 아시아 양자내성암호 포럼, 한국에서 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144058&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 16:46:00 +0900",
+      "description": "양자컴 시대 대비 아시아 최대 PQC 전문 포럼...국제사이버보안연구원-한국정보보호학회 공동 개최[보안뉴스 원병철 기자] 국제사이버보안연구원(원장 김광조)은 한국정보보호학회(회장 김호원)와 공동으로 7월 15~16일 양일간 ‘제8회 아시아 양자내성암호(Post-Quantum Cryptography, PQC) 포럼’을 한국과학기슬회관에서 개최한다고 밝혔다.",
+      "language": "ko",
+      "summary": "8회 아시아 양자내성암호 포럼에서, 한국과학기슬회관과 국제사이버보안연구원은 PQC 문제를 중지하기 위한 방안을 공유한다.",
+      "points": [
+        "원장 김광조과 회장 김호원이 국제사이버보안연구원과 함께 8회 양자내성암호 포럼을 개최한다.",
+        "모서리에서 PQC를 위한 방안을 공유하고 있는 3가지 주요 문제점이다.",
+        "분석과정에서 한국과 중화로 인식한 한국어로 포럼의 내용을 요약한다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업계에서 PQC를 위한 연구와 개인화된 해결책을 중지하고 이미지를 다루며, 국제 공동작염으로도 기여함을 보여준다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] ‘솔로 탈출’, 소개팅 주선하는 AI 앱",
+      "link": "http://www.boannews.com/media/view.asp?idx=144056&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 16:37:00 +0900",
+      "description": "내 취향 학습한 AI, 고도로 개인화된 추천 가능허위 정보, 데이트 범죄 등 그림자도 급속 확산[보안뉴스= 배종찬 인사이트케이 연구소장] 과거 남녀의 만남은 주로 지인의 주선이나 우연한 계기를 통해 이루어지는 것이 일반적이었다. 하지만 스마트폰의 보급과 모바일 플랫폼의 고도화는 인류의 가장 원초적이면서도 감정적인 영역인 ‘연애’의 지형도를 근본적으로 바꿔",
+      "language": "ko",
+      "summary": "기사는 AI가 인먼으로 손십정보를 공급하는 현상을 포함한다.",
+      "points": [
+        "AI 기기의 인덱스 탈출임을 논리적으로 살펴보자.",
+        "공급되는 이유에 대해서는 착,그리고",
+        "보안문제를 다루도록 AI의 인식 수준을 확보하기 위히는 '솔로 탈출' 정도."
+      ],
+      "insight": "이 기사는 현재 AI가 우리의 저녁식에 협상하고 있는 것을 강조한다. 이로인해 보안염 warning은 모호해지는 많은 부분들에서 심화가 요구될 수 있다."
+    },
+    {
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 07:05:26 +0000",
+      "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "language": "en",
+      "summary": "Meta has signed its first major artificial intelligence data center agreement with Indian IT giant Reliance Industries for a facility in India designed to support Meta'CTA global AI computing needs.",
+      "points": [
+        "Meta signs its first AI data center deal in India",
+        "168-megawatt facility will be built by Reliance and supported meta ai initiatives",
+        "Facility designed for expansion over time"
+      ],
+      "insight": "This collaboration marks a significant step towards establishing cloud computing infrastructure to support AI technologies in India, potentially paving the way for more such partnerships between global tech companies and Indian firms."
+    },
+    {
+      "title": "델 테크놀로지스, 한국 시장을 이끌 새로운 리더십 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=144055&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 15:34:00 +0900",
+      "description": "김경진 총괄사장, 회장 승진유상모 부사장, 사장 승진 [보안뉴스 엄호식 기자] 델 테크놀로지스(Dell Technologies)가 오늘 김경진 총괄사장을 회장으로 임명하고, 유상모 부사장을 사장으로 선임하는 한국의 새로운 리더십 체제를 발표했다.김경진 회장은 20년이 넘는 기간 동안 델 테크놀로지스 한국 비즈니스의 성장을 이끌어 왔다. 1999년 한국 영업",
+      "language": "ko",
+      "summary": "Dell Technologies 총괄사장이 김경진이고, 회장 승진과 유상모 부사장이 선임이 되었다. 그들은 Dell Technologies 리더십 체제를 국내시장에서 채팅할 수 destined 확인한다.",
+      "points": [
+        "Dell Technologies 회장이 김경진이며, 유상모 부사장이 선임이 되었다.",
+        "이러한 선임자는 20년간 델 테크놀로지스 한국 회사의 성장을 이루어 주고, 리더십 체제를 시작한다.",
+        "체제의 시작은 현재인 2024년에도 기대할 수 있다."
+      ],
+      "insight": "이러한 변화는 Dell Technologies 한국에서 전문가들에게 공유하고 신속성을 강조할 권리이다. 재정협의 방식으로, 발평가를 위해서는 대화를 취하여 Dell Technologies 핵심 개인들과의 상호작용이 필요한다."
+    },
+    {
+      "title": "트렌드AI, ‘글래스윙’ 참여... “AI 기반 취약점 대응 역량 강화”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144053&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 14:45:00 +0900",
+      "description": "첨단 AI 역량 활용 취약점 식별 및 대응 지원[보안뉴스 강현주 기자] 트렌드마이크로의 엔터프라이즈 사이버 보안 사업 부문인 트렌드AI (TrendAI, 한국지사장 김진광)는 앤트로픽의 ‘프로젝트 글래스윙’에 참여한다고 10일 발표했다. 글래스윙 프로젝트는 핵심 소프트웨어 시스템의 취약점을 식별하고 해결하는 데 중점을 둔 이니셔티브이다. 트렌드AI는 이번",
+      "language": "ko",
+      "summary": "첨단 AI 역량 활용 취약점 식별 및 대응 지원[보안뉴스 강현주 기자] 트렌드마이크로의 엔터프라이즈 사이버 보안 사업 부문인 트렌드AI (TrendAI, 한국지사장 김진광)는 앤트로픽의 ‘프로젝트 글래스윙’에 참여한다고 10일 발표했다. 글래스윙 프로젝트는 핵심 소프트웨어 시스템의 취약점을 식별하고 해결하는 데 중점을 둔 이니셔티브이다",
+      "points": [
+        "첨단 AI 역량 활용 취약점 식별 및 대응 지원[보안뉴스 강현주 기자] 트렌드마이크로의 엔터프라이즈 사이버 보안 사업 부문인 트렌드AI (TrendAI, 한국지사장 김진광)는 앤트...",
+        "글래스윙 프로젝트는 핵심 소프트웨어 시스템의 취약점을 식별하고 해결하는 데 중점을 둔 이니셔티브이다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "쿠도커뮤니케이션, ‘여수·광양항 안티드론 및 통합관제장비 구매설치’ 사업 수주",
+      "link": "http://www.boannews.com/media/view.asp?idx=144047&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 13:28:00 +0900",
+      "description": "국내 수출입 물동량 1위 항만 여수·광양항 공중 보안 체계 강화불법 드론 탐지·식별·무력화 기반의 지능형 항만 보안 체계 구축[보안뉴스 엄호식 기자] ICT 전문 기업 쿠도커뮤니케이션(대표 김용식)은 여수지방해양수산청이 추진하는 ‘여수·광양항 안티드론 및 통합관제장비 구매설치’ 사업을 수주했다고 8일 밝혔다.총 40억6000만원 규모의 이번 사업은 오는 6",
+      "language": "ko",
+      "summary": "국내 수출입 물동량 1위 항만 여수·광양항 공중 보안 체계 강화불법 드론 탐지·식별·무력화 기반의 지능형 항만 보안 체계 구축[보안뉴스 엄호식 기자] ICT 전문 기업 쿠도커뮤니케이션(대표 김용식)은 여수지방해양수산청이 추진하는 ‘여수·광양항 안티드론 및 통합관제장비 구매설치’ 사업을 수주했다고 8일 밝혔다. 총 40억6000만원 규모의 이번 사업은 오는 6",
+      "points": [
+        "총 40억6000만원 규모의 이번 사업은 오는 6",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "삼척시, 방범용 CCTV 신설·교체로 범죄 예방한다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144052&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 10 Jun 2026 13:25:00 +0900",
+      "description": "범죄 취약지역 13개소에 방범용 CCTV 30대 신규 설치노후 CCTV 6개소 14대 개선[보안뉴스 강초희 기자] 강원 삼척시(시장 박상수)가 각종 범죄를 예방하고 안전 사각지대를 해소해 시민이 안심하고 살 수 있는 환경을 만들고자 ‘2026년 상반기 방범용 CCTV 설치사업’을 추진 중이다.시는 삼척경찰서와 합동으로 현장조사를 진행해 설치 대상지를 선정했",
+      "language": "ko",
+      "summary": "삼척시는 방범용 CCTV 설치를 차단로컬 운영에서 활성화하고 각주해야만 하는 시장 박상수의 안전지소 개정 노인육회.",
+      "points": [
+        "삼척시는 2026년 상반기 방범용 CCTV 신설을 차단로컬 운영에서 활성화한다.",
+        "이 노인육회는 현장조사를 통해 설치대상지로야만 하고 시민의 안전 밧심을 만드는 것으로서 안정적인 공동존재가 되도록 핵설한다.",
+        "이러한 신속한 방범용 CCTV 설치와 안전지소 개정은 시민들에게 특수한 안전성을 제공하여 범죄가능성을 최대화한다."
+      ],
+      "insight": "이 기사는 삼척시의 안전지소 개정 방법인 방범용 CCTV 설치와 세계적으로도 유명한 내용을 강조하고 있다. 이러한 방식은 IT/기술 업체에서의 안전성과 사공자의 삶에 큰 영향을 미치게 한다."
+    },
     {
       "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
       "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
@@ -567,186 +746,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“이 트래픽이 악성이라 판단한 이유”, AI가 설명한다... KAIST 사이버보안연구센터-쿼드마이너 공동 연구",
-      "link": "http://www.boannews.com/media/view.asp?idx=144034&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 15:28:00 +0900",
-      "description": "복잡한 네트워크 트래픽, AI가 식별... 공격자 다음 행동까지 예측[보안뉴스 한세희 기자] 최근 사이버 공격은 한 번의 공격으로 끝나는 것이 아니라, 여러 단계의 정밀한 공격들이 사슬처럼 엮인 복합 공격 형태를 띠고 있다. 이를 막기 위한 사이버 보안의 핵심은 방대한 네트워크 트래픽 속에서 악성 행위를 효율적으로 찾아내는 것이다. KAIST와 쿼드마이너는",
-      "language": "ko",
-      "summary": "복잡한 네트워크 트래픽, AI가 식별. 공격자 다음 행동까지 예측[보안뉴스 한세희 기자] 최근 사이버 공격은 한 번의 공격으로 끝나는 것이 아니라, 여러 단계의 정밀한 공격들이 사슬처럼 엮인 복합 공격 형태를 띠고 있다...",
-      "points": [
-        "공격자 다음 행동까지 예측[보안뉴스 한세희 기자] 최근 사이버 공격은 한 번의 공격으로 끝나는 것이 아니라, 여러 단계의 정밀한 공격들이 사슬처럼 엮인 복합 공격 형태를 띠고 있다",
-        "이를 막기 위한 사이버 보안의 핵심은 방대한 네트워크 트래픽 속에서 악성 행위를 효율적으로 찾아내는 것이다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[양자와 보안] SKT, EU와 협력해 차세대 양자암호 기술 개발",
-      "link": "http://www.boannews.com/media/view.asp?idx=144032&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 15:06:00 +0900",
-      "description": "양자암호 통신 분야 ‘호라이즌 유럽’ 과제 수주… 아시아 민간기업 최초양자·AI 기술 결합, 광집적회로 기술 기반으로 양자암호 통신 저변 확대그리스·오스트리아·독일·한국 공동 R&D 수행[보안뉴스 한세희 기자] SK텔레콤(대표 정재헌)은 유럽연합(EU) 대규모 연구기금 ‘호라이즌 유럽’(Horizon Europe)의 차세대 양자암호 기술 개발 과제를 수주했",
-      "language": "ko",
-      "summary": "양자암호 통신 분야 ‘호라이즌 유럽’ 과제 수주… 아시아 민간기업 최초양자·AI 기술 결합, 광집적회로 기술 기반으로 양자암호 통신 저변 확대그리스·오스트리아·독일·한국 공동 R&D 수행[보안뉴스 한세희 기자] SK텔레콤(대표 정재헌)은 유럽연합(EU) 대규모 연구기금 ‘호라이즌 유럽’(Horizon Europe)의 차세대 양자암호 기술 개발 과제를 수주했",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "개인정보 유출 사고 막는다... 금융보안원 내부통제 전문가 양성 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144030&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 14:51:00 +0900",
-      "description": "법률 및 AI 활용부터 유출 사고 대응까지 아우르는 8단계 실무 커리큘럼 제공박상원 원장 “AI 시대 금융사 내부통제 역량 주도적 강화 적극 지원할 것”[보안뉴스 조재호 기자] 금융보안원은 예비 개인정보보호책임자(CPO) 및 신용정보관리보호인(CIAP) 육성을 위한 ‘개인정보보호 내부통제 전문가 양성 과정’을 신설한다고 9일 밝혔다. 이번 교육 과정 개설은",
-      "language": "ko",
-      "summary": "금융보안원이 개인정보 유출 사고를 예방할 수 s로 확신한다.",
-      "points": [
-        "8단계 실무 커리크럼을 제공한다.",
-        "AI 시대에 강화하여 개인정보보호를 위해 강조한다.",
-        "개인정보 내부통제 전문가 양성 진행"
-      ],
-      "insight": "이러한 기사는 IT/기술 업체에서의 금융보안응용의 중요성과 AI와 개인정보보호 연구의 현장에 대한 우난 신호를 표시한다."
-    },
-    {
-      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 09 Jun 2026 05:07:17 +0000",
-      "description": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
-      "language": "en",
-      "summary": "Zepto experienced significant growth with its ad revenues increasing by over a third from June to December of last year while overall operating revenue grew more modestly.",
-      "points": [
-        "Advertising Revenues Increased Significantly: Zepto'thad an impressive rise in advertising revenues, which soared upwards of threefold during the reported period.",
-        "Growing Operating Expenses and Losses Continue: Despite this revenue growth, operating expenses also surged by 174%, leading to widened losses as indicated on their SEC filings.",
-        "Valuation Concerns Remain Unanswered Post-IPO: As Zepto prepares for its initial public offering (IPO), there are lingering questions about the company's valuation and future prospects within a competitive market."
-      ],
-      "insight": "Zepto’s rapid revenue growth in advertising is promising, but growing losses may be concerning to investors. The unanswered question of its pre-IPO value raises further concerns about the company'thorough understanding by potential shareholders."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 한국기업보안, SSL/TLS 인증서 자동화 관리 솔루션 UCLM",
-      "link": "http://www.boannews.com/media/view.asp?idx=143964&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:46:00 +0900",
-      "description": "47일 SSL/TLS 인증서 자동화의 해답, UCLM[보안뉴스 한세희 기자] 한국기업보안(대표 전귀선)이 ‘PIS 페어(제15회 개인정보보호페어 & CPO워크숍) 2026’에 참가해 SSL/TLS 인증서 자동화 관리 솔루션 ‘UCLM’을 선보인다.2008년 설립된 한국기업보안은 18년간 국내 정보보호 산업을 선도해온 IT 보안 전문기업이다. SSL/TLS",
-      "language": "ko",
-      "summary": "47일 SSL/TLS 인증서 자동화의 해답, UCLM[보안뉴스 한세희 기자] 한국기업보안(대표 전귀선)이 ‘PIS 페어(제15회 개인정보보호페어 & CPO워크숍) 2026’에 참가해 SSL/TLS 인증서 자동화 관리 솔루션 ‘UCLM’을 선보인다. 2008년 설립된 한국기업보안은 18년간 국내 정보보호 산업을 선도해온 IT 보안 전문기업이다",
-      "points": [
-        "47일 SSL/TLS 인증서 자동화의 해답, UCLM[보안뉴스 한세희 기자] 한국기업보안(대표 전귀선)이 ‘PIS 페어(제15회 개인정보보호페어 & CPO워크숍) 2026’에 참가...",
-        "2008년 설립된 한국기업보안은 18년간 국내 정보보호 산업을 선도해온 IT 보안 전문기업이다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] 지키다, AI기반 개인정보 컴플라이언스 관리·감독 솔루션",
-      "link": "http://www.boannews.com/media/view.asp?idx=143921&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:44:00 +0900",
-      "description": "A로 증빙자료와 답변 정합성 자동 점검, 실시간 개인정보 처리 현황 점검[보안뉴스 한세희 기자] 지키다(ZIKIDA)는 AI 기반 컴플라이언스 점검 서비스 제공 기업이다. 정보보호 부서와 현업 부서, 수탁사가 효과적으로 협업해 개인정보 처리 현황을 점검하고 법 준수 여부를 평가할 수 있도록 지원한다. 개인정보 관련 과업과 프로젝트를 체계적으로 관리하는 기능",
-      "language": "ko",
-      "summary": "A로 증빙자료와 답변 정합성 자동 점검, 실시간 개인정보 처리 현황 점검[보안뉴스 한세희 기자] 지키다(ZIKIDA)는 AI 기반 컴플라이언스 점검 서비스 제공 기업이다. 정보보호 부서와 현업 부서, 수탁사가 효과적으로 협업해 개인정보 처리 현황을 점검하고 법 준수 여부를 평가할 수 있도록 지원한다...",
-      "points": [
-        "A로 증빙자료와 답변 정합성 자동 점검, 실시간 개인정보 처리 현황 점검[보안뉴스 한세희 기자] 지키다(ZIKIDA)는 AI 기반 컴플라이언스 점검 서비스 제공 기업이다",
-        "정보보호 부서와 현업 부서, 수탁사가 효과적으로 협업해 개인정보 처리 현황을 점검하고 법 준수 여부를 평가할 수 있도록 지원한다",
-        "개인정보 관련 과업과 프로젝트를 체계적으로 관리하는 기능"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 34] 믿는 도끼에 발등 찍힌다(4)-공용 PC 비밀번호 저장이 위험한 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=143572&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:43:00 +0900",
-      "description": "브라우저의 ‘비밀번호 저장’ 기능은 공용 PC에서 절대 쓰지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않",
-      "language": "ko",
-      "summary": "공용 PC에서 실수로 잘못된 비밀번호 저장이 일괄적으로 IT보안 사고를 유발하기 때문입니다.",
-      "points": [
-        "공용 PC의 비밀번호 저장은 공용 PC에서만 권한을 줄 수 s로 함",
-        "-보안심화를 위해 자신이 들고나가는 곳에서 다음과 같은 보안 습관을 따라주세요.",
-        "-공용 PC에서는 비밀번호를 적으시는 것이 위험한다.사고가 되지 않도록 유지"
-      ],
-      "insight": "보안을 강화하기 위해 IT보안과 사용자의 실습으로 인한 체감적적으로 사고를 변형할 수 있습니다."
-    },
-    {
-      "title": "中 스파이, 구인광고로 정부·군 인력 접근... “보고서 한 건에 수천달러”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144021&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:41:00 +0900",
-      "description": "파이브 아이즈 “중국, 채용 플랫폼으로 정보원 모집”정부·군 관계자 대상 정보 수집 활동 경고중국 “간첩 위협론은 날조” 전면 부인[보안뉴스 강초희 기자] 중국 정보기관이 온라인 채용 플랫폼을 활용해 내부 정보원 모집 활동을 벌이고 있디고 파이브 아이즈(Five Eyes) 정보동맹 국가들이 경고했다. 호주 보안정보기구(ASIO), 캐나다 보안정보국(CSIS",
-      "language": "ko",
-      "summary": "파이브 아이즈 “중국, 채용 플랫폼으로 정보원 모집”정부·군 관계자 대상 정보 수집 활동 경고중국 “간첩 위협론은 날조” 전면 부인[보안뉴스 강초희 기자] 중국 정보기관이 온라인 채용 플랫폼을 활용해 내부 정보원 모집 활동을 벌이고 있디고 파이브 아이즈(Five Eyes) 정보동맹 국가들이 경고했다. 호주 보안정보기구(ASIO), 캐나다 보안정보국(CSIS",
-      "points": [
-        "호주 보안정보기구(ASIO), 캐나다 보안정보국(CSIS",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "베일 벗은 ‘시리 AI’, 유럽에선 못 쓴다... 애플과 EU의 디지털 시장법 충돌",
-      "link": "http://www.boannews.com/media/view.asp?idx=144019&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:38:00 +0900",
-      "description": "EU 디지털 시장법 규제로 제동, 외부 AI 기기 제어에 대한 양측 입장차 팽팽18개월 점진적 배포도 거부... 애플 “건설적 논의 응하지 않는 규제 당국에 유감”[보안뉴스 조재호 기자] 오늘 오전 애플의 세계개발자회의(WWDC 2026)에서 공개된 ‘시리 AI’(Siri AI)가 유럽연합(EU)의 디지털시장법(DMA) 규제에 부딪혀 반쪽짜리 출시에 그치게",
-      "language": "ko",
-      "summary": "EU 이정의한 DMA 규제로 유리양자기기 '시리 AI' 추진에 대해 애플은 공개된 세계개발자회의에서 부딪히 짐습니다.",
-      "points": [
-        "EU 이정의한 DMA 규제로 '시리 AI'을 공개 받았음, 그로 유리양자기기 제조자인 애플은 EU의 디지털 시장법에 부딪쳐 이어질 것입니다.",
-        "유리양자기기 '시리 AI' 출시에서는 EU 규제로 제외되었음을 주장합니다.",
-        "EU DMA의 필요성과 유리양자기기 제조자가 EU 이나 유럽에서 거부하는 의지를 보여줍니다."
-      ],
-      "insight": "이러한 사정은 IT/기술 업계에서 EU 규제의 일반화 요동성을 보여줌으로써 '시리 AI'의 유리양자기인 애플이 부당하게 EU 이정의를 촉착해 원인성을 가지고 있다는 것을 나타냅니다."
-    },
-    {
-      "title": "금융권 비정형 데이터 유출 막는다... 지란지교시큐리티 메일스크린 공급",
-      "link": "http://www.boannews.com/media/view.asp?idx=144022&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:30:00 +0900",
-      "description": "우리은행·우리카드 외부 메일 승인 시스템 OCR 연동 고도화지란지교데이터 고성능 AI 탐지 기술 결합해 보안 시너지 높여[보안뉴스 조재호 기자] 지란지교시큐리티가 우리은행과 우리카드 등에 AI 기반 광학문자인식(AI-OCR) 기술을 접목한 메일 데이터 유출 방지 솔루션을 공급한다.지란지교시큐리티는 우리은행과 우리카드, 베트남우리은행의 ‘외부 메일 승인 시스",
-      "language": "ko",
-      "summary": "우리은행·우리카드 같은 대학체계의 재산보호에 중요한 기술이 등장하고 있습니다.",
-      "points": [
-        "- 우리은행과 우리카드를 위해 AI-OCR 기술을 강화한다.",
-        "- 메일 데이터 유출에서의 고성능 탐지가 중요합니다.",
-        "- OCR 연동과 AI를 결합하여보안노 Star기사는 건물의 디자인적으로 유출되는 지란지교시큐리티 메일스크린이 보안 시너지를 제공한다."
-      ],
-      "insight": "우리은행으로부터의 보안을 강화하는 AI-OCR 기술이 고전화제공입니다.메일스크립트를 OCR 기반으로 건물에서의 보안 시너지는 새로운 IT/기술 분양체계 노 Star 메이트를 통한 고성능 AI가 확장하여 제공한다."
-    },
-    {
-      "title": "모빌린트, COMPUTEX 2026서 대만 AI 생태계와 협력 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=144023&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:26:00 +0900",
-      "description": "DFI·NEXCOBOT·TOP MEASURE와 MOU 체결... 산업용 AI 협력 강화로보틱스·머신비전·산업용 컴퓨팅 분야 공동 개발 및 글로벌 사업 확대 추진VLM·멀티채널 AI·화재감지 등 다양한 라이브 데모로 NPU 상용화 역량 공개[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 아시아 최대 ICT 전시회 ‘COMPUTEX 2026’에서 대만 주요",
-      "language": "ko",
-      "summary": "DFI·NEXCOBOT·TOP MEASURE와 MOU 체결. 산업용 AI 협력 강화로보틱스·머신비전·산업용 컴퓨팅 분야 공동 개발 및 글로벌 사업 확대 추진VLM·멀티채널 AI·화재감지 등 다양한 라이브 데모로 NPU 상용화 역량 공개[보안뉴스 강초희 기자] 모빌린트(대표 신동주)가 아시아 최대 ICT 전시회 ‘COMPUTEX 2026’에서 대만 주요",
-      "points": [
-        "DFI·NEXCOBOT·TOP MEASURE와 MOU 체결",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "안랩-경찰청 피싱 범죄 뿌리 뽑는다... 악성 앱 공동 대응 체계 구축",
-      "link": "http://www.boannews.com/media/view.asp?idx=144020&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 11:24:00 +0900",
-      "description": "악성 앱 분석 고도화 통한 피싱 범죄 대응 MOU 체결V3 모바일 시큐리티에 최신 위협 정보 신속 반영해 사용자 보호[보안뉴스 조재호 기자] 안랩이 경찰청과 손잡고 보이스피싱 등 각종 사이버 민생범죄에 악용되는 악성 앱 근절에 나선다.안랩은 8일 서울 종로구 경찰청 전기통신금융사기 통합대응단 회의실에서 경찰청과 ‘악성 앱 분석 고도화를 통한 피싱 범죄 대응",
-      "language": "ko",
-      "summary": "근접한국인 '안랩'가 경찰청과 함께 악성 앱 대응 모드를 개시하여 이민수동에서 주요 위협 발생점을 보졉한 체계로 피싱.",
-      "points": [
-        "안랩이 경찰청과 함께 악성 앱 대응 살사를 기록했다.",
-        "일부 전역 민생에 주로 아시아 경찰 공조자 국가의 '근접한국'이다.",
-        "그들은 8일짜리 서울 경찰청과 연동하기 때문에, 위협물을 수집하고 MOU를 개시했다."
-      ],
-      "insight": "이러한 살직한 인식주의와 공동체계의 구축으로, '안랩'과 경찰청은 공세적으로 피싱을 위한 지속적인 환경을 만들어내고 있다."
     }
   ]
 }
