@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-06-10T10:10:02.705Z",
+  "generatedAt": "2026-06-10T15:37:42.156Z",
   "articles": [
+    {
+      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+      "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 15:16:00 +0000",
+      "description": "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life.",
+      "language": "en",
+      "summary": "At VivaTech 2decade later in 2026, enterprise artificial intelligence (AI) will be a major focus as European companies seek to apply AI solutions across complex systems integrated into everyday life.",
+      "points": [
+        "European companies are prioritizing the application of AI for enhancing existing embedded complex systems in daily activities",
+        "Enterprise AI is expected to receive significant attention at VivaTech 2026, with a focus on large language models and consumer-facing products being developed aggressively by companies in Silicon Valley",
+        "The event highlights the growing trend of businesses utilizing advanced technologies for more sophisticated applications"
+      ],
+      "insight": "Enterprise AI presents an opportunity to address complex systems embedded into everyday life, and its focus at VivaTech indicates a shift towards this sector in Europe. While Silicon Valley is pushing consumer-facing products with large language models, European companies are concentrating on applications that have wider impacts."
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "description": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in, with model makers.",
+      "language": "en",
+      "summary": "AI coding startup Niteshift has secured $7 million in seed funding from prominent angel investors as it launches to compete against potential AI lock-in by big tech companies.",
+      "points": [
+        "Niteshift, an AI coding agent startup led by veterans of Datadog and Google Cloud Platform, has raised $7 million in seed funding",
+        "The company aims to empower model makers rather than creating dependency (lock-in) with big tech companies' models",
+        "Niteshift introduces AutoML for Python that enhances the ease of access and efficiency using AI"
+      ],
+      "insight": "This news indicates an emerging trend in IT where startups prioritize user agency over convenience, potentially disrupting big tech's dominant model-making services."
+    },
+    {
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 14:48:01 +0000",
+      "description": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "language": "en",
+      "summary": "SpaceX went public with significant focus on its future projects that aim to revolutionize various sectors of technology and industry.",
+      "points": [
+        "The core value SpaceX aims for comes from the anticipation of revenue growth due to their ambitious space data center plans, despite skepticism about current valuations. The company is seen as an innovative force with potential disruptive effects on traditional industries.",
+        "SpaceX's focus extends beyond its core rocket and satellite business into future technologies like energy storage solutions for off-planet settlements (Mars colonization), high-speed interstellar internet using laser technology, autonomous robotic systems to build space structures in low Earth orbit, and a lunar transportation infrastructure.",
+        "Despite the grand vision of SpaceX's moonshot projects, there are concerns about their actual ability to materialize these plans into profitable ventures. This has led some critics to question whether the market overvalues the company based on future potential rather than current operations."
+      ],
+      "insight": "SpaceX is not only changing how we perceive space exploration and technology but also redefining what's possible for human expansion into space, with implications that could transform various industries from energy to communications. However, the commercial viability of these moonshots remains uncertain."
+    },
+    {
+      "title": "Pinterest bets on creators with Amazon Storefront integration",
+      "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 14:34:45 +0000",
+      "description": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.",
+      "language": "en",
+      "summary": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 14:31:30 +0000",
+      "description": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "language": "en",
+      "summary": "Warner Music Group has acquired Sureel AI, an attribution startup specializing in tracking the use of artists' work within AI-generated content and for training machine learning models.",
+      "points": [
+        "WMG plans to leverage Sureel AI's technology to improve music copyright management",
+        "The acquisition highlights WMG'selforwarding focus on the intersection of artificial intelligence and intellectual property rights in entertainment",
+        "Sureel AI is expected to enhance transparency for artists regarding their work being utilized within AI systems"
+      ],
+      "insight": {
+        "text": "This acquisition signifies a growing interest among music corporations to protect and manage the usage of content in an era where artificial intelligence plays an increasingly significant role, reflecting the importance of understanding intellectual property rights across emerging technologies."
+      }
+    },
+    {
+      "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
+      "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 14:13:02 +0000",
+      "description": "ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug.",
+      "language": "en",
+      "summary": "Several ServiceNow clients experienced exposed sensitive information due to a reported security vulnerability.",
+      "points": [
+        "ServiceNow acknowledged that some customer data was accessible online because of an undisclosed bug in its system, affecting numerous enterprises globally."
+      ],
+      "insight": "The ServiceNow incident highlights the importance for IT companies to prioritize timely detection and disclosure of security flaws to maintain client trust within the industry. The potential exposure raises concerns about data privacy regulations compliance, particularly in sectors handling sensitive information."
+    },
+    {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 13:33:09 +0000",
+      "description": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "language": "en",
+      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor",
+      "points": [
+        "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ve...",
+        "Snowflake Ventures also participated as a strategic investor",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 13:07:56 +0000",
+      "description": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "language": "en",
+      "summary": "Decart's Oasis 3 is a real-time world model simulating photorealistic driving environments primarily suited for autonomous vehicle testing.",
+      "points": [
+        "Oasis 3, Decart'ner API generates lifelike virtual roads and traffic scenarios.",
+        "Designed to simulate hours of continuous driving without breaks or crashes in real life conditions.",
+        "Requires significant computational resources due to its photorealism."
+      ],
+      "insight": "Oasis 3 provides a controlled yet authentic environment for AV testing, potentially accelerating development and enhancing safety measures within the industry. However, it may widen the technology gap between companies with substantial computing capabilities versus those without."
+    },
+    {
+      "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
+      "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 12:46:52 +0000",
+      "description": "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back.",
+      "language": "en",
+      "summary": "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back",
+      "points": [
+        "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Why everyone’s an energy company now",
+      "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 12:45:00 +0000",
+      "description": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+      "language": "en",
+      "summary": "The rapid growth of electricity demands due to power consumption in AI-driven data centers is causing various industries including automakers like GM and Ford, to venture into energy storage solutions.",
+      "points": [
+        "AI's increasing impact on technology sectors",
+        "Automotive companies expanding operations beyond traditional markets",
+        "Diversification as a strategic response to fluctuating electricity demands"
+      ],
+      "insight": "This development indicates the growing interdependence between energy consumption in tech and other industries, signaling potential collaborations or investments across sectors."
+    },
+    {
+      "title": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma",
+      "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 12:15:00 +0000",
+      "description": "Fusion power startup Avalanche Energy said its reactor prototype heated a plasma to over 10 million degrees C.",
+      "language": "en",
+      "summary": "Avalanche Energy's fusion device produced temperatures exceeding 10 million degrees Celsius in its reactor core.",
+      "points": [
+        "Fusion startup Avalanche heated plasma to over 10 million degrees C.",
+        "The experiment demonstrates potential for future power generation from controlled nuclear fusion processes.",
+        "Avalanche Energy's advancements highlight the progress in making clean and sustainable energy more feasible."
+      ],
+      "insight": "This development is a promising step toward achieving practical, large-scale fusion reactors that could provide abundant, low-carbon power for future generations. The demonstration of high temperature plasma stability in Avalanche's reactor brings us closer to realizing the potential benefits and applications of controlled nuclear fusion."
+    },
+    {
+      "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+      "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 10 Jun 2026 12:00:00 +0000",
+      "description": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030.",
+      "language": "en",
+      "summary": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030",
+      "points": [
+        "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas",
+        "It hopes to build gigawatts worth by 2030",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "[해킹 뉴노멀-5] 대통령실서 돌아온 신용석 토스페이먼츠 CISO의 9개월은?... ‘선제적 자율보안’ 실천",
       "link": "http://www.boannews.com/media/view.asp?idx=144061&kind=&sub_kind=",
@@ -566,186 +746,6 @@
         "Bundling could encourage developers to collaborate for the first time"
       ],
       "insight": "This move has potential implications for fostering collaboration among app creators, while potentially increasing user engagement through bundled subscription options."
-    },
-    {
-      "title": "Apple’s App Store rolls out personalized recommendations",
-      "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 09 Jun 2026 14:30:17 +0000",
-      "description": "Apple will now recommend apps based on your downloads and behavior.",
-      "language": "en",
-      "summary": "The article announces that Apple's App Store has introduced personalized app recommendations for users.",
-      "points": [
-        "Apple is using user download history and behavior to curate custom app suggestions",
-        "New feature aims to enhance the shopping experience by suggesting relevant apps based on past purchases, searches, or browsing within Apple' endless device universe",
-        "The company has been developing machine learning algorithms for creating personalized recommendations"
-      ],
-      "insight": "This development indicates that tech companies are increasingly leveraging user data and AI technology to provide customised experiences in their platforms. It could set a new standard of expectation from app stores, pushing other players like Google Play Store to follow suit."
-    },
-    {
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 09 Jun 2026 13:47:25 +0000",
-      "description": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
-      "language": "en",
-      "summary": "AI-based legal software provider Sandstone has raised $30 million in a Series A funding round to enhance internal legal teams' capabilities.",
-      "points": [
-        "Sandstone announced raising of $30 million led by Lightspeed Partners and Sequoia for scaling its artificial intelligence-powered legal software platform within companies",
-        "The company plans significant growth with this funding, expanding from serving a couple hundred to potentially 25,00 end users globally",
-        "Sandstone's AI tool has already been utilized by numerous Fortune 100 and tech giants for handling legal tasks"
-      ],
-      "insight": "The influx of $30 million into Sandstone indicates growing confidence in the market potential of integrating artificial intelligence within internal corporate legal structures."
-    },
-    {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 09 Jun 2026 13:00:00 +0000",
-      "description": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "language": "en",
-      "summary": "IT company Lovable reports exceeding a half billion dollars annually with one million new projects per week as they create custom applications to replace in-house systems.",
-      "points": [
-        "Lovable has surpassed $50 end annualized revenue, reaching over half a billion",
-        "Custom application builders: One million fresh projects each week by Lovable users",
-        "The company helps businesses transition from internal software to custom applications"
-      ],
-      "insight": "This demonstrates the growing trend of companies outsourcing IT development, emphasizing a shift towards more agile and efficient solutions in technology."
-    },
-    {
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 09 Jun 2026 12:00:00 +0000",
-      "description": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-      "language": "en",
-      "summary": "Euwyn Poon, founder of the e-scooter company Orbital, has raised $5 million in funding to launch a new venture focused on building space data centers.",
-      "points": [
-        "Formerly involved with an electric scooter startup (Spin), Euwyn Poon raises funds for a unique project: deploying small-sized, cost-efficient space stations designed as miniature floating cloud computing platforms. These are envisioned to provide ubiquitous data access and processing capabilities.",
-        "The new venture plans on releasing three 3U CubeSats that will form part of the network in low Earth orbit (LEO). The first satellite, known as Eye-1 or AXEEY for short, is set to launch next year. Subsequent satellites are anticipated two years later.",
-        "The concept behind Poon’s project combines elements from various industries and disciplines: aerospace engineering, information technology services (ITS), cloud computing infrastructure deployment within space."
-      ],
-      "insight": "This initiative signifies the potential for commercial enterprises to leverage space-based solutions for data storage and processing. It may lead to faster access speeds globally due to reduced latency, indicating a possible trend in future IT infrastructure investments towards integrating them with extraterrestrial environments."
-    },
-    {
-      "title": "쿠팡 개인정보 유출 과징금 10일 심의... 역대급 과징금 여부 주목",
-      "link": "http://www.boannews.com/media/view.asp?idx=144039&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 18:26:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 정부가 쿠팡의 대규모 개인정보 유출 사고 조사를 시작한지 7개월 만에 제재 수위를 10일 최종 결정한다. 3367만여 건의 고객 정보가 유출된 대형 사고인 만큼 역대 최대 규모의 과징금 부과될지 주목된다. 9일 개인정보보호위원회에 따르면 개인정보위는 10일 오전 전체회의를 열고 쿠팡의 개인정보 보호법 위반 여부, 제재 수위를 심의할",
-      "language": "ko",
-      "summary": "쿠팡의 대규모 개인정보 유출 사고에 대한 제재 수위 10일 결정",
-      "points": [
-        "쿠팡과 이러한 기술 사내에서의 개인정보 보호 위반이 차지하는 과징금 부과",
-        "10일 오전 최종 결정으로 33만여간의 고간 사고에 대해 제기되었다.",
-        "기존의 제재 수위보다는 이전에 과집한 거의 모든 경우에 대해 제기된다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서의 개인정보보호가 중요하고 국민의 증액과 회사와의 계승간의 있다면 강력한 제약이 필요해진다."
-    },
-    {
-      "title": "대륜-SJKP, 美 로펌과 쿠팡 소송 공동 대응... “자체 디스커버리로 승부”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144038&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 18:12:00 +0900",
-      "description": "연방 집단소송 경험 풍부한 ‘나폴리 슈콜닉’과 협업“국가 간 협업 통해 한미 양국 피해자 권리 되찾을 것”[보안뉴스 강현주 기자] 법무법인 대륜의 업무협력 로펌인 SJKP가 미국 뉴욕동부연방지방법원에 제기된 미국 쿠팡(Coupang, Inc.) 대상 대규모 개인정보 유출 집단소송에서 미국 집단소송 전문대형 로펌인 나폴리 슈콜닉(Napoli Shkolnik)",
-      "language": "ko",
-      "summary": "대륜 SJKP, 미로포먼 밖에서 Napoli Shkolnik 슈콜닉으로 각자의 주민청구 정보를 공유하기 시작한다.",
-      "points": [
-        "대륜 SJKP과 Napoli Shkolnik의 협업",
-        "개인정보 및 주민청구 정보를 공유하기로 해야 한다.",
-        "이러한 대응은 IT 업계에서의 공세 또는 상호작용으로 인식할 수 trep니다."
-      ],
-      "insight": "이러한 대응은 IT 업체들이 공세를 강화하고, 상호작용을 도모하는 중요한 행동으로 보인다."
-    },
-    {
-      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-      "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 09 Jun 2026 09:00:00 +0000",
-      "description": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites.",
-      "language": "en",
-      "summary": "Evotrex has raised $30 million to create an RV capable of long-distance travel without needing a charging station.",
-      "points": [
-        "Startup Evotrex secures funding for innovative electric vehicle technology in the RV market",
-        "Hybrid power system eliminates dependence on traditional campsites and charger availability",
-        "Evotrex's plan includes charging infrastructure to support their eco-friendly RV designs"
-      ],
-      "insight": "This development by Evotrex signifies a growing trend in the automobile industry towards more sustainable and independent vehicle usage, which could significantly reduce reliance on conventional fuels."
-    },
-    {
-      "title": "“취약점 퍼붓는 AI 시대, ‘사람’이 보안 병목”... 태니엄, ‘자율형 패치 관리’ 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144037&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 16:59:00 +0900",
-      "description": "“패치 이메일 승인 기다리는 동안 공격은 시작”미토스 프리뷰 발견 취약점 3만개 이상... 패치율 0.4% 불과[보안뉴스 강현주 기자] “AI로 사이버 공격 프로세스가 자동화되면서, 매일 취약점이 쏟아지는 ‘포스트 미토스’ 시대에는 사람 중심의 보안 프로세스가 가장 큰 보안 병목입니다. 정책 기반 시스템이 스스로 작동하는 ‘자율형 패치 관리’가 답입니다.”",
-      "language": "ko",
-      "summary": "“패치 이메일 승인 기다리는 동안 공격은 시작”미토스 프리뷰 발견 취약점 3만개 이상. 4% 불과[보안뉴스 강현주 기자] “AI로 사이버 공격 프로세스가 자동화되면서, 매일 취약점이 쏟아지는 ‘포스트 미토스’ 시대에는 사람 중심의 보안 프로세스가 가장 큰 보안 병목입니다...",
-      "points": [
-        "“패치 이메일 승인 기다리는 동안 공격은 시작”미토스 프리뷰 발견 취약점 3만개 이상",
-        "4% 불과[보안뉴스 강현주 기자] “AI로 사이버 공격 프로세스가 자동화되면서, 매일 취약점이 쏟아지는 ‘포스트 미토스’ 시대에는 사람 중심의 보안 프로세스가 가장 큰 보안 병목입...",
-        "정책 기반 시스템이 스스로 작동하는 ‘자율형 패치 관리’가 답입니다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "삼성 ‘AI 대전환’ 본격화... 全 계열사 AI 보안 인재 확보 총력전",
-      "link": "http://www.boannews.com/media/view.asp?idx=144036&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 16:27:00 +0900",
-      "description": "외부 생성형 인공지능 도입 앞두고 전사적 보안 체계 및 전담 조직 구축 돌입AI 중심으로 일하는 방식-조직문화 재정의... 주요 계열사 AI 보안 인재 채용 공고 등록[보안뉴스 조재호 기자] 삼성이 연구개발부터 경영 지원에 이르는 모든 업무에 인공지능을 전면 도입하는 ‘AI 대전환’을 선언한 가운데, 전 계열사가 인공지능 보안 인력 확보에 총력을 기울이고",
-      "language": "ko",
-      "summary": "외부 생성형 인공지능 도입 앞두고 전사적 보안 체계 및 전담 조직 구축 돌입AI 중심으로 일하는 방식-조직문화 재정의. 주요 계열사 AI 보안 인재 채용 공고 등록[보안뉴스 조재호 기자] 삼성이 연구개발부터 경영 지원에 이르는 모든 업무에 인공지능을 전면 도입하는 ‘AI 대전환’을 선언한 가운데, 전 계열사가 인공지능 보안 인력 확보에 총력을 기울이고",
-      "points": [
-        "외부 생성형 인공지능 도입 앞두고 전사적 보안 체계 및 전담 조직 구축 돌입AI 중심으로 일하는 방식-조직문화 재정의",
-        "주요 계열사 AI 보안 인재 채용 공고 등록[보안뉴스 조재호 기자] 삼성이 연구개발부터 경영 지원에 이르는 모든 업무에 인공지능을 전면 도입하는 ‘AI 대전환’을 선언한 가운데, ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "한서대 항공보안학과, ‘관세청 공무원(전문경력관 다군)’ 최종 합격자 6명 대거 배출",
-      "link": "http://www.boannews.com/media/view.asp?idx=144035&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 15:57:00 +0900",
-      "description": "학과 역사상 최초 합격, 지도교수와 학생들의 열정이 함께 만들어낸 쾌거[보안뉴스 강초희 기자] 국내 최고 수준의 엘리트 보안 인재를 양성하는 한서대학교 항공보안학과 졸업생 6명(19학번 신민용, 20학번 김창기, 명상현, 박종균, 22학번 이나은, 최가연)이 2026년 6월 5일부로 관세청 전문경력관 다군(경력경쟁채용)에 최종 합격하는 쾌거를 이루었다.관세",
-      "language": "ko",
-      "summary": "한서대학교의 항공보안학과 학생들이 관세청 전문경력관 다군에 합격하였다.",
-      "points": [
-        "- 6명의 학생이 한서대학교 항공보안학과 연终시장에서 승리",
-        "- 이러한 학생들은 전문적인 일을 수행하기 위해 최고의 게임자를 선정",
-        "- 합격하여 교수나 연구가능성을 확보"
-      ],
-      "insight": "이 뉴스는 IT/기술 업계에서 학생들의 경련과 교수의 인정을 보여주는, 그리고 교육의 중요성과 핵심 인재가 필요한 역사를 시사한다."
-    },
-    {
-      "title": "노드VPN, GTA 6 위장 악성코드 주의보... 트로이목마 및 피싱 확산",
-      "link": "http://www.boannews.com/media/view.asp?idx=144033&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 15:44:00 +0900",
-      "description": "[보안뉴스 조재호 기자] 2026년 최대 기대작으로 꼽히는 게임 GTA 6 사전 예약이 임박했다는 소문이 퍼지면서 가짜 설치 파일과 허위 베타 키, 피싱 사이트 유포가 증가하는 추세다. 노드VPN은 GTA 6 출시를 앞두고 이용자들의 기대 심리를 악용한 악성코드 및 피싱 공격이 확산하고 있다고 9일 밝혔다. 노드VPN 위협 인텔리전스 연구팀 분석 결과 이번",
-      "language": "ko",
-      "summary": "[보안뉴스 조재호 기자] 2026년 최대 기대작으로 꼽히는 게임 GTA 6 사전 예약이 임박했다는 소문이 퍼지면서 가짜 설치 파일과 허위 베타 키, 피싱 사이트 유포가 증가하는 추세다. 노드VPN은 GTA 6 출시를 앞두고 이용자들의 기대 심리를 악용한 악성코드 및 피싱 공격이 확산하고 있다고 9일 밝혔다...",
-      "points": [
-        "[보안뉴스 조재호 기자] 2026년 최대 기대작으로 꼽히는 게임 GTA 6 사전 예약이 임박했다는 소문이 퍼지면서 가짜 설치 파일과 허위 베타 키, 피싱 사이트 유포가 증가하는 추...",
-        "노드VPN은 GTA 6 출시를 앞두고 이용자들의 기대 심리를 악용한 악성코드 및 피싱 공격이 확산하고 있다고 9일 밝혔다",
-        "노드VPN 위협 인텔리전스 연구팀 분석 결과 이번"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "해커보다 먼저 약점 찾는다... 케이알시큐리티 ASM 솔루션 무상 제공",
-      "link": "http://www.boannews.com/media/view.asp?idx=144031&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 9 Jun 2026 15:30:00 +0900",
-      "description": "복지기관 및 소상공인 등 10곳 선정, ‘리콘레드’ 최대 1년간 무료 제공외부 노출 자산, 취약점 자동 점검... 전담 인력 없는 기관 선제 방어 지원[보안뉴스 조재호 기자] 해커의 관점에서 취약점을 찾아내는 공격표면관리(ASM) 솔루션 ‘리콘레드’(ReconRED)가 보안 여력이 부족한 중소기업과 소상공인에게 1년간 무료로 제공된다.오펜시브 시큐리티 전문",
-      "language": "ko",
-      "summary": "복지기관 및 소상공인 등 10곳 선정, ‘리콘레드’ 최대 1년간 무료 제공외부 노출 자산, 취약점 자동 점검. 전담 인력 없는 기관 선제 방어 지원[보안뉴스 조재호 기자] 해커의 관점에서 취약점을 찾아내는 공격표면관리(ASM) 솔루션 ‘리콘레드’(ReconRED)가 보안 여력이 부족한 중소기업과 소상공인에게 1년간 무료로 제공된다...",
-      "points": [
-        "복지기관 및 소상공인 등 10곳 선정, ‘리콘레드’ 최대 1년간 무료 제공외부 노출 자산, 취약점 자동 점검",
-        "전담 인력 없는 기관 선제 방어 지원[보안뉴스 조재호 기자] 해커의 관점에서 취약점을 찾아내는 공격표면관리(ASM) 솔루션 ‘리콘레드’(ReconRED)가 보안 여력이 부족한 중소...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
