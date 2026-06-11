@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-06-11T10:30:23.737Z",
+  "generatedAt": "2026-06-11T16:03:56.602Z",
   "articles": [
+    {
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 11 Jun 2026 15:30:00 +0000",
+      "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "language": "en",
+      "summary": "Pool's new app transforms screenshots into organized collections with attached links for easy access back to original content.",
+      "points": [
+        "The Pool app creates personalized collections from saved screenshots and tracks the corresponding web pages or URLs.",
+        "It aims to simplify finding previously captured information by storing it in an easily accessible format within the user'static memory. The integration with Google Chrome is one way of accomplishing this, potentially easing frustration for users who frequently save content online only to forget where they found it later on. Notably, as most people use apps and tools like image capture (e.g., screenshot) software but have difficulties recalling the sources behind their captured data.",
+        "Pool's app not only organizes saved screenshots into collections for easy retrieval but also assists in reconnecting with past content by storing associated links to original resources."
+      ],
+      "insight": "The Pool application could significantly impact information management within the IT/technology industry, as it streamlines a common and often frustrating experience: forgetting where saved online data originated. The integration of this functionality into everyday apps such as screenshot tools or browsers may become increasingly popular."
+    },
+    {
+      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 11 Jun 2026 15:00:00 +0000",
+      "description": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
+      "language": "en",
+      "summary": "Microsoft has partnered with Indian carbon removal startup Alt Carbon following over a year of research, which now requires further validation from the tech giant.",
+      "points": [
+        "Alt Carbon and Microsoft have agreed to form an alliance after thorough scientific review and due diligence",
+        "The deal was signed on Monday at Microsoft’s headquarters in Redmond. It is being hailed as a landmark for India's expanding role in the field of carbon removal.",
+        "Microsoft now requires additional verification measures from Alt Carbon"
+      ],
+      "insight": "This partnership signifies an increasing trend towards environmentally friendly tech practices within major IT corporations, highlighting a shift to greener methodologies."
+    },
+    {
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 11 Jun 2026 14:23:43 +0000",
+      "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "language": "en",
+      "summary": "DoorDash introduces an AI chatbot named Ask DoorDash that enables users to search the app using natural language instead of scrolling through menus.",
+      "points": [
+        "Ask DoorDash allows ordering with voice commands or text prompts",
+        "The bot understands various user intents such as finding specific items, restaurants specializing in certain cuisines, and even providing photos for identification if requested by the customer.",
+        "Testing of Ask DoorDash shows that users can order using AI technology without extensive interaction."
+      ],
+      "insight": "This development marks a significant shift towards voice-assisted ordering experiences in ecommerce food delivery services, potentially setting new standards for user engagement and efficiency within the industry. The integration of visual components through photos indicates an ongoing trend to enrich customer experience beyond just text inputs."
+    },
+    {
+      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+      "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 11 Jun 2026 14:00:12 +0000",
+      "description": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
+      "language": "en",
+      "summary": "Endurance Energy, led by SpaceX alum Andrew Redd, secured $54 million to explore tapping into the ocean's massive reserves of untapped geothermal energy.",
+      "points": [
+        "Endurance Energy is a new company founded by former SpaceX employee with an investment firm backing them.",
+        "The startup has identified and secured significant funding for harnessing undersea thermal gradients as potential renewable sources of power on Earth.",
+        "This venture could disrupt the current energy industry dynamics, potentially leading to a more sustainable global power mix."
+      ],
+      "insight": "The investment in Endurance Energy signals increasing recognition within the IT/technology sector for innovative renewable resources beyond solar and wind. This development has substantial implications for future clean tech ventures by demonstrating strong capital interest, which could accelerate growth of similar initiatives globally."
+    },
+    {
+      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+      "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 11 Jun 2026 13:18:51 +0000",
+      "description": "South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers.",
+      "language": "en",
+      "summary": "In response to a significant data breach affecting millions of its users in South Korea, authorities have imposed the record-breaking fine on ecommerce giant Coupang.",
+      "points": [
+        "Coupang faces a $400M+ fine for a massive customer data breach",
+        "The cybersecurity incident affected over 30 million customers in South Korea alone, leading to this unprecedent penalty",
+        "This sets an industry precedent on the severity of penalties that can be imposed following significant data security lapses"
+      ],
+      "insight": "The hefty fine levied against Coupang sends a strong message about escalating consequences for failing to safeguard customer information and emphasizes growing regulatory oversight in the global IT/technology industry."
+    },
+    {
+      "title": "[단독] 솔루션 유지보수 바이텍시스템 랜섬웨어 감염... 삼성 등 고객사 정보 유출",
+      "link": "http://www.boannews.com/media/view.asp?idx=144081&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 11 Jun 2026 21:44:00 +0900",
+      "description": "랜섬웨어 조직 킬린, 다크웹 사이트에 탈취 데이터 및 스크린샷 게시보안 관리로 뚫린 유지보수망 스피어 피싱 등 치명적 공급망 공격 우려[보안뉴스 조재호 기자] 국내 대기업과 금융권에 IT 솔루션 및 유지보수를 제공하는 전문기업 바이텍시스템이 랜섬웨어 조직의 공격을 받아 대규모 데이터 유출 사태가 발생했다. 고객사의 핵심 시스템을 관리하는 유지보수 업체의 특",
+      "language": "ko",
+      "summary": "고객사 정보 유출에 대한 게시보안이 위험한 공격 우려로 랜섬웨어 조직의 IT/기술 솔루션과 유지보수 제도가 시약하고 바이텍시스텝을 활용한 발생.",
+      "points": [
+        "랜섬웨어 조직의 IT/기술 제공에서 삼성과 다수 고객사가 공격해보았",
+        "바이텍시스텟이 매장별로 샵출정보를 보호하지 못한 상황임",
+        "전문가들은 공격에 의해 일부 시스템이 중즬접속을 제공하고 있는 지도염의 경우이다."
+      ],
+      "insight": "이러한 IT/기술 솔루션 보호 위기는 불안정 상황을 만들어내고, 긍정적으로 보면 해를 다시보일 수 있는 공격은 IT/기술 관련 서비스의 심한 위기를 전제로 하고 있음."
+    },
+    {
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 11 Jun 2026 11:48:55 +0000",
+      "description": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
+      "language": "en",
+      "summary": "Tata Consultancy Services (TCS) has partnered with tech company Anthropic to create a business unit for scaling enterprise artificial intelligence deployments.",
+      "points": [
+        "Anthropic and TCS have formed a partnership",
+        "The collaboration will focus on implementing Anthropic'in AI models into the infrastructure of large organizations using IT services provided by TCS.",
+        "This venture is expected to expand rapidly in scope, with plans for global expansion."
+      ],
+      "insight": "With this partnership between industry leaders like Anthropi and Tata Consultancy Services (TCS), we can expect a significant improvement in enterprise AI capabilities. This move indicates the growing importance of strategic alliances within IT/technology for innovation scaling."
+    },
     {
       "title": "[쿠팡 해킹] 유출 “3000명뿐”이라던 쿠팡... CPO 무시한 처사였다",
       "link": "http://www.boannews.com/media/view.asp?idx=144080&kind=&sub_kind=",
@@ -645,110 +750,6 @@
         "Avalanche Energy's advancements highlight the progress in making clean and sustainable energy more feasible."
       ],
       "insight": "This development is a promising step toward achieving practical, large-scale fusion reactors that could provide abundant, low-carbon power for future generations. The demonstration of high temperature plasma stability in Avalanche's reactor brings us closer to realizing the potential benefits and applications of controlled nuclear fusion."
-    },
-    {
-      "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
-      "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 10 Jun 2026 12:00:00 +0000",
-      "description": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030.",
-      "language": "en",
-      "summary": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030",
-      "points": [
-        "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas",
-        "It hopes to build gigawatts worth by 2030",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[해킹 뉴노멀-5] 대통령실서 돌아온 신용석 토스페이먼츠 CISO의 9개월은?... ‘선제적 자율보안’ 실천",
-      "link": "http://www.boannews.com/media/view.asp?idx=144061&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 10 Jun 2026 18:51:00 +0900",
-      "description": "[3줄 요약]1. PQC 도입·IT 대비 보안 인력 및 예산 10% 이상2. “선제적 자율 보안, 기업 문화와 IT 부서 적극 협업 덕 ”3. 민-관 아우르는 역량 ‘소통’ 에 활용[보안뉴스 강현주 기자] 사이버안보비서관에서 기업으로 돌아온 신용석 정보보호최고책임자(CISO)는 이제 민간 영역에서 어떤 변화를 이끌고 있을까?그가 CISO를 맡은 토스페",
-      "language": "ko",
-      "summary": "신용석 정보보호의 선제적인 자율이 '소통'에서 기억되고 있습니다",
-      "points": [
-        "민간영역에서의 신용석 보호약 10%를 보충하기로定めました.",
-        "기업으로의 보안의 활동과 IT 부서의 합병을 우선적으로 계획합니다.",
-        "신용석 정보보호에 대한 자율성을 강조하고, '소통'에서의 역량을 활용할 수 0보다는 큰 계획이잖나요?"
-      ],
-      "insight": "신용석 보호의 자율성과 IT 부서와 기업으로의 돌아오는 프로세스가 '소통'에서 발칭되어야 한다."
-    },
-    {
-      "title": "티빙 사태, DB 유출보다 깃허브에 주목할 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=144054&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 10 Jun 2026 18:38:00 +0900",
-      "description": "깃허브 자격증명 교체 KISA에 신고... 계정 정보 노출 가능성 시사통제권 쥔 해커의 비인가 쿼리 실행 정황... 시스템 사전 장악 우려[보안뉴스 조재호 기자] 티빙(TVING) 개인정보 유출 규모가 1300만명에 이른다는 관측이 나오는 등 파문이 커지는 가운데, 단순 데이터베이스(DB) 접근을 넘어 플랫폼 시스템 전반이 장악 당했을 가능성에 대한 우려도",
-      "language": "ko",
-      "summary": "깃허딩 서비스가 DB 유출보다 중요해진다고 주장하는 뉴스에 대한 요약",
-      "points": [
-        "먼저, 티빙(TVING) 개인정보 유출이 1300만명 균혨한 판단이 나오고 이를 가립시도 해보고 자리를 놓은 사람들이 가장 중요하다는 소재",
-        "이러한 환경에서 DB 접근을 포함한 시스템 전반의 우려를 인사이트로 제안",
-        "보안 문제가 그리고 더욱 중요하다는 말"
-      ],
-      "insight": "깃허딩 서비스가 DB 유출보다 이미 우연한 방식으로 이루어진 위기와 지속성을 지니저응증하며, 그리고 이에 초과한 것이 시스템 전반의 우려를 인사이트로 제안"
-    },
-    {
-      "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
-      "link": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 10 Jun 2026 09:00:00 +0000",
-      "description": "Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.",
-      "language": "en",
-      "summary": "Waymo developed a novel computational model aiming at comprehending human behavior during potential vehicle crashes faced by their autonomous taxis.",
-      "points": [
-        "The Waymo team has engineered an improved computer simulation that mimics real-world crash scenarios involving pedestrians and cyclists, which are common incidents for robotaxis but rare in traditional driving studies.",
-        "This advancement allows the company to better predict risky situations by studying human reactions when unexpected events occur on roadways outside of controlled test environments. The data is crucial as it represents a significant portion of potential traffic hazards that self-driving cars will have to manage."
-      ],
-      "insight": "This research enhances the safety and reliability perceptions for autonomous vehicles, providing critical information needed by engineers during the development phase. It may also influence regulations concerning human interaction with robotaxis in various cities around the world."
-    },
-    {
-      "title": "국립산림과학원, “AI로 산사태 예측”,,, 토석류 영향범위 예측기술 개발",
-      "link": "http://www.boannews.com/media/view.asp?idx=144059&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 10 Jun 2026 17:22:00 +0900",
-      "description": "현장 조사 없이 토석류 영향 범위와 예상 피해 규모 신속 분석주민 대피구역 설정, 대피경로 확보 등 재난 대응 및 인명피해 저감 기대[보안뉴스 강초희 기자] 산림청 국립산림과학원(원장 김용관)은 AI를 활용해 전국 마을 산사태 영향 범위를 신속하게 예측하는 기술을 개발했다고 밝혔다.산사태 영향 범위 예측기술은 산사태 발생 후 흙과 돌, 나무 등이 계곡을",
-      "language": "ko",
-      "summary": "현장 조사 없이 토석류 영향 범위와 예상 피해 규모 신속 분석주민 대피구역 설정, 대피경로 확보 등 재난 대응 및 인명피해 저감 기대[보안뉴스 강초희 기자] 산림청 국립산림과학원(원장 김용관)은 AI를 활용해 전국 마을 산사태 영향 범위를 신속하게 예측하는 기술을 개발했다고 밝혔다. 산사태 영향 범위 예측기술은 산사태 발생 후 흙과 돌, 나무 등이 계곡을",
-      "points": [
-        "산사태 영향 범위 예측기술은 산사태 발생 후 흙과 돌, 나무 등이 계곡을",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "조달청, 드론·안티드론 혁신제품 ‘군(軍) 실증 현장’ 점검 통해 활용 방안 모색",
-      "link": "http://www.boannews.com/media/view.asp?idx=144057&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 10 Jun 2026 17:08:00 +0900",
-      "description": "무인 정찰 드론과 드론 무력화 혁신기술을 검증하고 있는 제36보병사단 방문군(軍) 전력을 지원하는 주요 장비에 첨단 혁신제품 활용 방안 모색[보안뉴스 강초희 기자] 조달청(청장 백승보)은 10일 국방부(장관 안규백) 및 육군본부(참모총장 김규하)와 함께 강원 원주시에 위치한 제36보병사단을 방문했다. 이 자리에서 혁신제품 시범구매 사업으로 도입된 무인운영",
-      "language": "ko",
-      "summary": "제36보병사단에서 혁신제품 '군(軍) 실증 현장'를 활용하는 방안 모색",
-      "points": [
-        "- 첨단 드론과 무력화 드롬 혁신기술을 검증한 36보병사단이 정찰 센터에서의 시범구매 연구",
-        "- '군(軍) 실증 현장'를 활용하여 무인 정찰 문화 변화점 모니터링 방안 조정 중이다.",
-        "- 이 방위에서는 체계적 혁신기술 구현을 시사한 '군(군) 제24보병사단'도 확인된다."
-      ],
-      "insight": "이 뉴스는 IT/기술 업계에서의 혁신기술 모니터링에 대한 일부러내기로 자세함. '군(군) 실증 현장'을 활용하는 방안 모색은 다음과 같다: \\n - 이미 훈련된 36보병사단이 '군(군) 제24보병사단'로 이전에 적절한 혁신기술을 통합하여 발생 \\n - 무인 정찰 문화의 변화를 모니터링하고, 그 원인을 바로 '군(군) 실증 현장'에 기반할 수 0ne다."
-    },
-    {
-      "title": "[양자와 보안] 제8회 아시아 양자내성암호 포럼, 한국에서 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144058&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 10 Jun 2026 16:46:00 +0900",
-      "description": "양자컴 시대 대비 아시아 최대 PQC 전문 포럼...국제사이버보안연구원-한국정보보호학회 공동 개최[보안뉴스 원병철 기자] 국제사이버보안연구원(원장 김광조)은 한국정보보호학회(회장 김호원)와 공동으로 7월 15~16일 양일간 ‘제8회 아시아 양자내성암호(Post-Quantum Cryptography, PQC) 포럼’을 한국과학기슬회관에서 개최한다고 밝혔다.",
-      "language": "ko",
-      "summary": "8회 아시아 양자내성암호 포럼에서, 한국과학기슬회관과 국제사이버보안연구원은 PQC 문제를 중지하기 위한 방안을 공유한다.",
-      "points": [
-        "원장 김광조과 회장 김호원이 국제사이버보안연구원과 함께 8회 양자내성암호 포럼을 개최한다.",
-        "모서리에서 PQC를 위한 방안을 공유하고 있는 3가지 주요 문제점이다.",
-        "분석과정에서 한국과 중화로 인식한 한국어로 포럼의 내용을 요약한다."
-      ],
-      "insight": "이 뉴스는 IT/기술 업계에서 PQC를 위한 연구와 개인화된 해결책을 중지하고 이미지를 다루며, 국제 공동작염으로도 기여함을 보여준다."
     }
   ]
 }
