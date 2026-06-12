@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-06-12T04:05:36.512Z",
+  "generatedAt": "2026-06-12T10:23:41.197Z",
   "articles": [
+    {
+      "title": "[카드뉴스] “해킹 아니라 업데이트인데 수술실 마비?”… 미 FDA 패치 의무화가 부른 병원 전산망의 역설",
+      "link": "http://www.boannews.com/media/view.asp?idx=144093&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 17:03:00 +0900",
+      "description": "의료기기 해킹 방지를 위한 미 FDA의 펌웨어 패치 의무화 규제 이후, 시스템 최적화가 부족한 병원 전산망 내에서 보안 업데이트가 시스템 충돌을 일으키며 의료기기가 강제 다운되는 사고가 빈발하고 있다. 위협 확산을 막기 위한 네트워크 강제 격리 및 락다운 조치가 오히려 병원 내 주요 전산 인프라와 수술실 기능을 전면 마비시키는 등, 사이버 보안을 지키려다",
+      "language": "ko",
+      "summary": "미 FDA의 펌웨어 패치 규제에 의해 보안 업데이트가 시스템 오버할인을 일으키고, 수술실 기능이 마비되어 사람들에게 의미있는 의료기기가 제공할 수 없다.",
+      "points": [
+        "- 보안 업데이트로 시스템 오버할인을 일으키고 있다.",
+        "- 수술실 기능이 마비되어 사용자가 의미있는 보안업데이트로 인해 제공할 수 없다.",
+        "- 사용자들에게는 의미없는 의료기기가 제공하고 있다."
+      ],
+      "insight": "이러한 상황은 보안업데이트로 인해 수술실 기능이 병원 내에서 불가능한 현재입니다. 이는 사용자의 의식과 의지를 깨지고, IT/기술 업체에서 보안의 영향을 미리 고민해야 합니다."
+    },
+    {
+      "title": "샤이니헌터스, 오라클 제로데이 취약점 악용... 세계 교육기관 100여곳 공격",
+      "link": "http://www.boannews.com/media/view.asp?idx=144092&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 16:50:00 +0900",
+      "description": "구글 맨디언트, 오라클 피플소프트 환경 관리 컴포넌트 취약점 악용 주의보애저로 위장한 원격 제어 에이전트 심어 내부망 측면 이동, 데이터 탈취[보안뉴스 조재호 기자] 구글 위협인텔리전스그룹(GTIG)이 유명 해킹 조직 샤이니헌터스(ShinyHunters)의 대규모 데이터 탈취 및 갈취 캠페인을 포착했다. 12일 구글 클라우드 공식 블로그에 따르면, 샤이니헌",
+      "language": "ko",
+      "summary": "구글의 개인정보를 강제로 공격해내는 전용한 데이터 탈취 공격원들이 모여있어.",
+      "points": [
+        "구글은 개인정보가 중요하다고 주장",
+        "ShinyHunters는 손상을 위해 Google 직체를 확보했다.",
+        "이런 계정은 일본 기사에서 알려진 구글 위협의 대상이며, IT/기술 업체에서의 근본적인 위기"
+      ],
+      "insight": "거대한 Google 직체를 공격하는 과정은 IT/기술 산업의 일상이고, 이러한 공격법을 사용함에 마음이 되어, IT/기술 산열이 생기지는 않을 까지 이루어졌다."
+    },
+    {
+      "title": "“인증 맹신 버려라”... ISMS-P 개편, 양자 보안 위협 속 차세대 생존법",
+      "link": "http://www.boannews.com/media/view.asp?idx=144091&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 16:34:00 +0900",
+      "description": "기업보안협, ‘2026년 제3차 시큐리티 라운드 테이블’ 개최... 유출 사고 이면의 관리 체계 맹점 진단홍성권 나인시큐리티 대표 “ISMS-P는 보안의 시작점일 뿐 완벽한 예방 담보 못 해”박유신 베이스스톤 대표 “공개키 의존하는 제로 트러스트 한계, 양자 동적 키로 극복”[보안뉴스 조재호 기자] 최근 쿠팡 과징금 부과와 티빙 개인정보 유출 등 대규모 사",
+      "language": "ko",
+      "summary": "ISMS-P 개편이 보안의 시작점이 아니라 예방분약 부분을 완전히 제거하는데 어려움이었음.",
+      "points": [
+        "- 인증 맹신 이탈에 대한 공지로 ISMS-P가 제시되었다.",
+        "- 보안 전문가들은 완벽한 예방을 위해 모든 보호 노하산을 수동으로 생산하지 않음.",
+        "- ISMS-P는 양자화된 기술적 보호 구조를 제공한다."
+      ],
+      "insight": "ISMS-P 개정이 현재에서 인증 맹신 관련 보호 전용 프로그래밍을 중단시켜 모든 보호 기술 요구사고를 실행하지 않음. 이것은 보안 전문가들의 촬영 목적과 현재 보안 시스템의 수정을 위한 사회절차이다."
+    },
+    {
+      "title": "방미통위, 주민번호·CI 분리 보관 내년 1월 시행... 당초 계획보다 4개월 앞당겨",
+      "link": "http://www.boannews.com/media/view.asp?idx=144090&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 15:08:00 +0900",
+      "description": "12일 제17차 전체회의 개최... 연계정보 생성 처리 기준 고시 개정안 조기 시행 추진[보안뉴스 조재호 기자] 방송미디어통신위원회가 주민등록번호와 연계정보(CI)의 분리 보관 의무화 시기를 당초 예정보다 4개월 앞당겨 내년 1월 1일 시행한다. 최근 대규모 개인정보 유출 사고에서 주민등록번호와 이를 대체하는 식별 수단인 연계정보가 함께 노출되며 2차 피해",
+      "language": "ko",
+      "summary": "방미통위는 다음 1월에 주민번호·CI 분리 보관 의무화 시기로 시작할 예정이다.",
+      "points": [
+        "방미통위은 내년 1월 1일에 주민번호·CI 분리 보관 의무화 시기로 지시한다.",
+        "이를 4개월 앞당갈 대로 시행하려고 한다.",
+        "노출되는 연계정보와 주민번호가 함께들이며, 더욱은 이전 사고에서의 최근 노출되는 경우를 대비한다."
+      ],
+      "insight": "주민번호·CI 분리 보관 의무화는 함께 알맞은 식별 수단이기 때문에, 보안보다는 중요한 사실이며, 4개월 앞당갈로 시작하도록 나머지 5월 내에 시행한다."
+    },
+    {
+      "title": "스콥정보통신, ‘인터롭 도쿄2026’ 참가... ‘IP스캔 NAC’로 일본 보안 시장 공략",
+      "link": "http://www.boannews.com/media/view.asp?idx=144089&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 14:40:00 +0900",
+      "description": "해외 매출 30% 이상·수출의 탑 수상... 글로벌 강소기업 역량 입증일본 지사 설립 후 20년 이상 지속 성장... 현지 파트너 협력 토대로 시장 입지 확대 [보안뉴스 한세희 기자] 스콥정보통신(대표 김찬우)은 일본 지바현 마쿠하리 메세(Makuhari Messe)에서 열린 일본 최대 정보통신기술(ICT) 전시회 ‘인터롭 도쿄(Interop Tokyo)",
+      "language": "ko",
+      "summary": "인터롭 도쿄2026 대한민국에서 일본 보안 시장 공략 발생",
+      "points": [
+        "기사는 스콧정보통신이 이어서 한국의 인터롭 도쿄(Interop Tokyo) 회의에 가입하고 지사를 출시해야 했던 내년여동([내년 3/4 이후])로 그룹을 통한 20년간 성장세도 기다리고 있음",
+        "현재는 일본 보안 시장 공략에 사실 영향이 있지만, 해외매치들이 공급 방식을 바꿔서 대체성을 유도하고 있다",
+        "스콧정보통신은 보안 시장 공략에 대한 여름차를 소개하고, 이어서는 현재 일본 보안 시장 공략에 대해 질문을 받아들이기로 되어 내리는"
+      ],
+      "insight": "스콧정보통신은 일본 보안 시장 공략에 대한 인사이트를 제공하여, 현재 공급 방식의 변화와 경력성을 강조한다."
+    },
+    {
+      "title": "엠스톤, 대만 HST와 공식 파트너십 체결... 대만 영상보안 시장 본격 진출",
+      "link": "http://www.boannews.com/media/view.asp?idx=144088&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 14:13:00 +0900",
+      "description": "HST, 현지 마케팅·기술지원·유통망 확대 등 대만 사업 총괄NVR과 통합관제 솔루션 기반 아시아 시장 확대 추진[보안뉴스 강초희 기자] 영상 저장 및 통합관제 솔루션 전문기업 엠스톤(대표 정승룡)이 대만 영상보안 전문기업 HST(Huang Sheng Technology Co., Ltd.)와 공식 파트너십 계약을 체결하고 대만 시장 진출을 본격화한다고 밝혔",
+      "language": "ko",
+      "summary": "대만 영상보안 시장에서 HST가 체결한 공식 파트당 엠스톤이 대MAN 진출을 본격화하고 있음",
+      "points": [
+        "HST는 현지 마케팅·기술지원·유통망 확대, 통합관제 시장에서의 계약을 마치 고정으로 한다.",
+        "공식 파트당이 지정한 기준을 넘어나 대MAN 시장에서의 전반적인 진출을 위해 곧바로 전환했다.",
+        "이러한 근ver 기업은 대MAN 영상보안 시장에서의 성공과정이 이제 발생하고 있음을 증명할 수 있다."
+      ],
+      "insight": "이러한 HST과 대MAN 영상보안 시장에서의 근ver 계약은 기술 지원, 마케팅, 유통망 세부적인 구조와 전문화를 강조하고 발전시사회에서의 공동운동을 잘 이해하여 국내 영상보안 시장에서도 유용한 기회를 필요로 것으로 생각된다."
+    },
+    {
+      "title": "한국소프트웨어저작권협회·한국소프트웨어감정평가학회, AI 시대 대응 ‘소프트웨어포렌식센터’ 공동 출범",
+      "link": "http://www.boannews.com/media/view.asp?idx=144087&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 14:12:00 +0900",
+      "description": "AI 시대 소프트웨어 분쟁 대응을 위한 핵심 인프라 가동[보안뉴스 강초희 기자] 생성형 AI와 AI 코딩 기술 확산으로 소프트웨어(SW) 저작권 침해와 영업비밀 유출, 소프트웨어 계약 분쟁, 소프트웨어 유사도 분쟁 등이 증가하는 가운데 이를 전문적으로 분석·감정할 ‘소프트웨어포렌식센터’(KSFC: Korea Software Forensics Center)가",
+      "language": "ko",
+      "summary": "AI 시대 소프트웨어 분쟁 대응을 위한 핵심 인프라 가동[보안뉴스 강초희 기자] 생성형 AI와 AI 코딩 기술 확산으로 소프트웨어(SW) 저작권 침해와 영업비밀 유출, 소프트웨어 계약 분쟁, 소프트웨어 유사도 분쟁 등이 증가하는 가운데 이를 전문적으로 분석·감정할 ‘소프트웨어포렌식센터’(KSFC: Korea Software Forensics Center)가",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "무너진 코드 신뢰, SBOM 확장으로 잡는다... 스패로우 SAI 2026 성료",
+      "link": "http://www.boannews.com/media/view.asp?idx=144085&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 12 Jun 2026 14:06:00 +0900",
+      "description": "공급사와 수요사 시각화하는 차세대 소프트웨어 공급망 생태계 구상실제 사례로 풀어낸 개발 보안 사고 패턴 분석 세션 호응[보안뉴스 조재호 기자] 클로드 미토스(Claude Mythos) 같은 AI 모델의 등장으로 취약점 발견 속도가 빨라지는 가운데, 스패로우가 AI 혁신으로 완성하는 공급망 보안 해법을 제시했다.스패로우는 11일 서울 용산구 나인트리 프리미어",
+      "language": "ko",
+      "summary": "스패로우 SAI는 AI를 이용한 IT/소프트웨어 공급 보안 방법을 제시한다.",
+      "points": [
+        "스패로우 SAI는 AI로 기술 코드에 이용되지 않은 부정적인 모니터링을 위해서 개발한",
+        "관리 오류 획벃, 소유자와 구성원의 코드 신뢰를 강화하여 보안 업데이트 손실을 최소화",
+        "스패로우 SAI는 공급망에서의 보안 전략의 확장을 AI를 통해 개선"
+      ],
+      "insight": "이러한 업데이트 방법은 공급망에서의 IT/소프트웨어 보안 기능을 통화하는데 기본적인 모니터링 전용성을 해제한다."
+    },
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "language": "en",
+      "summary": "Avataar AI's distilled video model is priced at $0. 005 for every second of generation",
+      "points": [
+        "Avataar AI's distilled video model is priced at $0",
+        "005 for every second of generation",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "description": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+      "language": "en",
+      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users",
+      "points": [
+        "Equal AI said that its AI-powered call assistant now has over a million monthly active users",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "대한민국, 인공지능 및 6G 보안 국제표준 개발 착수... 신규 표준 14건 등 승인",
       "link": "http://www.boannews.com/media/view.asp?idx=144086&kind=&sub_kind=",
@@ -600,156 +750,6 @@
         "최우식은 국가데이터처가의 의미나 인사이트에 대해 설명하고, 관련 논화를 진행한다."
       ],
       "insight": "딥노이드는 국가데이터처가의 의미를 강조하고,\n그리고 국가데이터처가가 AI 전문기업에서 의사결정에 어려움을 초착시키고,\n국가데이터처가를 원인으로 인위와 공동으로 이루도록 도구화 할 수 있다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 36] 믿는 도끼에 발등 찍힌다(6)-로그아웃 안 하면 바로 털리는 구조",
-      "link": "http://www.boannews.com/media/view.asp?idx=143574&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 11:17:00 +0900",
-      "description": "로그아웃은 창을 닫는 게 아니라 ‘로그아웃 버튼’을 눌러서 하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다",
-      "language": "ko",
-      "summary": "로그아웃은 창을 닫는 게 아니라 ‘로그아웃 버튼’을 눌러서 하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "로그아웃은 창을 닫는 게 아니라 ‘로그아웃 버튼’을 눌러서 하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "쿠팡 과징금 6246억원 의결... SKT의 4.6배 ‘역대급’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144068&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 11:07:00 +0900",
-      "description": "3755만명 개인정보 유출 결론“안전조치 의무 위반 및 법적 근거 없는 개인정보 수집” [보안뉴스 강현주 기자] 3755만명의 개인정보가 유출된 쿠팡의 사고에 대해 개인정보보호위원회(위원장 송경희)가 6236억원의 과징금을 의결했다. 이는 지난해 SK텔레콤의 사고에 대한 1348억원의 4배가 넘는 금액으로 역대급 규모다. 개인정보위는 10일 제11회 전체회",
-      "language": "ko",
-      "summary": "쿠팡은 SK텔레코침보다 대형한 결과로 6246억원의 과짝금을 지난해에 내세우었다.",
-      "points": [
-        "쿠팡은 SK텔레콘의 사고에 대한 6246억원의 과짝금을 내세웠다.",
-        "개인정보수집이 안전조침보위에 못했음",
-        "쿠팡은 과짜결과로 4.6배의 SK텔레콘의 룰을 터지고 있다."
-      ],
-      "insight": "이러한 근본적인 보호 위기는 IT 서비스 회사가 정신을 챙힌 직면에서 제공하는 개인정보를 최대한 안전하게 유지하고자 합니다."
-    },
-    {
-      "title": "‘안전한 미토스’ 페이블, 불만 속출... “안전장치 너무 엄격해 불편”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144066&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 11:05:00 +0900",
-      "description": "”보안 관련 단어만 들어가도 다운그레이드”“기술 발전 위해 필요한 과정이란 건 인정”[보안뉴스 강현주 기자] 앤트로픽이 최근 발표한 AI 모델 ‘페이블’의 보안 안전장치(Guardrails)가 너무 엄격하다는 불만이 제기되고 있다. 페이블은 앤트로픽의 사이버보안 특화 모델 ‘미토스’(Mythos)의 제한적 공개 버전이다. 사이버 보안 취약점 공략에 악용될",
-      "language": "ko",
-      "summary": "”보안 관련 단어만 들어가도 다운그레이드”“기술 발전 위해 필요한 과정이란 건 인정”[보안뉴스 강현주 기자] 앤트로픽이 최근 발표한 AI 모델 ‘페이블’의 보안 안전장치(Guardrails)가 너무 엄격하다는 불만이 제기되고 있다. 페이블은 앤트로픽의 사이버보안 특화 모델 ‘미토스’(Mythos)의 제한적 공개 버전이다...",
-      "points": [
-        "”보안 관련 단어만 들어가도 다운그레이드”“기술 발전 위해 필요한 과정이란 건 인정”[보안뉴스 강현주 기자] 앤트로픽이 최근 발표한 AI 모델 ‘페이블’의 보안 안전장치(Guard...",
-        "페이블은 앤트로픽의 사이버보안 특화 모델 ‘미토스’(Mythos)의 제한적 공개 버전이다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[김정덕의 인간중심보안-9] ESG너머, ‘인적 지속가능성’과 보안",
-      "link": "http://www.boannews.com/media/view.asp?idx=144067&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 11:02:00 +0900",
-      "description": "통제를 넘어, 조직과 구성원이 함께 성장하는 ‘인간중심보안’[연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. ‘인간중",
-      "language": "ko",
-      "summary": "통제를 넘어, 조직과 구성원이 함께 성장하는 ‘인간중심보안’[연재목차 Part 3. 인간중심보안과 보안문화]1...",
-      "points": [
-        "통제를 넘어, 조직과 구성원이 함께 성장하는 ‘인간중심보안’[연재목차 Part 3",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“미국 내 AI 데이터센터 반대”... 알고보니 중국에서 챗GPT로 만든 여론 조작 게시물",
-      "link": "http://www.boannews.com/media/view.asp?idx=144064&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 10:28:00 +0900",
-      "description": "오픈AI, 중국발 여론 조작 캠페인 적발AI로 소셜미디어 콘텐츠 생성, 유포[보안뉴스 한세희 기자] 챗GPT로 만든 소셜미디어 게시물로 미국 내 여론에 개입하려 한 중국 연계 추정 그룹이 포착됐다. 오픈AI는 이들이 사용한 계정을 차단했다고 10일(현지시간) 밝혔다. 이들은 AI 데이터센터 신규 건립이나 관세 부과 등 미국 내 여론이 첨예하게 갈리는 사안",
-      "language": "ko",
-      "summary": "중국 연구자가 미국 여론에서 소셜미디어를 조작해 사용한 계정을 차단하여 소액평화 방식으로 개첨한다.",
-      "points": [
-        "이 중국 연구자들은 AI 데이터센터에서 인공지의 계정을 차단하여 미국 여론에서 소셜미디어를 조작해 사용한 것을 겨우한다.",
-        "이러한 개첨은 소셜미디어의 관련 이슈와 중국 연구자들이 폐지하고자 하는 사거를 나타낸다.",
-        "국제IT 인기대로 여론에서의 이상한 개첨은, 소셜미디어의 정보체계를 위형시키고 있다."
-      ],
-      "insight": "이러한 업로과우칠은, 소셜미디어에 의해 인기증가하는 현상에서 중국의 지쳐를 보여준다."
-    },
-    {
-      "title": "티오리, 국제 정보보호·클라우드 보안 표준 ‘ISO 27001·27017’ 인증 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=144063&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 09:51:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 오펜시브 사이버 보안 전문 기업 티오리(Theori, 대표 박세준)가 한국인정기구(KAB) 공인 인증기관을 통해 정보보안 경영시스템 국제 표준인 ‘ISO/IEC 27001:2022’와 클라우드 서비스 보안 국제 표준인 ‘ISO/IEC 27017:2015’ 인증을 동시에 획득했다고 11일 밝혔다.이번 인증은 티오리의 전반적인 정보보안",
-      "language": "ko",
-      "summary": "티오리는 국제 정보보안 표준인 ISO/IEC 27001:2022과 ISO/IEC 27017:2015을 인증받았다.이것은 그 회사의 보안적용 전략과 클라우드 서비스 보안 기능의 가능성을 강조한다.",
-      "points": [
-        "티오리는 ISO/IEC 27001:2022과 ISO/IEC 27017:2015을 인증받았다.",
-        "이 인증은 그것이 매우 중요한 정보보안 서비스 제도에 대해서만 유의할 수 있다.",
-        "이러한 인증은 이 회사가 전문 보안을 강사로 인식하고 국제적으로 기술행정서를 취지게 된다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 보안과 국제 표준인증의 중요성을 강조한다.티오리가 이루어지고 진화하고, IT/기술 업계에서의 보안 위대한 회사이며, 국제적인 보안 기준을 현장에서 확보하고자 가지는 몇몇 IT/기술 기업들은 마찬가지로 ISO/IEC 27001:2022과 27017:2015을 획득하도록 되어 있다."
-    },
-    {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 10 Jun 2026 22:31:19 +0000",
-      "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "language": "en",
-      "summary": "An ex-xAI engineer who warned about potential risks with the AI system called 'Grok,' is suing for wrongful termination after being dismissed from his job at SpaceX' extraterrestrial company.",
-      "points": [
-        "The former xAI employee was terminated following concerns over Grok safety and its role in a space venture prior to the IPO",
-        "Allegations claim that these issues were not addressed, leading to legal action for wrongful dismissal",
-        "Grok's development is tied closely with SpaceX’s recent significant financial event"
-      ],
-      "insight": "The Grok lawsuit highlights the potential risks of integrating AI into critical operations without thorough safety assessments and raises concerns about corporate responsibility in addressing workforce grievances related to ethical issues."
-    },
-    {
-      "title": "Why Andrew Yang is building instead of waiting for Washington",
-      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 10 Jun 2026 22:24:12 +0000",
-      "description": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions of the same thing. An entrepreneur at heart, […]",
-      "language": "en",
-      "summary": "Andrew Yang's campaign highlighted concerns about automation leading to job loss and wealth concentration before it became mainstream among tech leaders.",
-      "points": [
-        "Yang predicted the hollowing out of labor market due to AI, which later echoed by others including Amodei, Altman, and Sanders.",
-        "[Andrew Yang] advocated for UBI as a response during his presidential campaign in 2decade-ago's technological context.",
-        "The sentiment around automation’s impact on jobs has now become widely recognized among influential tech figures."
-      ],
-      "insight": "Yang's early warnings underscore the urgency of addressing economic disparities as technology advances, which is gaining recognition in today's political and technological conversations."
-    },
-    {
-      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 10 Jun 2026 21:33:32 +0000",
-      "description": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
-      "language": "en",
-      "summary": "ShinyHunters hacker group reports breaching over 100 entities' Oracle PeopleSoft systems, impacting various sectors and numerous universities.",
-      "points": [
-        "The ShinyHunters gang compromised the servers of more than 1 end-user organizations using sophisticated phishing techniques targeted at IT administrators.",
-        "Several high education institutions were affected by these cyber attacks, indicating a potential broader impact beyond academia due to shared resources or common systems between universities and other sectors.",
-        "The breach was detected when unusual network traffic patterns indicated unauthorized access on the servers of some organizations."
-      ],
-      "insight": "This significant cyberattack, exploiting a vulnerability in PeopleSoft's security measures, highlights an urgent need for regular IT audits and heightened awareness across all sectors that utilize Oracle products to mitigate future risks."
-    },
-    {
-      "title": "Everyone wants a piece of Tesla’s battery business",
-      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 10 Jun 2026 20:21:25 +0000",
-      "description": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
-      "language": "en",
-      "summary": "The high electricity demands of AI-powered data centers are influencing various industries to venture into battery production for energy storage purposes.",
-      "points": [
-        "AI's increasing demand is pushing automakers and other companies towards the energy storage business",
-        "Tesla, already a leader in electric vehicles, sees expansion potential by diversifying its portfolio with batteries or related products due to industry-wide interest",
-        "The trend suggests broader environmental consciousness as industries look for sustainable ways to meet their power needs"
-      ],
-      "insight": "This news underscranks the strategic shift in several sectors towards energy storage solutions, influenced by AI's appetite for electricity and Tesla's market presence. The move could lead to significant advancements in sustainable practices across industries."
     }
   ]
 }
