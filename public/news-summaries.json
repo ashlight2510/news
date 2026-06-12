@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-12T10:23:41.197Z",
+  "generatedAt": "2026-06-12T14:58:04.772Z",
   "articles": [
+    {
+      "title": "SpaceX IPO: Everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "language": "en",
+      "summary": "SpaceX plans for an Initial Public Offering (IPO), revealing insights into their financials through the company’s S-1 filing.",
+      "points": [
+        "Elon Musk's SpaceX is preparing to go public with its initial IPO, potentially disrupting traditional aerospace industries.",
+        "The document outlines costs and revenues for various space launch services provided by SpaceX over the years.",
+        "Investors are shown interest in SpaceX due to ambitious goals of interplanetary colonization."
+      ],
+      "insight": "SpaceX's IPO underscores a significant shift towards commercializing space travel and may stimulate competition within both public and private sectors aiming for market share expansion through innovative, cost-effective solutions in the skyward industry. The company’s success thus far suggests that investors might continue to see profitable returns as they back SpaceX's long-term vision."
+    },
+    {
+      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
+      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 11:43:32 +0000",
+      "description": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
+      "language": "en",
+      "summary": "US spy law Section 702 is set to expire after Congress rejects President Trump's controversial surveillance nominee.",
+      "points": [
+        "Congress rejected the NSA chief and FBI director candidates proposed by President Trump",
+        "Section 702, which permits warrantless domestic spying on Americans without a court order under national security justification, is nearing expiration",
+        "The law will be reauthorized soon unless Congress acts to extend it"
+      ],
+      "insight": "With the impending expiration of Section 702 and unresolved surveillance nominees for key spy agency positions, there may be significant changes in US domestic intelligence gathering methods."
+    },
     {
       "title": "[카드뉴스] “해킹 아니라 업데이트인데 수술실 마비?”… 미 FDA 패치 의무화가 부른 병원 전산망의 역설",
       "link": "http://www.boannews.com/media/view.asp?idx=144093&kind=&sub_kind=",
@@ -720,36 +750,6 @@
         "이러한 모델맨은 모바일 비전시스톯, 다리미너 관계 및 여러 기체에서 활용되어 디지털트윈 세균산화와 인터럽셔스의 경로를 통해 사용됩니다."
       ],
       "insight": "이 기사는 CVPR 2026에서 모빌테크가 가장 우수한 '디지털트윈 3D 모델맨'을 제시하여, 이를 균일한 다양한 기술과 인체에서의 연구로 인한 몇몇 인상적인 진행 사유입니다."
-    },
-    {
-      "title": "세이지, 과기정통부 ‘글로벌 ICT 미래 유니콘 육성기업’ 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144071&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 11:20:00 +0900",
-      "description": "비전 AI 기반 제조 자동화·자율 제조 에이전틱 AI 기술력 인정삼성SDI·LG에너지솔루션 레퍼런스 보유 제조 AI 강자 인정 [보안뉴스 강초희 기자] 세이지(공동대표 박종우·홍영석)가 과학기술정보통신부(장관 배경훈)가 주관하는 ‘글로벌 ICT 미래 유니콘 육성사업’(ICT GROWTH) 선정기업으로 이름을 올렸다. 세이지는 10일 롯데호텔 서울에서 열린",
-      "language": "ko",
-      "summary": "세이지는 '글로벌 ICT 미래 유니콘 육성사업'을 선정한다.",
-      "points": [
-        "세이지(Synnex)이 과학기술정보통신부(GSMA)가 찾는 모든 IT/기술 업체로 인한 공유",
-        "이러한 선정의 시기에서 세상에서 큰 전문성과 활용의 능더리칭을 나타내는 것으로",
-        "이를 통해 ICT 레시픽사업의 중요성이 강조되고, Synnex가 이러한 선정에서 전문성을 인정"
-      ],
-      "insight": "세일로는 글로벌 ICT 육성사업의 선정는 Synnex의 필자상이며, IT/기술 업체에서 이러한 선정은 커다란인지를 나타내며."
-    },
-    {
-      "title": "딥노이드, 국가데이터처장 만나 국가데이터 정책 관련 의견 개진",
-      "link": "http://www.boannews.com/media/view.asp?idx=144069&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 11:19:00 +0900",
-      "description": "안형준 처장, 국내 AI 전문기업 딥노이드 본사 방문국내 1세대 AI 전문기업으로 데이터 분석 역량 인정받아 의견 개진 대상으로 선정[보안뉴스 강초희 기자] 딥노이드(대표 최우식)는 지난 10일 서울 딥노이드 본사에서 안형준 국가데이터처장과 만나 국가데이터 정책에 관한 기업 입장에서 의견을 개진하고 관련 논의를 진행했다고 밝혔다. 이번 회동은 국가데이터처가",
-      "language": "ko",
-      "summary": "기사는 국가데이터 정책에 대한 의견 개진으로 장려한다.",
-      "points": [
-        "국가데이터처 선정자 딥노이드는 국내 AI 전문기업에서 의견을 개진하고 국가데이터 정챴에 대한 관련 논의를 통해 국가데이터처가 필요성을 강조한다.",
-        "딥노이드는 국가데이터처가는 관련 정챨의 모습과 일부 개인이 정의를 설명하고 있다.",
-        "최우식은 국가데이터처가의 의미나 인사이트에 대해 설명하고, 관련 논화를 진행한다."
-      ],
-      "insight": "딥노이드는 국가데이터처가의 의미를 강조하고,\n그리고 국가데이터처가가 AI 전문기업에서 의사결정에 어려움을 초착시키고,\n국가데이터처가를 원인으로 인위와 공동으로 이루도록 도구화 할 수 있다."
     }
   ]
 }
