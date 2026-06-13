@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-13T13:58:45.383Z",
+  "generatedAt": "2026-06-13T19:26:01.737Z",
   "articles": [
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "language": "en",
+      "summary": "Andy Jassy expressed worries about Amazon's AI safety which may have prompted Antropic to restrict global use of their models.",
+      "points": [
+        "CEO Andy Jassy reportedly raised Anthropic model concerns, leading to worldwide access cut off for two models",
+        "Anthropic responded by suspending the affected AI systems following a review prompted by Amazon' extramural comments.",
+        "Jassy highlights challenges in ensuring ethical and safe development of artificial intelligence technologies."
+      ],
+      "insight": "This incident suggests that external scrutiny can influence AI companies to take preemptive safety measures, reflecting the growing importance of responsible AI practices within the tech industry."
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "language": "en",
+      "summary": "State attorneys general across various unspecified US jurisdictions have initiated an investigation into OpenAI regarding concerns about their advertising practices and treatment of sensitive personal information such as health data.",
+      "points": [
+        "The multi-state investigation led by the AGs seeks to scrutinize potential violations in OpenAI's handling of user privacy, particularly concerning ad policies and management of protected health information (PHI).",
+        "No specific allegations are mentioned; however, questions have been raised about whether AI research conducted on sensitive data could be misused or lead to unintended negative consequences.",
+        "The AGs' inquiry signals growing regulatory interest in the governance and oversight of artificial intelligence entities that handle large quantities of user-generated content."
+      ],
+      "insight": "This investigation into OpenAI by state attorneys general suggests increasing scrutiny over AI companies, especially regarding how they manage sensitive information like health data. It underscores the need for transparent and responsible handling practices as part of building trust in AI technologies."
+    },
+    {
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 13 Jun 2026 16:00:00 +0000",
+      "description": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at […]",
+      "language": "en",
+      "summary": "The article shares the author's personal struggle with insomnia and how they found relief using a thin under-pillow speaker that plays audio like podcasts or rain sounds without needing earbuds.",
+      "points": [
+        "The use of an under-pillow speaker to aid sleep is highlighted as the key solution for someone with insomnia and chronic overthinking habits, avoiding discomfort from traditional earbuds and being considerate about noise pollution when staying in shared spaces.",
+        "Sleep aids such as audio playback are suggested not only to help fall asleep but also serve the purpose of keeping busy minds occupied with content like podcasts or rain sounds, indicating personalized sleep sound preferences can be catered through technology.",
+        "The under-pillow speaker's convenience and effectiveness demonstrate a growing trend in integrating audio experiences into nightly routines to improve sleep quality for those who have difficulty falling asleep."
+      ],
+      "insight": "This news illustrates the increasing personalization of technology solutions aimed at common issues like insomnia, offering non-invasive and considerate methods to enhance individuals' wellbeing by using ambient sounds or curated audio experiences without disturbing others in shared living spaces."
+    },
     {
       "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
       "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
@@ -705,51 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
-      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 17:00:00 +0000",
-      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
-      "language": "en",
-      "summary": "A new tool developed by Coinbase enables agents to trade cryptocurrencies more efficiently while accessing valuable research data through an API.",
-      "points": [
-        "Coinbase has introduced a proprietary agent that leverages the x402 protocol for enhanced access to blockchain analytics and market insights, empowering traders with real-time information crucial for making informed decisions in volatile markets like cryptocurrency.",
-        "The integration of this tool within Coinbase' extranet allows agents who need specialized knowledge or tools not readily available on the platform to benefit from tailored research and analytical resources directly relevant to their trading activities. This move signifies a strategic expansion into providing added value services beyond mere asset holding.",
-        "Coinbase is positioned as an innovation leader by developing technologies that help reduce information asymmetry, which historically has been one of the biggest hurdles for retail investors trying to compete with more sophisticated market participants."
-      ],
-      "insight": "This development from Coinbase could potentially reshape competitive dynamics within the crypto trading industry by leveling information access and providing personalized analytics, thus democratizing knowledge that was previously concentrated among a few informed players in high-stakes markets."
-    },
-    {
-      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
-      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 16:59:28 +0000",
-      "description": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
-      "language": "en",
-      "summary": "Despite common belief that Special Purpose Acquisition Companies (SPACs) are obsolete in the tech sector post-SpaceX's IPO success, Quantum Space is seeking a $1.2 billion investment to develop military spacecraft through its SPAC.",
-      "points": [
-        "Quantum Space launches as an independent entity with initial public offering plans for upcoming months.",
-        "The company will focus on building technology that replaces or complements the current GPS system, and provide more accurate navigation services in space using quantum sensors. This is set to have a massive impact across multiple industries relying heavily on precise navigational data including defense sectors like Quantum Space.",
-        "Quantum Space's SPAC raises $465 million for its IPO, which will be listed at the New York Stock Exchange under ticker symbol QS-1."
-      ],
-      "insight": "This development suggests that despite recent setbacks in tech sector SPAC valuations and performance post SpaceX's successful public offering, Quantum Space is confident about its business model. Its focus on a niche yet significant military application of quantum technology could potentially drive growth for the company as well as open up new opportunities within this specific industry."
-    },
-    {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 16:36:20 +0000",
-      "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-      "language": "en",
-      "summary": "A new feature by Deezer allows for the identification of AI-generated tracks across various music streaming services like Spotify and Apple Music.",
-      "points": [
-        "Deezer has developed a tool to recognize AI-created songs on multiple platforms",
-        "The technology raises concerns about authenticity in digital music content",
-        "Musicians could potentially use Deezer's findings as evidence of plagiarism"
-      ],
-      "insight": "Deezer’s tool not only showcases the prevalence of AI-generated music but also highlights a growing issue with authenticity and copyright infringement within the digital music industry."
     }
   ]
 }
