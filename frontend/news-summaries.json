@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-06-12T20:15:14.313Z",
+  "generatedAt": "2026-06-13T03:48:28.892Z",
   "articles": [
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "language": "en",
+      "summary": "Anthropic criticizes the government's decision to suspend its AI system based on safety concerns, arguing that such measures are disproportinately influenced by narrow perspectives and fear of jailbreaking scenarios.",
+      "points": [
+        "The US Defense Advanced Research Projects Agency (DARPA) found a potential 'jailbreak' vulnerability in Anthropic’s ChatGPT that could allow users to escape content moderation, leading DARPA and the Biden administration to suspend its use.",
+        "Anthropi criticizes this move as being disproportionately influenced by narrow perspectives on AI safety rather than a well-rounded understanding of potential issues with ChatGPT's outputs across diverse contexts.",
+        "The company highlighted that they found no evidence supporting the jailbreak scenario in their internal research and believes this approach could stifle beneficial innovations like text completion tools."
+      ],
+      "insight": "This controversy may prompt broader discussions about AI safety measures, risk assessment methodologies, content moderation practices within large language models, as well as the potential impact on public perception and adoption of such technologies in different contexts across various industries."
+    },
+    {
+      "title": "국내서 ‘클로드 페이블5’ 모델 접근 막혔다... 미 정부, 앤트로픽에 외국 접속 금지 명령",
+      "link": "http://www.boannews.com/media/view.asp?idx=144099&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 13 Jun 2026 10:50:00 +0900",
+      "description": "미국 내 외국인도 접근 못해앤트로픽, “정부 명령 따르겠지만, 동의할 순 없어” [보안뉴스 한세희 기자] 미국 정부가 앤트로픽 최신 AI 모델에 대한 외국인의 접근을 금지했다. 앤트로픽은 12일(현지시간) 정부가 앤트로픽의 최신 AI 모델 ‘페이블5’와 ‘미토스5’에 대한 외국인의 접근을 중단하라는 수출 통제 지침을 발표했다고 밝혔다. 이 조치는 미국 내",
+      "language": "ko",
+      "summary": "앤트로픽에서 미국 정부가 외인의 '클로드 페이블5' AI 모델 접근을 금지했다.",
+      "points": [
+        "정부가 앤트로픽의 모델 '클로드 페이블5'과 '미토스5'에 대한 외인 접근을 중단",
+        "지급시간 발표 때문에 여러분은 모델이 어떻게 만들어질까?",
+        "앤트로픽에서 이러한 조건을 작성하여 미국 내 외인의 AI 모델이 이용되지 않도록 요약"
+      ],
+      "insight": "이러한 금지 명령은 미국의 정보체제 활동에 대해 중요한 시사로 나타내고 있습니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 티빙 유출 사태 책임, 쿠팡보다 가벼울까",
+      "link": "http://www.boannews.com/media/view.asp?idx=144098&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 13 Jun 2026 09:57:00 +0900",
+      "description": "‘오리지널’ 콘텐츠 개발, 회원 확장에만 골몰... 기본 보안 원칙 무시 [보안뉴스= 배종찬 인사이트케이 연구소장] 디지털 플랫폼 생태계가 유례없을 정도로 거대한 보안 충격에 직면해 있는 상황이다. 국내 대표 OTT 플랫폼 중 하나인 티빙(TVING)에서 발생한 대규모 개인정보 유출 사고와 국내 최대 이커머스 기업인 쿠팡에 대한 역대급 과징금 제재는 우리가",
+      "language": "ko",
+      "summary": "국내 대표 OTT 플랫포인드 TVING에서 거대한 보안 위기에 직면해진 덕분은 그의 개인정보 유출 사고와 국내 대규모 티빙 전용회원 확장으로부터 시작한 이커머스 질보법적인 과징금 제재의 문제점을 강조.",
+      "points": [
+        "국내 대플랜드 TVING에서 국내 대규모 개인정보 유출 사고가 일어나고, 이로부터 TVING는 개인정보 보호를 강조한다.",
+        "티빙의 광고적인 과징금 제재에 대해서도 상세히 살아가기는 어려움을 보여준다.",
+        0
+      ],
+      "insight": "발침이 많은 국민에게 TVING과 티빙이 개인정보 보호적차를 강조해서, 이로부터 시대가 바뀔 이유를 포ystem화하기도 했다."
+    },
+    {
+      "title": "[PIS FAIR 2026 미리보기] 시큐와우, 지능형 악성메일 훈련 솔루션 ‘WMTS’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144007&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 13 Jun 2026 09:01:00 +0900",
+      "description": "정교한 시나리오와 맞춤형 분석으로 실전형 보안 위협 선제 대응대용량 첨부파일 실행뿐 아니라 실제 다운로드 여부까지 정밀하게 파악[보안뉴스 엄호식 기자] 생성형 AI를 악용한 정교한 피싱 공격이 급증하면서 임직원 대상의 실전형 보안 훈련 중요성이 커지고 있다. 단순한 교육을 넘어 실제 공격과 유사한 환경에서 대응력을 높이는 모의훈련 솔루션이 기업 보안의 핵심",
+      "language": "ko",
+      "summary": "미리보기 기사는 WMTS, AI로 인위염을 이용한 대처에 대해서, 'AI를 이용한 정밀한 피싱 공지'과 '무분약 균형을 유지하는 AI 모의훈련' 그리고 공격없이 보안을 강화할 수 credx인 모의훈련 전략이 '기술 보안운영의 중요성에 대한 주장'로 요약한다.",
+      "points": [
+        "WMTS, AI로 인위염을 이용한 극단적인 공격으로 보안 설정에 대한 급향하며",
+        "AI를 이용해서 학습훈련을 위해 다양한 인위염 종류를 만들어내며, '무분약 균형을 유지하며 공격자의 미래를 예측할 수 있도록 대응'",
+        "기술 보안운영에 중요한 역할을 통해, 실제 공격에서의 웹사항과 비슷한 환경을 만듭니다."
+      ],
+      "insight": "이 기사는 IT/기술 업계가 보안에 대해 아주 중요하게 고민해야함을 강불한다. WMTS 공개는 기술 사회에서의 '공격자 그래프'를 이해하고 직접 제어할 수 있도록 도케주어가 필요로 보이는 것이다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 38] 믿는 도끼에 발등 찍힌다(8)-인터폰 가림막 하나가 만드는 보안 사각지대",
+      "link": "http://www.boannews.com/media/view.asp?idx=143576&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 13 Jun 2026 08:56:00 +0900",
+      "description": "현관문 앞에 카메라(인터폰)를 가리는 물건이 없는지 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다.",
+      "language": "ko",
+      "summary": "현관문에 위치한 보안 도구가 필요없는 이유로서 기술과 보안습객의 발전이 우리에게 중요하다.",
+      "points": [
+        "보안 사고는 90%가 합몰로 인식되지만 해당층은 공백이 나오지 않음",
+        "보안 습객은 기술보다 습객이 필요",
+        0
+      ],
+      "insight": "일상적인 보안이 중요하지만 스마트폰, PC, 인터넷 등의 기기에서도 공백을 주로 시작하는 습객들이 있어 충막하게 보안적이 없는지를 확인해야 한다."
+    },
+    {
+      "title": "유로폴, 랜섬웨어 업자 자금 세탁 조직 ‘아우디A6’ 해체",
+      "link": "http://www.boannews.com/media/view.asp?idx=144096&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 13 Jun 2026 08:53:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 유럽사법협력기구(유로폴)이 전 세계 랜섬웨어 범죄자들의 검은돈 약 3억8000만 달러(한화 약 5000억원)를 세탁해 준 대형 가상자산 세탁 서비스 ‘아우디A6’(AudiA6)를 국제 수사 당국 공조로 해체했다.11일(현지시간) 외신 보도에 따르면, 유로폴은 이번에 적발된 ‘아우디A6’ 서비스가 최소 15건 이상의 국제 랜섬웨어 공",
+      "language": "ko",
+      "summary": "[보안뉴스 강현주 기자] 유럽사법협력기구(유로폴)이 전 세계 랜섬웨어 범죄자들의 검은돈 약 3억8000만 달러(한화 약 5000억원)를 세탁해 준 대형 가상자산 세탁 서비스 ‘아우디A6’(AudiA6)를 국제 수사 당국 공조로 해체했다. 11일(현지시간) 외신 보도에 따르면, 유로폴은 이번에 적발된 ‘아우디A6’ 서비스가 최소 15건 이상의 국제 랜섬웨어 공",
+      "points": [
+        "[보안뉴스 강현주 기자] 유럽사법협력기구(유로폴)이 전 세계 랜섬웨어 범죄자들의 검은돈 약 3억8000만 달러(한화 약 5000억원)를 세탁해 준 대형 가상자산 세탁 서비스 ‘아우...",
+        "11일(현지시간) 외신 보도에 따르면, 유로폴은 이번에 적발된 ‘아우디A6’ 서비스가 최소 15건 이상의 국제 랜섬웨어 공",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "language": "en",
+      "summary": "Engineers at Meta's AI division claim working conditions are dehumanizing and stressful.",
+      "points": [
+        "Meta's engineers describe the work environment as soul-crushing with strict hierarchies that stifle creativity, leading to a loss of identity among staff members.",
+        "The unit has been in operation for months without apparent progress or tangible results despite hiring 6,500 employees and investing heavily into research facilities and equipment.",
+        "Employees report exhaustion due to excessive work hours with insufficient breaks. High-pressure situations often lead engineers towards unethical practices as a last resort."
+      ],
+      "insight": "The AI unit's internal culture may signal deeper issues within Meta, potentially affecting its ability to innovate and retain talent in the highly competitive tech industry."
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "language": "en",
+      "summary": "Google has sued the Chinese cybercrime operation 'Outsider Enterprise,' which reportedly used AI to scam hundreds of thousands by sending around 2.5 million text messages.",
+      "points": [
+        "The lawsuit was filed against a group called Outsider Enterprise based in China for utilizing artificial intelligence techniques to defraud numerous individuals, with the operation distributing about 2.5 million automated SMS scams over two weeks.",
+        "'Outsider Enterprise' is accused of employing sophisticated AI algorithms that allowed them to craft convincing texts designed to trick victims into providing personal information or money without their consent, which raises concerns regarding the advancing capabilities of cybercriminals and calls for stricter regulatory measures.",
+        "Google's decision highlights growing issues related to tech-facilitated fraud in China despite previous warnings from Google about such activities."
+      ],
+      "insight": "The lawsuit against Outsider Enterprise by a major technology firm like Google underscores the increasing sophistication of cybercrime methods, particularly with AI involvement. It also points to potential gaps in regulations and enforcement within China's legal system that are enabling such fraudulent activities."
+    },
+    {
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 12 Jun 2026 20:20:00 +0000",
+      "description": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+      "language": "en",
+      "summary": "SpaceX's highly-anticipated IPO closed up by 19%, exceeding the expected range of between $60 and $80 per share.",
+      "points": [
+        "The SpaceX IPO opened with shares traded at more than twice its initial offering price, closing higher on Friday.",
+        "Shares rose to close above their pre-IPO valuation by about two fold as well in the first five minutes of listing",
+        "SpaceX has raised over $1.65 billion from this IPO alone after pricing at almost twice its last private funding round."
+      ],
+      "insight": "This historic SpaceX IPO not only showcases significant investor confidence, but also highlights the potential for space-related tech companies to tap into public markets successfully. The substantial capital raised could accelerate innovation and commercialization in aerospace technology."
+    },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -615,141 +750,6 @@
         "- Along with this cash back scheme and free cancellations, members are also offered exclusive access to special promotions."
       ],
       "insight": "The loyalty program could be a strategic move by Waymo as it seeks to retain users while expanding its service offering in the autonomous vehicle market. Offering financial benefits and free cancellations may increase customer retention, contributing positively towards building user trust."
-    },
-    {
-      "title": "Pool’s new app turns your screenshots into something useful",
-      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 15:30:00 +0000",
-      "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-      "language": "en",
-      "summary": "Pool's new app transforms screenshots into organized collections with attached links for easy access back to original content.",
-      "points": [
-        "The Pool app creates personalized collections from saved screenshots and tracks the corresponding web pages or URLs.",
-        "It aims to simplify finding previously captured information by storing it in an easily accessible format within the user'static memory. The integration with Google Chrome is one way of accomplishing this, potentially easing frustration for users who frequently save content online only to forget where they found it later on. Notably, as most people use apps and tools like image capture (e.g., screenshot) software but have difficulties recalling the sources behind their captured data.",
-        "Pool's app not only organizes saved screenshots into collections for easy retrieval but also assists in reconnecting with past content by storing associated links to original resources."
-      ],
-      "insight": "The Pool application could significantly impact information management within the IT/technology industry, as it streamlines a common and often frustrating experience: forgetting where saved online data originated. The integration of this functionality into everyday apps such as screenshot tools or browsers may become increasingly popular."
-    },
-    {
-      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
-      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 15:00:00 +0000",
-      "description": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
-      "language": "en",
-      "summary": "Microsoft has partnered with Indian carbon removal startup Alt Carbon following over a year of research, which now requires further validation from the tech giant.",
-      "points": [
-        "Alt Carbon and Microsoft have agreed to form an alliance after thorough scientific review and due diligence",
-        "The deal was signed on Monday at Microsoft’s headquarters in Redmond. It is being hailed as a landmark for India's expanding role in the field of carbon removal.",
-        "Microsoft now requires additional verification measures from Alt Carbon"
-      ],
-      "insight": "This partnership signifies an increasing trend towards environmentally friendly tech practices within major IT corporations, highlighting a shift to greener methodologies."
-    },
-    {
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 14:23:43 +0000",
-      "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-      "language": "en",
-      "summary": "DoorDash introduces an AI chatbot named Ask DoorDash that enables users to search the app using natural language instead of scrolling through menus.",
-      "points": [
-        "Ask DoorDash allows ordering with voice commands or text prompts",
-        "The bot understands various user intents such as finding specific items, restaurants specializing in certain cuisines, and even providing photos for identification if requested by the customer.",
-        "Testing of Ask DoorDash shows that users can order using AI technology without extensive interaction."
-      ],
-      "insight": "This development marks a significant shift towards voice-assisted ordering experiences in ecommerce food delivery services, potentially setting new standards for user engagement and efficiency within the industry. The integration of visual components through photos indicates an ongoing trend to enrich customer experience beyond just text inputs."
-    },
-    {
-      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
-      "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 14:00:12 +0000",
-      "description": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
-      "language": "en",
-      "summary": "Endurance Energy, led by SpaceX alum Andrew Redd, secured $54 million to explore tapping into the ocean's massive reserves of untapped geothermal energy.",
-      "points": [
-        "Endurance Energy is a new company founded by former SpaceX employee with an investment firm backing them.",
-        "The startup has identified and secured significant funding for harnessing undersea thermal gradients as potential renewable sources of power on Earth.",
-        "This venture could disrupt the current energy industry dynamics, potentially leading to a more sustainable global power mix."
-      ],
-      "insight": "The investment in Endurance Energy signals increasing recognition within the IT/technology sector for innovative renewable resources beyond solar and wind. This development has substantial implications for future clean tech ventures by demonstrating strong capital interest, which could accelerate growth of similar initiatives globally."
-    },
-    {
-      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
-      "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 13:18:51 +0000",
-      "description": "South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers.",
-      "language": "en",
-      "summary": "In response to a significant data breach affecting millions of its users in South Korea, authorities have imposed the record-breaking fine on ecommerce giant Coupang.",
-      "points": [
-        "Coupang faces a $400M+ fine for a massive customer data breach",
-        "The cybersecurity incident affected over 30 million customers in South Korea alone, leading to this unprecedent penalty",
-        "This sets an industry precedent on the severity of penalties that can be imposed following significant data security lapses"
-      ],
-      "insight": "The hefty fine levied against Coupang sends a strong message about escalating consequences for failing to safeguard customer information and emphasizes growing regulatory oversight in the global IT/technology industry."
-    },
-    {
-      "title": "[단독] 솔루션 유지보수 바이텍시스템 랜섬웨어 감염... 삼성 등 고객사 정보 유출",
-      "link": "http://www.boannews.com/media/view.asp?idx=144081&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 21:44:00 +0900",
-      "description": "랜섬웨어 조직 킬린, 다크웹 사이트에 탈취 데이터 및 스크린샷 게시보안 관리로 뚫린 유지보수망 스피어 피싱 등 치명적 공급망 공격 우려[보안뉴스 조재호 기자] 국내 대기업과 금융권에 IT 솔루션 및 유지보수를 제공하는 전문기업 바이텍시스템이 랜섬웨어 조직의 공격을 받아 대규모 데이터 유출 사태가 발생했다. 고객사의 핵심 시스템을 관리하는 유지보수 업체의 특",
-      "language": "ko",
-      "summary": "고객사 정보 유출에 대한 게시보안이 위험한 공격 우려로 랜섬웨어 조직의 IT/기술 솔루션과 유지보수 제도가 시약하고 바이텍시스텝을 활용한 발생.",
-      "points": [
-        "랜섬웨어 조직의 IT/기술 제공에서 삼성과 다수 고객사가 공격해보았",
-        "바이텍시스텟이 매장별로 샵출정보를 보호하지 못한 상황임",
-        "전문가들은 공격에 의해 일부 시스템이 중즬접속을 제공하고 있는 지도염의 경우이다."
-      ],
-      "insight": "이러한 IT/기술 솔루션 보호 위기는 불안정 상황을 만들어내고, 긍정적으로 보면 해를 다시보일 수 있는 공격은 IT/기술 관련 서비스의 심한 위기를 전제로 하고 있음."
-    },
-    {
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 11 Jun 2026 11:48:55 +0000",
-      "description": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
-      "language": "en",
-      "summary": "Tata Consultancy Services (TCS) has partnered with tech company Anthropic to create a business unit for scaling enterprise artificial intelligence deployments.",
-      "points": [
-        "Anthropic and TCS have formed a partnership",
-        "The collaboration will focus on implementing Anthropic'in AI models into the infrastructure of large organizations using IT services provided by TCS.",
-        "This venture is expected to expand rapidly in scope, with plans for global expansion."
-      ],
-      "insight": "With this partnership between industry leaders like Anthropi and Tata Consultancy Services (TCS), we can expect a significant improvement in enterprise AI capabilities. This move indicates the growing importance of strategic alliances within IT/technology for innovation scaling."
-    },
-    {
-      "title": "[쿠팡 해킹] 유출 “3000명뿐”이라던 쿠팡... CPO 무시한 처사였다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144080&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 18:12:00 +0900",
-      "description": "[3줄 요약]1. “CPO 배제하고 공격자 진술만 의존한 자체조사”2. “CPO 독립성 중요해지는데... 쿠팡은 무력화” 3. 법조계 “불법 행위로 간주될 수 있어” [보안뉴스 강현주 기자] 개인정보 유출은 “3000명 뿐”이라고 발표하며 이른바 ‘셀프 조사’ 논란을 일으킨 쿠팡의 행위에 대해 “개인정보보호책임자(CPO)의 독립적 업무 수행 방해”라는 진단",
-      "language": "ko",
-      "summary": "“CPO 배제하고 공격자 진술만 의존한 자체조사”2. “CPO 독립성 중요해지는데...",
-      "points": [
-        "“CPO 배제하고 공격자 진술만 의존한 자체조사”2",
-        "법조계 “불법 행위로 간주될 수 있어” [보안뉴스 강현주 기자] 개인정보 유출은 “3000명 뿐”이라고 발표하며 이른바 ‘셀프 조사’ 논란을 일으킨 쿠팡의 행위에 대해 “개인정보보...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“여객선 조타실 CCTV 의무화 추진” 해수부, 여객선 사고 재발 방지 대책 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144079&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 11 Jun 2026 18:00:00 +0900",
-      "description": "조타실 CCTV 설치·휴대전화 사용 제한AI 운항보조시스템 및 스마트 관제 도입등대·CCTV·드론 활용한 항로 안전 강화[보안뉴스 강초희 기자] 해양수산부(장관 황종우)는 여객선 사고 재발을 방지하고 여객선 이용객이 많은 여름 휴가철에 대비하기 위해 ‘여객선사고 재발 방지 혁신 전략’을 추진한다고 11일 밝혔다.해양수산부는 지난해 11월 발생한 대형 여객선",
-      "language": "ko",
-      "summary": "해수부는 여객선사고 재발을 방지하고 여름 휴가철에 대비함에 이전 11월에서 진행한 '여객선사고 재발 방지 혁신 전략'을 추진한다.",
-      "points": [
-        "여객선사고 재발방지 전략의 개념적인 개안",
-        "AI, CCTV 활용과 스마트 도입",
-        "여객선 이용객수 증가율"
-      ],
-      "insight": "해양수산부는 '여객선사고 재발 방지 혁신 전략'을 실시하여 여객선사고 재발으로 인한 위험성을 줄이는 대체로 IT/기술 업계에서 창의적인 해외 여객선 보호 전략의 활용을 중심으로 하는 발언저로커."
     }
   ]
 }
