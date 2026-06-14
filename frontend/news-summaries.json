@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-14T14:01:27.310Z",
+  "generatedAt": "2026-06-14T19:26:48.917Z",
   "articles": [
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000",
+      "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "language": "en",
+      "summary": "As AI companies gear up for going public amidst a trend set by big tech firms like SpaceX and Tesla, there's interest in understanding which smaller startups might follow suit.",
+      "points": [
+        "AI-focused startup Seegene has completed its IPO process on the Korean stock exchange with strong performance",
+        "Telehealth app provider Babylon Health is also going public via a special purpose acquisition company (SPAC)",
+        "The trend of AI companies seeking to go public shows increasing confidence in technology sectors"
+      ],
+      "insight": "The growing willingness among startup founders to take their firms public, especially those focused on artificial intelligence and healthcare technologies, signals a robust belief in the transformative potential and value these sectors hold for investors."
+    },
+    {
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 14 Jun 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "language": "en",
+      "summary": "SpaceX has achieved significant mileststatic success in rocket technology using artificial intelligence.",
+      "points": [
+        "SpaceX's rockets are now more advanced due to AI integration",
+        "AI plays a crucial role in SpaceX’s ongoing space exploration and transportation efforts",
+        "Continued advancements from SpaceX could revolutionize both commercial travel and scientific research"
+      ],
+      "insight": "The successful implementation of artificial intelligence into rocket technology by companies like SpaceX may not only enhance the safety and efficiency of space missions but also has potential implications for AI development in other industries."
+    },
     {
       "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
       "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
@@ -720,36 +750,6 @@
         "선정이 기술 및 비중에 따라서 합쳤을 것이다."
       ],
       "insight": "이 선정은 AI와 데이터뿐만 아니라 IoT, 5G등장하여 IT/기술 업체에서의 혼연을 조성한다."
-    },
-    {
-      "title": "“대학 63% 생성형 AI 도입했지만 인프라·인력·예산 미비”... ‘2026 교육정보화 컨퍼런스’ 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=144084&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 10:42:00 +0900",
-      "description": "한국교육정보화재단, AX 시대 교육정보화 패러다임 전환 논의“정부 지원·대학 결단·공동 기반 함께 가야” [보안뉴스 강현주 기자] 생성형 AI를 도입한 대학은 63%에 이르지만 90% 이상의 대학이 자체 GPU 서버를 갖추지 못하는 등 인프라와 인력, 예산은 미비한 실정이라는 지적이 나왔다.한국교육정보화재단(KREN)은 6월 10일부터 12일까지 제주 신화",
-      "language": "ko",
-      "summary": "대학에서 활용한 AI는 63%의 도착성을 보이지만, 인피러스 혹은 인력 자원과 책임계세요.",
-      "points": [
-        "대학 63%에 이르기도며",
-        "90% 이상의 대학이 GPU 서버를 갖춘 경우에는 미미하다.",
-        "인피러스, 인력, 예산은 미미한 실정이다."
-      ],
-      "insight": "대학의 AI를 도착시킨 것은 기존 교육 방식을 더나의하는 몇몇 기능이 있지만, 인력실용성과 오버핑을 위해 대학와 연간 조직 시스템의 개방성은 더 필요합니다."
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "language": "en",
-      "summary": "Jeff Bezos's company is raising $12 billion for an artificial intelligence project called Prometheus that seeks to automate tasks in heavy engineering and drug design using a physical AI.",
-      "points": [
-        "Amazon has invested about three years into building the technology behind Prometheus, aiming at creating 'artificial general engineers' for physical world applications like manufacturing robotics or lab equipment handling tasks.",
-        "$12 billion in fundraising marks a significant investment towards this project with Bezos’s company now valued around $41 billion after the new round of financing.",
-        "The Prometheus AI platform will be trained using 'first principles' methods, allowing it to break down complex physical tasks into simpler components for easier learning."
-      ],
-      "insight": "This venture could revolutionize industries that require automation in handling real-world objects by providing a sophisticated interface between AI and the tangible world. However, its success depends on overcoming current limitations of physical robotics such as size constraints."
     }
   ]
 }
