@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-06-15T04:22:11.193Z",
+  "generatedAt": "2026-06-15T12:26:07.146Z",
   "articles": [
+    {
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "language": "en",
+      "summary": "An autonomous Earth observation satellite successfully identified objects of interest without human intervention for the first time.",
+      "points": [
+        "The Landsat 8 satellite discovered a plastic-filled sinkhole in South Africa using artificial intelligence (AI).",
+        "This AI system, developed by NASA's Jet Propulsion Laboratory and Google Earth Engine team, can process vast amounts of data from satellty imagery.",
+        "The discovery highlighted the potential for autonomous satellite systems to identify environmental issues that may not be visible on ground or through traditional means."
+      ],
+      "insight": "This development marks a significant step towards fully automated Earth observation, potentially enhancing global monitoring of ecological changes and disasters in real-time with minimal human input required for data analysis."
+    },
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 15 Jun 2026 07:25:41 +0000",
+      "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "language": "en",
+      "summary": "The news article discusses an increase in layoffs within the technology sector while simultaneously highlighting how AI insiders are amassing significant wealth.",
+      "points": [
+        "Tens of thousands of workers facing job losses",
+        "A small group of influential AI professionals accumulating unprecedented wealth",
+        "The disparity between the two groups' fortunes becoming increasingly noticeable"
+      ],
+      "insight": "This situation represents a growing concern within the tech industry, as it reflects widening economic inequality and potential social implications for those affected by layoffs."
+    },
+    {
+      "title": "[PIS FAIR 2026 미리보기] AI 시대, 아이덴티티 보안이 핵심... 인성디지탈-Okta, PIS FAIR 공동 참가",
+      "link": "http://www.boannews.com/media/view.asp?idx=144120&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 16:17:00 +0900",
+      "description": "Zero Trust 기반 Identity 보안 전략과 AI Agent 보안 모델 제시[보안뉴스 원병철 기자] 인성디지탈은 글로벌 보안 및 IT 솔루션 전문 총판으로, 국내 기업의 디지털 전환과 보안 고도화를 지원해 온 기업이다. 최근에는 Okta, CrowdStrike 등 글로벌 선도 벤더와의 전략적 파트너십을 기반으로 네트워크, 클라우드, 엔드포인트, 아",
+      "language": "ko",
+      "summary": "Zero Trust 기반 Identity 보안 전략과 AI Agent 보안 모델 제시[보안뉴스 원병철 기자] 인성디지탈은 글로벌 보안 및 IT 솔루션 전문 총판으로, 국내 기업의 디지털 전환과 보안 고도화를 지원해 온 기업이다. 최근에는 Okta, CrowdStrike 등 글로벌 선도 벤더와의 전략적 파트너십을 기반으로 네트워크, 클라우드, 엔드포인트, 아",
+      "points": [
+        "Zero Trust 기반 Identity 보안 전략과 AI Agent 보안 모델 제시[보안뉴스 원병철 기자] 인성디지탈은 글로벌 보안 및 IT 솔루션 전문 총판으로, 국내 기업의 ...",
+        "최근에는 Okta, CrowdStrike 등 글로벌 선도 벤더와의 전략적 파트너십을 기반으로 네트워크, 클라우드, 엔드포인트, 아",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "100만개 URL 동원 대규모 AI 기반 피싱 서비스 조직, 美 FBI-구글 협력해 소탕",
+      "link": "http://www.boannews.com/media/view.asp?idx=144119&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 16:07:00 +0900",
+      "description": "FBI, 구글·블랙로투스랩스 등 합동 ‘립타이드 작전’(Operation Riptide) 성과중국 기반 ‘아웃사이더 엔터프라이즈’, 세계 수십만명 대상 19억달러 피해 유발 [보안뉴스 한세희 기자] 미국 연방수사국(FBI)이 구글 및 블랙로투스랩스(Black Lotus Labs) 등 민간 기업과 협력, 세계를 무대로 활동하던 대규모 중국계 ‘피싱 서비스’",
+      "language": "ko",
+      "summary": "FBI, 구글·블랙로투스랩스 등 합동 ‘립타이드 작전’(Operation Riptide) 성과중국 기반 ‘아웃사이더 엔터프라이즈’, 세계 수십만명 대상 19억달러 피해 유발 [보안뉴스 한세희 기자] 미국 연방수사국(FBI)이 구글 및 블랙로투스랩스(Black Lotus Labs) 등 민간 기업과 협력, 세계를 무대로 활동하던 대규모 중국계 ‘피싱 서비스’",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "조달청장, 정부조달콜센터 현장 소통 간담회 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144118&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 16:06:00 +0900",
+      "description": "격의 없는 대화로 감정노동자 마음 챙김 및 조직 소속감 고취[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 15일 정부조달콜센터 운영의 핵심 주축인 실무 관리자들을 초청해 현장 소통 간담회를 개최했다.이번 간담회는 조달 민원을 응대하며 최일선에서 조달 행정의 얼굴 역할을 수행하는 콜센터 실무 관리자들의 노고를 격려하고, 현장의 애로사항을 직접 청취해 실질적",
+      "language": "ko",
+      "summary": "제품공격자 백승보이 정부조달콜센터에서 감정노동자 대화를 촉용하여, 현장의 애로사항을 골리하고 제품공격에 대한 이해를 돔.",
+      "points": [
+        "정부조달콜센터에서는 제품공격자의 인식을 준수하고, 감정노동자가 이미지를 다시보내기로 했을 때 주로 작성한 이미지와 유사한 점이 없다.",
+        "조달청장은 감정노동자의 마음을 고차론 해야만하고, 제품공격에 대한 이해를 증명한다.",
+        "현장의 애로사항은 데이터가 모니터링되어 있지만, 이미지와 유사한 점을 제출하는 것은 보호 목적이다."
+      ],
+      "insight": "기사는 IT/기술 업체에서 피해야만한 모니터링을 가능하게하는 언어와 문화를 이용한 한국어로 보여준다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 40] 믿는 도끼에 발등 찍힌다(10)-가족 사칭 메신저, 왜 속기 쉬울까",
+      "link": "http://www.boannews.com/media/view.asp?idx=143578&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 15:28:00 +0900",
+      "description": "자녀나 지인을 사칭한 메신저 피싱(돈 요구)은 반드시 통화로 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지",
+      "language": "ko",
+      "summary": "자녀나 지인을 사칭한 메신저 피싱(돈 요구)은 반드시 통화로 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
+      "points": [
+        "자녀나 지인을 사칭한 메신저 피싱(돈 요구)은 반드시 통화로 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
+        "그래서 우리는 기술보다 습관을 배워야 한다",
+        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "AI 코딩 에이전트 납치해 악성 코드 주입 유포, ‘에이전트재킹’ 공격 등장",
+      "link": "http://www.boannews.com/media/view.asp?idx=144117&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 15:13:00 +0900",
+      "description": "오류 모니터링 도구 통해 가짜 오류 이벤트 주입... 개발자가 수정 요청하면 악성코드 주입바이브 코딩 에이전트가 신뢰하는 도구 악용... “플랫폼 차원에서 해결 어려워” [보안뉴스 한세희 기자] AI 코딩 에이전트를 악용해 개발자 PC에서 악성 코드를 실행하는 ‘에이전트재킹’(Agentjacking) 공격 기법이 새로 포착됐다. 오류 모니터링 도구 ‘센트",
+      "language": "ko",
+      "summary": "오류 모니터링 도구 통해 가짜 오류 이벤트 주입. 개발자가 수정 요청하면 악성코드 주입바이브 코딩 에이전트가 신뢰하는 도구 악용...",
+      "points": [
+        "오류 모니터링 도구 통해 가짜 오류 이벤트 주입",
+        "개발자가 수정 요청하면 악성코드 주입바이브 코딩 에이전트가 신뢰하는 도구 악용",
+        "“플랫폼 차원에서 해결 어려워” [보안뉴스 한세희 기자] AI 코딩 에이전트를 악용해 개발자 PC에서 악성 코드를 실행하는 ‘에이전트재킹’(Agentjacking) 공격 기법이 새..."
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "이란 연계 한달라, “미국 상수도 해킹” 주장",
+      "link": "http://www.boannews.com/media/view.asp?idx=144116&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 14:54:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 이란 연계 해킹그룹 ‘한달라’가 미국 대형 민간 수도 서비스 기업 캘리포니아 워터서비스(Cal Water, 캘워터)를 해킹했다고 과시하며 5GB 분량의 데이터를 공개했다.캘워터는 미국에서 최대 민간 수도 회사 중 하나로, 캘리포니아 내 100개 지역사회에 약 200만 명의 고객을 보유하고 있다.한달라는 블로그를 통해 “이번 침입이",
+      "language": "ko",
+      "summary": "[보안뉴스 강현주 기자] 이란 연계 해킹그룹 ‘한달라’가 미국 대형 민간 수도 서비스 기업 캘리포니아 워터서비스(Cal Water, 캘워터)를 해킹했다고 과시하며 5GB 분량의 데이터를 공개했다. 캘워터는 미국에서 최대 민간 수도 회사 중 하나로, 캘리포니아 내 100개 지역사회에 약 200만 명의 고객을 보유하고 있다...",
+      "points": [
+        "[보안뉴스 강현주 기자] 이란 연계 해킹그룹 ‘한달라’가 미국 대형 민간 수도 서비스 기업 캘리포니아 워터서비스(Cal Water, 캘워터)를 해킹했다고 과시하며 5GB 분량의 데...",
+        "캘워터는 미국에서 최대 민간 수도 회사 중 하나로, 캘리포니아 내 100개 지역사회에 약 200만 명의 고객을 보유하고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "인스피언, SAP와 웹 통합 개인정보 접속기록 관리 플랫폼 ‘비즈인사이더 xCon v4.0’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144115&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 14:31:00 +0900",
+      "description": "감사 대응 위한 AI 기반 개인정보 접속기록 솔루션… 공공·금융 시장 공략 [보안뉴스 한세희 기자] 인스피언(대표 최정규)은 SAP와 웹 환경 개인정보 접속 기록을 통합 관리할 수 있는 AI 기반 개인정보 접속기록 관리 플랫폼 ‘비즈인사이더(BizInsider) xCon v4.0’을 출시했다고 15일 밝혔다.비즈인사이더 xCon v4.0은 개인정보 탐지와",
+      "language": "ko",
+      "summary": "SAP과 인터뷰를 통합한 개인정보 접속기록을 AI로 제공하는 '비즈인사이더 xCon v4.0'를 출시한다.",
+      "points": [
+        "- 인스피언과 SAP의 합리화적인 개인정보 접속기록 관리 팩터인 '비즈인사이더 xCon v4.0'을 개발",
+        "- AI를 사용하여 개인정보 탐지, 신용정보 임시저장 및 인터뷰 자동화 구성",
+        "- IT/기술 업계에서의 광진룰을 통합하여, '비즈인사이더 xCon v4.0'를 공개한다."
+      ],
+      "insight": "이 기사는 IT/기술 업체에서 개인정보 관리의 현재 행동을 돔으며, '비즈인사이더 xCon v4.0'를 소유하는 공모웠덩이에서 AI를 활용하여 광진을 통합한다."
+    },
+    {
+      "title": "고객 위장 ‘개인정보 유출 의심 문의’ 스피어피싱 주의... “김수키 의심”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144114&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 14:17:00 +0900",
+      "description": "북 해킹 조직 김수키 전형적 공격 패턴[보안뉴스 강현주 기자] 기업담당자를 겨냥한 고객 위장 ‘개인정보 유출 문의’ 메일을 통한 스피어피싱 공격이 포착됐다. 북한 해킹 그룹 ‘김수키’ 연계가 의심되는 피싱이 기승을 부리고 있다. 보안 전문기업 이스트시큐리티(대표 정상원)는 기업 담당자를 겨냥해 업무 맥락을 파고드는 정교한 스피어피싱 공격을 포착해 기업들의",
+      "language": "ko",
+      "summary": "스피어피싱 공격자 '김수키'가 북한 회사에서의 개인정보 유출 문의를 계약하여, IT/기술 업계에서 주요 위협임",
+      "points": [
+        "스피어피싱 공격자 '김수키'이 고객의 개인정보 유출을 위해 '개인정보 유출 문의'를 받아내고 합니다.",
+        "이 공격 패턴은 IT/기술 업체에서 주요직에서 중요한 위안에 대해 의사를 떠나친 경우에 일어났다.",
+        "이런 공격은 회사의 보안 채용 시스템과 서비스 제공자들에 대한 권위를 강화하고, 회사적인 지치성을 발생시키기를 의미합니다."
+      ],
+      "insight": "이 스피어피싱 공격은 IT/기술 업계에서 보안적 위협을 시작하고, 전문적인 개인정보 유출의 원인을 밝히는 목적을 달성합니다."
+    },
+    {
+      "title": "“기업 데이터 위협 대응”... 넷앱-시스코, 스플렁크 기반 ‘랜섬웨어 자동 차단 플레이북’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144113&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 14:14:00 +0900",
+      "description": "‘위협 감지 즉시 스토리지 계층에서 자동 대응 의심 접근 차단-볼륨 오프라인 전환으로 데이터 손실 최소화, 사이버 복원력 확보 [보안뉴스 한세희 기자] 넷앱과 시스코가 랜섬웨어 공격을 효과적으로 차단하고 데이터 손실을 줄이기 위한 ‘넷앱 스플렁크 SOAR (Splunk Security Orchestration, Automation and Response)",
+      "language": "ko",
+      "summary": "넷앱 스플레인크 SOAR 기능을 활용한 랜섬웨어 공격을 차단하고, 데이터 손실을 최소화한다.",
+      "points": [
+        "넷앱과 시스코가 협연한 '랜섬웨어 자동 차단 플레이북' 사용",
+        "데이터 손실을 최소화하는 방식, 그리고 보안에 기여한 인식 수치를 제공",
+        "넷앱과 시스코가 개선한 데이터 수집 방식"
+      ],
+      "insight": "이러한 기술이 데이터 위협을 극ver에서 어느정도로 제검진하는가? IT 인증룰에서 스피립트를 구성하여, '랜섬웨어 자동 차단 플레이북'에서 더 나은 보안 지침을 찾아봐야만 할 수 있다."
+    },
+    {
+      "title": "금융보안원, AI 위협 대응 ‘금융AI보안연구소’ 신설... 80년대생 인재들 배치",
+      "link": "http://www.boannews.com/media/view.asp?idx=144112&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 13:28:00 +0900",
+      "description": "AI보안총괄부 신설해 AI보안지원센터 운영 등[보안뉴스 강현주 기자] 금융보안원(원장 박상원)이 고성능 AI 발전으로 인해 증가하는 사이버 위협과 금융권의 AI 전환에 선제적으로 대비하기 위해 ‘금융AI보안연구소’를 신설했다. 주요 보직에는 역량이 뛰어난 1980년대생 젊은 리더들을 배치했다. 15일 금융보안원은 대대적인 조직 개편과 인사를 단행했다고 밝혔",
+      "language": "ko",
+      "summary": "금융AI보안원이 AI보안서비스를 신설해 '금융AI보안연구소'로 배포하고, 이에 대한 IT/기술 영향을 가진 1980년대생 인재들이 활용한다.",
+      "points": [
+        "금융AI보안원은 AI보안서비스 신설을 '금융AI보안연구소'로 진행한다.",
+        "신설해와 기여하는 금융보안원들은 1980년대생인재를 모두 받아들일 수 created."
+      ],
+      "insight": "이 기사는 AI보안에 강하게 영향을 미치는 IT/기술 업적으로 오랫동안 기여한 1980년대생인재가 신설해인 '금융AI보안연구소'에서 일하고 활용한다는 사유로 부터 IT/기술 공동잇회에서의 AI로이념이 시작되고 그리고 이를 지원하는 인간들의 채용체계에 대한 미확보의 여부가 제시된다."
+    },
     {
       "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
       "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
@@ -569,186 +748,6 @@
         "As SpaceX goes public with its S-1 registration document, investors are eagerly anticipating the potential impact on future projects like Mars colonization."
       ],
       "insight": "SpaceX's IPO could signal increased financial and technological support for ambitious space exploration initiatives that have long been considered speculative ventures by private enterprises, potentially leading to accelerated progress in these fields due to the influx of public capital."
-    },
-    {
-      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 19:28:31 +0000",
-      "description": "A SpaceX-Tesla merger seems inevitable.",
-      "language": "en",
-      "summary": "SpaceX president Gwynne Shotwell has hinted at the likelihood of a Tesla merger.",
-      "points": [
-        "Gwynne Shotwell is SpaceX'th President and suggests an imminent Tesla acquisition",
-        "The article implies that Elon Musk may not be as invested in running both companies simultaneously anymore",
-        "SpaceX has faced recent challenges, including production delays"
-      ],
-      "insight": "This hint at a possible SpaceX-Tesla merger could signify strategic consolidation within Elon Musk's business empire to focus resources and strengthen market presence in both sectors."
-    },
-    {
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 18:20:50 +0000",
-      "description": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-      "language": "en",
-      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price",
-      "points": [
-        "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO p...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 17:38:11 +0000",
-      "description": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "language": "en",
-      "summary": "Mistral is rumored to secure funding with a significant increase in company valuation.",
-      "points": [
-        "Fundraising round expected to raise €3 billion for Mistral",
-        "Projected company post-money valuation: approximately €20 billion (~$23.15 billion)",
-        "Previous Series C funding valued the firm at about €11.7 billion"
-      ],
-      "insight": "This substantial investment reflects strong confidence in Mistral'thy technology and indicates a highly competitive market for AI-driven solutions."
-    },
-    {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 17:26:08 +0000",
-      "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "language": "en",
-      "summary": "Google is suing an alleged Chinese cybercrime operation called 'Outsider Enterprise,' which used AI technology to send scam texts and harass hundreds of thousands of victims.",
-      "points": [
-        "Alleged group named Outsider Enterprise uses artificial intelligence for mass text-based scams",
-        "Google alleges the operation sent up to 2.5 million messages over two weeks targeting numerous countries",
-        "Chinese authorities arrested suspects linked to this cybercrime activity"
-      ],
-      "insight": "This case highlights an emerging threat in which AI is being used for criminal activities, raising concerns about the ethical implications of technology and its potential misuse."
-    },
-    {
-      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-      "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 17:05:06 +0000",
-      "description": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved.",
-      "language": "en",
-      "summary": "Robinhood has reported record-breaking traffic following the SpaceX stock debut, leading to temporary service outages that are now resolved.",
-      "points": [
-        "SpaceX stock went public on December 8 through an initial offering with shares priced between $48 and $52 each. Robinhood customers witnessed unprecedented demand for trading the new IPO, which led to temporary service disruptions due to heavy traffic.",
-        "Robinhood's CEO has responded by announcing a free stock of 10 shares for every person who previously joined up through an invite from someone on Robinhood. Customers also have access to these shares at $52 per share, which is priced above the initial offering price.",
-        "After initially reporting record-breaking trading volumes exceeding its previous highs with Tesla's IPO in 2018 and Gamestop's stock surge last year among other events."
-      ],
-      "insight": "The intense interest in the SpaceX stock debut indicates a growing investor confidence towards tech-based public offerings, potentially reshaping how startups raise capital through IPOs. This increased activity highlights the importance for trading platforms to scale and manage traffic effectively."
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 16:23:25 +0000",
-      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same window, and it’s a stress test for investors, for valuations, and for […]",
-      "language": "en",
-      "summary": "In an unexpected turn, MANGOS companies—Meta/Microsoft, Anthropic, Nvidia, Google (parent of Tesla), OpenAI, and SpaceX—are set to hit the public markets simultaneously in a high-stakes IPO environment. The move comes as investors navigate shifting market valuations.",
-      "points": [
-        "The convergence of major tech companies like Meta/Microsoft seeking an IPO has led to what's being termed 'MANGOS'.",
-        "Anthropic and OpenAI, along with Nvidia, Google (Tesla parent), and SpaceX are also entering the public markets.",
-        "This wave of simultaneous tech company offerings is happening in a dynamic IPO market."
-      ],
-      "insight": "The concurrent public listings by these technologically diverse companies indicate investors' confidence despite uncertainties, potentially signaling a robust and resilient technology sector ready for growth opportunities."
-    },
-    {
-      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-      "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 15:55:06 +0000",
-      "description": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
-      "language": "en",
-      "summary": "Elon Musk's purchase of Twitter led to his temporary removal from the platform due to content violation policies.",
-      "points": [
-        "Elon Musk bought a significant stake in social media company, prompting its board to initiate an investigation into potential policy breaches by him as CEO.",
-        "Twitter's internal process found no evidence of unacceptable behavior on the part of Musk but decided that his presence could still pose risks due to personal nature and influence.",
-        "The controversy has sparked discussions about regulating social media platforms, highlighting issues with content removal processes."
-      ],
-      "insight": "This incident underscores growing concerns regarding the power of influential tech figures on digital platforms' policies. It raises questions around accountability and governance that could impact future decisions for both individuals holding significant stakes in such companies, as well as platform regulation."
-    },
-    {
-      "title": "[2026 IPS 솔루션 리포트] 연결, 확장, 전문화... AI 열풍 속 진화하는 IPS 시장",
-      "link": "http://www.boannews.com/media/view.asp?idx=144097&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 13 Jun 2026 00:24:00 +0900",
-      "description": "IPS, IDS는 네트워크 보안 필수 제품군AI, 클라우드, 트래픽 폭증... 성숙한 시장 속 새로운 기회들보안 기능 통합화-플랫폼화 대응, 차별적 성능과 고객 지원 강화 IPS 전문기업 집중 분석: 시큐아이, 윈스테크넷[보안뉴스 한세희 기자] 로봇들이 산업 현장은 물론, 식당이나 쇼핑몰 등 일상 상업 공간으로 확산되고 있다. 하지만 로봇 보안에 대해선 여",
-      "language": "ko",
-      "summary": "이피스 시장은 공개도, 전문화가 늘어나고 AI의 광Display이 뛰어넓셨다.",
-      "points": [
-        "- 공개도, IDS는 AI로 통합",
-        "- IPS 전문기업 집중 분석 방식 변화",
-        "- 전문화가 늘아지며 고객 지원도 강화"
-      ],
-      "insight": "이피스 시장은 AI로 보안 기능을 촉진하고 전문성과 인DI 강화를 위해 자동화하고 공개도에 대한 변화를 취했다."
-    },
-    {
-      "title": "SpaceX IPO: Everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 14:08:54 +0000",
-      "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "language": "en",
-      "summary": "SpaceX plans for an Initial Public Offering (IPO), revealing insights into their financials through the company’s S-1 filing.",
-      "points": [
-        "Elon Musk's SpaceX is preparing to go public with its initial IPO, potentially disrupting traditional aerospace industries.",
-        "The document outlines costs and revenues for various space launch services provided by SpaceX over the years.",
-        "Investors are shown interest in SpaceX due to ambitious goals of interplanetary colonization."
-      ],
-      "insight": "SpaceX's IPO underscores a significant shift towards commercializing space travel and may stimulate competition within both public and private sectors aiming for market share expansion through innovative, cost-effective solutions in the skyward industry. The company’s success thus far suggests that investors might continue to see profitable returns as they back SpaceX's long-term vision."
-    },
-    {
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 11:43:32 +0000",
-      "description": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-      "language": "en",
-      "summary": "US spy law Section 702 is set to expire after Congress rejects President Trump's controversial surveillance nominee.",
-      "points": [
-        "Congress rejected the NSA chief and FBI director candidates proposed by President Trump",
-        "Section 702, which permits warrantless domestic spying on Americans without a court order under national security justification, is nearing expiration",
-        "The law will be reauthorized soon unless Congress acts to extend it"
-      ],
-      "insight": "With the impending expiration of Section 702 and unresolved surveillance nominees for key spy agency positions, there may be significant changes in US domestic intelligence gathering methods."
-    },
-    {
-      "title": "[카드뉴스] “해킹 아니라 업데이트인데 수술실 마비?”… 미 FDA 패치 의무화가 부른 병원 전산망의 역설",
-      "link": "http://www.boannews.com/media/view.asp?idx=144093&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 17:03:00 +0900",
-      "description": "의료기기 해킹 방지를 위한 미 FDA의 펌웨어 패치 의무화 규제 이후, 시스템 최적화가 부족한 병원 전산망 내에서 보안 업데이트가 시스템 충돌을 일으키며 의료기기가 강제 다운되는 사고가 빈발하고 있다. 위협 확산을 막기 위한 네트워크 강제 격리 및 락다운 조치가 오히려 병원 내 주요 전산 인프라와 수술실 기능을 전면 마비시키는 등, 사이버 보안을 지키려다",
-      "language": "ko",
-      "summary": "미 FDA의 펌웨어 패치 규제에 의해 보안 업데이트가 시스템 오버할인을 일으키고, 수술실 기능이 마비되어 사람들에게 의미있는 의료기기가 제공할 수 없다.",
-      "points": [
-        "- 보안 업데이트로 시스템 오버할인을 일으키고 있다.",
-        "- 수술실 기능이 마비되어 사용자가 의미있는 보안업데이트로 인해 제공할 수 없다.",
-        "- 사용자들에게는 의미없는 의료기기가 제공하고 있다."
-      ],
-      "insight": "이러한 상황은 보안업데이트로 인해 수술실 기능이 병원 내에서 불가능한 현재입니다. 이는 사용자의 의식과 의지를 깨지고, IT/기술 업체에서 보안의 영향을 미리 고민해야 합니다."
-    },
-    {
-      "title": "샤이니헌터스, 오라클 제로데이 취약점 악용... 세계 교육기관 100여곳 공격",
-      "link": "http://www.boannews.com/media/view.asp?idx=144092&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 16:50:00 +0900",
-      "description": "구글 맨디언트, 오라클 피플소프트 환경 관리 컴포넌트 취약점 악용 주의보애저로 위장한 원격 제어 에이전트 심어 내부망 측면 이동, 데이터 탈취[보안뉴스 조재호 기자] 구글 위협인텔리전스그룹(GTIG)이 유명 해킹 조직 샤이니헌터스(ShinyHunters)의 대규모 데이터 탈취 및 갈취 캠페인을 포착했다. 12일 구글 클라우드 공식 블로그에 따르면, 샤이니헌",
-      "language": "ko",
-      "summary": "구글의 개인정보를 강제로 공격해내는 전용한 데이터 탈취 공격원들이 모여있어.",
-      "points": [
-        "구글은 개인정보가 중요하다고 주장",
-        "ShinyHunters는 손상을 위해 Google 직체를 확보했다.",
-        "이런 계정은 일본 기사에서 알려진 구글 위협의 대상이며, IT/기술 업체에서의 근본적인 위기"
-      ],
-      "insight": "거대한 Google 직체를 공격하는 과정은 IT/기술 산업의 일상이고, 이러한 공격법을 사용함에 마음이 되어, IT/기술 산열이 생기지는 않을 까지 이루어졌다."
     }
   ]
 }
