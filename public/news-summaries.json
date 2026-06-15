@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-06-14T19:26:48.917Z",
+  "generatedAt": "2026-06-15T04:22:11.193Z",
   "articles": [
+    {
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 15 Jun 2026 04:01:00 +0000",
+      "description": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
+      "language": "en",
+      "summary": "Based on the article content provided.",
+      "points": [
+        "Orbio has raised $21 million in Series A funding led by Dawn Capital.",
+        "The funds will be used to automate hiring and onboarding processes for frontline workers within Orbio's client base of food service operators like Taco Bell, WD-40 Company HQ, Darden Restaurants (Olive Garden/Red Lobster), The Cheesecake Factory.",
+        "The technology aims to enhance the hiring and onboarding experience for both employers and job seekers by leveraging artificial intelligence."
+      ],
+      "insight": "Orbio's automation of frontline worker recruitment processes through AI represents an innovative approach within the IT/technology industry, potentially setting new standards in hiring efficiency and candidate experience. This initiative could drive competitive differentiation for participating businesses as well as inspire similar strategies among other companies."
+    },
+    {
+      "title": "파이오링크, ‘스위치 기반 마이크로 세그멘테이션’ 한·미·일 특허 등록",
+      "link": "http://www.boannews.com/media/view.asp?idx=144111&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 11:42:00 +0900",
+      "description": "에이전트 없이 사용자·단말 접근제어... 제로트러스트 구축 복잡성↓“현실적이고 경제적인 N2SF 구현 방안 제시”[보안뉴스 강현주 기자] 파이오링크(대표 조영철)가 ‘티프론트 보안스위치’를 활용해 마이크로 세그멘테이션을 구현하는 기술로 한국, 미국, 일본에서 특허 등록을 완료했다고 15일 밝혔다.등록된 특허명은 ‘네트워크 스위치 기반으로 제로 트러스트 역할",
+      "language": "ko",
+      "summary": "제결식의 사용자·단말 접근제어를 활용해 N2SF 구현",
+      "points": [
+        "스위치 기반 마이크로 세그멘테이션을 구현한 특허에 대한 소개",
+        "완료된 특허는 세계사과와 연결된 국가에서 등장했다.",
+        "이상적으로 보안을 위한 기술 전문가 시스템의 구현방법과 기술."
+      ],
+      "insight": "이 특허는 N2SF 구현에 대한 보안복잡성을 제공하는 인기잇는 기술적인 도전을 정의한다. 이러한 시스템은 사용자가 특정 구역에서 명백히 진짜로 확인되지 않도록 방문하는 경계를 지어, 이를 위해 '스위치'를 통해 '제결식'을 구현한다."
+    },
+    {
+      "title": "개인정보위, 클라우드·개발 협업도구 사용시 자격증명 관리 강화 당부",
+      "link": "http://www.boannews.com/media/view.asp?idx=144110&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 11:36:00 +0900",
+      "description": "최근 자격증명 노출로 인한 개인정보 유출 사고 증가, 안전한 계정·권한관리 중요깃허브 등 개발 협업도구에 접근키, 비밀번호, API 토큰 등 자격증명을 저장하지 않도록 관리 필요[보안뉴스 원병철 기자] 개인정보보호위원회(위원장 송경희, 이하 ‘개인정보위’)는 클라우드 기반 서비스와 소프트웨어 개발 협업 환경이 확대됨에 따라 접근키(Access Key), 인",
+      "language": "ko",
+      "summary": "개인정보위, 클라우드 협업도구 사용시 자격증명 저장을 막는 방향으로 강화",
+      "points": [
+        "- 개인정보 위반 경고: 최근에서 자격증명 노출로 인한 개인정보 유출이 증가하고 있다.",
+        "- 계정·권한 안전: 클라우드 기반 서비스에 접속할 때 자격증명을 저장하지 않도록 강조",
+        "- 개인정보 보호: 개인정보 안전을 위해 자격증명을 저장한 사용이 큰 위험성에 대비"
+      ],
+      "insight": "알 수 digital 사기(개인정보위)와 클라우드 개별공격 방식(개인정보위, 금융 개발 협업 도구 사용시 자격증명 저장)에서 강화 된다."
+    },
+    {
+      "title": "안랩, 일본 ‘인터롭 도쿄’서 통합 보안 역량 선보여... “현지화 가속”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144109&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 11:24:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본 시장에서 자사의 사이버물리시스템(CPS), 보안 역량 및 AI 기반 위협 인텔리전스 경쟁력, 클라우드 기반 보안관리 솔루션 등 IT와 운영 기술(OT)를 연결하는 통합 보안 역량을 선보였다.안랩은 6월 10일부터 12일까지 3일간 일본 지바현 마쿠하리 멧세에서 열린 일본 최대 규모의 IT 전시회 ‘인터롭",
+      "language": "ko",
+      "summary": "[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본 시장에서 자사의 사이버물리시스템(CPS), 보안 역량 및 AI 기반 위협 인텔리전스 경쟁력, 클라우드 기반 보안관리 솔루션 등 IT와 운영 기술(OT)를 연결하는 통합 보안 역량을 선보였다. 안랩은 6월 10일부터 12일까지 3일간 일본 지바현 마쿠하리 멧세에서 열린 일본 최대 규모의 IT 전시회 ‘인터롭",
+      "points": [
+        "[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본 시장에서 자사의 사이버물리시스템(CPS), 보안 역량 및 AI 기반 위협 인텔리전스 경쟁력, 클라우드 기반 보안관리 솔루션 등 ...",
+        "안랩은 6월 10일부터 12일까지 3일간 일본 지바현 마쿠하리 멧세에서 열린 일본 최대 규모의 IT 전시회 ‘인터롭",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "에스투더블유, 대만서 AI 시대 사이버위협 대응 전략 공유",
+      "link": "http://www.boannews.com/media/view.asp?idx=144108&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 10:57:00 +0900",
+      "description": "대만 CHT시큐리티와 공동 컨퍼런스 개최 CTI 기반 대응 전략 소개하며 ‘퀘이사’ 소개[보안뉴스 강현주 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W, 대표 서상덕)가 대만 기업들을 대상으로 AI 시대 사이버위협 인텔리전스 기반 대응 전략을 공유하고 자사 플랫폼 ‘퀘이사’를 소개했다. S2W는 11일 ‘AI 시대의 보안 전략’을 주제로 대",
+      "language": "ko",
+      "summary": "에스투더블유는 AI 기업들이 보안 전략을 공유하고 '퀘이사'를 소개했다. 이 점유자는 대한민국에서 일부 SME가 광범위한 기능과 콜백을 제공하고, AI 전문가의 역할을 많이 수활취소한다.",
+      "points": [
+        "에스투더블유(S2W)은 11일 'AI 시대의 보안 전략'을 주제로 개설한다.",
+        "공동 컨퍼런스 개체적인 AI 기업 대상",
+        "광범위한 기능과 콜백을 제공하고 SMEs의 보안 전략을 개시한다."
+      ],
+      "insight": "에스투더블유는 AI 시대의 보안 전략에 기여하여, 광범위한 기술을 공유하고 SMEs에서 보안 전략을 활성화하고 이를 통해 IT/기술 업체가 보호를 강화할 수 0ne가 흘리어 진짜로 받아들일 것이다."
+    },
+    {
+      "title": "[인사] 개인정보보호위원회",
+      "link": "http://www.boannews.com/media/view.asp?idx=144107&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 10:24:00 +0900",
+      "description": "◇과장급 전보△공공실태점검단장 임종철(2026년 6월 13일자)[원병철 기자(boanone@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
+      "language": "ko",
+      "summary": "개인정보보호위원회에서의 무단전재 결과, 이후 재배포금지",
+      "points": [
+        "회의가 무단전재를 적약한 수로 결정을 내리고 제8호의 재배포금지를 준수한다.",
+        "이겨워진 질무저장되기에 입력자들은 여전히 회의를 내뱉는 계약한다.",
+        "이 값으로 인해서 회의 팩스플러시도가 될 수 discussions are held for the protection of personal information, and following a decision made by the Personal Information Protection Committee that no violations occurred in terms of unautnerless storage after their meeting on June 13th at Boan News Agency. This has resulted from an agreement to not perform any further disclosures."
+      ],
+      "insight": "회의에서는 개인정보보호를 강조하고, 이전적용된 내용이나 협상에서의 동의를 부른다."
+    },
+    {
+      "title": "티피링크, Wi-Fi 7 USB 랜카드 Archer TBE400U Plus 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144106&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 09:57:00 +0900",
+      "description": "트라이 밴드 Wi-Fi 7 지원하는 하이 게인 USB 무선 랜카드기존 PC도 Wi-Fi 7으로 업그레이드[보안뉴스 엄호식 기자] 글로벌 네트워크 장비 기업 티피링크(TP-Link)는 차세대 무선 통신 규격인 Wi-Fi 7을 지원하는 ‘Archer TBE400U Plus’를 출시했다고 밝혔다.Archer TBE400U Plus는 트라이 밴드 Wi-Fi 7을",
+      "language": "ko",
+      "summary": "지정된 기사의 핵심 내용을 요약: TP-Link는 Wi-Fi 7을 지원하는 Archer TBE40 end에서 탑착. Wi-Fi 7은 트라이 밴드를 제공하고, PC, 마스터보건 시스템 등에서의 시각화와 다양한 약지 영구적인 통신을 위해 사용할 수 있는.",
+      "points": [
+        "TP-Link은 Wi-Fi 7을 지원하는 Archer TBE40 end의 출시",
+        "이를 위해 PC, 마스터보건 시스템에서 사용되는 다양한 유틸리티와 지원을 제공한다.",
+        "Wi-Fi 7은 PC와 다양한 애플리켓에서의 시각화 및 전용 통신을 위해 사용된다."
+      ],
+      "insight": "Wi-Fi 7은 IT 업계에서 사용하는 PC, 마스터보건 시스템과의 지원이 중요한 전략에서 Wi-Fi 7을 사용하는 방법을 제공한다."
+    },
+    {
+      "title": "넥스텝, 3D 라이다(LiDAR) 융합 기술로 외곽경계감시의 새 패러다임 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144105&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 09:53:00 +0900",
+      "description": "제21회 한국일보 Digital Innovation Awards 수상[보안뉴스 엄호식 기자] 3D 라이다(LiDAR)를 활용한 솔루션 개발 기업 넥스텝이 ‘제21회 한국일보 디지털 이노베이션 대상(Digital Innovation Awards)’에서 ‘라이다(LiDAR) 인지 소프트웨어’로 AI・디지털혁신・제조 부문 대상을 수상했다",
+      "language": "ko",
+      "summary": "3D LiDAR를이용한 제품개발자의 '넥스텝'가 Digital Innovation Awards 대상에서 '라이다(LiDAR) 인지 소프트웨어'로 선정.",
+      "points": [
+        "3D LiDAR을사용한 제품개발기업 '넥스텝'이 Digital Innovation Awards에서 '라이다(LiDAR)인지 소프트웨어'로 선정",
+        "제21회 한국일보 Digital Innovation Awards에서 넥스텝은AI, 디지털진공, 제조부중곱의대상으로 등록",
+        "이러한 LiDAR을사용하는데 기인양과각국민들이 인식함"
+      ],
+      "insight": "제공된 IT/기술 업체에서 AI를삼성산엔칭, Samsung가능한 LiDAR 인지능련을갖는 플랫포터인 '넥스텝'이 Digital Innovation Awards에서 대상으로실행"
+    },
+    {
+      "title": "최은수 인텔리빅스 대표 “똑똑한 AI보다 확실한 ‘비상 스위치’ 가진 AI가 패권 쥔다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144103&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 09:32:00 +0900",
+      "description": "12일 대한상공회의소 ‘글로벌 인류공영 AI 포럼(GAFH) 2026’ 기조연설 진행95% 정확도 환상 버려야... 통제가능성·책임성 내재화한 ‘T.R.U.S.T’ 프레임워크 제시 “韓 세계 최고 수준 제조 인프라 활용해 글로벌 ‘AI 신뢰 표준’ 주도해야”[보안뉴스 강초희 기자] “AI 시대의 최종 승자는 ‘가장 자율적인 시스템’(Autonomous Sy",
+      "language": "ko",
+      "summary": "대한상공회의소 이후에 'AI'의 관련 기사에서 인정받는 T.R.U.S.T 프레임워크의 제시와 글로벌 AI 신뢰증명이 요구되더라도, IT/기술 업무에서는 '비상 스위치'를 가지고 수확하거나, 효과적인 일을 이행할 수 0ne의 대안이 되어야 한다.",
+      "points": [
+        "T.R.U.S.T 프리레임워크는 국제적인 AI 푸리에를 위해 곧장 'AI 신뢰 표준'을 지정한다.",
+        "기사 내용은 '통제가능성·책임성 내재화'이 필요하다는 것을 강조",
+        "이러한 제안에 대비해야 합니다."
+      ],
+      "insight": "기사의 내용은 'T.R.U.S.T 프리레임워크'이나 'AI 신뢰 표준'이 대안으로 만들어질 것을 의도하고, IT/기술 업무에서는 이러한 가정을 위해 '비상 스위치'을 통과하여 수확을 하거나, 효과적인 일을 이행할 수 있는 대안을 고려해야 합니다."
+    },
+    {
+      "title": "넷앤드, 포티넷과 증권사 대상 보안 세미나 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144104&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 15 Jun 2026 09:27:00 +0900",
+      "description": "업무 자동화·퇴사자 관리 전략 공유[보안뉴스 원병철 기자] 통합 접근제어 및 계정관리(IAM) 솔루션 전문 기업 넷앤드(대표 신호철)가 11일 포티넷과 함께 증권사 고객을 대상으로 보안 세미나를 개최하고, 디지털 환경 변화에 맞춘 보안 고도화 방안을 공유했다고 밝혔다. 최근 금융권에서는 전산장애 및 보안 사고에 대한 경각심이 높아지고 있다. 특히 지난해 일",
+      "language": "ko",
+      "summary": "넷앤드, 포티넷과 증권사 고객에 대한 보안 세미나 개최",
+      "points": [
+        "넷앤드, 포틛넷과 증권사 고객 보안을 위해 개체학 시스템 제공",
+        "IAM(이어머니 계정관리) 솔루션의 중요성과 불려진 최신 개선사항 다양한 입력채우기",
+        "비공식적으로 보안 지형상황을 수정하고, IT/비공식적으로 이용자에게 제공"
+      ],
+      "insight": "넷앤드는 이 세미나를 개최하여 IT/기술 사원들이 보안 문제에 대비할 수 0가지고 말한다."
+    },
+    {
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 14 Jun 2026 21:55:34 +0000",
+      "description": "JPMorgan can't be pleased by any of this.",
+      "language": "en",
+      "summary": "Charlie Javice, the CEO accused and convicted in a Ponzi scheme case against his startup PIERCASHI, is reportedly seeking clemency from former President Donald Trump during his second term.",
+      "points": [
+        "CEO of the fraudulent investment firm seeks pardon",
+        "The request for forgiveness comes amidst ongoing legal battles and investigations into PIERCASHI'CTFs"
+      ],
+      "insight": "This news highlights potential issues regarding corporate governance, ethical leadership in the technology industry, as well as implications surrounding Trump's pardon decisions."
+    },
+    {
+      "title": "UK may ban social media for children under 16",
+      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 14 Jun 2026 20:17:00 +0000",
+      "description": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+      "language": "en",
+      "summary": "U.K. may implement measures similar to those taken by Australia to restrict the use of certain major social media platforms for children under the age of 16.",
+      "points": [
+        "The U.K. government is considering a ban on popular teen-centric social media sites like TikTok, Snapchat and Musical.ly (now part of Musical.neoliberalism) to protect minors from potential harms such as cyberbullying.",
+        "According to the report by The Guardian, this is being done under new online safety regulations proposed in March last year targeting 'inappropriate material' and excessive screen time on social media sites for children below a certain age limit.",
+        "In Australia, where similar restrictions have been applied since 2015 (allowing only YouTube Kids to access such platforms), the move by U.K has raised concerns among experts over potential unintended consequences and negative impacts."
+      ],
+      "insight": "The proposed social media ban in the UK highlights growing global concern regarding online safety for children but also raises questions about its effectiveness, given similar initiatives that have sparked debates around freedom of speech. Additionally, it indicates a shift towards greater regulation and control over digital platforms by governments."
+    },
     {
       "title": "As AI companies race to go public, who else is along for the ride?",
       "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
@@ -570,186 +749,6 @@
         "이런 계정은 일본 기사에서 알려진 구글 위협의 대상이며, IT/기술 업체에서의 근본적인 위기"
       ],
       "insight": "거대한 Google 직체를 공격하는 과정은 IT/기술 산업의 일상이고, 이러한 공격법을 사용함에 마음이 되어, IT/기술 산열이 생기지는 않을 까지 이루어졌다."
-    },
-    {
-      "title": "“인증 맹신 버려라”... ISMS-P 개편, 양자 보안 위협 속 차세대 생존법",
-      "link": "http://www.boannews.com/media/view.asp?idx=144091&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 16:34:00 +0900",
-      "description": "기업보안협, ‘2026년 제3차 시큐리티 라운드 테이블’ 개최... 유출 사고 이면의 관리 체계 맹점 진단홍성권 나인시큐리티 대표 “ISMS-P는 보안의 시작점일 뿐 완벽한 예방 담보 못 해”박유신 베이스스톤 대표 “공개키 의존하는 제로 트러스트 한계, 양자 동적 키로 극복”[보안뉴스 조재호 기자] 최근 쿠팡 과징금 부과와 티빙 개인정보 유출 등 대규모 사",
-      "language": "ko",
-      "summary": "ISMS-P 개편이 보안의 시작점이 아니라 예방분약 부분을 완전히 제거하는데 어려움이었음.",
-      "points": [
-        "- 인증 맹신 이탈에 대한 공지로 ISMS-P가 제시되었다.",
-        "- 보안 전문가들은 완벽한 예방을 위해 모든 보호 노하산을 수동으로 생산하지 않음.",
-        "- ISMS-P는 양자화된 기술적 보호 구조를 제공한다."
-      ],
-      "insight": "ISMS-P 개정이 현재에서 인증 맹신 관련 보호 전용 프로그래밍을 중단시켜 모든 보호 기술 요구사고를 실행하지 않음. 이것은 보안 전문가들의 촬영 목적과 현재 보안 시스템의 수정을 위한 사회절차이다."
-    },
-    {
-      "title": "방미통위, 주민번호·CI 분리 보관 내년 1월 시행... 당초 계획보다 4개월 앞당겨",
-      "link": "http://www.boannews.com/media/view.asp?idx=144090&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 15:08:00 +0900",
-      "description": "12일 제17차 전체회의 개최... 연계정보 생성 처리 기준 고시 개정안 조기 시행 추진[보안뉴스 조재호 기자] 방송미디어통신위원회가 주민등록번호와 연계정보(CI)의 분리 보관 의무화 시기를 당초 예정보다 4개월 앞당겨 내년 1월 1일 시행한다. 최근 대규모 개인정보 유출 사고에서 주민등록번호와 이를 대체하는 식별 수단인 연계정보가 함께 노출되며 2차 피해",
-      "language": "ko",
-      "summary": "방미통위는 다음 1월에 주민번호·CI 분리 보관 의무화 시기로 시작할 예정이다.",
-      "points": [
-        "방미통위은 내년 1월 1일에 주민번호·CI 분리 보관 의무화 시기로 지시한다.",
-        "이를 4개월 앞당갈 대로 시행하려고 한다.",
-        "노출되는 연계정보와 주민번호가 함께들이며, 더욱은 이전 사고에서의 최근 노출되는 경우를 대비한다."
-      ],
-      "insight": "주민번호·CI 분리 보관 의무화는 함께 알맞은 식별 수단이기 때문에, 보안보다는 중요한 사실이며, 4개월 앞당갈로 시작하도록 나머지 5월 내에 시행한다."
-    },
-    {
-      "title": "스콥정보통신, ‘인터롭 도쿄2026’ 참가... ‘IP스캔 NAC’로 일본 보안 시장 공략",
-      "link": "http://www.boannews.com/media/view.asp?idx=144089&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 14:40:00 +0900",
-      "description": "해외 매출 30% 이상·수출의 탑 수상... 글로벌 강소기업 역량 입증일본 지사 설립 후 20년 이상 지속 성장... 현지 파트너 협력 토대로 시장 입지 확대 [보안뉴스 한세희 기자] 스콥정보통신(대표 김찬우)은 일본 지바현 마쿠하리 메세(Makuhari Messe)에서 열린 일본 최대 정보통신기술(ICT) 전시회 ‘인터롭 도쿄(Interop Tokyo)",
-      "language": "ko",
-      "summary": "인터롭 도쿄2026 대한민국에서 일본 보안 시장 공략 발생",
-      "points": [
-        "기사는 스콧정보통신이 이어서 한국의 인터롭 도쿄(Interop Tokyo) 회의에 가입하고 지사를 출시해야 했던 내년여동([내년 3/4 이후])로 그룹을 통한 20년간 성장세도 기다리고 있음",
-        "현재는 일본 보안 시장 공략에 사실 영향이 있지만, 해외매치들이 공급 방식을 바꿔서 대체성을 유도하고 있다",
-        "스콧정보통신은 보안 시장 공략에 대한 여름차를 소개하고, 이어서는 현재 일본 보안 시장 공략에 대해 질문을 받아들이기로 되어 내리는"
-      ],
-      "insight": "스콧정보통신은 일본 보안 시장 공략에 대한 인사이트를 제공하여, 현재 공급 방식의 변화와 경력성을 강조한다."
-    },
-    {
-      "title": "엠스톤, 대만 HST와 공식 파트너십 체결... 대만 영상보안 시장 본격 진출",
-      "link": "http://www.boannews.com/media/view.asp?idx=144088&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 14:13:00 +0900",
-      "description": "HST, 현지 마케팅·기술지원·유통망 확대 등 대만 사업 총괄NVR과 통합관제 솔루션 기반 아시아 시장 확대 추진[보안뉴스 강초희 기자] 영상 저장 및 통합관제 솔루션 전문기업 엠스톤(대표 정승룡)이 대만 영상보안 전문기업 HST(Huang Sheng Technology Co., Ltd.)와 공식 파트너십 계약을 체결하고 대만 시장 진출을 본격화한다고 밝혔",
-      "language": "ko",
-      "summary": "대만 영상보안 시장에서 HST가 체결한 공식 파트당 엠스톤이 대MAN 진출을 본격화하고 있음",
-      "points": [
-        "HST는 현지 마케팅·기술지원·유통망 확대, 통합관제 시장에서의 계약을 마치 고정으로 한다.",
-        "공식 파트당이 지정한 기준을 넘어나 대MAN 시장에서의 전반적인 진출을 위해 곧바로 전환했다.",
-        "이러한 근ver 기업은 대MAN 영상보안 시장에서의 성공과정이 이제 발생하고 있음을 증명할 수 있다."
-      ],
-      "insight": "이러한 HST과 대MAN 영상보안 시장에서의 근ver 계약은 기술 지원, 마케팅, 유통망 세부적인 구조와 전문화를 강조하고 발전시사회에서의 공동운동을 잘 이해하여 국내 영상보안 시장에서도 유용한 기회를 필요로 것으로 생각된다."
-    },
-    {
-      "title": "한국소프트웨어저작권협회·한국소프트웨어감정평가학회, AI 시대 대응 ‘소프트웨어포렌식센터’ 공동 출범",
-      "link": "http://www.boannews.com/media/view.asp?idx=144087&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 14:12:00 +0900",
-      "description": "AI 시대 소프트웨어 분쟁 대응을 위한 핵심 인프라 가동[보안뉴스 강초희 기자] 생성형 AI와 AI 코딩 기술 확산으로 소프트웨어(SW) 저작권 침해와 영업비밀 유출, 소프트웨어 계약 분쟁, 소프트웨어 유사도 분쟁 등이 증가하는 가운데 이를 전문적으로 분석·감정할 ‘소프트웨어포렌식센터’(KSFC: Korea Software Forensics Center)가",
-      "language": "ko",
-      "summary": "AI 시대 소프트웨어 분쟁 대응을 위한 핵심 인프라 가동[보안뉴스 강초희 기자] 생성형 AI와 AI 코딩 기술 확산으로 소프트웨어(SW) 저작권 침해와 영업비밀 유출, 소프트웨어 계약 분쟁, 소프트웨어 유사도 분쟁 등이 증가하는 가운데 이를 전문적으로 분석·감정할 ‘소프트웨어포렌식센터’(KSFC: Korea Software Forensics Center)가",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "무너진 코드 신뢰, SBOM 확장으로 잡는다... 스패로우 SAI 2026 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=144085&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 14:06:00 +0900",
-      "description": "공급사와 수요사 시각화하는 차세대 소프트웨어 공급망 생태계 구상실제 사례로 풀어낸 개발 보안 사고 패턴 분석 세션 호응[보안뉴스 조재호 기자] 클로드 미토스(Claude Mythos) 같은 AI 모델의 등장으로 취약점 발견 속도가 빨라지는 가운데, 스패로우가 AI 혁신으로 완성하는 공급망 보안 해법을 제시했다.스패로우는 11일 서울 용산구 나인트리 프리미어",
-      "language": "ko",
-      "summary": "스패로우 SAI는 AI를 이용한 IT/소프트웨어 공급 보안 방법을 제시한다.",
-      "points": [
-        "스패로우 SAI는 AI로 기술 코드에 이용되지 않은 부정적인 모니터링을 위해서 개발한",
-        "관리 오류 획벃, 소유자와 구성원의 코드 신뢰를 강화하여 보안 업데이트 손실을 최소화",
-        "스패로우 SAI는 공급망에서의 보안 전략의 확장을 AI를 통해 개선"
-      ],
-      "insight": "이러한 업데이트 방법은 공급망에서의 IT/소프트웨어 보안 기능을 통화하는데 기본적인 모니터링 전용성을 해제한다."
-    },
-    {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
-      "language": "en",
-      "summary": "Avataar AI's distilled video model is priced at $0. 005 for every second of generation",
-      "points": [
-        "Avataar AI's distilled video model is priced at $0",
-        "005 for every second of generation",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "description": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
-      "language": "en",
-      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users",
-      "points": [
-        "Equal AI said that its AI-powered call assistant now has over a million monthly active users",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "대한민국, 인공지능 및 6G 보안 국제표준 개발 착수... 신규 표준 14건 등 승인",
-      "link": "http://www.boannews.com/media/view.asp?idx=144086&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 12:08:00 +0900",
-      "description": "한국 제안 신규 표준화 항목 14건 승인국제표준 7건 사전채택, 국제표준 및 기술보고서 등 8건 승인[보안뉴스 강현주 기자] 우리나라가 제안한 인공지능 및 6G 보안 국제표준들이 승인되면서 본격 개발에 착수하게 됐다. 과학기술정보통신부(부총리 겸 장관 배경훈)는 국제전기통신연합 전기통신표준화 부문(ITU-T) 정보보호연구반(SG17, 수석대표 염흥열 순천향",
-      "language": "ko",
-      "summary": "국제 ITU-T 기원을 체킹하여, 인공지능과 6G보안에 대한 신규 표준화 개정서가 승인되었음",
-      "points": [
-        "국제전기통신 연합 전기통신표준화 부중과 국제전기통신 연합 전기통신 푸더지 부중과 국제전기통신 전기보호연구반이 제안한 인공지능과 6G보안 국제표준화 개정서가 국제전기통신 연합 전기통신푸더지 부중과 국제전기통신 전기보호연구반 사전에서 승인되었다.",
-        "이러한 승인은 ITU-T 기원에 의해 체킹된 인공지능과 6G보안에 대해 국제표준화를 위해서다.",
-        "8건 신속사전 참가자들이 제안한 ITU-T 기원을 이용하여, 국제전기통신 연합 전기보호연구반의 ITU-T 기원에서 제안한 ITU-T 기원이 국제전기통신 전기보호연구반과 국제전기통신 전기통신 연합 전기통신 푸더지 부중에서 체킹된 ITU-T 기원이 승인되었다."
-      ],
-      "insight": "이러한 승인은 국제전기통신 연합 전기보호연구반과 국제전기통신 전기통신 연합 전기통信부중에서 ITU-T 기원을 사용하여, 인공지능과 6G보안에 대한 국제표준화를 위해서다. 이러한 기원은 국제전기통신 연합 전기통신 푸더지 부중과 ITU-T 기원에서 체킹된 논의와 같이 ITU-T 기원을 사용하여, 국제전기통신 전기보호연구반과 국제전기통信 전기통신 연합 전기통信 푸더지 부중에서 ITU-T 기원을 체킹하여 제안한 ITU-T 기원이 국제전기통信 전기통신 연합 전기통信 푸더지 부중에서 체킹된 ITU0-T 기원을 일캘하거나, ITU-T 기원에서 제안한 ITU-T 기원을 체킹한 ITU-T 기원이 국제전기통信 전기보호연구반과 ITU-T 기원에서 제안한 ITU-T 기원이 국제전기통信 전기통신 연합 전기통신 푸더지 부중에서 체킹된 ITU-T 기원을 일캈하는 것이 기운한 선행서가 제시되었다."
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "language": "en",
-      "summary": "Theker has raised $85 million for factory robot development that focuses on adaptability rather than specialization.",
-      "points": [
-        "Fundraising of $85M to develop flexible robots",
-        "Adaptable 'factory floor' with reconfigurable machines",
-        "Collaboration between researchers and industry for robot development"
-      ],
-      "insight": "Theker's funded project represents a shift towards more versatile factory automation, which may impact the future design of industrial robots."
-    },
-    {
-      "title": "[해킹을 결제하시겠습니까?] #7. “환불만 믿었는데...” 오픈마켓 판매자 사칭 사기 구분법",
-      "link": "http://www.boannews.com/media/view.asp?idx=144028&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 10:46:00 +0900",
-      "description": "품절·배송 지연 문자로 접근해 링크 클릭 유도앱 설치나 인증번호 요구하면 즉시 의심해야 “엥. 지난주에 산 티셔츠 품절이라 환불해준대.” “환불하게?” “그래야지. 여기 링크로 들어가면 되나?” “링크라고?” “응. 환불 신청하려면 링크를 클릭하라는데?” “링크",
-      "language": "ko",
-      "summary": "해킹을 결제하시겠습니까? #7. 취소 신청 메일에서 고객의 이해가 제대로 안나.",
-      "points": [
-        "사용자는 추정적으로 환불을 마치하였다.",
-        "링크를 클릭하여 결제 신청을 실행할 수 0에 있다.",
-        "사용자는 이상한 요청에 대해 질통한 문구를 듣고 있다."
-      ],
-      "insight": "고객의 신호가 이해하지 못했음에도 안정적으로 결제 요청을 수정하기 위해 대용한 협상이 필요하다."
-    },
-    {
-      "title": "AI와 데이터가 바꾸는 도시... 수원·부산·성남 스마트도시 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144083&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 12 Jun 2026 10:44:00 +0900",
-      "description": "국토부, 2026년 스마트도시 조성사업 대상지로 수원·부산·성남 선정AI·로봇·모빌리티·헬스케어 기반 스마트도시 서비스 구축 추진경남·태안은 데이터허브 시범사업 선정... AI 관광·연안 안전관리 실증[보안뉴스 강초희 기자] 국토교통부(장관 김윤덕)는 ‘2026년 스마트도시 조성사업’ 공모 결과, 거점형은 경기도 수원시, 특화단지는 부산광역시, 경기도 성남",
-      "language": "ko",
-      "summary": "국토교통부는 수원시와 성남군이 2026년 스마트도시 조성사업 대상지로 선정",
-      "points": [
-        "국토교통부는 '2026년 스마트도시 조성사업' 공모 결과를 발표했다.",
-        "수원시, 부산광역시, 그리고 성남군이 국내선정대상지로 선정되었다.",
-        "선정이 기술 및 비중에 따라서 합쳤을 것이다."
-      ],
-      "insight": "이 선정은 AI와 데이터뿐만 아니라 IoT, 5G등장하여 IT/기술 업체에서의 혼연을 조성한다."
     }
   ]
 }
