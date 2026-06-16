@@ -1,6 +1,199 @@
 {
-  "generatedAt": "2026-06-16T04:10:12.607Z",
+  "generatedAt": "2026-06-16T11:20:35.012Z",
   "articles": [
+    {
+      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
+      "link": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 11:00:00 +0000",
+      "description": "The Meta-owned social platform announced a series of new features launching today, including a \"Your Algo\" tool that lets users control what they see in their feeds",
+      "language": "en",
+      "summary": "Threads has introduced personalization and community tools as it hits the 50 end-user milestone monthly.",
+      "points": [
+        "Meta's Threads platform reaches its first 'majority user mark.'",
+        "Introduces new features: Your Algo tool for feed control, Stories feature inspired by Instagram and Facebook.",
+        "Threads aims to be the primary social network on Meta properties."
+      ],
+      "insight": "As Threads grows as part of Meta'softly competes in personalized content delivery within its ecosystem. The introduction of 'Your Algo' demonstrates an effort towards greater user control, which could set a precedent for future social platforms seeking to balance algorithmic curation with curated experiences."
+    },
+    {
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 10:30:00 +0000",
+      "description": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+      "language": "en",
+      "summary": "ChatGPT's market share has dropped below the 50% threshold for the first time while maintaining a significant lead in user numbers over competitors.",
+      "points": [
+        "ChatGPT no longer holds more than half of AI assistant users globally, dipping under this mark for the inaugural time."
+      ],
+      "insight": "This shift indicates growing competition and changing preferences within the rapidly evolving landscape of conversational AI tools. Companies may need to adapt their strategies to retain market share amidst these dynamics."
+    },
+    {
+      "title": "韓 미토스 접근 무산... 중국 연계 한국 통신사 탓? 이통 3사 “사실무근”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144143&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 19:03:00 +0900",
+      "description": "삼성전자, SK하이닉스, SKT의 접근 권한 일단 무산... 향후 재확보 가능성 모색 “접근권 명단에 중국 연계 한국 통신사 탓”... 이통 3사 모두 연관성 부인 “특정 제품 의존 위험... 대안과 AI 주권 중요”[보안뉴스 강현주 기자] 앤트로픽의 AI 모델 ‘미토스’에 대한 백악관의 수출 통제 조치로 인해 미국 국적이 아닌 모든 기업 및 기관이 미토",
+      "language": "ko",
+      "summary": "3주년 중국 전방연계가 미국로부터 부탁하지 않음에 도담...",
+      "points": [
+        "- 삼성전자, SK하이닉스, SKT가 중국에서의 접근권 구조물을 무산으로 만들었다.",
+        "- 미국와 한국은 자연으로 재확보하기 어렵다...",
+        "- AI, 대용량 탑재 제품이 중요..."
+      ],
+      "insight": "중국과 한국의 IT/기술 관계에서는 AI와 인공지능(AI) 및 대용량 탑재 제품의 중요성이 현在..."
+    },
+    {
+      "title": "행정안전부, 각종 재난안전정보 제공하는 ‘안전디딤돌’과 ‘이머전시레디앱’ 개편",
+      "link": "http://www.boannews.com/media/view.asp?idx=144142&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 17:26:00 +0900",
+      "description": "재난으로부터 안전 지키기 위한 정보, 내 위치 기반으로 한 눈에 확인위치 기반 재난안전정보 제공 강화, 국내 체류 외국인을 위한 22종 언어 지원[보안뉴스 엄호식 기자] 행정안전부(장관 윤호중)는 국민 누구나 재난 대응에 필요한 정보를 스마트폰으로 쉽고 편리하게 확인할 수 있도록 ‘안전디딤돌’ 앱을 개편했다. ‘안전디딤돌’은 내국인을 대상으로 재난문자, 행",
+      "language": "ko",
+      "summary": "국민 사용자가 재난에 대한 정보를 쉽게 확인할수 있도록 개선되었음",
+      "points": [
+        "‘안전디딤돌’앱이 국민 사용자들에게 재난에 대한 국내, 해외인심 문제를 통화하도록 개선",
+        "22종 언어로 제공하는 국내 체류 재난정보를 강화한 것임",
+        "앱을 환경에서 사용하여 인구의 이해, 위치의 확인이 가능"
+      ],
+      "insight": "이 기사는 IT/기술 업체에서 직접 참조하여 '안전디딤돌'앱의 개선과정에 대한 보고자가 있음"
+    },
+    {
+      "title": "위드네트웍스, withVTM V3.0 공공 조달 등록... “상시 보안 아키텍처 지원 총력”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144140&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 17:06:00 +0900",
+      "description": "N2SF 개편 및 ISMS-P 의무화 발맞춰 복잡한 입찰 없는 상시 보안망 구축 지원자산 식별부터 취약점 매핑까지 단일 라이프사이클로 자동화하여 맹점 차단[보안뉴스 조재호 기자] 위드네트웍스는 자사의 인공지능(AI) 기반 자산 및 보안 취약점 통합관리 플랫폼 ‘withVTM V3.0’이 조달청 나라장터 디지털서비스몰에 정식 등록됐다고 16일 밝혔다. 이번",
+      "language": "ko",
+      "summary": "N2SF 개편 및 ISMS-P 의무화 발맞춰 복잡한 입찰 없는 상시 보안망 구축 지원자산 식별부터 취약점 매핑까지 단일 라이프사이클로 자동화하여 맹점 차단[보안뉴스 조재호 기자] 위드네트웍스는 자사의 인공지능(AI) 기반 자산 및 보안 취약점 통합관리 플랫폼 ‘withVTM V3. 0’이 조달청 나라장터 디지털서비스몰에 정식 등록됐다고 16일 밝혔다",
+      "points": [
+        "0’이 조달청 나라장터 디지털서비스몰에 정식 등록됐다고 16일 밝혔다",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“클로드 쓰려면 신원 밝혀라” 앤트로픽, 개인정보처리방침 개정안 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=144131&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 16:54:00 +0900",
+      "description": "클로드 이용자 대상 연령·신원 검증 데이터 수집 조항 신설개인 사용자 대상으로 7월 8일 발효, 기업·개발자 고객은 예외 적용[보안뉴스 조재호 기자] 앤트로픽(Anthropic)은 최근 클로드 개인 이용자를 대상으로 연령·신원 확인 절차를 도입하는 내용의 개인정보처리방침 개정안을 발표했다.7월 8일부터 발효되는 이번 개정안은 무료·프로·맥스 플랜을 이용하는",
+      "language": "ko",
+      "summary": "Anthropic이 연령·신원 확인을 도입한다.",
+      "points": [
+        "Anthropic는 모든 개인에 대해서 신원과 연령을 검사",
+        "7월 8일부터 이룬 개정안은 무료·프로와 플랜사용",
+        "개정안은 고객의 보호를 위해 진동하는 방식을 제공"
+      ],
+      "insight": "이러한 개정안은 IT/기술 업계에서 클로드 사용자의 신속성과 보호를 강조한다."
+    },
+    {
+      "title": "수사 인력의 한계 AI로 넘는다... 6월 20일 ‘과학치안’ 세미나 열려",
+      "link": "http://www.boannews.com/media/view.asp?idx=144138&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 16:49:00 +0900",
+      "description": "대한지방자치학회 등 학술 단체 연합해 경찰 수사 체계 대전환 모색디지털 포렌식 및 생성형 AI 현장 적용 사례와 한계 입체적 조명[보안뉴스 조재호 기자] 지능화되는 범죄에 맞설 첨단 수사 기법과 경찰의 혁신 방향을 모색하는 과학치안 대전환 세미나가 개최된다.대한지방자치학회와 한국행정학회, 공공안전행정연구회, 대구경북경찰행정교수회가 공동 주최하는 과학치안 대",
+      "language": "ko",
+      "summary": "대한지방자치학회 등 학술 단체 연합해 경찰 수사 체계 대전환 모색디지털 포렌식 및 생성형 AI 현장 적용 사례와 한계 입체적 조명[보안뉴스 조재호 기자] 지능화되는 범죄에 맞설 첨단 수사 기법과 경찰의 혁신 방향을 모색하는 과학치안 대전환 세미나가 개최된다. 대한지방자치학회와 한국행정학회, 공공안전행정연구회, 대구경북경찰행정교수회가 공동 주최하는 과학치안 대",
+      "points": [
+        "대한지방자치학회 등 학술 단체 연합해 경찰 수사 체계 대전환 모색디지털 포렌식 및 생성형 AI 현장 적용 사례와 한계 입체적 조명[보안뉴스 조재호 기자] 지능화되는 범죄에 맞설 첨...",
+        "대한지방자치학회와 한국행정학회, 공공안전행정연구회, 대구경북경찰행정교수회가 공동 주최하는 과학치안 대",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "조달청-KOTRA. 수출 원팀 구축으로 혁신기업 세계무대 진출 가속",
+      "link": "http://www.boannews.com/media/view.asp?idx=144139&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 16:47:00 +0900",
+      "description": "조달청 발굴 혁신기업들 코트라의 글로벌 네트워크 적극 활용 전망시범구매 이후 혁신제품의 후속 수출 위한 지원 등 협력[보안뉴스 엄호식 기자] 조달청(청장 백승보)과 대한무역투자진흥공사(사장 강경성, KOTRA)는 16일 서울 서초구 소재 KOTRA 본사에서 ’혁신제품 해외진출 지원을 위한 업무협약‘을 체결하고, 혁신제품의 해외실증과 수출지원을 연계하는 협력",
+      "language": "ko",
+      "summary": "조달청 발굴 혁신기업들 코트라의 글로벌 네트워크 적극 활용 전망시범구매 이후 혁신제품의 후속 수출 위한 지원 등 협력[보안뉴스 엄호식 기자] 조달청(청장 백승보)과 대한무역투자진흥공사(사장 강경성, KOTRA)는 16일 서울 서초구 소재 KOTRA 본사에서 ’혁신제품 해외진출 지원을 위한 업무협약‘을 체결하고, 혁신제품의 해외실증과 수출지원을 연계하는 협력",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "AI 해킹과 징벌적 제재의 시대, 해법은 ‘선제적 보안과 회복력’... 제154차 CISO 포럼",
+      "link": "http://www.boannews.com/media/view.asp?idx=144136&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 16:08:00 +0900",
+      "description": "고낙준 개인정보위 예방조정심의관, 조사와 분리된 사전 실태 점검 및 ISMS-P 개정안 강조조상원 아카마이 상무, 침해 상황 전제한 ‘마이크로 세그멘테이션’ 아키텍처가 제로트러스트의 핵심[보안뉴스 조재호 기자] “프론티어 AI 모델 확산에 따른 사이버보안 이슈가 글로벌 화두로 떠오른 만큼, 과기정통부 역시 국가안보실 및 유관기관과 협력해 이를 최우선 현안으",
+      "language": "ko",
+      "summary": "AI 기술이 보호업로에서 중요한 역할을 하는 것인지, CISO 회의에서 '선수적 보안과 회복력'를 강조한다.",
+      "points": [
+        "- AI 기술이 IT/업무 영향을 미리 결정하도록 모니터링 가능",
+        "- CISO가 '선수적 보안과 회복력'를 강조한 시대에서, AI 사용자 정보의 보호에 관하여 기술이 필요",
+        "- 'MAI 아키텍처'는 AI 공개보안 문제로 인해 긌리크먼트로 사용하는 경우임"
+      ],
+      "insight": "이러한 회의에서 기술이 AI를 통한 IT/업무보안에 중요한 역할을 한다는 것은, AI로 인해 충돌성을 올바렴시 하는 방식이 매우 의미밖에 없을 가능성이다."
+    },
+    {
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 06:59:00 +0000",
+      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "language": "en",
+      "summary": "Malaysian startup Respond.io has raised $62.5 million for its AI-powered messaging platform that handles customer inquiries efficiently.",
+      "points": [
+        "Respond.io, a Malaysian start-up focusing on high volumes of customer service using artificial intelligence (AI), secures $62.5M funding.",
+        "The AI chatbot model used by Respond.io stands out as it charges per conversation rather than the number of seats or users.",
+        "With ambitions to expand its operations and acquire companies, Respond.io is set on becoming a significant player in customer service."
+      ],
+      "insight": "Respond.io's funding round not only cements AI chatbots as an efficient solution for handling high volumes of customer queries but also highlights the scalability and growth potential within the IT/technology industry, especially with companies looking to automate their services."
+    },
+    {
+      "title": "티피링크, Wi-Fi 7 와이파이 증폭기 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144137&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 15:42:00 +0900",
+      "description": "RE235BE・RE405BE더 넓고 끊김 없는 무선 환경 구현고화질 영상 스트리밍과 온라인 게임, 화상회의, 스마트홈 기기 연결 등 환경에 적합[보안뉴스 엄호식 기자] 글로벌 네트워크 장비 기업 티피링크(TP-Link)는 Wi-Fi 7 기술을 적용한 듀얼 밴드 와이파이 증폭기 2종 RE235BE와 RE405BE를 출시했다고 밝혔다.신제품 2종",
+      "language": "ko",
+      "summary": "TP-Link는 Wi-Fi 7를 이용한 RE235BE와 RE405BE 중 하나로 Wi-Fi 7와이파이 증폭기 RE405BE 시장에 별도로 진지하게 출시했다.",
+      "points": [
+        "TP-Link는 Wi-Fi 7를 이용한 RE235BE와 RE4table BE 중 하나로 Wi-Fi 7와이파이 증포기 RE405BE 시장에 별도로 진지하게 출시했다.",
+        "Wi-Fi 7는 고성능의 마이그레이션 Wi-Fi를 제공한다.",
+        "기존 Wi-Fi 7과 RE405BE는 현재가격에 따라 정확한 결정의 수준을 모두 이해하지 못한다."
+      ],
+      "insight": "Wi-Fi 7를 이용한 RE405BE는 현재 IT/업무화학 계열에서 기술의 발전으로 인한 모바일이노리티를 앞지안하게 만들 수 0많다."
+    },
+    {
+      "title": "시큐아이, MAX Care 운영 점검 서비스 무상 제공",
+      "link": "http://www.boannews.com/media/view.asp?idx=144135&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 14:23:00 +0900",
+      "description": "정책 분석·시그니처 점검으로 IPS 운영 효율성 제고제조사 전문 엔지니어 직접 점검 통해 보안 운영 품질 강화[보안뉴스 원병철 기자] 시큐아이(대표 정삼용)가 BLUEMAX IPS를 신규 도입하거나 사용 중인 고객사를 대상으로 MAX Care 운영 점검 서비스를 무상 제공한다고 16일 밝혔다. 최근 기업 네트워크 트래픽이 증가하고 사이버 위협이 고도화됨에",
+      "language": "ko",
+      "summary": "시큐아이(대표 정삼용)가 BLUEMAX IPS 서비스를 무상 제공하여, 기업 네트워크 트래픽으로 인한 보안 문제를 방지하고자 배정해둔 계정과 다른 사용자를 대상으로 MAX Care 운영 점검 서비스를 신속하게 제공한다.",
+      "points": [
+        "시큐아이가 기업 네트워크 트래픽과 다른 사용자의 계정을 대상으로 MAX Care 운영 점검 서비스를 제공한다.",
+        "이 기사는 시큐아인 감독 정삼용이 신규 BLUEMAX IPS를 도입하여, 운영 서비스 강화에 중점을 둔다.",
+        "서비스는 보안 문제를 방지하기 위해 최근 기업 네트워크 트래픽이 증가한 데이터와, 사이버 위협의 애초에서 곧장으로 대비하고 있다."
+      ],
+      "insight": "이러한 시큐아인 기업이 BLUEMAX IPS를 도착함으로써 보안 문제를 방지하고자 하는 것은 보안에 우수한 중시성을 보이거나, 운영 점검의 포인트를 강화하기 위한 마법서비스로, 그리고 이는 운영 점검에 대한 IT/기술 업체에서의 현재 중요성과 환산으로 직접 참조할 수 있다."
+    },
+    {
+      "title": "“닌텐도 금융문서 등 민감한 정보 탈취”... 해킹 조직 주장",
+      "link": "http://www.boannews.com/media/view.asp?idx=144134&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 16 Jun 2026 13:55:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 섀도우바이츠(SHADOWBYT3$)라는 이름의 해킹 조직이 닌텐도를 해킹해 약 859메가바이트(MB) 분량의 민감한 내부 데이터를 유출했다고 주장했다. 공격자의 주장이 사실인지는 아직 확인되지 않았으나, 닌텐도 직원 관련 정보가 노출됐을 가능성이 제기된다고 15일(현지시간) 사이버 보안 분야 외신이 보도했다.SHADOWBYT3$는",
+      "language": "ko",
+      "summary": "해킹 조직 SHADOWBYT3$이 닌텐도를 해킹해 약 859MB의 민감한 정보를 유출하고 있다고 주장했다.",
+      "points": [
+        "해킹 조직 SHADOWBYT3$이달성자와 함께한국에서 민감한 정보를 해킹해 있다고 주장",
+        "SHADOWBYT3$는 닌텐도 이름의 사진을 공개하지 않았지만, 관련 정보가 전문가들에게 노출된다고 소식이 듣었다.",
+        "SHADOWBYT3$는 SHADOWDOWN(HACKED)와 SHADOWDATA(STOLEN DATA)라는 기능을 광고로 통합하여 이용한다고 소식"
+      ],
+      "insight": "해킹 조직의 공격자가 SHADOWBYT3$이름을 사용하여 민감한 정보를 달성하고, 그들이 공개되지 않은 상태로만 다음 단계에 가기를 논의하고자 한다."
+    },
     {
       "title": "‘AI 공격’보다 심각한 것?... 세 기업 중 하나 ‘공급망 공격’ 시달려",
       "link": "http://www.boannews.com/media/view.asp?idx=144130&kind=&sub_kind=",
@@ -554,200 +747,6 @@
         "- 개인정보 보호: 개인정보 안전을 위해 자격증명을 저장한 사용이 큰 위험성에 대비"
       ],
       "insight": "알 수 digital 사기(개인정보위)와 클라우드 개별공격 방식(개인정보위, 금융 개발 협업 도구 사용시 자격증명 저장)에서 강화 된다."
-    },
-    {
-      "title": "안랩, 일본 ‘인터롭 도쿄’서 통합 보안 역량 선보여... “현지화 가속”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144109&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 11:24:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본 시장에서 자사의 사이버물리시스템(CPS), 보안 역량 및 AI 기반 위협 인텔리전스 경쟁력, 클라우드 기반 보안관리 솔루션 등 IT와 운영 기술(OT)를 연결하는 통합 보안 역량을 선보였다.안랩은 6월 10일부터 12일까지 3일간 일본 지바현 마쿠하리 멧세에서 열린 일본 최대 규모의 IT 전시회 ‘인터롭",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본 시장에서 자사의 사이버물리시스템(CPS), 보안 역량 및 AI 기반 위협 인텔리전스 경쟁력, 클라우드 기반 보안관리 솔루션 등 IT와 운영 기술(OT)를 연결하는 통합 보안 역량을 선보였다. 안랩은 6월 10일부터 12일까지 3일간 일본 지바현 마쿠하리 멧세에서 열린 일본 최대 규모의 IT 전시회 ‘인터롭",
-      "points": [
-        "[보안뉴스 강현주 기자] 안랩(대표 강석균)이 일본 시장에서 자사의 사이버물리시스템(CPS), 보안 역량 및 AI 기반 위협 인텔리전스 경쟁력, 클라우드 기반 보안관리 솔루션 등 ...",
-        "안랩은 6월 10일부터 12일까지 3일간 일본 지바현 마쿠하리 멧세에서 열린 일본 최대 규모의 IT 전시회 ‘인터롭",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "에스투더블유, 대만서 AI 시대 사이버위협 대응 전략 공유",
-      "link": "http://www.boannews.com/media/view.asp?idx=144108&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 10:57:00 +0900",
-      "description": "대만 CHT시큐리티와 공동 컨퍼런스 개최 CTI 기반 대응 전략 소개하며 ‘퀘이사’ 소개[보안뉴스 강현주 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W, 대표 서상덕)가 대만 기업들을 대상으로 AI 시대 사이버위협 인텔리전스 기반 대응 전략을 공유하고 자사 플랫폼 ‘퀘이사’를 소개했다. S2W는 11일 ‘AI 시대의 보안 전략’을 주제로 대",
-      "language": "ko",
-      "summary": "에스투더블유는 AI 기업들이 보안 전략을 공유하고 '퀘이사'를 소개했다. 이 점유자는 대한민국에서 일부 SME가 광범위한 기능과 콜백을 제공하고, AI 전문가의 역할을 많이 수활취소한다.",
-      "points": [
-        "에스투더블유(S2W)은 11일 'AI 시대의 보안 전략'을 주제로 개설한다.",
-        "공동 컨퍼런스 개체적인 AI 기업 대상",
-        "광범위한 기능과 콜백을 제공하고 SMEs의 보안 전략을 개시한다."
-      ],
-      "insight": "에스투더블유는 AI 시대의 보안 전략에 기여하여, 광범위한 기술을 공유하고 SMEs에서 보안 전략을 활성화하고 이를 통해 IT/기술 업체가 보호를 강화할 수 0ne가 흘리어 진짜로 받아들일 것이다."
-    },
-    {
-      "title": "[인사] 개인정보보호위원회",
-      "link": "http://www.boannews.com/media/view.asp?idx=144107&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 10:24:00 +0900",
-      "description": "◇과장급 전보△공공실태점검단장 임종철(2026년 6월 13일자)[원병철 기자(boanone@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "개인정보보호위원회에서의 무단전재 결과, 이후 재배포금지",
-      "points": [
-        "회의가 무단전재를 적약한 수로 결정을 내리고 제8호의 재배포금지를 준수한다.",
-        "이겨워진 질무저장되기에 입력자들은 여전히 회의를 내뱉는 계약한다.",
-        "이 값으로 인해서 회의 팩스플러시도가 될 수 discussions are held for the protection of personal information, and following a decision made by the Personal Information Protection Committee that no violations occurred in terms of unautnerless storage after their meeting on June 13th at Boan News Agency. This has resulted from an agreement to not perform any further disclosures."
-      ],
-      "insight": "회의에서는 개인정보보호를 강조하고, 이전적용된 내용이나 협상에서의 동의를 부른다."
-    },
-    {
-      "title": "티피링크, Wi-Fi 7 USB 랜카드 Archer TBE400U Plus 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144106&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 09:57:00 +0900",
-      "description": "트라이 밴드 Wi-Fi 7 지원하는 하이 게인 USB 무선 랜카드기존 PC도 Wi-Fi 7으로 업그레이드[보안뉴스 엄호식 기자] 글로벌 네트워크 장비 기업 티피링크(TP-Link)는 차세대 무선 통신 규격인 Wi-Fi 7을 지원하는 ‘Archer TBE400U Plus’를 출시했다고 밝혔다.Archer TBE400U Plus는 트라이 밴드 Wi-Fi 7을",
-      "language": "ko",
-      "summary": "지정된 기사의 핵심 내용을 요약: TP-Link는 Wi-Fi 7을 지원하는 Archer TBE40 end에서 탑착. Wi-Fi 7은 트라이 밴드를 제공하고, PC, 마스터보건 시스템 등에서의 시각화와 다양한 약지 영구적인 통신을 위해 사용할 수 있는.",
-      "points": [
-        "TP-Link은 Wi-Fi 7을 지원하는 Archer TBE40 end의 출시",
-        "이를 위해 PC, 마스터보건 시스템에서 사용되는 다양한 유틸리티와 지원을 제공한다.",
-        "Wi-Fi 7은 PC와 다양한 애플리켓에서의 시각화 및 전용 통신을 위해 사용된다."
-      ],
-      "insight": "Wi-Fi 7은 IT 업계에서 사용하는 PC, 마스터보건 시스템과의 지원이 중요한 전략에서 Wi-Fi 7을 사용하는 방법을 제공한다."
-    },
-    {
-      "title": "넥스텝, 3D 라이다(LiDAR) 융합 기술로 외곽경계감시의 새 패러다임 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144105&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 09:53:00 +0900",
-      "description": "제21회 한국일보 Digital Innovation Awards 수상[보안뉴스 엄호식 기자] 3D 라이다(LiDAR)를 활용한 솔루션 개발 기업 넥스텝이 ‘제21회 한국일보 디지털 이노베이션 대상(Digital Innovation Awards)’에서 ‘라이다(LiDAR) 인지 소프트웨어’로 AI・디지털혁신・제조 부문 대상을 수상했다",
-      "language": "ko",
-      "summary": "3D LiDAR를이용한 제품개발자의 '넥스텝'가 Digital Innovation Awards 대상에서 '라이다(LiDAR) 인지 소프트웨어'로 선정.",
-      "points": [
-        "3D LiDAR을사용한 제품개발기업 '넥스텝'이 Digital Innovation Awards에서 '라이다(LiDAR)인지 소프트웨어'로 선정",
-        "제21회 한국일보 Digital Innovation Awards에서 넥스텝은AI, 디지털진공, 제조부중곱의대상으로 등록",
-        "이러한 LiDAR을사용하는데 기인양과각국민들이 인식함"
-      ],
-      "insight": "제공된 IT/기술 업체에서 AI를삼성산엔칭, Samsung가능한 LiDAR 인지능련을갖는 플랫포터인 '넥스텝'이 Digital Innovation Awards에서 대상으로실행"
-    },
-    {
-      "title": "최은수 인텔리빅스 대표 “똑똑한 AI보다 확실한 ‘비상 스위치’ 가진 AI가 패권 쥔다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144103&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 09:32:00 +0900",
-      "description": "12일 대한상공회의소 ‘글로벌 인류공영 AI 포럼(GAFH) 2026’ 기조연설 진행95% 정확도 환상 버려야... 통제가능성·책임성 내재화한 ‘T.R.U.S.T’ 프레임워크 제시 “韓 세계 최고 수준 제조 인프라 활용해 글로벌 ‘AI 신뢰 표준’ 주도해야”[보안뉴스 강초희 기자] “AI 시대의 최종 승자는 ‘가장 자율적인 시스템’(Autonomous Sy",
-      "language": "ko",
-      "summary": "대한상공회의소 이후에 'AI'의 관련 기사에서 인정받는 T.R.U.S.T 프레임워크의 제시와 글로벌 AI 신뢰증명이 요구되더라도, IT/기술 업무에서는 '비상 스위치'를 가지고 수확하거나, 효과적인 일을 이행할 수 0ne의 대안이 되어야 한다.",
-      "points": [
-        "T.R.U.S.T 프리레임워크는 국제적인 AI 푸리에를 위해 곧장 'AI 신뢰 표준'을 지정한다.",
-        "기사 내용은 '통제가능성·책임성 내재화'이 필요하다는 것을 강조",
-        "이러한 제안에 대비해야 합니다."
-      ],
-      "insight": "기사의 내용은 'T.R.U.S.T 프리레임워크'이나 'AI 신뢰 표준'이 대안으로 만들어질 것을 의도하고, IT/기술 업무에서는 이러한 가정을 위해 '비상 스위치'을 통과하여 수확을 하거나, 효과적인 일을 이행할 수 있는 대안을 고려해야 합니다."
-    },
-    {
-      "title": "넷앤드, 포티넷과 증권사 대상 보안 세미나 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144104&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 09:27:00 +0900",
-      "description": "업무 자동화·퇴사자 관리 전략 공유[보안뉴스 원병철 기자] 통합 접근제어 및 계정관리(IAM) 솔루션 전문 기업 넷앤드(대표 신호철)가 11일 포티넷과 함께 증권사 고객을 대상으로 보안 세미나를 개최하고, 디지털 환경 변화에 맞춘 보안 고도화 방안을 공유했다고 밝혔다. 최근 금융권에서는 전산장애 및 보안 사고에 대한 경각심이 높아지고 있다. 특히 지난해 일",
-      "language": "ko",
-      "summary": "넷앤드, 포티넷과 증권사 고객에 대한 보안 세미나 개최",
-      "points": [
-        "넷앤드, 포틛넷과 증권사 고객 보안을 위해 개체학 시스템 제공",
-        "IAM(이어머니 계정관리) 솔루션의 중요성과 불려진 최신 개선사항 다양한 입력채우기",
-        "비공식적으로 보안 지형상황을 수정하고, IT/비공식적으로 이용자에게 제공"
-      ],
-      "insight": "넷앤드는 이 세미나를 개최하여 IT/기술 사원들이 보안 문제에 대비할 수 0가지고 말한다."
-    },
-    {
-      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-      "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 14 Jun 2026 21:55:34 +0000",
-      "description": "JPMorgan can't be pleased by any of this.",
-      "language": "en",
-      "summary": "Charlie Javice, the CEO accused and convicted in a Ponzi scheme case against his startup PIERCASHI, is reportedly seeking clemency from former President Donald Trump during his second term.",
-      "points": [
-        "CEO of the fraudulent investment firm seeks pardon",
-        "The request for forgiveness comes amidst ongoing legal battles and investigations into PIERCASHI'CTFs"
-      ],
-      "insight": "This news highlights potential issues regarding corporate governance, ethical leadership in the technology industry, as well as implications surrounding Trump's pardon decisions."
-    },
-    {
-      "title": "UK may ban social media for children under 16",
-      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 14 Jun 2026 20:17:00 +0000",
-      "description": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
-      "language": "en",
-      "summary": "U.K. may implement measures similar to those taken by Australia to restrict the use of certain major social media platforms for children under the age of 16.",
-      "points": [
-        "The U.K. government is considering a ban on popular teen-centric social media sites like TikTok, Snapchat and Musical.ly (now part of Musical.neoliberalism) to protect minors from potential harms such as cyberbullying.",
-        "According to the report by The Guardian, this is being done under new online safety regulations proposed in March last year targeting 'inappropriate material' and excessive screen time on social media sites for children below a certain age limit.",
-        "In Australia, where similar restrictions have been applied since 2015 (allowing only YouTube Kids to access such platforms), the move by U.K has raised concerns among experts over potential unintended consequences and negative impacts."
-      ],
-      "insight": "The proposed social media ban in the UK highlights growing global concern regarding online safety for children but also raises questions about its effectiveness, given similar initiatives that have sparked debates around freedom of speech. Additionally, it indicates a shift towards greater regulation and control over digital platforms by governments."
-    },
-    {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000",
-      "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "language": "en",
-      "summary": "As AI companies gear up for going public amidst a trend set by big tech firms like SpaceX and Tesla, there's interest in understanding which smaller startups might follow suit.",
-      "points": [
-        "AI-focused startup Seegene has completed its IPO process on the Korean stock exchange with strong performance",
-        "Telehealth app provider Babylon Health is also going public via a special purpose acquisition company (SPAC)",
-        "The trend of AI companies seeking to go public shows increasing confidence in technology sectors"
-      ],
-      "insight": "The growing willingness among startup founders to take their firms public, especially those focused on artificial intelligence and healthcare technologies, signals a robust belief in the transformative potential and value these sectors hold for investors."
-    },
-    {
-      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 14 Jun 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "language": "en",
-      "summary": "SpaceX has achieved significant mileststatic success in rocket technology using artificial intelligence.",
-      "points": [
-        "SpaceX's rockets are now more advanced due to AI integration",
-        "AI plays a crucial role in SpaceX’s ongoing space exploration and transportation efforts",
-        "Continued advancements from SpaceX could revolutionize both commercial travel and scientific research"
-      ],
-      "insight": "The successful implementation of artificial intelligence into rocket technology by companies like SpaceX may not only enhance the safety and efficiency of space missions but also has potential implications for AI development in other industries."
-    },
-    {
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 14 Jun 2026 14:00:00 +0000",
-      "description": "The new Sonos Play can act as a portable speaker inside and outside your home.",
-      "language": "en",
-      "summary": "John Doe has found the Sonos Play to be an ideal desk and kitchen speaker for both indoor and outdoor use.",
-      "points": [
-        "The Sonos Play is a portable smart speaker designed by Google.",
-        "Google claims that its new music-centric model will serve as a reliable home audio device when plugged in or connected to WiFi, functioning effectively both inside homes and outdoin the open air while being carried around.",
-        "With built-in features such as an enhanced bass for musical playbacks along with its ability to perform voice searches like Google Assistant does."
-      ],
-      "insight": "This development indicates a growing demand in home audio devices that are not limited by their setup and can be easily used on the go. As technology advances, this could lead to more portable gadgets being integrated into daily routines beyond traditional use cases."
-    },
-    {
-      "title": "금융권 해킹 훈련 현장 찾은 금감원장... “AI 위협 대응, 보안 예산·인력 확충” 주문",
-      "link": "http://www.boannews.com/media/view.asp?idx=144102&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 14 Jun 2026 14:37:00 +0900",
-      "description": "12일 금융보안원 금융보안관제센터 방문, 금융권 블라인드 모의해킹 훈련 상황 점검 [보안뉴스 한세희 기자] 이찬진 금융감독원장이 12일 금융보안원 금융보안관제센터를 방문, ‘2026년 상반기 금융권 블라인드 모의해킹 훈련’ 상황을 점검했다.블라인드 모의해킹 훈련은 공격 일시와 대상을 미리 공개하지 않고 화이트해커가 불시에 공격해 금융사의 해킹 탐지 및 방어",
-      "language": "ko",
-      "summary": "12일 금융보안원 금융보안관제센터 방문, 금융권 블라인드 모의해킹 훈련 상황 점검 [보안뉴스 한세희 기자] 이찬진 금융감독원장이 12일 금융보안원 금융보안관제센터를 방문, ‘2026년 상반기 금융권 블라인드 모의해킹 훈련’ 상황을 점검했다. 블라인드 모의해킹 훈련은 공격 일시와 대상을 미리 공개하지 않고 화이트해커가 불시에 공격해 금융사의 해킹 탐지 및 방어",
-      "points": [
-        "12일 금융보안원 금융보안관제센터 방문, 금융권 블라인드 모의해킹 훈련 상황 점검 [보안뉴스 한세희 기자] 이찬진 금융감독원장이 12일 금융보안원 금융보안관제센터를 방문, ‘202...",
-        "블라인드 모의해킹 훈련은 공격 일시와 대상을 미리 공개하지 않고 화이트해커가 불시에 공격해 금융사의 해킹 탐지 및 방어",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
