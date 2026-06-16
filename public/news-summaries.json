@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-06-16T16:56:10.940Z",
+  "generatedAt": "2026-06-16T20:53:53.578Z",
   "articles": [
+    {
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 20:11:00 +0000",
+      "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "language": "en",
+      "summary": "Since going public in September and reaching an initial market capitalization of about $3 billion at the time it opened for shareholders, SpaceX has seen its valuation surge to over $2.6 trillion.",
+      "points": [
+        "SpaceX shares began trading on Friday with a high opening price",
+        "As of November 14th, they had increased in value by about $1 trillion since their IPO and briefly became the most valuable publicly-traded US company ever when passing Amazon's stock prices.",
+        "Despite SpaceX achieving significant milestones like successfully launching astronauts into space"
+      ],
+      "insight": "The staggering valuation of SpaceX demonstrates investor confidence in the commercial potential and technological advancements made by private aerospace companies, potentially reshaping industry dynamics."
+    },
+    {
+      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+      "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 18:22:24 +0000",
+      "description": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
+      "language": "en",
+      "summary": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
+      "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 18:13:49 +0000",
+      "description": "A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.",
+      "language": "en",
+      "summary": "A security researcher exploited a flaw in FIFA's online platforms, gaining access to internal systems including one potentially allowing alteration or control over the TV stream of every World Cup match.",
+      "points": [
+        "Researcher found vulnerability within FIFA’ extranet platform that led to potential unauthorized modifications and disruptions in live matches' streaming",
+        "The flaw was present even after a major security update by EA, raising questions about the comprehensiveness of such updates for internal systems with varying privileges across an organization",
+        "Fifa has acknowledged access points that were unsecured despite being part of their network"
+      ],
+      "insight": "This incident underlines how even major organizations can have vulnerabilities within lesser-known or aftermarket segments, emphasizing the need for comprehensive security audits and continuous monitoring."
+    },
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+      "language": "en",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices",
+      "points": [
+        "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental contro...",
+        "The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
+      "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 17:50:23 +0000",
+      "description": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to.",
+      "language": "en",
+      "summary": "Mobileye is launching a driverless taxi service known as Mobileye Autonomous Service (MAS) in the U.in US., despite being one of its own suppliers for self-driving systems. The move positions it both competitively and collaboratively within the autonomous vehicle industry.",
+      "points": [
+        "Mobileye is launching a robotaxi service, Mobileye Autonomous Service (MAS), in US cities like San Francisco",
+        "Service will operate with self-driving technology supplied by Intel's EyeQ5 chip and cameras from Bosch.",
+        "Investments include $100 million for a fleet of 40 vehicles, partnership with May Mobility to build charging stations."
+      ],
+      "insight": "Mobileye's launch is indicative of the growing competition within the AV industry and suggests that supplier relationships may evolve as companies seek market share in emerging markets like robotaxis. The collaboration between different players across various stages of technology development highlights a shared vision for autonomous mobility."
+    },
+    {
+      "title": "Rivian cuts hundreds of workers after R2 deliveries start",
+      "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 17:48:20 +0000",
+      "description": "The company said the cuts were part of a restructuring meant to help scale to profitability. Rivian recently pushed back its profitability goal to invest in autonomy.",
+      "language": "en",
+      "summary": "Rivian has implemented workforce reductions as part of a restructuring effort aimed at scaling towards profitability after delaying their target date due to increased focus on developing autonomous technology.",
+      "points": [
+        "Rivian announced the termination of hundreds of employees in its latest round of job cuts, which it claims are necessary for strategic realignment and growth toward becoming a profitable company.",
+        "The auto industry giant has postponed its goal to achieve profitability from RFP (Regular Fee Payment) model deliveries until after investing heavily into autonomous vehicle research.",
+        "CEO R.J. Scaringe, in his letter of resignation dated September 27th addressed the workforce layoffs as a 'heart-wrenching but necessary measure' to ensure company stability and long term success."
+      ],
+      "insight": "Rivian’neredly invested more resources into autonomous technology, indicating its commitment to being at the forefront of this emerging industry. However, such a strategic shift has resulted in delayed profitability targets along with workforce reductions that could impact employee morale and trust."
+    },
+    {
+      "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
+      "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 16 Jun 2026 17:00:00 +0000",
+      "description": "For over a decade now, Snap has been working on this device. Now the glasses are finally here. So what stands out on first impression?",
+      "language": "en",
+      "summary": "Snap introduced its anticipated AR glasses named Specs after years of development but faced criticism for their high price point.",
+      "points": [
+        "The Snap AR glasses, called 'Specs,' have been in development by the company for over ten years and were finally unveiled recently.",
+        "Shoppers expressed surprise at both Specs' appearance and its steep $300 price tag that seems to target a premium market segment rather than broad consumers.",
+        "While Snap has not confirmed pricing yet, the high cost of these AR glasses suggests they are positioned as more affordable substitutes for expensive holographic headsets like Microsoft's Mixed Reality Headset."
+      ],
+      "insight": "The introduction of Specs at a premium price point may limit its accessibility to high-end consumers, indicating Snap is banking on niche markets or positioning itself as an alternative luxury tech brand in the rapidly evolving AR/VR industry."
+    },
     {
       "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
@@ -643,111 +748,6 @@
         "The acquisition price for Fin is $3.6 billion."
       ],
       "insight": "This purchase could significantly boost Salesforce's capabilities within the CRM sector by integrating advanced, task-automating customer service technology into their platform."
-    },
-    {
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 15 Jun 2026 13:46:08 +0000",
-      "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "language": "en",
-      "summary": "HCLTech leads a $234 million funding round for Indian AI unicorn Sarvam.",
-      "points": [
-        "Indian IT services company HCLTech invests $150 million in Bengaluru startup Sarvam, led by this funding round.",
-        "Sarvam joins the elite list of 'AI Unicorns', companies with valuations exceeding a billion dollars due to AI-driven growth and innovation.",
-        "The investment comes amid increased interest in artificial intelligence (AI) within India' endorses Sarvam's potential impact on various industries through its services."
-      ],
-      "insight": "This funding round indicates a growing trend of investments into AI-driven startups, reflecting the strategic importance and transformative capability they bring to businesses across sectors in India. Sarvam's success as an 'AI Unicorn' could serve as inspiration for further innovation within the IT industry."
-    },
-    {
-      "title": "Fox to acquire Roku in $22B deal",
-      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 15 Jun 2026 13:43:05 +0000",
-      "description": "Fox says the deal will create the third-largest television company in the United States.",
-      "language": "en",
-      "summary": "In a significant move within the media and technology sectors, Fox is set to acquire Roku for $22 billion to create one of the largest TV content providers in America.",
-      "points": [
-        "Fox Corporation has agreed to buy Roku Inc. for $22 billion",
-        "The deal will combine two major companies into a unified media and tech powerhouse",
-        "Roku's technology platform is expected to enhance Fox’s content delivery capabilities"
-      ],
-      "insight": "This acquisition signals the blending of traditional television networks with advanced streaming platforms, potentially setting new standards in user engagement across both industries."
-    },
-    {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 15 Jun 2026 13:00:00 +0000",
-      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "language": "en",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people",
-      "points": [
-        "NewCore argues the next challenge in enterprise security will be managing AI agents, not people",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 15 Jun 2026 12:00:00 +0000",
-      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "language": "en",
-      "summary": "An autonomous Earth observation satellite successfully identified objects of interest without human intervention for the first time.",
-      "points": [
-        "The Landsat 8 satellite discovered a plastic-filled sinkhole in South Africa using artificial intelligence (AI).",
-        "This AI system, developed by NASA's Jet Propulsion Laboratory and Google Earth Engine team, can process vast amounts of data from satellty imagery.",
-        "The discovery highlighted the potential for autonomous satellite systems to identify environmental issues that may not be visible on ground or through traditional means."
-      ],
-      "insight": "This development marks a significant step towards fully automated Earth observation, potentially enhancing global monitoring of ecological changes and disasters in real-time with minimal human input required for data analysis."
-    },
-    {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 15 Jun 2026 07:25:41 +0000",
-      "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-      "language": "en",
-      "summary": "The news article discusses an increase in layoffs within the technology sector while simultaneously highlighting how AI insiders are amassing significant wealth.",
-      "points": [
-        "Tens of thousands of workers facing job losses",
-        "A small group of influential AI professionals accumulating unprecedented wealth",
-        "The disparity between the two groups' fortunes becoming increasingly noticeable"
-      ],
-      "insight": "This situation represents a growing concern within the tech industry, as it reflects widening economic inequality and potential social implications for those affected by layoffs."
-    },
-    {
-      "title": "[PIS FAIR 2026 미리보기] AI 시대, 아이덴티티 보안이 핵심... 인성디지탈-Okta, PIS FAIR 공동 참가",
-      "link": "http://www.boannews.com/media/view.asp?idx=144120&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 16:17:00 +0900",
-      "description": "Zero Trust 기반 Identity 보안 전략과 AI Agent 보안 모델 제시[보안뉴스 원병철 기자] 인성디지탈은 글로벌 보안 및 IT 솔루션 전문 총판으로, 국내 기업의 디지털 전환과 보안 고도화를 지원해 온 기업이다. 최근에는 Okta, CrowdStrike 등 글로벌 선도 벤더와의 전략적 파트너십을 기반으로 네트워크, 클라우드, 엔드포인트, 아",
-      "language": "ko",
-      "summary": "Zero Trust 기반 Identity 보안 전략과 AI Agent 보안 모델 제시[보안뉴스 원병철 기자] 인성디지탈은 글로벌 보안 및 IT 솔루션 전문 총판으로, 국내 기업의 디지털 전환과 보안 고도화를 지원해 온 기업이다. 최근에는 Okta, CrowdStrike 등 글로벌 선도 벤더와의 전략적 파트너십을 기반으로 네트워크, 클라우드, 엔드포인트, 아",
-      "points": [
-        "Zero Trust 기반 Identity 보안 전략과 AI Agent 보안 모델 제시[보안뉴스 원병철 기자] 인성디지탈은 글로벌 보안 및 IT 솔루션 전문 총판으로, 국내 기업의 ...",
-        "최근에는 Okta, CrowdStrike 등 글로벌 선도 벤더와의 전략적 파트너십을 기반으로 네트워크, 클라우드, 엔드포인트, 아",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "100만개 URL 동원 대규모 AI 기반 피싱 서비스 조직, 美 FBI-구글 협력해 소탕",
-      "link": "http://www.boannews.com/media/view.asp?idx=144119&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 15 Jun 2026 16:07:00 +0900",
-      "description": "FBI, 구글·블랙로투스랩스 등 합동 ‘립타이드 작전’(Operation Riptide) 성과중국 기반 ‘아웃사이더 엔터프라이즈’, 세계 수십만명 대상 19억달러 피해 유발 [보안뉴스 한세희 기자] 미국 연방수사국(FBI)이 구글 및 블랙로투스랩스(Black Lotus Labs) 등 민간 기업과 협력, 세계를 무대로 활동하던 대규모 중국계 ‘피싱 서비스’",
-      "language": "ko",
-      "summary": "FBI, 구글·블랙로투스랩스 등 합동 ‘립타이드 작전’(Operation Riptide) 성과중국 기반 ‘아웃사이더 엔터프라이즈’, 세계 수십만명 대상 19억달러 피해 유발 [보안뉴스 한세희 기자] 미국 연방수사국(FBI)이 구글 및 블랙로투스랩스(Black Lotus Labs) 등 민간 기업과 협력, 세계를 무대로 활동하던 대규모 중국계 ‘피싱 서비스’",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
