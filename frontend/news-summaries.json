@@ -1,6 +1,170 @@
 {
-  "generatedAt": "2026-06-17T15:30:51.464Z",
+  "generatedAt": "2026-06-17T20:21:44.766Z",
   "articles": [
+    {
+      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
+      "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 19:46:16 +0000",
+      "description": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.",
+      "language": "en",
+      "summary": "The Federal Trade Commission has filed a lawsuit against certain groups for their continued operation of subscription scams in violation of user consent and store policies.",
+      "points": [
+        "Subscription app operators use shell companies to create the illusion of legitimacy, confusing consumers about ownership and intentions behind apps offering subscriptions that do not match consumer expectations or agreements.",
+        "The FTC alleges these groups exploit payment infrastructure as a means for continued revenue generation from their fraudulent subscription services without transparent disclosure to users at the point of sale.",
+        "Despite numerous complaints, app stores have difficulty detecting and removing apps linked with such scams due to their complex operational structures that mimic legitimate business practices."
+      ],
+      "insight": "The lawsuit emphasizes a need for stricter verification of the ownership behind subscription-based applications in order to protect consumers from fraudulent and unwanted charges, indicating an industrywide push towards more rigorous app store policies regarding monetization through subscriptions."
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000",
+      "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+      "language": "en",
+      "summary": "French President Macron and Indian PM Modi voiced concerns at G7 summit about potential sudden loss of access to American AI technology during the recent Anthropic shutdown.",
+      "points": [
+        "The U.S., especially major tech companies like Google, has been a world leader in developing advanced artificial intelligence technologies such as ChatGPT and Midjourney",
+        "During their G7 summit meeting, French President Macron and Indian Prime Minister Modi expressed fears that the US could cut off access to American AI technology overnight.",
+        "The recent shutdown of Anthropic — a major player in this sector funded by Google' endorsement— raised concerns about potential blackout risks."
+      ],
+      "insight": "This development suggests that countries are becoming increasingly dependent on American AI technology, which could lead to geopolitical tensions and strategic vulnerabilities if access is suddenly cut off or restricted by the US government. It underscores a need for more diverse international technological partnerships."
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 18:30:56 +0000",
+      "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "language": "en",
+      "summary": "Following IBM and others into a major partnership for battling climate change, Anthropic becomes the first AI startup to join Frontier's $1B carbon removal coalition.",
+      "points": [
+        "Anthropic, an early-stage language model company based in San Francisco that was founded by Dr. Eleftheriou and his co-founder David Isberg when they were PhD students at Cornell University's AI lab over a decade ago.",
+        "The Frontier coalition includes companies like the Breakthrough Institute, Tortuga Engineering Inc., Carbon Direct LLC, TerraCO2 Solutions, Climeworks AG and SkyOrbitalSAT GmbH among others, all working to develop commercially viable technologies for removing carbon dioxide from the atmosphere.",
+        "Anthropic will contribute its resources towards accelerating research on a variety of approaches with different levels of maturity. Some techniques currently being studied involve direct air capture and subsequent sequestration through mineralization or injection into geological formations."
+      ],
+      "insight": "The involvement of AI startups like Anthropic in carbon removal initiatives represents an intersection between technology innovation and environmental stewardship, potentially driving new solutions for climate change while fostering corporate responsibility among emerging tech companies."
+    },
+    {
+      "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
+      "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 18:20:06 +0000",
+      "description": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
+      "language": "en",
+      "summary": "A Russian-speaking group of cybercriminals has allegedly accessed tens of thousands of major company's Fortinet firewalls using stolen login credentials.",
+      "points": [
+        "The hackers used previously known passwords to compromise the security system in numerous major companies globally",
+        "Fortinet reported that over ten thousand users from various enterprises faced potential unauthorized access incidents involving their systems and data within a short timeframe.",
+        "Several Fortinet customers, including some of the largest tech corporations worldwide, were affected by these cyber attacks."
+      ],
+      "insight": "This incident underscores the importance for companies to ensure password security measures are robust. Hackers often exploit known vulnerabilities and weak passwords in their attempts to gain unauthorized access into company networks."
+    },
+    {
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 18:19:48 +0000",
+      "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+      "language": "en",
+      "summary": "Social media companies are introducing features allowing users to customize their feeds by providing direct input on algorithm preferences.",
+      "points": [
+        "Platforms like Threads, Instagram, and TikTok have rolled out new tools for user-driven feed customization",
+        "These algorithms enable personalized content discovery through explicit feedback from the users",
+        "The initiative represents a shift towards more transparent interaction with social media recommendation systems"
+      ],
+      "insight": "This trend could lead to increased platform engagement as users feel their individual preferences are being better catered to, potentially reshaping content marketing strategies."
+    },
+    {
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 17:43:07 +0000",
+      "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+      "language": "en",
+      "summary": "The company Odyssey secured a $1.45 billion valuation backed by heavyweights including Amazon and Microsoft Corp., following its successful round of funding.",
+      "points": [
+        "Odyssey, known for creating world models using AI similar to LLMs (Large Language Models), has raised a significant amount in recent venture capital investments. The company's technology creates richly detailed and interactive representations that users can engage with across various industries.",
+        "The $1.45 billion valuation marks Odyssey as one of the most highly valued startups within this emerging field, indicating strong confidence from major tech investors in its potential to revolutionize content creation through AI technology.",
+        "Amazon Web Services (AWS), Microsoft Azure, and other key players have invested heavily into Odyssey'in funding rounds. This infusion of capital is poised to accelerate the company’s growth trajectory in developing more advanced generative models."
+      ],
+      "insight": "The substantial investment from industry giants underscores not only confidence in Odyssey but also highlights a growing interest and potential expansion into new markets for AI-generated content. This could signal shifts towards how industries like entertainment, education, and visual storytelling are created."
+    },
+    {
+      "title": "Mastodon looks to newsletters to help revive the open social web",
+      "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 17:38:01 +0000",
+      "description": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
+      "language": "en",
+      "summary": "The open social web platform, Mastodon, has introduced an email subscription service for its newsletters that allows non-account holders to subscribe and receive updates directly from creators.",
+      "points": [
+        "Mastodon's new feature enables anonymous subscriptions through emails despite not having a personal account on the platform.",
+        "This is part of Mastodon’senvision for an 'open web,' where users can connect beyond their network and contribute to any content without registration.",
+        "While this promotes inclusivity, it raises concerns about privacy among its user base."
+      ],
+      "insight": "Mastodon's initiative could redefine the boundaries of social media by facilitating open communication across different platforms and networks. However, balancing anonymity with growing demands for transparency remains a significant challenge."
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 17:00:01 +0000",
+      "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "language": "en",
+      "summary": "A recent study by Pew Research indicates that among American adults, there is significant skepticism regarding AI'in impact on society despite Wall Street's enthusiasm for the technology.",
+      "points": [
+        "Only 16 percent of Americans believe artificial intelligence (AI) will have a positive effect on society.",
+        "A disconnect exists between public perception and industry optimism about AI, as revealed by Pew Research study findings.",
+        "Public sentiment towards emerging technologies such as AI can greatly influence their integration into everyday life."
+      ],
+      "insight": "The reluctance of a large portion of Americans to embrace artificial intelligence suggests potential challenges for its widespread acceptance and highlights the importance of addressing public concerns about technology. Furthermore, this divergence in perception between Wall Street and common citizens could prompt discussions on improving AI education among non-tech audiences."
+    },
+    {
+      "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 16:54:48 +0000",
+      "description": "Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.",
+      "language": "en",
+      "summary": "Two Stanford graduates founded Clair Health with $11 million in funding to create a wearable device that tracks hormonal fluctuations and related health indicators.",
+      "points": [
+        "Clair Health's noninvasive wearable monitors inflammation, bloating markers, energy levels, and cycle phase classification for insights into irregular cycles and perimenopause.",
+        "The company has raised $11 million from investors including Founders Fund CEO Dave McClure. The founding team consists of Stanford University graduates who previously worked on a health-related startup in Silicon Valley's accelerator program, Y Combinator."
+      ],
+      "insight": "Clair Health represents the growing trend towards personalized digital health and wellness solutions that empower individuals to monitor and understand their physiological changes with ease. The success of Clair highlights a potential shift in how women track menstrual health, which could influence broader hormonal tracking practices within the IT/technology industry."
+    },
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 16:30:09 +0000",
+      "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+      "language": "en",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99...",
+      "points": [
+        "Google is betting generative AI can breathe new life into the smart speaker",
+        "The company's new $99",
+        "99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversatio..."
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "PayPal Ventures shutters as company restructuring continues",
+      "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 17 Jun 2026 16:10:13 +0000",
+      "description": "The corporate venture arm ends after 10 years and 80 investments.",
+      "language": "en",
+      "summary": "PayPal Ventures has shut down its operations following a decade of involvement in over 80 tech startups as the company undergoes restructuring.",
+      "points": [
+        "PayPal Ventures, an investor arm dedicated to startup growth within PayPal's ecosystem, is discontinuing due to ongoing corporate changes.",
+        "The decision comes after a decade of funding and mentoring over hundreds of tech startups in various stages from early seed rounds to later-stage financing phases.",
+        "Some companies backed by PayPal Ventures have succeeded, with several making significant strides within the digital payments sector."
+      ],
+      "insight": "This development indicates a shifting focus for tech investment groups as they adapt to evolving market demands and internal strategic realignments. As such entities disband or transform their roles in supporting startups, it will be interesting to observe how new players emerge with different approaches."
+    },
     {
       "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
       "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
@@ -585,169 +749,6 @@
         "This move follows several cases where fraudulent activities related to exams were conducted through Telegram."
       ],
       "insight": "India's decision highlights growing concerns over examination integrity and may prompt other countries with similar issues to take decisive action against messaging apps commonly used for cheating. It also raises questions about the role of digital communication platforms in academic settings, potentially sparking debates on privacy versus security."
-    },
-    {
-      "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-      "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 15:35:39 +0000",
-      "description": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner.",
-      "language": "en",
-      "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner",
-      "points": [
-        "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain co...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 15:05:03 +0000",
-      "description": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
-      "language": "en",
-      "summary": "The Department of Justice claims that unauteneralized gas turbines used by a company named 'xAI' are essential for national, economic, and energy security.",
-      "points": [
-        "Unauthorised use of xAI’s unpermitted gas turbines is deemed necessary due to national concerns",
-        "The Justice Department has taken legal action against the Pentagon over this unauthorized operation",
-        "There are implications for energy security and economic stability within the industry"
-      ],
-      "insight": "This development could signal a reevaluation of existing regulations governing critical infrastructure, potentially impacting future compliance strategies in the IT/technology sector."
-    },
-    {
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 15:00:00 +0000",
-      "description": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-      "language": "en",
-      "summary": "Atlassian software business has achieved over $1 end ARR with the sale of nearly two million artificial intelligence notepads in one year.",
-      "points": [
-        "The Atlassian's AI notetaker sales have exceeded 2 million units within a year, contributing to an annual recurring revenue (ARR) surpassing $100M for its software division. This growth reflects strong market demand.",
-        "At the core of this achievement is Plaud'table AI notetaker - recognized as one of Atlassian’s standout products, which has played a significant role in driving sales and engagement within enterprise meetings.",
-        "Despite being just 18 months old since its launch on January 5th last year, Plaud'table AI notetaker is already making waves by efficiently capturing meeting discussions using natural language processing (NLP) technology."
-      ],
-      "insight": "This news underscores the increasing importance of innovative and user-friendly digital tools in enhancing productivity during meetings, while highlighting AI's potential to disrupt traditional business practices within the IT/technology industry. Atlassian is leading by example with their successful placement into a competitive market."
-    },
-    {
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 14:50:09 +0000",
-      "description": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
-      "language": "en",
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 13:48:37 +0000",
-      "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "language": "en",
-      "summary": "Since going public, SpaceX's share value soared to over $270 billion as of October 6th.",
-      "points": [
-        "SpaceX has a valuation that recently reached more than $270 billion",
-        "The company is now valued higher than Amazon since its shares started trading on Friday, November 19th, after the previous record set by Apple in May of this year.",
-        "Amidst SpaceX's skyrocketing valuation and recent fundraising activities involving high-profile investors like Elon Musk’s brother Kimbal"
-      ],
-      "insight": "SpaceX's rapid growth in valuation highlights the increasing interest of private capital into space exploration technology, potentially accelerating advancements within this sector."
-    },
-    {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 13:15:09 +0000",
-      "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-      "language": "en",
-      "summary": "A leading AI research lab is raising $9M for a project aimed at creating more reliable artificial intelligence that avoids hallucinations and factual errors.",
-      "points": [
-        "AI Hallucination Prevention",
-        "$9M Funding Goal",
-        "Deterministic System Accuracy"
-      ],
-      "insight": "This initiative highlights the growing concern in AI industry about improving reliability and trustworthiness of AI systems, which may lead to wider adoption as these issues are addressed."
-    },
-    {
-      "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
-      "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 11:25:00 +0000",
-      "description": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
-      "language": "en",
-      "summary": "Foundation Alloy is a Silicon Valley-based company that creates strong and lightweight super metals using lasers instead of traditional heating methods. Having secured $22 million in funding, the startup plans to expand its production capabilities.",
-      "points": [
-        "Founded by brothers Jonathan Cohen and Daniel Putterman who previously founded a business with over $150M revenue",
-        "$22 million investment will enable Foundation Alloy's expansion in metal manufacturing for various industries including military, luxury goods, and culinary tools.",
-        "The company uses lasers to transform raw materials like titanium into advanced alloys with superior properties"
-      ],
-      "insight": "Foundation Alloy represents a significant innovation within the metals industry by providing lightweight yet strong alternatives through unconventional heating methods. The technology' endorsement from industries that require durable and robust materials indicates its potential to revolutionize production in multiple sectors."
-    },
-    {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 11:21:41 +0000",
-      "description": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-      "language": "en",
-      "summary": "SpaceX has agreed to acquire Cursor for $60 billion in stock as the company seeks to bolster its struggling Artificial Intelligence division with a strong market opportunity of over $26 trillion.",
-      "points": [
-        "SpaceX plans to invest $60 billion into acquiring AI startup Cursor, aiming at strengthening SpaceX's own underperforming artificial intelligence operations which it views as having immense potential in the estimated addressable market of over $26 trillion.",
-        "The acquisition deal came amidst a significant stake sale by Elon Musk and his team to fund CubeSat production for NASA, with shares going into escrow pending regulatory approvals from both SpaceX's home country Australia and the US Federal Communications Commission (FCC).",
-        "Musk sold 10.6 million of his nearly $24 billion stake in SpaceEx Holdings LLC to raise funds for CubeSat development, following a successful initial public offering that raised approximately $358 million."
-      ],
-      "insight": "This acquisition highlights the strategic importance SpaceX places on AI as integral to its future growth and operations within both Earth-based industries and potential extraterrestrial applications. The significant investment into Cursor's technology could accelerate advancements in AI that may benefit a broad range of sectors, including robotics for space exploration."
-    },
-    {
-      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
-      "link": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 11:00:00 +0000",
-      "description": "The Meta-owned social platform announced a series of new features launching today, including a \"Your Algo\" tool that lets users control what they see in their feeds",
-      "language": "en",
-      "summary": "Threads has introduced personalization and community tools as it hits the 50 end-user milestone monthly.",
-      "points": [
-        "Meta's Threads platform reaches its first 'majority user mark.'",
-        "Introduces new features: Your Algo tool for feed control, Stories feature inspired by Instagram and Facebook.",
-        "Threads aims to be the primary social network on Meta properties."
-      ],
-      "insight": "As Threads grows as part of Meta'softly competes in personalized content delivery within its ecosystem. The introduction of 'Your Algo' demonstrates an effort towards greater user control, which could set a precedent for future social platforms seeking to balance algorithmic curation with curated experiences."
-    },
-    {
-      "title": "ChatGPT’s market share slips below 50% for first time",
-      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 16 Jun 2026 10:30:00 +0000",
-      "description": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-      "language": "en",
-      "summary": "ChatGPT's market share has dropped below the 50% threshold for the first time while maintaining a significant lead in user numbers over competitors.",
-      "points": [
-        "ChatGPT no longer holds more than half of AI assistant users globally, dipping under this mark for the inaugural time."
-      ],
-      "insight": "This shift indicates growing competition and changing preferences within the rapidly evolving landscape of conversational AI tools. Companies may need to adapt their strategies to retain market share amidst these dynamics."
-    },
-    {
-      "title": "韓 미토스 접근 무산... 중국 연계 한국 통신사 탓? 이통 3사 “사실무근”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144143&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 16 Jun 2026 19:03:00 +0900",
-      "description": "삼성전자, SK하이닉스, SKT의 접근 권한 일단 무산... 향후 재확보 가능성 모색 “접근권 명단에 중국 연계 한국 통신사 탓”... 이통 3사 모두 연관성 부인 “특정 제품 의존 위험... 대안과 AI 주권 중요”[보안뉴스 강현주 기자] 앤트로픽의 AI 모델 ‘미토스’에 대한 백악관의 수출 통제 조치로 인해 미국 국적이 아닌 모든 기업 및 기관이 미토",
-      "language": "ko",
-      "summary": "3주년 중국 전방연계가 미국로부터 부탁하지 않음에 도담...",
-      "points": [
-        "- 삼성전자, SK하이닉스, SKT가 중국에서의 접근권 구조물을 무산으로 만들었다.",
-        "- 미국와 한국은 자연으로 재확보하기 어렵다...",
-        "- AI, 대용량 탑재 제품이 중요..."
-      ],
-      "insight": "중국과 한국의 IT/기술 관계에서는 AI와 인공지능(AI) 및 대용량 탑재 제품의 중요성이 현在..."
     }
   ]
 }
