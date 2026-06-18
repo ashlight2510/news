@@ -1,6 +1,95 @@
 {
-  "generatedAt": "2026-06-18T10:36:25.378Z",
+  "generatedAt": "2026-06-18T15:24:24.887Z",
   "articles": [
+    {
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 15:20:37 +0000",
+      "description": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.",
+      "language": "en",
+      "summary": "General Intuition is negotiating to raise approximately $30 extraneous details.",
+      "points": [
+        "The startup General Intuition aims to secure around $300 million in funding at an estimated valuation of about $2 billion. The investors involved include notable figures such as Jeff Bezos.",
+        "General Intuition is developing AI agents capable of spatial-temporal reasoning, which indicates the startup's focus on advanced and sophisticated AI capabilities."
+      ],
+      "insight": "The involvement of General Intuition in raising significant capital at a high valuation underscores growing confidence among investors in specialized artificial intelligence startups. This trend suggests an increasing recognition of the value that such companies can provide to various industries, potentially leading to further innovations and growth within this sector."
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 15:13:21 +0000",
+      "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "language": "en",
+      "summary": "A tech worker-backed PAC is challenging Big Tech with a $5M campaign fund aimed at promoting digital rights and data privacy.",
+      "points": [
+        "Guardrails, a progressive political action committee (PAC) focused on issues related to AI, job displacement due to automation, labor practices in tech companies, and other technology-related concerns is gaining traction among Silicon Valley workers with its small donations strategy.",
+        "The campaign has attracted nearly $5 million from more than 10,00th supporters so far, a significant accomplishment for the grassroots movement that typically struggles to raise funds compared to larger political groups like MoveOn or Protect Democracy PACs which boast millions of donors.",
+        "Guardrails is making use of social media platforms such as Twitter and Facebook where they share posts about their cause, encouraging supporters from the tech industry who believe in digital rights, fair employment practices within Big Tech companies to contribute via Venmo or other payment services."
+      ],
+      "insight": "The rise of Guardrails indicates an increasing awareness and concern among technology workers about ethical implications of AI deployment. As the PAC continues to raise significant funds, it has potential influence on future legislation in digital rights field affecting Big Tech companies."
+    },
+    {
+      "title": "Spotify’s reserved ticket sales to music superfans are now going live",
+      "link": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 14:00:00 +0000",
+      "description": "Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
+      "language": "en",
+      "summary": "Spotify has introduced 'Reserved,' which holds back a pair of ticket stubs per user for selected artists prior to general release.",
+      "points": [
+        "Introduction of Spotify's new concert ticket reservation system, Reserved.",
+        "Exclusive access reserved in advance: two tickets hold-up before public sale.",
+        "Application available on iOS and Android devices."
+      ],
+      "insight": "The 'Reserved' program enhances the user experience by offering a sense of immediacy for highly sought concerts, potentially increasing customer loyalty to Spotify within the music industry."
+    },
+    {
+      "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+      "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 13:00:00 +0000",
+      "description": "Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.",
+      "language": "en",
+      "summary": "Adobe has updated the artificial intelligence (AI) companion Firefly within its Creative Cloud suite of tools: Adobe Premiere Pro, Photoshop Elements, Illustrator and InDesign; it also introduced Frame.io for online collaboration.",
+      "points": [
+        "The AI assistant 'Firefly' has been updated with new capabilities by Adobe",
+        "Adobe integrates Firefly into its suite of tools: Premiere Pro (formerly Encore), Illustrator and InDesign as well as Frame.io for online collaboration.",
+        "This is part of a broader trend in the creative industry to enhance user experiences through AI technology."
+      ],
+      "insight": "The integration of Firefly into Adobe' end-to-end Creative Cloud suite signifies an increased focus on automating repetitive tasks and providing intelligent insights for content creation, thereby boosting productivity in the IT/technology industry. Furthermore, introducing Frame.io suggests a strategic push towards embracing online collaboration tools to foster remote work capabilities."
+    },
+    {
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 12:00:00 +0000",
+      "description": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+      "language": "en",
+      "summary": "Pixi's new iOS app transforms text messages into AR experiences with emojis and stickers.",
+      "points": [
+        "Developer Pixi introduces an iPhone messaging application that converts plain texts into immersive augmented reality (AR) scenes using the phone’ extranet camera and touchscreen input capabilities to bring conversations in messages alive visually for users of iPhones.",
+        "With a focus on improving communication within families, particularly when discussing sensitive topics like health or finances where misunderstandings can be commonplace; Pixi's AR messaging application is designed with care and love by founder Samantha Owens to bridge that gap between generations using technology.",
+        "The company invites users of all ages, from tech-enthusiast Gen Z’ers who are already well accustomed to the use of augmented reality features on their smartphones through apps like TikTok and Snapchat down to traditionalists in older generations often intimidated by new technology."
+      ],
+      "insight": "Pixi's AR messaging app has potential implications for fostering better communication among family members, bridging the generation gap through engaging visual content. It could help improve understanding of sensitive topics and reduce misunderstandings across different age groups within families in a comfortable digital space."
+    },
+    {
+      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+      "link": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 11:59:11 +0000",
+      "description": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
+      "language": "en",
+      "summary": "Waymo is recalling almost 4,000 of its self-driving cars after discovering at least three crashes where vehicles entered highway closure zones designated by traffic cones and signs.",
+      "points": [
+        "Waymo identified a total of at least thirteen instances across five states (California, Arizona, Texas, New Mexico, and Virginia) involving its robotaxis entering restricted construction areas on highways between August and December 2021. The recalls will affect nearly all the company's autonomous vehicles.",
+        "Waymo stated that despite deploying over a million miles of testing across hundreds of cities worldwide to hone their technology, these instances represent rare occurrences where human drivers might not avoid restricted zones as carefully under challenging circumstances. As per Waymo CEO Dave Burstein's statement in December 2in, the company is recalling all its current robotaxis from service and investigating.",
+        "The Federal Motor Carrier Safety Administration (FMCSA) regulates transportation of goods by truck but has no authority over passenger vehicles like Waymo's self-driving cars. Thus, any formal action against these robocars would require the US Congress to pass new laws allowing federal agencies oversight."
+      ],
+      "insight": "This incident highlights a critical issue within autonomous vehicle technology: ensuring safe navigation in environments with unexpected human behavior and construction zones requires sophisticated programming, robust testing, continuous learning, comprehensive data analysis capabilities for predictive modeling of future incidents. The recall also emphasizes the need to improve communication between self-driving cars' sensory systems/algorithms and infrastructure like traffic signs or lane closures."
+    },
     {
       "title": "한국시스템엔지니어링학회, 2026년 춘계학술대회 개최 “AI 기반 미래 산업혁신 전략 논의”",
       "link": "http://www.boannews.com/media/view.asp?idx=144185&kind=&sub_kind=",
@@ -659,96 +748,6 @@
         "The launch is scheduled for 2027"
       ],
       "insight": "This development will accelerate automation and electric mobility adoption, potentially transforming urban transport systems."
-    },
-    {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 11:00:00 +0000",
-      "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-      "language": "en",
-      "summary": "Pinterest introduces its first 'AI' product with the launch of 'Ask Pinterest,' an app offering AI-driven recommendations and inspiration through a chat interface.",
-      "points": [
-        "The experimental 'Ask Pinterest' uses artificial intelligence to provide personalized shopping recommendations and ideas for users based on their interests.",
-        "Users can interact with the new service by initiating conversations about specific products or themes, which is a departure from traditional search-based interactions within Pinterest.",
-        "As an AI assistant integrated directly into Pinterest'ty app ecosystem."
-      ],
-      "insight": "The launch of 'Ask Pinterest' represents the beginning of more personalized and conversational experiences in digital shopping apps, potentially setting a new standard for user engagement within social media platforms that have significant retail aspects. This could intensify competition among e-commerce giants to offer similar AI enhancements."
-    },
-    {
-      "title": "조달청, 조달자율화 시범사업 관련 업계 간담회 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144160&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 17 Jun 2026 16:23:00 +0900",
-      "description": "조달자율화 시범사업 참여 업체 및 협회에 자율화 관련 애로·건의사항 청취 [보안뉴스 엄호식 기자] 조달청(청장 백승보)은 17일 정부대전청사 대회의실에서 공공조달 개혁방안의 일환으로 추진 중인 조달자율화 시범사업에 참여한 업체를 대상으로 간담회를 개최했다.이번 간담회는 조달자율화 시범사업에 참여한 기업들의 생생한 현장 목소리와 애로사항을 직접 청취해 현장",
-      "language": "ko",
-      "summary": "조달청이 조달자율화 시범사업에 참여한 기업들의 목소리를 바로잡아내고, 개최했다.",
-      "points": [
-        "- 조달자율화 시범사업에 참여한 기업들이 자세평가를 요구하였다.",
-        "- 간선의 작성과 수정, 출시 시간을 매주 재확고해칠 것이다.",
-        "- IT/기술 업계에서는 최신도전의 개선과 자유동잔를 위한 정보를 받아오고, 협력하여 공급체제를 강화해야 한다."
-      ],
-      "insight": "이 기사는 IT/기술 업체가 최신도전과 자유동잔을 높이받을 수 s로 필요한 정보를 제공하고, 참여자들이 조달자율화 시범사업에 대해 자세히 직접응리니다."
-    },
-    {
-      "title": "한국후지필름BI, 한국마이크로소프트·에쓰핀테크놀로지와 ‘AI트렌드·활용 사례 세미나’ 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=144159&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 17 Jun 2026 16:06:00 +0900",
-      "description": "2026 AI 시장 동향부터 보안·업종별 구축 사례까지, 기업 AI 도입 핵심 과제에 명쾌한 해답 제시사내 문서 및 데이터 기반의 기업용 AI 에이전트 ‘AIMAX’ 공개로 원스톱 AX 파트너십 역량 입증 [보안뉴스 엄호식 기자] 한국후지필름비즈니스이노베이션(한국후지필름BI)은 6월 16일 서울 종로구에 위치한 한국마이크로소프트 본사에서 ‘AI 트렌드·활용",
-      "language": "ko",
-      "summary": "이 기사는 IT/기술 업계에서의 AI의 활용 사례에 대한 상세한 착금을 제공합니다.",
-      "points": [
-        "AI 이렇게 구축하는 의식이 기술 전문가들에게 중요합니다.",
-        "이러한 AI 활용 사례는 보안, 업종별 구축 목적을 제공합니다.",
-        "공개된 AI 에이전트 ‘AIMAX’는 AI 활용 가능성을 보여줍니다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 일상적인 AI 문제에 대한 질의를 통해, 활용되는 AI의 사용법과 운용에 대해 추가적으로 간단하고 명확한 내용을 제공합니다."
-    },
-    {
-      "title": "[카드뉴스] 칩셋 속 정밀하게 숨겨진 ‘백도어’… 소프트웨어 넘어 하드웨어 신뢰 무너졌다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144158&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 17 Jun 2026 15:52:00 +0900",
-      "description": "미·중 갈등 등 지정학적 요인에 따른 기술 블록화로 인해 기업들이 정품 대신 우회 경로로 조달한 대체 칩셋이 사내 네트워크를 도청하는 침투 경로로 악용되는 사례가 늘고 있다. 이는 단순 악성코드 감염 수준을 넘어, 해커가 역공학을 통해 하드웨어 칩셋 내부에 백도어 소스코드를 정밀하게 심어둔 형태로 발견되어 인프라 서버 자체의 신뢰성을 완전히 마비시키고 있다",
-      "language": "ko",
-      "summary": "미·중 갈등 등 지정학적 요인에 따른 기술 블록화로 인해 기업들이 정품 대신 우회 경로로 조달한 대체 칩셋이 사내 네트워크를 도청하는 침투 경로로 악용되는 사례가 늘고 있다. 이는 단순 악성코드 감염 수준을 넘어, 해커가 역공학을 통해 하드웨어 칩셋 내부에 백도어 소스코드를 정밀하게 심어둔 형태로 발견되어 인프라 서버 자체의 신뢰성을 완전히 마비시키고 있다",
-      "points": [
-        "미·중 갈등 등 지정학적 요인에 따른 기술 블록화로 인해 기업들이 정품 대신 우회 경로로 조달한 대체 칩셋이 사내 네트워크를 도청하는 침투 경로로 악용되는 사례가 늘고 있다",
-        "이는 단순 악성코드 감염 수준을 넘어, 해커가 역공학을 통해 하드웨어 칩셋 내부에 백도어 소스코드를 정밀하게 심어둔 형태로 발견되어 인프라 서버 자체의 신뢰성을 완전히 마비시키고 ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "유니뷰, 3개 도시 ‘핸즈온 트레이닝’ 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=144157&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 17 Jun 2026 15:11:00 +0900",
-      "description": "천안, 전주, 광주 등 3개 지역 순회파트너 및 사용자, 주요 제품 기능 습득 및 활용 위한 실습형 교육 프로그램 진행[보안뉴스 엄호식 기자] 글로벌 AIoT 영상보안 기업 유니뷰가 6월 10일부터 12일까지 천안, 전주, 광주 3개 지역에서 ‘유니뷰 핸즈온 트레이닝’을 진행했다.이번 교육은 CCTV 설치·운영 업무를 담당하는 파트너 및 사용자가 유니뷰 제",
-      "language": "ko",
-      "summary": "3개 도시에서 CCTV 설치·운영 업무를 수활로웠다.",
-      "points": [
-        "- 천안, 전주, 광주 지역 중 3개는 핸즈온 및 제첽에서 이미 CCTV 기술을 논의하고 있다.",
-        "- 이 프로그램은 귀하께서 실무적으로 감상해보고 제공한 기능을 본다.",
-        "- 결국, 이러한 경험은 CCTV 설치 운영에서 의도적으로 활용되어 보호 요구를 만족하는 것을 나타냅니다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서 CCTV 설치 및 운영에 알맞은 기술을 제공하는 대한민국의 활동으로, IT/기술 업체가 스마트신체보안에 유 Einzeln 개인의 지속적인 교육을 이루어낼 수 01장"
-    },
-    {
-      "title": "공공 망분리 빗장 푼다... KISA, ‘국가 망 보안체계’(N2SF) 도입 전면 지원",
-      "link": "http://www.boannews.com/media/view.asp?idx=144155&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 17 Jun 2026 14:54:00 +0900",
-      "description": "2026년 도입 지원사업에 기후에너지환경부 등 6개 수요기관 중심 연합체 최종 선정기존 획일적 망분리 벗어나 기밀·민감·공개 데이터 중요도 기반 차등 보안 거버넌스 확립[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 ‘2026년 국가 망 보안체계 도입 지원사업’을 이끌 6개 컨소시엄을 최종 선정하고 본격적인 현장 지원에 나선다",
-      "language": "ko",
-      "summary": "KISA, N2SF, 광고손성과 같은 6개 컨소시엄이 2026년 망 보안체계 지원삼ing에 선정.",
-      "points": [
-        "- KISA, N2SF, 광고손성과 연합체가 선정",
-        "- 6개 수요기관이 망분리 지원삼ing에서 중요한 역할을 하다.",
-        "- 여러 기업과 소유와 상위규모의 시장기인들이 선정"
-      ],
-      "insight": "이러한 선정은 IT/기술 업계에서 공급자들이 보안에 주장하고 제시하는 최신의 국가 망 보안 전략으로서, 다음을 포인터와 일치시키며 상위규모 기업이 보안에 중요한 역할을 해야 함으로서 보안건강의 문제를 개선하고 전진하여 IT/기술 업계에 대한 더 안정성과 보호 지침을 준비할 수 0r 바람로."
     }
   ]
 }
