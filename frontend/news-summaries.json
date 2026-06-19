@@ -1,6 +1,215 @@
 {
-  "generatedAt": "2026-06-18T20:32:01.939Z",
+  "generatedAt": "2026-06-19T04:24:17.643Z",
   "articles": [
+    {
+      "title": "AI 시대 보안 패치 지연 리스크 커진다... 턱스케어, 무중단 패치 대안 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144195&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 11:40:00 +0900",
+      "description": "커널케어(KernelCare) 기반 라이브 패치로 재부팅 없는 취약점 대응 지원CentOS 7 등 지원 종료(EOL) 리눅스 환경 보호 위한 ELS 제공[보안뉴스 원병철 기자] 디지털 전환의 가속화와 AI 기반 사이버 공격의 고도화로 기업 보안 운영의 핵심 과제가 ‘신속한 취약점 대응’과 ‘업무 연속성 확보’로 빠르게 변화하고 있다. 특히 공개된 취약점이",
+      "language": "ko",
+      "summary": "커널케어(KernelCare) 기반 라이브 패치로 재부팅 없는 취약점 대응 지원CentOS 7 등 지원 종료(EOL) 리눅스 환경 보호 위한 ELS 제공[보안뉴스 원병철 기자] 디지털 전환의 가속화와 AI 기반 사이버 공격의 고도화로 기업 보안 운영의 핵심 과제가 ‘신속한 취약점 대응’과 ‘업무 연속성 확보’로 빠르게 변화하고 있다. 특히 공개된 취약점이",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“기계 속도로 취약점 발견·해결”... ‘AWS 컨티뉴엄’ 프리뷰 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144194&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 11:34:00 +0900",
+      "description": "발견부터 완화·해결까지 코드 취약점 생애주기 전체를 자동 처리[보안뉴스 강현주 기자] 아마존웹서비스(AWS)는 기계 속도로 코드 취약점을 발견하고 완화·해결하는 신규 보안 서비스 ‘AWS 컨티뉴엄’(AWS Continuum)을 제한된 프리뷰로 공개했다.원격 측정 데이터를 수집, 저장, 조회하고 대시보드로 관찰하는 기존 보안 운영 모델은 더 이상 변화의 속도",
+      "language": "ko",
+      "summary": "발견부터 완화·해결까지 코드 취약점 생애주기 전체를 자동 처리[보안뉴스 강현주 기자] 아마존웹서비스(AWS)는 기계 속도로 코드 취약점을 발견하고 완화·해결하는 신규 보안 서비스 ‘AWS 컨티뉴엄’(AWS Continuum)을 제한된 프리뷰로 공개했다. 원격 측정 데이터를 수집, 저장, 조회하고 대시보드로 관찰하는 기존 보안 운영 모델은 더 이상 변화의 속도",
+      "points": [
+        "발견부터 완화·해결까지 코드 취약점 생애주기 전체를 자동 처리[보안뉴스 강현주 기자] 아마존웹서비스(AWS)는 기계 속도로 코드 취약점을 발견하고 완화·해결하는 신규 보안 서비스 ...",
+        "원격 측정 데이터를 수집, 저장, 조회하고 대시보드로 관찰하는 기존 보안 운영 모델은 더 이상 변화의 속도",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[김정덕의 인간중심보안-10] 예산·인력 없는 중소기업, ‘사람’이 답이다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144169&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 11:11:00 +0900",
+      "description": "예산과 인력의 한계를 넘어서는 ‘인간중심보안’ 전략 [연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. ‘인간중심보안’",
+      "language": "ko",
+      "summary": "예산과 인력의 한계를 넘어서는 ‘인간중심보안’ 전략 [연재목차 Part 3. 인간중심보안과 보안문화]1...",
+      "points": [
+        "예산과 인력의 한계를 넘어서는 ‘인간중심보안’ 전략 [연재목차 Part 3",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "동남아 해킹 루트 차단 나선 K-보안... 스틸리언 파트너십 가속",
+      "link": "http://www.boannews.com/media/view.asp?idx=144186&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 11:00:00 +0900",
+      "description": "18일 인도네시아 대표 보안 커뮤니티 전문가 초청해 차세대 방어 전략 교류취약점 분석 엔진 ‘디퓨토’ 등 생성형 AI 악용 막아낼 선제적 연구 사례 공유[보안뉴스 조재호 기자] 한국과 인도네시아를 대표하는 민간 보안 전문가들이 스틸리언 본사에 모여 진화하는 사이버 범죄에 대응할 초국경 연합 전선을 구축했다. 인도네시아 모빌리티 기업과 국영 기관에 솔루션을",
+      "language": "ko",
+      "summary": "Korean and international cybersecurity experts assembled to counteract the rapidly evolving threat of AI-driven malicious activities.",
+      "points": [
+        "- 민족보안 전문가들이 인도네시아 모멘텀과 국영 기관에서 AI를 사용한 위험적 블랙즈 방어 연구에 중재",
+        "- 생명체보호 전문가들이 인터넷스타일(스티아마틱)로 특정한 국가적인 출발열리기에 대비",
+        "- AI를 제어하여 진화하는 위험적인 서비스의 운영을 장벽으로 지지"
+      ],
+      "insight": "이러한 연구 사항은 우리나라가 AI를 이용한 위험적인 서비스에 대하여 최적으로 조직품을 방어하는 방법을 정의해야 함"
+    },
+    {
+      "title": "백업 안 하는 Z세대 vs 종이 믿는 장년층... 카스퍼스키 정보 저장 리포트",
+      "link": "http://www.boannews.com/media/view.asp?idx=144188&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 10:56:00 +0900",
+      "description": "15개국 3000명 대상 민감 데이터저장 방식 심층 분석 보고서 발표 디지털 보관율 84% 육박하지만, 사용자 36%는 여전히 단순 비밀번호 의존[보안뉴스 조재호 기자] 카스퍼스키가 Z세대와 장년층 간 데이터 보관 격차와 디지털 저장 방식의 위험성을 경고한 리서치 결과를 공개했다. 무차별 대입 공격(Credential Stuffing)에 취약한 현행 보안",
+      "language": "ko",
+      "summary": "데이터보호 전문가들이 Z세대와 장년층 간의 보호 방식에 차이점이 있는 것을 나타내고 무차별 공격이 일어나는 위험성에 대한 경고를 밝팔았다.",
+      "points": [
+        "- 15개국 3000명 대상 민감 데이터저장 방식의 심화가 요구され었습니다.",
+        "- 보안노리스에서의 무차별 공격(Credential Stuffing)에 취약한 현행보안 방식에 대해 즉시 고민을 요구하였다.",
+        "- 보호 방지와 위험성 검사를 더욱 강조하여, 보호 전문가들이 약한 방식에 대해 보호 개선을 바로 요구한다."
+      ],
+      "insight": "카스퍼스이 발표하신 보고서는 IT/기술 업계에서의 보호처음이나 시스템보안 분석의 중요성을 강조하여 보호 전문가들이 보호 방식을 개선하고자 한다."
+    },
+    {
+      "title": "오마다, 현장 중심 실습 교육 통해 통합관리 플랫폼 활용법 소개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144187&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 10:53:00 +0900",
+      "description": "네트워크 엔지니어와 CCTV 구축 실무자 대상 핸즈온 교육 진행오마다 네트워크와 VIGI 보안감시 솔루션 통합 운영 환경 직접 체험병원·공사현장 구축 사례 공유하며 현장 운영 노하우 소개[보안뉴스 강초희 기자] 오마다(Omada)가 지난 5월 네트워크 엔지니어와 CCTV 구축 실무자를 대상으로 오마다 센트럴(Omada Central) 실습 교육을 성황리에",
+      "language": "ko",
+      "summary": "오마다는 네트워크 엔지니어와 CCTV 구축 실무자를 대상으로 오마다 센트럴에서 현장 운영 노하우 소개",
+      "points": [
+        "오마다는 지난 5월의 현장 생활 교육을 수행",
+        "이러한 교육은 센트럴(Omada)가 수원공사현장에서 실무할 경우에는 수환 시점의 구축에 대한 전문적인 지식을 제공",
+        "이로써 보안감시를 강화하고 현장 안전성 노리를 환경에 집중적으로 독기"
+      ],
+      "insight": "이 기사는 IT/기술 업계에서의 현장 보안과 안전성 지행력의 중요성을 강조하고 있습니다. CCTV 구축 시, 전문적인 지식이 기본적으로 중요하며, 현장에서의 보안관리에서 다양한 작업자가 매우 필요합니다."
+    },
+    {
+      "title": "인스피언, EDI 통합 기술 미국 특허 등록 완료",
+      "link": "http://www.boannews.com/media/view.asp?idx=144192&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 10:52:00 +0900",
+      "description": "‘어플리케이션 통합프로그램 매핑 DSL’ 등록[보안뉴스 강현주 기자] IT 솔루션 전문기업 인스피언은 미국 특허청(USPTO)에 자체 개발한 ‘어플리케이션 통합프로그램 매핑 DSL’(등록번호 : 12,657,009) 등록을 완료했다고 밝혔다. 이번 특허는 기업 간 데이터 연계 및 EDI 구축 과정에서 필수적으로 수행되는 데이터 매핑(Mapping) 작업을",
+      "language": "ko",
+      "summary": "인스피언이 '어플리케이션 통합프로그램 매핑 DSL' 등론 결과와 개인정보 처리에 대한 EDI 구축를 완료했다.",
+      "points": [
+        "미국 특허 등론 결과와 EDI 구축",
+        "개인정보 처리에 대한 문제",
+        "솔루션 개발자의 고도의 지식"
+      ],
+      "insight": "이 기사는 '어픬리케이션 통합프로그램 매핑 DSL' 개발자가 인스피언의 EDI 구축에 대해 대답을 제공하고 있는 것으로 보여지며, 이로부터 기술 전문성과 인기를 가지고 자신의 개인정보 처리 직면에서 해당 솔루션을 수행하고 있다는 것을 나타낸다."
+    },
+    {
+      "title": "엘에스웨어, 인니 서수마트라주에 솔루션 공급... K-보안 ‘교두보’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144190&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 10:48:00 +0900",
+      "description": "ASKOMPSI 전략적 협력 기반 지방정부 첫 솔루션 전격 공급 성과 달성‘제로 트러스트’ 기반 XDR 연계해 능동적 사이버 위협 탐지망 고도화 추진[보안뉴스 조재호 기자] 엘에스웨어가 인도네시아 서수마트라주 지방정부에 자사 서버 보안 및 취약점 관리 솔루션 공급을 완료하며 현지 공공 시장 진출의 신호탄을 쐈다. 인도네시아 전국 주정부 정보통신청 협의회(A",
+      "language": "ko",
+      "summary": "ASKOMPSI 전략적 협력 기반 지방정부 첫 솔루션 전격 공급 성과 달성‘제로 트러스트’ 기반 XDR 연계해 능동적 사이버 위협 탐지망 고도화 추진[보안뉴스 조재호 기자] 엘에스웨어가 인도네시아 서수마트라주 지방정부에 자사 서버 보안 및 취약점 관리 솔루션 공급을 완료하며 현지 공공 시장 진출의 신호탄을 쐈다. 인도네시아 전국 주정부 정보통신청 협의회(A",
+      "points": [
+        "인도네시아 전국 주정부 정보통신청 협의회(A",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[카드뉴스] “안전장치 풀린 괴물 AI의 역습”… ‘프로젝트 글래스윙’ 통제망 깨고 나온 오픈소스의 경고",
+      "link": "http://www.boannews.com/media/view.asp?idx=144191&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 10:41:00 +0900",
+      "description": "독점적 소수 연합의 ‘글래스윙’ 통제망을 벗어나 안전장치가 해제된 강력한 오픈소스 기반 ‘미토스급’ AI가 향후 6~12개월 내에 대거 방출될 것으로 전망된다. 기존의 안전 가이드라인을 우회하고 공격에 최적화된 고성능 AI가 보편화됨에 따라, 방어자가 인지하기 전에 인프라를 타격하는 초광속 제로데이 공격 위험이 급증하고 있다. 기술의 보편화가 초래할 위협에",
+      "language": "ko",
+      "summary": "독점적 소수 연합의 ‘글래스윙’ 통제망을 벗어나 안전장치가 해제된 강력한 오픈소스 기반 ‘미토스급’ AI가 향후 6~12개월 내에 대거 방출될 것으로 전망된다. 기존의 안전 가이드라인을 우회하고 공격에 최적화된 고성능 AI가 보편화됨에 따라, 방어자가 인지하기 전에 인프라를 타격하는 초광속 제로데이 공격 위험이 급증하고 있다...",
+      "points": [
+        "독점적 소수 연합의 ‘글래스윙’ 통제망을 벗어나 안전장치가 해제된 강력한 오픈소스 기반 ‘미토스급’ AI가 향후 6~12개월 내에 대거 방출될 것으로 전망된다",
+        "기존의 안전 가이드라인을 우회하고 공격에 최적화된 고성능 AI가 보편화됨에 따라, 방어자가 인지하기 전에 인프라를 타격하는 초광속 제로데이 공격 위험이 급증하고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "A10 네트웍스, AI보안기업 ‘트로이AI’ 인수",
+      "link": "http://www.boannews.com/media/view.asp?idx=144189&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 19 Jun 2026 10:35:00 +0900",
+      "description": "“주권형 AI 보안 실현할 수 있도록 지원”[보안뉴스 강현주 기자] 네트워크 보안 장비 전문 기업인 A10 네트웍스는 AI 보안 기업 트로이AI(TrojAI Inc.)를 인수했다고 19일 발표했다. 조직이 AI 애플리케이션과 에이전트형 워크플로우를 안전하게 보호, 테스트, 규정을 준수할 수 있도록 지원하기 위해서다. 이번 인수는 A10의 주권형 AI 보안(",
+      "language": "ko",
+      "summary": "A10 기사는 AI 보안 기술에 대한 인수를 요구하고, TrojAI Inc.의 인수를 부품화로 선보여 주권이 진정으로 도입하도록 지원합니다.",
+      "points": [
+        "A10 기사는 주권이나 인수를 기대하고, TrojAI Inc.의 인수를 지원할 수 있도록 부품화를 선보여 합니다.",
+        "AI 보안에 대한 진로를 설명하고, AI 기술의 관계자인 TrojAI Inc.를 인수하도록 부품화를 합니다.",
+        "A10 기사는 AI 보안기업이 전국을 연구해 나가서 성공적으로 진행할 수 있도록 부품화를 합니다."
+      ],
+      "insight": "A10 기사는 AI 기술을 장소에서의 발전과정으로 AI 보안을 위한 인수가 필요한 것을 강조하며, TrojAI Inc.를 부품화를 촉점추리는 방벡에 대한 활동을 기다리고 합니다."
+    },
+    {
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Jun 2026 01:01:00 +0000",
+      "description": "Telegram argues India should block specific content, not an entire platform used by millions.",
+      "language": "en",
+      "summary": "In response to Telegram's call for the Indian government to specifically ban certain types of messages rather than the whole service, India decides against a blanket ban on messaging apps like WhatsApp and Signal.",
+      "points": [
+        "India debates blocking specific content instead of banning entire platforms",
+        "Telegram CEO appeals for only certain types of messages to be restricted in India, not the platform itself"
+      ],
+      "insight": "This news indicates that while digital services face regulatory scrutinies and potential restrictions based on their content policies worldwide, there seems to still be a desire by policymakers like those in India for more targeted approaches rather than sweeping bans."
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "description": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "language": "en",
+      "summary": "Elastic has agreed to purchase DeductiveAI for up to $85 million amid rumors of potential larger bids from Microsoft and VMWare.",
+      "points": [
+        "Three-year-old AI startup, Elastic agrees on buying DeductiveAI",
+        "Up to $85M deal offers no exclusivity or time frame specified",
+        "Microsoft rumored as the next potential bidder after Microsoft"
+      ],
+      "insight": "This acquisition indicates a growing trend in AI integration for software quality assurance within enterprises, with industry giants showing interest."
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "language": "en",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1. 5 billion round at a $13 billion as the “inference gold rush\" marches on",
+      "points": [
+        "Startup Baseten is reportedly close to finalizing a $1",
+        "5 billion round at a $13 billion as the “inference gold rush\" marches on",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 18 Jun 2026 20:30:00 +0000",
+      "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "language": "en",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development",
+      "points": [
+        "The Snapchat maker is spinning off yet another internal unit",
+        "Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
       "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
@@ -538,216 +747,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "보안의 경계를 다시 정의하다, KX넥스지 ‘NexForce’ 브랜드 런칭",
-      "link": "http://www.boannews.com/media/view.asp?idx=144164&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 18 Jun 2026 10:29:00 +0900",
-      "description": "차세대 지능형 보안 플랫폼 ‘넥스포스 아크론’, 하나의 플랫폼으로 모든 보안 지원[보안뉴스 원병철 기자] KX넥스지가 하나의 플랫폼으로 모든 보안을 지원하는 신규 보안 브랜드 ‘넥스포스’(NeXForce)를 런칭하고 보안의 경계를 다시 정의한다고 밝혔다. 네트워크 보안 전문기업 KX넥스지(대표 고태진)가 17일 ‘NeXForce Security Platf",
-      "language": "ko",
-      "summary": "KX넥스지는 한계를 통제하기 위해 신규 보안 브랜드 '넥스포스'을 런칭하고, 보안의 정의를 다시 세대대로 진행한다.",
-      "points": [
-        "KX넥스지는 '넥스포스'를 먼저 발명하여, 다수의 보안 요소들을 모아서 확산",
-        "이 브랜드는 시스템화 기능과 광범위한 지속적인 관리 수단을 제공합니다",
-        "KX넥스지는 보안 전문가와 함께, 이러한 도구를 IT/커뮤니테인세에서의 모든 질의처리에 편리힐 수단으로 확실하게 환경을 만들었다."
-      ],
-      "insight": "KX넥스지는 이 모니터링 기반의 신규 보안 브랜드 '넥스포스'를 개시화하여, 보안을 다변숙한 방식으로 구현하도록 노력한다."
-    },
-    {
-      "title": "How to turn off AI in your Google Docs",
-      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 01:23:51 +0000",
-      "description": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-      "language": "en",
-      "summary": "The article provides a guide on how to disable AI writing suggestions in Google Docs after the introduction of Bard and ChatGPT.",
-      "points": [
-        "Google has announced that it is turning off its generative text features, including 'Write with Gemini', following public backlash over these tools' usage without consent.",
-        "The feature was launched as part of Google Docs in October last year and users had reported unwanted content generation by AI models within the apps using this prompting system.",
-        "Starting today, all generative text features will be turned off globally across various services like Photos, Translate, Playbooks etc., except for Gboard which allows customisation."
-      ],
-      "insight": "The decision to disable AI writing suggestions in Google Docs reflects the broader challenges and ethical considerations around using generative AI without explicit consent. As technology advances further into creativity, maintaining user trust through transparent communication and control over personal data becomes paramount."
-    },
-    {
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-      "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 23:28:21 +0000",
-      "description": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-      "language": "en",
-      "summary": "AI developments are causing production challenges for Apple's iPhone supply chain and might lead to price increases for consumers.",
-      "points": [
-        "Apple is facing difficulties with chip supplies necessary for AI components in iPhones, leading CEO Tim Cook to describe the situation as 'unsustainable.'",
-        "The disruinous effects of supply chain issues on iPhone production could force Apple to raise prices.",
-        "Amidst global shortages and increasing costs due to semiconductor manufacturing demands influenced by AI, consumers may see higher pricing for their iPhones."
-      ],
-      "insight": "The article suggests that the rise of AI-driven technology not only accelerates innovation but also disrupts traditional supply chains and can have a direct impact on product prices within major tech companies like Apple. This insight reflects broader industry trends where increased demand for advanced technologies leads to more complex production challenges, ultimately affecting the market in terms of availability and cost."
-    },
-    {
-      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 21:30:50 +0000",
-      "description": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
-      "language": "en",
-      "summary": "In his career spanning over twenty years in VC and AI sectors, Chi-Hua Chien has observed the evolving relationship between humans and technology.",
-      "points": [
-        "Chi-Hua Chien spent more than two decades as a venture capitalist focused on artificial intelligence (AI).",
-        "He predicts that AI's evolution will alter human interaction with machines, possibly leading to social disruption due to job losses and societal shifts.",
-        "Chi-Hua Chien suggests the real winners in this shift could be those who adapt by focusing on creative problem solving."
-      ],
-      "insight": "The news highlights Chi-Hua's belief that while AI presents opportunities, it also necessitates adaptation and new skills development to mitigate potential societal disruptions. This insight emphasizes the need for continuous learning in a rapidly evolving tech landscape."
-    },
-    {
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 20:32:52 +0000",
-      "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-      "language": "en",
-      "summary": "Roelof Botha has joined SpaceX as a new member of their board following Sequoia Capital'CTs recent exit from the company.",
-      "points": [
-        "Former Sequoia executive joins SpaceX",
-        "SpaceX IPO largest in history with over $10 billion raised",
-        "Botha fills an 'existing vacancy'"
-      ],
-      "insight": "The appointment of Roelof Botha to the board indicates a significant transition for Sequoia Ventures and could potentially open up more strategic investment opportunities in tech companies."
-    },
-    {
-      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 20:24:28 +0000",
-      "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-      "language": "en",
-      "summary": "After announcing its high-priced augmented reality (AR) glasses with limited functionality in low light conditions and a price tag of $300 per pair for the version that offers touch capabilities to operate Snap's camera system, Snap Inc.'s stock declined by more than 14% within two weeks.",
-      "points": [
-        "Snap unveiled AR glasses at an expensive cost with limited use in low light conditions and a $300 price tag for the touch-enabled version.",
-        "The company's Snap stock fell by over 14% after announcing its smart glasses, which disappointed investors looking forward to potential growth from new technology products.",
-        "Snap Inc.'s CEO acknowledged that there is still work ahead for perfecting their AR device and hinted at future innovations."
-      ],
-      "insight": "The release of the augmented reality glasses, with high cost but limited functionality, demonstrates a potential disconnect between consumer expectations and product deliverables in the industry. This may indicate that companies need to invest more into user experience or address practical usability concerns before releasing new tech products."
-    },
-    {
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 20:17:38 +0000",
-      "description": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between […]",
-      "language": "en",
-      "summary": "Tiffany Luck from NEA observes enterprises struggling with AI ROI as they exceed budget quickly and reconsider investment strategies.",
-      "points": [
-        "CEOs pushed for extensive use of AI, leading to rapid expenditure depletion in budgets like Uber's.",
-        "Companies are cutting costs on licenses such as Claude following the fiscal blowout experienced by some firms.",
-        "Meta discontinued its internal leaderboard after reevaluating resource allocation for AI initiatives."
-      ],
-      "insight": "The article highlights a critical period of adjustment in enterprise-level AI investments, prompting companies to closely examine their ROI and make tough financial decisions regarding technology spending."
-    },
-    {
-      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-      "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 19:46:16 +0000",
-      "description": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.",
-      "language": "en",
-      "summary": "The Federal Trade Commission has filed a lawsuit against certain groups for their continued operation of subscription scams in violation of user consent and store policies.",
-      "points": [
-        "Subscription app operators use shell companies to create the illusion of legitimacy, confusing consumers about ownership and intentions behind apps offering subscriptions that do not match consumer expectations or agreements.",
-        "The FTC alleges these groups exploit payment infrastructure as a means for continued revenue generation from their fraudulent subscription services without transparent disclosure to users at the point of sale.",
-        "Despite numerous complaints, app stores have difficulty detecting and removing apps linked with such scams due to their complex operational structures that mimic legitimate business practices."
-      ],
-      "insight": "The lawsuit emphasizes a need for stricter verification of the ownership behind subscription-based applications in order to protect consumers from fraudulent and unwanted charges, indicating an industrywide push towards more rigorous app store policies regarding monetization through subscriptions."
-    },
-    {
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000",
-      "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
-      "language": "en",
-      "summary": "French President Macron and Indian PM Modi voiced concerns at G7 summit about potential sudden loss of access to American AI technology during the recent Anthropic shutdown.",
-      "points": [
-        "The U.S., especially major tech companies like Google, has been a world leader in developing advanced artificial intelligence technologies such as ChatGPT and Midjourney",
-        "During their G7 summit meeting, French President Macron and Indian Prime Minister Modi expressed fears that the US could cut off access to American AI technology overnight.",
-        "The recent shutdown of Anthropic — a major player in this sector funded by Google' endorsement— raised concerns about potential blackout risks."
-      ],
-      "insight": "This development suggests that countries are becoming increasingly dependent on American AI technology, which could lead to geopolitical tensions and strategic vulnerabilities if access is suddenly cut off or restricted by the US government. It underscores a need for more diverse international technological partnerships."
-    },
-    {
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 18:30:56 +0000",
-      "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-      "language": "en",
-      "summary": "Following IBM and others into a major partnership for battling climate change, Anthropic becomes the first AI startup to join Frontier's $1B carbon removal coalition.",
-      "points": [
-        "Anthropic, an early-stage language model company based in San Francisco that was founded by Dr. Eleftheriou and his co-founder David Isberg when they were PhD students at Cornell University's AI lab over a decade ago.",
-        "The Frontier coalition includes companies like the Breakthrough Institute, Tortuga Engineering Inc., Carbon Direct LLC, TerraCO2 Solutions, Climeworks AG and SkyOrbitalSAT GmbH among others, all working to develop commercially viable technologies for removing carbon dioxide from the atmosphere.",
-        "Anthropic will contribute its resources towards accelerating research on a variety of approaches with different levels of maturity. Some techniques currently being studied involve direct air capture and subsequent sequestration through mineralization or injection into geological formations."
-      ],
-      "insight": "The involvement of AI startups like Anthropic in carbon removal initiatives represents an intersection between technology innovation and environmental stewardship, potentially driving new solutions for climate change while fostering corporate responsibility among emerging tech companies."
-    },
-    {
-      "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
-      "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 18:20:06 +0000",
-      "description": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
-      "language": "en",
-      "summary": "A Russian-speaking group of cybercriminals has allegedly accessed tens of thousands of major company's Fortinet firewalls using stolen login credentials.",
-      "points": [
-        "The hackers used previously known passwords to compromise the security system in numerous major companies globally",
-        "Fortinet reported that over ten thousand users from various enterprises faced potential unauthorized access incidents involving their systems and data within a short timeframe.",
-        "Several Fortinet customers, including some of the largest tech corporations worldwide, were affected by these cyber attacks."
-      ],
-      "insight": "This incident underscores the importance for companies to ensure password security measures are robust. Hackers often exploit known vulnerabilities and weak passwords in their attempts to gain unauthorized access into company networks."
-    },
-    {
-      "title": "Social media’s next evolution: user-controlled algorithms",
-      "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 18:19:48 +0000",
-      "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
-      "language": "en",
-      "summary": "Social media companies are introducing features allowing users to customize their feeds by providing direct input on algorithm preferences.",
-      "points": [
-        "Platforms like Threads, Instagram, and TikTok have rolled out new tools for user-driven feed customization",
-        "These algorithms enable personalized content discovery through explicit feedback from the users",
-        "The initiative represents a shift towards more transparent interaction with social media recommendation systems"
-      ],
-      "insight": "This trend could lead to increased platform engagement as users feel their individual preferences are being better catered to, potentially reshaping content marketing strategies."
-    },
-    {
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 17:43:07 +0000",
-      "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-      "language": "en",
-      "summary": "The company Odyssey secured a $1.45 billion valuation backed by heavyweights including Amazon and Microsoft Corp., following its successful round of funding.",
-      "points": [
-        "Odyssey, known for creating world models using AI similar to LLMs (Large Language Models), has raised a significant amount in recent venture capital investments. The company's technology creates richly detailed and interactive representations that users can engage with across various industries.",
-        "The $1.45 billion valuation marks Odyssey as one of the most highly valued startups within this emerging field, indicating strong confidence from major tech investors in its potential to revolutionize content creation through AI technology.",
-        "Amazon Web Services (AWS), Microsoft Azure, and other key players have invested heavily into Odyssey'in funding rounds. This infusion of capital is poised to accelerate the company’s growth trajectory in developing more advanced generative models."
-      ],
-      "insight": "The substantial investment from industry giants underscores not only confidence in Odyssey but also highlights a growing interest and potential expansion into new markets for AI-generated content. This could signal shifts towards how industries like entertainment, education, and visual storytelling are created."
-    },
-    {
-      "title": "Mastodon looks to newsletters to help revive the open social web",
-      "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 17 Jun 2026 17:38:01 +0000",
-      "description": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
-      "language": "en",
-      "summary": "The open social web platform, Mastodon, has introduced an email subscription service for its newsletters that allows non-account holders to subscribe and receive updates directly from creators.",
-      "points": [
-        "Mastodon's new feature enables anonymous subscriptions through emails despite not having a personal account on the platform.",
-        "This is part of Mastodon’senvision for an 'open web,' where users can connect beyond their network and contribute to any content without registration.",
-        "While this promotes inclusivity, it raises concerns about privacy among its user base."
-      ],
-      "insight": "Mastodon's initiative could redefine the boundaries of social media by facilitating open communication across different platforms and networks. However, balancing anonymity with growing demands for transparency remains a significant challenge."
     }
   ]
 }
