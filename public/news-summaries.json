@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-06-19T19:50:11.083Z",
+  "generatedAt": "2026-06-20T03:40:54.773Z",
   "articles": [
+    {
+      "title": "[2026 문서보안 솔루션 리포트] 문서를 읽기 시작한 AI, “기업 문서는 과연 안전한가?”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144201&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 20 Jun 2026 10:48:00 +0900",
+      "description": "데이터 분류와 권한 관리, AI 시대 문서보안의 핵심 과제로 부상업무에 AI 활용을 지원하는 보안 체계 구축 요구 확대문서보안 인식 설문조사 결과, 문서 유출 경로 ‘이메일’이 가장 높아... ‘생성형 AI’ 3위문서보안 솔루션 전문기업 집중 분석: 블루문소프트, 마크애니, 이노티움, 수산아이앤티, 소프트캠프[보안뉴스 강초희 기자] 생성형 AI와 클라우드,",
+      "language": "ko",
+      "summary": "AI로 발결되는 문서가 기업에 어떠한 위치에서 발침할 수 있을까요?",
+      "points": [
+        "- 기사 내용에서 '과연 안전한가?'라는 주장이 강조되어 문서 안전성에 대해 질문이 발생함을 제시",
+        "- AI로 발견되는 문서가 공인 사람의 통합노하우와 상호조직이고 충매학습 대안에 어떠한 영향을 미치지 않은가?",
+        "- AI와 클라우드, 마크애니, 이노티움, 수산아이앤티 등의 소프트캐시에서 문서보안 질의 방식의 영리성을 조사한다."
+      ],
+      "insight": "권한관리, 유출방지 및 AI로 발견되는 문서 보안에 대해 IT/기술 업계가 어떤 의미나 인사이트를 내장함을 살환한다면?"
+    },
+    {
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Jun 2026 00:47:44 +0000",
+      "description": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+      "language": "en",
+      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "크롬 확장 프로그램의 배신... 수백만대의 브라우저 해킹 가능",
+      "link": "http://www.boannews.com/media/view.asp?idx=144205&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 20 Jun 2026 09:29:00 +0900",
+      "description": "AI 기반 에이전트 사이드 패널 확장 프로그램 ‘SiderAI’와 ‘MaxAI’에 심각한 보안 취약점악성 웹사이트로 조작된 메시지를 콘텐츠 스크립트로 전송하면 그대로 전달... 악용가능[보안뉴스 원병철 기자] 널리 사용되는 크롬 확장 프로그램인 ‘SiderAI’와 ‘MaxAI’에서 심각한 보안 취약점이 발견되어 수백만 명의 사용자가 위험에 처했다. 이 취약",
+      "language": "ko",
+      "summary": "AI 기반 에이전트 사이드 패널 확장 프로그램 ‘SiderAI’와 ‘MaxAI’에 심각한 보안 취약점악성 웹사이트로 조작된 메시지를 콘텐츠 스크립트로 전송하면 그대로 전달. 악용가능[보안뉴스 원병철 기자] 널리 사용되는 크롬 확장 프로그램인 ‘SiderAI’와 ‘MaxAI’에서 심각한 보안 취약점이 발견되어 수백만 명의 사용자가 위험에 처했다",
+      "points": [
+        "AI 기반 에이전트 사이드 패널 확장 프로그램 ‘SiderAI’와 ‘MaxAI’에 심각한 보안 취약점악성 웹사이트로 조작된 메시지를 콘텐츠 스크립트로 전송하면 그대로 전달",
+        "악용가능[보안뉴스 원병철 기자] 널리 사용되는 크롬 확장 프로그램인 ‘SiderAI’와 ‘MaxAI’에서 심각한 보안 취약점이 발견되어 수백만 명의 사용자가 위험에 처했다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "language": "en",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos",
+      "points": [
+        "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffect...",
+        "It's unclear why it would work now with Anthropic’s cybersecurity model Mythos",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Jun 2026 21:45:00 +0000",
+      "description": "Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion […]",
+      "language": "en",
+      "summary": "Go's IPO provides capital for addressing Japan's driver shortage by developing robotaxis and making acquisitions.",
+      "points": [
+        "Japan experiences a significant driver shortage",
+        "Robotaxi development is funded through Go's IPO proceeds",
+        "Acquisition of smaller companies will expand Go’s capabilities"
+      ],
+      "insight": "Go's move to invest in robotaxi technology and acquisitions could signal the beginning of autonomous transportation becoming more prevalent, potentially transforming urban mobility."
+    },
+    {
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 19 Jun 2026 21:00:34 +0000",
+      "description": "What’s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn’t even look digital. Digital frames have always been so popular […]",
+      "language": "en",
+      "summary": "Aura introduces the sleek and elegant Aura Ink photo frame which uses e-ink technology to mimic traditional film photos in appearance while offering modern digital features.",
+      "points": [
+        "The new Aura Ink displays family photos using advanced, non-glowing e-ink that looks like physical prints without being an actual camera or computer display.",
+        "Aura's innovative frame provides not only the visual experience of old film but also modern capabilities such as WiFi connectivity and cloud storage integration for photo management.",
+        "With its artistic design, comfortable weight, built-in LED lighting during dark settings, Aura Ink is an eco-friendly alternative that could influence a shift in consumer preferences away from conventional digital frames."
+      ],
+      "insight": "The launch of the non-glowing and visually appealing Aura Ink frame represents potential growth for physical photo products within the increasingly screen-centric world, possibly encouraging consumers to value a blend of old-fashioned nostalgia with contemporary convenience."
+    },
     {
       "title": "Every fusion startup that has raised over $100M",
       "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
@@ -657,96 +747,6 @@
         "This is part of a broader trend in the creative industry to enhance user experiences through AI technology."
       ],
       "insight": "The integration of Firefly into Adobe' end-to-end Creative Cloud suite signifies an increased focus on automating repetitive tasks and providing intelligent insights for content creation, thereby boosting productivity in the IT/technology industry. Furthermore, introducing Frame.io suggests a strategic push towards embracing online collaboration tools to foster remote work capabilities."
-    },
-    {
-      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
-      "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 12:00:00 +0000",
-      "description": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
-      "language": "en",
-      "summary": "Pixi's new iOS app transforms text messages into AR experiences with emojis and stickers.",
-      "points": [
-        "Developer Pixi introduces an iPhone messaging application that converts plain texts into immersive augmented reality (AR) scenes using the phone’ extranet camera and touchscreen input capabilities to bring conversations in messages alive visually for users of iPhones.",
-        "With a focus on improving communication within families, particularly when discussing sensitive topics like health or finances where misunderstandings can be commonplace; Pixi's AR messaging application is designed with care and love by founder Samantha Owens to bridge that gap between generations using technology.",
-        "The company invites users of all ages, from tech-enthusiast Gen Z’ers who are already well accustomed to the use of augmented reality features on their smartphones through apps like TikTok and Snapchat down to traditionalists in older generations often intimidated by new technology."
-      ],
-      "insight": "Pixi's AR messaging app has potential implications for fostering better communication among family members, bridging the generation gap through engaging visual content. It could help improve understanding of sensitive topics and reduce misunderstandings across different age groups within families in a comfortable digital space."
-    },
-    {
-      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
-      "link": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 11:59:11 +0000",
-      "description": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
-      "language": "en",
-      "summary": "Waymo is recalling almost 4,000 of its self-driving cars after discovering at least three crashes where vehicles entered highway closure zones designated by traffic cones and signs.",
-      "points": [
-        "Waymo identified a total of at least thirteen instances across five states (California, Arizona, Texas, New Mexico, and Virginia) involving its robotaxis entering restricted construction areas on highways between August and December 2021. The recalls will affect nearly all the company's autonomous vehicles.",
-        "Waymo stated that despite deploying over a million miles of testing across hundreds of cities worldwide to hone their technology, these instances represent rare occurrences where human drivers might not avoid restricted zones as carefully under challenging circumstances. As per Waymo CEO Dave Burstein's statement in December 2in, the company is recalling all its current robotaxis from service and investigating.",
-        "The Federal Motor Carrier Safety Administration (FMCSA) regulates transportation of goods by truck but has no authority over passenger vehicles like Waymo's self-driving cars. Thus, any formal action against these robocars would require the US Congress to pass new laws allowing federal agencies oversight."
-      ],
-      "insight": "This incident highlights a critical issue within autonomous vehicle technology: ensuring safe navigation in environments with unexpected human behavior and construction zones requires sophisticated programming, robust testing, continuous learning, comprehensive data analysis capabilities for predictive modeling of future incidents. The recall also emphasizes the need to improve communication between self-driving cars' sensory systems/algorithms and infrastructure like traffic signs or lane closures."
-    },
-    {
-      "title": "한국시스템엔지니어링학회, 2026년 춘계학술대회 개최 “AI 기반 미래 산업혁신 전략 논의”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144185&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 18 Jun 2026 18:03:00 +0900",
-      "description": "제조AI·철도 피지컬AI·국방 AX 등 최신 이슈 조명AI 기반 국가 핵심 인프라 경쟁력 강화 방안 논의시스템엔지니어링 분야 연구성과와 적용 사례 발표[보안뉴스 강초희 기자] 한국시스템엔지니어링학회(회장 권혁진)는 6월 17일 제주대학교 아라컨벤션홀에서 ‘2026년 춘계학술대회’를 개최했다.이번 학술대회는 ‘초지능·디지털 전환시대의 시스템엔지니어링: AI",
-      "language": "ko",
-      "summary": "제조AI·철도 피지컬AI·국방 AX 등 최신 이슈 조명AI 기반 국가 핵심 인프라 경쟁력 강화 방안 논의시스템엔지니어링 분야 연구성과와 적용 사례 발표[보안뉴스 강초희 기자] 한국시스템엔지니어링학회(회장 권혁진)는 6월 17일 제주대학교 아라컨벤션홀에서 ‘2026년 춘계학술대회’를 개최했다. 이번 학술대회는 ‘초지능·디지털 전환시대의 시스템엔지니어링: AI",
-      "points": [
-        "이번 학술대회는 ‘초지능·디지털 전환시대의 시스템엔지니어링: AI",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“공격자 수십억 벌 때 화이트 해커 고작...” 취약점 신고 보상·인센티브 확대 목소리↑",
-      "link": "http://www.boannews.com/media/view.asp?idx=144183&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 18 Jun 2026 17:55:00 +0900",
-      "description": "국가AI전략위 ‘보안취약점 상시 신고조치제’ 제도화 세미나 개최“선의의 연구자 보상 및 기업의 노력 인센티브 확대 필요”[보안뉴스 강현주 기자] “사이버 공격자들은 암시장에서 취약점 하나로 수억, 수십억 원을 쉽게 벌어들이는 반면 선의의 연구자인 화이트해커들은 사업 전체 차원에서도 고작 몇천만 원 수준의 보상에 그칩니다. 선과 악의 갈림길에서 올바른 선택을",
-      "language": "ko",
-      "summary": "공격자가 수십억원을 벌어내고 이를 보상으로 인센티브에서 확장하려는 화이트해커들의 사업 피우기",
-      "points": [
-        "- 공격자들은 대부분 수십억원을 낳은 비로소를 보상하고 있다.",
-        "- 이러한 보상은 공격자들의 적용력과 참여가 증가함을 나타냅니다.",
-        "- 하지만 화이트해커는 그래픽 스마이스와 상업자에게 보상과 투기를 조사하고, 공격자가 참여한 계정에서의 인식 못되는 부분이 시야를 그리고 입장을 나누기 위해 확실하게 조정해야 합니다."
-      ],
-      "insight": "화이트해커가 공격자들과의 관습적인 상호작용을 강화하고, 공격자와의 만남에 대한 통짝으로 인센티브와의 다뤘가를 통해 공격자들이 운영치기에 미치도롷이나 수질 부위에서 연구하고자 하는 데에 사용하기 시작합니다."
-    },
-    {
-      "title": "ZKTeco, 차세대 프리미엄 플랩 게이트 ‘Saturn-S4000 시리즈’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144181&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 18 Jun 2026 17:27:00 +0900",
-      "description": "dToF 기반 3D 센서 기술 적용으로 정밀한 통행 감지얼굴·장정맥·지문·QR·RFID 등 다양한 인증 방식 지원23.9인치 디스플레이 탑재로 출입통제와 디지털 사이니지 기능 결합[보안뉴스 강초희 기자] 글로벌 출입통제 및 보안 솔루션 전문기업 ZKTeco(한국지사 대표 이규환)가 차세대 프리미엄 플랩 게이트 ‘Saturn-S4000 시리즈’를 새롭게 선보",
-      "language": "ko",
-      "summary": "dToF 기반 3D 센서 기술 적용으로 정밀한 통행 감지얼굴·장정맥·지문·QR·RFID 등 다양한 인증 방식 지원23. 9인치 디스플레이 탑재로 출입통제와 디지털 사이니지 기능 결합[보안뉴스 강초희 기자] 글로벌 출입통제 및 보안 솔루션 전문기업 ZKTeco(한국지사 대표 이규환)가 차세대 프리미엄 플랩 게이트 ‘Saturn-S4000 시리즈’를 새롭게 선보",
-      "points": [
-        "dToF 기반 3D 센서 기술 적용으로 정밀한 통행 감지얼굴·장정맥·지문·QR·RFID 등 다양한 인증 방식 지원23",
-        "9인치 디스플레이 탑재로 출입통제와 디지털 사이니지 기능 결합[보안뉴스 강초희 기자] 글로벌 출입통제 및 보안 솔루션 전문기업 ZKTeco(한국지사 대표 이규환)가 차세대 프리미엄...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "가짜 리뷰에 AI 영상까지 동원... 암호화폐 투자자 노린 ‘평판 조작형’ 악성코드",
-      "link": "http://www.boannews.com/media/view.asp?idx=144171&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 18 Jun 2026 17:04:00 +0900",
-      "description": "가짜 리뷰와 AI 영상으로 악성코드 신뢰도 조작한 공격 캠페인 발견GitHub·SourceForge·유튜브·바이러스토탈 등을 활용해 암호화폐 탈취 악성코드 유포평판 조작 통한 악성코드 확산이 새로운 위협으로 떠오르고 있어[보안뉴스 강초희 기자] 신원 미상의 위협 행위자가 합법적인 뉴스 사이트의 유료 기사(스폰서 콘텐츠)를 활용해 악성 프로그램을 홍보하는 새",
-      "language": "ko",
-      "summary": "가짜 리뷰와 AI 영상으로 악성코드 신뢰도 조작한 공격 캠페인 발견GitHub·SourceForge·유튜브·바이러스토탈 등을 활용해 암호화폐 탈취 악성코드 유포평판 조작 통한 악성코드 확산이 새로운 위협으로 떠오르고 있어[보안뉴스 강초희 기자] 신원 미상의 위협 행위자가 합법적인 뉴스 사이트의 유료 기사(스폰서 콘텐츠)를 활용해 악성 프로그램을 홍보하는 새",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
