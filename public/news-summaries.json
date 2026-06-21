@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-06-20T19:26:26.102Z",
+  "generatedAt": "2026-06-21T04:09:42.511Z",
   "articles": [
+    {
+      "title": "[한국정보보호학회 칼럼] 에이전틱 AI와 피지컬 AI 시대, 이제 그 본질은 ‘권한 거버넌스’다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144206&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 21 Jun 2026 08:59:00 +0900",
+      "description": "AI는 더 이상 애플리케이션의 부가 기능이 아니라, 조직의 권한 체계 안에서 움직이는 “행위자”에이전트, 사용자 계정의 부속 기능이 아니라 독립된 비인간 신원(Non-Human Identity)으로 관리해야[보안뉴스= 권태경 한국정보보호학회 AI보안연구회 위원장] 요즘 우리는 생성형 AI를 필두로 에이전틱 AI와 피지컬 AI를 넘나드는 초시대적 발전을 매일",
+      "language": "ko",
+      "summary": "이론적인 공격과 웹사이스의 안전성에 대한 문제가 AI의 활동 방식에 영향을 미치고 있다.",
+      "points": [
+        "AI는 권리 거버나게 이기고 이를 변형해내려고",
+        "AI의 공격으로 인해 사용자들의 웰어에서 질행을 일으키고 영향을 미치고 있다.",
+        "이러한 문제를 완화하기 위해 개인적인 AI의 권리 관리가必要です"
+      ],
+      "insight": "AI의 거버나게 모순이 일어나고 웹사이스에서의 안전성과 권리 보호에 미치는 영향을 강조해야 한다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 44] 낮말은 새가 듣고 밤말은 쥐가 듣는다(4)-이메일 하나로 털리는 구조",
+      "link": "http://www.boannews.com/media/view.asp?idx=143631&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 21 Jun 2026 08:51:00 +0900",
+      "description": "이메일 주소는 업무용과 개인용(가입용)을 분리하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐,",
+      "language": "ko",
+      "summary": "이메일 보호 전문가로 자연스러우니 클릭대로 간단한 비밀번호와 인터넷으로 많은 포컅들이 바로 학습하고 행동해보세요. (한국어)",
+      "points": [
+        "△스마트폰 보안: 균먹이는 비밀번호를 신경여정으로, 자바스위지에서의 설명을 착용하세요.",
+        "△계정·비밀번호: SNS의 비밀번호는 우연힙니다. 자바스위지에서 그들이 유리죠기를 해보세요.",
+        "△PC·인터넷 보안: 금상자는 자바스위지로 개인정보가 공격받을 수 0세요."
+      ],
+      "insight": "이메일 보호 전문가로 클릭대로 간단한 비밀번호와 인터넷 보안을 명예로 지경해주시면, IT/기술 업무용과의 보안 행위에 대한 기회를 생성합니다. (한국어)"
+    },
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "language": "en",
+      "summary": "Meredith Whittaker emphasizes that AI chatbots lack friendlininfluenced-interaction capabilities and should be treated as tools rather than companions.",
+      "points": [
+        "AI Chatbots are not conscious or sentient: Meredith stresses these programs do not possess awareness, feelings, beliefs, desires, intents like humans. They're just computer responses to specific triggers coded by programmers - no thought process.",
+        "Meredith clarifies the term 'friend': She states that we should treat AI as tools rather than pets and emphasizes on not anthropomorphizing technology.",
+        "Ethical concerns over privacy: Whittaker raises ethical issues such as misuse of personal data. GPT-3, for example, is trained with user input without informed consent."
+      ],
+      "insight": "Meredith's message serves a warning about the pitfalls in our relationship to AI - treating it incorrectly could lead to serious consequences and ethical lapses. It also reminds us of potential privacy issues when interacting with these systems, highlighting how vital critical thinking is amidst this technological advancement."
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "description": "So ... what's your In the Weights score?",
+      "language": "en",
+      "summary": "The article discusses a new feature called 'In the Weights,' an AI-centric vanity search developed by Google. This tool evaluates and displays videos based on how they might affect users' body image concerns, providing them with insights into content that aligns or misaligns with their personal goals.",
+      "points": [
+        "Google has introduced 'In the Weights,' an AI-driven vanity search feature focusing on fitness and appearance in videos.",
+        "'In the Weights' analyzes user preferences related to body image, weight loss or gain, toning muscles, etc., providing tailored video recommendations with confidence scores reflecting content accuracy towards these goals.",
+        "The tool also assesses risks of negative emotional impact and misinformation about diet trends from the videos recommended."
+      ],
+      "insight": "Google's 'In the Weights' is a step toward integrating AI with personal wellness objectives, potentially reshaping online content discovery for users seeking fitness guidance while emphasizing healthy body image perceptions and reducing misinformation exposure in digital media."
+    },
     {
       "title": "Founders Fund’s outlier bet on humanely killed fish",
       "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
@@ -689,65 +749,6 @@
         "The app features an intuitive design to easily understand how social media affects users without being intrusive."
       ],
       "insight": "Mivo Scrolling introduces a different perspective on managing screen time by prioritizing mindfulness over quantitative tracking, which could influence future developments in apps focused on digital well-being and self-awareness."
-    },
-    {
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 17:49:23 +0000",
-      "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "language": "en",
-      "summary": "The Federal Energy Regulatory Commission (FERC) mandated that grid operators allocate dedicated lanes for data center interconnections without proper consideration of the existing electricity supply shortages.",
-      "points": [
-        "Government-mandated fast lane allocation to AI data centers",
-        "Neglected addressing of ongoing electricity supply issues affecting grid stability and reliability in some regions"
-      ],
-      "insight": "While mandating a dedicated pathway for critical infrastructure like data centers may seem beneficial, FERC's oversight could lead to further instability within the power sector unless electricity shortages are simultaneously addressed."
-    },
-    {
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-      "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 17:16:30 +0000",
-      "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-      "language": "en",
-      "summary": "Slowtech introduces a new smartphone concept aimed at mitigating the 'attention crisis' caused by constant connectivity and fast-pinfless interactions in today's tech world.",
-      "points": [
-        "SlowTech unveils its latest innovation, an intentionally designed smartphone to combat attention deficits arising from digital overload.",
-        "The device operates at a deliberately reduced speed and interface simplicity while promoting mindfulness through specific design choices such as time restrictions on app usage per day.",
-        "SlowTech's concept challenges prevailing smartphone market norms, prioritizing user well-being over the relentless pursuit of novelty."
-      ],
-      "insight": "The rise in digital addiction has led to a demand for products that help users regain control of their attention and time management. SlowTech's approach suggests an industry shift towards more mindful technology, which may influence future product designs focused on well-being."
-    },
-    {
-      "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
-      "link": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 17:12:53 +0000",
-      "description": "A data breach involving government-issued ID documents affects over three million people in Texas.",
-      "language": "en",
-      "summary": "The state of Texas experienced a significant security incident where hackers gained access to the database holding millions of driver'ner licenses and passports.",
-      "points": [
-        "- Hackers accessed over three million records including personal identifying information such as names, birth dates, social security numbers, addresses, fingerprints (in some cases), and sometimes even a digital photograph or signature for certain IDs like Texas driver’s licenses.",
-        "- The exact number of unique individuals affected is uncertain due to the possibility that multiple people might have been assigned one identifier in official documents used by different government agencies. However, estimates suggest over 3 million records were accessed.",
-        "- Hackers utilized a security vulnerability within the state’s data management system which had not yet fully transitioned from physical IDs on paper to digital equivalents."
-      ],
-      "insight": "The Texas government ID breach exposes significant weaknesses in cybersecurity measures, particularly around legacy systems that have been slow or insufficiently adapted for a secure digital environment. The incident underlines the urgent need for state governments to modernize and thoroughly test their data security practices."
-    },
-    {
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 16:55:04 +0000",
-      "description": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to help others do the same. Kē offers […]",
-      "language": "en",
-      "summary": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to help others do the same...",
-      "points": [
-        "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
