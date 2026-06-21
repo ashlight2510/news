@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-21T04:09:42.511Z",
+  "generatedAt": "2026-06-21T09:52:15.223Z",
   "articles": [
+    {
+      "title": "시장 정보 플랫폼 Klue 공급망 공격으로 사이버 보안 기업들 피해 입어",
+      "link": "http://www.boannews.com/media/view.asp?idx=144233&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 21 Jun 2026 15:51:00 +0900",
+      "description": "헌트레스와 레코디드 퓨처 등 클루 고객, 세일즈포스(Salesforce) DB에서 데이터 탈취당해[보안뉴스 원병철 기자] 사이버 보안 기업인 헌트레스(Huntress)와 레코디드 퓨처(Recorded Future)가 시장 정보 플랫폼 ‘Klue’를 겨냥한 공급망 공격으로 인해 피해를 입었다고 밝혔다. 클루(Klue)는 B2B 시장 분석 및 경쟁사 분석 솔루",
+      "language": "ko",
+      "summary": "Klue 공급망에 의해 보호받을 수 없기 시 헌트레스와 레코디드 퓨처가 IT 보안 기업인 이른지로 작성",
+      "points": [
+        "Klue 공급망에서의 보호받을 수 없는 상황에 대해",
+        "포크인 헌트레스와 레코디드 퓨처가 시장 정보 광고를 통한 공급망에서 의존한 보호 기능을 제공하지 못한 상황",
+        "이러한 상황로 인해 IT 보안 기업들이 보호 중간에서의 위기를 보장"
+      ],
+      "insight": "Klue 공급망에서 의존한 IT 보안 기술을 제공하지 않으며, 이로인해 광고를 통한 IT 보안 기업들이 위기를 보장하고 있음"
+    },
+    {
+      "title": "국가안보실 3차장에 송기호 현 경제안보비서관 임명... 이재명 대통령 인사 단행",
+      "link": "http://www.boannews.com/media/view.asp?idx=144234&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 21 Jun 2026 13:19:00 +0900",
+      "description": "국가안보실 1차장에는 강건작 대통령 직속 미래국방전략위원회 위원홍보소통수석에 성기홍 전 연합뉴스 사장, 민정수석에 한찬식 변호사 발탁[보안뉴스 원병철 기자] 이재명 대통령이 21일 대통령 비서실 홍보소통수석과 민정수석, 사회수석은 물론 국가안보실 1차장과 3차장을 교체하는 인사를 단행했다. 국가안보실 1차장에는 강건작 대통령 직속 미래국방전략위원회 위원이",
+      "language": "ko",
+      "summary": "대통령 인사로 국가안보실 대통령 지도자들이 인기불구리로 모여오는 세계에서의 국방전략의 공유",
+      "points": [
+        "- 국방전략위원회 위원인증자인이 대통령의 활동과 연결",
+        "- 국방전랩 중요성을 강조한 인사설정",
+        "- 국가안보실 지도자들이 미국과 일컷 협상의 경로를 선택하여 경기각시의 복구"
+      ],
+      "insight": "이재명 대통령의 인사는 국방전랩이 중요한 정도로 강조되어 미국과의 관계와 일컷 패러트를 가지고 행동하는 국가안보실 지도자들이 일부분점에서 기여한 획복으로 인식"
+    },
     {
       "title": "[한국정보보호학회 칼럼] 에이전틱 AI와 피지컬 AI 시대, 이제 그 본질은 ‘권한 거버넌스’다",
       "link": "http://www.boannews.com/media/view.asp?idx=144206&kind=&sub_kind=",
@@ -719,36 +749,6 @@
         "AI is also viewed as a valuable tool in helping users generate conversation starters that could lead to meaningful connections."
       ],
       "insight": "The mixed feelings towards AI's role in dating reflect broader concerns about the authenticity and human connection, which are still significant factors for singles despite technological advancements. However, the willingness to use technology as a supplement suggests an evolving relationship between users and digital platforms."
-    },
-    {
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 18:22:13 +0000",
-      "description": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "language": "en",
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company",
-      "points": [
-        "AWS is in talks to sell its chips to other data centers",
-        "CEO Andy Jassy has said this represents a $50 billion opportunity for the company",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Mivo’s new app takes a mindful approach to managing screen time",
-      "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 18 Jun 2026 18:00:00 +0000",
-      "description": "Doomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this issue with strict limits, a new mindful screen time app called Mivo Scrolling is trying to shake things up. Launched last month, Mivo doesn’t look super different from other […]",
-      "language": "en",
-      "summary": "Mivo's new app adopts a mindful strategy to manage screen time by encouraging users not to focus on the amount of time spent but rather awareness and intentionality in their social media use.",
-      "points": [
-        "The Mivo Scrolling app was launched last month as an alternative approach to managing screen time, focusing on mindfulness instead of strict limits.",
-        "Unlike other apps that rely solely on tracking the duration spent using a platform like Twitter or Facebook, Mivo promotes awareness and intentionality with its 'sculpting' feature.",
-        "The app features an intuitive design to easily understand how social media affects users without being intrusive."
-      ],
-      "insight": "Mivo Scrolling introduces a different perspective on managing screen time by prioritizing mindfulness over quantitative tracking, which could influence future developments in apps focused on digital well-being and self-awareness."
     }
   ]
 }
