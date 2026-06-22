@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-06-22T16:57:00.502Z",
+  "generatedAt": "2026-06-22T20:53:35.282Z",
   "articles": [
+    {
+      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+      "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 20:37:19 +0000",
+      "description": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+      "language": "en",
+      "summary": "Microsoft has entered into a long-term contract with Chevron to secure one of the largest and most controversial data center projects in the US using fossil fuel energy.",
+      "points": [
+        "Microsoft struck a twenty-year power purchase agreement (PPA) with Chevron for natural gas supply, totaling an estimated $30 billion at current rates over two Clean Energy Hubs near Houston and Corpus Christi.",
+        "Critics argue that the PPA contradicts Microsoft's sustainability goals while advocates claim it could lower data center costs by 4%.",
+        "The Chevron project is part of a larger $1 billion natural gas development initiative, aiming to produce between 250 and 375 million cubic feet per day."
+      ],
+      "insight": "This agreement highlights the ongoing tension within industries committed to sustainability as they also seek cost-effective energy solutions. Microsoft's move could prompt broader conversations about balancing environmental impact and business needs in IT infrastructure planning."
+    },
+    {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "language": "en",
+      "summary": "Groq AI chipmaker has secured a $650 million investment after Nvidia's massive not-acqui-hire deal.",
+      "points": [
+        "Following significant fundraising, Groq is expanding its neocloud business and hiring new executives despite recent industry events like the AI winter slowdown in Europe.",
+        "Groq'selftheir focus on growing their chip development for AI workloads instead of solely focusing on cloud-based services, with a commitment to spend $50 million annually over five years for research and development at Groq’s facilities.",
+        "The company has also brought back former CEO Robert East as chairman while appointing Tim Bray as senior vice president."
+      ],
+      "insight": "Groq's fundraising success demonstrates the industry's confidence in chip innovation for AI, despite recent setbacks and highlights a strategic pivot towards developing chips rather than just cloud services."
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "description": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "language": "en",
+      "summary": "Nvidia unveiled a new cooling system for its data centers that significantly reduces water usage within these facilities. However, the initiative does not tackle AI's substantial indirect impact on global freshwater resources through energy consumption from fossil fuel power plants.",
+      "points": [
+        "Nvidia has introduced an innovative cooling solution to reduce its data centers' reliance on water for temperature regulation purposes, showcasing a step towards sustainable practices within the IT industry.",
+        "While Nvidia’s effort is commendable in addressing direct freshwater usage, it overlooks AI-related indirect impacts such as increased demand for fossil fuels leading to higher water consumption and environmental concerns at power plants.",
+        "The article highlights a significant blind spot in corporate sustainability strategies where efforts are often focused on immediate resource reductions without considering broader ecological implications, suggesting that industry-wide initiatives need comprehensive approaches."
+      ],
+      "insight": "Although Nvidia's water reduction inside its data centers is a positive development for sustainability in the IT sector, it exposes an important oversight regarding indirect environmental impacts of AI. This underscores that efforts towards greener technology must also address broader energy consumption patterns to be truly effective."
+    },
+    {
+      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 19:25:00 +0000",
+      "description": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
+      "language": "en",
+      "summary": "Tata Electronics has confirmed a data breach that affects the tech supplier' end-clients such as Apple and Tesla.",
+      "points": [
+        "Data of global clients like Apple, Tesla compromised",
+        "Incident unveils vulnerabilities in supply chain security",
+        "Breach timeline and response measures currently under investigation"
+      ],
+      "insight": "This data breach serves as a stark reminder for technology companies to prioritize cybersecurity, particularly within their global supply chains."
+    },
+    {
+      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 18:50:24 +0000",
+      "description": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.",
+      "language": "en",
+      "summary": "European cybersecurity firm Paradigm Shift has discovered an exploitable flaw in Apple'raniOS that could potentially allow hackers to unlock and jailbreak older iPhones.",
+      "points": [
+        "Paradigm Shift, a European offensive cybersecurity company specializing in penetration testing of mobile devices including iOS-based phones such as the iPhone",
+        "The flaw allows hackers to exploit weaknesses within an unpatchable vulnerability present since at least 2018.",
+        "This opens up a new frontier for jailbreaking older, non-supported iPhones which may otherwise be considered secure due to their age."
+      ],
+      "insight": "The exploitation of this flaw by hackers could lead consumers and corporations alike to reconsider the security boundaries they place on legacy devices. It highlights that older hardware is potentially at risk, even if it was once considered safe due to regular updates."
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 18:49:44 +0000",
+      "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "language": "en",
+      "summary": "A24 has partnered with Google's artificial intelligence subsidiary, DeepMind, investing $75 million in the project of creating advanced AI-driven filmmaking tools.",
+      "points": [
+        "Google DeepMind and independent studio A24 are collaborating to create sophisticated AI for film production."
+      ],
+      "insight": "The partnership indicates a shift in the entertainment industry towards embracing advanced technology, potentially transforming traditional storytelling methods with innovative content creation enabled by AI. This collaboration could set new standards and expectations within Hollywood regarding efficiency, cost-effectiveness, and creativity."
+    },
+    {
+      "title": "Anthropic says Claude may want to see your ID",
+      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 18:05:13 +0000",
+      "description": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
+      "language": "en",
+      "summary": "Anthropic has updated its chatbot Claude'selike policies to potentially ask for identification in specific cases.",
+      "points": [
+        "Claude may require age and identity verification using official documents like passports or driver’s licenses under certain conditions.",
+        "These changes come amidst growing concerns about AI ethics, especially regarding the use of personal information by chatbots.",
+        "Anthropic has stated that these measures are intended to foster a responsible and transparent conversation with users."
+      ],
+      "insight": "The news could signal an industry trend towards greater responsibility in handling user data. It may also indicate the increasing importance of ethical guidelines for AI systems, particularly chatbots interacting on platforms where age-sensitive content is a concern."
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 22 Jun 2026 17:31:29 +0000",
+      "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "language": "en",
+      "summary": "Amazon plans to expand its Amazon Alexa+'s capabilities by introducing it with support for Hindi language and testing in India.",
+      "points": [
+        "Amazon is planning an international rollout of the new conversational AI, called 'Alexa+'.",
+        "It'ran inviting users to test its first-language Hindi version while conducting initial trials on a smaller scale within country borders.",
+        "The company hopes that Alexa+'s language capabilities will appeal not just in English but also other major global languages."
+      ],
+      "insight": "This development signifies Amazon's commitment to tailor its AI assistant technology for different markets, thereby increasing the accessibility of cutting-edge IT and consumer electronics worldwide. It indicates a shift towards localized content with potential implications on global user experience standards in voice recognition technologies."
+    },
     {
       "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
       "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
@@ -626,126 +744,6 @@
         "Camera improvements in iOS 27 enable better low-light photography and faster camera shutter speeds, expanding creative possibilities for users."
       ],
       "insight": "The introduction of battery life optimization alongside privacy enhancements in the latest Apple update indicates a shift towards user experience prioritization while maintaining data security in the technology industry."
-    },
-    {
-      "title": "8만6644대의 FortiGate 기기에 취약점... CISA와 NCSC, 포티넷 사용자에게 ‘경고’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144214&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 20 Jun 2026 19:30:00 +0900",
-      "description": "미국 CISA 및 영국 NCSC 등 주요 국가 보안기관 ‘포티블리드’ 공격 주의보무차별 대입 공격 및 자격 증명 탈취 등 이용... 포티넷 방화벽 및 VPN 게이트웨이 노려[보안뉴스 원병철 기자] 미국 사이버보안 및 인프라 보안국(CISA)과 영국 국가사이버보안센터(NCSC)는 18일(목요일, 현지 시각) 포티게이트 어플라이언스를 사용하는 포티넷 고객들에게",
-      "language": "ko",
-      "summary": "CISA와 NCSC 국가보안기관이 포티넷 사용자에게 '경고'를 표시하여, 포틠되는 공격 수요와 위반을 줄일 원인이다.",
-      "points": [
-        "CISA와 NCSC가 경고를 표시한 이유",
-        "포티넷 사용자에게 공격 수요즈가 증가할 가능성",
-        "카지노집중과 위반이 주로 일어나는 경우"
-      ],
-      "insight": "CISA와 NCSC는 포티넷 사용자들에게 '경고'을 표시하여, 큰 공격 주의보무차별을 방지하고자 한다. 이로써 카지노집중과 위반으로 인한 권본 증명을 피어누리는 일은 제한적으로 낮아야 한다."
-    },
-    {
-      "title": "[인사] 과학기술정보통신부",
-      "link": "http://www.boannews.com/media/view.asp?idx=144208&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 20 Jun 2026 18:49:00 +0900",
-      "description": "◇과장급 전보△연구기관혁신정책과장 조종영(趙鐘榮, 기초연구진흥과장)△기초연구진흥과장 박시정(朴是貞, 과학기술정보통신부)(2026. 6. 22. 자)[원병철 기자(boanone@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "◇과장급 전보△연구기관혁신정책과장 조종영(趙鐘榮, 기초연구진흥과장)△기초연구진흥과장 박시정(朴是貞, 과학기술정보통신부)(2026. 자)[원병철 기자(boanone@boannews...",
-      "points": [
-        "◇과장급 전보△연구기관혁신정책과장 조종영(趙鐘榮, 기초연구진흥과장)△기초연구진흥과장 박시정(朴是貞, 과학기술정보통신부)(2026",
-        "자)[원병철 기자(boanone@boannews",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[인사] 한국인터넷진흥원",
-      "link": "http://www.boannews.com/media/view.asp?idx=144207&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 20 Jun 2026 18:45:00 +0900",
-      "description": "◇단장급 보임△취약점관리센터장(TF) 배승권(2026년 6월 5일자)◇팀장급 보임△상황관제팀장 송하영(2026년 6월 22일자)◇팀장급 보임△AI종합분석팀장 김도원(2026년 6월 26일자)[원병철 기자(boanone@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "◇단장급 보임△취약점관리센터장(TF) 배승권(2026년 6월 5일자)◇팀장급 보임△상황관제팀장 송하영(2026년 6월 22일자)◇팀장급 보임△AI종합분석팀장 김도원(2026년 6월 26일자)[원병철 기자(boanone@boannews. com)]<저작권자: 보안뉴스(www...",
-      "points": [
-        "◇단장급 보임△취약점관리센터장(TF) 배승권(2026년 6월 5일자)◇팀장급 보임△상황관제팀장 송하영(2026년 6월 22일자)◇팀장급 보임△AI종합분석팀장 김도원(2026년 6월...",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 문서보안 솔루션 리포트] 문서를 읽기 시작한 AI, “기업 문서는 과연 안전한가?”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144201&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 20 Jun 2026 10:48:00 +0900",
-      "description": "데이터 분류와 권한 관리, AI 시대 문서보안의 핵심 과제로 부상업무에 AI 활용을 지원하는 보안 체계 구축 요구 확대문서보안 인식 설문조사 결과, 문서 유출 경로 ‘이메일’이 가장 높아... ‘생성형 AI’ 3위문서보안 솔루션 전문기업 집중 분석: 블루문소프트, 마크애니, 이노티움, 수산아이앤티, 소프트캠프[보안뉴스 강초희 기자] 생성형 AI와 클라우드,",
-      "language": "ko",
-      "summary": "AI로 발결되는 문서가 기업에 어떠한 위치에서 발침할 수 있을까요?",
-      "points": [
-        "- 기사 내용에서 '과연 안전한가?'라는 주장이 강조되어 문서 안전성에 대해 질문이 발생함을 제시",
-        "- AI로 발견되는 문서가 공인 사람의 통합노하우와 상호조직이고 충매학습 대안에 어떠한 영향을 미치지 않은가?",
-        "- AI와 클라우드, 마크애니, 이노티움, 수산아이앤티 등의 소프트캐시에서 문서보안 질의 방식의 영리성을 조사한다."
-      ],
-      "insight": "권한관리, 유출방지 및 AI로 발견되는 문서 보안에 대해 IT/기술 업계가 어떤 의미나 인사이트를 내장함을 살환한다면?"
-    },
-    {
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 20 Jun 2026 00:47:44 +0000",
-      "description": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
-      "language": "en",
-      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "크롬 확장 프로그램의 배신... 수백만대의 브라우저 해킹 가능",
-      "link": "http://www.boannews.com/media/view.asp?idx=144205&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 20 Jun 2026 09:29:00 +0900",
-      "description": "AI 기반 에이전트 사이드 패널 확장 프로그램 ‘SiderAI’와 ‘MaxAI’에 심각한 보안 취약점악성 웹사이트로 조작된 메시지를 콘텐츠 스크립트로 전송하면 그대로 전달... 악용가능[보안뉴스 원병철 기자] 널리 사용되는 크롬 확장 프로그램인 ‘SiderAI’와 ‘MaxAI’에서 심각한 보안 취약점이 발견되어 수백만 명의 사용자가 위험에 처했다. 이 취약",
-      "language": "ko",
-      "summary": "AI 기반 에이전트 사이드 패널 확장 프로그램 ‘SiderAI’와 ‘MaxAI’에 심각한 보안 취약점악성 웹사이트로 조작된 메시지를 콘텐츠 스크립트로 전송하면 그대로 전달. 악용가능[보안뉴스 원병철 기자] 널리 사용되는 크롬 확장 프로그램인 ‘SiderAI’와 ‘MaxAI’에서 심각한 보안 취약점이 발견되어 수백만 명의 사용자가 위험에 처했다",
-      "points": [
-        "AI 기반 에이전트 사이드 패널 확장 프로그램 ‘SiderAI’와 ‘MaxAI’에 심각한 보안 취약점악성 웹사이트로 조작된 메시지를 콘텐츠 스크립트로 전송하면 그대로 전달",
-        "악용가능[보안뉴스 원병철 기자] 널리 사용되는 크롬 확장 프로그램인 ‘SiderAI’와 ‘MaxAI’에서 심각한 보안 취약점이 발견되어 수백만 명의 사용자가 위험에 처했다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
-      "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "language": "en",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos",
-      "points": [
-        "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffect...",
-        "It's unclear why it would work now with Anthropic’s cybersecurity model Mythos",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 19 Jun 2026 21:45:00 +0000",
-      "description": "Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion […]",
-      "language": "en",
-      "summary": "Go's IPO provides capital for addressing Japan's driver shortage by developing robotaxis and making acquisitions.",
-      "points": [
-        "Japan experiences a significant driver shortage",
-        "Robotaxi development is funded through Go's IPO proceeds",
-        "Acquisition of smaller companies will expand Go’s capabilities"
-      ],
-      "insight": "Go's move to invest in robotaxi technology and acquisitions could signal the beginning of autonomous transportation becoming more prevalent, potentially transforming urban mobility."
     }
   ]
 }
