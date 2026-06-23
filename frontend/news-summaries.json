@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-06-23T14:47:57.561Z",
+  "generatedAt": "2026-06-23T20:09:55.638Z",
   "articles": [
+    {
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 19:49:55 +0000",
+      "description": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+      "language": "en",
+      "summary": "In January of this year Menlo Ventures made a bold bet by committing up to $1 billion on Anthropic and its AI-generated text technology known as DALL·E Mini.",
+      "points": [
+        "Menlo Ventures invested heavily in the AI industry with an initial investment into Anthropic worth up to $750 million dollars",
+        "$1 billion raised for Menlo'ner Fund II, which includes a significant allocation of funds towards research and development activities within its portfolio companies.",
+        "Anthropic’s DALL·E Mini is an AI-driven text generator that has the capability to produce detailed humanlike narratives."
+      ],
+      "insight": "This investment underscores Menlo Ventures' confidence in growth within the expanding market of generative AI, potentially leading to advancements and new applications across various industries relying on such technology. It also signifies a potential shift towards more significant corporate involvement with AI entities like Anthropic."
+    },
+    {
+      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+      "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 19:43:56 +0000",
+      "description": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
+      "language": "en",
+      "summary": "Hackers exploited an unrevoked credential from Klue'in April of this year (2023) to access customer data during a breach at the company.",
+      "points": [
+        "Klue had previously identified credentials compromised by hackers in March that accessed personal information, and despite warnings not all exposed records were securely deleted from their systems.",
+        "The credential used for unautclated access was supposed to have been revoked after Klue's pilot program ending on April 10th but wasn't immediately removed or expunged by the company.",
+        "This oversight led hackers to exploit it, resulting in a data breach that exposed customer information and potentially compromised business operations."
+      ],
+      "insight": "The incident demonstrates critical lapses in IT security protocols within Klue's handling of sensitive credentials post-identification by cybersecurity firms like NCC Group. This highlights the importance for companies to act swiftly on such advisories and could lead to increased scrutiny over their data protection measures."
+    },
+    {
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 19:19:44 +0000",
+      "description": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
+      "language": "en",
+      "summary": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000",
+      "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "language": "en",
+      "summary": "Anthropic introduces Claude Tag on Slack for continuous AI assistance within an organization's communication platform.",
+      "points": [
+        "Claude Tag provides enterprise-level AI insights by learning from the company’ extranet activities, such as internal reports and meetings transcripted in Slack channels.",
+        "The feature aims to embed organizational knowledge into Claude's algorithms so it can enhance decision-making processes within companies using Anthropic technology. ",
+        "This initiative marks an expansion of Anthropic’s AI services from individual productivity tools, like ChatGPT and BARD™, towards enterprise applications."
+      ],
+      "insight": "Claude Tag represents a shift in the IT/technology industry towards integrating advanced natural language understanding into collaborative work platforms to streamline organizational processes and decision-making."
+    },
+    {
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 15:12:37 +0000",
+      "description": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
+      "language": "en",
+      "summary": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached",
+      "points": [
+        "This is the second data breach to affect LastPass customers in recent years, after one of the passwo...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 15:09:38 +0000",
+      "description": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+      "language": "en",
+      "summary": "HaloBraid has raised $7 million from Seven Seven Six in an effort to create the first device specifically designed to assist with hair braiding tasks and reduce salon appointment times.",
+      "points": [
+        "HaloBraid, a startup aiming to speed up professional hair braiding processes, successfully closed its seed round led by private equity firm Seven Seven Six for $7 million",
+        "The fundraised capital will be used primarily for the development and deployment of HaloBraid's first product - an assistive device that acts as a 'braiding assistant', reducing manual labor time.",
+        "Founded in 2degrees, New York City by two Nigerian-American hairstylists aiming to address industry challenges around braiding efficiency and consistency."
+      ],
+      "insight": "The emergence of HaloBraid's assistive device could revolutionize hair braiding procedures in salons across the world, potentially reducing appointment times significantly while also improving service quality. This technology can help to address current industry challenges around efficiency and consistency."
+    },
     {
       "title": "Meta debuts new, cheaper smart glasses under its own brand",
       "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
@@ -45,6 +135,21 @@
         "Despite its retro aesthetic, Ribbie uses modern technology like cloud hosting for seamless streaming."
       ],
       "insight": "This approach represents an integration of nostalgia with current sports viewing trends, possibly attracting new fans to MLB through the engaging and novel format while appealing to a demographic that grew up playing classic arcade games or enjoying pixel art on retro consoles."
+    },
+    {
+      "title": "Let’s take a look at the retro tech making a comeback",
+      "link": "https://techcrunch.com/2026/06/23/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 13:05:00 +0000",
+      "description": "Boom boxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available.",
+      "language": "en",
+      "summary": "The article discusses the resurgence of various vintage technology items like boom boxes and instant cameras due to their unique features.",
+      "points": [
+        "Vintage tech is experiencing a revival, with retro gadgets regaining popularity among consumers who appreciate analog experiences over digital ones. This includes audio devices (boom boxes), photography tools (instant cameras), and communication systems like landlines.",
+        "Despite the convenience of modern technology, there's a growing market for these retro-inspired products that offer distinctive sound quality, film development charm, or nostalgic connection to earlier times. Some manufacturers are now creating high-quality versions using advanced production techniques while keeping authentic designs.",
+        "The comeback of such devices indicates not only the cyclical nature of consumer trends but also a desire for tangible and tactile experiences in an increasingly digital world."
+      ],
+      "insight": "This resurgence suggests that there is still significant market demand for analog technology among certain demographics, possibly due to nostalgia or the unique qualities these devices provide. It highlights a sector within IT/technology where niche products can thrive alongside mainstream digital offerings."
     },
     {
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
@@ -642,110 +747,6 @@
         "불판정의 방안 중에는 사회적으로 유 Einzeln스를 위한 기업들과 공동체지금이 구축되어야 하다."
       ],
       "insight": "이 뉴스는 AI에 대한 공정 사전 방안을 강조한다. AI 기술이 인간의 일을 이루어주지만, 이를 통해 사회적 이슈가 발생하는 입문이다."
-    },
-    {
-      "title": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
-      "link": "http://www.boannews.com/media/view.asp?idx=144272&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 15:08:00 +0900",
-      "description": "“클로드 미토스 등장에 낡은 규제 순응형 보안 체계 붕괴” 진단제재 리스크 커져... CEO 중심 현업·보안·감사 보안 체계 역설[보안뉴스 조재호 기자] “F1 레이스는 직선 질주가 아니라 얼마나 효율적으로 코너링을 잘했느냐에 승부가 갈립니다. AI 시대의 보안도 마찬가집니다. 혁신을 제어하기 위한 강력한 브레이크 역할을 할 때, 진정한 AI 혁신이 가능합",
-      "language": "ko",
-      "summary": "“클로드 미토스 등장에 낡은 규제 순응형 보안 체계 붕괴” 진단제재 리스크 커져. CEO 중심 현업·보안·감사 보안 체계 역설[보안뉴스 조재호 기자] “F1 레이스는 직선 질주가 아니라 얼마나 효율적으로 코너링을 잘했느냐에 승부가 갈립니다...",
-      "points": [
-        "“클로드 미토스 등장에 낡은 규제 순응형 보안 체계 붕괴” 진단제재 리스크 커져",
-        "CEO 중심 현업·보안·감사 보안 체계 역설[보안뉴스 조재호 기자] “F1 레이스는 직선 질주가 아니라 얼마나 효율적으로 코너링을 잘했느냐에 승부가 갈립니다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "스텔스모어, 제 21회 공개 위협정보(OSINT) 전문가 교육 과정 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144273&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 15:02:00 +0900",
-      "description": "6월 30일부터 3일간... 국내 정부기관 및 민간·수사기관 대상[보안뉴스 한세희 기자] 스텔스모어(대표 허영일)는 30일부터 내달 2일까지 판교 GMD SOFT 아카데미 벤티 룸에서 국내 정부 기관, 민간 보안 실무자 및 사이버 범죄 수사기관 관계자를 대상으로 제 21회 OSINT 전문가 교육 과정을 개최한다고 밝혔다.ONSIT(Open Source In",
-      "language": "ko",
-      "summary": "6월 30일부터 3일간. 국내 정부기관 및 민간·수사기관 대상[보안뉴스 한세희 기자] 스텔스모어(대표 허영일)는 30일부터 내달 2일까지 판교 GMD SOFT 아카데미 벤티 룸에서 국내 정부 기관, 민간 보안 실무자 및 사이버 범죄 수사기관 관계자를 대상으로 제 21회 OSINT 전문가 교육 과정을 개최한다고 밝혔다...",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "파이오링크, 잠수함용 국산 스위치로 해군 함정 신기술 전시회 참가",
-      "link": "http://www.boannews.com/media/view.asp?idx=144271&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 14:42:00 +0900",
-      "description": "국산화로 외산 의존 벗어나... 잠수함 실전 운영 경험 바탕으로 기술력 입증[보안뉴스 한세희 기자] 파이오링크(대표 조영철)가 22일 열린 해군 군수사령부 주관 ‘제13회 함정적용 신기술 설명회 및 제품 전시회’에 참가해 자사 잠수함용 국산 스위치를 군 관계자들에게 선보였다. 이번 행사는 함정에 적용 가능한 우수 기술과 제품을 소개하고 군 운용 기관과 방산",
-      "language": "ko",
-      "summary": "국산화로 외산 의존 벗어나. 잠수함 실전 운영 경험 바탕으로 기술력 입증[보안뉴스 한세희 기자] 파이오링크(대표 조영철)가 22일 열린 해군 군수사령부 주관 ‘제13회 함정적용 신기술 설명회 및 제품 전시회’에 참가해 자사 잠수함용 국산 스위치를 군 관계자들에게 선보였다...",
-      "points": [
-        "잠수함 실전 운영 경험 바탕으로 기술력 입증[보안뉴스 한세희 기자] 파이오링크(대표 조영철)가 22일 열린 해군 군수사령부 주관 ‘제13회 함정적용 신기술 설명회 및 제품 전시회’...",
-        "이번 행사는 함정에 적용 가능한 우수 기술과 제품을 소개하고 군 운용 기관과 방산",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "생성형 AI 시대 개인정보 어떻게 지킬까... 서울시 개인정보보호 포럼 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144270&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 14:37:00 +0900",
-      "description": "6월 23일 코엑스서 개최... 제15회 개인정보보호페어&CPO 워크숍 동시 개최로 열려 AI 시대 개인정보보호 최신 정책·판례·기술 동향 공유공공부문 생성형 AI 활용 확대에 따른 안전성 확보 방안 논의[보안뉴스 원병철 기자] 서울시는 인공지능 전환(AX) 시대에 중요성이 더욱 강조되고 있는 개인정보 침해와 사이버 위협에 선제적으로 대응하기 위해 6월 2",
-      "language": "ko",
-      "summary": "6월 23일 코엑스서 개최. 제15회 개인정보보호페어&CPO 워크숍 동시 개최로 열려 AI 시대 개인정보보호 최신 정책·판례·기술 동향 공유공공부문 생성형 AI 활용 확대에 따른 안전성 확보 방안 논의[보안뉴스 원병철 기자] 서울시는 인공지능 전환(AX) 시대에 중요성이 더욱 강조되고 있는 개인정보 침해와 사이버 위협에 선제적으로 대응하기 위해 6월 2",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Ethan Thornton is trying to do everything all at once",
-      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 05:31:59 +0000",
-      "description": "Mach's approach differs sharply from some of its peers.",
-      "language": "en",
-      "summary": "Ethan Thornton has taken on multiple roles at his company in an effort to achieve more and speed up the IT process.",
-      "points": [
-        "Ethan Thornton is serving as a project manager while also acting as CIO, aiming for quicker decision-making within the organization's information technology department.",
-        "As both roles demand significant responsibility, there are concerns about whether he can manage these tasks effectively without overwhcuring himself or jeopardizing quality and security standards."
-      ],
-      "insight": "Thornton’s strategy may lead to accelerated IT processes within his organization. However, the sustainability of maintaining both roles successfully is uncertain, potentially leading to risk if not managed appropriately."
-    },
-    {
-      "title": "[PIS FAIR 2026] 개인정보 보호, 사후 제재 중심에서 사전예방 중심으로 전환",
-      "link": "http://www.boannews.com/media/view.asp?idx=144267&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 14:02:00 +0900",
-      "description": "사전 예방 중심의 개인정보 보호 체계 구축김해숙, 개인정보보호위원회 사전실태점검 과장 키노트 스피치 [보안뉴스 엄호식 기자] 김해숙 개인정보보호위원회 과장은 22일 서울 코엑스 그랜드볼룸에서 개막한 ‘제15회 개인정보호페어 & CPO 워크숍’(PIS FAIR 2026) 키노트 강연에서 ‘사후 제재 중심에서 사전 예방 중심으로 전환해야 한다’는 메시지를 전달",
-      "language": "ko",
-      "summary": "서울에서 개인정보보호위원회의 강연에서 '사후 제재 중심에서 사전 예방 중심으로 전환해야 한다'라는 메시지를 전품한다.",
-      "points": [
-        "개인정보보호위원회의 강연에서 '사후 제재 중심에서 사전 예방 중심으로 전환해야 한다'는 메시지",
-        "이러한 개인정보보호를 위한 체계의 구축에 대해 강연을 드세요.",
-        "PIS FAIR 2026은 IT/기술 업계가 매우중요하다고 한 국민과 교수님의 인지이다."
-      ],
-      "insight": "이러한 개인정보보호에 관실적으로 IT/기술 업계가 '사후 제재 중심에서 사전 예방 중심으로 전환하는' 의미를 이해해야 한다."
-    },
-    {
-      "title": "[PIS FAIR 2026] “로그는 ‘회복’ 출발점, 상세히 남겨달라... AI 통제권 필수”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144268&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 14:01:00 +0900",
-      "description": "“로그는 사고 대응 타임 머신”“AI 주입 전 민감 정보 비식별 처리 필요”[보안뉴스 강현주 기자] “로그는 안전한 상태로의 회복의 출발점이니 상당 기간 동안 상세히 남겨주십시오. AI를 통한 로그 분석은 효율을 높이지만, 데이터 통제권을 확보한 안전한 분석이 절대 우선입니다.” 임희 경찰청 국가수사본부 수사국 사이버테러대응과 경감은 22일 열린 제15회",
-      "language": "ko",
-      "summary": "로그는 사고 대응의 기능으로 AI를 통과시키고, 민감한 정보 분석 가능성을 확보함으로서 AI 분석이 강제로 중요합니다.",
-      "points": [
-        "로그는 데이터 시각화를 위한 '회복' 기능을 통해 사고 대응 타임 머신의 필요성을 강조",
-        "AI를 통해 불편한 민감 정보 보호를 위해 AI 분석에서 가능한 제약적인 방식을 고격할 수 있음",
-        "로그의 업무는 AI 기반이어야만 하지만, 비즈니리와 공정한 이해에 가속함"
-      ],
-      "insight": "이러한 로그의 AI 분석 기능은 IT 업무에서 사고 대응이 전용해야만 하는 현상으로, 보안을 위해 AI를 환경처봐서 조정"
     }
   ]
 }
