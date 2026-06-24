@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-06-23T20:09:55.638Z",
+  "generatedAt": "2026-06-24T03:40:41.669Z",
   "articles": [
+    {
+      "title": "금융보안원·인터넷은행 3사, 연합학습 기반 ‘보이스피싱 탐지 AI 공동모델’ 가동",
+      "link": "http://www.boannews.com/media/view.asp?idx=144298&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 11:37:00 +0900",
+      "description": "원본 데이터 공유 없이 가중치만 병합하는 ‘연합학습’ 기술로 프라이버시 보호 맹점 극복개별 모델 대비 탐지 정밀도 최대 205퍼센트 향상... 신종 자금세탁 및 소액 피싱 적발[보안뉴스 조재호 기자] 금융보안원은 카카오뱅크, 토스뱅크, 케이뱅크 등 인터넷전문은행 3사와 협력해 연합학습 기법을 적용한 ‘보이스피싱 탐지 AI 공동모델’을 개발했다고 24일 밝혔",
+      "language": "ko",
+      "summary": "기사는 3개의 인터넷은jak환자와 피싱 적발회래드 포묽대학 연합에서 개정된 ‘보이스피싱 탐지 AI 공동모델’을 개발하여 IT/기술 업체의 보안에 대한 방안을 제시한다.",
+      "points": [
+        "3사인 금융보안원은 ‘보이스피싱 탐지 AI 공동모델’을 개발",
+        "정밀도가 205%로서 상대방의 보호 기능에 강한 성과를 보였다.",
+        "금융은제, 토스뱅크, 케이뱅크 서비스 전용로 적용된다."
+      ],
+      "insight": "이러한 AI 모델은 IT/기술 업체에서의 보호권을 확대하여 매우 강력한 방식으로 극복함을 나타낸다. AI를 이용한 보안정리가 IT/기술 업계에서의 모든 비용, 오지만 보호에 집중하는 방식을 강화시키는 이러한 시도는 현재와 미래에서의 보안전략에 중요한 기여를 하게 된다."
+    },
+    {
+      "title": "KISA 주도 민관 연합, 필리핀 국가사이버안전센터 구축한다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144300&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 11:25:00 +0900",
+      "description": "에어키·파이오링크·한국통신인터넷기술 참여 4년간 현지 인프라 지원전문 인력 양성 및 보안 모델 수립... 사이버 위기 대응 체계 구축 지원[보안뉴스 조재호 기자] 민관 보안 컨소시엄이 필리핀 국가사이버안전센터 구축을 위한 사업관리 컨설팅(PMC) 용역 본계약을 체결하며 국내 보안 역량의 수출 사례를 추가했다.한국인터넷진흥원(KISA)은 한국국제협력단(KOI",
+      "language": "ko",
+      "summary": "에어키·파이오링크·한국통신인터넷기술 참여 4년간 현지 인프라 지원전문 인력 양성 및 보안 모델 수립. 사이버 위기 대응 체계 구축 지원[보안뉴스 조재호 기자] 민관 보안 컨소시엄이 필리핀 국가사이버안전센터 구축을 위한 사업관리 컨설팅(PMC) 용역 본계약을 체결하며 국내 보안 역량의 수출 사례를 추가했다...",
+      "points": [
+        "에어키·파이오링크·한국통신인터넷기술 참여 4년간 현지 인프라 지원전문 인력 양성 및 보안 모델 수립",
+        "사이버 위기 대응 체계 구축 지원[보안뉴스 조재호 기자] 민관 보안 컨소시엄이 필리핀 국가사이버안전센터 구축을 위한 사업관리 컨설팅(PMC) 용역 본계약을 체결하며 국내 보안 역량...",
+        "한국인터넷진흥원(KISA)은 한국국제협력단(KOI"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "인도 타타일렉트로닉스, 해킹 공격으로 내부 데이터 유출... 위탁 생산 애플 제품 정보 유출 가능성",
+      "link": "http://www.boannews.com/media/view.asp?idx=144299&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 10:38:00 +0900",
+      "description": "해커 그룹 월드리크스 소행 추정[보안뉴스 한세희 기자] 인도 전자제품 위탁생산 기업 타타일렉트로닉스가 해킹 공격으로 기업 정보가 유출됐다. 이 회사는 애플과 테슬라 제품 을 생산한다. 타타일렉트로닉스는 몇주 전 IT 인프라 일부에 사이버 공격을 받았다고 언론에 확인했다. 다만, 회사 운영은 정상적으로 이뤄지고 있다고 밝혔다. 타타일렉트로닉스는 공격 주체",
+      "language": "ko",
+      "summary": "타타일렉트로닉스는 IT 위협을 받아 위탁생산 기술 정보가 유출되었다.",
+      "points": [
+        "타타일렉트로닉스는 IT 위협을 받아 공격으로 인터넷 기업에서의 회사 정보가 유출되었다.",
+        "이러한 IT 공격은 소행 추정과 실현이 일치함을 인기로 주장",
+        "회사는 IT 위협에서 참조가름을 적지만, 소모에 대해 일정하다고 강의한다."
+      ],
+      "insight": "해커 그룹들이 인도 기업에서 IT 위협을 용사로 볼 수 있음을 의미"
+    },
+    {
+      "title": "에스투더블유, 일본 도쿄 거점 확보… “데이터 기반 현지 보안 수요 대응”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144297&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 09:54:00 +0900",
+      "description": "도쿄 기자간담회 통해 밀착형 현지 사업 전략 및 파트너 확장 계획 발표디지털 전환(DX) 가속화되는 일본 산업계 대상 맞춤형 솔루션 공급 예고[보안뉴스 조재호 기자] 에스투더블유(S2W)가 일본 도쿄에 현지법인을 공식 출범하며 보안 시장 점유율 확대에 나섰다. 회사는 23일 도쿄에서 기자간담회 및 개소식을 열고 현지 사업 전략과 사이버보안 기술 로드맵을 발",
+      "language": "ko",
+      "summary": "일본 산업에서 기사는 에스투더블유가 보안 시장에 차리고 있는 것을 강조하고, 현지 전용 전략이 공식적으로 출발함을 강조한다.",
+      "points": [
+        "에스투더블유는 보안 시장의 현지 전용 전략을 공식적으로 출발하고 있다.",
+        "회사는 현지 사업 전략과 S2W 기술을 강화하여 IT/비즈니코풍스 계습에서의 보안 기능 개선.",
+        "S2W의 공식적인 출전선은 IT/비즈니코풍스 업체에서 이미 성공적으로 발평가되고 다음으로의 기술 발전을 기대한다."
+      ],
+      "insight": "기사는 현지 보안 시장에서 IT/비즈니코풍스 업체가 S2W의 기술이나 전략을 통한 다양한 보호 확산 목적을 지원하고 제시하는 회사가 현재 위기적으로 추진중인 상태를 강조한다."
+    },
+    {
+      "title": "글로벌 해커 조직 ‘스캐터드 스파이더’ 재판 첫날부터 유죄 인정",
+      "link": "http://www.boannews.com/media/view.asp?idx=144296&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 09:37:00 +0900",
+      "description": "디지털 포렌식 증거에 덜미 ‘심 스와핑` 등 인적 맹점 파고든 수법 시인다중인증 무력화하는 사회공학적 기법에 기업 내부 검증 프로세스 보완 필요해[보안뉴스 조재호 기자] 글로벌 해킹 조직 ‘스캐터드 스파이더’(Scattered Spider) 조직원들이 재판 첫날부터 유죄를 인정했다.영국에서 열린 재판에서 스캐터드 스파이더 소속 두 남성이 지난 2024년 대",
+      "language": "ko",
+      "summary": "스캐터드 스파이더 조직이 재판에서 모시원 소유자들이 정의를 설명하지 못한 것으로 인정받음, 금리저치와 증시형향 공차가 기여한 이유를 설명한다.",
+      "points": [
+        "스캐터드 스파이더 조직이 재판에서 금리저치와 증시형향을 잊은 것으로 인정받음",
+        "금리적 문제와 기술 불가매주의에 대한 의거치를 통해 이전 정보화 모델이 사회적 분쟁을 일으키지 않음을 보여준다",
+        "증시형향을 통해 금리저치와 소비자가 참운 공차에 대한 의거치를 통해 이전 조직이 벗어나는 느낌"
+      ],
+      "insight": "이 기사는 IT/기술 업체가 유지보수하고 정보화 모델을 강화해야 한다는 것을 말하며, 조직이의 사회적 공예를 완전히 아니라고 주장하여 정보화 모델에서의 소비자가 가질 수량을 준수해야 한다는 것을 의미합니다."
+    },
+    {
+      "title": "넷유, 와이파이 6 공유기 ‘네티스 AX3000’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144295&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 09:33:00 +0900",
+      "description": "6월 30일까지 공식 스토어에서 3만9900원 특가 판매 진행WPA3·메시 기능 지원 및 3년 무상 보증 제공[보안뉴스 강초희 기자] 네트워크 전문 기업 넷유(대표 한승구)가 최신 802.11ax 표준 규격인 와이파이 6(Wi-Fi 6)를 지원하는 AX3000급 기가 와이파이 공유기 ‘네티스 AX3000’을 공식 출시하고, 이를 기념해 할인 프로모션을 진행",
+      "language": "ko",
+      "summary": "넨유 및 와이파이 6에 지원하는 넴티스 AX30 extrude Wi-Fi 공유기를 공식적으로 출시합니다.",
+      "points": [
+        "6월 30일까지 추대화된 현재 수요가, 그리고 WPA3·마시 기능이 필수적입니다.",
+        "...",
+        "..."
+      ],
+      "insight": "이 공유기는 IT/기술 업계에서 현대 인벤터지도로 시식으로 움직일 수 있습니다. 전용 온도가 높은 배틬카지통에서만 구체화됩니다."
+    },
+    {
+      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 24 Jun 2026 00:30:00 +0000",
+      "description": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+      "language": "en",
+      "summary": "Flipkart' endorsed by Walmart has reached a milestone of over 1000 micro-fulfillment centers while Amazon intensifies its presence in the Indian market.",
+      "points": [
+        "Walmart and Flipkart collaborate to enhance India’s quick commerce infrastructure with numerous micro-fulfillment hubs",
+        "Amazon increasingly competes aggressively against this trend by expanding its own delivery capabilities in the Indian market",
+        "The race for a robust logistics and fulfillment network could shape retail strategies significantly"
+      ],
+      "insight": "This intense competition between e-commerce giants like Walmart/Flipkart and Amazon highlights how pivotal quick commerce infrastructure has become in shaping the future of online retail globally."
+    },
+    {
+      "title": "현대차·기아, 한미일 사이버보안 협력 주도... 경제대화 내 워킹그룹 출범",
+      "link": "http://www.boannews.com/media/view.asp?idx=144294&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 09:05:00 +0900",
+      "description": "“국가와 업종 넘어선 글로벌 협력 체계 구축”[보안뉴스 강현주 기자] 현대자동차·기아가 한국과 미국, 일본의 정제계 리더들과 사이버보안 글로벌 협력 체계를 이끈다. 현대자동차·기아는 ‘한미일 경제대화’(TED, Trilateral Executive Dialogue) 내 사이버보안 워킹그룹을 창설하고, 현대자동차그룹 본사(서초구 양재동)에서 첫 세미나를 개최",
+      "language": "ko",
+      "summary": "“국가와 업종 넘어선 글로벌 협력 체계 구축”[보안뉴스 강현주 기자] 현대자동차·기아가 한국과 미국, 일본의 정제계 리더들과 사이버보안 글로벌 협력 체계를 이끈다. 현대자동차·기아는 ‘한미일 경제대화’(TED, Trilateral Executive Dialogue) 내 사이버보안 워킹그룹을 창설하고, 현대자동차그룹 본사(서초구 양재동)에서 첫 세미나를 개최",
+      "points": [
+        "“국가와 업종 넘어선 글로벌 협력 체계 구축”[보안뉴스 강현주 기자] 현대자동차·기아가 한국과 미국, 일본의 정제계 리더들과 사이버보안 글로벌 협력 체계를 이끈다",
+        "현대자동차·기아는 ‘한미일 경제대화’(TED, Trilateral Executive Dialogue) 내 사이버보안 워킹그룹을 창설하고, 현대자동차그룹 본사(서초구 양재동)에서 첫...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 47] 낮말은 새가 듣고 밤말은 쥐가 듣는다(7)-우편물 쌓아두면 생기는 위험",
+      "link": "http://www.boannews.com/media/view.asp?idx=143634&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 08:39:00 +0900",
+      "description": "우편함에 고지서가 쌓이지 않게 관리하세요(이메일 고지서 추천)보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다.",
+      "language": "ko",
+      "summary": "우편보안에 중요한 습관을 속담으로 이해하는 방법을 제시한다.",
+      "points": [
+        "속담으로 보안 습관을 협력",
+        "균정성으로 우편함을 관리하세요",
+        "감상적인 우편보안 실습"
+      ],
+      "insight": "보안은 어떻게 딱히 일어나는지, 그리고 어떻게 효과적으로 수행할 수 ʏ창의 편안한 우편을 만들기 위한 100가지 실습 방법을 소개한다."
+    },
+    {
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 23:30:00 +0000",
+      "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "language": "en",
+      "summary": "India's tech startup MoEngage has announced a $25 million all-cash deal with an investor for its customer engagement platform based on artificial intelligence.",
+      "points": [
+        "MoEngage uses AI agents to individually target and interact with customers, aiming at personalized marketing approaches.",
+        "The company's technology has been successfully deployed in the healthcare sector by organizations such as Medivive Labs."
+      ],
+      "insight": "This investment could signify a shift towards more AI-driven and data-centric customer engagement strategies within multiple industries, including potentially beyond those MoEngage initially serves like retail or e-commerce."
+    },
+    {
+      "title": "2026 IT21 글로벌 컨퍼런스, 7월 2~3일 피스앤파크 컨벤션에서 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144293&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 24 Jun 2026 08:21:00 +0900",
+      "description": "“Life with AI, 일상에 스며드는 AI” 주제... AI 산업·보안·윤리·데이터 혁신 논의[보안뉴스 한세희 기자] 한국정보처리학회(학회장 박능수)는 내달 2-3일 양일간 서울 피스앤파크 컨벤션에서 ‘2026년도 IT21 글로벌 컨퍼런스’를 개최한다.이번 컨퍼런스는 “Life with AI: 일상에 스며드는 AI”를 주제로, 인공지능이 산업과 사회",
+      "language": "ko",
+      "summary": "“Life with AI, 일상에 스며드는 AI” 주제. AI 산업·보안·윤리·데이터 혁신 논의[보안뉴스 한세희 기자] 한국정보처리학회(학회장 박능수)는 내달 2-3일 양일간 서울 피스앤파크 컨벤션에서 ‘2026년도 IT21 글로벌 컨퍼런스’를 개최한다...",
+      "points": [
+        "“Life with AI, 일상에 스며드는 AI” 주제",
+        "AI 산업·보안·윤리·데이터 혁신 논의[보안뉴스 한세희 기자] 한국정보처리학회(학회장 박능수)는 내달 2-3일 양일간 서울 피스앤파크 컨벤션에서 ‘2026년도 IT21 글로벌 컨퍼...",
+        "이번 컨퍼런스는 “Life with AI: 일상에 스며드는 AI”를 주제로, 인공지능이 산업과 사회"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 23 Jun 2026 21:48:23 +0000",
+      "description": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+      "language": "en",
+      "summary": "GPTZero, a startup specializing in detecting the use of artificial intelligence writing tools like ChatGPT within content creators' submissions to prevent AI-generated plagiarism, has been acquired by Superhuman.",
+      "points": [
+        "Superhuman acquires GPTZero",
+        "Both companies have developed detection technologies for AI-driven text generation",
+        "The acquisition will bolster Grammarly's capabilities in plagiarism prevention"
+      ],
+      "insight": "This merger demonstrates the increasing importance of combating artificial intelligence usage to maintain originality and integrity in written content, which could set a new standard for AI detection tools within academic and creative industries."
+    },
     {
       "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
       "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
@@ -568,185 +747,6 @@
         "Google DeepMind and independent studio A24 are collaborating to create sophisticated AI for film production."
       ],
       "insight": "The partnership indicates a shift in the entertainment industry towards embracing advanced technology, potentially transforming traditional storytelling methods with innovative content creation enabled by AI. This collaboration could set new standards and expectations within Hollywood regarding efficiency, cost-effectiveness, and creativity."
-    },
-    {
-      "title": "Anthropic says Claude may want to see your ID",
-      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 18:05:13 +0000",
-      "description": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
-      "language": "en",
-      "summary": "Anthropic has updated its chatbot Claude'selike policies to potentially ask for identification in specific cases.",
-      "points": [
-        "Claude may require age and identity verification using official documents like passports or driver’s licenses under certain conditions.",
-        "These changes come amidst growing concerns about AI ethics, especially regarding the use of personal information by chatbots.",
-        "Anthropic has stated that these measures are intended to foster a responsible and transparent conversation with users."
-      ],
-      "insight": "The news could signal an industry trend towards greater responsibility in handling user data. It may also indicate the increasing importance of ethical guidelines for AI systems, particularly chatbots interacting on platforms where age-sensitive content is a concern."
-    },
-    {
-      "title": "Amazon is testing Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 17:31:29 +0000",
-      "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
-      "language": "en",
-      "summary": "Amazon plans to expand its Amazon Alexa+'s capabilities by introducing it with support for Hindi language and testing in India.",
-      "points": [
-        "Amazon is planning an international rollout of the new conversational AI, called 'Alexa+'.",
-        "It'ran inviting users to test its first-language Hindi version while conducting initial trials on a smaller scale within country borders.",
-        "The company hopes that Alexa+'s language capabilities will appeal not just in English but also other major global languages."
-      ],
-      "insight": "This development signifies Amazon's commitment to tailor its AI assistant technology for different markets, thereby increasing the accessibility of cutting-edge IT and consumer electronics worldwide. It indicates a shift towards localized content with potential implications on global user experience standards in voice recognition technologies."
-    },
-    {
-      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
-      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 16:51:29 +0000",
-      "description": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-      "language": "en",
-      "summary": "Reflection AI will pay $150 million a month to access Nvidia's GB300 AI chips and supporting hardware at SpaceX Colossus II data center starting July 2026 through 2029.",
-      "points": [
-        "SpaceX agrees to provide Reflection AI with immediate access to their state-of-the-art Nvidia GB300 chips and supporting hardware.",
-        "The agreement is set from July 1, 2026 through January 31, 2029 and includes a monthly payment of $150 million by Reflection AI to SpaceX."
-      ],
-      "insight": "This partnership demonstrates the increasing value organizations place on computational resources for AI development. The accessibility to advanced hardware accelerates research capabilities, potentially leading to breakthroughs in various tech sectors influenced by AI innovation."
-    },
-    {
-      "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup",
-      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 15:21:42 +0000",
-      "description": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
-      "language": "en",
-      "summary": "WhatsApp appoints Kunal Shah from CRED as its chief following Will Cathcart'self move to a new role at Meta.",
-      "points": [
-        "Will Cathcart transitions out of his position leading WhatsApp and into another opportunity within Meta.",
-        "Kunal Shah, founder of Indian fintech firm CRED, is stepping in as the interim CEO for WhatsApp while also taking on a role at Meta after being appointed to its board earlier this year.",
-        "$900 million investment committed by Facebook subsidiary FirstRand into startup Ripple Labs's capital raises."
-      ],
-      "insight": "Kunal Shah has significant experience in the intersection of technology and finance, which could potentially bring fresh perspectives to WhatsApp as they navigate this new era within Meta. The commitment from Facebook subsidiary FirstRand highlights continued investor interest and confidence in Ripple's vision."
-    },
-    {
-      "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
-      "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 14:14:10 +0000",
-      "description": "Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
-      "language": "en",
-      "summary": "The core content of the article discusses Instagram's plans to enter the home entertainment market with a TV app that offers episodic and live-streamed shows similar to Netflix and Amazon Prime Video.",
-      "points": [
-        "Instagram is developing its own television streaming service",
-        "The company will feature longer, episode-based videos as well as live streams for events like award ceremonies",
-        "This venture represents Instagram'ths first step into the home entertainment market"
-      ],
-      "insight": "If successful, Instagram could significantly disrupt traditional TV and streaming industries by leveraging its massive social media user base to compete directly in an area that is typically dominated by a few major players."
-    },
-    {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 14:00:00 +0000",
-      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "language": "en",
-      "summary": "The TechCrunch Founder Summit is an annual conference aimed at fostering growth among tech startup leaders and entrepreneurs. Despite a dip due to the pandemic in previous years, there has been an increase in pass rates for June 2026.",
-      "points": [
-        "TechCrunch Founder Summit focuses on supporting founders across various industries within tech startups.",
-        "The summit offers a platform to connect with mentors and industry leaders, alongside workshops aimed at business growth strategies.",
-        "An increase in pass rates indicates growing interest from startup entrepreneurs."
-      ],
-      "insight": "As the TechCrunch Founder Summit experiences rising attendance amongst startups for its June summit of 2026, this highlights a burgeoning community eager to learn and expand within the industry. The increase in pass rates suggests that such events are valuable resources for knowledge sharing among founders."
-    },
-    {
-      "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
-      "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 13:42:59 +0000",
-      "description": "The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand.\"",
-      "language": "en",
-      "summary": "The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand",
-      "points": [
-        "The company is also eliminating a production shift at its Arizona factory to align \"production plans...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 13:37:25 +0000",
-      "description": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States.",
-      "language": "en",
-      "summary": "Seedcamp is raising a new $320M fund to grow its US business after focusing primarily on Europe for years.",
-      "points": [
-        "Fundraising of $320 million",
-        "Expansion into the United States market",
-        "Shift from European focus"
-      ],
-      "insight": "The move signifies Seedcamp'thy commitment to capturing opportunities in a more diversified global ecosystem, indicating potential shifts and investments within early-stage ventures."
-    },
-    {
-      "title": "Klue hack results in data breach at several cybersecurity firms",
-      "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 22 Jun 2026 13:36:08 +0000",
-      "description": "Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue.",
-      "language": "en",
-      "summary": "Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144277&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 17:39:00 +0900",
-      "description": "개인정보위 평가 결과 ‘통신’이 가장 우수공공 개인정보 보호수준 평가, 올해 테마는 ‘내부자’[보안뉴스 강현주 기자] 개인정보보호위원회가 대상 기업들의 ‘개인정보 처리방침’을 평가한 결과 ‘통신’ 분야 기업들이 가장 우수하고 ‘생성형 AI’ 기업들이 가장 미흡한 것으로 나타났다. 22일 열린 제15회 개인정보보호페어 & CPO 워크숍(PIS FAIR 202",
-      "language": "ko",
-      "summary": "최근 PIS FAIR 평가에서, '개인정보 처리방침'를 통해 제15회 개인정보보호회의에서 '통신' 분야는 우수근한 것을 얻었고, 생성형 AI 기업은 이전에 미흡하게 보이었다.",
-      "points": [
-        "PIS FAIR 2026의 결과로 개인정보 처리방침을 가르마세요.",
-        "통신 기업이 '개인정보 처리방침'에 충불받고 있다는 것을 나타내려면, '통신' 분야의 기업들이 우수하다.",
-        "생성형 AI 기업은 이전에 미흡귀로우, 여전히 '개인정보 처리방침'을 매우가볼만한다."
-      ],
-      "insight": "IT/기술 업계에서 우수한 '개인정보 처리방침'은 최신 PIS FAIR 평가에서는 그 전반적인 성과를 나타내는 것을 알 수 01 있다."
-    },
-    {
-      "title": "신라대-한국경비협회, 경비·보안 분야 전문인력 양성 및 산학협력 강화 위한 업무협약 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=144276&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 16:42:00 +0900",
-      "description": "경비·보안 분야 전문인력 양성을 위한 교육과정 개발 및 운영교육 수료생 취업 정보 제공 및 채용 연계 등 상호 협력[보안뉴스 엄호식 기자] 신라대학교는 6월 19일 총장접견실에서 한국경비협회 중앙회와 경비·보안 분야 전문인력 양성 및 산학협력 강화를 위한 업무협약(MOU)을 체결했다. 협약식에는 이범진 신라대학교 부총장과 동중영 한국경비협회 중앙회 회장이",
-      "language": "ko",
-      "summary": "경비·보안 분야 전문인력 양성을 위한 교육과정 개발 및 운영교육 수료생 취업 정보 제공 및 채용 연계 등 상호 협력[보안뉴스 엄호식 기자] 신라대학교는 6월 19일 총장접견실에서 한국경비협회 중앙회와 경비·보안 분야 전문인력 양성 및 산학협력 강화를 위한 업무협약(MOU)을 체결했다. 협약식에는 이범진 신라대학교 부총장과 동중영 한국경비협회 중앙회 회장이",
-      "points": [
-        "협약식에는 이범진 신라대학교 부총장과 동중영 한국경비협회 중앙회 회장이",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[PIS FAIR 2026] 사전 예방 불가능한 AI 시대... “사후 입증 중심 방어 거버넌스 확립해야”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144275&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 22 Jun 2026 16:25:00 +0900",
-      "description": "PIS FAIR 2026 법률 세션... 김진환 대표·최신영 변호사 강연개인정보보호법 개정안에 CEO 총괄 책임 명문화... 이사회 중심 연대 방어망 구축 필요미국 최신 판례 속 AI 쟁점 조명[보안뉴스 조재호 기자] 22일 서울 코엑스에서 개최된 PISFAIR 2026 법률 세션에서는 AI 시대 기업 생존을 위한 법률적 방어 전략이 심도 있게 다뤄졌다.",
-      "language": "ko",
-      "summary": "PIS FAIR 2026에서 AI 기업의 생존을 위한 법률방안이 다수의 방법으로 살펴본다.",
-      "points": [
-        "AI 기술의 분명 활성화에 있어 사회적 손실이 발생한다.",
-        "AI가 솔루션을 제공하는 곳에서 대체로 인간의 역할을 유도한다.",
-        "불판정의 방안 중에는 사회적으로 유 Einzeln스를 위한 기업들과 공동체지금이 구축되어야 하다."
-      ],
-      "insight": "이 뉴스는 AI에 대한 공정 사전 방안을 강조한다. AI 기술이 인간의 일을 이루어주지만, 이를 통해 사회적 이슈가 발생하는 입문이다."
     }
   ]
 }
