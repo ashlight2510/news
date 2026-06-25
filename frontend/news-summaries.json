@@ -1,6 +1,200 @@
 {
-  "generatedAt": "2026-06-25T14:34:35.752Z",
+  "generatedAt": "2026-06-25T20:06:28.035Z",
   "articles": [
+    {
+      "title": "Polymarket says hackers stole users’ funds",
+      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 19:58:46 +0000",
+      "description": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third party breach.",
+      "language": "en",
+      "summary": "Polymarket has identified unautcurated hacker activity that led to user funds being stolen. The company is taking action by refunding affected accounts.",
+      "points": [
+        "Third-party breach at Polymarket resulted in fund theft",
+        "Users' funds are undergoing a security investigation, with potential for recovery through cryptocurrency exchange activities"
+      ],
+      "insight": "Polymarket’s swift response to refund affected users reflects an increasing recognition of customer trust as vital and could set new industry standards in handling data breaches."
+    },
+    {
+      "title": "Xbox follows Apple with price increases",
+      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 19:39:55 +0000",
+      "description": "The price increase comes amid rising components costs.",
+      "language": "en",
+      "summary": "Microsoft is increasing the prices of its gaming consoles and accessories due to a rise in component costs similar to Apple's strategy.",
+      "points": [
+        "Microsoft announces price hikes for Xbox series consoles, starting at $250 more than previous models",
+        "Accessory pricing will also increase by up to $30 per item with the new console launches expected in November and February of next year.",
+        "The company is raising prices on several gaming-related products due to escalating component costs"
+      ],
+      "insight": "Microsoft'ner recent decision may potentially impact customer loyalty, especially if competitors do not follow suit with similar price increases. It indicates a broader industry trend where technology companies are passing rising production and supply chain expenses onto consumers."
+    },
+    {
+      "title": "Notion Mail shuts down amid agent takeover",
+      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 19:14:46 +0000",
+      "description": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
+      "language": "en",
+      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 17:52:05 +0000",
+      "description": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+      "language": "en",
+      "summary": "A16Z-backed Base Power is skipping the PJM interconnection queue and instead directly integrating their battery storage systems into residential homes as a backup service.",
+      "points": [
+        "Base Power, backed by venture capital firm A16z, offers to install its batteries at customer residences for energy backups",
+        "Customers in PJM can sign up with Base Power and receive free battery storage or pay a $40 monthly fee during non-peak times",
+        "Base Power plans to sell excess stored energy from customers' homes into the grid when demand is high"
+      ],
+      "insight": "The strategy of integrating distributed energy resources, like residential batteries provided by Base Power, can help stabilize local grids and offer a potential revenue stream for consumers during peak electricity times."
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 17:38:27 +0000",
+      "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "language": "en",
+      "summary": "Anthropic’s paid version of ChatGPT is gaining popularity despite OpenAI's dominant free service.",
+      "points": [
+        "Paid consumers show a growing preference for Anthropic' end-to-end customizable AI experience over OpenAI's generative models like ChatGPT. This trend could suggest that users value control and personalization more than cost or brand loyalty.",
+        "AnthropiC has been expanding its market reach by focusing on offering an end-to-end customizable AI experience, including development tools for building conversational agents and large language models. Their business model is also different as it operates in a proprietary fashion rather than OpenAI's open access approach.",
+        "Research indicates that the free version of ChatGPT lacks certain features or user experiences preferred by paying consumers, leading to AnthropiC seizing market share. The company has managed to attract significant investment from big tech firms like Microsoft and Google."
+      ],
+      "insight": "The increasing choice among paid AI users for Claude suggests that personalized control over technology is becoming a more important factor in consumer decisions than free access or price points alone, potentially reshaping the future of open vs. proprietary models within the industry."
+    },
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 16:55:00 +0000",
+      "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "language": "en",
+      "summary": "General Intuition has secured $2.3 billion in funding with the objective of scaling its AI technology that learns from video game data.",
+      "points": [
+        "The company raised a total of $320 million, which was split between two rounds: $145 million led by Andreessen Horowitz and an additional $175 million in the third round including T. Rowe Price Group.",
+        "General Intuition's AI uses video game data to learn decision-making skills that could be applied outside gaming environments, aiming for human-like intuition development",
+        "The company plans to expand its technology into various industries and believes the combination of playability in games with real-world applicability can bridge this gap"
+      ],
+      "insight": "This funding round emphasizes that video game data is a valuable source for AI learning, potentially revolutionizing how we approach training artificial intelligence to operate more humanlike intuition across various sectors."
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 16:48:11 +0000",
+      "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "language": "en",
+      "summary": "Databricks former AI chief argues his approach could reduce costs of artificial intelligence by a factor of ten thousandfold.",
+      "points": [
+        "David Graf from Databricks suggests reducing reliance on costly GPUs for training and inference in machine learning projects, which are often used to accelerate these tasks but can also be expensive due to power consumption.",
+        "Graf proposes using more energy-efficient CPUs along with specialized AI software tools that he claims could perform many complex operations previously done by powerful machines at a fraction of the cost and without compromising much on speed or quality, suggesting significant savings in operational expenditures for enterprises.",
+        "Databricks has already developed Un-0, an image generation system tool demonstrating how its technology can replicate conventional AI systems."
+      ],
+      "insight": "Graf's approach could significantly lower the cost barrier to implementing artificial intelligence solutions within organizations by reducing reliance on energy-intensive hardware and optimizing software tools for better efficiency, potentially democratizing access to powerful AI capabilities across industries without substantial additional expenses."
+    },
+    {
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 16:40:15 +0000",
+      "description": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom.",
+      "language": "en",
+      "summary": "Klue reports its customer data was stolen and believes the perpetratin hacker is deleting it; however, a second group of hackers threatens to hold data hostage for ransom.",
+      "points": [
+        "Customer data believed to be deleted by initial hacking party",
+        "Second wave of cybercriminals threaten customer data with extortion",
+        "Ransom demand made public, causing industry concern"
+      ],
+      "insight": "The evolving tactics in this case illustrate the increasing sophistication and multi-layered threats within the IT/technology industry."
+    },
+    {
+      "title": "Rippling now wants to be your entire data stack",
+      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "description": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\"",
+      "language": "en",
+      "summary": "Rippling seeks to offer comprehensive data management services as an alternative to multiple specialized tools.",
+      "points": [
+        "The company Rippling is targeting businesses that currently rely on various products for time tracking, email archiving, and expense reporting among other things. The idea behind the service provided by Rippling would be able to replace all these individual systems with one comprehensive data stack.",
+        "Rippling aims to simplify processes within companies through its unified approach – where clients can manage their calendar, emails, time tracking and expense reports using just one system. This could potentially save organizations both cost and time by reducing the need for multiple tools.",
+        "The founders of Rippling have backgrounds in tech startups with a focus on data analytics which they believe has given them an advantage as innovators within this sector."
+      ],
+      "insight": "Rippling's comprehensive service could potentially revolutionize the IT industry by simplifying and consolidating numerous business operations into one centralized system, providing efficiency gains for companies while reducing costs on purchasing multiple tools. However, its success will depend largely on competitive pricing strategy in comparison to individual products currently used."
+    },
+    {
+      "title": "Google Finance gets a dedicated app for Android",
+      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "description": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
+      "language": "en",
+      "summary": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 14:55:38 +0000",
+      "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "language": "en",
+      "summary": "NeoCloud companies can now deploy AI-powered networks faster thanks to Netris' $15M Series A funding from a16z.",
+      "points": [
+        "Netris secures significant investment for its neocloud software platform",
+        "a16z funds target NeoCloud industry, accelerating the time-to-live (TTL)",
+        "decentralized AI to reduce latency and manage cloud resources efficiently"
+      ],
+      "insight": "The influx of capital for Netris is expected to rapidly expand its influence in streamlining neocloud deployments, potentially setting new standards within the industry."
+    },
+    {
+      "title": "Trump admin bars Polestar from selling its new EVs in the US",
+      "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 14:55:25 +0000",
+      "description": "The Department of Commerce declined to give the Chinese-owned automaker a special authorization to keep selling EVs in the U.S.",
+      "language": "en",
+      "summary": "Polestar was denied by the Trump administration's Department of Commerce a permit to sell electric vehicles (EVs) in the United States.",
+      "points": [
+        "The Trump administration through its policy and actions has influenced Chinese companies doing business with US firms, including Polestar - an EV manufacturer",
+        "This denial reflects broader trade tensions between China and the U.in which technology is a significant part of goods being traded.",
+        "It sends mixed signals to international automakers considering entering into strategic partnerships or investments with companies in countries targeted by US export control regulations."
+      ],
+      "insight": "The move could potentially impact the global EV market, as American manufacturers face restrictions that might slow down their entry and growth. Additionally, it highlights how geopolitical tensions can have direct repercussions on trade in high-tech industries."
+    },
+    {
+      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+      "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 25 Jun 2026 14:52:35 +0000",
+      "description": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro.",
+      "language": "en",
+      "summary": "In a move that affects some but not all devices in its lineup, Apple has increased the price points for their premium MacBook computers as well as both iPad Air and Pro tablets.",
+      "points": [
+        "Apple raised prices of MacBook Air and Pro models",
+        "iPad Air and Pro are also more expensive now at new starting price tags of $599 to $1029 respectively",
+        "The iPhone is not subjected to a price increase"
+      ],
+      "insight": "Apple'selfs decision suggests confidence in the strength of its brand, but raises concerns about affordability for consumers and potential impact on sales volumes."
+    },
     {
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
@@ -557,201 +751,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "NTSB launches probe into fatal Texas Tesla crash",
-      "link": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 16:39:08 +0000",
-      "description": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
-      "language": "en",
-      "summary": "Following a fatal accident involving an Autopilot-equipped Tesla in Texas earlier this year, investigators from both NTSB and National Highway Traffic Safety Administration are delving into the incident to understand what went wrong.",
-      "points": [
-        "NTSB initiates comprehensive investigation",
-        "Investigation includes reviewing all available data",
-        "Focus on understanding Autopilot system functionality"
-      ],
-      "insight": "This probe by the NTSB is a crucial step to understand and potentially improve autonomous driving systems, which could have significant implications for future development in the automotdependent industry."
-    },
-    {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 16:15:00 +0000",
-      "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "language": "en",
-      "summary": "The latest Figma update introduces a dedicated code layer, enhanced animation capabilities with motions and shaders support, along with the option to develop custom plug-ins powered by AI for different tasks.",
-      "points": [
-        "Figma now includes an integrated code layer",
-        "Support added for motion design and advanced effects such as animations via new features like 'motion' objects and shaders using WebGPU API",
-        "Ability to create custom AI-powered plug-ins"
-      ],
-      "insight": "The update reflects the growing trend of integrating code directly within design tools, potentially blurring lines between traditional roles in UX/UI and front-end development. This could enhance collaboration but also demands a higher level of technical skill among all users."
-    },
-    {
-      "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
-      "link": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 15:01:49 +0000",
-      "description": "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support.",
-      "language": "en",
-      "summary": "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support",
-      "points": [
-        "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for c...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "This new tracking label could help solve cargo theft",
-      "link": "https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 15:00:00 +0000",
-      "description": "The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package.",
-      "language": "en",
-      "summary": "Samsara has developed a new tracking label with an embedded Bluetooth Low Energy (BLE) system capable of providing real-term shipment monitoring to combat cargo theft.",
-      "points": [
-        "The Samsara Tracking Label integrates BLE technology for live location updates within shipping containers, enhancing security and transparency in supply chains.",
-        "Such advanced tracking solutions by IoT specialists like Samsara could significantly reduce cargo theft losses globally while streamlining logistics operations.",
-        "The disposable nature of these labels ensures a minimal environmental impact post-use, aligning with sustainability goals in industry practices."
-      ],
-      "insight": "Samsara's innovative label technology represents an important shift towards greater security and efficiency within global supply chains. It not only tackles the pressing issue of cargo theft but also promotes environmental responsibility by minimizing waste associated with traditional tracking methods."
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 14:54:46 +0000",
-      "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "language": "en",
-      "summary": "OpenAI has developed a custom chip called 'Jalapeño,' crafted in partnership with Broadcom to support its AI infrastructure.",
-      "points": [
-        "The new processor is specifically designed for OpenAI'th inference systems, marking the first time an IT company tailors hardware directly for artificial intelligence tasks.",
-        "Broadcom has been contracted by leading ML model developers like NVIDIA to build chips; however, with AI giants such as Microsoft and Google also creating custom silicon in-house or through partnerships, this is a significant move that could redefine industry norms around chip design for computing needs.",
-        "The creation of 'Jalapeño' highlights the importance of hardware optimization for tasks like data analytics within AI infrastructures and raises questions about future custom solutions by tech leaders."
-      ],
-      "insight": "OpenAI creating a dedicated chip, as opposed to using off-the-shelf or partnered chips from companies specializing in GPUs or ASICs for ML tasks (like NVIDIA's own Tesla and Google’s TPU), indicates an increasing push within the industry towards tailored hardware solutions. This could signal a shift where AI luminaries may begin designing custom silicon to enhance performance, efficiency, and security in their operations."
-    },
-    {
-      "title": "If you want to cut your screen time, just get a Brick",
-      "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 14:01:35 +0000",
-      "description": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
-      "language": "en",
-      "summary": "The article discusses how purchasing a physical brick can significantly reduce one's digital consumption.",
-      "points": [
-        "Physical objects like the 'Brick' require manual interaction to serve their purpose and thus naturally limit screen time.",
-        "Creating tangible products that replace digital activities could have broader implications for reducing sedentary behavior in tech-centric societies.",
-        "The article uses personal experience as a case study, suggesting wider application through product design."
-      ],
-      "insight": "This news highlights the potential impact of physical products on mitigating excessive screen time and promoting healthier lifestyles within technology consumption habits. It implies that intentionality in tech-related activities may lead to a positive cycle, reducing negative effects while encouraging more interactive experiences."
-    },
-    {
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 14:00:00 +0000",
-      "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
-      "language": "en",
-      "summary": "The TechCrunch Founder Summit offers a substantial discount of up to $190 on passes if registered within the next three days.",
-      "points": [
-        "Discount deadline extended for another two weeks",
-        "$25 off early bird rate before June 3, and an additional reduction post-June 3 until pass sales halt at end of day June 26",
-        "Early birds may get up to $190 discount on TechCrunch Founder Summit passes by registering within the next three days"
-      ],
-      "insight": "This article highlights a time-limited opportunity for significant savings, which is crucial information that can encourage early registration and optimize attendance rates at industry events like this one."
-    },
-    {
-      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
-      "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 13:58:14 +0000",
-      "description": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
-      "language": "en",
-      "summary": "Valor Equity Partners is set to raise its seventh flagship private equity fund with a target size of $2.5 billion.",
-      "points": [
-        "Bloomberg has revealed details about Valor' extramural capital raising endeavors, focusing on the creation and growth strategies for their respective funds within various sectors including financial services, healthcare, technology-driven industries among others",
-        "Valor raised $2.4 billion in fund V (the company had previously announced an unspecified amount) last year.",
-        "$2.5B Fund VII will invest primarily in high growth companies across multiple sectors including financial services and emerging technologies."
-      ],
-      "insight": "The announcement of Valor's next large fund indicates continued confidence within the private equity industry despite economic uncertainties, suggesting a resilient appetite for investment in high-growth sectors like technology."
-    },
-    {
-      "title": "Slate Auto’s radically simple electric truck starts at $24,950",
-      "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 12:33:34 +0000",
-      "description": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.",
-      "language": "en",
-      "summary": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "“보안 조치 미흡 제품, 공공 조달 못해”... 동기부여 주는 ‘공급망 보안 로드맵’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144311&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 24 Jun 2026 18:25:00 +0900",
-      "description": "개발·공급 단계부터 보안 내재화... 조달에 반영 등우수기업 확인서 발급 시범 운영 등 인센티브 시도[보안뉴스 강현주 기자] 침해 사고를 당하거나 취약점이 발견된 제품의 보안 조치가 미흡하면 공공 조달 시장 진출이 제한된다. 공급망 보안 관리 우수기업 확인서 발급 및 인센티브 제공 등 동기부여 강화를 위한 제도가 시도된다. 과학기술정보통신부와 국가정보원을",
-      "language": "ko",
-      "summary": "기사는 보안 조치가 미흡한 제품에 대해서 '공급망 보안 로드맵'를 제시한다.",
-      "points": [
-        "기사는 보안 내재화가 필요합니다.",
-        "침해 사고를 방지하려면 취약점을 식이라고 부릅다.",
-        "공급망 보안 관리 시기를 통한 보안 침해 방지에 어떤 도웃주를 필요로지?"
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 취약성으로 인한 보호가 필요하다고 말한다. '공급망 보안 로드맵'를 도착해주기 위해서는 모든 사내들이 보안 내재화를 통해 취약점을 개선하여 국민의 보호를 강제로 가린다."
-    },
-    {
-      "title": "오마다, 최대 5㎞ 연결 지원하는 기업용 무선 브릿지 ‘Flex Bridge 5’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144309&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 24 Jun 2026 17:14:00 +0900",
-      "description": "최대 5㎞ 무선 연결과 867Mbps 속도 지원PoE Out 포트 2개로 CCTV 등 PoE 장비 전원 공급, 네트워크 연결 동시 지원 [보안뉴스 강초희 기자] 오마다(Omada)는 건물 간 장거리 무선 연결을 지원하는 기업용 무선 브릿지 솔루션 ‘플렉스 브리지(Flex Bridge) 5’를 출시했다고 밝혔다.플렉스 브리지 5는 5GHz 대역 기반 무선 브",
-      "language": "ko",
-      "summary": "최대 5㎞ 무선 연결과 867Mbps 속도 지원PoE Out 포트 2개로 CCTV 등 PoE 장비 전원 공급, 네트워크 연결 동시 지원 [보안뉴스 강초희 기자] 오마다(Omada)는 건물 간 장거리 무선 연결을 지원하는 기업용 무선 브릿지 솔루션 ‘플렉스 브리지(Flex Bridge) 5’를 출시했다고 밝혔다. 플렉스 브리지 5는 5GHz 대역 기반 무선 브",
-      "points": [
-        "플렉스 브리지 5는 5GHz 대역 기반 무선 브",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[단독] 휴대폰 번호 바뀌었는데... 카카오페이증권, 번호 검증 없이 개인정보 오발송",
-      "link": "http://www.boannews.com/media/view.asp?idx=144304&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 24 Jun 2026 17:06:00 +0900",
-      "description": "단말기 번호 검증 없이 엉뚱한 고객에 안내문 발송... 금융감독원 민원 접수망분리 규제 완화 앞두고 내부통제 도마[보안뉴스 조재호 기자] 카카오페이증권이 고객 개인정보가 담긴 안내문을 다른 사용자에게 오발송했다. 고객 휴대폰 번호를 확인하는 과정에서 실제 단말기 소유주를 검증하는 체계가 누락돼 발생한 오류로 분석된다.24일 금융업권에 따르면, 이번 사고는",
-      "language": "ko",
-      "summary": "단말기 번호 검증 없이 엉뚱한 고객에 안내문 발송. 금융감독원 민원 접수망분리 규제 완화 앞두고 내부통제 도마[보안뉴스 조재호 기자] 카카오페이증권이 고객 개인정보가 담긴 안내문을 다른 사용자에게 오발송했다...",
-      "points": [
-        "단말기 번호 검증 없이 엉뚱한 고객에 안내문 발송",
-        "금융감독원 민원 접수망분리 규제 완화 앞두고 내부통제 도마[보안뉴스 조재호 기자] 카카오페이증권이 고객 개인정보가 담긴 안내문을 다른 사용자에게 오발송했다",
-        "고객 휴대폰 번호를 확인하는 과정에서 실제 단말기 소유주를 검증하는 체계가 누락돼 발생한 오류로 분석된다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "스피어에이엑스, 미국 AI 반도체 기업 블레이즈와 MOU... “피지컬 AI 솔루션 상용화 추진”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144310&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 24 Jun 2026 17:02:00 +0900",
-      "description": "비전 AI와 AI 반도체 기술 결합, 피지컬 AI 솔루션 공동 개발 및 상용화스마트시티·스마트팩토리·산업안전·보안·로봇·모빌리티 분야 글로벌 시장 공략[보안뉴스 강초희 기자] 비전 AI 및 에지 AI 컴퓨팅 전문 기업 스피어에이엑스(대표 박윤하)는 미국 캘리포니아주 엘도라도 힐스에 본사를 둔 나스닥 상장 글로벌 AI 반도체 기업 블레이즈(Blaize)와 전",
-      "language": "ko",
-      "summary": "비전 AI와 AI 반도체 기술 결합, 피지컬 AI 솔루션 공동 개발 및 상용화스마트시티·스마트팩토리·산업안전·보안·로봇·모빌리티 분야 글로벌 시장 공략[보안뉴스 강초희 기자] 비전 AI 및 에지 AI 컴퓨팅 전문 기업 스피어에이엑스(대표 박윤하)는 미국 캘리포니아주 엘도라도 힐스에 본사를 둔 나스닥 상장 글로벌 AI 반도체 기업 블레이즈(Blaize)와 전",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
