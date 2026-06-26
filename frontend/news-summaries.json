@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-06-26T03:42:15.351Z",
+  "generatedAt": "2026-06-26T09:34:29.036Z",
   "articles": [
+    {
+      "title": "강화되는 IMO 사이버 규제... 국립한국해양대, 선박기자재 보안 해법 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144345&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 16:56:00 +0900",
+      "description": "IEC 62443 등 국제표준 기반 위험평가부터 원격접속 제어까지 실습 진행이민우 교수 “설계·개발 단계부터 사이버보안 핵심 품질요건으로 반영해야”[보안뉴스 조재호 기자] 국립한국해양대학교 마린에듀텍은 선박기자재업체 씨넷(SeaNet)의 선박 사이버보안팀을 대상으로 해양기자재 운영기술(OT) 사이버보안 실무 특강을 진행했다고 26일 밝혔다.이번 교육은 선박",
+      "language": "ko",
+      "summary": "이 기사는 선박 사이버보안에 관한 국립한국해양대학교 연구판맨인 민우의 특강에 관한 내용을 제공하고 있다.",
+      "points": [
+        "민우의 연구자는 선박 사이버보안 방법을 국립한국해양대학교에서 전문가로 제공하고 있다.",
+        "이 연구에 활동한 선박 사이버보안 실무 특강은 연구자가 지금 진행중이라는 정리로 요약할 수 0x83입니다.",
+        "일부 선박 사이버보안 방법에 대해 이론적인 관련 기반의 연구가 포함되어 있다."
+      ],
+      "insight": "민우의 연구는 국내의 선박 사이버보안 제칙를 개선하고자 한국산해양 통합활동에서 중요하며, OT 시스템을 활용하여 선박 사이버보안 문제를 해결하도록 논리적인 방법을 유도한다."
+    },
+    {
+      "title": "티앤디소프트 성남시에 1500만원 기탁... 3년 연속 ESG 나눔 실천",
+      "link": "http://www.boannews.com/media/view.asp?idx=144343&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 16:31:00 +0900",
+      "description": "2024년 첫 인연 맺은 후 기부 이어가며 ‘ESG 나눔 기업패’ 수상최성묵 대표 “책임감 있는 보안 기업으로서 지역사회 상생 본보일 것”[보안뉴스 조재호 기자] 티앤디소프트가 지역사회를 위한 진정성 있는 환경·사회·지배구조(ESG) 경영 행보를 이어가고 있다.지난 24일 성남시청 시장 집무실에서 최성묵 티앤디소프트 대표와 신상진 성남시장이 참석한 가운데",
+      "language": "ko",
+      "summary": "타이산자인 '티앤디소프트'는 지난 24일 성남시청에서 'ESG 나눔'를 이어가고 있다. 그들은 지역사회의 안전성과 참생산자의 함께한 계열로 진정하고 보호적인 기업을 위해 합니다.",
+      "points": [
+        "티앤디소프트는 'ESG 나눔'를 이어가고 있다.",
+        "지난 24일 성남시청에서 참석했다.",
+        "적엔에서 지역사회의 안전성과 참생산자의 관계를 강조하고 있다."
+      ],
+      "insight": "기업이 'ESG 나눔'을 구현하면서도, 지역사회에 대한 직접적인 이해를 나누는 것이 티앤디소프트가 제시한다."
+    },
+    {
+      "title": "1000만 명 설치한 크롬 유튜브 광고 제거기, ‘잠복 상태’ 스크립트 삽입 기능 발견",
+      "link": "http://www.boannews.com/media/view.asp?idx=144344&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 16:14:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 1000만 명 이상이 설치한 구글 크롬용 유명 광고 차단 확장 프로그램에서 임의의 자바스크립트(JavaScript) 코드를 실행할 수 있는 잠재적 위험이 발견돼 주의를 요한다.보안 기업 아일랜드(Island)의 최근 분석에 따르면, 크롬 웹스토어에서 1000만 회 이상 다운로드되며 ‘피처드’(Featured) 배지까지 획득한 확장",
+      "language": "ko",
+      "summary": "1000만 명이 설치한 구글 크롬용 광고를 제거하는 플랜 중 하나로 인해 '잠복 상태' 스크립트 삽입",
+      "points": [
+        "1000만 명이 구글 크롬용 유명 광고 제거 프로그램에서 '잠복 상태' 스크립트를 예상되는 위험이 발견",
+        "보안 기준을 다수정원에게 강제로 사용자들의 운영액세스가 중지되어질 수 있음",
+        "이러한 스크립트는 실제 계정에 대해 인식이 불가"
+      ],
+      "insight": "이 기사는 발생하는 '잠복 상태' 스크립트 삽입 광고 제거 프로그램에 대한 위기 여부를 강조한다. 이러한 스크립트는 실제 계정에 대해 인식이 불가하여 사용자의 연결을 중단시도한다."
+    },
+    {
+      "title": "한국디지털포렌식학회 20주년 하계학술대회 성료...AI 시대 증거 분석 혁신 주도",
+      "link": "http://www.boannews.com/media/view.asp?idx=144342&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 15:58:00 +0900",
+      "description": "AI 발전 발맞춘 디지털 증거 분석 기술 및 법제 동향 논의김기범 회장 “새로운 20년 출발선, 변화 넘어 혁신 주도할 것”[보안뉴스 조재호 기자] 한국디지털포렌식학회가 25일 고려대학교 자연계캠퍼스 하나스퀘어에서 20주년 기념 하계학술대회를 성황리에 개최했다. 이번 행사는 급변하는 AI 시대에 대응하기 위한 디지털 증거 분석의 최신 기술과 법제 개선 방향",
+      "language": "ko",
+      "summary": "AI 발전 발맞춘 디지털 증거 분석 기술 및 법제 동향 논의김기범 회장 “새로운 20년 출발선, 변화 넘어 혁신 주도할 것”[보안뉴스 조재호 기자] 한국디지털포렌식학회가 25일 고려대학교 자연계캠퍼스 하나스퀘어에서 20주년 기념 하계학술대회를 성황리에 개최했다. 이번 행사는 급변하는 AI 시대에 대응하기 위한 디지털 증거 분석의 최신 기술과 법제 개선 방향",
+      "points": [
+        "AI 발전 발맞춘 디지털 증거 분석 기술 및 법제 동향 논의김기범 회장 “새로운 20년 출발선, 변화 넘어 혁신 주도할 것”[보안뉴스 조재호 기자] 한국디지털포렌식학회가 25일 고...",
+        "이번 행사는 급변하는 AI 시대에 대응하기 위한 디지털 증거 분석의 최신 기술과 법제 개선 방향",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 탈 많은 선관위까지 해킹한 북한의 사이버 공격",
+      "link": "http://www.boannews.com/media/view.asp?idx=144341&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 15:55:00 +0900",
+      "description": "역대 최대 10만건 사이버 융단폭격... “환골탈태 없이는 방어 불가”내부 취약성 노출된 선관위, 전면적 혁신으로 신뢰 재건해야[보안뉴스= 배종찬 인사이트케이 연구소장] 국가의 주권이 국민에게 있고 그 주권이 실현되는 유일한 통로가 ‘선거’라면, 중앙선거관리위원회는 민주주의의 심장과 같다. 그러나 최근 선관위를 둘러싼 대내외적 안보 환경과 여론의 지표는 이",
+      "language": "ko",
+      "summary": "역대 최대 10만건 사이버 융단폭격. “환골탈태 없이는 방어 불가”내부 취약성 노출된 선관위, 전면적 혁신으로 신뢰 재건해야[보안뉴스= 배종찬 인사이트케이 연구소장] 국가의 주권이 국민에게 있고 그 주권이 실현되는 유일한 통로가 ‘선거’라면, 중앙선거관리위원회는 민주주의의 심장과 같다...",
+      "points": [
+        "“환골탈태 없이는 방어 불가”내부 취약성 노출된 선관위, 전면적 혁신으로 신뢰 재건해야[보안뉴스= 배종찬 인사이트케이 연구소장] 국가의 주권이 국민에게 있고 그 주권이 실현되는 유...",
+        "그러나 최근 선관위를 둘러싼 대내외적 안보 환경과 여론의 지표는 이",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "라온피플, VLM 기반 AI 영상분석 솔루션 ‘OdinAi 1.0’ 조달청 등재",
+      "link": "http://www.boannews.com/media/view.asp?idx=144339&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 15:08:00 +0900",
+      "description": "중기부 기술개발제품 구매 사업 선정 등 공공시장 공략 가속화단순한 객체 인식 넘어 복잡한 상황이나 맥락을 언어적으로 이해[보안뉴스 엄호식 기자] 비전 AI 전문기업 라온피플의 AI 영상분석 솔루션 ‘OdinAi1.0’이 조달청 나라장터 디지털서비스몰에 정식 등재됐다.OdinAi 1.0은 최신 VLM(시각-언어 모델) 기술을 적용한 차세대 지능형 영상분석 솔",
+      "language": "ko",
+      "summary": "라온플 회사 컴퓨터비즈 ‘OdinAi 1.0’는 다수의 국가에서 개발해 왔으나, 조달청 등재에서 정식 등재를 기록하고 있습니다.",
+      "points": [
+        "라온플는 OdinAi 1.0, 적합한 VLM 기술을 이용한 AI 영상분석 솔루션을 제공",
+        "정식 등재로 조달청에서 등재를 푸시하고 있음",
+        "OdinAi는 국가에나 오케이스에서 존재하며, 다수의 국가에서 등재를 기록하고 있습니다."
+      ],
+      "insight": "이러한 활동은 IT/기술 업계에서의 소로지속되는 맥락의 중심이나, 현재 시대의 영상분석 공식인 경우임."
+    },
+    {
+      "title": "그룹아이비, 상위 10대 위협 조직 공개... “공급망 침투·위협 상업화 가속”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144337&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 14:39:00 +0900",
+      "description": "1550여건 조사 기반 2026년 상위 10대 마스크드 액터 발표스캐터드 스파이더·라자루스 등 공급망과 금전 탈취 주도 조직 지목[보안뉴스 조재호 기자] 그룹아이비(Group-IB)는 전 세계 사이버 범죄 조직의 동향을 분석한 ‘2026년 상위 10대 마스크드 액터’ 명단을 26일 공개했다. 이번 순위는 하이테크 범죄 동향 보고서 2026(High-Tech",
+      "language": "ko",
+      "summary": "그룹아이비는 '2026년 상위 10대 마스크드 액터' 중에서 공급망과 금전 탈취에 대해 조사한 결과를 공개했다.",
+      "points": [
+        "- '2026년 상위 10대 마스크드 액터'에서 그룹아이비는 공급망과 금전 탈취자를 식별하였다.",
+        "- 주요 결과는 '공급망 침투·위협 상업화'이다.",
+        "- 분석에 기여한 사람들은 스팟리우스, 라자루스 등이다."
+      ],
+      "insight": "이러한 결과는 공급망이 인류의 새로운 위협으로 보여야 할 수도, 금전 시스템을 위한 방어처를 강화하는 중지되는 경로이다."
+    },
+    {
+      "title": "스패로우, SW 공급망 보안 위한 SBOM 운영·관리 전략 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144338&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 14:35:00 +0900",
+      "description": "2026년도 공급망보안 워크숍 참가[보안뉴스 강현주 기자] 애플리케이션 보안 전문기업 스패로우(대표 장일수)가 24일부터 25일까지 서울 양재 aT센터 그랜드홀에서 열린 ‘2026년도 공급망보안 워크숍’에 참여해, 소프트웨어(SW) 공급망 보안을 위한 소프트웨어 자재명세서(SBOM) 운영 및 관리 전략을 발표했다.한국정보보호학회(KIISC) 산하 공급망보안",
+      "language": "ko",
+      "summary": "2026년 공글맛보안 워크숍에서 SW 공급망 보안을위한 SBOM 운영·관리 전략 제시",
+      "points": [
+        "SW 공급망 보안을위한 SBOM 운영 및 관리 전략 제시",
+        "공급망보안 워크숍에서 개인화된 보안 기능을 지원하여 SW 공급망 보안을 높일 수 crease",
+        "SW 자바스위저의 핵심 이미지 정보, 소프트웨어 시스템 구조, 및 SW 공급망 처음부터 고수신 작업에 대한 상세한 알릴 방식을 제시"
+      ],
+      "insight": "SW공글맛보안 투자를 위한 IT/기술 업계에서 현재의 보안 위대로 만들어내는 SBOM 운영·관리 전략은 SW공글맛보안에 따라 개인화될 수 있지만, SW공글맛보안 워크숍에서는 SBOM 운영·관리 전략을 제시하는 경우로 생각할 수 0ne"
+    },
+    {
+      "title": "딥페이크 성착취·금융사기 등 AI 범죄 대응 범부처 협의체 출범",
+      "link": "http://www.boannews.com/media/view.asp?idx=144336&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 13:56:00 +0900",
+      "description": "종합 대응 계획 및 통합 대응체계 방안 마련[보안뉴스 강현주 기자] 급증하는 AI기술 이용 범죄에 체계적으로 대응하기 위한 ‘AI 범죄 대응 범부처 협의체’가 공식 출범했다.협의체는 방송미디어통신위원회, 과학기술정보통신부, 외교부, 법무부, 성평등가족부, 금융위원회, 공정거래위원회, 개인정보보호위원회, 식품의약품안전처, 경찰청 등 10개 부처가 함께한다.",
+      "language": "ko",
+      "summary": "AI 이용 범죄에 대한 'AI 범부처 협의체'가 공식적으로 출벌",
+      "points": [
+        "국내 AI 기술이용 범죄에 대한 일쿠운동으로 'AI 범부처'가 통합커지게 만들어졌다.",
+        "10개 원족의 경진을 기반으로 이 협의체는 전문성과 염려를 해소하기 위한 공동조정입니다.",
+        "이러한 협의체는 금융위원회, 경찰청과 직접 연계했다."
+      ],
+      "insight": "AI 범죄에 대한 공정처리를 위한 국가적인 기업심사와 집단의 연산자 투입이 함께된다."
+    },
+    {
+      "title": "kt cloud·카카오, AI 안전성 동맹... 공공·금융 생성형 AI 컴플라이언스 정조준",
+      "link": "http://www.boannews.com/media/view.asp?idx=144333&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 26 Jun 2026 13:40:00 +0900",
+      "description": "AI 서비스 개발 및 운영 전 과정 아우른 협력 체계글로벌 보안 트렌드 발맞춰 AI 리스크 매니지먼트 체계 가동[보안뉴스 조재호 기자] kt cloud가 카카오와 함께 AI 서비스의 안전성 확보를 위한 협력 체계를 구축하고 공공 및 민간 분야의 신뢰할 수 있는 AI 활용 환경 조성에 나선다고 26일 밝혔다.최근 생성형 AI 도입이 가속화되면서 유해 콘텐츠",
+      "language": "ko",
+      "summary": "기사는 kt cloud가 AI 서비스 개발과 운영에 대한 공동협의 시도를 고소한 내용으로서, 기술을 위해 최신 AI 컴플라이언스 방식에 근본적인 안전성과 분석 가능성을 강조하고자 한다.",
+      "points": [
+        "kt cloud가 AI 서비스의 안전성을 보장하기 위해 카카오와 협력시킨 공동 연구실헌",
+        "AI 서비스는 금융 시스텬에서 사용되고 인터넷 영화추천에 도전함",
+        "공공 급하게 AI가 오염하는 문제를 대비하고자 한다."
+      ],
+      "insight": "이러한 협력은 IT/기술 업체에서 생산 있는 AI 시스템의 안전성을 보장하고자 한다."
+    },
     {
       "title": "정부, 중소기업 공격표면 무료 점검... AI 위협 대비 보안 지원 나서",
       "link": "http://www.boannews.com/media/view.asp?idx=144335&kind=&sub_kind=",
@@ -597,156 +747,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "CISA “란트로닉스 EDS5000, 9.8점 취약점 실제 악용 중”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144319&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 11:11:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 미국 사이버보안 및 인프라보안국(CISA)이 란트로닉스(Lantronix)의 디바이스 서버 ‘EDS5000’ 시리즈의 치명적 취약점이 현재 실제 공격에 악용되고 있다고 경고했다. CISA는 연방 민간 행정부(FCEB) 기관들에게 26일까지 관련 패치를 적용할 것을 촉구했다.문제가 된 취약점은 ‘CVE-2025-67038’이다. 보안",
-      "language": "ko",
-      "summary": "CISA 관련 Lantronix EDS50term Server에서 'EDS5000'시리즈의 CVE-2025-67038이 실제로 공격에 대한 경고를 기원한다.",
-      "points": [
-        "CISA는 Lantronix EDS50term Server의 시리즈에서 CVE-2025-67038이 공격에 크게 영향을 미치고 있다.",
-        "국내로부터 'EDS5000'시리즈의 공격에 대한 경고를 준비중이다.",
-        "많은 인피라보안 사전지와 CVE-2025-67038에 대한 자세한 내용은 [CVE Report](https://cve.mitre.org/cgi/report?ident=CVE-2025-67038)를 참조하도록 권전ㅇ."
-      ],
-      "insight": "이러한 IT 보안에 대한 경고는 인피라보안 기술자들의 주요 일정 동안의 공격으로부터 발생하였다. 이러한 악용 경고는 Lantronix EDS50term Server에서의 CVE-2025-67038이 우연히 인증되어 발생하였다."
-    },
-    {
-      "title": "유로폴, 사이버 범죄자 위한 ‘멀웨어 서비스’ 인프라 분쇄... 보안 기업 합동 ‘엔드게임 작전’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144320&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 11:08:00 +0900",
-      "description": "아마데이(Amadey), 스틸C(StealC) 등 사이버 범죄자 위한 서비스 인프라 단속주요 민간 보안 기업과 협업[보안뉴스 한세희 기자] 글로벌 사이버 범죄 조직을 위한 멀웨어 서비스 인프라가 국제 공조 수사로 무너졌다. 유로폴은 여러 국가 사법 당국과 보안 기업이 참여한 ‘엔드게임 작전’(Operation Endgame)을 펼쳐 ‘서비스형 멀웨어’(Ma",
-      "language": "ko",
-      "summary": "아마데이(Amadey), 스틸C(StealC) 등 사이버 범죄자 위한 서비스 인프라 단속주요 민간 보안 기업과 협업[보안뉴스 한세희 기자] 글로벌 사이버 범죄 조직을 위한 멀웨어 서비스 인프라가 국제 공조 수사로 무너졌다. 유로폴은 여러 국가 사법 당국과 보안 기업이 참여한 ‘엔드게임 작전’(Operation Endgame)을 펼쳐 ‘서비스형 멀웨어’(Ma",
-      "points": [
-        "아마데이(Amadey), 스틸C(StealC) 등 사이버 범죄자 위한 서비스 인프라 단속주요 민간 보안 기업과 협업[보안뉴스 한세희 기자] 글로벌 사이버 범죄 조직을 위한 멀웨어 ...",
-        "유로폴은 여러 국가 사법 당국과 보안 기업이 참여한 ‘엔드게임 작전’(Operation Endgame)을 펼쳐 ‘서비스형 멀웨어’(Ma",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "펜타시큐리티, 국가서비스대상 3년 연속 수상... 올해는 디아모 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144318&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 10:24:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 사이버보안 전문기업 ‘펜타시큐리티’가 자사 암호 플랫폼 ‘디아모’(D.AMO) 가 ‘2026 국가서비스대상 사이버보안 솔루션’에 선정됐다고 25일 밝혔다. 펜타시큐리티는 2024년과 2025년 지능형 웹방화벽 와플(WAPPLES)의 수상에 이어 해당 부문에서 3년 연속 선정됐다. 산업통상자원부 산하 국책연구기관 산업정책연구원이 주관",
-      "language": "ko",
-      "summary": "펜타시큐리티가 '디아모'를 선정한 국가서비스대상 계정에서 3년째 수상.",
-      "points": [
-        "펜타시큐리티가 2026년 국가서비스대상에서 선정된 '디아모'",
-        "2024년과 2 end 년째로 수상된 산재적 기술의 웹방화벽 형탱",
-        "산업정책연구원이 주관으로 선정된"
-      ],
-      "insight": "이러한 선정은 IT/기술 업계가 국가의 사죽지비를 강화하고자 한국에서의 인디오 전용 출산을 확보함으로썸터"
-    },
-    {
-      "title": "안랩 V3, ‘VB100’서 국내 유일 A+ 등급 획득",
-      "link": "http://www.boannews.com/media/view.asp?idx=144317&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 10:11:00 +0900",
-      "description": "100% 탐지율 기록... 실제 유포 중인 악성코드 차단[보안뉴스 강현주 기자] 안랩(대표 강석균)은 자사 엔드포인트 보안 솔루션 ‘안랩 V3’가 글로벌 보안 평가 기관 바이러스블러틴(Virus Bulletin)의 ‘VB100’의 올 6월 인증 평가에서 악성코드 탐지율 100%를 기록하며 최고 등급인 A+로 인증을 획득했다고 25일 밝혔다.VB100은 윈도",
-      "language": "ko",
-      "summary": "100% 탐지율 기록. 실제 유포 중인 악성코드 차단[보안뉴스 강현주 기자] 안랩(대표 강석균)은 자사 엔드포인트 보안 솔루션 ‘안랩 V3’가 글로벌 보안 평가 기관 바이러스블러틴(Virus Bulletin)의 ‘VB100’의 올 6월 인증 평가에서 악성코드 탐지율 100%를 기록하며 최고 등급인 A+로 인증을 획득했다고 25일 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[김정덕의 인간중심보안-11] 보안 문화, Nature(본성) vs. Nurture(양육)",
-      "link": "http://www.boannews.com/media/view.asp?idx=144313&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 10:02:00 +0900",
-      "description": "규칙의 나열을 넘어 조직의 체질을 바꾸는 정원사의 리더십[연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. ‘인간중심보",
-      "language": "ko",
-      "summary": "이 기사는 AI시대에서 인간중심 보안의 요인과 의사리클레이션에 대해 알아볼 수 staticError: TypeError: You are trying to iterate over something that is neither a Map nor a Set. (In 'for...of' loop) at createErrorFromCode ([native code])",
-      "points": [
-        "인간의 창의성이 AI 보안을 함숙하게 만들어내는 요소",
-        "보안 문화의 변화에서 인간중심 보안 전문가의 역Role는 중요한 부분",
-        "인간중심 보안은 정신과 비공지성을 고려하는 방식이어야"
-      ],
-      "insight": "이 기사는 AI시대에서 인간의 주성으로 개념한 보안의 포인트를 강조하고, 보안의 전문성과 채신성을 중요시함였다."
-    },
-    {
-      "title": "Europe is pushing back on Washington’s chip war",
-      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 00:08:36 +0000",
-      "description": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
-      "language": "en",
-      "summary": "Europe is resisting measures proposed by Washington that could restrict access to older deep ultraviolet (DUV) chip manufacturing tools.",
-      "points": [
-        "ASML's CEO indicates Europe can currently acquire only older DUV machines, which are subjected to potential restrictions under the MATCH Act.",
-        "The proposed legislation could limit access to these crucial technologies for countries like China and Taiwan.",
-        "European leaders argue that maintaining current technology capabilities is vital as they look to invest in next-generation chip production facilities."
-      ],
-      "insight": "This development highlights Europe's strategic importance in the global semiconductor industry, particularly regarding access to advanced manufacturing tools and its efforts towards self-reliance through domestic innovation."
-    },
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 23:26:52 +0000",
-      "description": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "language": "en",
-      "summary": "Ex-Infosys CEO launches a startup aiming to disrupt the IT services industry with backing from Mayfield Capital and Aramco Ventures.",
-      "points": [
-        "- Vishal Sikka, former Infosys CTO turned entrepreneur, has founded his own venture backed by investors like Mayfield and Saudi Arabia'nergies firm. The new startup brings together veterans from companies such as SAP, Infosys, and AI start-up VianAI.",
-        "- This move indicates a desire to compete directly with major IT service providers in the industry.",
-        "- As part of its strategy, the company plans to specialize in providing innovative digital solutions that leverage artificial intelligence."
-      ],
-      "insight": "Sikka's new venture represents an emerging trend within tech where seasoned professionals with significant experience and connections are leveraging their industry knowledge to start competitive enterprises. If successful, this could signal increased competition in the IT services sector."
-    },
-    {
-      "title": "Elon suffers another day short of trillionaire status",
-      "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 23:09:39 +0000",
-      "description": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
-      "language": "en",
-      "summary": "Elon Musk continues to amass wealth as SpaceX and Tesla remain in the headlines despite setbacks.",
-      "points": [
-        "Despite facing recent challenges for his companies, Elon Musk's net worth remains high at several hundred billion dollars according to Bloomberg",
-        "SpaceX has experienced a failed launch and Tesla is dealing with production issues due to the pandemic.",
-        "Elon maintains significant control over all major decisions in his companies despite these difficulties."
-      ],
-      "insight": "Musk's ability to continue growing his wealth amidst setbacks demonstrates resilience and unwa0nevenly distributed resources within the technology industry, potentially setting higher expectations for business continuity during crises."
-    },
-    {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 22:41:41 +0000",
-      "description": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "language": "en",
-      "summary": "Cerebras' stock fell significantly after their initial earnings report as misunderstandings about the company’s narrowing of margins led to misplaced fear among investors.",
-      "points": [
-        "Initial AI chipmaker, Cerebras, reports narrower gross margin in core business post-IPO",
-        "Investor concerns arise from misunderstanding CEO's comment about the outlook being 'misunderstood', rather than indicative of company decline.",
-        "CEO John Chambers highlighted that despite earning $51 million, Cerebras faced challenges in chip sales due to industry supply constraints."
-      ],
-      "insight": "The situation demonstrates the importance for companies going public and investors alike of clear communication regarding financial outlooks. Misinterpretations can lead to unwarranted panic amongst stakeholders, highlighting potential areas for improvement in both internal messaging strategies within a company and market expectations management."
-    },
-    {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 24 Jun 2026 21:56:41 +0000",
-      "description": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "language": "en",
-      "summary": "Contrary to fears that artificial intelligence (AI) would lead to significant job losses in engineering roles, recent data indicates engineers are experiencuring a resilient employment market.",
-      "points": [
-        "Engineers make up an increasing proportion of new hires according to SignalFire",
-        "Despite AI's rise and fear-fueled layoff narratives, engineering jobs remain robust in the labor market",
-        "The resilience of engineers challenges conventional wisdom about technology displacing human roles"
-      ],
-      "insight": "These findings suggest that while automation affects job availability across various sectors, engineer positions are not only surviving but thriving in the current climate. This may indicate a growing demand for engineers who can work alongside AI and contribute to its development."
     }
   ]
 }
