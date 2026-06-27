@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-27T13:43:47.116Z",
+  "generatedAt": "2026-06-27T19:20:37.411Z",
   "articles": [
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "language": "en",
+      "summary": "Apple'energist executive Paul Meade has departed for a role at OpenAI focusing on hardware.",
+      "points": [
+        "Paul Meade is the Apple vice president responsible for Vision Pro development and he's moving to join OpenAI",
+        "OpenAI announced that they are expanding their team with new hardware focuses, which Paul will head",
+        "Meade has been working on haptic feedback technology in AR devices"
+      ],
+      "insight": "This shift signifies the growing importance of AI-driven hardware development and potential competition between tech giants like Apple and OpenAI for advancements."
+    },
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "language": "en",
+      "summary": "Connor Christou, a founder in the room dealing with cancer, turned to AI for help by analyzing various health-related data inputs through an artificial intelligence system named 'Claude'.",
+      "points": [
+        "Christou integrated multiple types of personal health data into Claude.",
+        "The AI was trained on Christou's regime specifications and his own physiological parameters to predict cancer recurrence with a reported accuracy exceeding 95%.",
+        "Healthcare professionals are starting to adopt similar methods for patient monitoring."
+      ],
+      "insight": "This innovative use of AI in personal health management could lead to more proactive and data-driven approaches within the IT/technology industry, particularly impacting how startups approach wellness tech solutions."
+    },
     {
       "title": "美, 자국 100여개 기업 한정 ‘미토스5’ 접근 허용",
       "link": "http://www.boannews.com/media/view.asp?idx=144351&kind=&sub_kind=",
@@ -715,36 +745,6 @@
         "The founders of Rippling have backgrounds in tech startups with a focus on data analytics which they believe has given them an advantage as innovators within this sector."
       ],
       "insight": "Rippling's comprehensive service could potentially revolutionize the IT industry by simplifying and consolidating numerous business operations into one centralized system, providing efficiency gains for companies while reducing costs on purchasing multiple tools. However, its success will depend largely on competitive pricing strategy in comparison to individual products currently used."
-    },
-    {
-      "title": "Google Finance gets a dedicated app for Android",
-      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 16:00:00 +0000",
-      "description": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
-      "language": "en",
-      "summary": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 14:55:38 +0000",
-      "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "language": "en",
-      "summary": "NeoCloud companies can now deploy AI-powered networks faster thanks to Netris' $15M Series A funding from a16z.",
-      "points": [
-        "Netris secures significant investment for its neocloud software platform",
-        "a16z funds target NeoCloud industry, accelerating the time-to-live (TTL)",
-        "decentralized AI to reduce latency and manage cloud resources efficiently"
-      ],
-      "insight": "The influx of capital for Netris is expected to rapidly expand its influence in streamlining neocloud deployments, potentially setting new standards within the industry."
     }
   ]
 }
