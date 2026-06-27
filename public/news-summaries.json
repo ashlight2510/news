@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-26T19:50:13.557Z",
+  "generatedAt": "2026-06-27T02:59:05.048Z",
   "articles": [
+    {
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
+      "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "language": "en",
+      "summary": "The Trump Administration has made Anthropic's AI language model 'Mythos 5' available for over 1 endorsement by more than a hundred companies and government agencies in the United States.",
+      "points": [
+        "Over 100 US entities authorized to use Mytho 5",
+        "Includes non-American employees within these organizations",
+        "The model is aimed at improving workplace communication"
+      ],
+      "insight": "This widespdisemination of AI tools like 'Mythos' in the US suggests an accelerating trend towards integrating advanced technology into everyday business operations, potentially reshaping how companies approach tasks such as customer service and internal communications."
+    },
+    {
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 27 Jun 2026 00:38:34 +0000",
+      "description": "Mesh came out of stealth in February with a $50 million Series A.",
+      "language": "en",
+      "summary": "Elon Musk's SpaceX has received approval from the FTC to acquire Mesh, an emerging Silicon Valley startup working on a decentralized digital platform for social interactions and transactions.",
+      "points": [
+        "Mesh is set to join forces with Elon Musk’deep-seated interests in technology leadership",
+        "The FTC has given its go-ahead following Mesh's impressive Series A funding round of $50 million",
+        "This acquisition could enhance SpaceX's capabilities and extend their influence within the digital realm"
+      ],
+      "insight": "Elon Musk's ventures consistently blur lines between technology, social platforms, and fintech. The Mesh acquisition is a strategic move to consolidate these elements under one umbrella for greater industry impact."
+    },
+    {
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 26 Jun 2026 22:00:37 +0000",
+      "description": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+      "language": "en",
+      "summary": "Insurtech startup Corgi has refuted allegations by Papermark that claimed theft of its open-source software for natural language processing (NLP). The dispute centers around what constitutes original research and code in technology.",
+      "points": [
+        "Corgi insists it independently developed NLP AI without pilfering from Papermark's project, calling into question the uniqueness of such innovations within the tech industry.",
+        "The legal entanglement over software ownership highlighted by Corgi and Papermark suggests a grey area in intellectual property as applied to technology startups using open-source components.",
+        "Both companies are navigating accusations that may impact their business practices, partnerships, and the broader perception of NLP tech innovation within the startup ecosystem."
+      ],
+      "insight": "This incident underscCTs a growing issue in technology startups related to intellectual property ownership when using open-source software. It could influence future collaborations and inspire closer examination of ethical boundaries in technological development."
+    },
     {
       "title": "Novak Djokovic has a new job — advisor to private equity firm General Atlantic",
       "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
@@ -700,51 +745,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
-      "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 10:00:00 +0000",
-      "description": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government.",
-      "language": "en",
-      "summary": "Cellebrite announced a halt in sales to Russian authorities following allegations of unethical hacking practices; however, evidence suggests Russia continued using the company' end-to end exploitation tools.",
-      "points": [
-        "Russian officials used Cellebrite’s iPhone decryption tool even after its sale was officially stopped by the Israeli firm",
-        "Cellebrite had previously faced criticism for selling access to phone data tracking technology, a move seen as supporting oppressive regimes",
-        "The situation highlighted ethical concerns in tech sales and their potential misuse"
-      ],
-      "insight": "This raises serious questions about the effectiveness of companies' own policies regarding customer usage restrictions when it comes to national security and human rights issues."
-    },
-    {
-      "title": "외우지 말고 맡겨 관리하자, ‘비밀번호 관리자’ 활용 가이드",
-      "link": "http://www.boannews.com/media/view.asp?idx=144328&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 18:06:00 +0900",
-      "description": "브라우저 동기화로 PC-모바일 계정 통합 관리비밀번호 진단, 생체 인식 연동으로 개인 보안 거버넌스 강화[보안뉴스 조재호 기자] 비밀번호 돌려쓰기는 IT 보안에서 가장 취약한 고리로 꼽힌다. 해커들은 다크웹 등에서 유출된 로그인 정보를 다른 웹사이트에 무작위로 대입하는 ‘크리덴셜 스터핑’(Credential Stuffing) 기법으로 우리들의 자산을 노린다",
-      "language": "ko",
-      "summary": "기사는 비밀번호 관련 분석과 PC-모바일 계정 통합에 대한 IT 보안 문제를 강조합니다.",
-      "points": [
-        "PC-모바일 계정 통합이 이전에 처음으로 PC에서만 진행되었다면, 많은 사용자가 PC로 먹기가 못하는 상황을 대비해 PC 및 모바일이 동일하게 진행되십니다.",
-        "보안에서는 고유한 ID를 사용하여 인증을 제공하는데, 기술 분섞이나 취도율이 아주 높은 Credential Stuffing 공격으로 유출된 로그인 정보를 무작위로 대치하여 PC 애플리콰어를 열기로 움컷합니다.",
-        "사용자가 PC에서만 진행할 경우, Credential Stuffing 공격은 PC 인증을 깨지거나, PC 로그인 정보를 줄 수도 있습니다."
-      ],
-      "insight": "이러한 Credential Stuffing 공격은 IT/기술 업계에서 자신과의 인식을 제대로 수행하지 못함을 강조합니다. PC 인증과 보안 전문가의 도움이 필요한 경우, 고속 사용자 인증(SSO)를 관련 중요로 제어해야 합니다."
-    },
-    {
-      "title": "이 대통령과 트럼프 사진이 가짜? 사회공학적 공격 도구가 된 ‘딥페이크’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144327&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 25 Jun 2026 17:29:00 +0900",
-      "description": "딥페이크를 통해 만든 가짜 사진으로 진짜 사진을 가짜로 몰아...고도화된 여론 조작[보안뉴스 원병철 기자] 최근 G7 정상회의에서 나온 한 장의 사진이 딥페이크 논란의 중심에 섰다. 바로 이재명 대통령과 트럼프 미국 대통령이 함께 찍은 사진을 한 누리꾼이 윤석열 전 대통령과 트럼프 대통령이 찍은 사진을 합성해서 만든 가짜라고 주장했기 때문이다. 하지만 해당",
-      "language": "ko",
-      "summary": "이대통령과 트럼프 대통령이 합성된 '딥페이크'가 진짜지원하는 주장에 대한 밀도 검사를 시작",
-      "points": [
-        "이재명 대통령과 트럼프 대통령이 합성된 사진을 다음 대통령의 참여를 나타내는 것으로, 이러한 작입니다.",
-        "딥페이크론짝 사진은 완전히 합성된 것으로, 참여를 의미하는 경우가 아니라는 주장",
-        "세계에서의 이러한 정보적 공격은 대형의 모바일 웹 앱을 이용하여 진짜인 '이재명'과 '트럼프' 대통령에 대한 자체적인 공격으로 보일 수 도박"
-      ],
-      "insight": "이 뉴스는 이재명과 트럼프 대통령을 위한 IT/기술 공격으로 전서되고, 세계가 이러한 공격의 동작방식과 반영에 대해 통찰패드와 다시 연구하기 위해 보여질 수 있는 독튼한 이야기이다."
     }
   ]
 }
