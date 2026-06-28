@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-06-28T13:46:45.749Z",
+  "generatedAt": "2026-06-28T19:22:58.441Z",
   "articles": [
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Jun 2026 19:05:39 +0000",
+      "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "language": "en",
+      "summary": "Ford is rehiring experienced engineers after AI failed to deliver the desired quality in their autonomous vehicle projects.",
+      "points": [
+        "Artificial intelligence could not consistently meet Ford's high standards for autonomous vehicles, leading them back to human expertise.",
+        "The company recognizes that while technology advances rapidly and can provide innovative solutions, it cannot fully replace the nuanced understanding of experienced engineers just yet.",
+        "Ford is planning a balanced approach by continuing their investment in AI development alongside hiring skilled professionals to ensure quality."
+      ],
+      "insight": "This move suggests that while automation and artificial intelligence offer significant advantages, there are still critical situations where human expertise remains indispnerable. The IT/technology industry might need a symbiotic relationship between AI development and human oversight for complex projects like autonomous vehicles."
+    },
+    {
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Jun 2026 17:03:16 +0000",
+      "description": "Has Silicon Valley been building the wrong things?",
+      "language": "en",
+      "summary": "Ian Bogost argues that focusing on simple pleasures and digital experiences can counteract our increasingly impersonal tech-driven lives.",
+      "points": [
+        "The Small Stuff is a playful critique of the overwhelming focus on big technology projects like Silicon Valley' endless pursuit for bigger, better innovations. By celebrating small digital experiences and interactions as important to our social fabric",
+        "Bogost believes that these 'smaller stuffs' could provide us with a sense of grounding amid the chaos brought about by advanced technology.",
+        "The author highlighted how everyday things in life, like sharing recipes on Instagram or live-streaming casual family activities can help people reconnect and reclaim their lives."
+      ],
+      "insight": "This news suggests that there could be a shift towards more personalized technology experiences to foster human connections. It implies the need for creating tech solutions that prioritize meaningful engagement over sheer innovation, potentially prompting reevaluation of industry focus within Silicon Valley and beyond."
+    },
+    {
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Jun 2026 16:05:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "language": "en",
+      "summary": "The core content revolves around Tesla's progress on Full Self Driving (FSD) technology with CEO Elon Musk hinting at its imminent availability.",
+      "points": [
+        "Tesla is near the release of a promised, costly 'full self-driving beta', suggesting significant advancin in autonomous driving technologies.",
+        "Elon Musk suggests that he believes full autonomy will soon be reality with his estimate on when it could become available as early as next year or 2024.",
+        "Despite skepticism regarding the cost and safety of beta software for self-driving cars, Tesla is continuously refining its technology."
+      ],
+      "insight": "This development highlights a rapid advancement in autonomous vehicle technology that could reshape mobility. However, it also raises questions about user expectations and safety protocols within the industry as we shift towards more AI-driven transportation systems."
+    },
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Jun 2026 15:00:00 +0000",
+      "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "language": "en",
+      "summary": "Wall Street is optimistic about US memory maker Micron following the success of Silicon Valley heavyweight Nvidia.",
+      "points": [
+        "Investors and analysts see parallels between Micron's growth trajectory and that of Nvidia, which revolutionized AI computing power in recent years.",
+        "Micron is expanding its memory production capacity by an additional $15 billion to meet growing demand for data centers globally, with plans set over the next few years.",
+        "The company has benefited from a supply chain crunch and increased adoption of cloud computing services."
+      ],
+      "insight": "This confidence in Micron'sinvestors could drive significant growth within the IT/technology industry as memory makers become increasingly critical to data-driven sectors like AI, leading to a potential shakeout among rivals unable to keep pace with demand."
+    },
+    {
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Jun 2026 14:00:00 +0000",
+      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. This $500 premium smart home gadget is aimed at those who crave what’s called “the good ice,” the soft, chewable […]",
+      "language": "en",
+      "summary": "Govee's Smart Nugget Ice Maker Pro is a $500 premium smart home device designed to cater to those who seek 'good ice,' which means soft and chewable for the ultimate beverage experience.",
+      "points": [
+        "The GoveeLife Smart Nugget Ice Maker Pro targets consumers looking for high-quality, personalized drink experiences with its premium pricing.",
+        "With features like pre-set sizes and a 'chewable' ice setting, the device is tailored towards enhancing everyday beverages to feel more luxurious.",
+        "The integration of smart technology in home appliances exemplifies Govee's commitment to innovation beyond just basic functionality."
+      ],
+      "insight": "This news underscores the growing market segment that values experiential aspects, such as ice quality, within everyday items like beverages. Smart technology is increasingly being used to customize and enhance these experiences in home appliances."
+    },
+    {
+      "title": "한국식품산업협회 170개 회원사 개인정보 유출 정황... 11만명 이상 비번 및 연락처 등",
+      "link": "http://www.boannews.com/media/view.asp?idx=144354&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 28 Jun 2026 18:47:00 +0900",
+      "description": "[보안뉴스 강현주 기자] 한국식품산업협회에서 개인정보 유출이 일어난 정황이 발견됐다. 28일 식품업계에 따르면 한국식품산업 협회는 26일 홈페이지에 이 같은 사실을 공지하고, 당사자들에게 개별 문자 메시지로 안내했다.협회에 따르면, 협회의 교육사이트 운영 위탁사인 메디오피아테크에서 6월 24일 시스템 점검 과정에서 외부 공격으로 추정되는 비정상 접근 및 개",
+      "language": "ko",
+      "summary": "한국식품산업협회에서 개인정보 유출이 일어나는 사건입니다.",
+      "points": [
+        "- 한국식품산업 협회가 26일 홈페이지에서 이약이를 공지하였다.",
+        "- 개인정보 유출을 예상한 공격으로 추정되고, 당사자들은 개인의 머무를 허용하지 않습니다.",
+        "- 이러한 사건에 대한 문제가 IT/기술 업계에서 광범위한 영향을 미리 감안함으로써 보완중이 되어 있다."
+      ],
+      "insight": "이러한 사건은 IT/기술 업체에서의 개인정보를 공간적으로 관리하는 방식에 대해 확인되고, 이에 상쟁한 비롯으로 IT/기술 업체들은 보안적인 정보관리를 강조해야 함입니다."
+    },
     {
       "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
       "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
@@ -656,95 +746,6 @@
         "The Biden administration delayed ChatGPT's future releases based on safety discussions with Microsoft and Google."
       ],
       "insight": "This decision reflects a growing awareness of AI-generated content implications, prompting major tech companies to take user experiences into account more seriously when releasing new products. The White House request underscores the need for caution in disseminating advanced technology without thorough testing and understanding of potential societal impacts."
-    },
-    {
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 22:02:12 +0000",
-      "description": "YouTube Shorts is getting a makeover.",
-      "language": "en",
-      "summary": "YouTube Shorts is getting a makeover",
-      "points": [
-        "YouTube Shorts is getting a makeover",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "language": "en",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says",
-      "points": [
-        "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly ins...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Polymarket says hackers stole users’ funds",
-      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 19:58:46 +0000",
-      "description": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third party breach.",
-      "language": "en",
-      "summary": "Polymarket has identified unautcurated hacker activity that led to user funds being stolen. The company is taking action by refunding affected accounts.",
-      "points": [
-        "Third-party breach at Polymarket resulted in fund theft",
-        "Users' funds are undergoing a security investigation, with potential for recovery through cryptocurrency exchange activities"
-      ],
-      "insight": "Polymarket’s swift response to refund affected users reflects an increasing recognition of customer trust as vital and could set new industry standards in handling data breaches."
-    },
-    {
-      "title": "Xbox follows Apple with price increases",
-      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 19:39:55 +0000",
-      "description": "The price increase comes amid rising components costs.",
-      "language": "en",
-      "summary": "Microsoft is increasing the prices of its gaming consoles and accessories due to a rise in component costs similar to Apple's strategy.",
-      "points": [
-        "Microsoft announces price hikes for Xbox series consoles, starting at $250 more than previous models",
-        "Accessory pricing will also increase by up to $30 per item with the new console launches expected in November and February of next year.",
-        "The company is raising prices on several gaming-related products due to escalating component costs"
-      ],
-      "insight": "Microsoft'ner recent decision may potentially impact customer loyalty, especially if competitors do not follow suit with similar price increases. It indicates a broader industry trend where technology companies are passing rising production and supply chain expenses onto consumers."
-    },
-    {
-      "title": "Notion Mail shuts down amid agent takeover",
-      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 19:14:46 +0000",
-      "description": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-      "language": "en",
-      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 17:52:05 +0000",
-      "description": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
-      "language": "en",
-      "summary": "A16Z-backed Base Power is skipping the PJM interconnection queue and instead directly integrating their battery storage systems into residential homes as a backup service.",
-      "points": [
-        "Base Power, backed by venture capital firm A16z, offers to install its batteries at customer residences for energy backups",
-        "Customers in PJM can sign up with Base Power and receive free battery storage or pay a $40 monthly fee during non-peak times",
-        "Base Power plans to sell excess stored energy from customers' homes into the grid when demand is high"
-      ],
-      "insight": "The strategy of integrating distributed energy resources, like residential batteries provided by Base Power, can help stabilize local grids and offer a potential revenue stream for consumers during peak electricity times."
     }
   ]
 }
