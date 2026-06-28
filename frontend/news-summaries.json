@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-28T03:44:09.891Z",
+  "generatedAt": "2026-06-28T08:51:46.474Z",
   "articles": [
+    {
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 28 Jun 2026 05:00:00 +0000",
+      "description": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "language": "en",
+      "summary": "Indian payments chief Dilip Asbe predicts significant AI involvement in the next era of digital payment growth, highlighting UPI apps' need for a viable commercial model.",
+      "points": [
+        "Dilip Asbe emphasizes that artificial intelligence will play a crucial role in driving future growth in India'selas payments sector.",
+        "Asbe asserts the importance of newer Unified Payment Interface (UPI) applications to develop commercial models for sustainable competition and innovation.",
+        "The reliance on AI is expected due to its ability to handle massive volumes of transactions efficiently, enhancing user experience."
+      ],
+      "insight": "Dilip Asbe's insights suggest that the future growth in India's digital payments industry will heavily rely on technological advancements like artificial intelligence for maintaining efficiency and sustainability. This emphasis on AI could push more innovative solutions within UPI apps, setting a trend among competitors."
+    },
     {
       "title": "페이블5, 조만간 수출 통헤 해제 가능성 전망",
       "link": "http://www.boannews.com/media/view.asp?idx=144353&kind=&sub_kind=",
@@ -730,21 +745,6 @@
         "Base Power plans to sell excess stored energy from customers' homes into the grid when demand is high"
       ],
       "insight": "The strategy of integrating distributed energy resources, like residential batteries provided by Base Power, can help stabilize local grids and offer a potential revenue stream for consumers during peak electricity times."
-    },
-    {
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 25 Jun 2026 17:38:27 +0000",
-      "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "language": "en",
-      "summary": "Anthropic’s paid version of ChatGPT is gaining popularity despite OpenAI's dominant free service.",
-      "points": [
-        "Paid consumers show a growing preference for Anthropic' end-to-end customizable AI experience over OpenAI's generative models like ChatGPT. This trend could suggest that users value control and personalization more than cost or brand loyalty.",
-        "AnthropiC has been expanding its market reach by focusing on offering an end-to-end customizable AI experience, including development tools for building conversational agents and large language models. Their business model is also different as it operates in a proprietary fashion rather than OpenAI's open access approach.",
-        "Research indicates that the free version of ChatGPT lacks certain features or user experiences preferred by paying consumers, leading to AnthropiC seizing market share. The company has managed to attract significant investment from big tech firms like Microsoft and Google."
-      ],
-      "insight": "The increasing choice among paid AI users for Claude suggests that personalized control over technology is becoming a more important factor in consumer decisions than free access or price points alone, potentially reshaping the future of open vs. proprietary models within the industry."
     }
   ]
 }
