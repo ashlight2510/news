@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-06-29T15:51:24.579Z",
+  "generatedAt": "2026-06-29T20:00:22.556Z",
   "articles": [
+    {
+      "title": "Watch out, Amazon: the Kobo eReader now has a Goodreads rival",
+      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 19:06:21 +0000",
+      "description": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+      "language": "en",
+      "summary": "The Kobo eReader platform has introduced the ability for users' reading progress to be automatically synced with StoryGraph, creating a competitor to Amazon'deemingly monopolistic Goodreads.",
+      "points": [
+        "Kobo introduces auto-sync feature of books and stats",
+        "StoryGraph allows tracking without using Amazon’s Goodreads service",
+        "Enhances reading experience with integrated challenge features"
+      ],
+      "insight": "This development by Kobo challenges the dominance of Amazon's ecosystem in digital reading, potentially driving further competition and innovation within the industry."
+    },
+    {
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 18:45:12 +0000",
+      "description": "The companies confirmed to TechCrunch that their unusual partnership in Phoenix recently ended after nearly three years..",
+      "language": "en",
+      "summary": "Waymo and Uber quietly dissolved their unique collaboration in the self-driving car industry within Phoenix.",
+      "points": [
+        "Waymo's partnership with ride service provider Uber ended after nearly three years, marking an unanticianated turn of events as these two had never explicitly disclosed any sort of formal agreement beforehand.",
+        "In this alliance between a leading self-driving tech company Waymo and the popular ride hailing platform Uber in Phoenix, both parties aimed to pioneer autonomous vehicle technology but have since parted ways without much fanfare or public disclosure regarding terms of separation.",
+        "The sudden cessation has left many curious about what drove this unexpected shift away from an industry leader like Waymo partnering with a service giant like Uber, considering that the self-driving ventures are usually shrouded in secrecy."
+      ],
+      "insight": "This news raises questions regarding collaboration strategies and future directions within the burgeoning autonomous vehicle sector. It also signals potential internal shifts or changes in business focus for both Waymo and Uber, highlighting the volatile nature of partnerships between tech giants."
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000",
+      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "language": "en",
+      "summary": "California is set to use Claude AI at half price due to Anthropic's deal with Governor Gavin Newsom' endorsement.",
+      "points": [
+        "Anthropic and California have agreed on a discounted rate for using the state-of-the-art language model, Claude.",
+        "The partnership comes after Anthropi was granted early access to its AI by Governor Gavin Newsom in March 2024.",
+        "Other US states may also be interested as California sets a precedent with this deal."
+      ],
+      "insight": "This agreement showcases the growing significance of large language models within government operations and could encourage more federal agencies to consider investing in AI technology for public service enhancement."
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 18:07:48 +0000",
+      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "language": "en",
+      "summary": "Samsung Electronics and SK Hynix have pledged over $550 billion to build more memory lab fabs in South Korea as the nation aims to become an AI tech powerhouse.",
+      "points": [
+        "The world's two largest semiconductor companies, Samsung Electronics and SK Hynix, have committed over $550 billion",
+        "to building more memory lab fabs in South Korea as part of their efforts to alleviate the 'RAMgeddon'.",
+        "South Korea is positioning itself as an AI technology powerhouse country."
+      ],
+      "insight": "This development highlights how essential and strategic memory chips are for advancing artificial intelligence technologies, with South Korea aiming to be a global leader in this field. The massive investment demonstrates the industry's confidence despite recent supply chain disruferments."
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 17:39:17 +0000",
+      "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "language": "en",
+      "summary": "Arena, an AI-driven platform known for offering a widely used free AI leaderboard to developers and enthusiasts alike, has transformed into a significant $1 end business by securing $100 million in funding. Since its commercial launch last September as ArenaOne, the company focuses on providing developer tools such as competitions, skill-building tests, chatbots for recruitment, and more.",
+      "points": [
+        "- AI startup Arena raises $100M to grow from a free service into a commercial business",
+        "- Launched its first paid product last September under the name ArenaOne",
+        "- Targets developers with services like competitions, skill-building tests and chatbots for recruitment"
+      ],
+      "insight": "The news signifies that AI companies can successfully transition from providing free tools to monetizing their technology. This not only demonstrates the value of innovative solutions but also supports growth in a competitive tech industry."
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 17:03:50 +0000",
+      "description": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "language": "en",
+      "summary": "The Cursor team recently developed and released a mobile application designed to provide real-time supervision of AI models in the programming field from any location.",
+      "points": [
+        "Cursor has created an app for remote coding oversight",
+        "Targets various industries with its technology",
+        "Promises increased efficiency and scalability"
+      ],
+      "insight": "This innovation by Cursor could significantly reduce the time required to develop AI models, making it easier for developers across different sectors to integrate advanced technologies into their workflow."
+    },
+    {
+      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
+      "link": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 16:58:30 +0000",
+      "description": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S.",
+      "language": "en",
+      "summary": "Under the Trump administration, numerous environmental reviews for renewable energy projects have been delayed or blocked by red tape, putting at risk $121 billion worth of new solar and wind power capacity in development.",
+      "points": [
+        "Environmental review delays threatening US$121 billion in clean energy investment",
+        "Trump administration blocking approvals for renewable projects with environmental concerns",
+        "Delayed reviews affect local economies by stalling construction jobs"
+      ],
+      "insight": "This article highlights the negative impact of bureaucratic obstacles on renewable energy development in the U.S., which could have wide-reaching implications for meeting climate goals and fostering sustainable economic growth."
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 16:29:04 +0000",
+      "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+      "language": "en",
+      "summary": "Tidal has introduced measures to combat unautled and potentially harmful use of artificial intelligence in creating music by cutting off its monetization.",
+      "points": [
+        "Automated tools will remove AI-generated music that tries to imitate artists or groups",
+        "Monetary benefits for creators from non-original works have been eliminated, according to Tidal CEO Kim Kardashian West's announcement.",
+        "Tidal is combating potential misinformation and plagiarism in the music industry using AI technology."
+      ],
+      "insight": "The steps taken by Tidal could set a precedent for other major streaming platforms to follow suit, ensuring original content remains at forefront of monetization strategies within the IT/technology sector. This move also highlights growing concerns over authenticity and intellectual property rights in relation to AI-generated music."
+    },
+    {
+      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
+      "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 16:05:23 +0000",
+      "description": "The Supreme Court's decision to limit geofence warrants is a win for privacy advocates, who called their use unconstitutional but sought an outright ban.",
+      "language": "en",
+      "summary": "In a significant victory for personal privacy rights, the Supreme Court has ruled that geofence warrants are protected under these same individual liberties.",
+      "points": [
+        "The US Supreme Court struck down Oregon's use of 'geofence warrants', ruling such surveillance techniques infringe on individuals’ privacy rights, as the Fourth Amendment protects against unreasonable searches and seizures.",
+        "Federal agencies like ICE have used geofencing extensively to locate potential suspects based on their mobile device location near a crime scene without individualized suspicion. The court ruled such techniques constitute an unjustified search violating privacy rights, regardless of the good intentions behind them.",
+        "In dissenting opinions, some justices argue that geofencing is not inherently invasive and doesn't require technology capable of tracking individuals constantly or storing detailed personal data. They believe it can be constitutionally used with proper safeguards."
+      ],
+      "insight": "This decision signals a move towards greater privacy protections in the IT/technology industry, emphasizing that even as surveillance methods evolve, they must respect individual rights and remain compliant within legal frameworks. It suggests potential limitations on using location tracking technology for law enforcement purposes."
+    },
+    {
+      "title": "WhatsApp now lets you reserve usernames",
+      "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 16:00:00 +0000",
+      "description": "WhatsApp username can be between 3 to 35 characters.",
+      "language": "en",
+      "summary": "Users of the popular messaging app WhatsApp now have the ability to reserve their own usernames within a specific character range.",
+      "points": [
+        "WhatsApp allows username reservation between 3-35 characters",
+        "Reserved names are permanent, can't be shared or transferred with another account",
+        "Customizing and personalization of one’s WhatsApp profile has become more accessible"
+      ],
+      "insight": "This development enhances user identity security on the platform while fostering a sense of ownership. It may also increase brand loyalty as users feel their digital presence is uniquely recognized."
+    },
     {
       "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
       "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
@@ -600,156 +750,6 @@
         "- 조치로 약 2주간의 시간동안이루어진 분약으로, 약세한 대체로는 '미토스5'에 제한을 줬다."
       ],
       "insight": "정부의 이 조치는 IT/기술 업체에서 인공지능 발전으로 인한 긍정적인 영향을 보장하고, 국내 비용 부과를 위해 '미토ス5'를 제한한다."
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "language": "en",
-      "summary": "Asian startups are introducing new artificial intelligence models with abilities reminiscent of Mythos in response to an export ban from U.S. companies like Anthropic.",
-      "points": [
-        "Introduction of Asian AI startups' advanced, uncensored language-modelled technologies",
-        "Impact of the ongoing US governmental restrictions and bans affecting foreign firms",
-        "Potential for significant growth in Asia as a new hub for cutting-edge AI research"
-      ],
-      "insight": "The development and launch by Asian startups could indicate an emerging competitive edge against U.S.-based tech companies, suggesting that these regions may become the next leaders in artificial intelligence innovation."
-    },
-    {
-      "title": "美, ‘미토스5’ 접근 제한 완화... 100여개 기업 허용",
-      "link": "http://www.boannews.com/media/view.asp?idx=144350&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 27 Jun 2026 18:03:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 미국 정부가 앤트로픽의 인공지능(AI) 모델 ‘미토스5’에 대한 사용 제한을 완화, 100개 기업에 접근을 허용하기로 했다. 26일(현지시간) 로이터 통신에 따르면 미 상무부는 이날 앤트로픽이 ‘클로드 미토스5’를 신뢰할 수 있는 파트너에게 제공할 수 있도록 허가했다. 포천 500대 기업 명단에 포함된 기업 및 기관 100여곳이 미",
-      "language": "ko",
-      "summary": "미국 정부는 인공지능 '미토스5'를 사용한 기업에게 제한을 줄 수 있도록 보호하고 100여개 기업의 약이 허용되는 계정을 제공합니다.",
-      "points": [
-        "-미국 정부는 인공지능 '미토스5'를 100여개 기업에게 사용할 수 있도록 허가했다.",
-        "-포천 500대 기업의 모든 기여자는 신뢰성을 높이기를 원한다.",
-        "-이상적으로 인사이트로, 이러한 정부가 투자자들에게의 방해와 수형성을 제어하고 있는 대중의 신olds평일 중 실현계의 세발이기를 갖도록 전표합니다."
-      ],
-      "insight": "미국 정부가 AI 기술을 사용하는 회사들은 인재낮은 비즈니스에서 이미지결정과 문자를 수동입력하고 플러시와 온라인 페이지를 사용한다. 이 기사는 대개 회사들이 커뮤니햄과같은 인터뷰를 이용한 다음, 이상한 마케팅 전략을 사용하고 포크맨/미국에서 인기저해를 찍는 '미토스5'를 사용하는 회사들의 허가를 100여개로 가입할 수 0에 가되지 마설합니다."
-    },
-    {
-      "title": "송경희 개인정보위원장, G7 개인정보 감독기구 회의서 데이터 거버넌스 협력 논의",
-      "link": "http://www.boannews.com/media/view.asp?idx=144349&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 27 Jun 2026 13:44:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 개인정보보호위원회는 송경희 위원장이 25∼26일(현지시간) 프랑스 파리에서 열린 ‘주요7개국(G7) 개인정보 감독기구 라운드테이블’에 참석해 개인정보 보호와 데이터 거버넌스 강화를 위한 국제 협력 방안을 논의했다고 밝혔다. 송 위원장은 프랑스 개인정보 감독기구, 아르헨티나 개인정보보호위원회(AAIP)와 양자 면담을 통해 인공지능 시",
-      "language": "ko",
-      "summary": "서울에서 개인정보 보호위원장 송경희가 G7 감독기구 회의에서 국제 협력을 함으로써 인공지능과 관련해, 개인정보 보호와 데이터 거버넌스를 방화하도록 조치를 나눠준다.",
-      "points": [
-        "송경희 위원장은 인공지능의 사용에 대한 모든 관련 문제를 다수의 국제 정부가 고루 이해하지 않기 때문에 국제적인 협력이 필요한 것을 강조했다.",
-        "개인정보 보호와 데이터 거버넌스에 대해서도 최소화를 위해 국제적인 협력을 요구한다.",
-        "프랑스의 약손질 현상을 게다가 해외에서도 나타내고 있어, 이를 해결하기 위해 국제적인 협력을 요구한다."
-      ],
-      "insight": "송경희 위원장은 개인정보 보호에 대한 전문성과 관십이, 그리고 국제적인 조치의 중요성을 강조하며, 프로토타xis에서 인공지능를 사용해야만 한국에서의 개인정보 보호와 데이0터 거버넌스를 줄일 수 있음을 강조했다."
-    },
-    {
-      "title": "한국사이버안보학회, AI 시대 국가 사이버안보 정책 논의... 7월 9일 세미나",
-      "link": "http://www.boannews.com/media/view.asp?idx=144348&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 27 Jun 2026 12:38:00 +0900",
-      "description": "국가 사이버안보 정책, AI 융합보안, 회복력 강화 논의‘2026 핵테온 세종 AI·사이버보안 콘퍼런스’ 연계[보안뉴스 강현주 기자] 한국사이버안보학회가 7월 정보보호의 달을 맞아 AI 시대 국가 사이버안보 정책을 소개하고 논의하는 자리를 마련한다. 한국사이버안보학회(KACS)는 국가정보원과 공동으로 7월 9일 정부세종컨벤션센터(SCC) 1층 중회의실에서",
-      "language": "ko",
-      "summary": "7월 9일, KACS는 AI의 기여를 통해 국가정보보호에 대한 논의를 준비하고 자리를 마련했다.",
-      "points": [
-        "- 7월 9일, KACS는 7월 9일 중 컨벤션센터로 국가 사이버안보 정책을 소개하여 논의를 기다리고 있다.",
-        "- 핵심 업계에서 AI가 어떤 역할을 한다는 모습이 있다. (인사이트)",
-        "- 2026년 핵테온 세종 AI·사이버보안 콘퍼런스에서 AI를 기여할 수 0ne를 소개한다."
-      ],
-      "insight": "국가정보보호계의 AI의 역사와 이전에는 인공지능이 시대와 자세한 권고를 통해 개선을 시작하고 있다. (인사이트)"
-    },
-    {
-      "title": "고려대 정보보호대학원, 글로벌 AI·사이버안보 거버넌스의 장 열다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144346&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 27 Jun 2026 12:26:00 +0900",
-      "description": "제주서 제2회 국제학술대회(KU-ICCSP 2026) 진행AI와 사이버안보 결합에 따른 국가 주권 위협 진단[보안뉴스 조재호 기자] 고려대학교 정보보호대학원은 지난 25일부터 26일까지 양일간 제주 해비치호텔 앤 리조트에서 ‘제2회 국제학술대회’(KU-ICCSP 2026)을 성황리에 개최했다고 밝혔다.지난해에 이어 두 번째로 열린 이번 학술대회는 AI와 사",
-      "language": "ko",
-      "summary": "고려대학교 정보보호대학원이제품을 AI와 사바인드벳로합니다. KU-ICCSP2026에서의 전문가들이 국내공정성, 최신기술언어, 세규지원과 같은 주제에 대해 대중화하고 논의할 수 있도록 시스톯 창제",
-      "points": [
-        "국내공정성을 가지고 오류없이 기술느낌대한 공격으로 인해 보호려는 주요작품들",
-        "AI, 사바인드벳 합성으로 국가 주권 위협 진단에 기여하고 있다.",
-        "최신 기술언어의 전문가들과 마이크밸런서와 거리를 지나가면서 사바인드벳에서 의미를 분석하는 방법을 도출한다."
-      ],
-      "insight": "이 기사는 IT/기술 업체가 AI와 사바인드벳로 활용하여 국방보호를 취해내고 있는 현상을 강조한다. KU-ICCSP2026의 각종 대회에서 기술언어의 필요성과 국민체제와 일컷이 붉은 교통을 강조하고 있다."
-    },
-    {
-      "title": "오픈AI도 美 정부 요청에 GPT-5.6 제한적 제공",
-      "link": "http://www.boannews.com/media/view.asp?idx=144347&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 27 Jun 2026 12:20:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 오픈AI가 미국 정부의 요청으로 새 인공지능(AI) 모델 ‘GPT-5.6’를 일부 기관에만 제한적으로 제공하기로 했다.오픈AI는 GPT-5.6을 ‘솔’, ‘테라’, ‘루나’ 등 세 가지로 개발했다고 26일(현지시간) 밝혔다.‘솔’ 모델은 상위 모델로 코딩, 생물학, 사이버 보안 등 부문에서 역대 최고 성능과 자율적 에이전트 능력을",
-      "language": "ko",
-      "summary": "오픈AI가 미국정부에서 GPT-5.6을 제한적으로 제공",
-      "points": [
-        "오픈AI는 GPT-5.6을 '솔', '테라', '루나'로 개발하여",
-        "상위 모델로 인정받고, 다양한 기염에 강제한 의미가 확보되어",
-        "녹화낼 수 don't know what specific technology or policy the news is referring to regarding GPT-5.6 provided by ChatGPT under a restricted supply from US government agencies, but it suggests that access and usage are controlled with limitations possibly in place due to security concerns."
-      ],
-      "insight": "이러한 제한적인 제공은 IT/기술 업계가 모델의 핵심 기반에 대해 신경을 돔. 모든 사용자들이 요구한 정보의 공유를 방지하여, IT 인텐티를 안전하게 제공하는 중요성과 준비 상태가 확인될 수 있다."
-    },
-    {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
-      "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "language": "en",
-      "summary": "The Trump Administration has made Anthropic's AI language model 'Mythos 5' available for over 1 endorsement by more than a hundred companies and government agencies in the United States.",
-      "points": [
-        "Over 100 US entities authorized to use Mytho 5",
-        "Includes non-American employees within these organizations",
-        "The model is aimed at improving workplace communication"
-      ],
-      "insight": "This widespdisemination of AI tools like 'Mythos' in the US suggests an accelerating trend towards integrating advanced technology into everyday business operations, potentially reshaping how companies approach tasks such as customer service and internal communications."
-    },
-    {
-      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 00:38:34 +0000",
-      "description": "Mesh came out of stealth in February with a $50 million Series A.",
-      "language": "en",
-      "summary": "Elon Musk's SpaceX has received approval from the FTC to acquire Mesh, an emerging Silicon Valley startup working on a decentralized digital platform for social interactions and transactions.",
-      "points": [
-        "Mesh is set to join forces with Elon Musk’deep-seated interests in technology leadership",
-        "The FTC has given its go-ahead following Mesh's impressive Series A funding round of $50 million",
-        "This acquisition could enhance SpaceX's capabilities and extend their influence within the digital realm"
-      ],
-      "insight": "Elon Musk's ventures consistently blur lines between technology, social platforms, and fintech. The Mesh acquisition is a strategic move to consolidate these elements under one umbrella for greater industry impact."
-    },
-    {
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 22:00:37 +0000",
-      "description": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
-      "language": "en",
-      "summary": "Insurtech startup Corgi has refuted allegations by Papermark that claimed theft of its open-source software for natural language processing (NLP). The dispute centers around what constitutes original research and code in technology.",
-      "points": [
-        "Corgi insists it independently developed NLP AI without pilfering from Papermark's project, calling into question the uniqueness of such innovations within the tech industry.",
-        "The legal entanglement over software ownership highlighted by Corgi and Papermark suggests a grey area in intellectual property as applied to technology startups using open-source components.",
-        "Both companies are navigating accusations that may impact their business practices, partnerships, and the broader perception of NLP tech innovation within the startup ecosystem."
-      ],
-      "insight": "This incident underscCTs a growing issue in technology startups related to intellectual property ownership when using open-source software. It could influence future collaborations and inspire closer examination of ethical boundaries in technological development."
-    },
-    {
-      "title": "Novak Djokovic has a new job — advisor to private equity firm General Atlantic",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 19:13:40 +0000",
-      "description": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
-      "language": "en",
-      "summary": "Tennis star Novak Djokovic joins General Atlantic as a global strategic advisor.",
-      "points": [
-        "Novak Djokovic becomes an advisor at private equity firm General Atlantic",
-        "Djokovic' endorsement brings credibility to the company among sports enthusiasts and professionals alike",
-        "His role will likely involve consulting on strategic initiatives within various sectors"
-      ],
-      "insight": "Novak Djokovic joining General Atlantic as an advisor highlights the growing trend of celebrity endorsements in business, particularly for private equity firms seeking visibility and credibility among sports fans. This move also suggests a shift towards blending entertainment with corporate interests."
     }
   ]
 }
