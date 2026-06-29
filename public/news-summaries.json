@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-06-29T11:16:06.438Z",
+  "generatedAt": "2026-06-29T15:51:24.579Z",
   "articles": [
+    {
+      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+      "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 15:02:07 +0000",
+      "description": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
+      "language": "en",
+      "summary": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX",
+      "points": [
+        "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 14:00:08 +0000",
+      "description": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "language": "en",
+      "summary": "Robot hand company Proception settles Tesla trade secret suit and secures $11 million raise for training data collection.",
+      "points": [
+        "Proception settled a lawsuit with Tesla related to alleged misappropriation of robotic hand technology, agreeing not to assert claims regarding the use or disclosure of information learned from jointly-developed projects at HP. Proception will pay damages in exchange.",
+        "$11 million investment secured by Robotics Startup for training data collection",
+        "The startup is adopting a novel approach using artificial intelligence and machine learning to gather valuable hand movement datasets through human motion capture."
+      ],
+      "insight": "Proception' endorsement as innovators in AI-driven robotic hands may lead the industry, setting new standards for collective development efforts between startups and tech giants like Tesla. Additionally, this investment reinforces a trend of big data usage to train machine learning models that could revolutionize industrial applications."
+    },
+    {
+      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+      "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 13:16:00 +0000",
+      "description": "Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.",
+      "language": "en",
+      "summary": "Pocket has secured $11M in funding for its AI note-taking device designed as a credit card shape that attaches to the back of phones, promising unlimited recordings and transcriptions.",
+      "points": [
+        "- Pocket raises $11M seed round with backing from notable venture capital firm Andreessen Horowitz",
+        "- The company's AI-powered device offers cloud services for note-taking, recording, to-do lists and integrates with popular productivity tools like Slack.",
+        "- Pocket seeks funding as the demand grows in remote workpner environments"
+      ],
+      "insight": "This investment by Andreessen Horowitz is significant for AI startups looking to tap into essential office technology markets, especially given their growing role due to increased adoption of digital tools during periods like pandemics."
+    },
+    {
+      "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
+      "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "description": "Flipper Device's new Busy Bar will retail for $249.",
+      "language": "en",
+      "summary": "The Flipper device introduces the 'Busy Bar', a customizable display aimed at improving productivity through personalized interfaces and notifications.",
+      "points": [
+        "Flipper Device'th new Busy Bar will retail for $249",
+        "Designed to improve efficiency, it provides users with the ability to tailor their workspace via easy-to-understand icons that represent different tasks or messages",
+        "The technology incorporates machine learning algorithms enabling priority setting and minimizing distractions through intelligent notifications management"
+      ],
+      "insight": "As companies continue searching for ways to enhance employee productivity, the Flipper Device's Busy Bar represents a personalized approach that could significantly impact workplace efficiency by streamlining task organization and reducing digital clutter."
+    },
+    {
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "description": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "language": "en",
+      "summary": "Omen AI's funding for monitoring chip coolants is not going as planned due to a failed test on Wednesday which caused an 'all wet situation.'",
+      "points": [
+        "Despite raising $31 million in Series A, Omen AI struggles with testing its system.",
+        "An unsuccessful chip coolant monitoring trial led by the company resulted in a failed test on Wednesday.",
+        "Omen's CEO and co-founder believe their technology has merit despite recent setbacks."
+      ],
+      "insight": "Recent challenges faced by Omen AI serve as an industry reminder that even innovative technologies in data center optimization must undergo rigorous testing before deployment, highlighting the need for resilience and adaptability within IT projects."
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관 49] 낮말은 새가 듣고 밤말은 쥐가 듣는다(9)-명의도용, 모르게 당하는 이유",
       "link": "http://www.boannews.com/media/view.asp?idx=143636&kind=&sub_kind=",
@@ -675,79 +750,6 @@
         "His role will likely involve consulting on strategic initiatives within various sectors"
       ],
       "insight": "Novak Djokovic joining General Atlantic as an advisor highlights the growing trend of celebrity endorsements in business, particularly for private equity firms seeking visibility and credibility among sports fans. This move also suggests a shift towards blending entertainment with corporate interests."
-    },
-    {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000",
-      "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "language": "en",
-      "summary": "OpenAI has temporarily limited rollouts of GPT-5.6 following a government request for access to the technology's data processing mechanisms. The company believes such measures should not become standard practice and could hinder progress in AI development.",
-      "points": [
-        "Government regulators from several countries have requested details about how specific text-based technologies, like GPT-5.6, operate to identify potential misuse or harmful applications."
-      ],
-      "insight": "The temporary limitations imposed by OpenAI on its AI following government requests reflect a broader debate within the industry regarding privacy and surveillance concerns while developing advanced technologies like language models."
-    },
-    {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 18:19:36 +0000",
-      "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "language": "en",
-      "summary": "OpenAI has appointed Uber India'th Chief Technology Officer to lead its biggest market outside the US.",
-      "points": [
-        "Uber's CTO move reflects OpenAI’s expansion into Indian tech space",
-        "The hire is a strategic step for both companies in tapping new markets and forming valuable partnerships",
-        "OpenAI plans to extend its reach within the country through this appointment"
-      ],
-      "insight": "This news indicates OpenAI's intent to strengthen their foothold not only as an AI research firm but also into practical applications in emerging markets like India."
-    },
-    {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000",
-      "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
-      "language": "en",
-      "summary": "Nvidia has long dominated AI chip manufacturing but faces increasing competition as industry giants like OpenAI, Google, Apple, and SpaceX develop custom chips to reduce reliance on single suppliers.",
-      "points": [
-        "OpenAI announced the development of its own inference chip called Jalapeño in collaboration with Broadcom.",
-        "Other tech companies are also building their own AI accelerators to avoid being overly dependent on Nvidia'sel dominance.",
-        "This trend indicates a shift towards self-reliance and custom solutions within the industry."
-      ],
-      "insight": "The news suggests an imminent diversification in AI chip supply, potentially altering market dynamics and fostering innovation through tailored computing resources. This move could also prompt Nvidia to adapt or lose significant influence over the future direction of AI technology development."
-    },
-    {
-      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
-      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 17:29:29 +0000",
-      "description": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.",
-      "language": "en",
-      "summary": "A report links Russian state-sponsored hackers to a $2.5 billion cyber attack on car manufacturer Jaguar Land Rover.",
-      "points": [
-        "The massive data breach infiltrated the company's systems, exposing sensitive information and causing substantial disruption.",
-        "Investigations revealed that Russian hackers were responsible for this sophisticated attack on one of Britain’s biggest companies by value.",
-        "This incident raises concerns about industrial espionage as a motive behind the cyber-attack, pointing to potential economic impact beyond immediate damages."
-      ],
-      "insight": "The Jaguar Land Rover hack underscores growing threats of state-sponsored attacks aimed at high-value companies within critical industries. It highlights an urgent need for enhanced cybersecurity measures and international cooperation to protect against economic espionage."
-    },
-    {
-      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 26 Jun 2026 16:32:55 +0000",
-      "description": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
-      "language": "en",
-      "summary": "Tesla has settled a lawsuit related to a fatal crash in March 2curred by an autonomous vehicle using its Full Self-Driving (FSD) technology.",
-      "points": [
-        "The $40 million settlement of the FSD-related accident case represents one among several legal challenges Tesla is facing due to crashes involving their vehicles with advanced driving features engaged.",
-        "Tesla's Full Self-Driving system has come under scrutiny and federal investigations following these incidents, indicating regulatory concerns over the technology.",
-        "The settlement implies that while there may be legal repercussions for Tesla in individual cases of FSD malfunction or misuse leading to accidents."
-      ],
-      "insight": "This incident highlights ongoing safety and reliability concerns regarding advanced driver assistance systems, underscoring the need for stricter regulations and oversight by tech companies like Tesla in developing autonomous driving technologies."
     }
   ]
 }
