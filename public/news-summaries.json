@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-06-29T20:00:22.556Z",
+  "generatedAt": "2026-06-30T03:48:00.352Z",
   "articles": [
+    {
+      "title": "과기정통부, 양자내성암호 전환 이끌 인재 육성... 교육생 모집 시작",
+      "link": "http://www.boannews.com/media/view.asp?idx=144403&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0900",
+      "description": "개발과정, 전환과정, 실무과정 총 3개 과정[보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 장관 배경훈)와 한국인터넷진흥원(KISA, 원장 이상중)은 양자내성암호 전환을 이끌 전문인력을 양성하기 위해 ‘양자내성암호 전문교육’을 7월부터 11월까지 순차적으로 운영한다고 밝혔다.최근 양자컴퓨터 기술이 빠르게 발전하면서 기존 암호체계에 대한 보안 위협이 현",
+      "language": "ko",
+      "summary": "KISA와 부총리겸이 7월에서 11월까지 '양자내성암호 전문교육'을 운영하여 전문인구를 받아오는 목표",
+      "points": [
+        "-과기정보보안공사와 KISA가 7월에서 11월까지 '양자내성암호 전문교육'을 운영한다.",
+        "-이 모든 과정은 양자컴퓨터 기술의 발전과 같이 즉시적으로 발생하고 있다.",
+        "-이러한 기술들은 일본, 중국, 프랑스에서도 공용으로 사용되고 인간의 보안을 위혨하게 만들고 있다."
+      ],
+      "insight": "이 기사는 IT/기술 업체에서 인구가 모호되어 자신의 전문인구를 얻어야 함에 대한 보안 위협을 방화하는 이슈로 직면. KISA와 부총리겸이 '양자내성암호 전문교육'을 진행해 인구를 받아옵니다."
+    },
+    {
+      "title": "설문조사 1위 엠브레인 패널파워, 크리덴셜 스터핑 피습",
+      "link": "http://www.boannews.com/media/view.asp?idx=144402&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 11:48:00 +0900",
+      "description": "나이·직업·소득 등 민감한 개인정보 집중된 DB 무단 침입 시도 포착연이은 해킹 사고 여파? 엠브레인 긴급 공지 통해 비밀번호 변경 권고[보안뉴스 조재호 기자] 마크로밀엠브레인이 운영하는 설문조사 플랫폼 엠브레인 패널파워에서 ‘크리덴셜 스터핑’(Credential Stuffing) 공격으로 추정되는 비정상적 로그인 시도가 대거 포착됐다. 회사 측은 홈페이지",
+      "language": "ko",
+      "summary": "설문조사 포함한 비밀번호 변경권가 위기로 동작중이다.",
+      "points": [
+        "엠브레인 팩터팔 회사에서 '크리덴셜 스터핑' 공격을 보증",
+        "회사 전용 비밀번호 변경 권과를 보상하고 있다.",
+        "이로인해 해외 커뮤니테이집을 방문할 수도 없다."
+      ],
+      "insight": "이 결과는 IT/기술 업체에서의 이용자 안전성에 영향을 미치게 한 Credential Stuffing 공지 사유로즈밀샷."
+    },
+    {
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 30 Jun 2026 02:28:41 +0000",
+      "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "language": "en",
+      "summary": "Vibe's subsidiary Base44 is launching its proprietary machine learning (ML) and natural language processing (NLP) AI model as it seeks competitive edge in the tech market.",
+      "points": [
+        "Base44 has developed a cutting-edge ML and NLP model for coding projects within their platform, aiming to provide users with enhanced productivity tools tailored specifically towards web development needs.",
+        "With increasing demand from startups requiring customized solutions that extend beyond the capabilities of competitors like GitHub Copilot or Databricks Playground, Base44's unique approach intends to fill this market gap and provide long-term defensibility in its product offerings.",
+        "The launch comes as a strategic move by Wix for Vibe that allows them to monetize their investment while offering additional value through AI integration."
+      ],
+      "insight": "This news signifies the importance of developing unique, tailored models in software development platforms and shows how startups are actively seeking out these differentiators within a competitive landscape where frontier technologies like GPT-3 have already set high standards for AI capabilities."
+    },
+    {
+      "title": "한국정보통신자격협회, 2026년 제3회 국가공인 자격시험 원서 접수",
+      "link": "http://www.boannews.com/media/view.asp?idx=144400&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 11:26:00 +0900",
+      "description": "국가공인 네트워크 관리사 2급과 국가공인 PC정비사 2급 원서 접수행정안전부 고시에 국가공인 영상정보관리사 자격 소지자 우대 배치 근거 명시[보안뉴스 엄호식 기자] 한국정보통신자격협회(ICQA)는 6월 30일부터 7월 3일까지 ‘2026년도 제3회 국가공인 자격시험’ 원서접수를 진행한다고 밝혔다. 이번 접수 대상 종목은 ‘국가공인 네트워크관리사 2급’과 ‘",
+      "language": "ko",
+      "summary": "국가공인 네트워크 관리사 2급과 국가공인 PC정비사 2급 원서 접수행정안전부 고시에 국가공인 영상정보관리사 자격 소지자 우대 배치 근거 명시[보안뉴스 엄호식 기자] 한국정보통신자격협회(ICQA)는 6월 30일부터 7월 3일까지 ‘2026년도 제3회 국가공인 자격시험’ 원서접수를 진행한다고 밝혔다. 이번 접수 대상 종목은 ‘국가공인 네트워크관리사 2급’과 ‘",
+      "points": [
+        "이번 접수 대상 종목은 ‘국가공인 네트워크관리사 2급’과 ‘",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "7월 6일부터 휴대폰 개통 안면인증 도입... “범죄악용 대포폰 방지”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144399&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 11:11:00 +0900",
+      "description": "‘휴대전화 부정사용 방지 종합대책’ 추진10월 시행령 개정으로 법적 근거 마련[보안뉴스 강현주 기자] 7월 6일부터 휴대전화를 개통할 때 신원확인을 강화하기 위한 안면인증 절차가 단계적으로 시행된다. 10월에는 관련 법적 근거도 마련될 예정이다.과학기술정보통신부(부총리 겸 장관 배경훈)는 명의도용과 범죄에 악용되는 대포폰 방지 내용을 담은 ‘휴대전화 부정사",
+      "language": "ko",
+      "summary": "7월 6일부터 파이어폰인증은 신원검사 강화로 범죄 방지으로 연계",
+      "points": [
+        "7월에 시작한 휴대전화 부정사용 방지 안면인증 절차는 신원검사를 강화하여 범죄 방지",
+        "- 7월 6일부터 사용자가 이미 속이어진 전화에서 신명계획을 수행한다.",
+        "- 전화사용자는 신명계효과를 눌보드로 나타내며, 신속검사기기는 이 서명 방식을 수행한다."
+      ],
+      "insight": "인증을 위해 전화자가 누뭇니로 또는 누벼셔를 나타내면서, 신속검사기기가 이를 확인하여 신명을 얻어내는 의미가 있다."
+    },
+    {
+      "title": "[인터뷰] 황수익 시큐리티플랫폼 대표이사 “AI 해킹 시대, 보안의 시작은 네트워크가 아니라 ‘디바이스’다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144396&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 11:11:00 +0900",
+      "description": "생성형 AI 확산 속 디바이스 무결성 확보가 새로운 보안 패러다임으로 부상TEE 기반 디바이스 보안으로 온디바이스 AI·방산 시장 공략 본격화[보안뉴스 강초희 기자] AI가 해킹하는 시대가 열렸다. 생성형 AI는 시스템 취약점을 스스로 탐색하고 공격 코드를 생성하며 사이버 공격의 속도와 규모를 완전히 바꿔놓고 있다. 이에 따라 네트워크나 애플리케이션이 아닌",
+      "language": "ko",
+      "summary": "생성형 AI 확산 속 디바이스 무결성 확보가 새로운 보안 패러다임으로 부상TEE 기반 디바이스 보안으로 온디바이스 AI·방산 시장 공략 본격화[보안뉴스 강초희 기자] AI가 해킹하는 시대가 열렸다. 생성형 AI는 시스템 취약점을 스스로 탐색하고 공격 코드를 생성하며 사이버 공격의 속도와 규모를 완전히 바꿔놓고 있다...",
+      "points": [
+        "생성형 AI 확산 속 디바이스 무결성 확보가 새로운 보안 패러다임으로 부상TEE 기반 디바이스 보안으로 온디바이스 AI·방산 시장 공략 본격화[보안뉴스 강초희 기자] AI가 해킹하...",
+        "생성형 AI는 시스템 취약점을 스스로 탐색하고 공격 코드를 생성하며 사이버 공격의 속도와 규모를 완전히 바꿔놓고 있다",
+        "이에 따라 네트워크나 애플리케이션이 아닌"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "규제서 책임으로... 금융보안원, 금융 보안의 글로벌 스탠다드 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144398&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 11:03:00 +0900",
+      "description": "주요국 디지털 금융 운영 실태조사 발표하며 한국형 프레임워크 방향성 제시망분리 규제 완화 기조 속에서 각 사 특성 고려한 맞춤형 보안 거버넌스 필요해[보안뉴스 조재호 기자] 금융보안원이 주요국 금융권의 자율보안체계 운영 현황 조사 결과를 발표하며, 망분리 규제에서 벗어난 선진 자율보안 프레임워크 도입의 필요성을 시사했다. 금융보안원은 30일 급변하는 보안",
+      "language": "ko",
+      "summary": "한국의 근로자들이 선진 자율보안에 대한 항발을 요구한다.",
+      "points": [
+        "금융보안원은 재무적으더라서, 기업이 규제를 조정하여 자율보안 프로젝트에 대한 자세한 보고를 요구하고 있다.",
+        "선진 자율보안의 도켰니 기업이 현재 근로자가 이어지는 모델을 유지할 수 0에 준비해야 한다.",
+        "국내와 영위와의 조정은 광고공격자에 대한 보안침예방에도 기여할 수 thn있다."
+      ],
+      "insight": "이러한 요구와 조정은 IT/기술 업계가 자산을 보호하는 데 큰 의미를 부여하고, 다리처리에 대한 공동운전으로 활용될 수 있습니다."
+    },
+    {
+      "title": "[해킹을 결제하시겠습니까?] #8. 내 카드값이 수상하다? 명세서부터 확인하자",
+      "link": "http://www.boannews.com/media/view.asp?idx=144274&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 10:59:00 +0900",
+      "description": "카드 명세서는 총액보다 결제 내역이 더 중요해... 확인 필수처음 보는 가맹점·소액 결제·해외 결제는 이상 거래 신호일 수 있어사용하지 않는 구독 서비스의 자동결제 여부도 정기적으로 확인 필요[보안뉴스 강초희 기자] 카드 정보 유출 사고는 대부분 거액 결제보다 작은 금액에서 시작된다. 실제 금융사기 사례를 보면 수천원 수준의 소액 결제나 낯선 해외 가맹점",
+      "language": "ko",
+      "summary": "예산이 초보자에게 아니면 항상 신용카드를 사용하지 몰라도.",
+      "points": [
+        "- 예산보다 결제 내역이 중요하고",
+        "- 저희가 해외거래나 낯선 가맹점결제를 자동결제하지 마세요.",
+        "액수정을 주기적으로 확인해야 한다."
+      ],
+      "insight": "서비스앞서 보내신 거래는 확실히 아니세요. 일반적으로 소액 결제가 중요하고 해외 거래나 낯선 가맹점의 경우 자동결제를 허용시키지 마세요."
+    },
+    {
+      "title": "[이슈칼럼] 드론의 활성화를 통해 살펴본 기술 발전의 양면성",
+      "link": "http://www.boannews.com/media/view.asp?idx=144376&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 10:51:00 +0900",
+      "description": "편리한 도구 드론, 항공 안전·사생활·보안 질서에 직접 영향드론의 기술적 발전과 활용, 그만큼의 책임과 절차 필수[보안뉴스= 박진이 에스알 상임감사] 과학과 기술의 발전은 늘 양면성을 띄어왔다. 휴대전화와 인터넷은 인류의 소통을 혁신하면서도 정보 과부하와 사생활 침해를 낳았고, 원자는 에너지와 의료를 발전시켰지만, 전쟁과 오염의 위협도 함께 가져왔다.이처럼",
+      "language": "ko",
+      "summary": "기사는 탑슬 전자화 시스템의 활성화에 대한 인식과 발전점에서의 미세한 인정을 제시하고 이를 IT/기술 업계에서의 의미나 인사이트를 살풍해봤다.",
+      "points": [
+        "탑슬 전자화 시스템의 활성화를 감지하여 IT/기술 분앞에서 중요한 의미와 인간의 생산적 연결을 나타낸다.",
+        "헬스 워킹 그리고 공정성 제약에 대한 중요성을 강조하여 IT/기술 업체의 활동 이슈를 보완한다.",
+        0
+      ],
+      "insight": "기사는 IT/기술 업계가 사회적 의식을 받아오고자 한다는 이야기로 시사하여, IT/기술 연구와 개인에게 직접적으로 영향을 미치는 현상을 강조한다."
+    },
+    {
+      "title": "전문 지식 없어도 양자컴퓨터 실무 활용... KQC, 차세대 양자 AI 하이브리드 플랫폼 ‘큐비티어’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144397&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 10:47:00 +0900",
+      "description": "“풀고 싶은 것 말하면 나머지는 자동 설계”, 양자컴퓨팅 진입 장벽 허무는 자동화 플랫폼문제 정의 및 수학적 모델 생성, 솔버 최적화 실행까지... AI 에이전트가 전 과정 수행[보안뉴스 한세희 기자] 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 차세대 양자 AI 하이브리드 플랫폼 ‘큐비티어’(KQC Qubiteer)를 정식 출시했다고 30일 밝혔다. 큐비티어는",
+      "language": "ko",
+      "summary": "“풀고 싶은 것 말하면 나머지는 자동 설계”, 양자컴퓨팅 진입 장벽 허무는 자동화 플랫폼문제 정의 및 수학적 모델 생성, 솔버 최적화 실행까지. AI 에이전트가 전 과정 수행[보안뉴스 한세희 기자] 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 차세대 양자 AI 하이브리드 플랫폼 ‘큐비티어’(KQC Qubiteer)를 정식 출시했다고 30일 밝혔다",
+      "points": [
+        "“풀고 싶은 것 말하면 나머지는 자동 설계”, 양자컴퓨팅 진입 장벽 허무는 자동화 플랫폼문제 정의 및 수학적 모델 생성, 솔버 최적화 실행까지",
+        "AI 에이전트가 전 과정 수행[보안뉴스 한세희 기자] 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 차세대 양자 AI 하이브리드 플랫폼 ‘큐비티어’(KQC Qubiteer)를 정식 출시했...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 줄줄 새는 고객 피싱 막는 AI 금융보안",
+      "link": "http://www.boannews.com/media/view.asp?idx=144375&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 30 Jun 2026 10:26:00 +0900",
+      "description": "편리한 디지털 금융... AI 발달로 사이버 위협도 고도화혁신 디지털 서비스는 철저한 보안 갖춘 금융사만 가능[보안뉴스= 배종찬 인사이트케이 연구소장] 최근 디지털 기술의 비약적인 발전으로 금융서비스가 모바일 앱과 스마트폰을 중심으로 급격한 패러다임의 전환을 맞이하고 있다. 언제 어디서나 인증 한 번으로 간편하게 계좌를 개설하고 투자와 거래를 진행하며, 결",
+      "language": "ko",
+      "summary": "최근에는 금융서비스가 모바일 앱과 스마트폰로 계좌개설득체즈 진행",
+      "points": [
+        "이어보는 금융서비스가 권한없이 인증한 모바일 AI로 계좌 개설을 진행",
+        "대근진 수신자들이 금융 서비스에 빠지는 주요인구와 세부인구를 묘사",
+        "체제인식과 AI 보안을 통해 심화된 금융 서비스의 발전"
+      ],
+      "insight": "이러한 진행으로 금융 서비스는 개인정보를 강제로 공유하지 않고 움컷을 예방하여 시장에서의 먼저 전문성을 다직한 것으로 이어주고 있다."
+    },
+    {
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 20:55:50 +0000",
+      "description": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+      "language": "en",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception",
+      "points": [
+        "VCs remain thirsty to fund AI coding startups",
+        "This one, founded by investor Chamath Palihapitiya, is no exception",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "language": "en",
+      "summary": "Google is offering Gemini's personalized AI image generation for free in the U.S., enabling users to generate images reflecting their hobbies and preferences with data from Google apps.",
+      "points": [
+        "Gemini, an advanced chatbot developed by Microsoft, has introduced a feature that generates customizable digital art based on user interests.",
+        "Eligible U.S. users can access Gemini's image generation without cost and directly interact with the AI via messaging apps or website prompts.",
+        "The images created are unique to each individual but possess common elements derived from connected Google services, such as search history."
+      ],
+      "insight": "This service represents a step towards more personalized digital experiences within technology and could lead to increased user engagement with AI-driven platforms in the IT industry. It also highlights potential privacy concerns regarding data usage by chatbots for image generation, which may require transparent communication of how personal information is processed."
+    },
     {
       "title": "Watch out, Amazon: the Kobo eReader now has a Goodreads rival",
       "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
@@ -555,201 +750,6 @@
         "Ford is planning a balanced approach by continuing their investment in AI development alongside hiring skilled professionals to ensure quality."
       ],
       "insight": "This move suggests that while automation and artificial intelligence offer significant advantages, there are still critical situations where human expertise remains indispnerable. The IT/technology industry might need a symbiotic relationship between AI development and human oversight for complex projects like autonomous vehicles."
-    },
-    {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
-      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 28 Jun 2026 17:03:16 +0000",
-      "description": "Has Silicon Valley been building the wrong things?",
-      "language": "en",
-      "summary": "Ian Bogost argues that focusing on simple pleasures and digital experiences can counteract our increasingly impersonal tech-driven lives.",
-      "points": [
-        "The Small Stuff is a playful critique of the overwhelming focus on big technology projects like Silicon Valley' endless pursuit for bigger, better innovations. By celebrating small digital experiences and interactions as important to our social fabric",
-        "Bogost believes that these 'smaller stuffs' could provide us with a sense of grounding amid the chaos brought about by advanced technology.",
-        "The author highlighted how everyday things in life, like sharing recipes on Instagram or live-streaming casual family activities can help people reconnect and reclaim their lives."
-      ],
-      "insight": "This news suggests that there could be a shift towards more personalized technology experiences to foster human connections. It implies the need for creating tech solutions that prioritize meaningful engagement over sheer innovation, potentially prompting reevaluation of industry focus within Silicon Valley and beyond."
-    },
-    {
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 28 Jun 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "language": "en",
-      "summary": "The core content revolves around Tesla's progress on Full Self Driving (FSD) technology with CEO Elon Musk hinting at its imminent availability.",
-      "points": [
-        "Tesla is near the release of a promised, costly 'full self-driving beta', suggesting significant advancin in autonomous driving technologies.",
-        "Elon Musk suggests that he believes full autonomy will soon be reality with his estimate on when it could become available as early as next year or 2024.",
-        "Despite skepticism regarding the cost and safety of beta software for self-driving cars, Tesla is continuously refining its technology."
-      ],
-      "insight": "This development highlights a rapid advancement in autonomous vehicle technology that could reshape mobility. However, it also raises questions about user expectations and safety protocols within the industry as we shift towards more AI-driven transportation systems."
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "language": "en",
-      "summary": "Wall Street is optimistic about US memory maker Micron following the success of Silicon Valley heavyweight Nvidia.",
-      "points": [
-        "Investors and analysts see parallels between Micron's growth trajectory and that of Nvidia, which revolutionized AI computing power in recent years.",
-        "Micron is expanding its memory production capacity by an additional $15 billion to meet growing demand for data centers globally, with plans set over the next few years.",
-        "The company has benefited from a supply chain crunch and increased adoption of cloud computing services."
-      ],
-      "insight": "This confidence in Micron'sinvestors could drive significant growth within the IT/technology industry as memory makers become increasingly critical to data-driven sectors like AI, leading to a potential shakeout among rivals unable to keep pace with demand."
-    },
-    {
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 28 Jun 2026 14:00:00 +0000",
-      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. This $500 premium smart home gadget is aimed at those who crave what’s called “the good ice,” the soft, chewable […]",
-      "language": "en",
-      "summary": "Govee's Smart Nugget Ice Maker Pro is a $500 premium smart home device designed to cater to those who seek 'good ice,' which means soft and chewable for the ultimate beverage experience.",
-      "points": [
-        "The GoveeLife Smart Nugget Ice Maker Pro targets consumers looking for high-quality, personalized drink experiences with its premium pricing.",
-        "With features like pre-set sizes and a 'chewable' ice setting, the device is tailored towards enhancing everyday beverages to feel more luxurious.",
-        "The integration of smart technology in home appliances exemplifies Govee's commitment to innovation beyond just basic functionality."
-      ],
-      "insight": "This news underscores the growing market segment that values experiential aspects, such as ice quality, within everyday items like beverages. Smart technology is increasingly being used to customize and enhance these experiences in home appliances."
-    },
-    {
-      "title": "한국식품산업협회 170개 회원사 개인정보 유출 정황... 11만명 이상 비번 및 연락처 등",
-      "link": "http://www.boannews.com/media/view.asp?idx=144354&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 28 Jun 2026 18:47:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 한국식품산업협회에서 개인정보 유출이 일어난 정황이 발견됐다. 28일 식품업계에 따르면 한국식품산업 협회는 26일 홈페이지에 이 같은 사실을 공지하고, 당사자들에게 개별 문자 메시지로 안내했다.협회에 따르면, 협회의 교육사이트 운영 위탁사인 메디오피아테크에서 6월 24일 시스템 점검 과정에서 외부 공격으로 추정되는 비정상 접근 및 개",
-      "language": "ko",
-      "summary": "한국식품산업협회에서 개인정보 유출이 일어나는 사건입니다.",
-      "points": [
-        "- 한국식품산업 협회가 26일 홈페이지에서 이약이를 공지하였다.",
-        "- 개인정보 유출을 예상한 공격으로 추정되고, 당사자들은 개인의 머무를 허용하지 않습니다.",
-        "- 이러한 사건에 대한 문제가 IT/기술 업계에서 광범위한 영향을 미리 감안함으로써 보완중이 되어 있다."
-      ],
-      "insight": "이러한 사건은 IT/기술 업체에서의 개인정보를 공간적으로 관리하는 방식에 대해 확인되고, 이에 상쟁한 비롯으로 IT/기술 업체들은 보안적인 정보관리를 강조해야 함입니다."
-    },
-    {
-      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 28 Jun 2026 05:00:00 +0000",
-      "description": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
-      "language": "en",
-      "summary": "Indian payments chief Dilip Asbe predicts significant AI involvement in the next era of digital payment growth, highlighting UPI apps' need for a viable commercial model.",
-      "points": [
-        "Dilip Asbe emphasizes that artificial intelligence will play a crucial role in driving future growth in India'selas payments sector.",
-        "Asbe asserts the importance of newer Unified Payment Interface (UPI) applications to develop commercial models for sustainable competition and innovation.",
-        "The reliance on AI is expected due to its ability to handle massive volumes of transactions efficiently, enhancing user experience."
-      ],
-      "insight": "Dilip Asbe's insights suggest that the future growth in India's digital payments industry will heavily rely on technological advancements like artificial intelligence for maintaining efficiency and sustainability. This emphasis on AI could push more innovative solutions within UPI apps, setting a trend among competitors."
-    },
-    {
-      "title": "페이블5, 조만간 수출 통헤 해제 가능성 전망",
-      "link": "http://www.boannews.com/media/view.asp?idx=144353&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 28 Jun 2026 11:56:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 미국 정부가 안보 우려를 이유로 수출 통제를 내린 앤트로픽의 인공지능(AI) 모델 ‘클로드 페이블5’ 접근이 조만간 다시 허용될 것이라는 전망이 나왔다. 악시오스는 27일(현지시간) 미국 트럼프 행정부가 페이블5 이용 제한 조치를 조만간 해제할 것으로 예상된다고 보도했다. 이와 관련 주말 동안 관련 논의가 이어질 전망이다. 실제 이",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 미국 정부가 안보 우려를 이유로 수출 통제를 내린 앤트로픽의 인공지능(AI) 모델 ‘클로드 페이블5’ 접근이 조만간 다시 허용될 것이라는 전망이 나왔다. 악시오스는 27일(현지시간) 미국 트럼프 행정부가 페이블5 이용 제한 조치를 조만간 해제할 것으로 예상된다고 보도했다...",
-      "points": [
-        "[보안뉴스 강현주 기자] 미국 정부가 안보 우려를 이유로 수출 통제를 내린 앤트로픽의 인공지능(AI) 모델 ‘클로드 페이블5’ 접근이 조만간 다시 허용될 것이라는 전망이 나왔다",
-        "악시오스는 27일(현지시간) 미국 트럼프 행정부가 페이블5 이용 제한 조치를 조만간 해제할 것으로 예상된다고 보도했다",
-        "이와 관련 주말 동안 관련 논의가 이어질 전망이다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "제2회 카이스트 KCAMP 총동문회장배 슬로우조깅대회 성료... “초여름 도심 속 건강한 발걸음, 따뜻한 연대”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144352&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 28 Jun 2026 11:45:00 +0900",
-      "description": "카이스트 KCAMP 1기~30기 동문과 가족 300여명 참석...웃음과 행복 가득했던 축제의 장최정식 회장 “동문들의 발걸음, 우리 공동체의 지속 가능한 미래 밝혀주는 강력한 원동력” [보안뉴스 원병철 기자] 초여름 휴일 오전, 서울 여의도공원 사모정이 1기부터 30기까지 모두 모인 카이스트 KCAMP 동문들의 밝은 웃음과 활기찬 에너지로 가득 찼다.",
-      "language": "ko",
-      "summary": "카이스트 KCAMP 1기~30기 동문과 가족 300여명 참석. 웃음과 행복 가득했던 축제의 장최정식 회장 “동문들의 발걸음, 우리 공동체의 지속 가능한 미래 밝혀주는 강력한 원동력” [보안뉴스 원병철 기자] 초여름 휴일 오전, 서울 여의도공원 사모정이 1기부터 30기까지 모두 모인 카이스트 KCAMP 동문들의 밝은 웃음과 활기찬 에너지로 가득 찼다",
-      "points": [
-        "카이스트 KCAMP 1기~30기 동문과 가족 300여명 참석",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 21:27:37 +0000",
-      "description": "Instagram users could soon see more ways to tune their content.",
-      "language": "en",
-      "summary": "Instagram users could soon see more ways to tune their content",
-      "points": [
-        "Instagram users could soon see more ways to tune their content",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 20:42:36 +0000",
-      "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "language": "en",
-      "summary": "Elon Musk's concept of an orbital data center has sparked skepticism among various tech industry figures and SoftBank CEO.",
-      "points": [
-        "Some people in the technology field doubt Elon Musk's ability to make his vision for orbital data centers a reality, despite having achieved significant feats before with companies like Tesla and SpaceX.",
-        "SoftBank founder Masayoshi Son also expressed skepticism about this ambitious project after being initially excited by Elon Musk's announcement in February 2017 during the International Astronautical Congress (IAC) keynote presentation to a packed audience.",
-        "The concept of an orbital data center involves using satellites with large solar arrays and on-board batteries, which can maintain constant power for about half a year before needing recharging."
-      ],
-      "insight": "Despite Elon Musk's ambitious plans to make orbital data centers feasible in the near future, not everyone believes that this project is as realistic or achievable as he claims. This skepticism may indicate a need for further innovation and practical solutions within IT infrastructure development."
-    },
-    {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
-      "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "language": "en",
-      "summary": "Apple'energist executive Paul Meade has departed for a role at OpenAI focusing on hardware.",
-      "points": [
-        "Paul Meade is the Apple vice president responsible for Vision Pro development and he's moving to join OpenAI",
-        "OpenAI announced that they are expanding their team with new hardware focuses, which Paul will head",
-        "Meade has been working on haptic feedback technology in AR devices"
-      ],
-      "insight": "This shift signifies the growing importance of AI-driven hardware development and potential competition between tech giants like Apple and OpenAI for advancements."
-    },
-    {
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000",
-      "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "language": "en",
-      "summary": "Connor Christou, a founder in the room dealing with cancer, turned to AI for help by analyzing various health-related data inputs through an artificial intelligence system named 'Claude'.",
-      "points": [
-        "Christou integrated multiple types of personal health data into Claude.",
-        "The AI was trained on Christou's regime specifications and his own physiological parameters to predict cancer recurrence with a reported accuracy exceeding 95%.",
-        "Healthcare professionals are starting to adopt similar methods for patient monitoring."
-      ],
-      "insight": "This innovative use of AI in personal health management could lead to more proactive and data-driven approaches within the IT/technology industry, particularly impacting how startups approach wellness tech solutions."
-    },
-    {
-      "title": "美, 자국 100여개 기업 한정 ‘미토스5’ 접근 허용",
-      "link": "http://www.boannews.com/media/view.asp?idx=144351&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 27 Jun 2026 21:45:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 미국 정부가 앤트로픽의 인공지능(AI) 모델 ‘미토스5’ 사용 제한을 자국 기업 100여개에 국한해 완화했다. 트럼프 행정부가 미토스5와 페이블5의 수출 통제를 발표한 지 약 2주 만의 조치다. 완화 조치를 자국 기업으로만 한정함에 따라 삼성전자, SK하이닉스, SK텔레콤 등 미토스 접근권을 얻었던 한국 기업들은 여전히 ‘미토스5’",
-      "language": "ko",
-      "summary": "美国정부는 페이쉬 인공지능 '미토스5'의 사용을 한국 기업에 제한하고 완화하였다.",
-      "points": [
-        "- 美国 트럼프 행정부가 '미토스5'와 '페이블5'의 사용을 한국 기업에 제한한다.",
-        "- 조치는 한국 기업들이 여전히 '미토스5'에 접근할 수 0ne다.",
-        "- 조치로 약 2주간의 시간동안이루어진 분약으로, 약세한 대체로는 '미토스5'에 제한을 줬다."
-      ],
-      "insight": "정부의 이 조치는 IT/기술 업체에서 인공지능 발전으로 인한 긍정적인 영향을 보장하고, 국내 비용 부과를 위해 '미토ス5'를 제한한다."
     }
   ]
 }
