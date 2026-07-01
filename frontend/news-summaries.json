@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-06-30T20:02:52.933Z",
+  "generatedAt": "2026-07-01T03:50:42.173Z",
   "articles": [
+    {
+      "title": "The “Father of the Internet” is finally retiring",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 03:15:37 +0000",
+      "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "language": "en",
+      "summary": "After spearheading critical Internet technologies for over three decnery years and becoming known as 'the father of the Internet', Vinton Cerf is retiring from his role at Google next week.",
+      "points": [
+        "Vinton Cerf has been instrumental in developing internet protocols like TCP/IP since the late 1970s",
+        "Cerf's work was pivotal during ARPANET days, when he served as a network manager and Internet evangelist for DARPA.",
+        "His retirement marks an end of his over three decades-long influence on the development and evolution of internet technologies."
+      ],
+      "insight": "Vinton Cerf's departure will leave a significant void in both Google as they bid farewell to one of their most prominent figures, and within the wider IT/technology industry that has benefited immeasurably from his pioneering work on internet protocol development."
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 02:16:06 +0000",
+      "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "language": "en",
+      "summary": "President Donald Trump has lifted restrictions previously placed by him and Secretary of Commerce Wilbur L. Ross Jr., allowing Anthropic's advanced AI models Fable and Mythos to be used freely for research purposes.",
+      "points": [
+        "Anthropic announces the lifting of prior governmental constraints on its two sophisticated language models: 'Fable,' a variant trained only with text from books, and 'Mythos', which uses both book texts and internet-sourced data.",
+        "The decision came after Anthropic's CEO criticized former restrictions as harmful to the AI sector during an open letter addressed directly at President Trump in April 2021.",
+        "Following this, a significant donation of $5 million was made by Google to help fund research into mitigating 'hallucinations' and ensuring accountability within AI systems."
+      ],
+      "insight": "The removal of restrictions signifies an important step towards creating more ethical guidelines in the rapidly advancing field of artificial intelligence, addressing concerns about unaccountable decision-making by large language models like 'Fable' and 'Mythos'. The Google donation further emphasizes a shared responsibility among tech giants to guide AI development responsibly."
+    },
+    {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 02:04:40 +0000",
+      "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "language": "en",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent",
+      "points": [
+        "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic too...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 30 Jun 2026 23:00:00 +0000",
+      "description": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+      "language": "en",
+      "summary": "The Startup Battlefield Australia app competition concludes with a shortlist to announce in the coming days for finalists who may take part in pitching their ideas on July 6th.",
+      "points": [
+        "Startup Battlefield's inaugural contest is open until June 28, inviting innovators worldwide without previous experience or connections with local tech startups to submit applications via an online form and video submission by August 9.",
+        "Four winners from Australia will advance based on pitches focused on solving social problems through technology. The application phase of the competition ends soon as finalists prepare for a public vote following their in-person presentations at Melbourne'nergy Exchange",
+        "The winning ideas aim to enhance sustainability and improve communities by tackling issues such as food access, waste management, community spirit, energy efficiency, safety concerns, and more."
+      ],
+      "insight": "This competition could provide a platform for socially impactful technological innovations in Australia's startup ecosystem, with the potential to address significant local challenges through digital solutions."
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 30 Jun 2026 21:53:28 +0000",
+      "description": "The free open source agentic program is finally invading your phone.",
+      "language": "en",
+      "summary": "OpenClaw, a freely-available open-source agent application for mobile devices that can perform automated tasks on behner's behalf (like posting updates or sending messages), is now available on Android and iOS platforms.",
+      "points": [
+        "- OpenClaw introduces users to the concept of digital agents capable of performing routine online activities, such as sharing news stories from their feeds directly with friends via messaging apps like Telegram.",
+        "- The software uses Python for backend development alongside JavaScript on mobile devices and can be customized through plugins or by creating your own scripts using a command-line interface (CLI).",
+        "- OpenClaw provides an API that allows developers to integrate their agents into other applications, while its free license promotes widespread adoption across the tech community."
+      ],
+      "insight": "OpenClaw demonstrates how open source tools are increasingly being adapted for mobile use and personal productivity. Its availability on Android and iOS may encourage wider acceptance of digital agents, potentially influencing the development of similar applications in future technological advancements."
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 30 Jun 2026 20:33:48 +0000",
+      "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "language": "en",
+      "summary": "Three former DeepMind employees have leveraged their expertise to create a successful AI lab and valuation worth over half a billion dollars.",
+      "points": [
+        "The ex-DeepMind researchers, Lukáš Gašparovič (Luka), Marek Kosík (Markek) and Ondřej Sokol (Soko), founded EquiLibre Technologies in Prague after leaving DeepMind.",
+        "EquiLibre' extramural activities include developing AI for gaming, which led to the creation of a high-stakes poker bot that challenged human players and was featured on BBC Panorama.",
+        "The team is now making their way in the quantitative finance sector with EquiLibre Technologies' products being used by hedge funds."
+      ],
+      "insight": "This news illustrates how AI talent from renowned companies like DeepMind can successfully apply and monetize skills outside of academia, contributing to innovative developments in the financial industry through quantitative finance applications."
+    },
     {
       "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
       "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
@@ -660,96 +750,6 @@
         "Other US states may also be interested as California sets a precedent with this deal."
       ],
       "insight": "This agreement showcases the growing significance of large language models within government operations and could encourage more federal agencies to consider investing in AI technology for public service enhancement."
-    },
-    {
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 29 Jun 2026 18:07:48 +0000",
-      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "language": "en",
-      "summary": "Samsung Electronics and SK Hynix have pledged over $550 billion to build more memory lab fabs in South Korea as the nation aims to become an AI tech powerhouse.",
-      "points": [
-        "The world's two largest semiconductor companies, Samsung Electronics and SK Hynix, have committed over $550 billion",
-        "to building more memory lab fabs in South Korea as part of their efforts to alleviate the 'RAMgeddon'.",
-        "South Korea is positioning itself as an AI technology powerhouse country."
-      ],
-      "insight": "This development highlights how essential and strategic memory chips are for advancing artificial intelligence technologies, with South Korea aiming to be a global leader in this field. The massive investment demonstrates the industry's confidence despite recent supply chain disruferments."
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 29 Jun 2026 17:39:17 +0000",
-      "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "language": "en",
-      "summary": "Arena, an AI-driven platform known for offering a widely used free AI leaderboard to developers and enthusiasts alike, has transformed into a significant $1 end business by securing $100 million in funding. Since its commercial launch last September as ArenaOne, the company focuses on providing developer tools such as competitions, skill-building tests, chatbots for recruitment, and more.",
-      "points": [
-        "- AI startup Arena raises $100M to grow from a free service into a commercial business",
-        "- Launched its first paid product last September under the name ArenaOne",
-        "- Targets developers with services like competitions, skill-building tests and chatbots for recruitment"
-      ],
-      "insight": "The news signifies that AI companies can successfully transition from providing free tools to monetizing their technology. This not only demonstrates the value of innovative solutions but also supports growth in a competitive tech industry."
-    },
-    {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 29 Jun 2026 17:03:50 +0000",
-      "description": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-      "language": "en",
-      "summary": "The Cursor team recently developed and released a mobile application designed to provide real-time supervision of AI models in the programming field from any location.",
-      "points": [
-        "Cursor has created an app for remote coding oversight",
-        "Targets various industries with its technology",
-        "Promises increased efficiency and scalability"
-      ],
-      "insight": "This innovation by Cursor could significantly reduce the time required to develop AI models, making it easier for developers across different sectors to integrate advanced technologies into their workflow."
-    },
-    {
-      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
-      "link": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 29 Jun 2026 16:58:30 +0000",
-      "description": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S.",
-      "language": "en",
-      "summary": "Under the Trump administration, numerous environmental reviews for renewable energy projects have been delayed or blocked by red tape, putting at risk $121 billion worth of new solar and wind power capacity in development.",
-      "points": [
-        "Environmental review delays threatening US$121 billion in clean energy investment",
-        "Trump administration blocking approvals for renewable projects with environmental concerns",
-        "Delayed reviews affect local economies by stalling construction jobs"
-      ],
-      "insight": "This article highlights the negative impact of bureaucratic obstacles on renewable energy development in the U.S., which could have wide-reaching implications for meeting climate goals and fostering sustainable economic growth."
-    },
-    {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 29 Jun 2026 16:29:04 +0000",
-      "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "language": "en",
-      "summary": "Tidal has introduced measures to combat unautled and potentially harmful use of artificial intelligence in creating music by cutting off its monetization.",
-      "points": [
-        "Automated tools will remove AI-generated music that tries to imitate artists or groups",
-        "Monetary benefits for creators from non-original works have been eliminated, according to Tidal CEO Kim Kardashian West's announcement.",
-        "Tidal is combating potential misinformation and plagiarism in the music industry using AI technology."
-      ],
-      "insight": "The steps taken by Tidal could set a precedent for other major streaming platforms to follow suit, ensuring original content remains at forefront of monetization strategies within the IT/technology sector. This move also highlights growing concerns over authenticity and intellectual property rights in relation to AI-generated music."
-    },
-    {
-      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
-      "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 29 Jun 2026 16:05:23 +0000",
-      "description": "The Supreme Court's decision to limit geofence warrants is a win for privacy advocates, who called their use unconstitutional but sought an outright ban.",
-      "language": "en",
-      "summary": "In a significant victory for personal privacy rights, the Supreme Court has ruled that geofence warrants are protected under these same individual liberties.",
-      "points": [
-        "The US Supreme Court struck down Oregon's use of 'geofence warrants', ruling such surveillance techniques infringe on individuals’ privacy rights, as the Fourth Amendment protects against unreasonable searches and seizures.",
-        "Federal agencies like ICE have used geofencing extensively to locate potential suspects based on their mobile device location near a crime scene without individualized suspicion. The court ruled such techniques constitute an unjustified search violating privacy rights, regardless of the good intentions behind them.",
-        "In dissenting opinions, some justices argue that geofencing is not inherently invasive and doesn't require technology capable of tracking individuals constantly or storing detailed personal data. They believe it can be constitutionally used with proper safeguards."
-      ],
-      "insight": "This decision signals a move towards greater privacy protections in the IT/technology industry, emphasizing that even as surveillance methods evolve, they must respect individual rights and remain compliant within legal frameworks. It suggests potential limitations on using location tracking technology for law enforcement purposes."
     }
   ]
 }
