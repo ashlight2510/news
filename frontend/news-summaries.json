@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-07-01T14:36:17.878Z",
+  "generatedAt": "2026-07-01T19:57:05.105Z",
   "articles": [
+    {
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 19:18:07 +0000",
+      "description": "Research appears to reveal a bug that could render the feature effectively useless.",
+      "language": "en",
+      "summary": "A security flaw in Apple's Hide My Email feature may be exposing users' real email addresses.",
+      "points": [
+        "Researchers claim to have found a bug potentially making the new privacy tool, 'Hide My Email,' less effective",
+        "The issue could expose genuine user information if exploited by malicious entities or flawed implementation of alternative services",
+        "Apple has not confirmed this vulnerability and is reportedly investigating"
+      ],
+      "insight": "This potential bug in 'Hide My Email' raises concerns about the reliability of privacy features provided as part of cloud-based storage solutions, possibly impacting user trust."
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "language": "en",
+      "summary": "SpaceX has unveiled an Artificial Intelligence prototype that resembles a handset and may indicate the company's intention to delve further into the wireless sector.",
+      "points": [
+        "Artificial intelligence device with phone-like design",
+        "Reported as investor showcase for SpaceX",
+        "Potential signal of expansion in wireless technology"
+      ],
+      "insight": "This development suggests that SpaceX may be seeking to diversify its business model and enter new markets by leveraging AI within the communications sector."
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 18:47:22 +0000",
+      "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "language": "en",
+      "summary": "Ashton Kutcher is leaving Sound Ventures to found a new venture capital firm with Morgan Beller focused on investing in companies providing AI infrastructure and energy solutions.",
+      "points": [
+        "Kutcher's new fund concentrates on the backbone of category-leading AI labs: their underlying infrastructure and power needs.",
+        "This shift represents a strategic move to tap into an often overlooked aspect in technology advancements—energy efficiency and sustainability within tech ecosystems.",
+        "Morgan Beller, known for her investment expertise with Sound Ventures' backing, joins Kutcher as co-founder of the new venture capital firm."
+      ],
+      "insight": "As AI becomes increasingly essential in various sectors, energy efficiency and sustainability within these technology ecosystems present a vital investment opportunity that Ashton Kutcher's latest fund is poised to explore. This move could signal an industry shift towards prioritizing green tech alongside innovation."
+    },
+    {
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 18:29:14 +0000",
+      "description": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+      "language": "en",
+      "summary": "Neocloud Together AI has secured an $800 million funding round that catapulted its company value to over $8 billion.",
+      "points": [
+        "Neocloud Together, focused on hosting open-source models for enterprises and developers, raised a significant amount of capital recently",
+        "The recent investment has significantly increased Neocloud'th valuation from its last round in early 2025.",
+        "With this funding boost, Neocloud Together is poised to expand services into new markets and enhance infrastructure."
+      ],
+      "insight": "The investment shows strong market confidence in AI-driven cloud providers and indicates an increasing demand for specialized hosting solutions within the IT industry. The expansion potential of Neocloud Together may influence competitors to innovate or diversify their offerings."
+    },
+    {
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 18:24:00 +0000",
+      "description": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+      "language": "en",
+      "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities",
+      "points": [
+        "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 17:48:37 +0000",
+      "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "language": "en",
+      "summary": "Cloudflare has set a deadline of September 15 for AI companies to segregate their web crawlers from search engines and training agents or face blocking on numerous publisher sites.",
+      "points": [
+        "AI firms must identify different types of automated internet activities by the specified date.",
+        "Cloudflare's action targets excessive scrape requests that strain website resources.",
+        "The policy shift emphasizes respect for content creators and publishers."
+      ],
+      "insight": "This development indicates a significant change in how AI companies must approach web data collection, potentially leading to more sustainable internet practices within the industry."
+    },
+    {
+      "title": "Even Honda is pivoting to data centers",
+      "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 17:13:45 +0000",
+      "description": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
+      "language": "en",
+      "summary": "Automaker Honda is venturing into manufacturing lithium-ion battery packs aimed at powering energy storage systems in data centers as part of its pivot to the lucrative market.",
+      "points": [
+        "Honda, traditionally an automobile company, starts producing batteries for use in energy storage within data centers rather than electric vehicles (EV).",
+        "The shift represents Honda's strategic move into a growing sector and is expected to contribute significantly due to the rising demand from companies needing reliable power sources.",
+        "Honda plans to expand its manufacturing capacity for these batteries, with an aim of supplying 100 megawatt-hours (MWh) per year by fiscal 2030."
+      ],
+      "insight": "This diversification into energy storage could potentially position Honda as a significant player in both automotive and IT industries, capitalizing on the increasing demand for reliable power solutions amidst rising renewable energy integration challenges faced by data centers worldwide."
+    },
+    {
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+      "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 16:48:58 +0000",
+      "description": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money’s flowing back, and it’s the people who lived through that first […]",
+      "language": "en",
+      "summary": "The autonomous vehicle industry is experiencing a resurgence of interest with Humble Robotics entering freight delivery via self-driving vehicles amidst renewed capital inflows and talent competition reminiscent of the previous boom. The sector's growth could lead to new advancements but also raises concerns about market saturation.",
+      "points": [
+        "- Humble Robotics is deploying autonomous delivery vehicles for freight, indicating a return to interest and investment in AV technology beyond consumer applications.",
+        "- The industry's hype cycle appears similar to that of previous cycles with rising talent wars and capital flow reflective of 2016 dynamics.",
+        "- Skepticism remains regarding the maturity and stability of autonomous vehicle technologies, despite Humble Robotics’ ambitions."
+      ],
+      "insight": "The return to investment in AV technology suggests potential for growth but also indicates caution is warranted given past market volatility. The freight application sector might be an indicator of how mature the autonomous delivery space can become before full consumer adoption becomes feasible."
+    },
     {
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -628,126 +748,6 @@
         "이러한 해킹 조직은 보호처력이 부여받지 않는 것으로 보인다."
       ],
       "insight": "이러한 해킹 조직의 백업과 탈취 공격은 시대에 따라서있는 경제적 영향을 미리보고싶어하다."
-    },
-    {
-      "title": "크롬 스토어 파고든 가짜 AI, 마이크로소프트 “즉각 삭제하라”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144417&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 16:04:00 +0900",
-      "description": "퍼플렉시티 위장한 크로미움 기반 악성 확장 프로그램 발견검색 트래픽 가로채는 ‘검색 하이재킹’ 수법으로 정보 탈취 시도[보안뉴스 조재호 기자] 마이크로소프트(MS) 위협 인텔리전스 팀은 AI 검색 서비스 퍼플렉시티(Perplexity)를 사칭한 악성 구글 크롬 확장 프로그램이 대거 유포되고 있다고 경고했다. 이번에 발견된 악성 크로미움(Chromium) 확",
-      "language": "ko",
-      "summary": "MS 게시물에서 크로미움을 위한 AI 프로그램이 발결한 정보 스사를 강조함",
-      "points": [
-        "- MS는 이 기술에 대해서 의도적으로 소표함을 지니하고 있다.",
-        "- AI 검색 서비스가 정보 공급자를 위한 업무로 사용되는 경우, 이로써 원칙적으로 필요한 방식으로 공금을 소모해야 하며.",
-        "- 정보 공급자는 MS에게 이러한 AI 서비스를 사용하는 경우에는 점유와 지침을 부여한다."
-      ],
-      "insight": "MARIE 회사는 MS의 광고적인 AI 서비스를 제공하는 경우에는 책임질시로 정보 공급자가 이러한 서비스를 통화하도록 할 수 s요다. AI를 활용한 결제 기능을 사용하여 마게 품사의 경쟁 세부적인 방식이 원칙적으로 작성되어서는 안됨."
-    },
-    {
-      "title": "[Global Security TOP 100] 우종현 듀얼오스 대표 “지치지 않는 AI 공격, ‘구조적 보안’으로 가둔다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144405&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 15:57:00 +0900",
-      "description": "스마트폰 앱 연동한 양방향 상호 인증 체계 성공적 구축 및 M2M 영역 확대24시간 상시 타격하는 AI 위협 맞서 공격 표면 원천 격리하는 프레임 정조준[보안뉴스 조재호 기자] AI 에이전트의 확산은 사후 대응에 치중해 온 기존 사이버보안 체계의 뼈아픈 한계를 여실히 드러내고 있다. 단발성 해킹을 넘어 24시간 멈추지 않는 인공지능(AI)의 자동화 공격이",
-      "language": "ko",
-      "summary": "스마트폰 앱 연동한 양방향 상호 인증 체계 성공적 구축 및 M2M 영역 확대24시간 상시 타격하는 AI 위협 맞서 공격 표면 원천 격리하는 프레임 정조준[보안뉴스 조재호 기자] AI 에이전트의 확산은 사후 대응에 치중해 온 기존 사이버보안 체계의 뼈아픈 한계를 여실히 드러내고 있다. 단발성 해킹을 넘어 24시간 멈추지 않는 인공지능(AI)의 자동화 공격이",
-      "points": [
-        "단발성 해킹을 넘어 24시간 멈추지 않는 인공지능(AI)의 자동화 공격이",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[인사] 개인정보보호위원회",
-      "link": "http://www.boannews.com/media/view.asp?idx=144414&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 15:08:00 +0900",
-      "description": "◇ 과장급 전보△개인정보보호정책과장 최윤정[한세희 기자(hahn@boannews.com)]www.boannews.com) 무단전재-재배포금지>",
-      "language": "ko",
-      "summary": "개인정보보호위원회가 과장급 전보의 보호약율을 높이기로 한다.",
-      "points": [
-        "국민안전 보호에 필요한 개인정보보호를 강화하였다",
-        "최점의 금액을 소득을 유지하면서도 국민 문제적으로 필요한 보호약수가 고정되어있다.",
-        "과장이 아니라도 보호규모를 통일화하는 업체의 인정을 기대한다"
-      ],
-      "insight": "개인정보보호위원회가 과장급 전보에 따른 보호약수를 강화하여 IT/기술 업체에서 개인정보보호의 신뢰성을 통화"
-    },
-    {
-      "title": "[2026 시큐리티 게이트 시장 리포트] 출입통제에서 접근통제로, 시큐리티 게이트의 재정의",
-      "link": "http://www.boannews.com/media/view.asp?idx=144401&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 14:59:00 +0900",
-      "description": "데이터센터·국가중요시설 확대로 사람 중심 출입관리에서 권한 중심 접근관리로 전환설문조사 결과, 현재는 카드인식이 대세지만 향후 가장 선호하는 인증 방식은 얼굴인식메트로게이트·세환엠에스·ZKTeco·휴먼인텍 등 주요 기업 구축사례와 기술 경쟁력 소개생체인증·AI 영상분석·클라우드 통합관제가 차세대 출입보안 핵심 기술로 부상[보안뉴스 강초희 기자] 사람의 출입",
-      "language": "ko",
-      "summary": "인증방식의 전환운영을 강화하며, 이를 통해 보안보다는 IT/기술 제공에 중요한 역할을 추가한다.",
-      "points": [
-        "인증방식의 전환운용을 받아들일 것",
-        "카드즈인식이 현재에서는 대세지만 그칠시기에는 인증방식의 선호도가 상승할 것으로 예측되고",
-        "이전보안을 위해 CDA 기술을 개체화하며, 현재에서는 주요 기업은 인증방식의 기술과 경쟁력이 필요로 보다는 보안부대로 강제"
-      ],
-      "insight": "이 기사는 IT/기술 업계가 인증방식의 전환운용을 핵심으로 보장하며, 이를 위해 모든 기술 비율을 다시 강화한다는 것을 제재합니다."
-    },
-    {
-      "title": "AI가 업무 대신하는 시대, “양자내성 기반으로 AI 에이전트 권한 관리해야“... 제8차 양자보안포럼 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144413&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 14:56:00 +0900",
-      "description": "오상근 KQC 부사장, “권한 무결성 위한 양자 제로 트러스트 필요”[보안뉴스 한세희 기자] “위임된 권한을 벗어나면 AI 에이전트는 사용자의 자산을 멋대로 매도할 위험이 있고, 피지컬 AI는 ‘터미네이터’가 될 수 있습니다.” AI가 업무 환경에 빠르게 확산되면서 업무를 수행하는 AI 에이전트의 권한과 행동에 대한 통제가 새로운 보안 과제로 떠오르고 있",
-      "language": "ko",
-      "summary": "AI에게 온라인 상태에서 일한 권한을 조정할 수 0r method for managing AI entities' permissions in an online environment is highlighted as essential.",
-      "points": [
-        "AI에게 온라인상태에서 일하는 권한을 조정하는 중요성이 강조됨",
-        "해당 보안포럼은 AI가 '터미네이터'를 초 Höhe von der Macht abgeben können",
-        "권한의 무결성을 위한 양자 제로 트레스토리스 요인은 AI에게 문제가 생기지 않도록"
-      ],
-      "insight": "이 보안 포럼에서는 IT/기술 업체가 자산을 위한 AI 권한 조정 과정에 대한 심유지를 강조하고 있음."
-    },
-    {
-      "title": "양산시, AI CCTV 확대 구축으로 범죄·이상상황 실시간 감지",
-      "link": "http://www.boannews.com/media/view.asp?idx=144410&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 14:44:00 +0900",
-      "description": "범죄 취약지역 8곳에 AI 지능형 CCTV 25대 설치·노후 CCTV 8대 교체배회·침입·쓰러짐·폭행 등 이상상황을 24시간 실시간 분석해 신속 대응[보안뉴스 강초희 기자] 경남 양산시는 범죄 취약지역과 생활안전 사각지대 해소를 위해 추진한 ‘2026년 지능형 CCTV 설치 사업’을 완료했다고 밝혔다.이번 사업은 범죄 발생 우려가 높거나 주민 안전관리가 필",
-      "language": "ko",
-      "summary": "범죄 취약지역 8곳에 AI 지능형 CCTV 25대 설치·노후 CCTV 8대 교체배회·침입·쓰러짐·폭행 등 이상상황을 24시간 실시간 분석해 신속 대응[보안뉴스 강초희 기자] 경남 양산시는 범죄 취약지역과 생활안전 사각지대 해소를 위해 추진한 ‘2026년 지능형 CCTV 설치 사업’을 완료했다고 밝혔다. 이번 사업은 범죄 발생 우려가 높거나 주민 안전관리가 필",
-      "points": [
-        "이번 사업은 범죄 발생 우려가 높거나 주민 안전관리가 필",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "구로구, 하천변 CCTV 18대 설치... 지능형 관제로 안전 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144412&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 14:42:00 +0900",
-      "description": "구로피크닉가든·안양천 생태초화원 등 하천변 6곳에 CCTV 18대 설치지능형 선별관제 시스템 도입으로 안전사고·범죄 상황 신속 대응하천변 안전 인프라와 관제체계를 강화해 주민 이용환경 개선[보안뉴스 강초희 기자] 서울 구로구가 주민 이용이 많은 하천변의 안전관리를 강화하기 위해 구로피크닉가든 일대와 안양천 생태초화원 일대에 CCTV 설치를 완료했다고 30일",
-      "language": "ko",
-      "summary": "구로피크닉가든·안양천 일대는 주민이용시스템의 안전을 강화하기 위해 CCTV 18대 설치를 진행한다.",
-      "points": [
-        "구로피크닉가든·안양천 일대는 CCTV 18대 설치에 걸립니다.",
-        "이러한 도약으로 시스템이 사고와 범죄를 피어나갈 수 inflated 유지력을 보장합니다.",
-        "인구가 많아지면서 이용시스템의 중요성이 증가한다고 생각할 수 0타입으로"
-      ],
-      "insight": "이러한 도캻이 설치는 IT/기술 업계에서도 안전과 안정성의 핵싱를 가늠해보자."
-    },
-    {
-      "title": "The AI jobs debate just got messier",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 04:01:00 +0000",
-      "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-      "language": "en",
-      "summary": "A new report contradicts common belief about AI replacing human labor in entry-level positions within high-intensity AI adopters.",
-      "points": [
-        "High-intensity AI adopters saw a headcount increase of 10.2% overall, with an impressive rise in entry-level employment by 12%.",
-        "Despite claims that artificial intelligence reduces the need for junior jobs, these results showcase growth within this sector.",
-        "The report suggests AI may be reshaping job roles rather than replacing them."
-      ],
-      "insight": "This news indicates potential reevaluation of concerns about automation and its impact on entry-level positions in the IT industry. The increase in junior hiring within high-AI adopters could mean that AI complements human skills, leading to job transformation rather than reduction."
     }
   ]
 }
