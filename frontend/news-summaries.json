@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-07-01T19:57:05.105Z",
+  "generatedAt": "2026-07-02T03:32:15.923Z",
   "articles": [
+    {
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 23:57:55 +0000",
+      "description": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "language": "en",
+      "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest",
+      "points": [
+        "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 22:47:04 +0000",
+      "description": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
+      "language": "en",
+      "summary": "Bending Spoon experienced a significant increase in its stock value after debuting on the New York Stock Exchange (NYSE), rising by about 40% following positive reactions to reports of rapid growth and strategic acquisitions.",
+      "points": [
+        "Bending Spoon's first-day trading saw a surge, with stock jumping approximately 40%.",
+        "The company has expanded its portfolio by acquiring last-generinflation brands such as AOL and Vimeo. Experts believe this strategy helped drive the initial public interest in Bending Spoon's IPO.",
+        "Investors appear to be optimistic about growth opportunities with plans like revamping acquired tech companies."
+      ],
+      "insight": "Bending Spoon has demonstrated a potential pathway for SaaS startups looking to expand through strategic acquisitions and portfolio diversification, indicating that there may still be significant investment interest in the sector despite broader market concerns."
+    },
+    {
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 22:28:35 +0000",
+      "description": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+      "language": "en",
+      "summary": "Bending Spoons co-founders reflect on success as minimizing luck after an $18B IPO flop and founding a company to buy struggling online brands.",
+      "points": [
+        "Co-founders discuss the role of minimal reliance on luck in their startup'selfs, amidst failure post $18.4 billion failed Internet brand acquisition attempt leading them into establishing Bending Spoons - an Italian company aimed at purchasing struggling online brands.",
+        "Despite a significant investment and the backing of Silicon Valley firms like Sequoia, their startup's unsuccessful bid to purchase Quattro Warehouse backfired financially with losses totaling $23 million. Co-founders acknowledge misjudgment in predicting success for acquired brands.",
+        "Bending Spoons has since become a proactive entity offering assistance and mentorship, demonstrating an understanding of the tech industry's dynamics."
+      ],
+      "insight": "The experience highlighted by Bending Spoons co-founders underscores that success in acquiring online brands is not solely dependent on luck or initial capital investment. It emphasizes due diligence and an understanding of the market to make informed decisions, potentially providing a learning curve for future tech industry endeavors."
+    },
+    {
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 01 Jul 2026 22:02:24 +0000",
+      "description": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
+      "language": "en",
+      "summary": "Critics raise concerns about the potential for WhatsApp username impersonation despite Meta's claim that usernames enhance privacy.",
+      "points": [
+        "WhatsApp introduced optional use of alphanumeric-only, customizable usernames to improve users’ anonymity and protect their personal information on the platform.",
+        "Critics argue this measure could lead to identity impersonation as some individuals might attempt to adopt someone else' endorsed by friends or family members with a shared name for malicious purposes.",
+        "Meta defends usernames, stating they give users more control over their online presence and can help protect against 'doxing,' where personal information is published without consent."
+      ],
+      "insight": "The introduction of WhatsApp user names brings forth the debate on privacy versus potential misuse risks within digital communication platforms, emphasizing the need for robust safeguards to prevent impersonation and protect users' identities while also providing control over online presence management."
+    },
     {
       "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
       "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
@@ -688,66 +748,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
-      "language": "en",
-      "summary": "Crypto exchange OKX has announced plans to create an integrated platform combining payments, digital identities, and reputation systems specifically designed for its artificial intelligence (AI) agent community.",
-      "points": [
-        "OKX is developing a marketplace tailored for AI agents within the crypto ecosystem",
-        "The new system will consolidate payment processing with identity verification to build trust among participants in real-time trading scenarios involving digital assets and tokens generated by OKX' extranet applications.",
-        "To facilitate this, Okx is creating a unique decentralized network architecture where AI agents can interact directly for peer-to-peer transactions without the need for central intermediaries."
-      ],
-      "insight": "The creation of an agent marketplace by OKX could revolutionize autonomous trading systems in crypto exchanges, potentially leading to more efficient and secure microtransactions driven by AI algorithms. This move represents a significant expansion into the domain of decentralized finance (DeFi) where trustless interactions are paramount."
-    },
-    {
-      "title": "‘메가 투자’ 삼전닉스, 보안 투자도 대폭 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=144421&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 17:45:00 +0900",
-      "description": "3줄 요약1. “AI 시대 반도체 보안, 국가 경쟁력이자 안보” 2. 삼성전자 약 4121억원 보안 투자... 압도적 1위3. SK하이닉스도 10% 이상 큰 폭 확대[보안뉴스 강현주 기자] 삼성전자와 SK하이닉스가 4700조원 규모 ‘메가프로젝트’로 주목 받는 가운데, ‘정보보호 투자’도 대폭 확대하며 눈길을 끈다. AI 시대 반도체 보안이 국가 경쟁력이자",
-      "language": "ko",
-      "summary": "삼성전자와 SK가스리는 AI 시대에서 보안 기술의 중요성을 인식하고, 매우큰 투자를 시작한다.",
-      "points": [
-        "AI 시대가 어떻게 국내 경쟁으로 인정되는지, 그리고 보안 기술의 중요성을 인식하고 한국에서 확장하고 있다.",
-        "삼성전자는 보안 투자를 시작하고, 그것이 가장 큰 투자로, 4121억원",
-        "SK가스리도 보안 기술의 중요성을 인식하고, 대폭 확장을 한다."
-      ],
-      "insight": "이러한 투자는 국내 기술 발전에 큰 영향을 미치고, AI를 위한 보안 기술의 중요성을 인식하여 확장하고 있다."
-    },
-    {
-      "title": "비엔에스테크, 통합 재난안전 플랫폼 ‘LDMS’로 재난 대응 골든타임 확보",
-      "link": "http://www.boannews.com/media/view.asp?idx=144419&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 17:34:00 +0900",
-      "description": "위험 수위 감지부터 현장 통제까지 하나의 플랫폼으로 구현기후변화에 따른 돌발성 침수 사고 선제적 예방하는 차별화된 기술 생태계 제공[보안뉴스 엄호식 기자] 지구 온난화와 기후변화 가속화로 인해 전 세계는 물론 대한민국 전역이 과거의 통계학적 예측을 뛰어넘는 기습적인 대재앙에 직면하고 있다. 여름철 장마의 개념이 사라지고 동시다발적인 ‘기습적 극한 호우’와",
-      "language": "ko",
-      "summary": "위험 수위 감지부터 현장 통제까지 하나의 플랫폼으로 구현기후변화에 따른 돌발성 침수 사고 선제적 예방하는 차별화된 기술 생태계 제공[보안뉴스 엄호식 기자] 지구 온난화와 기후변화 가속화로 인해 전 세계는 물론 대한민국 전역이 과거의 통계학적 예측을 뛰어넘는 기습적인 대재앙에 직면하고 있다. 여름철 장마의 개념이 사라지고 동시다발적인 ‘기습적 극한 호우’와",
-      "points": [
-        "여름철 장마의 개념이 사라지고 동시다발적인 ‘기습적 극한 호우’와",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "미국, 러시아 연계 해킹 조직 제보에 최대 1000만달러 포상... 메신저 탈취 공격 진화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144394&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 30 Jun 2026 17:09:00 +0900",
-      "description": "Signal·WhatsApp 노린 피싱 공격에서 백업 복구 키 탈취까지 수법 고도화CISA 및 FBI “복구 키 유출 시 새 계정도 재탈취 가능” 경고[보안뉴스 강초희 기자] 미국 정부가 러시아 정보기관과 연계된 것으로 알려진 두 해킹 조직에 대한 제보에 최대 1000만달러(약 136억원)의 포상금을 내걸었다.미국 IT·보안 전문매체 SecurityWeek",
-      "language": "ko",
-      "summary": "미국과 러시아 연계한 해킹 조직에 대한 보호처력이 1000만달러를 내지 않는다.",
-      "points": [
-        "해킹 조직의 Signal·WhatsApp로 인한 백업 복구 공격이 진화하고 있음",
-        "CISA와 FBI에서 신기록을 보도롿니다.",
-        "이러한 해킹 조직은 보호처력이 부여받지 않는 것으로 보인다."
-      ],
-      "insight": "이러한 해킹 조직의 백업과 탈취 공격은 시대에 따라서있는 경제적 영향을 미리보고싶어하다."
     }
   ]
 }
