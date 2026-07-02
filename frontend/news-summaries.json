@@ -1,6 +1,125 @@
 {
-  "generatedAt": "2026-07-02T09:05:26.329Z",
+  "generatedAt": "2026-07-02T14:09:31.299Z",
   "articles": [
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "description": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "language": "en",
+      "summary": "Microsoft has announced the launch of an in-house artificial intelligence (AI) deployment company as part of a $2.5 billion commitment to compete with industry leaders like Amazon and OpenAI.",
+      "points": [
+        "Microsoft's investment will drive innovation within its AI services division, potentially reshaping how other tech firms approach similar projects.",
+        "The creation of Microsoft'in-house team signifies the company's belief in having direct control over their artificial intelligence offerings rather than outsourcing them to third parties.",
+        "This move could influence a broader industry shift towards establishing dedicated AI units within tech corporations, altering competition dynamics."
+      ],
+      "insight": "Microsoft's formation of its own AI deployment group indicates the company is serious about making significant contributions and maintaining competitiveness in artificial intelligence. This initiative could encourage more firms to invest similarly in their dedicated AI divisions."
+    },
+    {
+      "title": "Tesla saw a massive sales jump in the second quarter",
+      "link": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 13:20:15 +0000",
+      "description": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.",
+      "language": "en",
+      "summary": "Tesla delivered over half a million electric vehicles globally in Q2 thanks to geographic expansion and more affordable models.",
+      "points": [
+        "Delivery of EVs by Tesla increased significantly, with the company surpassing delivery targets for six consecutive months starting from February-March quarter. This record sets a precedent within an industry that has long faced challenges in achieving such numbers consistently.",
+        "Tesla's success is attributed to its geographic expansion and introduction of more affordable versions of Model 3, Model Y, and Cybertruck; this represents the company’s ability to adapt their business model effectively within a competitive marketplace. This shift in strategy could potentially reshape industry expectations for future electric vehicle manufacturers.",
+        "The article suggests that Tesla is on an upward trajectory with increasing sales, indicating strong demand and consumer acceptance of EVs; this trend may be indicative of a broader societal move towards sustainable transportation options."
+      ],
+      "insight": "Tesla's significant increase in electric vehicle deliveries could signal the growing normalization of EV ownership, potentially leading to increased investment and innovation within the IT/technology industry as companies strive to keep up with evolving consumer expectations and demands."
+    },
+    {
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 12:30:00 +0000",
+      "description": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.",
+      "language": "en",
+      "summary": "Rivian has increased its electric vehicle (EV) sales forecast following the recent ramp-up in Q2 production and subsequent release of the new R2 SUV model.",
+      "points": [
+        "Launched a high anticipation product: The Rivian Electric Semi is set to roll out this fall, creating buzz within EV markets",
+        "Increased annual sales forecast for next year due to successful production scaling and increased consumer interest in its new SUV model (the R2)",
+        "Expanding partnerships with retailers: Rivian plans to expand its dealership presence across the United States, targeting more accessibility"
+      ],
+      "insight": "Rivian'thy optimism about future sales indicates strong market position and growing popularity in the EV industry. The launch of R2 SUV could also suggest a shift towards consumer demand for versatile electric vehicles."
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000",
+      "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "language": "en",
+      "summary": "Ben Guez uses the open-source social network site OpenClaw for dating purposes by leveraging a script that connects with potential international wives on Instagram. His method involves using Claude code and automated messaging, raising questions about privacy and consent.",
+      "points": [
+        "Ben utilizes an 'Insta-Dater' tool developed by OpenClaw to find potential overseas partners through social media interactions with international women he meets on Instagram.",
+        "The script allows for the automated sending of personalized messages, which are crafted using Claude code that enables translation into different languages such as French and Spanish."
+      ],
+      "insight": "While innovative in connecting people across borders through technology, Ben Guez' end-to-end dating process with potential international partners raises significant privacy concerns. Furthermore, his approach is at odds with ethical standards of consent commonly upheld within the IT/technology industry."
+    },
+    {
+      "title": "오리엔텀, 호주 국가 양자 방문단과 맞손... “공동 연구·글로벌 상용화 가속”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144470&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 2 Jul 2026 19:49:00 +0900",
+      "description": "2일 ‘퀀텀코리아 2026 개최... 호주 양자산업 비즈니스 미션 방문단 오리엔텀 방문[보안뉴스 한세희 기자] 오리엔텀이 2일 열린 ‘퀀텀코리아 2026’을 맞아 한국을 찾은 호주 양자 분야 전문가들과 양자 기술 공동 연구 및 상용화를 위한 협력 방안을 모색했다. 오리엔텀은 호주 양자 기술 관련 국가 기관과 주요 대학, 딥테크 기업들로 구성된 ‘호주 양자산",
+      "language": "ko",
+      "summary": "오리엔텀이 한국을 결정몰에서 호주 양자 기술 연구 그룹을 찾아내였다.",
+      "points": [
+        "- 오리엔텀이 퀀텀코리아 2026에서 '호주 양자산업 미션'를 말할 것이다.",
+        "- '공동 연구·글로벌 상용화 가속'을 위한 협력방안을 모쳤다.",
+        "- 국가 기관과 주요 대학, 딥테이지 기술 회사로 구성된 '호주 양자산 연구관'을 만났다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서 한국이 퀀텀코리아 2026의 중요한 인재로 받을 가능성을 강조하고, '호주 양자산 연구관'이 공동 연구와 상용화에 필요한 협력방안을 제공해내며 기술의 피 Latex 이기줄로커서를 통하여 브라우쿨에 있어요. \n\t국가의 인재를 IT/기술 업계에 대체하여, 이런 협력방안은 기술이 이용으로 정의되는 한국을 위한 근선이 될 수 01를 보장해주면서요."
+    },
+    {
+      "title": "“PQC-QKD 실제 적용”... 양자보안연구회 워크숍 10일 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144469&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 2 Jul 2026 18:53:00 +0900",
+      "description": "국내외 PQC-QKD 최신 연구 개발 현황 및 발전 방향 논의[보안뉴스 한세희 기자] 양자내성암호(PQC)와 양자키분배(QKD) 등 양자 보안 기술의 실증과 적용 단계 도약을 위한 전문가 논의의 장이 열린다. 한국정보보호학회 양자보안연구회는 10일 세종시 세종컨벤션센터에서 ‘양자 전환을 위한 실행’(Action to Quantum Transformatio",
+      "language": "ko",
+      "summary": "보안회의가 PQC-QKD로부터 질산정을 통한 IT/양자보안 기능 시스템 구성과 관련된 제안였다.",
+      "points": [
+        "- PQC-QKD로부터 전체 IT/양자보안 시스템을 구성하는 방법에 대한 이해를 추가한다.",
+        "- 이러한 기술들은 임의의 공급자로부터 보안데이 intermediate layer 구성을 통한 보안 시스템 구성에 영향을 미치고 있다.",
+        "- PQC-QKD 기능과 각종 IT/양자로부터의 공급자로서, 보안회의가 중요한 내용이다."
+      ],
+      "insight": "양자보안 시스템을 구현하기 위해 PQC-QKD 기능과 IT 공급자로부터의 질산정은 중요한 요소이다."
+    },
+    {
+      "title": "“앤트로픽 AI 에이전트 ‘클로드 데스크톱’ 악용 해킹 성공”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144468&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 2 Jul 2026 18:33:00 +0900",
+      "description": "펜테라 레드팀 제보... AI 에이전트 악용 경각심앤트로픽 “보안 취약점 아닌 설계된 기능”[보안뉴스 강현주 기자] 보안 기업 연구원들이 앤트로픽의 PC용 AI 에이전트 ‘클로드 데스크톱’을 악용한 공격으로 권한을 탈취하는 시도에 성공했다고 1일(현지시간) 해외 매체가 보도했다. 이에 AI 에이전트를 악용한 심각한 공격이 현실화되고 있다는 우려가 커진다.",
+      "language": "ko",
+      "summary": "AI 에이전트 악용 경각심앤트로픽 “보안 취약점 아닌 설계된 기능”[보안뉴스 강현주 기자] 보안 기업 연구원들이 앤트로픽의 PC용 AI 에이전트 ‘클로드 데스크톱’을 악용한 공격으로 권한을 탈취하는 시도에 성공했다고 1일(현지시간) 해외 매체가 보도했다. 이에 AI 에이전트를 악용한 심각한 공격이 현실화되고 있다는 우려가 커진다",
+      "points": [
+        "AI 에이전트 악용 경각심앤트로픽 “보안 취약점 아닌 설계된 기능”[보안뉴스 강현주 기자] 보안 기업 연구원들이 앤트로픽의 PC용 AI 에이전트 ‘클로드 데스크톱’을 악용한 공격으...",
+        "이에 AI 에이전트를 악용한 심각한 공격이 현실화되고 있다는 우려가 커진다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 대기업 아닌 중소기업 위협하는 ‘AI 해킹’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144467&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 2 Jul 2026 18:27:00 +0900",
+      "description": "인공지능 서비스 자체를 노리는 공격 또한 급증하고 있어AI 해킹 앞에 중소기업은 무방비... 정부와 기업의 유기적 협력 필요해[보안뉴스= 배종찬 인사이트케이 연구소장] 인공지능(AI) 기술의 폭발적인 성장은 우리 사회와 산업 전반에 혁신적인 편리함을 가져다주었지만, 동시에 ‘AI 해킹’이라는 고도화되고 예측 불가능한 사이버 위협을 탄생시켰다. 최근 한 달간",
+      "language": "ko",
+      "summary": "인공지능 서비스 자체를 노리는 공격 또한 급증하고 있어AI 해킹 앞에 중소기업은 무방비. 정부와 기업의 유기적 협력 필요해[보안뉴스= 배종찬 인사이트케이 연구소장] 인공지능(AI) 기술의 폭발적인 성장은 우리 사회와 산업 전반에 혁신적인 편리함을 가져다주었지만, 동시에 ‘AI 해킹’이라는 고도화되고 예측 불가능한 사이버 위협을 탄생시켰다",
+      "points": [
+        "인공지능 서비스 자체를 노리는 공격 또한 급증하고 있어AI 해킹 앞에 중소기업은 무방비",
+        "정부와 기업의 유기적 협력 필요해[보안뉴스= 배종찬 인사이트케이 연구소장] 인공지능(AI) 기술의 폭발적인 성장은 우리 사회와 산업 전반에 혁신적인 편리함을 가져다주었지만, 동시에...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "K-공공 인프라 보안의 미래 ‘퍼플 티밍’과 ‘AI-BOM’으로 찾는다",
       "link": "http://www.boannews.com/media/view.asp?idx=144466&kind=&sub_kind=",
@@ -624,126 +743,6 @@
       "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent",
       "points": [
         "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic too...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 23:00:00 +0000",
-      "description": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
-      "language": "en",
-      "summary": "The Startup Battlefield Australia app competition concludes with a shortlist to announce in the coming days for finalists who may take part in pitching their ideas on July 6th.",
-      "points": [
-        "Startup Battlefield's inaugural contest is open until June 28, inviting innovators worldwide without previous experience or connections with local tech startups to submit applications via an online form and video submission by August 9.",
-        "Four winners from Australia will advance based on pitches focused on solving social problems through technology. The application phase of the competition ends soon as finalists prepare for a public vote following their in-person presentations at Melbourne'nergy Exchange",
-        "The winning ideas aim to enhance sustainability and improve communities by tackling issues such as food access, waste management, community spirit, energy efficiency, safety concerns, and more."
-      ],
-      "insight": "This competition could provide a platform for socially impactful technological innovations in Australia's startup ecosystem, with the potential to address significant local challenges through digital solutions."
-    },
-    {
-      "title": "OpenClaw is finally available on Android and iOS",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 21:53:28 +0000",
-      "description": "The free open source agentic program is finally invading your phone.",
-      "language": "en",
-      "summary": "OpenClaw, a freely-available open-source agent application for mobile devices that can perform automated tasks on behner's behalf (like posting updates or sending messages), is now available on Android and iOS platforms.",
-      "points": [
-        "- OpenClaw introduces users to the concept of digital agents capable of performing routine online activities, such as sharing news stories from their feeds directly with friends via messaging apps like Telegram.",
-        "- The software uses Python for backend development alongside JavaScript on mobile devices and can be customized through plugins or by creating your own scripts using a command-line interface (CLI).",
-        "- OpenClaw provides an API that allows developers to integrate their agents into other applications, while its free license promotes widespread adoption across the tech community."
-      ],
-      "insight": "OpenClaw demonstrates how open source tools are increasingly being adapted for mobile use and personal productivity. Its availability on Android and iOS may encourage wider acceptance of digital agents, potentially influencing the development of similar applications in future technological advancements."
-    },
-    {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 20:33:48 +0000",
-      "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "language": "en",
-      "summary": "Three former DeepMind employees have leveraged their expertise to create a successful AI lab and valuation worth over half a billion dollars.",
-      "points": [
-        "The ex-DeepMind researchers, Lukáš Gašparovič (Luka), Marek Kosík (Markek) and Ondřej Sokol (Soko), founded EquiLibre Technologies in Prague after leaving DeepMind.",
-        "EquiLibre' extramural activities include developing AI for gaming, which led to the creation of a high-stakes poker bot that challenged human players and was featured on BBC Panorama.",
-        "The team is now making their way in the quantitative finance sector with EquiLibre Technologies' products being used by hedge funds."
-      ],
-      "insight": "This news illustrates how AI talent from renowned companies like DeepMind can successfully apply and monetize skills outside of academia, contributing to innovative developments in the financial industry through quantitative finance applications."
-    },
-    {
-      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 19:12:43 +0000",
-      "description": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
-      "language": "en",
-      "summary": "Realta Fusion has achieved a breakthrough by generating electricity directly from a fusion reaction for the first time.",
-      "points": [
-        "Fusion Reaction Achievement: Realta Fusion generated power using a plasma in a magnetic confinement system, reaching temperatures of about 50 million degrees Celsius and producing trillions of watts (1 gigawatt).",
-        "Magnetic Field Challenge: The fusion reaction took place within the company's own-built 'magnet lab,' where they created a magnetic field stronger than that in Earth’s magnetosphere, essential for containing hot plasma.",
-        "Energy Conversion and Safety: After achieving nuclear fusion at high temperatures with deuterium fuel – which also requires handling rare isotopes of hydrogen like tritium but was avoided by using a combination of heavy water (D2O) as the solvent for feedstocks."
-      ],
-      "insight": "This breakthrough demonstrates that fusion energy can become more viable and presents an alternative pathway to achieving clean, safe nuclear power generation. It propels us closer towards practical large-scale commercial use of fusion technology in electricity production while offering a potentially unlimited source with minimal environmental impact."
-    },
-    {
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 19:02:38 +0000",
-      "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "language": "en",
-      "summary": "Google has updated Nano Banana, an easy-to endorsed image generator used by artists and designers, making it more affordable while improving its speed.",
-      "points": [
-        "The Google's free photo editing software called 'Nanoblender' is replaced with a new tool named the Nano Banana 2 Lite",
-        "This AI-driven image generator offers faster speeds and reduced costs for users, enhancing its utility in creating artworks or designs.",
-        "The free model of Google’ner has been significantly upgraded by replacing Nanoblender with the more efficient Nano Banana 2 Lite"
-      ],
-      "insight": "This update to Google's image generator could shift competitive dynamics within AI-driven content creation tools in the IT industry, providing a powerful yet cost-effective solution for creators."
-    },
-    {
-      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
-      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 18:34:22 +0000",
-      "description": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
-      "language": "en",
-      "summary": "Clicks has unveiled its latest device, the Clicks Communicator, inspired by old-school BlackBerry phones but equipped with contemporary app capabilities.",
-      "points": [
-        "The final production version of the Clicks Communicator features a classic design reminiscent of older BlackBerry models while supporting modern applications like WhatsApp and Google Maps.",
-        "Different from its predecessors, this phone offers Android-based operating system along with built-in email capabilities for enhanced productivity on business trips or commutes.",
-        "Clicks Communicator is designed to address the need of enterprise professionals who require reliable connectivity and efficient communication tools in their daily work."
-      ],
-      "insight": "The Clicks Communicator represents a potential shift towards reviving nostalgic design elements while modernizing functionality, which could resonate with business users looking for familiar yet advanced mobile solutions. This development underscores the ongoing trend of integrating legacy features into newer technology to meet specific market needs."
-    },
-    {
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 18:13:02 +0000",
-      "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "language": "en",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip",
-      "points": [
-        "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the infere...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 30 Jun 2026 18:00:00 +0000",
-      "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "language": "en",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5. 5, and Gemini Pro",
-      "points": [
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
