@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-07-02T14:09:31.299Z",
+  "generatedAt": "2026-07-02T19:29:03.331Z",
   "articles": [
+    {
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 19:14:46 +0000",
+      "description": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
+      "language": "en",
+      "summary": "Google's AI systems demand so much energy that the carbon footprint of training them is comparable to a small country. Amazon has reportedly used electricity equivalent to over one million homes for its AI efforts in just five months, highlighting significant environmental costs associated with machine learning.",
+      "points": [
+        "- Google's use of renewable energy and carbon offsets does not fully mitigate the massive carbon footprint from training their GPT models.",
+        "- Amazon uses more electricity for AI in a five-month period than some countries produce annually, according to leaked documents that revealed internal cost concerns over using such technologies responsibly.",
+        "- The revelation of these environmental costs associated with machine learning and large language models could lead to increased scrutiny and demands for more sustainable AI practices in the industry."
+      ],
+      "insight": "The article underscores a growing concern within the tech community regarding the substantial energy requirements and consequent carbon emissions of training advanced machine learning systems. This issue might prompt companies to seek greener alternatives or rethink their approach towards sustainable AI development."
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
+      "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "language": "en",
+      "summary": "Meta introduced a new social platform called 'Pocket,' where users can create and interact with vibe-coded mini video games through AI technology by inputting text.",
+      "points": [
+        "Meta quietly launches Pocket, an experimental gaming app using AI to generate interactive videos from text prompts",
+        "The platform focuses on creating immersive user experiences without the need for extensive programming knowledge or skills in video game development",
+        "Pocket uses 'vibe coding' language that combines visual cues and emotional responses with voice-over narrations to guide users through personalized gaming scenarios"
+      ],
+      "insight": "This launch signals a shift towards more user-friendly, AI-driven entertainment experiences within the metaverse. As Pocket removes traditional barriers like programming knowledge and skills in video game development, it may democratize content creation for users across different skill levels."
+    },
+    {
+      "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+      "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 18:39:14 +0000",
+      "description": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the cost and benefits of services.",
+      "language": "en",
+      "summary": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the cost and benefits of services",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
+      "description": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "language": "en",
+      "summary": "Anthropic is developing a new custom AI chip to be used alongside Samsung'tablet hardware.",
+      "points": [
+        "A week after OpenAI announced its own custom AI chip, Anthropic has entered negotiations with leading semiconductor company Samsung to discuss the development of their own specialized chips for artificial intelligence applications in tablets and other devices. ",
+        "The new processors are anticipated to be optimized specifically for handling complex language tasks such as text generation while being energy efficient, which is a primary challenge that Anthropic has previously faced with its current hardware.",
+        "Anthropic claims the collaboration will accelerate their ability to deploy AI technologies in consumer devices and bring forward significant improvements."
+      ],
+      "insight": "The development of specialized chips by companies like Anthropi is poised to revolutionize mobile computing, providing powerful capabilities while conserving energy. It could lead to more widespread adoption of AI technologies in daily life and enhance user experiences."
+    },
+    {
+      "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+      "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 17:30:04 +0000",
+      "description": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.",
+      "language": "en",
+      "summary": "Wisk Aero is accused by a former employee of hurrying the process of developing and approving its autonomous air vehicle software ahead of critical tests in late 2decade-old.",
+      "points": [
+        "Former Wisk manager alleges rushed development timeline",
+        "Crucial flight test set for early next decade without proper safety checks",
+        "Accusations by former employee lead to internal investigation"
+      ],
+      "insight": "This news raises concerns about the IT/technology industry's commitment to ensuring thorough testing and validation before deployment, highlighting potential risks of rushed timelines for autonomous technologies."
+    },
+    {
+      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+      "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 15:26:43 +0000",
+      "description": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
+      "language": "en",
+      "summary": "Melinda French Gates' investment firm backed early-stage venture capital fund Magnify Ventures with a $46.xx million in its Fund II round led by Pivotal Ventures.",
+      "points": [
+        "Pivotal Ventures, founded and managed by Melinda French Gates (affiliated with Bill & Melinda Gates Foundation), leads the investment into Magnify Ventures' $46.6 million second funding round.",
+        "Early-stage venture capital firm Magnify Ventures raises significant Series B financing, indicating strong market confidence and potential for growth in its portfolio companies.",
+        "The news highlights Melinda French Gates’ influence within the startup ecosystem by positioning Pivotal as a key investor."
+      ],
+      "insight": "This fundraising success of Magnify Ventures, backed notably by technology titan Melinda French Gates through her venture firm, illustrates an increasing trend among high-profile philanthropists to directly engage with the startup ecosystem for impactful investments."
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
+      "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "language": "en",
+      "summary": "OpenAI CEO Sam Altman has suggested donating a portion of his company's equity to a U.S. sovereign wealth fund as part of the broader discussion on how AI financial successes should benefit society.",
+      "points": [
+        "CEO of OpenAI, Sam Altman proposes sharing in profits with public through donation",
+        "The proposed equity percentage is about 5% for a U.S. sovereign wealth fund",
+        "This proposal reignites conversations on the financial distribution from AI developments"
+      ],
+      "insight": "Altman's proposition could set precedent in corporate social responsibility within tech, potentially influencing how future profits are allocated towards public good."
+    },
+    {
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 15:14:03 +0000",
+      "description": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
+      "language": "en",
+      "summary": "Popular TV tracking app TV Time will cease operations to allow its parent company to shift focus towards artificial intelligence enterprise solutions.",
+      "points": [
+        "TV Time is shutting down as Whip Media pivots toward AI development",
+        "The closure occurs on July 15, with the move reflecting a strategic industry trend in technology diversification and specialization",
+        "Whip Media' extramural business activities are expected to generate revenue for their core television-focused products"
+      ],
+      "insight": "The news signifies an important shift within Whip Media towards AI, a growing sector that complements traditional media in providing value through data analytics and personalized content delivery."
+    },
+    {
+      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
+      "link": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 14:53:39 +0000",
+      "description": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
+      "language": "en",
+      "summary": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected",
+      "points": [
+        "The company announced a new slate of executive hires meant to help turn things around, as Gravity SU...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "US government says it got hacked — again",
+      "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 02 Jul 2026 14:22:36 +0000",
+      "description": "A top Democrat on the Senate's Intelligence Committee warned that the information accessed on a Homeland Security intelligence-sharing network may risk national security.",
+      "language": "en",
+      "summary": "Democrats are concerned about potential risks to national security after repeated hacks into US government networks.",
+      "points": [
+        "A top Democrat on the Senate's Intelligence Committee warned that hacked information may threaten national security.",
+        "The Homeland Security intelligence-sharing network has been repeatedly breached by cyber actors believed to be foreign state sponsored. As of late September, 32 separate intrusions have already occurred this year alone.",
+        "Experts fear a 'sophisticated attacker is operating in our environment with money and political motives.'"
+      ],
+      "insight": "The repeated hacks on government networks highlight the growing threat of cyber espionage, indicating that foreign actors are increasingly attempting to gain intelligence for financial or political advantage."
+    },
     {
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
@@ -597,156 +747,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“생활안전부터 AI 재난관리까지” 정부, 2027년 재난안전예산 우선순위 확정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144440&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 17:07:00 +0900",
-      "description": "산재·식품안전·범죄 예방·교통약자 보호 등 국민 안전 분야 투자 확대기후위기 대응과 AI·빅데이터 기반 재난관리 체계 구축에 예산 집중[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 중앙안전관리위원회(위원장 국무총리)의 심의를 거쳐 ‘2027년 재난안전예산 사전협의안’을 확정했다고 밝혔다. 행정안전부는 정부의 재난 및 안전관리 사업 예산의 투자 효율성을",
-      "language": "ko",
-      "summary": "국민안전에 중시한 재난관리와 AI·빅데이터 기반 투여 사원이 신규 재난 안전예산 선정.",
-      "points": [
-        "국민안전에 중시한 재난관리와 AI·빅데이터 기반 투여 사원이 신규 재난 안전예산 선정",
-        "재난관리와 교통약자 보호에 중시한 가치를 부여한다.",
-        "정부의 재난 및 안전관리 사업 예산 투자 효율성을 강화한다."
-      ],
-      "insight": "이러한 정보는 IT/기술 관련 업체에서 재단지 상위가계의 재산권 확산 전략을 유도할 수 있다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 이스트시큐리티, 에이전틱 AI·제로트러스트 기반 차세대 보안 플랫폼 대거 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=144443&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 16:54:00 +0900",
-      "description": "분석 넘어 ‘자율 대응’까지... AI 에이전트 기반 완결형 EDR 솔루션 전격 출시[보안뉴스 원병철 기자] 보안 전문기업 이스트시큐리티는 국내 대표 백신 프로그램 ‘알약’(ALYac)을 기반으로 엔드포인트 보안 분야에서 크게 성장한 기업이다. 국내 1,600만 명 이상의 누적 사용자를 보유한 ‘알약’의 운영 경험을 바탕으로 강력한 악성코드 분석 기술과 위",
-      "language": "ko",
-      "summary": "이스트시큐리티는 '알약'에 기초를 둔 대표 백신 프로그램의 전문가 지식과 경영청합니다.",
-      "points": [
-        "- 이스트시큐리티는 국내 대표 백신 프로그램 '알약'을 기반으로 엔드포인트 보안 분석기술에 경륜한 전문가를 선정",
-        "- 이 기술은 AI 기준으로 악성코드 분석을 통해 보안 위험 광벳에서 개선을 위한 경럼입니다.",
-        "- IT/기술 업계에서 '자율 대응'코드 방지를 위해 이스트시큐리티가 보안 분석기술에 의잇으로 광벳에서 확장을 중단합니다."
-      ],
-      "insight": "이 기사는 IT/기술 업계가 보안 질의문 솔루션 개발에 크게 도전하고 있는 상황을 논ふ. AI를 이용한 악성코드 보다시틀리기 위해 강화된 방식의 비대면 보안 기능을 소개합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 엘세븐시큐리티, AI 기반 개인정보 탐지·차단 기술로 개인정보보호 사각지대 해소",
-      "link": "http://www.boannews.com/media/view.asp?idx=144441&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 16:29:00 +0900",
-      "description": "AI OCR과 이미지 분석 기술로 문서·이미지·서버 파일 속 개인정보까지 자동 탐지 및 마스킹[보안뉴스 원병철 기자] 엘세븐시큐리티는 개인정보보호 전문 기업으로, 이미지·문서·서버 파일 내 개인정보를 탐지하고 차단하는 솔루션을 개발·공급하고 있다. 최근 공공기관, 교육기관, 공기업 및 민간기업을 대상으로 개인정보 스캔 및 마스킹 솔루션을 공급하며 사업 영역",
-      "language": "ko",
-      "summary": "AI OCR과 이미지 분석 기술로 문서·이미지·서버 파일 속 개인정보까지 자동 탐지 및 마스킹[보안뉴스 원병철 기자] 엘세븐시큐리티는 개인정보보호 전문 기업으로, 이미지·문서·서버 파일 내 개인정보를 탐지하고 차단하는 솔루션을 개발·공급하고 있다. 최근 공공기관, 교육기관, 공기업 및 민간기업을 대상으로 개인정보 스캔 및 마스킹 솔루션을 공급하며 사업 영역",
-      "points": [
-        "AI OCR과 이미지 분석 기술로 문서·이미지·서버 파일 속 개인정보까지 자동 탐지 및 마스킹[보안뉴스 원병철 기자] 엘세븐시큐리티는 개인정보보호 전문 기업으로, 이미지·문서·서버...",
-        "최근 공공기관, 교육기관, 공기업 및 민간기업을 대상으로 개인정보 스캔 및 마스킹 솔루션을 공급하며 사업 영역",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[이슈칼럼] 오픈소스는 공공재인가, 공격의 통로인가: AI 시대의 새로운 사회적 계약",
-      "link": "http://www.boannews.com/media/view.asp?idx=144426&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 15:36:00 +0900",
-      "description": "오픈소스, AI 에이전트가 자동화된 속도로 파고드는 ‘가장 낮은 방어선’이자 ‘공격의 통로’로공격과 방어 속도의 비대칭 해결 필요...보안, 사후 점검이 아닌 ‘실시간 기술적 보증’으로 전환돼야[보안뉴스= 최윤성 고려대학교 SW보안학과 교수] 최근 보안 업계에서 ‘오픈소스’를 바라보는 시선이 변하고 있다. 지난 수십 년간 IT 생태계의 민주화와 혁신을 이끈",
-      "language": "ko",
-      "summary": "오픈소스와 AI가 공공재인 방어방향으로 IT 생태계의 진화에 직면한다.",
-      "points": [
-        "오픈소스는 IT 생태가 민주화와 혁신을 이끌어내고 있다",
-        "AI에서 방어 속도와 공격의 통로를 해결하도록 자동화된 시대를 만들 수 dependent on their approach.",
-        "보안의 이해가 아니라 '실시간 기술적 보증'에서 전환한다."
-      ],
-      "insight": "공격자와 방어자의 동시성이 AI으로 탐지밖에 나아지고 있다. IT/기술 업계는 이를 준수하여 공격과 방어솔리의 공정성을 유지한 필요가 된다."
-    },
-    {
-      "title": "탐지부터 대응까지 논스톱... 포티넷, 통합 SOC 플랫폼 ‘포티 SOC’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144439&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 15:02:00 +0900",
-      "description": "SIEM·SOAR·UEBA 통합해 AI 자동화알림 피로도 낮춘 사이버 복원력의 새로운 표준 제시[보안뉴스 조재호 기자] 포티넷이 클라우드 기반 통합 보안 운영센터(SOC) 플랫폼 ‘포티SOC’(FortiSOC)를 공식 출시했다고 1일 밝혔다. 핵심 보안 운영 기능을 단일 SaaS 플랫폼으로 통합하고, 에이전틱 AI를 내장해 자산과 ID 전반의 알람을 자율적",
-      "language": "ko",
-      "summary": "포티SOC 플랫폼이 광범위한 IT/보안 운영 기능을 제공하고, AI를 통합해 자산과 ID 알람에 대한 보호를 강화",
-      "points": [
-        "- 포티SOC는 SIEM, SOAR, UEBA, 이하의 기능들을 단일 SaaS 플랫폼으로 통합",
-        "- AI를 통합하여 자산과 ID 전반의 알람에 대한 보호를 효과적으로 강화",
-        0.5
-      ],
-      "insight": "포티SOC는 IT/보안 업계에서 AI를 이용한 보호솔루션 기반 보호철학을 쉽게 구현하고, 노트분양가의 IT/보안 정신에 유의"
-    },
-    {
-      "title": "[이슈진단] 영상보안업계 뜨거운 감자 ‘국정원 보안기능확인서’, 시험기관들 얼마나 준비됐나",
-      "link": "http://www.boannews.com/media/view.asp?idx=144406&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 14:15:00 +0900",
-      "description": "‘TTA 인증서’ 유효기간 종료 카운트다운 시작TTA, 기본시험 약 40일 이내, 동일성 확인 약 5일 이내 인증 획득 가능3/4분기 내 2~3개 시험기관 추가 예상[보안뉴스 엄호식 기자] 지난 5월 13일 시큐리티월드와 보안뉴스는 한국영상정보연구조합과 한국영상보안산업협동조합, 한국첨단안전산업협회, 한국재난안전산업협회 등 국내 대표 물리보안 4개 협단체와의",
-      "language": "ko",
-      "summary": "‘TTA 인증서’ 유효기간 종료 카운트다운 시작TTA, 기본시험 약 40일 이내, 동일성 확인 약 5일 이내 인증 획득 가능3/4분기 내 2~3개 시험기관 추가 예상[보안뉴스 엄호식 기자] 지난 5월 13일 시큐리티월드와 보안뉴스는 한국영상정보연구조합과 한국영상보안산업협동조합, 한국첨단안전산업협회, 한국재난안전산업협회 등 국내 대표 물리보안 4개 협단체와의",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "인스피언, 인도 소프트링크에 해외 세관 신고 자동화솔루션 공급",
-      "link": "http://www.boannews.com/media/view.asp?idx=144438&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 1 Jul 2026 14:07:00 +0900",
-      "description": "첫 해외 현지 파트너 확보5000여 물류기업 네트워크 기반 글로벌 공략[보안뉴스 강현주 기자] 인스피언(대표 최정규)이 인도 글로벌 물류 IT 기업 소프트링크(Softlink Global)와 파트너십 계약을 체결하고 소프트링크의 해외 세관 신고 자동화솔루션 ‘E링크프로’(ElinkPro) 공급을 개시했다고 1일 밝혔다. 이번 계약은 인스피언이 해외 현지",
-      "language": "ko",
-      "summary": "인스피언이 최근에 인도 소프트링크 기업들과 글로벌 IT 기업들의 서비스 공급을 마쳤다. 'E링크프로'라는 자동화 시스템이 소프트링크 관리에서 영향을 미치고 있다.",
-      "points": [
-        "인스피언이 다음과 같은 3가지 포인트를 필터링하였다.",
-        "- 인스피언이 소프트링크 공급에 대한 연창권에서 규정을 마쳤다.",
-        "- E링크프로는 IT/소프트링크 공급 시스템이며, 영향을 미칠 수 0가지고 있다."
-      ],
-      "insight": "인스피언이의 해외 소프트링크 공급에 대한 연구를 통해 기술적인 진화가 있다면, 'E링크프로'와 같은 자동화 시스템이 소프트링크 서비스 공급에 어떤 영향을 미칠지에 대한 연구가 필요하다."
-    },
-    {
-      "title": "The “Father of the Internet” is finally retiring",
-      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Jul 2026 03:15:37 +0000",
-      "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "language": "en",
-      "summary": "After spearheading critical Internet technologies for over three decnery years and becoming known as 'the father of the Internet', Vinton Cerf is retiring from his role at Google next week.",
-      "points": [
-        "Vinton Cerf has been instrumental in developing internet protocols like TCP/IP since the late 1970s",
-        "Cerf's work was pivotal during ARPANET days, when he served as a network manager and Internet evangelist for DARPA.",
-        "His retirement marks an end of his over three decades-long influence on the development and evolution of internet technologies."
-      ],
-      "insight": "Vinton Cerf's departure will leave a significant void in both Google as they bid farewell to one of their most prominent figures, and within the wider IT/technology industry that has benefited immeasurably from his pioneering work on internet protocol development."
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Jul 2026 02:16:06 +0000",
-      "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
-      "language": "en",
-      "summary": "President Donald Trump has lifted restrictions previously placed by him and Secretary of Commerce Wilbur L. Ross Jr., allowing Anthropic's advanced AI models Fable and Mythos to be used freely for research purposes.",
-      "points": [
-        "Anthropic announces the lifting of prior governmental constraints on its two sophisticated language models: 'Fable,' a variant trained only with text from books, and 'Mythos', which uses both book texts and internet-sourced data.",
-        "The decision came after Anthropic's CEO criticized former restrictions as harmful to the AI sector during an open letter addressed directly at President Trump in April 2021.",
-        "Following this, a significant donation of $5 million was made by Google to help fund research into mitigating 'hallucinations' and ensuring accountability within AI systems."
-      ],
-      "insight": "The removal of restrictions signifies an important step towards creating more ethical guidelines in the rapidly advancing field of artificial intelligence, addressing concerns about unaccountable decision-making by large language models like 'Fable' and 'Mythos'. The Google donation further emphasizes a shared responsibility among tech giants to guide AI development responsibly."
-    },
-    {
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 01 Jul 2026 02:04:40 +0000",
-      "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "language": "en",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent",
-      "points": [
-        "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic too...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
