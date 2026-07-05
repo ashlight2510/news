@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-05T08:55:52.204Z",
+  "generatedAt": "2026-07-05T13:31:34.810Z",
   "articles": [
+    {
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 05 Jul 2026 12:47:39 +0000",
+      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "language": "en",
+      "summary": "Investment in artificial intelligence has led to the creation of nearly 90 new 'unicorn' companies this year.",
+      "points": [
+        "-The term 'unicorn' refers to startups valued at over $1 billion, and AI seems to be a major driver for these high valuations within just one quarter of the year.",
+        "-Many investors are drawn by promises of revolutionizing industries with advanced technologies like machine learning (ML) and natural language processing (NLP).",
+        "-The rapid increase in unicorn companies indicates growing confidence among venture capitalists despite potential market saturation risks."
+      ],
+      "insight": "This trend demonstrates the significant impact AI is having on valuations within startup ecosystems and may signal a shift towards prioritizing technological innovation in investment decisions, potentially influencing future industry standards."
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관 54] 세 살 버릇 여든까지 간다(4)-같은 비밀번호 쓰면 털리는 구조",
       "link": "http://www.boannews.com/media/view.asp?idx=143641&kind=&sub_kind=",
@@ -730,21 +745,6 @@
         "The article suggests that even traditional, seemingly non-tech companies are forced to consider or adopt AI and automation technologies due to mounting competition and customer expectations. This adoption may not necessarily stem from a strong understanding or interest in the underlying tech but rather as an essential business strategy for survival."
       ],
       "insight": "The inclusion of artificial intelligence mentions within Jersey Mike's IPO documents illustrates that AI is becoming so mainstream and expected across industries, including traditional small-scale operations like a sandwich shop. The hype around AI might not only be affecting tech companies but also influencing non-tech businesses to incorporate these technologies into their core processes as an essential part of modern business practices."
-    },
-    {
-      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 02 Jul 2026 19:14:46 +0000",
-      "description": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
-      "language": "en",
-      "summary": "Google's AI systems demand so much energy that the carbon footprint of training them is comparable to a small country. Amazon has reportedly used electricity equivalent to over one million homes for its AI efforts in just five months, highlighting significant environmental costs associated with machine learning.",
-      "points": [
-        "- Google's use of renewable energy and carbon offsets does not fully mitigate the massive carbon footprint from training their GPT models.",
-        "- Amazon uses more electricity for AI in a five-month period than some countries produce annually, according to leaked documents that revealed internal cost concerns over using such technologies responsibly.",
-        "- The revelation of these environmental costs associated with machine learning and large language models could lead to increased scrutiny and demands for more sustainable AI practices in the industry."
-      ],
-      "insight": "The article underscores a growing concern within the tech community regarding the substantial energy requirements and consequent carbon emissions of training advanced machine learning systems. This issue might prompt companies to seek greener alternatives or rethink their approach towards sustainable AI development."
     }
   ]
 }
