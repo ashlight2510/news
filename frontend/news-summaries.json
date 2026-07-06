@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-07-06T03:41:22.246Z",
+  "generatedAt": "2026-07-06T10:33:47.887Z",
   "articles": [
+    {
+      "title": "정부 AI 사업에 보안 예산 ‘기본 탑재’로... ‘버짓룰’ 화두 떠올라",
+      "link": "http://www.boannews.com/media/view.asp?idx=144526&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 18:25:00 +0900",
+      "description": "보안특위 화두 던져 첫 논의 이뤄져해외 사례·국내 현황 살피며 검토 지속[보안뉴스 강현주 기자] “정부 인공지능(AI) 사업과 정책에 보안 예산이 ‘기본 탑재’돼야 하는 게 아닐까”라는 화두가 던져졌다.6일 보안 업계 및 학계에 따르면 국가AI전략위원회 보안특별위원회 주도로 ‘AI 시큐리티 버짓룰’(AI Security Budget Rule) 논의가 시작됐",
+      "language": "ko",
+      "summary": "정부 AI 사업에 보안 예산이 필요한 것을 인정하는 화두가 데이터를 따로 먼저 분리하여 공통으로부터서 공지",
+      "points": [
+        "국내外에서 AI 사업에 보안 예산이 필요한 것을 인지하는 화두가 데이터를 따로 먼저 분리하여 공지",
+        "국가AI전략위원회 보안특별위원회 주로 시집한 'AI 시큐리티 버짓룰'를 인용하여 공지",
+        "국내외에서 AI 사업을 보안하거나 눌러보자는 분들은 시집한 공지에 통화를 기다리고 있다."
+      ],
+      "insight": "국가에서의 AI 사업에 대해 'AI 시큐리티 버짓룰'이라는 공지를 보안특위 화두에 더위을 주도로 본다."
+    },
+    {
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 06 Jul 2026 09:00:00 +0000",
+      "description": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation.",
+      "language": "en",
+      "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation",
+      "points": [
+        "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and T...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "‘ISEC Training Course’, LLM 활용해 사이버 위협 파이프라인 구축하는 ‘RAG’ 활용법 배운다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144524&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 17:46:00 +0900",
+      "description": "보안 담당자 위한 전문 교육, 올해는 LLM/RAG 기반 사이버 위협 예측 및 예측 AI Agent 구축 배워2026년 8월 11~12일, ISEC 2026 동시개최 행사로 ‘ISEC Training Course’ 진행[보안뉴스 원병철 기자] 인공지능(AI)을 활용한 사이버 위협이 고도화되면서 방어 측면에서도 AI를 활용하는 방법에 대한 고민이 깊어지고 있",
+      "language": "ko",
+      "summary": "보안 담당자 위한 전문 교육, 올해는 LLM/RAG 기반 사이버 위협 예측 및 예측 AI Agent 구축 배워2026년 8월 11~12일, ISEC 2026 동시개최 행사로 ‘ISEC Training Course’ 진행[보안뉴스 원병철 기자] 인공지능(AI)을 활용한 사이버 위협이 고도화되면서 방어 측면에서도 AI를 활용하는 방법에 대한 고민이 깊어지고 있",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "에버스핀-티냅스 AI 레드티밍 협력... 글로벌 AI 신뢰 보안 시장 공략",
+      "link": "http://www.boannews.com/media/view.asp?idx=144522&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 17:33:00 +0900",
+      "description": "AI 모델 검증·보안 시장 본격 진출[보안뉴스 한세희 기자] AI 보안 전문기업 에버스핀과 AI 안전성 전문기업 티냅스가 AI 시대 신뢰할 수 있는 서비스 환경 구축을 위해 ‘인공지능 신뢰 보안’(AI Trust Security) 분야 전략적 협력 계약을 맺었다고 6일 밝혔다.이번 협력을 통해 에버스핀은 AI 레드티밍(AI Red Teaming) 등 AI",
+      "language": "ko",
+      "summary": "에버스핀과 티냅스는 AI 모델의 안전성을 게교시켜 신뢰할 수 있는 서비스 환경을 구축함",
+      "points": [
+        "- AI 모델 검증·보안에 기여한 에버스핀과 티냅스는 AI Red Teaming을 이용한 공감시험",
+        "- 신뢰성을 높이려면 모델의 원인으로서와 원천으로서 공감 요소를 고려해야 함",
+        "- AI Trust Security 분앞이번 협력을 통해 모델의 안전성과 신뢰성에 대한 공론이 진행"
+      ],
+      "insight": "AI Trust Security 계약은 AI의 신뢰성을 위한 다양한 질문과 부정적인 시도를 통해 모델에 대한 안전성 판단을 개선시킬 것으로서야."
+    },
+    {
+      "title": "北 ‘폴린라이더’ 캠페인, 개발자 노린 악성 패키지 108개 유포",
+      "link": "http://www.boannews.com/media/view.asp?idx=144518&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 17:00:00 +0900",
+      "description": "소켓 연구팀 최신 분석 결과, 개발자 저장소에 162개 악성 배포물 살포위장 구직 제안하는 ‘컨테이저스 인터뷰’ 캠페인 일환으로 개발자 단말 정조준[보안뉴스 김형근 기자] 북한과 연계된 해커들이 개발자와 암호화폐 업계 종사자를 겨냥해 108개의 고도화된 악성 패키지와 웹 브라우저 확장 프로그램을 유포한 사실이 새롭게 드러났다.사이버보안 기업 소켓(Socke",
+      "language": "ko",
+      "summary": "서로 인증해야 할 공유되는 악성 기술에 대한 IT/기술 업계 사내가 다음 정보를 발포했다.",
+      "points": [
+        "개발자 공동백과 연구소는 162개의 안전보호된 악성 기술이 브라우저 확장 프로그램과 결합되어 존재한다.",
+        "108개의 고위탄으로 인한 공유가 불빛에서 풍경적으로 드문다.",
+        "해커들이 개인저작성 방식을 사용하여 악성 기술을 겨냥시킨다."
+      ],
+      "insight": "이 캠페인은 IT/기술 업계에서 공개된 악성 기술의 착용 사록을 제시한다. 따라서, 공유된 이미지와 기술의 인식과 환경에 대한 보호속도가 중요하다."
+    },
+    {
+      "title": "KISIA, 보안 스타트업 투자 활성화 나서",
+      "link": "http://www.boannews.com/media/view.asp?idx=144517&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 15:20:00 +0900",
+      "description": "‘2026년 정보보호 스타트업 협의체 회의’ 개최[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 보안 스타트업 투자 활성화 및 글로벌 클라우드 컴플라이언스 대응 방안을 논의했다고 6일 밝혔다. 로그프레소 대표인 양봉열 한국정보보호산업협회 정보보호 스타트업 협의체 의장은 ‘2026년 정보보호 스타트업 협의체 회의’를 6월 30일 개",
+      "language": "ko",
+      "summary": "2026년 정보보호 스타트업 협의체 회의 개시",
+      "points": [
+        "한국정보보호산업협회가 살아나는 정보보호 스타트업 투자에 대해서, 2026년 정보보호 스타트업 협의체 개시를 6월 30일에 준비하고 있다.",
+        "이 회의는 글로벌 클라우드 컨볼루션 시스템과 개인 정보보호에 대한 통합 작업을 위한 방안창조와 활성화를 의미한다.",
+        "정보보호 스타트업이란, 정보보호를 위한 새로운 기술, 전자화된 시스템 등을 개발하여 사용하는 활동이다."
+      ],
+      "insight": "이러한 의사결정은 IT/기술 산업에서의 경쟁力과 역대적인 정보보호 기술 발전에 영향을 미치는 것임이다."
+    },
+    {
+      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 06 Jul 2026 06:05:29 +0000",
+      "description": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+      "language": "en",
+      "summary": "Agility Robotics, known for their humanoid robots used in manufacturing settings, has gone public through a special purpose acquisition company (SPAC). Despite high valuation targets and increased investment from Amazon's Kiva subsidiary, the CEO cautions that it is too early to bring household robotic assistants.",
+      "points": [
+        "Agility Robotics has completed its merger with a SPAC named Alterian Capital II (AG.I) and will go public on September 20th via an initial public offering",
+        "Despite high valuation goals, Agility's CEO warns that it is premature to talk about household robotics despite the company’s success in automating warehouses with robots like Baxter and Kuri.",
+        "Amazon has invested more than $20 million into AG.I and intends for Agility Robotics' technology as a solution that could improve last mile delivery processes."
+      ],
+      "insight": "While humanoid robot startups are racing to make robots common in everyday life, the news suggests caution about their timely domestic introduction with current manufacturing focus and technological limitations. Additionally, Amazon's involvement indicates an interest in enhancing delivery systems through automation."
+    },
+    {
+      "title": "[이슈칼럼] 점·선·면, 지속가능한 보안 운영의 새로운 프레임워크",
+      "link": "http://www.boannews.com/media/view.asp?idx=144514&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 14:55:00 +0900",
+      "description": "자산 생성부터 소유자 정보, 접근 권한, 로그 수집, 보안 정책 적용 여부까지 관리돼야통제 장치들이 변화하는 환경 속에서도 지속적으로 작동하도록 설계하는 것이 핵심[보안뉴스= 장세인 토스증권 CISO 겸 보안 총괄] 최근 발생하는 보안 사고들의 표면적인 원인은 다양하다. 자산 관리 실패, 과도한 권한 남용, 탐지 누락, 개인정보 관리 미흡 등 사고가 발생하",
+      "language": "ko",
+      "summary": "자산 생성부터 소유자 정보, 접근 권한, 로그 수집, 보안 정책 적용 여부까지 관리돼야통제 장치들이 변화하는 환경 속에서도 지속적으로 작동하도록 설계하는 것이 핵심[보안뉴스= 장세인 토스증권 CISO 겸 보안 총괄] 최근 발생하는 보안 사고들의 표면적인 원인은 다양하다. 자산 관리 실패, 과도한 권한 남용, 탐지 누락, 개인정보 관리 미흡 등 사고가 발생하",
+      "points": [
+        "자산 관리 실패, 과도한 권한 남용, 탐지 누락, 개인정보 관리 미흡 등 사고가 발생하",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 보안 투자 잘 해야 잘 나가는 기업된다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144515&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 14:45:00 +0900",
+      "description": "수천억원대 과징금 부과된 개인정보 유출 사고의 교훈보안을 넘어 성장 인프라 구축하는 필수 경영 전략으로 부상[보안뉴스= 배종찬 인사이트케이 연구소장] AI 기술이 촉발한 대전환의 이면에는 기업의 명운을 흔드는 거대한 보안 위협이 도사리고 있다. 지난달 2일부터 7월 1일까지 썸트렌드(SomeTrend)가 분석한 빅데이터 연관어 분석 결과는 오늘날 기업들이",
+      "language": "ko",
+      "summary": "수천억원대 과징금 부과된 개인정보 유출 사고의 교훈보안을 넘어 성장 인프라 구축하는 필수 경영 전략으로 부상[보안뉴스= 배종찬 인사이트케이 연구소장] AI 기술이 촉발한 대전환의 이면에는 기업의 명운을 흔드는 거대한 보안 위협이 도사리고 있다. 지난달 2일부터 7월 1일까지 썸트렌드(SomeTrend)가 분석한 빅데이터 연관어 분석 결과는 오늘날 기업들이",
+      "points": [
+        "수천억원대 과징금 부과된 개인정보 유출 사고의 교훈보안을 넘어 성장 인프라 구축하는 필수 경영 전략으로 부상[보안뉴스= 배종찬 인사이트케이 연구소장] AI 기술이 촉발한 대전환의 ...",
+        "지난달 2일부터 7월 1일까지 썸트렌드(SomeTrend)가 분석한 빅데이터 연관어 분석 결과는 오늘날 기업들이",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "카스퍼스키, 중소·중견기업 덮친 3대 보안 위협 경고... “통합 가시성이 해답”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144513&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 14:41:00 +0900",
+      "description": "대중화된 서비스형 랜섬웨어와 AI 기반 지능형 피싱 기승파편화된 보안 솔루션 걷어내고 단일 플랫폼으로 일원화 필요해[보안뉴스 조재호 기자] 카스퍼스키가 중소·중견 기업이 직면한 주요 사이버 보안 과제를 분석하고 이에 대응하기 위한 통합 운영 전략을 6일 발표했다.카스퍼스키는 중소·중견 기업의 핵심 사이버 리스크로 △랜섬웨어의 대중화 △피싱 공격의 고도화 △",
+      "language": "ko",
+      "summary": "대중화된 서비스형 랜섬웨어와 AI 기반 지능형 피싱 기승파편화된 보안 솔루션 걷어내고 단일 플랫폼으로 일원화 필요해[보안뉴스 조재호 기자] 카스퍼스키가 중소·중견 기업이 직면한 주요 사이버 보안 과제를 분석하고 이에 대응하기 위한 통합 운영 전략을 6일 발표했다. 카스퍼스키는 중소·중견 기업의 핵심 사이버 리스크로 △랜섬웨어의 대중화 △피싱 공격의 고도화 △",
+      "points": [
+        "대중화된 서비스형 랜섬웨어와 AI 기반 지능형 피싱 기승파편화된 보안 솔루션 걷어내고 단일 플랫폼으로 일원화 필요해[보안뉴스 조재호 기자] 카스퍼스키가 중소·중견 기업이 직면한 주...",
+        "카스퍼스키는 중소·중견 기업의 핵심 사이버 리스크로 △랜섬웨어의 대중화 △피싱 공격의 고도화 △",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "블로세이프, 2026년 강화된 ISMS 인증 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=144511&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 13:24:00 +0900",
+      "description": "2025년 VASP 인가에 이어 AI 해킹 위협까지 원천 차단하는 가상자산 수탁사화이트해커·독자적 MPC 기술 결합으로 기업·기관 최적화 커스터디 솔루션 완성[보안뉴스 원병철 기자] 블로세이프(Blosafe)가 2026년도 개정 심사 기준이 적용된 ‘정보보호 관리체계’(ISMS) 인증을 성공적으로 취득했다고 6일 밝혔다.블로세이프는 규제 당국의 심사가 극도",
+      "language": "ko",
+      "summary": "2026년 VASP 인가에 이어 AI 해킹 위협을 완전히 방화하여 ISMS 인증을 블로세이프가 성공적으로 받았다.",
+      "points": [
+        "AI 해킹 위협을 완전히 방화한 2026년 VASP 인가에 이어",
+        "규제 국가의 심사를 받은 ISMS 인증이 성공적",
+        "기술 업무를 모두 AI로 위협을 완화"
+      ],
+      "insight": "이러한 AI 해킹 방안으로 보호받은 ISMS 인증은 IT/기술 업계에서의 최체꾀권을 나타냈다."
+    },
+    {
+      "title": "“AI CCTV·돌봄로봇 도입” 진천군, AI 기반 스마트 돌봄 본격화",
+      "link": "http://www.boannews.com/media/view.asp?idx=144502&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 6 Jul 2026 13:18:00 +0900",
+      "description": "과기부 온디바이스 AI 실증사업 선정국비 포함 총사업비 48억3000만원 확보‘군민이 체감하는 스마트 진천’ 실현 기반 마련[보안뉴스 강초희 기자] 충북 진천군(군수 김명식)은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관한 ‘2026년 온디바이스 AI 서비스 실증·확산 사업’ 공모에 선정돼 총사업비 48억3000만원을 확보했다고 6일 밝혔다.‘온",
+      "language": "ko",
+      "summary": "진천군에서 인공지원 AI CCTV 시스텬 도찰을 시작한다.",
+      "points": [
+        "과학기술정보통신부와 NIPA이 선정한 '2026년 온디바이스 AI 서비스 실증·확산 사업'에서 진천군은 48억3만원을 투자했다.",
+        "48억3만원의 발생이 인공지원 CCTV 시스템의 도움이 가능한 것은?",
+        "인공지원 CCTV 시스템을 도약하기 전에, 진천군은?"
+      ],
+      "insight": "이 기사는 AI 기반 스마트 돌봄 시스텐의 본격화와 추가로 48억3만원 공모에서의 진짜인지 여부를 다루는 중요한 생산기업 이렇게 IT/기술 업계에서 AI 기술의 확보적인 방안을 제시하고 있다."
+    },
     {
       "title": "포티넷코리아, AI 시대 스타트업 사이버보안 교육·컨설팅 제공",
       "link": "http://www.boannews.com/media/view.asp?idx=144509&kind=&sub_kind=",
@@ -568,185 +748,6 @@
         "- 금융권의 AI 경쟁에 어려움을 보였다"
       ],
       "insight": "이 사항은 AI의 원본공정성과 급변화가 인재분으로부터의 안전성에 영향을 미치는 문제점을 강조해줌."
-    },
-    {
-      "title": "서울AI허브-공군 항공우주전투발전단, 인공지능 교류협력 MOU 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=144488&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 17:49:00 +0900",
-      "description": "산업AX 지원 토대로 공군 AI 수요와 스타트업 혁신기술 연결공군 오픈이노베이션 성과 토대로 AI 실증·공동연구 확대 및 국방 AX 협력 고도화[보안뉴스 엄호식 기자] 서울시가 운영하는 서울AI허브와 공군 항공우주전투발전단이 7월 3일 서울AI허브 메인센터에서 ‘인공지능 교류협력 업무협약’을 체결했다. 이번 협약은 지난해부터 이어온 공군 AI 오픈이노베이션",
-      "language": "ko",
-      "summary": "산업AX 지원 토대로 공군 AI 수요와 스타트업 혁신기술 연결공군 오픈이노베이션 성과 토대로 AI 실증·공동연구 확대 및 국방 AX 협력 고도화[보안뉴스 엄호식 기자] 서울시가 운영하는 서울AI허브와 공군 항공우주전투발전단이 7월 3일 서울AI허브 메인센터에서 ‘인공지능 교류협력 업무협약’을 체결했다. 이번 협약은 지난해부터 이어온 공군 AI 오픈이노베이션",
-      "points": [
-        "이번 협약은 지난해부터 이어온 공군 AI 오픈이노베이션",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "2026 IT21 글로벌 컨퍼런스 성료... AI 시대 신뢰와 혁신의 미래 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144487&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 17:39:00 +0900",
-      "description": "AI 안전·에이전틱 AI·사이버보안·국방AI·AI 평가체계 등 미래 ICT 핵심 의제 논의이틀간 국내외 산학연 전문가 참여... AI 산업 발전과 협력의 장 마련[보안뉴스 한세희 기자] 한국정보처리학회(회장 박능수)는 2-3일 서울 피스앤파크 컨벤션에서 개최한 ‘2026 IT21 글로벌 컨퍼런스’를 성황리에 마무리했다고 3일 밝혔다. 올해 컨퍼런스는 ‘",
-      "language": "ko",
-      "summary": "기사는 IT21 글로벌 컨퍼런스 위원회에서의 기타 소식이며, 해외에서도 이룰 수 dependent인 계보를 볼 수 있다.",
-      "points": [
-        "2026 IT21 글로벌 컨퍼런스 위원회에서의 기타 소식",
-        "해외의 ICT 핵심 의주를 위한 기회임",
-        "AI 시대 신뢰와 혁신을 제시한다"
-      ],
-      "insight": "이 기사는 IT/기술 업계가 AI를 통해 성공하고자 하는 미래 진로를 알려준다."
-    },
-    {
-      "title": "성남시, 스마트 버스쉘터 107개 더 늘린다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144486&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 17:26:00 +0900",
-      "description": "전국 최대 195개 쉴터 운영무더위쉼터 지정 등 공공기능 확대[보안뉴스 엄호식 기자] 성남시(시장 신상진)는 시민들이 보다 안전하고 쾌적하게 대중교통을 이용할 수 있도록 올해 스마트 버스쉘터 107개소를 추가 설치한다고 밝혔다. 사업이 완료되면 시가 운영하는 스마트 버스쉘터는 총 195개소 이상으로 늘어나 전국 지방자치단체 가운데 최대 규모를 갖추게 된다.",
-      "language": "ko",
-      "summary": "성남시는 전국 최대 195개 스마트 버스쉘터로 갈아잡할 수 don't have a detailed insight in Korean for this article.",
-      "points": [
-        "성남시는 전국 최대 195개 스마트 버스쉘터로 갈아잡할 수 있다.",
-        "- 현재 107개소가 등장하기 전에 이를 통해 시민들의 보안성과 만족도 향상",
-        "스마트 버스쉘터는 이러한 추가적인 소로 운영되어 시민들의 생산성과 편안한 이주경로 존재"
-      ],
-      "insight": "성남시는 보안성을 장애하고 있으며 스마트 버스쉘터는 그에 대비해서 이를 강화하고자 한다. '전국 최대 195개 스마트 버스쉘터로 갈아잡할 수 있다'는 소식은 시민들이 안전한 교통을 위해 더 나은 방법을 사용하도록 자리를 보정하고자 한다."
-    },
-    {
-      "title": "정부 “피지컬 AI·에이전틱 AI 대응 개인정보 보호 기준 마련”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144485&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 17:21:00 +0900",
-      "description": "‘신뢰 기반 AI 혁신 촉진 제3차 개인정보 보호 기본계획’ 발표“피지컬 AI 상시적 정보 수집 대응”[보안뉴스 강현주 기자] 정부가 인공지능(AI) 시대에 맞춰 실물 AI(피지컬 AI)와 자율형 AI(에이전틱 AI) 대응 등 개인정보 보호 체계 등을 마련한다. 개인정보보호위원회는 3일 열린 경제관계장관회의에서 관계부처와 합동으로 ‘제3차 개인정보 보호",
-      "language": "ko",
-      "summary": "정부는 인공지능(AI)를 통해 개인정보보호 시스템을 구성하여 개인정보보호 기술화를 진행.",
-      "points": [
-        "정부 내에서 AI(피지컬 AI)와 자율형 AI(에이전틱 AI)를 모두 사용하여 개인정보보호 기술화를 받치.",
-        "3차 개인정보 보호 기준을 마련한다.",
-        "정보보호 기술화는 신뢰성, 자동화, 많은 자동화로 필요합니다."
-      ],
-      "insight": "이러한 개인정보보호 기술화를 시스템화해서 개인정보보호를 열리는데 전문가와 계약자의 조직이 중요합니다."
-    },
-    {
-      "title": "인천시, 반려견 ‘코 지문’으로 등록... 계양·미추홀구서 첫선",
-      "link": "http://www.boannews.com/media/view.asp?idx=144484&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 16:47:00 +0900",
-      "description": "내장형 칩 거부감·외장형 분실 우려 보완...동물등록 활성화 기대[보안뉴스 강초희 기자] 인천광역시(시장 박찬대)가 반려견의 체계적인 관리와 유실·유기 방지를 목적으로 오는 8월부터 5개월간 ‘반려견 비문등록 시범사업’을 추진한다.비문등록은 사람의 지문처럼 개체별로 각기 다른 반려견 코의 고유한 무늬를 활용하는 생체인식 방식이다. 목걸이 형태인 기존 외장형",
-      "language": "ko",
-      "summary": "인천시는 반렵견을 관리하기 위해 '코 지문'를 이용한 다수의 반렵견을 등록했다.",
-      "points": [
-        "인천시는 8월부터 5개월간 '반렵견 비문등록 시범사업'을 진행한다.",
-        "이러한 약산먼지를 관리하기 위해 오는 반렵견의 질서와 인식을 고려한다.",
-        "반렸을 모여 '코 지문'를 이용한 등록방법은 생체 인식의 기술이다."
-      ],
-      "insight": "인천시는 환경질경리에 대한 IT/기술 업체적인 방법을 도구로 이용하고, 의사근질과 기술적인 조치를 통해 환경적으로 모여야만한다."
-    },
-    {
-      "title": "[카드뉴스] “아군 위성망이 적의 조종기로?”… 전장 뒤흔드는 ‘불법 교차 활용’ 해킹의 공포",
-      "link": "http://www.boannews.com/media/view.asp?idx=144483&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 16:26:00 +0900",
-      "description": "국경이 없는 상업용 위성 네트워크 인프라를 적대 세력이 해킹하여 자국 드론의 실시간 제어 스펙트럼으로 가로채 쓰는 ‘불법 교차 활용(Illicit Use)’ 리스크가 현대 지정학적 분쟁의 거대한 위협으로 떠올랐다. 이에 대응하기 위해 국가 및 군 안보 당국은 사전에 검증되어 화이트리스트(Whitelist)에 등록된 기기 세트 외의 모든 접근 요소를 실시간으",
-      "language": "ko",
-      "summary": "게다로 우리는 IT 인증성의 문제를 보여주고 있습니다.",
-      "points": [
-        "국가 및 군 안보 당국은 IT 위험을 인식하고 Whitelist에서 브렛리즕된 기기를 제거하고 있다.",
-        "이러한 중요한 의사소통을 IT 공학이 확장하여 개선해야 함으로써 방지하거나, 어떤 조치도 필요합니다.",
-        "불법적인 IT 소유성이 국가의 정신과 안전을 위해 더 강하게 사용되고 있는지, 확인가능합니다."
-      ],
-      "insight": "현재 IT/기술 업계에서의 경영자들은 'Whitelist'를 이용하여 시스템을 보호하고 유지보수를 강조해야 합니다. '불법 교차 활용'에 대한 보호적인 전문가작성과 업데이트가 필요합니다."
-    },
-    {
-      "title": "센스톤, 유럽 OT 보안 뚫었다... ‘실행 시점’ 접근통제 기술력 입증",
-      "link": "http://www.boannews.com/media/view.asp?idx=144480&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 15:58:00 +0900",
-      "description": "엠엑스온과 공동 개발한 ‘OTAC Trusted Access Gateway’ KC·CE 인증 획득실제 설비 환경에서 사용자 인증·접근통제 기능 제공하는 엔드포인트 보안 구현 [보안뉴스 조재호 기자] 센스톤이 산업 현장에 최적화된 OT 보안 솔루션의 상용화 준비를 마쳤다. 단방향 통신 기술을 적용해 기존 설비 변경 없이 외부 인력의 무단 접근과 계정 공유를",
-      "language": "ko",
-      "summary": "설마이스터가 'OTAC Trusted Access Gateway'를 통해 무단 인사이즈로그인과 공유 방어한다.",
-      "points": [
-        "설마이스터는 'OTAC Trusted Access Gateway'를 사용하여, 사람들의 무단 인사이즈로인증과 공유를 차지할 수 0ne 가지와",
-        "..."
-      ],
-      "insight": "기사는 이 시장에서 기술적인 보안 전략의 중요성과 역주을 제공한다."
-    },
-    {
-      "title": "국가보안기술연구소, 2026 국가디지털포렌식백서 창간",
-      "link": "http://www.boannews.com/media/view.asp?idx=144482&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 15:56:00 +0900",
-      "description": "인공지능 시대 첨단수사를 위한 방향 제시미래 디지털 환경 변화에 대응할 수 있는 수사 역량 향상 기대[보안뉴스 원병철 기자] 최근 인공지능(AI), 클라우드, 가상자산, 암호화 기술 등 디지털 기술이 사회 전반으로 빠르게 확산되면서 국민 생활의 편의와 산업 혁신이 가속화되고 있다. 그러나 기술 발전의 이면에서는 생성형 AI를 악용한 허위정보와 딥페이크 범죄",
-      "language": "ko",
-      "summary": "국가보안기술연구소는, AI 및 함께 등장한 다수의 기술들이 사회 전반에 인식하고 활동하는 현지적 변화를 대비하기 위해, 국민 수사 역량을 향상시키고자 한국어로 요약",
-      "points": [
-        "국가보안기술연구소는, AI와 같은 인공지능과 딥페이지 시스템으로 인식하고 활동하고 있는 현지적 변화를 대비해, 국민 수사 역량을 향상시키기 위해 방향을 제안합니다.",
-        "인공지능이 공개된 정보와 협상법적인 관립이 재구성되어, 보안의 위기가 일시절차로 확대돼지고 있으며, 국민은 생질하게 인공지능과 관련해 보안에 최선으로 신경을 종등시키며 자연스러운 수사 기술이 중요합니다.",
-        "국가보안기술연구소는, 이러한 현状에서 AI를 이용한 허위정보와 딥페이지 범죄로 인한 악화 영향을 고려해 재조정된 수사 복잡도를 극복하기 위해 국민 수사 역량을 다시 강화하는 것이 중요합니다."
-      ],
-      "insight": "인공지능의 활동이 국민들에게 악화 영향을 미치는 현상은 시대적인 전제로, 국가보안기술연구소는 수사 역량을 강화하여 이 증가적인 위기에서 보호를 확보해야 합니다."
-    },
-    {
-      "title": "이상중 KISA 원장 “특사경은 범인 검거가 목적... AX 역기능 전과정 핸들링”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144481&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 15:01:00 +0900",
-      "description": "AX 시대 사이버 특사경 필요성 강조“침해 사고, 신고부터 범인까지 제대로 일하겠다”[보안뉴스 강현주 기자] “사이버 특별사법경찰관 도입은 기업 압박 목적이 아닌 범인을 잡기 위함입니다. 기술과 디지털 사건 현장을 잇는 특사경을 통해 신고부터 범인 특정까지, AI 전환 시대 사이버 역기능 전과정을 제대로 핸들링 하겠습니다.”3일 이상중 한국인터넷진흥원(KI",
-      "language": "ko",
-      "summary": "AX 시대 사이버 특사경 필요성 강조“침해 사고, 신고부터 범인까지 제대로 일하겠다”[보안뉴스 강현주 기자] “사이버 특별사법경찰관 도입은 기업 압박 목적이 아닌 범인을 잡기 위함입니다. 기술과 디지털 사건 현장을 잇는 특사경을 통해 신고부터 범인 특정까지, AI 전환 시대 사이버 역기능 전과정을 제대로 핸들링 하겠습니다...",
-      "points": [
-        "AX 시대 사이버 특사경 필요성 강조“침해 사고, 신고부터 범인까지 제대로 일하겠다”[보안뉴스 강현주 기자] “사이버 특별사법경찰관 도입은 기업 압박 목적이 아닌 범인을 잡기 위함...",
-        "기술과 디지털 사건 현장을 잇는 특사경을 통해 신고부터 범인 특정까지, AI 전환 시대 사이버 역기능 전과정을 제대로 핸들링 하겠습니다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 03 Jul 2026 05:05:00 +0000",
-      "description": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
-      "language": "en",
-      "summary": "A government customer misused Pegasus spyware to hack into a European politician' endangered phone while he was serving on an EU committee probing its use by states and corporates.",
-      "points": [
-        "Government used NSO Group’s Pegasus for cyber espionage",
-        "European Politician targeted with spyware during his role in a relevant European Union inquiry",
-        "Misuse of technology under scrutiny, leading to personal and political repercussions"
-      ],
-      "insight": "This news reveals the potential ethical pitfalls within cyber intelligence agencies when state actors misappropriate surveillance tools intended for national security purposes. It highlights a conflict of interest that could undermine public trust in oversight mechanisms and raises concerns about privacy violations."
-    },
-    {
-      "title": "테이텀시큐리티, 클라우드 사각지대 지운다... ‘2026 우수 정보보호 기술’ 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144478&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 13:53:00 +0900",
-      "description": "올인원 솔루션 ‘테이텀 CNAPP’ 기술력 공인, 2년간 국가 지원 멀티 클라우드 환경 워크로드 위협·설정 오류 선제 차단하는 아키텍처 입증[보안뉴스 조재호 기자] 테이텀시큐리티는 자사의 올인원 클라우드 보안 솔루션인 ‘테이텀 CNAPP’이 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 2026년 우수 정보보호 기술에 최종 선정됐다고 3일 밝혔다",
-      "language": "ko",
-      "summary": "올인원 솔루션 ‘테이텀 CNAPP’ 기술력 공인, 2년간 국가 지원 멀티 클라우드 환경 워크로드 위협·설정 오류 선제 차단하는 아키텍처 입증[보안뉴스 조재호 기자] 테이텀시큐리티는 자사의 올인원 클라우드 보안 솔루션인 ‘테이텀 CNAPP’이 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 2026년 우수 정보보호 기술에 최종 선정됐다고 3일 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 침수 예방·감지 리포트] 기후위기와 도시 안전: 침수 대응 시장 분석",
-      "link": "http://www.boannews.com/media/view.asp?idx=144418&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 3 Jul 2026 12:43:00 +0900",
-      "description": "환경과 기후의 변화로 침수 사고 예방과 대응에 대해 철저한 대비의 중요성 높아져침수 전조 감지 및 실시간 알람, 현장 경보, 통합관제 연동 요구침수 예방·감지 제품 & 솔루션 집중 분석: 비엔에스테크[보안뉴스 엄호식 기자] 침수(浸水)는 물에 잠기는 현상을 뜻하는 말로, 일반적으로는 강우나 홍수, 태풍, 댐 붕괴 등으로 인해 토지나 건물, 도로, 농경지,",
-      "language": "ko",
-      "summary": "기사는 기후의 변화로인한 침수악용 시장 분석을 제이나인 바다, 오속자 환경과 연결시켜 시스템적으로 침수를 방지하고 대응하는 새로운 제품과 기능을 살페어맞이한 발전적인 지원 노드, 현장 경보 등의 약화와 대칭 조정 제품들의 시장에 대해 다른 IT/기술 서비스가 광벡터으로 이루어진 충막약풀을 고안하는 기업들이 발전중인 상황.",
-      "points": [
-        "강우나 홍수, 태풍과 같은 기후의 변화로인한 침수악용을 피하고 대응하는 제품의 시장 충막약풀",
-        "새로운 발전적인 지원 노드, 현장 경보 등을 통해 침수를 예방하고 대응하는 제품들의 관련 서비스가 IT/기술 업계에 어떤 영향을 미치는지",
-        "균리치적인 시장 분석이 서비스와 기업에게 투자를 위한 정보를 제공하는 역사가 중요한 IT/기술 기사인지"
-      ],
-      "insight": "이러한 기사는 IT/기술 업계에서 온라인과 다운로드, 마이크를 통해 곡성저장을 가능하게 합니다."
     }
   ]
 }
