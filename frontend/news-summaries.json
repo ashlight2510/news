@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-07-06T19:56:47.862Z",
+  "generatedAt": "2026-07-07T03:08:34.452Z",
   "articles": [
+    {
+      "title": "[CISO KOREA 2026] CISO가 마주한 변화된 보안환경에 대한 고민, ‘CISO KOREA 2026’ 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144538&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 11:52:00 +0900",
+      "description": "7월 7일 용산 피스앤파크에서 ‘AI 시대의 CISO 실전노트’ 주제로 열려한국CISO협의회 회원, 기관 및 기업 CISO 등 1000여명 참석... 48개 기관 및 기관 함께해 [보안뉴스 원병철 기자] AI의 활용이 전 산업으로 확대되고, 기업은 물론 공공기관에까지 그 여파가 미치면서 이제 보안담당자는 ‘AI를 위한 보안’(Security for AI)과",
+      "language": "ko",
+      "summary": "7월 7일 용산 피스앤파크에서 ‘AI 시대의 CISO 실전노트’ 주제로 열려한국CISO협의회 회원, 기관 및 기업 CISO 등 1000여명 참석. 48개 기관 및 기관 함께해 [보안뉴스 원병철 기자] AI의 활용이 전 산업으로 확대되고, 기업은 물론 공공기관에까지 그 여파가 미치면서 이제 보안담당자는 ‘AI를 위한 보안’(Security for AI)과",
+      "points": [
+        "7월 7일 용산 피스앤파크에서 ‘AI 시대의 CISO 실전노트’ 주제로 열려한국CISO협의회 회원, 기관 및 기업 CISO 등 1000여명 참석",
+        "48개 기관 및 기관 함께해 [보안뉴스 원병철 기자] AI의 활용이 전 산업으로 확대되고, 기업은 물론 공공기관에까지 그 여파가 미치면서 이제 보안담당자는 ‘AI를 위한 보안’(S...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "라온시큐어, ‘옴니원 디지털 ID’ GS인증 1등급 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=144536&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 11:51:00 +0900",
+      "description": "탈중앙화 실현한 분산신원인증 기술로 웹3 신뢰 거버넌스 확립공공·금융·교육 등 이기종 산업 전반에 하이엔드 보안 인증 표준 제시[보안뉴스 조재호 기자] 라온시큐어는 자사 블록체인 기반 신원·자격 인증 통합 플랫폼 ‘옴니원 디지털 ID’(OmniOne Digital ID)가 한국정보통신기술협회(TTA) 소프트웨어 품질인증 GS(Good Software)인증",
+      "language": "ko",
+      "summary": "탈중앙화 실현한 분산신원인증 기술로 웹3 신뢰 거버넌스 확립공공·금융·교육 등 이기종 산업 전반에 하이엔드 보안 인증 표준 제시[보안뉴스 조재호 기자] 라온시큐어는 자사 블록체인 기반 신원·자격 인증 통합 플랫폼 ‘옴니원 디지털 ID’(OmniOne Digital ID)가 한국정보통신기술협회(TTA) 소프트웨어 품질인증 GS(Good Software)인증",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "AI 코딩 비서를 AI 취약점 연구원으로...‘T3MP3ST’ 프레임워크 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144535&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 10:22:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 일반 AI 코딩 어시스턴트를 자율형 취약점 연구원으로 전환시키는 보안 프레임워크 ‘T3MP3ST’가 공식 공개됐다. 이 시스템은 35개의 전문 보안 도구를 탑재해 대형 언어 모델(LLM)과 직접 연동하며 소프트웨어 아키텍처 내부의 복잡한 결함을 추적한다.특히 기존에 문서화되지 않은 미공개 취약점(제로데이)과 정교한 로직 오류를 스스",
+      "language": "ko",
+      "summary": "[보안뉴스 김형근 기자] 일반 AI 코딩 어시스턴트를 자율형 취약점 연구원으로 전환시키는 보안 프레임워크 ‘T3MP3ST’가 공식 공개됐다. 이 시스템은 35개의 전문 보안 도구를 탑재해 대형 언어 모델(LLM)과 직접 연동하며 소프트웨어 아키텍처 내부의 복잡한 결함을 추적한다...",
+      "points": [
+        "[보안뉴스 김형근 기자] 일반 AI 코딩 어시스턴트를 자율형 취약점 연구원으로 전환시키는 보안 프레임워크 ‘T3MP3ST’가 공식 공개됐다",
+        "이 시스템은 35개의 전문 보안 도구를 탑재해 대형 언어 모델(LLM)과 직접 연동하며 소프트웨어 아키텍처 내부의 복잡한 결함을 추적한다",
+        "특히 기존에 문서화되지 않은 미공개 취약점(제로데이)과 정교한 로직 오류를 스스"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "국민과 함께 만드는 항공보안, ‘2026 항공보안주간’ 7월 8~10일 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144534&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 10:04:00 +0900",
+      "description": "국산 항공보안 장비 체험, 항공보안 문화확산 캠페인, 항공보안 채용 설명회 등 진행[보안뉴스 엄호식 기자] 국토교통부(장관 김윤덕)는 국가정보원, 경찰청과 함께 오는 7월 8일부터 10일까지 3일간 국립항공박물관과 인천·김포 등 전국 주요 공항에서 ‘2026 항공보안주간’을 개최한다고 밝혔다.올해로 2회째를 맞는 항공보안주간은 “국민과 함께 만드는 항공보안",
+      "language": "ko",
+      "summary": "국산 항공보안 장비 체험, 항공보안 문화확산 캠페인, 항공보안 채용 설명회 등 진행[보안뉴스 엄호식 기자] 국토교통부(장관 김윤덕)는 국가정보원, 경찰청과 함께 오는 7월 8일부터 10일까지 3일간 국립항공박물관과 인천·김포 등 전국 주요 공항에서 ‘2026 항공보안주간’을 개최한다고 밝혔다. 올해로 2회째를 맞는 항공보안주간은 “국민과 함께 만드는 항공보안",
+      "points": [
+        "올해로 2회째를 맞는 항공보안주간은 “국민과 함께 만드는 항공보안",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[항공보안 칼럼] 항공보안의 마지막 방어선은 사람이다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144529&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 09:59:00 +0900",
+      "description": "급변하는 항공 위협 대응 위해 보안인력 교육·훈련 강화 및 기관 간 협력 필요7월 9일 ‘항공보안 패러다임의 변화와 보안요원 역량강화’ 주제로 미래항공보안포럼 개최[보안뉴스=박재완 (사)대한민국항공보안협회 회장] 지난해 1월 김해국제공항에서 출발을 준비하던 한 여객기에서 불이 났다. 승객과 승무원 등 176명이 전원 탈출했지만, 기체는 사실상 전소됐다. 유",
+      "language": "ko",
+      "summary": "급한 항공위협에 대비하기 위해 전문가 교육과 협력이 중요하다.",
+      "points": [
+        "포럼에서 전원 관리자가 강력한 행동을 취해 보안에 대한 응용을 강조할 가능성이 있다.",
+        "176명이 전원 탈출하여 보안의 신경맹시켰다.",
+        "포럼 개체적인 보안 기술과 관련된 교육의 중요성을 강조해준다."
+      ],
+      "insight": "이러한 행동은 IT/컴퓨터 보안 업체에서 다른 기업과의 간선 보호와 사회적 역량을 강조한다."
+    },
+    {
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 07 Jul 2026 00:47:33 +0000",
+      "description": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "language": "en",
+      "summary": "A recent report indicates a decline in Netflix viewers' retention for Season 2 of shows they have watched on-demand or binge-watched previously.",
+      "points": [
+        "Netflix audiences are increasingly abandoning their second watches, as evidenced by the fact that only a fraction continue to engage with subsequent seasons even after watching multiple episodes in one sitting (binge-watching).",
+        "The decline of binge-watching's appeal is not just about Netflix viewers; it reflects broader trends where audiences are seeking new and diverse forms of entertainment.",
+        "This change suggests that while streaming services like Netflix initially attracted users with their on-demand, uninterrupted watching experience (binge-watching), they must now innovate to retain subscribers in the face of evolving viewer preferences."
+      ],
+      "insight": "The diminishing effectiveness of binge-watching as a unique selling proposition for streaming services like Netflix could necessitate new content discovery and engagement strategies to maintain subscriber loyalty. As viewers seek novel experiences, the industry may shift towards more dynamic interaction models beyond simple on-demand access."
+    },
+    {
+      "title": "AI 에이전트가 전체 랜섬웨어 공격 주도... ‘제이드퍼퍼’(JadePuffer) 공격 포착",
+      "link": "http://www.boannews.com/media/view.asp?idx=144531&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 09:47:00 +0900",
+      "description": "AI 에이전트가 사람 해커처럼 실패 상황에 적응, 문제 해결[보안뉴스 김형근 기자] 거대언어모델(LLM) 기반 AI 에이전트가 침투부터 최종 암호화에 이르는 전 과정을 완전히 자동화해 수행한 랜섬웨어 공격 사례를 보안 기업 시스딕(Sysdig)이 발견했다. AI가 랜섬웨어 전체 과정을 스스로 수행한 것이 확인된 사례는 이번이 처음이다. ‘제이드퍼퍼’(Jad",
+      "language": "ko",
+      "summary": "AI 에이전트가 사람 해커처럼 실패 상황에 적응, 문제 해결[보안뉴스 김형근 기자] 거대언어모델(LLM) 기반 AI 에이전트가 침투부터 최종 암호화에 이르는 전 과정을 완전히 자동화해 수행한 랜섬웨어 공격 사례를 보안 기업 시스딕(Sysdig)이 발견했다. AI가 랜섬웨어 전체 과정을 스스로 수행한 것이 확인된 사례는 이번이 처음이다...",
+      "points": [
+        "AI 에이전트가 사람 해커처럼 실패 상황에 적응, 문제 해결[보안뉴스 김형근 기자] 거대언어모델(LLM) 기반 AI 에이전트가 침투부터 최종 암호화에 이르는 전 과정을 완전히 자동...",
+        "AI가 랜섬웨어 전체 과정을 스스로 수행한 것이 확인된 사례는 이번이 처음이다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "아레스사이버전략연구소-USTTI, 글로벌 사이버 회복력 강화 MOU 체결",
+      "link": "http://www.boannews.com/media/view.asp?idx=144528&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 09:27:00 +0900",
+      "description": "사이버 보안 지식 교류 및 인재 네트워크 구축[보안뉴스 강현주 기자] 아레스사이버전략연구소(ARES, 대표 이화영)는 글로벌 사이버 보안 역량을 강화하기 위해 글로벌 ICT 교육 기관인 미국 전기통신훈련소(USTTI, 이사장 겸 CEO 제임스 J. 오코너)와 업무협약(MOU)을 체결했다고 26일 밝혔다.USTTI는 1982년 미국 정부와 글로벌 IT·통신",
+      "language": "ko",
+      "summary": "ARES와 USTTI가 결 reached MOU로 미국 전기통신훈련소와글로벌 사이버보안 지식교육의 연구조정.",
+      "points": [
+        "ARES와 USTTI가 각자의 역량을 강화하기 위해 교육과 인재 네트워크를 이용한 업무협약을 정부와 글로비스와 모두 체갈 다.",
+        "ARES는 미국의 전기통신훈련소에서 강화하기 위해 USTTI의 지식교육과 인재 네트워크를 이용한 연구형.",
+        0
+      ],
+      "insight": "ARES와 USTTI는 글로비스와 미국 정부와의 공동운속으로 IT/기술 업계에서의 인뇽이다."
+    },
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 06 Jul 2026 23:56:14 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Although dubbed the 'first' AI-driven ransomware attack on an organization, this incident revealed that a significant amount of human intervention was still required in cybercriminal activities.",
+      "points": [
+        "The term 'AI'-run is misleading as most attacks require some form of human oversight or execution",
+        "This ransomware attack involved using AI for initial data collection and pattern recognition, but ultimately a person orchestrated the demand phase.",
+        "Highlights how cybercriminals often leverage technology without fully understanding its mechanics"
+      ],
+      "insight": "The misconthought term 'AI-run' underscores that AI is still not an autonomous tool in ransomware attacks and the human element remains critical. This may influence how law enforcement approaches cybercrime investigation strategies."
+    },
+    {
+      "title": "[2026 개인정보보호 우수사례-3] KOTRA, 기관장 주도의 실천 캠페인... 일상 속 스며든 보안 문화",
+      "link": "http://www.boannews.com/media/view.asp?idx=144492&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 08:42:00 +0900",
+      "description": "C등급에서 S등급으로 3년 만에 최고 수준 달성... 경영진 의지가 빚은 결실세계 86개국 132개 무역관 아우른 관리망 및 업적평가 연동으로 실행력 제고[보안뉴스 조재호 기자] 국내외 기업 고객과 해외 바이어를 이어주는 대한무역투자진흥공사(KOTRA)가 정보보안 및 개인정보보호 경영시스템(ISO 27001, 27701) 국제표준 동시 획득에 이어 보호수준",
+      "language": "ko",
+      "summary": "KOTRA가 국제 보안 기초 표준을 이어주는 경력축하로, ISO 27001/27701 수준에 진정잇되었음",
+      "points": [
+        "- KOTRA는 국민의 개인정보보안 문화를 확률로 가지고 있다.",
+        "- ISO 27001/27701 기준을 이어주면, 시장에서 상위 스타트업과 간선 기업과의 관련성이 강화된다.",
+        "- 이전 3년동안 S등급에서 보호수준을 높일 목표로, 국민의 고객의 신중한 우정을 가지고 있었다."
+      ],
+      "insight": "이러한 기업은 보안 문화적 인식의 필요성을 인식하고 국민에게 보호로 참여할 수 0ne가지를 선정해내서, 보안 문화를 확률으로 이어낸다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 체크멀, 안티랜섬웨어 넘어 데이터 유출 방지 포트폴리오 출격",
+      "link": "http://www.boannews.com/media/view.asp?idx=144520&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 08:38:00 +0900",
+      "description": "상황 인식 기반 랜섬웨어 탐지 엔진 적용된 ‘AppCheck Pro’10월 출시될 차세대 내부 정보 유출 실시간 차단 아키텍처 공개[보안뉴스 조재호 기자] 랜섬웨어 방어를 넘어 데이터 유출 방지 영역으로 사업을 확장 중인 체크멀이 ‘ISEC 2026’ 현장에서 차세대 통합 보안 청사진을 제시한다. 오는 10월 출시를 목표로 개발 중인 상황 인식 기반 내부",
+      "language": "ko",
+      "summary": "‘ISEC 2026’ 통합 보안 청사진을 제공한 ‘CheckMile’는 ‘AppCheck Pro’를 기반으로 내부 정보 유출을 방지하고자 한다.",
+      "points": [
+        "‘CheckMile’은 ‘AppCheck Pro’10월 초개황을 제공한 마데코리아 비즈니스 업체의 인지 기능과 결합해서 내부 정보 유출을 방어한다.",
+        "상황 인식 기능은 이전 랜섬웨어 보안 시스템에 도달하여 새로운 방식으로 내부 정보 유출을 방지한다.",
+        "이를 위해서는 특정 기기나 시스템에만 적용되어야하며, ‘CheckMile’은 일부 네트워크에만 지원한다."
+      ],
+      "insight": "이 영역은 보안 기술자가 마데코리아의 랜섬웨어 보안 시스템와 비교행복할 수 없다."
+    },
+    {
+      "title": "ISEC 2026 미리보기] 지슨, 망분리 틈새 노리는 무선백도어 탐지 솔루션 ‘Alpha-H’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144519&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 7 Jul 2026 08:36:00 +0900",
+      "description": "USB·케이블 등 스파이칩의 비인가 RF 통신 감시해 내부망 보호금융권 넘어 제조·반도체 데이터센터 등 주요 인프라 고객군 확대[보안뉴스 조재호 기자] 지슨이 오는 8월 11일부터 12일까지 서울 삼성동 코엑스에서 개최되는 제20회 국제 시큐리티 콘퍼런스(ISEC 2026)에 참가해 자사의 핵심 무선백도어 해킹 탐지 시스템인 ‘Alpha-H’를 선보인다.2",
+      "language": "ko",
+      "summary": "서울코퍼런스에서 제공했늘한 권고인 'Alpha-H' 무선백도어 탐지 시스템을 기여함",
+      "points": [
+        "Alpha-H는 USB, 케이블과 RF 통신을 감시하고 내부망을 보호합니다.",
+        "상위등장자의 코열인 서울코퍼런스에서 제공했늘한 권고인 'Alpha-H'를 선보이겠습니다.",
+        "Alpha-H는 시스템화된 가상세대로 수신자들에게 공개하여 탐지할 수 있습니다."
+      ],
+      "insight": "Alpha-H는 고객군이 모든 RF 연盾을 제외한 보호를 제공하며, 탐지 정확도를 높일 수 있으로써 IT/기술 업계에서의 이해와 상용성을 중요합니다."
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 06 Jul 2026 23:21:03 +0000",
+      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "language": "en",
+      "summary": "US investors are set to gain access to SK Hynix through an anticipated multi-billion dollar initial public offering (IPO), propelled by the company's growth in AI technology.",
+      "points": [
+        "SK Hynix, a South Korean memory chip manufacturer, is capitalizing on artificial intelligence advancenergies to drive its business forward. This boom has positioned SK Hynix for an expected US IPO valued at several billion dollars. The anticipation of this event indicates significant interest in the company's AI-driven growth strategy.",
+        "The upcoming U.S. listing by SK Hynix is part of a larger trend where technology companies leveraging artificial intelligence are going public to tap into broader markets and capitalize on investor enthusiasm for tech stocks, especially in memory chip manufacturing sectors experiencing growth.",
+        "Investors' eagerness towards SK Hynix's US IPO signifies confidence not only in the company’s performance but also reflects broader market sentiments about AI-driven industries. It underscores an optimistic outlook for technology firms with a focus on artificial intelligence."
+      ],
+      "insight": "The imminent US IPO of SK Hynix represents the growing influence and investor interest in companies leveraging artificial intelligence within their operations, indicating potential industry shifts towards more AI-centric tech business models. It also highlights how memory chip manufacturers are uniquely positioned to capitalize on this trend."
+    },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
@@ -551,201 +746,6 @@
       "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day",
       "points": [
         "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
-      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 05 Jul 2026 13:33:32 +0000",
-      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
-      "language": "en",
-      "summary": "The article discusses Bending Spoons (now public after being owned by AOL and Vimeo), focusing on the impact its portfolio of products has had since going public.",
-      "points": [
-        "Bending Spoons, a company largely unknown to many, was previously owned by AOL and Vimeo before becoming publicly traded again in January 2024 with $167 million raised through the sale of about 5.98 million shares.",
-        "The article emphasizes that Bending Spoons' portfolio has impacted over a billion people, suggesting its products are widely used and likely important to many consumers worldwide.",
-        "Despite being acquired by companies like AOL and Vimeo in 2017 for $59 million with the intention of expanding into e-learning markets beyond gaming consoles such as Xbox, PlayStation, Nintendo Switch, Bending Spoons' trajectory has been somewhat mysterious."
-      ],
-      "insight": "Bending Spoons showcases how a tech company can maintain relevance in the industry by providing widely used products and adapting to changing ownership structures. As it goes public again after being privately owned, Bending Spoons demonstrates that successful product portfolios are vital for gaining access to capital markets."
-    },
-    {
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
-      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 05 Jul 2026 12:47:39 +0000",
-      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
-      "language": "en",
-      "summary": "Investment in artificial intelligence has led to the creation of nearly 90 new 'unicorn' companies this year.",
-      "points": [
-        "-The term 'unicorn' refers to startups valued at over $1 billion, and AI seems to be a major driver for these high valuations within just one quarter of the year.",
-        "-Many investors are drawn by promises of revolutionizing industries with advanced technologies like machine learning (ML) and natural language processing (NLP).",
-        "-The rapid increase in unicorn companies indicates growing confidence among venture capitalists despite potential market saturation risks."
-      ],
-      "insight": "This trend demonstrates the significant impact AI is having on valuations within startup ecosystems and may signal a shift towards prioritizing technological innovation in investment decisions, potentially influencing future industry standards."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 54] 세 살 버릇 여든까지 간다(4)-같은 비밀번호 쓰면 털리는 구조",
-      "link": "http://www.boannews.com/media/view.asp?idx=143641&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 16:38:00 +0900",
-      "description": "사이트마다 서로 다른 비밀번호를 사용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지키느",
-      "language": "ko",
-      "summary": "사이트마다 서로 다른 비밀번호를 사용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "사이트마다 서로 다른 비밀번호를 사용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“주차관제에서 로봇·무인화, AI 안전까지” 아마노코리아 쇼룸에서 ‘공간 자동화’의 미래를 읽다",
-      "link": "http://www.boannews.com/media/view.asp?idx=143840&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 16:34:00 +0900",
-      "description": "AI 관제·로봇·무인화 결합한 통합 운영 플랫폼 선보여24시간 무인 로봇 카페부터 원격 통합관제까지 자동화 기술 집약“하드웨어 넘어 데이터 기반 운영 자동화 기업으로 진화”[보안뉴스 강초희 기자] 서울 양평동 아마노코리아 사옥 1층. 문을 열고 들어서면 완벽하게 밀폐된 유리 부스 안에서 로봇 바리스타가 정밀하게 움직이며 프리미엄 커피를 내린다. 한 쪽에서는",
-      "language": "ko",
-      "summary": "기사가 포인트를 강조한다.",
-      "points": [
-        "기사는 로봇·무인화와 AI 관제의 합리화 시스템을 소개한다.",
-        "이 회사는 24시간 무인 로봇 카페에서 근무했다.",
-        "원격 통합관제를 진행한다."
-      ],
-      "insight": "기사는 IT/기술 업마널이 로봇·무인화와 AI 관제로 자동화 기술을 취하고, 생산할 수 있는 경로를 나타낸다."
-    },
-    {
-      "title": "공급망 보안, 해법은 ‘자동화된 길목 통제’... OWASP 세미나",
-      "link": "http://www.boannews.com/media/view.asp?idx=144499&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 11:25:00 +0900",
-      "description": "OWASP 세미나, 당근·토스 보안 실무자들의 보안 인프라 구축기 공유당근, 사내 ‘레지스트리 프록시’ 통해 특정 기간 유입 제한하는 쿨다운 정책 가동토스, 직렬화 포맷 맹점 파고드는 ML 위협 차단 위해 아티팩트 방화벽 운영[보안뉴스 조재호 기자] “현재 파이썬 공식 저장소에는 하루에도 900개가 넘는 신규 패키지가 끊임없이 등록되고 있습니다. 대규모 자",
-      "language": "ko",
-      "summary": "OWASP 세미나, 당근·토스 보안 실무자들의 보안 인프라 구축기 공유당근, 사내 ‘레지스트리 프록시’ 통해 특정 기간 유입 제한하는 쿨다운 정책 가동토스, 직렬화 포맷 맹점 파고드는 ML 위협 차단 위해 아티팩트 방화벽 운영[보안뉴스 조재호 기자] “현재 파이썬 공식 저장소에는 하루에도 900개가 넘는 신규 패키지가 끊임없이 등록되고 있습니다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 텍스트 넘어 지문·서명까지... 엘세븐시큐리티 비정형 데이터 마스킹",
-      "link": "http://www.boannews.com/media/view.asp?idx=144496&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 11:21:00 +0900",
-      "description": "딥러닝 기반 OCR로 신분증·계좌번호 등 실시간 식별이미지 내 인장 및 수기 서명 자동 마스킹 지원[보안뉴스 조재호 기자] 엘세븐시큐리티가 오는 8월 개최되는 ISEC 2026에서 AI 기반 지능형 개인정보 탐지 및 마스킹 솔루션인 ‘Image Scan & Masking’을 선보인다. 비정형 데이터 보안의 중요성이 커지는 가운데 엘세븐시큐리티는 단순 텍스트",
-      "language": "ko",
-      "summary": "이세ño 시큐리티는 AI 기반 컨트래소 플러인이며, 이미지 내에서 인식이미지와 서명 데이터를 자동으로 마스킹하도록 시공원약국에서 2026년 ISEC에서 기술한 'Image Scan & Masking'이라는 AI 기능을 선보여 배웁니다.",
-      "points": [
-        "이세ño 시큐리티가 'Image Scan & Masking'의 AI 기능을 지원합니다.",
-        "이 기능은 신분증, 계좌번호, 인쇄링품 등 실시간 식별 이미지에서의 인장과 수기 서명 데이터를 자동으로 마스킹하는 것입니다.",
-        "이상한 레전드나 대화되어 오직한 핵심 인코더라고도 부름"
-      ],
-      "insight": "이세ño 시큐리티는 AI를 이용한 마스킹을 강조하여, 이미지 내의 인쇄링품에서의 특정 기호나 수기를 게다가 제겔할 수 있는 오염돋을 줄여 전국에서 이세니즈사이드의 이미지 보안에 강원으로 기여함으로썰나"
-    },
-    {
-      "title": "[Global Security TOP 100] 김상석 웹게이트 대표이사 “영상보안의 다음 역할을 끊임없이 고민해야”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144371&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 11:17:00 +0900",
-      "description": "영상보안, 기록에서 예방 중심 안전 인프라로 진화국산 AI SoC 기반 엣지 영상분석으로 현장 대응력 강화불꽃감지 카메라 확대하며 산업안전·국가중요시설 시장 공략[보안뉴스 강초희 기자] AI 기술 확산과 산업안전 수요 증가로 영상보안의 역할이 빠르게 변화하고 있다. 범죄 예방과 영상 기록에 집중했던 CCTV는 이제 화재와 재난, 산업재해를 사전에 감지하고",
-      "language": "ko",
-      "summary": "영상보안, 기록에서 예방 중심 안전 인프라로 진화국산 AI SoC 기반 엣지 영상분석으로 현장 대응력 강화불꽃감지 카메라 확대하며 산업안전·국가중요시설 시장 공략[보안뉴스 강초희 기자] AI 기술 확산과 산업안전 수요 증가로 영상보안의 역할이 빠르게 변화하고 있다. 범죄 예방과 영상 기록에 집중했던 CCTV는 이제 화재와 재난, 산업재해를 사전에 감지하고",
-      "points": [
-        "영상보안, 기록에서 예방 중심 안전 인프라로 진화국산 AI SoC 기반 엣지 영상분석으로 현장 대응력 강화불꽃감지 카메라 확대하며 산업안전·국가중요시설 시장 공략[보안뉴스 강초희 ...",
-        "범죄 예방과 영상 기록에 집중했던 CCTV는 이제 화재와 재난, 산업재해를 사전에 감지하고",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 개인정보 통제권 잃은 기업들... ‘캐치시큐’가 해답 제시한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144497&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 11:14:00 +0900",
-      "description": "올 9월 개정법 시행과 ISMS-P 의무화 대비하는 SaaS 솔루션수집·이용·파기 전 과정 AI로 자동화해 관리업무 14일→30분 압축[보안뉴스 조재호 기자] 오내피플이 ISEC 2026에서 AI 기반 개인정보보호 자동화 솔루션 ‘캐치시큐’를 선보이며 기업의 컴플라이언스 대응에 새로운 기준을 제시한다. 올 9월 강화되는 개정법과 2027년 ISMS-P 의무",
-      "language": "ko",
-      "summary": "올 9월 개정법 시행과 ISMS-P 의무화 대비하는 SaaS 솔루션수집·이용·파기 전 과정 AI로 자동화해 관리업무 14일→30분 압축[보안뉴스 조재호 기자] 오내피플이 ISEC 2026에서 AI 기반 개인정보보호 자동화 솔루션 ‘캐치시큐’를 선보이며 기업의 컴플라이언스 대응에 새로운 기준을 제시한다. 올 9월 강화되는 개정법과 2027년 ISMS-P 의무",
-      "points": [
-        "올 9월 강화되는 개정법과 2027년 ISMS-P 의무",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 개인정보보호 우수사례-2] 경기도 광주시, 전국 지자체 유일 S 등급 달성 쾌거",
-      "link": "http://www.boannews.com/media/view.asp?idx=144491&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 5 Jul 2026 11:11:00 +0900",
-      "description": "디지털 행정서비스 확대 발맞춰 시민 신뢰 최우선 가치로 삼은 보호체계 구축개인정보 보호 전문관 임용 및 전담 부서 조직 개편으로 업무 전문성 연속성 확보[보안뉴스 조재호 기자] 경기도 광주시가 최근 실시된 개인정보 보호수준 평가에서 전국 지자체 중 유일하게 최우수 등급인 S 등급을 획득하며 안전하고 신뢰받는 디지털 행정 역량을 입증했다. 도농복합 도시이자",
-      "language": "ko",
-      "summary": "경기도 광주시가 통합 국가의 IT/기술 업무 보호 전문성과 신뢰성에 대한 S 등급을 받아내였다.",
-      "points": [
-        "- 경기도는 개인정보보호를 위해 IT/기술 업무 전문성과 신뢰성에 대한 핵심적인 디지털 행정서비스 확대를 진행한다.",
-        "- S 등급을 이며, 보호체계 구축과 연속성에 대해 전국 지자체가 모두 기록한다.",
-        "- 보안뉴스는 경기도의 개인정보보호 근면으로 이루어진다."
-      ],
-      "insight": "경기도는 IT/기술 업무에 대한 신뢰성과 전문성을 강화하고 개인정보 보호를 최우선으로 해야 함을 보였다."
-    },
-    {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
-      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "language": "en",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
-      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "language": "en",
-      "summary": "Midjourney is demanding transparency from three Hollywood studios on their usage of artificial intelligence (AI) amidst an existing legal case.",
-      "points": [
-        "Midjourney requests AI use details from the involved studios to understand its application in filmmaking better.",
-        "The company is engaged in a lawsuit against Sony Pictures, Universal Studios and Warner Bros., which it alleges stole ideas for films using Midjourney's software without proper compensation or credit.",
-        "According to the suit filed on July 14 at Los Angeles County Court, these studios have failed in their obligations under copyright law despite licensing agreements."
-      ],
-      "insight": "The demand for details from Midjourney reflects an industry trend where AI tools are increasingly used to create or enhance visual content. This case underscores the legal complexities surrounding intellectual property rights in this domain and could set precedents impacting how creative industries approach licensing agreements with tech providers."
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000",
-      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "language": "en",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software",
-      "points": [
-        "Alibaba has reportedly classified Claude Code as high-risk software",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
-      "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "language": "en",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone",
-      "points": [
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
