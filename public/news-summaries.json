@@ -1,6 +1,231 @@
 {
-  "generatedAt": "2026-07-08T14:15:42.408Z",
+  "generatedAt": "2026-07-08T19:32:05.130Z",
   "articles": [
+    {
+      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+      "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 19:22:11 +0000",
+      "description": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
+      "language": "en",
+      "summary": "Developer John Merrick created the 'Slow-cial', or Roost, app as a reaction against our speedy digital communication norms and it unexpectedly gained popularity.",
+      "points": [
+        "Roost requires users to send messages at an intentionally slow pace resembling carrier pigeon delivery times, promoting thoughtfulness in online interactions.",
+        "The app's unique approach led to a substantial increase in user engagement and growth beyond developer expectations.",
+        "Despite the unconventional design, Roost has garnered positive attention as an antidote for digital communication overload."
+      ],
+      "insight": "Roost introduces mindfulness into social media practices by deliberately slowing down message delivery speed. This concept challenges our fast-paced online culture and could influence future developments in fostering healthier, more thoughtful communication technologies within the IT industry."
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 19:19:15 +0000",
+      "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "language": "en",
+      "summary": "General Intuition invests in training foundational models using video game data as a way to simplify robot development by requiring less real-world input.",
+      "points": [
+        "A startup named General Intuition is leveraging massive amounts of video games for AI research, potentially revolutionizing physical robots' capabilities and reducing the need for extensive real-world training datasets.",
+        "The approach centers around using gamer intuition to teach a robot how to interact with objects in its environment effectively by mimicking human play styles through artificial intelligence.",
+        "This method could accelerate AI advancin's integration into the physical world, making robots more adaptable and interactive."
+      ],
+      "insight": "General Intuition's unique approach may set a new precedent for robotic development in industries where human-like interaction with complex objects is crucial. The reduced reliance on real-world data collection could also expedite AI deployment across various sectors."
+    },
+    {
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 18:46:20 +0000",
+      "description": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "language": "en",
+      "summary": "Elon Musk announced X will notify users via direct messages if their engaged posts are later corrected by the community.",
+      "points": [
+        "X plans to implement a new notification system for misinformation correction",
+        "The update is in response to criticisms of late fact-checking arrivals on the platform",
+        "Users will receive DMs when they interact with posts that are later corrected"
+      ],
+      "insight": "This approach by X may encourage more timely corrections and foster a proactive community engagement, but it also raises questions about potential misuse for fearmongering or unnecessary alarms."
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 18:30:08 +0000",
+      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "language": "en",
+      "summary": "Google Photos has introduced an AI-driven 'Video Remix' tool that allows users to edit their videos using various effects such as relighting dark scenes or replacing backgrounds.",
+      "points": [
+        "The new Video Remix feature in Google Photos can apply cinematic relighting, change plain backgrounds with fun ones, and add artistic styles to user-uploaded videos.",
+        "Users have the capability to enhance their video quality through adjustments like increasing brightness or modifying visual effects without extensive technical knowledge.",
+        "Google'semphasis on accessibility for all users indicates a trend towards AI tools in social media platforms."
+      ],
+      "insight": "The Video Remix tool by Google represents an expansion of user-friendly video editing capabilities through artificial intelligence, potentially setting a precedent that could affect the future development and adoption of similar features across various IT/technology industries."
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "description": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
+      "language": "en",
+      "summary": "General Intuition is an organization that believes video game experiences can provide better training for artificial general intelligence (AGI) than internet data due to their dynamic and interactive nature.",
+      "points": [
+        "Video games offer immersive, real-time interactions with complex systems unlike static text or browsing the web.",
+        "Gaming simulations involve problem solving in physics-based scenarios relevant for AGI development.",
+        "The company General Intuition is betting on using gaming data as a superior source over internet datasets."
+      ],
+      "insight": "This perspective challenges conventional wisdom by valuing interactive and simulation experiences derived from video games, potentially opening new pathways in AI training beyond traditional textual or tabular data sources."
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 17:11:18 +0000",
+      "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "language": "en",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use",
+      "points": [
+        "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses",
+        "But the update comes as the company continues to expand how much personal data its AI products colle...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "language": "en",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation",
+      "points": [
+        "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live transla...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+      "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 16:29:35 +0000",
+      "description": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
+      "language": "en",
+      "summary": "Paradigm Venture Capital firm raised $1.2 billion with the intention of focusing on what it calls 'technical frontier' startups that include robotics and artificial intelligence.",
+      "points": [
+        "Paradigm VC has announced a fundraise of $1 endowed for technical ventures beyond cryptocurrency investments, expanding into AI-driven companies such as autonomous vehicles startup Nutonomy",
+        "The company is looking to raise at least another $300 million in the coming months through external parties and expects that by year's end it could top its initial fundraise of about a billion dollars.",
+        "Paradigm VC has already invested heavily into robotics companies, including one-third of their portfolio to date."
+      ],
+      "insight": "The Paradigm venture capital firm is signaling the increasing importance and influence that AI startups are having on modern technology industries beyond just cryptocurrencies. This shows how investors recognize a broader tech ecosystem where blockchain, robotics, and artificial intelligence converge."
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 16:22:38 +0000",
+      "description": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "language": "en",
+      "summary": "Prime Intellect has raised $130M in Series A funding with the aim of helping enterprises develop their own AI systems autonomously.",
+      "points": [
+        "Founded in 2024, Prime Intellect's mission is to empower organizations by enabling them to create and train agentic systems independently from advanced AI labs like Google Brain or OpenAI.",
+        "The company has secured $130M Series A funding led by Accel-Kleiner Capital with participation from previous investors such as Andreessen Horowitz, Microsoft Innovation Fund, and Samsung Ventures. Prime Intellect plans to use this capital primarily for product development including software tools that simplify the process of building customizable agentic systems.",
+        "Prime Intellect is targeting enterprises across industries with its AI capabilities, offering solutions tailored specifically towards their business needs."
+      ],
+      "insight": "This funding boost could accelerate Prime Intellect's goal to democratize accessibility of advanced AI technologies for a wide range of organizations beyond the tech giants, potentially leading industry shifts by allowing more companies to build customized agentic systems."
+    },
+    {
+      "title": "Another massive data breach exposed millions of driver’s license numbers",
+      "link": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 16:14:49 +0000",
+      "description": "The cyberattack targeting a U.S. insurance giant is the largest known breach of driver's license numbers so far in 2026.",
+      "language": "en",
+      "summary": "A significant data breach has exposed millions of driver's license numbers at a U.S. insurance firm.",
+      "points": [
+        "The cyberattack on the insurance company is unprecedented in scale, affecting hundreds of thousands or more individuals worldwide.",
+        "Authorities have yet to determine if personal information beyond driver's license numbers was compromised during this breach.",
+        "Insurance firms are increasingly becoming prime targets for cybercriminals due to the sensitive nature of their data."
+      ],
+      "insight": "This incident highlights an escalating trend in targeting insurance companies, underscoring the critical need for robust security measures within the industry to prevent such breaches and safeguard consumer information."
+    },
+    {
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 15:41:06 +0000",
+      "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "language": "en",
+      "summary": "AI startups exhibit rapid revenue growth rates within the technology sector.",
+      "points": [
+        "Several AI startups are growing their revenues at unprecedent speeds according to industry insiders.",
+        "The trend of fast-growing businesses is not exclusive to Silicon Valley as similar dynamics can be observed in various tech hubs worldwide, signaling a global expansion and investment surge into AI startups.",
+        "Accelerating revenue growth rates could lead these companies towards maturity or even potential exits through acquisitions by larger enterprises."
+      ],
+      "insight": "The rapid increase in revenues among numerous AI-focused startups suggests heightened investor interest and confidence, which may pave the way for more consolidation within this subsector of technology. However, sustaining growth could pose challenges as these companies scale."
+    },
+    {
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 15:00:00 +0000",
+      "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
+      "language": "en",
+      "summary": "AI entrepreneur Ashley Smith has secured an additional $25 million to fund startups in AI and security among others.",
+      "points": [
+        "Solo GP firm SoloGP announced the close of a second Fund, worth $25M",
+        "Fund II will focus on backing early-stage companies across industries such as artificial intelligence (AI), cybersecurity, healthcare technology and smart cities",
+        "Smith'rancements are indicative of her personal commitment to advancing the tech sector"
+      ],
+      "insight": "This fund will likely accelerate innovation in AI and security startups with ample capital for research, development and talent acquisition."
+    },
+    {
+      "title": "Apple to produce Made in America wireless chips with Broadcom",
+      "link": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 14:43:00 +0000",
+      "description": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.",
+      "language": "en",
+      "summary": "Apple has inked a massive contract worth over $30 billion with Broadcom to design and manufacture more than 15 billion U.in.-made custom wireless connectivity chips for Apple products.",
+      "points": [
+        "Broadcom will create at least 15.6 billion Made-In-America (MIA) silicon solutions that serve as the key building blocks of high performance and next generation communications in smartphones, tablets and wearables from major brands such as Apple.",
+        "$30 billion deal between Broadcom & Applce to produce MIA chips for iPhones",
+        "First ever U.S.-made chip production facility being built by the likes of Qualcomm"
+      ],
+      "insight": "This significant investment in domestic manufacturing capabilities has broad implications on reducing global supply chain vulnerabilities and shifting towards a more self-reliant technology sector."
+    },
+    {
+      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 14:07:49 +0000",
+      "description": "Build a new kind of rocket engine and the world will beat a path to your door.",
+      "language": "en",
+      "summary": "Venus Aerospace has raised $90 million in Series B funding to develop an innovative new type of rocket engine.",
+      "points": [
+        "Venus Aerospace secured a $90M investment for its groundbrerances",
+        "The company plans to construct and test their novel propulsion system within the next year with this funding",
+        "This substantial capital infusion is earmarked towards research, prototype development, and production capabilities"
+      ],
+      "insight": "Venus Aerospace's investment signals strong market confidence in new rocket technologies which could reshape space exploration."
+    },
+    {
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 14:04:53 +0000",
+      "description": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
+      "language": "en",
+      "summary": "Blue Origin is raising $1 end of a major funding round led by the company's founder Jeff Bezos himself.",
+      "points": [
+        "Jeff Bezos and Coatue Asset Management are leading Blue Origin'th$10 billion raise at a post-money valuation around $130 billion.",
+        "The deal could give Bezos more financial flexibility to pursue his interests, such as space exploration beyond government contracts with NASA or defense agencies like the Pentagon and Space Force.",
+        "Blue Origin has previously raised funds from other notable investors including Microsoft co-founder Bill Gates."
+      ],
+      "insight": "This significant funding could allow Blue Origin to accelerate their space exploration endeavours, potentially reshaping commercial opportunities in the industry and enhancing competition with rivals like SpaceX. The backing of a tech giant such as Amazon's Bezos provides substantial confidence for investors."
+    },
     {
       "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
       "link": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
@@ -525,231 +750,6 @@
         "With this latest round of financing, Chemistry Ventures will continue to be one of Silicon Valley's leading venture capital firms."
       ],
       "insight": "This fundraising achievement for Chemistry Ventures highlights the ongoing demand and potential in healthcare technology sectors within Europe and Asia. It also emphasizes how VC firms with strong foundations are expanding their investments into new regions, contributing to global growth."
-    },
-    {
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Jul 2026 14:35:42 +0000",
-      "description": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-      "language": "en",
-      "summary": "Norm, an AI law firm specializing in predictive analysis for legal outcomes and cost savings using machine learning, has secured a massive $120 million funding round led by Khosla Ventures. This investment brings the company's valuation to $1.2 billion.",
-      "points": [
-        "AI law startup Norm raises $120M with tech heavyweights leading",
-        "Founded in San Francisco, Valued at a unicorn status of over $1B post-raise",
-        "Predictive analysis using machine learning to forecast legal costs and outcomes"
-      ],
-      "insight": "Norm'supper funding is indicative of growing investor confidence in AI applications within the legal sector, which could lead to widespread adoption if successful. However, it may also intensify competition among firms employing similar technologies."
-    },
-    {
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Jul 2026 14:00:00 +0000",
-      "description": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-      "language": "en",
-      "summary": "Bidbus is an innovative startup focusing on disrupting the traditional car dealership model in North America with its online platform that allows multiple dealerships to bid against each other for used cars.",
-      "points": [
-        "Bidbus has raised $15 million led by Ibex Investors specializing in mobility funds",
-        "Startup is based on a simple idea: enabling car dealers to compete through bidding, creating higher prices and better deals for consumers",
-        "Focuses primarily on used cars while considering future expansion into new vehicle markets"
-      ],
-      "insight": "This business model potentially changes the dynamics between buyers and sellers in the automotth industry by introducing transparency, competition among dealerships to offer better deals for consumers."
-    },
-    {
-      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
-      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Jul 2026 13:10:00 +0000",
-      "description": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
-      "language": "en",
-      "summary": "Hacktivists defaced US Army websites with anti-Trump statements which were later removed following the hacks.",
-      "points": [
-        "US Army addressed two hacked websites displaying inflammatory messages about President Trump after being called out by hackers on social media and other platforms."
-      ],
-      "insight": {
-        "Insight": "The incident highlights the intersection of politics, technology, and online activism where cyber activities are used to express dissent against political figures."
-      }
-    },
-    {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Jul 2026 12:00:00 +0000",
-      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "language": "en",
-      "summary": "Savi's AI-powered mobile application aims to protect users from realistic scams by providing immediate responses based on user input.",
-      "points": [
-        "A startup has raised $7 million in seed funding and is relecurring its app for iPhone, Android devices.",
-        "Savi's AI-powered mobile application uses natural language processing to provide potential ransomware or kidnapping responses based on user input.",
-        "The company believes that their solution can fill an unmet need in the market."
-      ],
-      "insight": "This news highlights a growing concern for AI-generated scams and underscores the importance of developing intelligent solutions to combat them, which could lead to new opportunities within cybersecurity services and threat intelligence platforms. The significant funding indicates strong investor confidence in this emerging area."
-    },
-    {
-      "title": "시중 은행이 선택한 ‘테이텀 CNAPP’, 조달청 등록으로 공공 확산 박차",
-      "link": "http://www.boannews.com/media/view.asp?idx=144548&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 19:32:00 +0900",
-      "description": "GS 1등급 인증 이어 디지털서비스몰 등재로 입찰 절차 없이 도입CSPM·CWPP·CIEM 기능 결합한 풀스택 클라우드 보안 기술력 입증[보안뉴스 조재호 기자] 테이텀 시큐리티가 7일 자사의 통합 클라우드 보안 솔루션인 ‘테이텀 CNAPP’을 조달청 디지털서비스몰에 공식 등록하며 공공 시장 진출을 본격화했다. 앞서 GS 1등급 인증을 획득한 데 이어 이번",
-      "language": "ko",
-      "summary": "GS가 '테이텀 CNAPP'를 공공 시장에서 제4년동안 첨삼된 중요한 클라우드보안 기술입니다.",
-      "points": [
-        "-GS가 '테이텀 CNAPP'를 즉시 공급하여 공공 시장에 등장합니다.",
-        "-'테이텀 CNAPP'는 인간인식, 모바일인식과 결합되어 솔루션이 제공할 확장성을 강조한다.",
-        "-GS가 전문분위기의 인물이며, '테이텀 CNAPP'는 세계적으로 유많은 소비자의 안전을 보장한다."
-      ],
-      "insight": "이러한 '테이텀 CNAPP'의 공개 등록으로 인한 IT/기술 업계에서의 세계적 가격차이, 고수층적인 웹통신질의와 같은 현대사회적 영향을 분석하기 위해서는 다음과 같이 연구필요가 된다: \n- '테이텀 CNAPP'의 비용화체적인 원칙에 대한 권고를 수동 분석하여 정처재의 비용차이를 근사적으로 평가해야 합니다.\n- '테이텀 CNAPP'에 대한 국제적인 배포 경향성을 통합화하여 광고의 획득륨과 영향을 모니터링해야 합니다."
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 07 Jul 2026 09:00:00 +0000",
-      "description": "Forterra has deployed more than 100",
-      "language": "en",
-      "summary": "Fortress has introduced over 1 endorsed by the United Nations as a 'zero-emission' fuel alternative for aviation purposes.",
-      "points": [
-        "Biojet fuels aim to reduce carbon emissions from air travel, offering an eco-friendly solution that aligns with international efforts against climate change.",
-        "Funding and investment in biofuel technology is essential to realize the potential of this sustainable aviation fuel (SAF) option for widespidemployment.",
-        "Governments, airlines, and industry stakeholders are increasingly recognizing the importance of transitioning towards greener fuels like Biojet."
-      ],
-      "insight": "The emergence of biojet as a viable fuel alternative signifies progress in reducing aviation's environmental impact while meeting growing demand for air travel. As investment continues, this shift could become an integral part of the global effort towards sustainable transportation solutions."
-    },
-    {
-      "title": "개인정보위, 제3기 ‘가명정보 전문가 풀’ 위촉",
-      "link": "http://www.boannews.com/media/view.asp?idx=144547&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 17:11:00 +0900",
-      "description": "인공지능(AI) 시대, 혁신적인 데이터 활용을 이끈다활동실적과 현장경험을 갖춘 전문가, 2년간 가명정보 활용 현장 지원[보안뉴스 원병철 기자] 개인정보보호위원회(위원장 송경희, 개인정보위)는 7월 7일 인공지능(AI) 시대 데이터 활용 현장을 지원할 제3기 ‘가명정보 전문가 풀’(이하 ‘전문가 풀’) 위촉식을 개최하고, 전문가 대표들과 간담회를 진행했다.‘",
-      "language": "ko",
-      "summary": "인공지능 시대에서 데이터 활용을 지원하기 위해 '가명정보 전문가 풀' 위촉 이나 현장 지원 지원 작용",
-      "points": [
-        "인공지능 시대 중에서 개인정보 보호를 강화하기 위해 '가명정보 전문가 풀' 위촉 이나 현장 지원 지원을 결국한 권리를 얻을 수 있다.",
-        "인공지능 시대의 보안 기술에 대한 현장 경험으로 개인정보보호를 이긴 전문가가 연결되었다.",
-        "개인정보 보호를 위해 AI의 시대에서 사용되는 데이터 활용을 지원하고자 한다."
-      ],
-      "insight": "인공지능 시대와 광범위한 AI 기술의 항상 진전에서 보호하고자 하는 개인정보 보호 위원회의 '가명정보 전문가 풀' 과 '현장 지원 전문가 풀' 모으기 때문에 창립하는 권리를 선안해내려 한다."
-    },
-    {
-      "title": "[CISO 코리아 2026] 이광원 iM뱅크 CISO “‘섀도우 AI’ 통제가 은행권 생존 가른다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144544&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 16:03:00 +0900",
-      "description": "무분별한 외부 AI 도구 사용 큰 문제... 자산 전수조사 기반 거버넌스 확립 주문시스템 방어 넘어 의사결정 환경 보호해야[보안뉴스 조재호 기자] “통제되지 않는 외부 범용 인공지능 도구의 무분별한 사용, 이른바 ‘섀도우 AI’는 현재 금융권의 가장 치명적 정보 유출구입니다. 보이지 않는 위험은 결코 방어할 수 없고, 측정되지 않는 자산은 관리할 수 없다는",
-      "language": "ko",
-      "summary": "무분보한 외부 AI 사용일 경우 거버넌스 확률이 높아지고, '섀도우 AI'는 금리 정보 유출에 기여하고 있습니다.",
-      "points": [
-        "무분보한 외인자를 통해 '섀도우 AI'이 계약 내 거버넌시도를 방어하고 있다.",
-        "이유는 '섀도우 AI'이 금리정보를 빠르게 공개한 것을 대체로 인상합니다.",
-        0.925417
-      ],
-      "insight": "이런 AI 사용은 회사에서의 안전성 위기와 자산 보호에 미쳐 큰 문제로 결정됩니다. CISO는 보안을 강화하고 무단접근이 방어할 수 없고, 금리 정보 공유에 대한 권제를 강조해야 합니다."
-    },
-    {
-      "title": "[CISO 코리아 2026] 보안 용어 대신 ‘리스크’ 기반 ‘비즈니스 번역’ 필요해",
-      "link": "http://www.boannews.com/media/view.asp?idx=144543&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 15:30:00 +0900",
-      "description": "이진규 네이버 CISO, 보안인 이사회 소통 전략 공유“이사회가 들어야 할 재무적 리스크로 번역해 전달해야”[보안뉴스 조재호 기자] “보안 실무자 입장에서 보고하고 싶은 방어 실적에만 매몰되지 마십시오. 이사회가 비즈니스 관점에서 반드시 들어야 할 치명적 리스크를 그들이 이해할 수 있는 철저한 재무적 언어로 변환해 전달하는 것이 차세대 CISO의 진정한 역",
-      "language": "ko",
-      "summary": "이진규 네이버 CISO, 보안인 이사회 소통 전략 공유“이사회가 들어야 할 재무적 리스크로 번역해 전달해야”[보안뉴스 조재호 기자] “보안 실무자 입장에서 보고하고 싶은 방어 실적에만 매몰되지 마십시오. 이사회가 비즈니스 관점에서 반드시 들어야 할 치명적 리스크를 그들이 이해할 수 있는 철저한 재무적 언어로 변환해 전달하는 것이 차세대 CISO의 진정한 역",
-      "points": [
-        "이진규 네이버 CISO, 보안인 이사회 소통 전략 공유“이사회가 들어야 할 재무적 리스크로 번역해 전달해야”[보안뉴스 조재호 기자] “보안 실무자 입장에서 보고하고 싶은 방어 실적...",
-        "이사회가 비즈니스 관점에서 반드시 들어야 할 치명적 리스크를 그들이 이해할 수 있는 철저한 재무적 언어로 변환해 전달하는 것이 차세대 CISO의 진정한 역",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "래브라도랩스, 공급망 보안 솔루션 ‘래브라도 SCA’ 조달 등록",
-      "link": "http://www.boannews.com/media/view.asp?idx=144542&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 15:00:00 +0900",
-      "description": "소프트웨어 내 오픈소스 구성요소, 버전, 취약점, 라이선스 정보 등 분석[보안뉴스 한세희 기자] 래브라도랩스(대표 김진석·이희조)는 오픈소스 구성 분석 솔루션 ‘래브라도 SCA’를 조달청 나라장터 국가종합전자조달시스템에 등록했다고 7일 밝혔다. 공공기관은 나라장터 조달 절차를 통해 래브라도 SCA를 보다 신속하게 검토하고 도입할 수 있게 됐다.공공 소프트웨",
-      "language": "ko",
-      "summary": "래브라도랩스는 '래브라도 SCA' 솔루션을 조달시스템에 검토하고 도창한다.",
-      "points": [
-        "래브라도랩스가 제공하는 '래브라도 SCA' 솔루션은 오픈소스 구성 분석에서의 시각화와 매칭이 강한 포인트가 있다.",
-        "공급법과 공정이 중요하게 고려되어 제공해야 한다는 신liches 원천으로 기사에서의 맥락임.",
-        "조달시스템의 활성화는 받을 수 s없게 한다."
-      ],
-      "insight": "이 기사는 오픈소스 분석에 중점을 둔 '래브라도 SCA'를 제공하고, 국가정보시스템의 검토과 도착을 방해하기 위해 조달시스템을 활성화해오는 전략을 소개한다."
-    },
-    {
-      "title": "[CISO 코리아 2026] “AI 시대, 패치속도·서비스 리스크간 균형 잡는 ‘성숙도’가 경쟁력”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144541&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 14:44:00 +0900",
-      "description": "지정호 토스 CISO, AI 시대 보안팀 역할 제언“AI 네이티브 보안팀으로 진화해야” [보안뉴스 강현주 기자] “근실시간으로 발견되는 취약점을 오래 방치하는 보안 리스크와 급하게 배포해 장애를 유발하는 서비스 리스크 사이에서 균형을 잡는 ‘패치 배포 운영체계의 성숙도’가 AI 시대 보안 경쟁력입니다.”지정호 토스 정보보호최고책임자(CISO)는 7일 서울",
-      "language": "ko",
-      "summary": "지정호 토스 CISO, AI 시대 보안팀 역할 제언“AI 네이티브 보안팀으로 진화해야” [보안뉴스 강현주 기자] “근실시간으로 발견되는 취약점을 오래 방치하는 보안 리스크와 급하게 배포해 장애를 유발하는 서비스 리스크 사이에서 균형을 잡는 ‘패치 배포 운영체계의 성숙도’가 AI 시대 보안 경쟁력입니다. ”지정호 토스 정보보호최고책임자(CISO)는 7일 서울",
-      "points": [
-        "”지정호 토스 정보보호최고책임자(CISO)는 7일 서울",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "KISA-엘지유플러스, 음성스팸 대응 협력 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144537&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 14:08:00 +0900",
-      "description": "‘익시오’ 활용해 스팸 차단 확대[보안뉴스 강현주 기자] 한국인터넷진흥원(KISA, 원장 이상중)과 LG유플러스(대표 홍범식)가 음성스팸 대응 강화를 위한 협력에 나섰다. 양측은 서울 강서구 LG유플러스 마곡 사옥에서 업무협약을 체결했다고 7일 밝혔다. KISA는 불법스팸으로 인한 국민 피해 예방을 위해 스팸 신고·탐지 데이터를 분석하며 다수 신고된 전화번",
-      "language": "ko",
-      "summary": "KISA와 LG를 통해 음성스팸 대응을 강화한다.",
-      "points": [
-        "KISA와 LG은 음성스팸 대응 강화 방식에 직접 노용",
-        "인공지능과 결합한 '익시오'를 통해 스팸을 완제하고 방문자를 잘못로 탐지할 수 있다.",
-        "강하게 이어주기로, 불법스팸의 규모가 증오하며 국민의 신용을 위해 방어쉽니다."
-      ],
-      "insight": "이 기사는 불법인터공제에 해치지만 스팸 대응 노용의 중요성을 강조한다."
-    },
-    {
-      "title": "화이트해커 DNA 담은 내부침투 자동화 솔루션 ‘오펜 레드’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144540&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 13:52:00 +0900",
-      "description": "탐지 넘어 실제 악용 가능성 확인하는 AEV 방법론 구현온프레미스와 로컬 LLM 지원하며, 망분리·폐쇄망 보안 사각지대 해소[보안뉴스 조재호 기자] 엔키화이트햇이 외부 웹 진입점부터 내부 중요 자산까지 이어지는 다단계 해킹 경로를 실전 관점에서 검증하는 ‘오펜 레드’(OFFen RED)를 7일 선보였다. 파편화된 취약점들을 단일 ‘킬 체인’으로 연결하고 공",
-      "language": "ko",
-      "summary": "탐지 넘어 실제 악용 가능성 확인하는 AEV 방법론 구현온프레미스와 로컬 LLM 지원하며, 망분리·폐쇄망 보안 사각지대 해소[보안뉴스 조재호 기자] 엔키화이트햇이 외부 웹 진입점부터 내부 중요 자산까지 이어지는 다단계 해킹 경로를 실전 관점에서 검증하는 ‘오펜 레드’(OFFen RED)를 7일 선보였다. 파편화된 취약점들을 단일 ‘킬 체인’으로 연결하고 공",
-      "points": [
-        "파편화된 취약점들을 단일 ‘킬 체인’으로 연결하고 공",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[CISO 코리아 2026] 해외 최신 AI 모델 접근 끊긴다면? CISO는 어떻게 대비해야 할까",
-      "link": "http://www.boannews.com/media/view.asp?idx=144539&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 13:43:00 +0900",
-      "description": "AI 보호 vs 활용 사이 고민하는 CISO... 자체 데이터와 도메인 지식 결합이 우선로컬 오픈소스 모델에서 보안 특화 모델로 이동[보안뉴스 한세희 기자] “최고 성능의 AI는 경계 밖에 있지만, AI에 대한 통제는 경계 안에 둘 수 있습니다.”박용규 한국인터넷진흥원(KISA) 디지털위협대응본부장은 7일 서울 용산 피스앤파크컨벤션에서 열린 ‘CISO 코리",
-      "language": "ko",
-      "summary": "CISO가 국내에서 유사한 AI보안 모델을 활용하여 보호를 강화해야 할까요?",
-      "points": [
-        "CISO는 현재 국내에서 AI 보안 모델을 통합함으로써 보호를 강화하고자 합니다.",
-        "KISA가 우선으로 선정한 이용재산인 모델은 국내의 지식과 AI 사용자를 대비할 수 0ne입니다.",
-        "해외 AI 모델에 대한 특화 모델을 강조합니다."
-      ],
-      "insight": "CISO는 국내의 AI 및 IT 보안 업체와 유사한 모델을 통합하여 보안을 강화해야 할 것이 아니라면, 국내에서 특화 모델을 통합함으로써 더 나은 보호를 위해 살펴보시는 것이 중요한 것입니다."
-    },
-    {
-      "title": "유가보조금 부정수급 AI로 잡는다... 주유소 CCTV 점검도 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144530&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 7 Jul 2026 13:13:00 +0900",
-      "description": "AI 기반 탐지체계 도입으로 화물차 유가보조금 부정수급 관리 고도화주유소 CCTV 점검 확대와 행정제재 강화로 부정수급 근절 추진[보안뉴스 강초희 기자] 정부가 화물차 유가보조금이 꼭 필요한 화물차주에게 공정하게 지원될 수 있도록 부정수급 관리체계를 전면 강화한다. AI 기반 탐지체계 도입과 주유소 현장점검 확대, 예방 중심 관리 등을 통해 제도의 투명성과",
-      "language": "ko",
-      "summary": "AI 기반 탐지체계 도입으로 화물차 유가보조금 부정수급 관리 고도화주유소 CCTV 점검 확대와 행정제재 강화로 부정수급 근절 추진[보안뉴스 강초희 기자] 정부가 화물차 유가보조금이 꼭 필요한 화물차주에게 공정하게 지원될 수 있도록 부정수급 관리체계를 전면 강화한다. AI 기반 탐지체계 도입과 주유소 현장점검 확대, 예방 중심 관리 등을 통해 제도의 투명성과",
-      "points": [
-        "AI 기반 탐지체계 도입으로 화물차 유가보조금 부정수급 관리 고도화주유소 CCTV 점검 확대와 행정제재 강화로 부정수급 근절 추진[보안뉴스 강초희 기자] 정부가 화물차 유가보조금이...",
-        "AI 기반 탐지체계 도입과 주유소 현장점검 확대, 예방 중심 관리 등을 통해 제도의 투명성과",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
