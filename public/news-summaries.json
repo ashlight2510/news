@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-08T02:48:39.212Z",
+  "generatedAt": "2026-07-08T08:29:59.259Z",
   "articles": [
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 08:00:00 +0000",
+      "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "language": "en",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly",
+      "points": [
+        "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 08 Jul 2026 07:16:00 +0000",
+      "description": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "language": "en",
+      "summary": "SambaNova, a start-up making AI chips, has closed its latest funding round at an $11B valuation five months after raising significant capital from Softbank's Arm division.",
+      "points": [
+        "AI chip maker SambaNova closes another major financing deal with a new investor on board",
+        "The company achieved the record-setting funding round at $1B, elevating its valuation to an impressive $11B in five months' time.",
+        "Rumors of Intel seeking acquisition for SambaNova subsided as it successfully raised funds independently."
+      ],
+      "insight": "The success indicates strong confidence among investors about the future potential and scalability of AI chip manufacturing, potentially reshaping competition in this space with more start-ups following suit to secure capital for development."
+    },
     {
       "title": "이동범 지니언스 대표 국민훈장 등 정보보호 유공자 35명 수상... 제15회 정보보호의 날 기념식",
       "link": "http://www.boannews.com/media/view.asp?idx=144558&kind=&sub_kind=",
@@ -720,36 +750,6 @@
         "Alpha-H는 시스템화된 가상세대로 수신자들에게 공개하여 탐지할 수 있습니다."
       ],
       "insight": "Alpha-H는 고객군이 모든 RF 연盾을 제외한 보호를 제공하며, 탐지 정확도를 높일 수 있으로써 IT/기술 업계에서의 이해와 상용성을 중요합니다."
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Jul 2026 23:21:03 +0000",
-      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "language": "en",
-      "summary": "US investors are set to gain access to SK Hynix through an anticipated multi-billion dollar initial public offering (IPO), propelled by the company's growth in AI technology.",
-      "points": [
-        "SK Hynix, a South Korean memory chip manufacturer, is capitalizing on artificial intelligence advancenergies to drive its business forward. This boom has positioned SK Hynix for an expected US IPO valued at several billion dollars. The anticipation of this event indicates significant interest in the company's AI-driven growth strategy.",
-        "The upcoming U.S. listing by SK Hynix is part of a larger trend where technology companies leveraging artificial intelligence are going public to tap into broader markets and capitalize on investor enthusiasm for tech stocks, especially in memory chip manufacturing sectors experiencing growth.",
-        "Investors' eagerness towards SK Hynix's US IPO signifies confidence not only in the company’s performance but also reflects broader market sentiments about AI-driven industries. It underscores an optimistic outlook for technology firms with a focus on artificial intelligence."
-      ],
-      "insight": "The imminent US IPO of SK Hynix represents the growing influence and investor interest in companies leveraging artificial intelligence within their operations, indicating potential industry shifts towards more AI-centric tech business models. It also highlights how memory chip manufacturers are uniquely positioned to capitalize on this trend."
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 06 Jul 2026 19:49:10 +0000",
-      "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "language": "en",
-      "summary": "Guillermo Rauch, CEO of Vercel and former Amazon employee, spoke with TechCrunch about his company's approach to separating models from agents for optimization purposes.",
-      "points": [
-        "Vercel developed a system where they split off the model that does inference (the agent) so it can be optimized independently while keeping production as is.",
-        "The decoupled architecture allows Vercel to provide an 'un-Amazon' experience in terms of cost and speed, which are crucial for web development companies using their platform.",
-        "Guillermo Rauch emphasizes the importance of balancing model efficiency with execution performance without altering AWS infrastructure."
-      ],
-      "insight": "Vercel is taking steps to differentiate itself from cloud providers by focusing on decoupling models and agents, potentially setting a new trend for web development services aimed at cost-effective production optimization."
     }
   ]
 }
