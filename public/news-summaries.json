@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-11T13:21:51.656Z",
+  "generatedAt": "2026-07-11T19:05:45.603Z",
   "articles": [
+    {
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 11 Jul 2026 17:30:00 +0000",
+      "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+      "language": "en",
+      "summary": "Even Realities is developing smart glasses without a camera for professionals frequently engaged in virtual interactions or public speaking across language barriers.",
+      "points": [
+        "The new generation of Smart Glasses from Even Realities will not include cameras but are designed to enhance productivity and communication, especially benefiting frequent travelers and presenters who often face the challenge of real-time translation or recording during their meetings or speeches.",
+        "These cameraless glasses aim at offering seamless integration into one'supper professional routines without drawing attention as a device on oneself - an added advantage when dealing with foreign languages and cultures in international settings.",
+        "Even Realities acknowledges the privacy concerns associated with body-worn cameras, hence opting to develop camera-free smart glasses which still provides augmented reality (AR) tools for professional purposes."
+      ],
+      "insight": "This development indicates a shift in design priorities within tech products from being primarily surveillance devices to assistive and enhancement tools aimed at improving real-life productivity, especially across linguistic barriers. It could potentially redefine the future use of AR glasses beyond capturing personal experiences into professional collaboration."
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "language": "en",
+      "summary": "OpenAI has created an official ChatGPT position specifically tailored towards enhancing the experience of families with its AI product manager role.",
+      "points": [
+        "The OpenAI job posting highlights a specialized 'Chief Families Officer' (CFO) to build family-centric interactions and experiences around household activities using ChatGPT technology, focusing on caregivers and older adults. The CFO will be in charge of researching ways the AI can assist with daily routines.",
+        "The role involves designing a user interface tailored for families to interact naturally within their homes while integrating household devices such as smart TV'ener, lights, thermostats etc., and managing ChatGPT interactions effectively. The CFO will also explore how AI could assist in activities like homework help or grocery shopping.",
+        "The post emphasizes the importance of understanding families’ needs by creating experiences tailored for various household members across generations, with an intent to make everyday tasks easier and more enjoyable."
+      ],
+      "insight": "This news indicates that OpenAI is expanding its focus beyond individual users towards integrating AI in a way that supports the dynamics of family life. By designing experiences for families at home using ChatGPT, this could potentially transform how technology assists with daily household activities and communication within homes."
+    },
     {
       "title": "[ISEC 2026 미리보기] 스플래시탑, 제로트러스트로 강화하는 보안 운영 주목",
       "link": "http://www.boannews.com/media/view.asp?idx=144586&kind=&sub_kind=",
@@ -718,36 +748,6 @@
         "The introduction and capabilities of GPT-5.6 represent a leap forward for safe integration into diverse IT environments"
       ],
       "insight": "GPT-5.6's focus on improving areas such as cybersecurity marks an important step in the evolution towards more secure AI applications within complex IT ecosystems."
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "language": "en",
-      "summary": "Lyzr utilized an AI agent to successfully close a substantial funding round of $1 endorsed by their own created tool.",
-      "points": [
-        "AI startup Lyzr leveraged its product for raising funds, achieving over double the seed investment goal with its self-promoting AI initiative. Raising $102 million from a team of six in just one month shows confidence within and outside industries.",
-        "Lyzr's unique approach to fundraising indicates that enterprise customers are increasingly recognizing the value of AI solutions, possibly opening up new markets or opportunities for companies developing similar technologies. The investment is poised to fuel further innovation in adaptable and sophisticated conversational interfaces.",
-        "With a $10 million seed round led by Andreessen Horowitz and other notable backers like TPG Growth, Lyzr's funding demonstrates the growing interest of major investors in AI-driven startups. The company is set to expand its presence across various industries with this financial boost."
-      ],
-      "insight": "The news suggests a significant shift toward integrating advanced AI agents into business processes, potentially transforming enterprise interactions and customer service models within the IT industry. Lyzr's success could encourage more startups to develop innovative AI solutions tailored for commercial applications."
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "language": "en",
-      "summary": "After operating for under a year, OpenAI is shutting down Atlas, an AI-powered browser developed by the organization. Despite this decision, OpenAI continues to grow its ambitions in developing agentic browsing features and has plans to expand beyond browsers.",
-      "points": [
-        "OpenAI will end operations of their AI-driven web exploration tool Atlas soon after less than a year of development",
-        "Some aspects from the now defunct browser are being transitioned into an extension for Google Chrome",
-        "The company'selike ambitions in creating agentic browsing features remain undeterred as they plan to release additional tools such as 'Giraffe'"
-      ],
-      "insight": "OpenAI continues with AI-driven browser projects, demonstrating their commitment and vision for the role of artificial intelligence within internet navigation."
     }
   ]
 }
