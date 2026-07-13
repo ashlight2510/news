@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-07-13T09:37:00.577Z",
+  "generatedAt": "2026-07-13T14:33:27.357Z",
   "articles": [
+    {
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 14:19:44 +0000",
+      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "language": "en",
+      "summary": "SpaceX has received approval from regulatory bodies allowing it to proceed with a second test flight of its Starship prototype after a previous launch failure.",
+      "points": [
+        "Regulatory body clearance for SpaceX's second Starship prototype as a public company",
+        "The 'fly, fail, fix' development approach remains central despite recent setbacks",
+        "First test flight of the prototype expected to assess market reaction and technical resilience"
+      ],
+      "insight": "This regulatory decision reaffirms confidence in SpaceX's methodology for rocket testing and its potential impact on rapid innovation within commercial spaceflight, reflecting a broader acceptance of calculated risk-taking."
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "language": "en",
+      "summary": "Waze introduces AI-powered features and updates for enhanced customization backed by Google's Gemini assistant.",
+      "points": [
+        "Integration of Google's advanced Gemini artificial intelligence to power Waze's new features, emphasizing personalized user experience.",
+        "Updates in navigation tools that include real-time traffic updates and predictive analytics for commuting planning.",
+        "Enhancements made possible by the use of AI technology allow users unprecedented levels of interaction with Waze."
+      ],
+      "insight": "These developments signal a shift in navigation services towards more personalized experiences through advanced AI, setting new standards for user engagement and real-time data utilization within the industry."
+    },
+    {
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 14:13:38 +0000",
+      "description": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
+      "language": "en",
+      "summary": "Los Angeles Police Department (LAPD) has allowed a major surveillance firm's lucrative governmental deal to expire due to serious reservations about civil liberties and privacy.",
+      "points": [
+        "The LAPD ends its contract with Flock, citing 'serious concerns'.",
+        "Flock is one of the company’s largest customers within public safety sectors in government entities like law enforcement agencies worldwide. With more than $3 million spent per year by U.S police departments on surveillance technology from this single firm, Flock represents a massive revenue source for security-focused corporations and is considered one of the industry's largest contractors.",
+        "The news was made public yesterday at LAPD headquarters in Downtown Los Angeles."
+      ],
+      "insight": "This decision by the LAPD could signal a broader movement within law enforcement agencies to reconsider their use of surveillance technology, particularly if privacy concerns are prevalent. Firms like Flock may need to adapt and potentially diversify beyond securitization services in government contracts."
+    },
+    {
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 12:30:00 +0000",
+      "description": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
+      "language": "en",
+      "summary": "The article discusses the ongoing competition between ride-sharing company Uber and autonomous vehicle developer Waymo in Washington D.CTown, which has become a hotbed for their differing views.",
+      "points": [
+        "Uber is lobbying intensely to keep regulations that would favor fully driverless vehicles out of the way while aiming for its own partial self-driving solution.",
+        "Waymo, backed by Alphabet Inc., wants full autonomy and believes it will be safer with no human error in the driving loop as humans are unpredictable on roadways.",
+        "The regulatory landscape is a significant point of contention between Uber's partial self-driving vision and Waymo's goal for complete automation."
+      ],
+      "insight": "This news indicates an escalating battle over the future trajectory of autonomous vehicle technology with major companies vying to shape policy in their favor, potentially impacting how safe and widespread this tech becomes adopted in society."
+    },
     {
       "title": "네덜란드 통신사 오디도 해킹... IT 직원 사칭 전화에 600만명 개인정보 유출",
       "link": "http://www.boannews.com/media/view.asp?idx=144652&kind=&sub_kind=",
@@ -689,64 +749,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
-      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "language": "en",
-      "summary": "SK Hynix's $26.5B IPO marks the largest foreign listing in US history amidst an AI chip boom, leading to calls for it and Samsung to establish new U.clficated factories.",
-      "points": [
-        "The AI chip industry witnessed a historic moment with SK Hynix's record-breaking IPO of $26.5B on Wall Street."
-      ],
-      "insight": "This event may prompt increased competition for the limited semiconductor manufacturing capacity, particularly in advanced fabs essential to maintaining AI chip production momentum and addressing global shortages."
-    },
-    {
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 17:11:51 +0000",
-      "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
-      "language": "en",
-      "summary": "HyperTexting is an app designed to replicate the social media experience on websites and blogs by allowing content from these platforms to be viewed as a scrollable feed.",
-      "points": [
-        "The HyperTexting app converts various online sources into a single, easy-to-navigate scrolling interface similar to traditional social media feeds.",
-        "It simplifies the process of posting updates directly onto one's own website or blog from within its user interface.",
-        "Designed with an intuitive touch and swipe navigation for mobile users."
-      ],
-      "insight": "HyperTexting is poised to enhance content discoverability on traditional websites, potentially driving more traffic back into the open web ecosystem rather than keeping it confined within social media platforms."
-    },
-    {
-      "title": "China is catching up to Elon Musk’s reusable rockets",
-      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 16:51:07 +0000",
-      "description": "China's state-owned space company recovered its first orbital rocket booster after launch.",
-      "language": "en",
-      "summary": "China has successfully completed the recovery of an orbital rocket booster for the first time using a helicopter and ships near Hainan province.",
-      "points": [
-        "China's space company, China National Space Administration (CNSA), conducted its maiden mission to recover an orbital launch vehicle on November 4th at approximately 10 am local Beijing time in the South China Sea.",
-        "The recovery was executed by a helicopter and ships near Hainan province after their separation from orbit, with this first attempt being successful as per CNSA reports.",
-        "This achievement marks significant progress for Chinese space programs following decades of lag behind Elon Musk'ner SpaceX’s reusable rocket technologies."
-      ],
-      "insight": "China is making notable advancements in its own commercial space industry, and if continued at this pace, the country could close significant technology gaps between itself and leading private entities like SpaceX within a few years. This development has implications for global competitive dynamics in both governmental and industrial sectors."
-    },
-    {
-      "title": "Disney+ is considering a free streaming tier, report says",
-      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 16:29:05 +0000",
-      "description": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
-      "language": "en",
-      "summary": "Disney is contemplating introducing a free streaming tier to its Disney+ service in order to compete with popular free video platforms.",
-      "points": [
-        "The potential introduction of a free tier could allow Disney+ to combat the growing consumer shift towards unlimited, no-cost online content consumption habits seen on competitors like YouTube and Tubi.",
-        "This move is being considered as part of an expansion strategy that includes adding new shows with global appeal such as 'The Mandalorian' within its existing subscription model before considering free access to all users.",
-        "Disney aims for this shift towards providing freer content in some form, although it remains uncertain if Disney+ will ever completely abandon paid subscriptions."
-      ],
-      "insight": "This news indicates that major streaming services like Disney are reevaluating their pricing models and exploring options to provide more free or affordable content as consumer behaviors evolve towards expecting cheaper access, which may affect the overall profitability of subscription-based video on demand (VOD) platforms."
     }
   ]
 }
