@@ -1,6 +1,110 @@
 {
-  "generatedAt": "2026-07-13T14:33:27.357Z",
+  "generatedAt": "2026-07-13T19:27:31.226Z",
   "articles": [
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 18:22:10 +0000",
+      "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "language": "en",
+      "summary": "Apple's lawsuit against OpenAI includes extraordinary allegations from discussions about unauthorized access to Apple systems at gatherings like Burning Man to job interview pranks where candidates were asked to bring their own devices.",
+      "points": [
+        "Employees joking about and discussing theft of trade secrets during social events",
+        "Job applicants humorously requested to use personal hardware in interviews for 'fun'"
+      ],
+      "insight": "This case highlights tensions around intellectual property, privacy concerns regarding employer surveillance, and ethical hiring practices within the tech industry."
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 17:28:37 +0000",
+      "description": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "language": "en",
+      "summary": "In response to Elon Musk accusing him of being a scammer regarding his plans for the Starlink satellite internet infrastructure and future SpaceX developments like Mars colonization or nuclear propulsion systems using space-based solar power, Sam Altman deflected by calling Musk's criticism 'short term'.",
+      "points": [
+        "- Elon Musk criticizes altcoin entrepreneur Sam Altman for his plans to invest in SpaceX developments and Starlink infrastructure.",
+        "-Sam Altman, responding to the accusations of being a scammer, dismisses them by highlighting that such long-term projects are not within public market trends.",
+        "Altman insists on focusing solenergically on his own ventures and mocks Musk for attempting to steal ideas."
+      ],
+      "insight": "The exchange between Altman and Musk highlights the skepticism towards privately funded space enterprises among some experts. This scrutiny could indicate potential hurdles in raising necessary capital, but also shows a divide within industry perspectives on commercializing outer-space ventures."
+    },
+    {
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 17:03:11 +0000",
+      "description": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
+      "language": "en",
+      "summary": "Investors' interest in General Fusion led to its debut as the first publicly traded fusion company on Nasdaq following a reverse merger.",
+      "points": [
+        "General Fusion began offering shares for investment after a reversal of stock ownership, known colloquially when shareholders trade their common stock in exchange for additional securities—often preferred or convertible into other securities like debt. The company's initial public offering (IPO) raised $40 million.",
+        "The fusion technology developed by General Fusion is intended to work on Earth and potentially be deployed at a space station in orbit, representing an important step forward for the future of energy production that involves fusing small hydrogen pellets together under high temperatures with magnets. The company's stock began trading earlier this month.",
+        "General Fusion CEO Beatrice Katō emphasized to Reuters her confidence and optimism about fusion as a clean, abundant power source for the future."
+      ],
+      "insight": "The news represents an important milestone in commercializing nuclear fusion energy which could revolutionize global energy production if successfully scaled up. The market interest shown during General Fusion'ner debut may indicate increased investor confidence and optimism towards practical applications of this promising yet challenging technology."
+    },
+    {
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 17:00:14 +0000",
+      "description": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "language": "en",
+      "summary": "Twelve US states have filed a lawsuit to block Warner Bros.' $110 billion acquisition of Paramount Pictures over concerns that the deal would hurt movie theaters and basic cable distributors.",
+      "points": [
+        "The twelve-state coalition is challenging an unprecedented media merger by arguing it will negatively impact local cinemas, competitors in home entertainment distribution channels, and consumer interests due to potential for higher prices or restricted content accessibility post-merger.",
+        "These states contend that the deal would reduce market competition leading possibly to less choice for consumers both at movie theaters as well as within basic cable sectors. They are seeking a federal investigation into antitrust violations, fearing consolidation will result in unfair practices and harm smaller entities.",
+        "The lawsuit brings attention not only to this large-scale deal but also touches upon broader issues of media concentration trends that have been increasing over the years with more acquisitions being made across various industries."
+      ],
+      "insight": "This legal challenge highlights growing concerns about market monopolization within the entertainment industry and suggests potential regulatory scrutinies to ensure fair competition, which could impact future mergers in this sector. It underscores a broader discussion on media consolidation's effects on diversity of content, pricing models for consumers, and smaller businesses."
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 16:31:23 +0000",
+      "description": "What does a world of total user-aligned AI actually look like?",
+      "language": "en",
+      "summary": "The article discusses the ethical implications and societal impacts if artificial intelligence were designed to assist in criminal activities such as killing one' end of a relationship.",
+      "points": [
+        "Examines potential misuse of AI by creating systems that align with user desires, even when those intentions are harmful or illegal.",
+        "Considers the legal and ethical consequences for individuals programming an AI to act against societal norms and laws.",
+        "Ponders on what safeguards might be necessary in society to prevent misuse of advanced technologies."
+      ],
+      "insight": "This news raises serious concerns about the need for robust guidelines, ethical programming practices, and legal frameworks that deter individuals from creating or using AI systems intended for harmful activities. It underscores a potential societal issue where technology can be misused to further crime."
+    },
+    {
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 15:49:42 +0000",
+      "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
+      "language": "en",
+      "summary": "TV Time's founder has created Bingers as its new home to continue building a fan-based app ecosystem after TV Time shut down.",
+      "points": [
+        "Television enthusiast community founded by Justin Kan is transferring from defunct social media site, TV Time. The group of 'binger' fans who discuss their favorite shows will now be part of Bingers",
+        "Bingers app aims to allow users import watch histories and preserve the fan-driven conversations about television series.",
+        "The platform has gained traction in tech circles, with over 30K downloads on Google Play Store within three days."
+      ],
+      "insight": "Bingers presents a new model for social media platforms dedicated to niche interests like TV shows and fan communities. Its success may indicate that such focused experiences are valuable niches in the broader app marketplace, particularly as traditional large-scale networks continue losing user engagement."
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 15:34:59 +0000",
+      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "language": "en",
+      "summary": "Anthropic has localized its Claude pricing for the Indian market which is now offering plans denominated in Indian Rupees as a response to demand from users.",
+      "points": [
+        "- Anthropi's new Claudes can be bought and used with real money spent by individuals or businesses, effectively opening up access beyond academia.",
+        "- Users have started purchasing Claude on the platform for use within their own projects as well as submitting work from personal research to enhance its knowledge base.",
+        "- Anthropi offers a subscription plan priced at INR 1000 per month, with plans also available in tiered structures up to tens of thousands."
+      ],
+      "insight": "The localization and introduction of Claude as an accessible resource for businesses indicates the growing importance of AI tools within enterprise environments. This move reflects a shift towards democratizing powerful language models beyond academic settings, potentially revolutionizing content creation tasks across various sectors."
+    },
     {
       "title": "SpaceX cleared to fly Starship again after booster failure in May",
       "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
@@ -644,111 +748,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 앤트로픽 ‘미토스’, 신의 선물인가 저주인가",
-      "link": "http://www.boannews.com/media/view.asp?idx=144636&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 10:25:00 +0900",
-      "description": "미국의 미토스 통제, AI 기술이 국가 안보의 최전선에 배치되었음을 보여주는 사례AI, 동맹국과의 연대를 공고히 하고 자국의 국방력을 증강하는 전략적 수단으로 자리 잡아[보안뉴스= 배종찬 인사이트케이 연구소장] 인공지능(AI)이 인류의 비즈니스 파트너를 넘어 국가의 생존을 좌우하는 ‘사이버 핵폭탄’이자 핵심 전략자산으로 변모하고 있다. 최근 앤트로픽(Ant",
-      "language": "ko",
-      "summary": "미국의 미토스 통제에 AI가 기여한 사건과, 대량의 보안 데이dependent on personal interpretation and may not accurately reflect the news content.",
-      "points": [
-        "AI를 활용한 미국의 미토스 잡음",
-        "신한 금융은 이에 대해 공고하고 제왕을 강화하며, 인공지능(AI)는 국가의 안전구장과 비즈니지 경로를 확보",
-        "이러한 AI 기술이 우리나라의 수요일 대전으로서 기선을 강화하고, 국방력 연산과정에서 인공지능의 중요성을 강조"
-      ],
-      "insight": "이 뉴스는 AI가 수시간 전염바ffects의 대역할이나, 국방력 곤제와 인공지능이 연결되어 보안을 향상시켜야 하는 현재의 정보보호질의가 강조된다."
-    },
-    {
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 11 Jul 2026 01:01:28 +0000",
-      "description": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
-      "language": "en",
-      "summary": "An independent cybersecurity journalist reported on leaked sensitive data from a GitGuardian-monitored public GitHub repository belonging to an employee of the US CISA contractor.",
-      "points": [
-        "GitHub hosted passwords exposed by a security researcher",
-        "Data belonged to the United States cybersecurity agency' extraneous exposure",
-        "Issue highlights need for better data handling practices"
-      ],
-      "insight": "This incident underscores the importance of strict access controls and regular audits within organizations, especially when dealing with sensitive information like passwords."
-    },
-    {
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 11 Jul 2026 00:29:25 +0000",
-      "description": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
-      "language": "en",
-      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "language": "en",
-      "summary": "Meta announced on Thursday evening they will remove a controversial AI tool from Instagram after receiving significant backlash for potentially misused features.",
-      "points": [
-        "The AI feature allowed users to superimpose faces onto existing images and videos, which raised privacy concerns among the public.",
-        "Meta received substantial negative feedback regarding how this could lead to unauthorized use of personal likenesses in user-generated content without consent.",
-        "Despite initial testing showing interest from creators for such a feature within controlled environments like fan art or parodies, it failed the broader community's approval."
-      ],
-      "insight": "The swift removal of Meta’s AI tool reflects growing user concerns over privacy and consent in digital content generation. This incident is prompting companies to reconsider their approach towards emerging technologies like generative models that can blur ethical lines within social media."
-    },
-    {
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 21:51:55 +0000",
-      "description": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-      "language": "en",
-      "summary": "Toni Schneider has stepped down as interim CEO of Bluesky to focus full-time on its growth and development.",
-      "points": [
-        "Schneider is an experienced technology leader with a successful track record at Automattic and True Ventures.",
-        "Bluesky, the unconventional social media platform founded by Schneider in collaboration with Alexis Cohen.",
-        "As full-time CEO of Bluesky, Schneider plans to shift focus towards user experience improvements, community building efforts, product enhancements."
-      ],
-      "insight": "With a seasoned leader like Toni Schneider at the helm as permanent CEO, we can expect significant growth and innovation in this unconventional social media platform industry. His dedication to Bluesky indicates that he sees it as an alternative or competitive option within the technology landscape."
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "language": "en",
-      "summary": "Apple has sued OpenAI for what it claims is trade secret theft involving its technology and methodologies.",
-      "points": [
-        "Senior Apple leadership directed misconthinking at competitors, leading to a lawsuit against OpenAI.",
-        "The allegation centers on potential use of proprietary information by former Apple employee now working with OpenAI.",
-        "OpenAI denies the claims and asserts its technology is independently developed."
-      ],
-      "insight": "This incident highlights growing tensions in AI development around intellectual property rights, raising questions about open collaboration versus competitive advantage within the industry."
-    },
-    {
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 10 Jul 2026 17:42:36 +0000",
-      "description": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
-      "language": "en",
-      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
