@@ -1,6 +1,245 @@
 {
-  "generatedAt": "2026-07-13T19:27:31.226Z",
+  "generatedAt": "2026-07-14T02:37:21.979Z",
   "articles": [
+    {
+      "title": "[ISEC 2026 미리보기] 한국기업보안, SSL/TLS 인증서 자동화 솔루션 ‘UCLM’으로 47일 유효기간 선제 대응",
+      "link": "http://www.boannews.com/media/view.asp?idx=144578&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 11:18:00 +0900",
+      "description": "발급부터 설치·모니터링까지 전 주기 자동화...온프레미스 환경 특화 CLM 솔루션 선보여[보안뉴스 원병철 기자] 한국기업보안(대표 전귀선)이 8월 11일(화)부터 12일(수)까지 서울 코엑스(COEX) Hall D 및 오디토리움에서 개최되는 ‘ISEC 2026’(제20회 국제 시큐리티 컨퍼런스)에 참가해 SSL/TLS 인증서 자동화 관리 솔루션 ‘UCLM’",
+      "language": "ko",
+      "summary": "발급부터 설치·모니터링까지 전 주기 자동화. 온프레미스 환경 특화 CLM 솔루션 선보여[보안뉴스 원병철 기자] 한국기업보안(대표 전귀선)이 8월 11일(화)부터 12일(수)까지 서울 코엑스(COEX) Hall D 및 오디토리움에서 개최되는 ‘ISEC 2026’(제20회 국제 시큐리티 컨퍼런스)에 참가해 SSL/TLS 인증서 자동화 관리 솔루션 ‘UCLM’",
+      "points": [
+        "발급부터 설치·모니터링까지 전 주기 자동화",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] ‘시만텍 CBX’, 클라우드 기반 통합 보안 플랫폼으로 보안 운영 복잡성 낮춰",
+      "link": "http://www.boannews.com/media/view.asp?idx=144565&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 11:13:00 +0900",
+      "description": "엔드포인트·네트워크·데이터 보안을 AI 기반 단일 에이전트로 제공[보안뉴스 한세희 기자] 시만텍은 엔드포인트, 네트워크, 데이터 보안을 통합한 클라우드 기반 보안 플랫폼 ‘시만텍 CBX’를 통해, 리소스가 제한된 조직도 고도화된 사이버 위협에 대응할 수 있도록 지원한다. 시만텍 CBX는 시만텍의 예방(Prevention) 중심 보안, 데이터 보안, 네트워크",
+      "language": "ko",
+      "summary": "시만텍 CBX는 리소스가 제한된 조직에서의 보안 고도화를 제공합니다.",
+      "points": [
+        "즉, 리소스가 제한되지 않은 조직으로는 보안을 이주휴의 모니터링하고 구현하기가 어렵습니다.",
+        "시만텍 CBX를 이용한 보안 플랫폼은, 비정상적인 위협에도 대응할 수 있습니다.",
+        "네트워크의 시장이 고차원으로서 각종 보안 모델을 사용하여 상호작용하는 방식도 지원합니다."
+      ],
+      "insight": "시만텐트 CBX은 IT 인증을 위한 AI 기반 보안 플랫폼으로서, IT 사내에서의 보안 고도화를 이전었습니다."
+    },
+    {
+      "title": "한화비전-GIST 공동 연구팀, 음향 AI 업계 난제 풀어내는 기술로 국제 경진대회 ‘세계 1위’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144668&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 11:10:00 +0900",
+      "description": "기존 학습 음향 잊는 AI 난제 ‘연속 학습 기술’로 해법국제 AI 경진대회 ‘DCASE 2026 챌린지’ 부문서 1등시각 사각지대 음향으로 보완하는 차세대 보안 솔루션으로 진화 전망[보안뉴스 강초희 기자] 한화비전(대표이사 김기철)이 음향 AI 업계의 고질적 난제를 풀 새 해법을 제시하며 세계적 권위의 국제 경진대회 정상에 올랐다. 이번에 개발한 첨단 음",
+      "language": "ko",
+      "summary": "AI 업계의 중요한 학습 음향 AI 난제를 해결하여 'DCASE 2nerve대회' 초기에 탑시와 국제 경진대회임",
+      "points": [
+        "AI 학습 음향 AI 난지를 해결하여 'DCASE 2026 챌린시'에서 세계 초头",
+        "국제 경진대회에서 학습 음향 AI로 보완된 솔루션이 전홽",
+        "전자의 공동연구로 인한 많은 기술 팀에서 중요성과 역주"
+      ],
+      "insight": "국제 경진대회에 선난을 위해 공동 연구로, AI 업계의 기술이 중요한 문제를 풀생췍"
+    },
+    {
+      "title": "신라대, 대한상공회의소 ‘직업계고 채용연계형 첨단보안검색요원 양성 과정’ 입교식 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144673&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 11:07:00 +0900",
+      "description": "교육과 직무훈련은 물론 취업 연계까지 지원9월 30일까지 총 400시간 교육 진행[보안뉴스 엄호식 기자] 신라대학교(총장 허남식) 평생교육원은 7월 13일 교내 예술관 411호에서 대한상공회의소가 주관하는 ‘직업계고 채용연계형 첨단보안검색요원 양성 과정’ 입교식을 개최하고 본격적인 교육 운영에 들어갔다고 밝혔다.이번 교육과정은 대한상공회의소가 추진하는 채용",
+      "language": "ko",
+      "summary": "교육과 직무훈련은 물론 취업 연계까지 지원9월 30일까지 총 400시간 교육 진행[보안뉴스 엄호식 기자] 신라대학교(총장 허남식) 평생교육원은 7월 13일 교내 예술관 411호에서 대한상공회의소가 주관하는 ‘직업계고 채용연계형 첨단보안검색요원 양성 과정’ 입교식을 개최하고 본격적인 교육 운영에 들어갔다고 밝혔다. 이번 교육과정은 대한상공회의소가 추진하는 채용",
+      "points": [
+        "이번 교육과정은 대한상공회의소가 추진하는 채용",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "쿠도커뮤니케이션, 턱스케어 무중단 패치로 리눅스 서버 보안 운영 효율화",
+      "link": "http://www.boannews.com/media/view.asp?idx=144669&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 11:05:00 +0900",
+      "description": "재부팅 없는 라이브 패칭 기반으로 리눅스 서버 보안 운영 효율화취약점 대응 지연과 서비스 중단 부담 줄이는 보안 패치 관리 방안 제시[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표이사 김용식)은 리눅스 보안 솔루션 턱스케어(TuxCare)를 통해 기업의 리눅스 서버 보안 패치 운영 체계 강화를 지원한다고 밝혔다.최근 기업의 IT 인프라가 클라우드, 온프레미스",
+      "language": "ko",
+      "summary": "기사는 리눅스 서비스보안에 필요한 솔루션을 제공하여 IT 업계에서의 보안 심화를 촉진시키고 있다.",
+      "points": [
+        "리눅스 서비스보안 솔루션이 제공",
+        "보안 패치의 중단을 절충",
+        "기업이 보안 전문가를 원한다면"
+      ],
+      "insight": "이러한 기술은 사업자들이 IT 서비스의 효율성과 보호 지속가능성을 개선시키는데 좋은 도전 근원임"
+    },
+    {
+      "title": "독파모 SKT 정예팀에 SK AX·테크노매트릭스 합류",
+      "link": "http://www.boannews.com/media/view.asp?idx=144670&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 10:59:00 +0900",
+      "description": "SK AX, 산업 AI 전환 역량 발휘테크노매트릭스, 제조 AI 운영 최적화 역량 발휘[보안뉴스 강현주 기자] SK텔레콤(대표 CEO 정재헌)은 정부의 독자 AI 파운데이션 모델 프로젝트 컨소시엄에 SK AX와 테크노매트릭스를 새로운 참여사로 맞이해 경쟁력을 강화했다고 14일 밝혔다.SKT 정예팀은 산업 AI 전환(AX)과 제조분야 AI 운영에 전문성을 갖",
+      "language": "ko",
+      "summary": "SK텔레코울이 SK AX과 포인트 기유벳스테크의 합류로 맞이해 경쟁력을 강화하고자 한다.",
+      "points": [
+        "SK텔레코는 SK AX와 포인트 기유벳스테크로 합류해 경쟁을 강화",
+        "정예팀은 산업 AI 전환과 제조 AI 운영에 전문성을 지속시켜야한다"
+      ],
+      "insight": "이러한 합류는 SK텔레코가 기업 AI 전문성을 강화하고자 한다."
+    },
+    {
+      "title": "조달청, 산불감시 등 다목적 융복합드론스테이션 임대서비스 도입",
+      "link": "http://www.boannews.com/media/view.asp?idx=144671&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 10:50:00 +0900",
+      "description": "드론·이착륙 스테이션·관제시스템 융합상품 나라장터 종합쇼핑몰에서 임대수요기관 낮은 도입 부담으로 첨단제품 현장 투입[보안뉴스 엄호식 기자] 조달청(총장 백승보)은 14일 나라장터 종합쇼핑몰에 산불 예방·감시와 시설물 안전점검 등 다목적으로 활용할 수 있는 ‘융복합 드론스테이션 임대서비스’ 구매입찰 공고를 게시했다. 융복합드론스테이션은 △드론과 드론의 자동",
+      "language": "ko",
+      "summary": "조달청은 다국코리아에서 첨단제품을 제공하는 다목적 드론스테이션 임대서비스를 도착시키기로 합니다.",
+      "points": [
+        "조달청은 14일 나라장터 종합쇼핑몰에서 드론·이착류 스테이션·관제시스템과 산불 예방·감시 요구에 대한 측정.",
+        "스텾 드론과 드론 모델을 합성하여 '융복합 드론스테이션'를 제공합니다.",
+        "산불 감시에서 기술결함 위기와 설정된 보호 맥북이미지로 특정 구역에서 제공합니다."
+      ],
+      "insight": "이 기사는 일본 IT/기술 산업에서의 신비롭한 제품 도착시스템의 발전을 보여줍니다. '융복합 드론스테이션'는 해외에서 유명한 드론스테이션 시스템 제품과 동일한 기술으로 인터넷으로의 결함을 복구하고, 해외에서 다뫼나잇가지는 정보저장 드론의 도임생산과 직접 연결합니다."
+    },
+    {
+      "title": "KT, ‘국정자원 혁신 ISP’ 사업 우선협상대상자 선정... “공공 AI 인프라 설계”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144667&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 10:21:00 +0900",
+      "description": "대전 본원 693개 정보시스템 분석재배치 로드맵과 클라우드 활용 전략 수립국가정보통신망·공공 DR 사업 역량 결집[보안뉴스 강현주 기자] KT(대표 박윤영)가 행정안전부와 한국지능정보사회진흥원(NIA)이 발주한 ‘국가정보자원관리원 혁신 정보화전략계획(ISP) 수립 사업’의 우선협상대상자로 선정돼 국가 공공 AI 인프라 혁신을 위한 설계 작업에 착수한다고 1",
+      "language": "ko",
+      "summary": "국정자원이 강현주로 관리원과 NIA가 개정한 'ISP' 수립으로, 공공 AI 인프라 혁신에 기여할 작업을 선착.",
+      "points": [
+        "KT이나 국정자원가 ISP(Information Stewardship Proposal)계획의 우선협상대상자를 선보일 수 created by KT and governed by Minister Yun-Young Park.",
+        "개정한 ISP는 국저정보 분석 재조정을 위한 전략과 클라우드 사용을 통한 공동조성의 방식이다.",
+        "이 수립은 AI 인프라를 활용하여 온시티콘지 보호, 정보관리체제와 국가논라고 합니다."
+      ],
+      "insight": "이 기사는 공공 AI 인프라를 활용하여 보안과정지지에 기여할 수 01개의 관련 논문을 기준으로 모니터링한다."
+    },
+    {
+      "title": "“설치만 해도 개발자 PC 탈취”... 제이스크램블러 npm 배포판, Rust 악성코드 오염",
+      "link": "http://www.boannews.com/media/view.asp?idx=144666&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 10:04:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 자바스크립트 보안 솔루션 제이스크램블러(Jscrambler)의 엔피엠(npm) 공식 배포 인증 정보가 유출됐다.이로 인해 설치 시 정보 탈취형 악성코드 러스트(Rust)를 자동 실행하는 오염된 배포판이 유포돼 글로벌 공급망 생태계의 심각한 위협으로 부상했다.공격자들은 유출된 배포 인증 정보로 정상적인 검증 절차를 우회한 뒤, 사전",
+      "language": "ko",
+      "summary": "[보안뉴스 김형근 기자] 자바스크립트 보안 솔루션 제이스크램블러(Jscrambler)의 엔피엠(npm) 공식 배포 인증 정보가 유출됐다. 이로 인해 설치 시 정보 탈취형 악성코드 러스트(Rust)를 자동 실행하는 오염된 배포판이 유포돼 글로벌 공급망 생태계의 심각한 위협으로 부상했다...",
+      "points": [
+        "[보안뉴스 김형근 기자] 자바스크립트 보안 솔루션 제이스크램블러(Jscrambler)의 엔피엠(npm) 공식 배포 인증 정보가 유출됐다",
+        "이로 인해 설치 시 정보 탈취형 악성코드 러스트(Rust)를 자동 실행하는 오염된 배포판이 유포돼 글로벌 공급망 생태계의 심각한 위협으로 부상했다",
+        "공격자들은 유출된 배포 인증 정보로 정상적인 검증 절차를 우회한 뒤, 사전"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 63] 아는 길도 물어가라(3)-원격 접속 끄지 않으면 생기는 위험",
+      "link": "http://www.boannews.com/media/view.asp?idx=144211&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 14 Jul 2026 09:50:00 +0900",
+      "description": "원격 제어 프로그램 사용 후에는 반드시 종료하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안",
+      "language": "ko",
+      "summary": "원격 제어 프로그램 사용 후에는 반드시 종료하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
+      "points": [
+        "원격 제어 프로그램 사용 후에는 반드시 종료하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
+        "그래서 우리는 기술보다 습관을 배워야 한다",
+        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 14 Jul 2026 00:45:00 +0000",
+      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "language": "en",
+      "summary": "Uber's Chief Product Officer Sachin Kansal discusses Uber's financial-services goals, complex relationship with Waymo as a ride-hailing competitor and potential partner in autonomous vehicles (AV), the establishment of its AV Labs data operation, and how AI is increasingly evident to both riders and drivers.",
+      "points": [
+        "Uber's Chief Product Officer Sachin Kansal revealed ambitions for financial services as an extension beyond ride-hailing platform",
+        "The relationship between Uber and Waymo complicates, with tensions arising from competition in the AV market while also exploring partnership opportunities.",
+        "Uber has launched its own data operation called AV Labs to collect proprietary information for autonomous vehicle research."
+      ],
+      "insight": "The evolving relationship between Uber and Waymo highlights potential strategies that ride-hailing companies could adopt in the race towards self-driving technology, while also emphasizing how competition can drive innovation within this new domain of autonomous vehicles."
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "language": "en",
+      "summary": "PixVerse has raised $439 million in funding, increasing its valuation over two billion dollars as it seeks to expand globally and enhance its world model video generation technology.",
+      "points": [
+        "Video-generation startup PixVerse secures a massive $439M investment",
+        "Company' extramsurface growth with increased valuation of over $2B",
+        "Expansion goals include reaching customers in different geographies"
+      ],
+      "insight": "PixVerse's recent funding round demonstrates significant confidence within the video-generation market, potentially propelling advancements and broader accessibility for creative industries relying on AI technology."
+    },
+    {
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 23:58:27 +0000",
+      "description": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+      "language": "en",
+      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel",
+      "points": [
+        "The social media site says it will amplify posts made by users' mutual followers' to give the feed m...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 23:31:18 +0000",
+      "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "language": "en",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors",
+      "points": [
+        "The company is raising at least $75 million, led by Robot Ventures, with significant participation f...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 20:59:00 +0000",
+      "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "language": "en",
+      "summary": "Microsoft CEO Satya Nadella has warned companies to exercise caution with their use of artificial intelligence (AI), stating it can have unintended consequences.",
+      "points": [
+        "Satya Nadella, Microsoft's CEO, issued a warning about potential negative impacts of AI on society and the economy due to its misuse by companies exploiting proprietary models without considering societal implications. He urges organizations that adopt or sell these technologies to take responsibility for their broader consequences.",
+        "The controversy surrounding artificial intelligence in Silicon Valley is not new, but Nadella's warning highlights the need for responsible development and deployment of AI systems by tech giants who hold proprietary models. His statement comes amid growing public concern about ethical implications linked to automation technologies.",
+        "Microsoft has been at the forefront in providing guidance on developing artificial intelligence responsibly, with Nadella championing a technology-first mindset that prioritizes social good alongside innovation and profit."
+      ],
+      "insight": "Satya Nadella's warning highlights the growing concern over unintended consequences of AI usage in society. This calls for tech companies to consider ethical implications when developing, deploying or selling proprietary models which has potential impact on job displacement and income inequality."
+    },
+    {
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 13 Jul 2026 20:00:17 +0000",
+      "description": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+      "language": "en",
+      "summary": "Apple is addressing an unspecified security incident involving a former employee who allegedly exploited a unique bug to access confidential files post-departure.",
+      "points": [
+        "Former Apple employee reportedly used a 'rare' bug for unautcurate file downloads after leaving the company",
+        "The breach allegedly lasted several weeks, with sensitive documents potentially downloaded by an individual associated with OpenAI",
+        "Apple has not specified details of security flaws exploited or affected data"
+      ],
+      "insight": "This incident emphasizes potential internal vulnerabilities in tech giants' cybersecurity measures and raises concerns about the insider threat, which could lead to increased scrutiny on IT practices within major companies."
+    },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
@@ -508,246 +747,6 @@
         "비밀번호 관리 시스템이 없는 사등한 방식에 대해서도 소개"
       ],
       "insight": "비밀번호 관리 앱은 사용자의 점진행동을 개선하고, 공규화를 가능시키는 IT/기술 보안에 중요한 역할을 합니다."
-    },
-    {
-      "title": "AI에게 보안관제 맡겨봤더니... kt클라우드, 사례 공유",
-      "link": "http://www.boannews.com/media/view.asp?idx=144640&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 12 Jul 2026 09:31:00 +0900",
-      "description": "강영익 kt클라우드 CISO “바이브 코딩 안전 확보하고 인력 상향 평준화” [보안뉴스 강현주 기자] AI 시대 고조되는 보안 위협은 AI로 극복해야 한다는 인식이 확산되는 가운데, AI 기반 보안관제 사례가 공유됐다. kt클라우드(kt cloud)는 최근 서울 용산 피스앤파크컨벤션에서 열린 ‘CISO코리아 2026’에서 ‘AI 기반 보안관제의 자동화된 탐",
-      "language": "ko",
-      "summary": "강영익이 kt클라우드는 AI로 보안관제를 자동화시킨 'AI 기반 보안관제의 자동화된 CISO코리아 2influenced by artificial intelligence,' kt클라우드이란 AI의 세미나인식으로 보안침처를 해결하는 방식을 강조.",
-      "points": [
-        "AI로 보안관제를 자동화시킨 CISO코리아",
-        "AI 기반 보안관제가 공유된 kt cloud사",
-        "강원도의 IT/기술 영역에서 AI를 이용하여 보안을 높이는 트렌드"
-      ],
-      "insight": "AI를 활용한 보안관제 시스템은 IT/기술 엔지니어가 우리의 인formatio와 생명을 고려하여 개발해야 함"
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 프루프포인트, AI를 위한 데이터 보안 솔루션 선보여",
-      "link": "http://www.boannews.com/media/view.asp?idx=144608&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 12 Jul 2026 09:25:00 +0900",
-      "description": "의도 기반(Intent-based) 사이버보안 플랫폼 안전한 AI 도입과 민감 데이터 보호[보안뉴스 강현주 기자] 글로벌 사이버보안 및 컴플라이언스 기업인 프루프포인트(Proofpoint, Inc.)는 ISEC 2026에서 최신 데이터 보호 및 AI 거버넌스 플랫폼을 선보인다. 이를 통해 조직이 AI를 안전하게 도입하는 동시에, 사람과 AI 에이전트가 커뮤",
-      "language": "ko",
-      "summary": "프루프포인트가 AI로 도착할 수 있는 위안이나 데이터보호 문제에 대한 IT/기술 관련 뉴스",
-      "points": [
-        "프루프포인트는 사용자의 의도에 기반하여 AI를 도입하고, 민감한 데이터를 보호할 수 있게 된다.",
-        "AI로 도임데이터보호 전용 AI 플랫포인트가 제공되고, IT/기술 사내에서의 영향을 최대한 확보하는 방식이다.",
-        "이 기사는 IT 분야에서 AI 도임데이터보호 문제에 대해 질ibrative 쌓여 선보인 모델을 제공한다."
-      ],
-      "insight": "기사는 IT/기술 업계가 AI로 도임데이터보호 문제에 대한 높은 기여를 보장하는 방법을 보여준다. 프루프포인트의 광고와 ISEC 2026 미리보기로 IT/기술 업계에 대한 데이터보호 문제에 대한 의사소통을 가능하도록 해주는 방식이다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 에스엔에이-SK쉴더스-온로우, ‘ISEC 2026’ 공동 참가... 차세대 AI 및 통합 인증",
-      "link": "http://www.boannews.com/media/view.asp?idx=144633&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 12 Jul 2026 09:21:00 +0900",
-      "description": "엔터프라이즈 통합 인증 플랫폼 ‘ONRROW IG’ 소개AI Agent·MCP 보안 전문 솔루션 ‘ONRROW AIS’ 공개SNA 총판·SK쉴더스 협력 체계 기반 시장 확대 본격화[보안뉴스 엄호식 기자] 원스톱 IT 전문기업 에스엔에이(대표 이원호, SNA)는 국내 대표 보안기업 SK쉴더스(대표 민기식), Identity Security 전문기업 온로우(대",
-      "language": "ko",
-      "summary": "엔터프라이즈 통합 인증 플랫폼 ‘ONRROW IG’ 소개AI Agent·MCP 보안 전문 솔루션 ‘ONRROW AIS’ 공개SNA 총판·SK쉴더스 협력 체계 기반 시장 확대 본격화[보안뉴스 엄호식 기자] 원스톱 IT 전문기업 에스엔에이(대표 이원호, SNA)는 국내 대표 보안기업 SK쉴더스(대표 민기식), Identity Security 전문기업 온로우(대",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[양자와 보안] LG U+, 차세대 보안 통신 품질 관리 기술 국제표준화 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=144644&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sun, 12 Jul 2026 09:17:00 +0900",
-      "description": "스위스 제네바 ITU-T SG13 회의서 개발 방향 제안...국제표준 개발 본격화 PQC·QKD 적용 환경에서도 서비스 품질 유지 위한 관리 기준 제안보안성과 서비스 품질 동시에 확보하는 차세대 통신망 구축 기대 [보안뉴스 원병철 기자] LG유플러스가 국제전기통신연합 전기통신표준화부문(ITU-T)에서 국제표준화 과제로 채택된 차세대 보안 통신 품질 관리 기",
-      "language": "ko",
-      "summary": "스위스 제네바 ITU-T SG13 회의서 개발 방향 제안. 국제표준 개발 본격화 PQC·QKD 적용 환경에서도 서비스 품질 유지 위한 관리 기준 제안보안성과 서비스 품질 동시에 확보하는 차세대 통신망 구축 기대 [보안뉴스 원병철 기자] LG유플러스가 국제전기통신연합 전기통신표준화부문(ITU-T)에서 국제표준화 과제로 채택된 차세대 보안 통신 품질 관리 기",
-      "points": [
-        "스위스 제네바 ITU-T SG13 회의서 개발 방향 제안",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
-      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 12 Jul 2026 00:16:06 +0000",
-      "description": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said.",
-      "language": "en",
-      "summary": "Reed Jobs highlights the rapid growth and successes of his venture outfit since its inception nearly three years ago at TechCrunch Disrupt.",
-      "points": [
-        "Yosemite has grown from a new biotech firm with just seven people to one that now includes 17 members, demonstrating significant expansion and team building.",
-        "The venture outfit is capitalizing on the patent expiration of blockbuster drugs across different therapeutic categories by developing their own treatments, showing adaptability in a shifting pharmaceutical landscape.",
-        "AI has become an integral part of Yosemite's operations since Reed Jobs took charge three years ago and is now seen as vital to the company's success."
-      ],
-      "insight": "The news indicates that dynamic leadership combined with strategic market adaptation can lead a biotech firm through challenging times, such as post-pandemic recovery periods. Yosemite serves as an exemplar of growth and innovation in leveraging AI to advance drug development."
-    },
-    {
-      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 11 Jul 2026 22:00:00 +0000",
-      "description": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popularity of the original […]",
-      "language": "en",
-      "summary": "A writer reflects on how staying home with a new ninja slushi twist helped them beat NYC's heat wave without going out for sweaty walks to get treats.",
-      "points": [
-        "NYC experienced its worst-ever weather in history, including the hottest July day and night temperatures recorded at John F. Kennedy International Airport (IATA: JFK).",
-        "People were seeking ways to stay cool during this intense heatwave.",
-        "The Ninja Slushi Twist machine allowed one writer to enjoy frozen treats conveniently from home, avoiding the discomfort of walking in sweltering conditions."
-      ],
-      "insight": "As extreme weather events become more frequent due to climate change, technology that helps individuals stay cool and comfortable indoors could see a rise in demand. Innovations like Ninja Slushi Twist may provide not only relief during such heatwaves but also contribute towards reducing urban congestion."
-    },
-    {
-      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 11 Jul 2026 17:30:00 +0000",
-      "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
-      "language": "en",
-      "summary": "Even Realities is developing smart glasses without a camera for professionals frequently engaged in virtual interactions or public speaking across language barriers.",
-      "points": [
-        "The new generation of Smart Glasses from Even Realities will not include cameras but are designed to enhance productivity and communication, especially benefiting frequent travelers and presenters who often face the challenge of real-time translation or recording during their meetings or speeches.",
-        "These cameraless glasses aim at offering seamless integration into one'supper professional routines without drawing attention as a device on oneself - an added advantage when dealing with foreign languages and cultures in international settings.",
-        "Even Realities acknowledges the privacy concerns associated with body-worn cameras, hence opting to develop camera-free smart glasses which still provides augmented reality (AR) tools for professional purposes."
-      ],
-      "insight": "This development indicates a shift in design priorities within tech products from being primarily surveillance devices to assistive and enhancement tools aimed at improving real-life productivity, especially across linguistic barriers. It could potentially redefine the future use of AR glasses beyond capturing personal experiences into professional collaboration."
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "language": "en",
-      "summary": "OpenAI has created an official ChatGPT position specifically tailored towards enhancing the experience of families with its AI product manager role.",
-      "points": [
-        "The OpenAI job posting highlights a specialized 'Chief Families Officer' (CFO) to build family-centric interactions and experiences around household activities using ChatGPT technology, focusing on caregivers and older adults. The CFO will be in charge of researching ways the AI can assist with daily routines.",
-        "The role involves designing a user interface tailored for families to interact naturally within their homes while integrating household devices such as smart TV'ener, lights, thermostats etc., and managing ChatGPT interactions effectively. The CFO will also explore how AI could assist in activities like homework help or grocery shopping.",
-        "The post emphasizes the importance of understanding families’ needs by creating experiences tailored for various household members across generations, with an intent to make everyday tasks easier and more enjoyable."
-      ],
-      "insight": "This news indicates that OpenAI is expanding its focus beyond individual users towards integrating AI in a way that supports the dynamics of family life. By designing experiences for families at home using ChatGPT, this could potentially transform how technology assists with daily household activities and communication within homes."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 스플래시탑, 제로트러스트로 강화하는 보안 운영 주목",
-      "link": "http://www.boannews.com/media/view.asp?idx=144586&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 16:17:00 +0900",
-      "description": "AI 시대의 원격 액세스와 자율 엔드포인트 관리공공기관 및 기업의 보안성과 운영 효율성 동시 확보[보안뉴스 강초희 기자] 디지털 전환과 AI 도입이 가속화되면서 기업과 공공기관의 IT 환경은 그 어느 때보다 복잡해지고 있다. 업무 시스템은 클라우드와 온프레미스를 넘나들고, 사용자와 단말기는 다양한 장소에서 업무를 수행한다. 이러한 환경 변화는 생산성 향상이",
-      "language": "ko",
-      "summary": "스플래시탑과 제로트러스트를 강화하면서 IT 환경의 복잡성이 증가한다.",
-      "points": [
-        "기사는 스플래시탑과 제로트러스트를 강화하는 보안 운영 주머니에 대해 설명한다.",
-        "AI 도입이 IT 공간의 구조가 어떻게 변경되고, 생산성과 환경 보안의 함께 개선에 대해 다른 정보를 제공한다.",
-        "업무 시스템이 넘나들고, 사용자와 단말기는 다양한 장소로 수행될 수 있어서 IT 보안의 중요성에 대해 강조한다."
-      ],
-      "insight": "이 기사는 스플래시탑과 제로트러스트를 인위적으로 지원하도록 IT 공간에서 AI의 영향을 강조한다. 이러한 기술들은 IT 업무 수행 시, 사용자 안전성을 보장하고, 환경 보안과 생산성을 모두 가지치게 하는 의미이다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 엑소스피어랩스, 정보 보안도 AI처럼 대중화... 사용자 경험으로 문턱 낮춘다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144637&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 16:14:00 +0900",
-      "description": "금융·공공·민간 고객사 확대고도화된 웹 격리 기술과 AI 보안 기능으로 시장 경쟁력 강화[보안뉴스 엄호식 기자] 엑소스피어랩스(대표 박상호, Exosphere Labs)는 기업이 제로트러스트(Zero Trust) 보안 모델을 손쉽게 구축할 수 있도록 SaaS 기반의 통합보안 서비스를 제공하는 기업이다. 외부, 내부위협으로부터 통합적으로 기업의 데이터를 보호",
-      "language": "ko",
-      "summary": "Exosphere Labs는 AI 기술을 통합보안 서비스로 환경에 맞게 제로트러스트 모델을 제공한다. 실제로 사용자의 경험이 증가하고 기술과 보안의 중요성을 인식했다.",
-      "points": [
-        "Exosphere Labs는 AI를 사용하여 보안을 개선시키며, 제로 트러스트 모델로 내부와 외부의 관계를 중요충소해 최대한 보호합니다.",
-        "사용자 경험이 증가하여, Exosphere Labs는 보안 서비스의 인간성과 친화를 강력히 제작해야 한다.",
-        "AI 기술을 이용한 보안도는 사용자 지속성을 유지하고 보호의 활동을 개선시키며, IT/업체적인 문제점에서의 침입차를 최소화합니다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 AI로 개발한 보안도가 현재 상황과 대체로 의미잇거리를 해소하고, 사용자 경험을 크게 보호하는 기능으로 인정되고, IT/공동존슼의 이러한 핵심의 진화를 강조해줍니다."
-    },
-    {
-      "title": "AI 시대, 되짚어보는 보안의 본질",
-      "link": "http://www.boannews.com/media/view.asp?idx=144545&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 16:08:00 +0900",
-      "description": "롯데마트 슈퍼를 통한 김재영 롯데마트 슈퍼 CISO의 보안 방향과 식견AI 시대에도 인간 중심의 보안 철학 필요[보안뉴스 엄호식 기자] AI가 기업 운영 전반에 깊숙이 자리 잡으면서 보안 역시 단순히 시스템을 지키는 차원을 넘어, 데이터 활용과 보호의 균형을 맞추는 것이 핵심 과제로 떠오르고 있다. 김재영 롯데마트 슈퍼 CISO는 최근 열린 ‘CISO KO",
-      "language": "ko",
-      "summary": "보안에 인간의 중요성을 강조하는 최신 IT/기술 사상",
-      "points": [
-        "AI가 인간보안의 주oca를 더욱 중요시함에 대한 논짐",
-        "인공지원 비즈니스에서 보안의 모든 방면에 익숙해진 최상위 근 mission이다.",
-        "21세기에서 시작하는 인간이 기술을 지원하고 보호하며 발전한다."
-      ],
-      "insight": "이러한 보안의 기술적 진짜화는 AI시대에서 인간의 활동적인 역량을 높이는 데 도움이다."
-    },
-    {
-      "title": "의약품 구매결제 서비스 기업 ‘크레소티’, 해킹으로 개인정보 유출",
-      "link": "http://www.boannews.com/media/view.asp?idx=144643&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 11:54:00 +0900",
-      "description": "이지스캐너 및 팜다큐 서비스 해킹...약사 및 고객 개인정보 탈취돼[보안뉴스 원병철 기자] 의약품 구매결제 서비스를 제공하는 크레소티가 자사 ‘이지스캐너’와 ‘팜다큐 서비스’에 해킹 사건이 발생해 개인정보가 유출됐다고 밝혔다. 지금까지 확인된 바에 따르면 7월 1일, 신원미상의 해커가 처방전 스캔 및 인식 서비스 관련 시스템에 침입해 일부 정보를 불법적으",
-      "language": "ko",
-      "summary": "크레소티의 구매결제 서비스에서 개인정보 유출 사건에 대한 경고를 받았다.",
-      "points": [
-        "회사 ‘이지스캐너’와 ‘팜다큐 서비스’에 의체하는 개인정보 유출",
-        "신원미상이 일부 정보를 잡아내며 침입했다.",
-        "근면대회 시스템에서 스캔이나 인식을 사용한 정보가 분석되었다."
-      ],
-      "insight": "이러한 손상은 개인정보를 강력히 게임화 시키고, 해외에서의 IT/기술 서비스 신호의 증가가 앞선되고 있다는 설명이 나오게 된다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 시큐어레터, 무선 네트워크 보안 및 통합 인증 고도화 전략 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144624&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 10:44:00 +0900",
-      "description": "DeepTrust AIR·DeepTrust AUS 중심의 유무선 보안 체계 강화와 맞춤형 인증 사업 확대 추진[보안뉴스 엄호식 기자] 시큐어레터는 무선인증 솔루션 DeepTrust AUS, 무선침입방지 솔루션 DeepTrust AIR의 무선보안 솔루션을 주축으로 기업의 IT 보안 환경을 개선하고 이를 강화하기 위한 다양한 유무선 IT 보안 솔루션을 고객에게",
-      "language": "ko",
-      "summary": "DeepTrust AIR·DeepTrust AUS 중심의 유무선 보안 체계 강화와 맞춤형 인증 사업 확대 추진[보안뉴스 엄호식 기자] 시큐어레터는 무선인증 솔루션 DeepTrust AUS, 무선침입방지 솔루션 DeepTrust AIR의 무선보안 솔루션을 주축으로 기업의 IT 보안 환경을 개선하고 이를 강화하기 위한 다양한 유무선 IT 보안 솔루션을 고객에게",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 수모로직, 엔터프라이즈 애플리케이션과 클로드 통합 관리",
-      "link": "http://www.boannews.com/media/view.asp?idx=144641&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 10:41:00 +0900",
-      "description": "클로드 컴플라이언스 API 선보여지능형 플랫폼 통해 보안 및 운영 데이터 통합[보안뉴스 강현주 기자] 수모로직(Sumo Logic)은 ISEC 2026에서 새롭게 출시된 클로드 컴플라이언스 API(Claude Compliance API)를 포함한 AI 기능 및 활용 사례를 선보일 예정이다.수모로직은 지능형 플랫폼을 통해 핵심 보안 및 운영 데이터를 통합함으",
-      "language": "ko",
-      "summary": "수모로직이는 ISEC 2026에서 새로운 클로드 컴플라이언스 API를 제공하고 AI 기능을 활용할 수 있는 선보이를 제출",
-      "points": [
-        "수모로직이는 ISEC 2026에서 새로운 클로드 컴플라이언스 API를 제공한다.",
-        "AI 기능을 활용하여 보안 및 운영 데이터 통합",
-        "관리적인 자동화 방식을 통해 응답 시간을 단축시키기 위한 선보이"
-      ],
-      "insight": "수모로직이의 이러한 특징은 IT/기술 업계에서의 보안 개정으로 연결되어 있다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 60] 세 살 버릇 여든까지 간다(10)-개인정보 동의, 왜 함부로 체크하면 안 될까",
-      "link": "http://www.boannews.com/media/view.asp?idx=143647&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 10:32:00 +0900",
-      "description": "개인정보 수집 동의 시 ‘선택’ 항목은 체크하지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐",
-      "language": "ko",
-      "summary": "개인정보 수집 동의 시 ‘선택’ 항목은 체크하지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "개인정보 수집 동의 시 ‘선택’ 항목은 체크하지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[한국정보보호학회 칼럼] On-device AI 시대, 저작권 보호의 경계가 단말로 이동하고 있다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144642&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 11 Jul 2026 10:29:00 +0900",
-      "description": "On-device AI 시대의 저작권 보호, 창작자 위한 방어선이자, AI 산업 전체 지속 가능의 안전장치[보안뉴스= 이종혁 한국정보보호학회 상임이사] 생성형 AI의 중심이 클라우드에서 단말로 이동하고 있다. 지금까지 대형언어모델과 에이전틱 AI는 주로 클라우드 서버에서 추론을 수행했지만, 최근에는 휴대폰, 태블릿, 노트북, 차량, 웨어러블, 로봇과 같은",
-      "language": "ko",
-      "summary": "On-device AI 시대의 저작권 보호, 창작자 위한 방어선이자, AI 산업 전체 지속 가능의 안전장치[보안뉴스= 이종혁 한국정보보호학회 상임이사] 생성형 AI의 중심이 클라우드에서 단말로 이동하고 있다. 지금까지 대형언어모델과 에이전틱 AI는 주로 클라우드 서버에서 추론을 수행했지만, 최근에는 휴대폰, 태블릿, 노트북, 차량, 웨어러블, 로봇과 같은",
-      "points": [
-        "On-device AI 시대의 저작권 보호, 창작자 위한 방어선이자, AI 산업 전체 지속 가능의 안전장치[보안뉴스= 이종혁 한국정보보호학회 상임이사] 생성형 AI의 중심이 클라우...",
-        "지금까지 대형언어모델과 에이전틱 AI는 주로 클라우드 서버에서 추론을 수행했지만, 최근에는 휴대폰, 태블릿, 노트북, 차량, 웨어러블, 로봇과 같은",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
