@@ -1,6 +1,139 @@
 {
-  "generatedAt": "2026-07-17T13:26:33.780Z",
+  "generatedAt": "2026-07-17T19:10:25.761Z",
   "articles": [
+    {
+      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+      "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 18:00:17 +0000",
+      "description": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
+      "language": "en",
+      "summary": "The article introduces a dual-function device by Dyson called the Hot+Cool HF1 that provides both heating and cooling while emphasizing its unique bladeless design and ease of use.",
+      "points": [
+        "Dyson launches the Hot+Cool HF1, an appliance providing space heating and cooling",
+        "The product features Dyson'ner’s signature silent operation and intuitive control system with its unique bladeless fan design for added convenience.",
+        "Targeted at consumers seeking a single device to manage indoor comfort year-round, the Hot+Cool HF1 represents an evolution of space heaters in modern appliance technology."
+      ],
+      "insight": "The release of Dyson's combined heating and cooling system demonstrates growing demand for multifunctional home devices that can adapt to changing seasons efficiently, potentially impacting future designs within the industry."
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+      "language": "en",
+      "summary": "Apple's lawsuit against OpenAI alleges misconduct involving former employees and could impact OpenAI's imminent plans for a public stock offering.",
+      "points": [
+        "Apple has filed a significant trade secrets complaint against OpenAI, claiming wrongdoing by some of the company's key figures including its chief hardware officer. The lawsuit also states that over 400 former Apple employees now work at OpenAI.",
+        "OpenAI is reportedly planning an IPO and has been cautious in responding to the trade secrets suit, avoiding statements about how this could affect their plans directly or indirectly due to legal proceedings against a major competitor like Apple. This comes amidst tensions over OpenAI's increasing market presence.",
+        "The timing of the lawsuit is particularly disruptive for what appears to be an imminent IPO, potentially causing investor unease and impacting financial forecasts."
+      ],
+      "insight": "This legal confrontation between Apple and a major player like OpenAI may cause instability within the tech sector as companies navigate public perceptions of misconduct while planning significant events such as IPOs."
+    },
+    {
+      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 16:18:09 +0000",
+      "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+      "language": "en",
+      "summary": "FBI has arrested Zyaire Wilkins for using Steam to distribute fake video games with malware that targeted cryptocurrency wallets.",
+      "points": [
+        "21-year-involved in the creation and distribution of deceptive stealthcryptomining software through seemingly legitimate gaming platforms",
+        "Affects thousands, some losses reaching tens to hundreds of dollars due to drained digital currency wallets linked via malware embedded video games",
+        "Investigation uncovers extensive network spanning multiple states and involving victims with significant monetary loss"
+      ],
+      "insight": "The case highlights the growing intersection between online gaming ecosystems, cryptocurrency exploits, and cybercrime tactics targeting digital assets."
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 16:12:46 +0000",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "language": "en",
+      "summary": "Amid concerns over inappropriate content and screen time on smartphones used by children, various companies are creating safer phone options for kids.",
+      "points": [
+        "Companies like Fairphone, LG Electronics, Vodafone Idea Limited (VIL), Sony Mobile Communications Corporation, Lenovo Group Ltd., and Huawei Technologies Co.Ltd have announced new devices targeting children as young as six.",
+        "The proposed kids' phones will come with features such as content limitations like age-specific app stores and screen timers to manage usage effectively.",
+        "These companies are actively seeking feedback on the concept, indicating a collaborative approach between parents, educators, experts in child psychology, technologists, designers, and children themselves."
+      ],
+      "insight": "The emergence of purpose-built kids' phones signals an industry acknowledgment that mobile devices must be designed with the wellbeing and developmental needs of young users at heart. This not only has implications for product design but also indicates a broader societal shift towards more responsible digital consumption by children."
+    },
+    {
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 15:29:21 +0000",
+      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+      "language": "en",
+      "summary": "Amazon discovered and fixed a bug within its billing system for AWS customers which erroneously charged them with large sums of money.",
+      "points": [
+        "An error in Amazon's software caused incorrect pricing calculations on the billings sent to some AWS customer accounts, leading to unexpectedly high charges over time.",
+        "The issue was not immediately apparent due to its subtle nature and may have been operating for years undetected. This bug could potentially affect hundreds of thousands or even millions of customers in various regions worldwide.",
+        "Upon discovery through a customer inquiry, Amazon undertocurred extensive internal investigations which led them to identify the root cause as software error within their billing system."
+      ],
+      "insight": "This incident highlights potential vulnerabilities and reliability issues in cloud computing services' pricing structures. As organizations increasingly rely on third-party providers for critical operations, incidents like this emphasize the need for diligent auditing of service agreements to ensure accuracy and fairness."
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 15:21:17 +0000",
+      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "language": "en",
+      "summary": "Patreon is collaborating with Cloudflare to combat AI content scraping by blocking bots from using creators' work without consent.",
+      "points": [
+        "Patreon and Cloudflare are teaming up against unautbanized AI model training",
+        "AI models often scrape Patreon’s user-generated content for free learning material",
+        "This block prevents bots from using creator's work to train without permission"
+      ],
+      "insight": "The partnership reflects growing concerns over AI ethics and copyright, potentially leading other platforms to enhance their anti-scraping measures."
+    },
+    {
+      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
+      "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 14:47:27 +0000",
+      "description": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
+      "language": "en",
+      "summary": "The article reviews the new Paper Pure device from reMarkable, noting that while there are some drawbacks such as an unresponsive touchscreen and a lack of Bluetooth connectivity for transferring handwritten notes to computers or tablets, it remains good overall. The author expresses disappointment with Remarkable's decision to discontinue software development but finds the hardware impressive.",
+      "points": [
+        "Paper Pure is an excellent device despite its unresponsive touchscreen and lack of Bluetooth connectivity for transferring handwritten notes, which are significant downsides as it essentially replaces Remarkable 2",
+        "Despite the discontinuation of software development by reMarkable post-launch to focus on hardware improvements exclusively (hence 'Paper Pure'), this decision led to criticism due to users' disappointment in not having access to their handwritten notes outside paper format anymore.",
+        "The author acknowledges that while some might disagree, especially as the original purpose of Remarkable was for digital note-taking and document capturing (with a focus on collaboration), there are still numerous individuals who find Paper Pure useful due to its standalone hardware capabilities."
+      ],
+      "insight": "The news highlights reMarkable's strategic decision to prioritize hardware development over software, which resulted in mixed feedback from users. While the company ceased providing updates for Remarkable apps post-launch and limited Paper Pure solely as a standalone device without Bluetooth connectivity or note transfer capabilities, there remains an appreciation among certain segments of its user base."
+    },
+    {
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 14:30:00 +0000",
+      "description": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage […]",
+      "language": "en",
+      "summary": "AI startups are monopolizing a significant portion of available funding, particularly in the later stages like seed and series A rounds. As these companies flood forward with investments year after year, it's becoming increasingly difficult for early-stage pre-seed ventures to secure financing.",
+      "points": [
+        "AI startups are dominating available funding at Seed/Series A stages in the past few years",
+        "The tech industry is witnessing a trend where investors prefer backing later-stage companies, leading pre-seed ventures to struggle for financing opportunities",
+        "Disrupt 2026 session offers strategies and conviction techniques essential for securing fundraising at the critical early stage"
+      ],
+      "insight": "The Disrupt 2026 event provides a platform for pre-seed founders to learn how to navigate through tougher startup ecosystems, emphasizing storytelling and conviction as tools for attracting potential investors in an AI-driven funded environment."
+    },
+    {
+      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 14:12:02 +0000",
+      "description": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
+      "language": "en",
+      "summary": "Zoox is recalling a robotaxi after it became disoriented during heavy smoke from an inferno in Los Angeles.",
+      "points": [
+        "Azoox's fleet has been recalled due to potential safety issues experienced by one of their vehicles under extreme weather conditions."
+      ],
+      "insight": "This incident highlights the importance of considering environmental factors and emergency situations when developing autonomous vehicle (AV) technology, as well as ensuring robust communication with first responders during such events."
+    },
     {
       "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
       "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
@@ -614,141 +747,6 @@
         "이러한 기능을 통해 보호시기에 유리한 가격액으로 도전을 해결하여, 자동차뿐만 아니라 모터로 이동하는 방법을 해외 인구가 많은 지역에서도 통과"
       ],
       "insight": "이 기사는 IT/기술 업체에서의 인기 시장의 중요한 글로벌 미래의 제한적인 모터 이동과정을 소개하고, 스마트포인트에서의 광벡터화 여부를 논의하는 사롤석 기자가 제시한다."
-    },
-    {
-      "title": "엔에이치네트웍스, AI 기반 조류대응 드론 시스템",
-      "link": "http://www.boannews.com/media/view.asp?idx=144730&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 15:21:00 +0900",
-      "description": "AI·드론·통합관제로 스마트 공항 안전 솔루션 완성[송도=보안뉴스 엄호식 기자] ICT 토탈 솔루션 전문기업 엔에이치네트웍스(NHNETWORKS)가 7월 15일부터 17일까지 인천 송도컨벤시아에서 열리는 ‘2026 대한민국 드론·UAM 박람회’에서 △AI 기반 조류대응 드론 시스템을 선보였다.AI 기반 조류대응 드론 시스템은 ‘국토교통부’와 ‘항공안전기술원",
-      "language": "ko",
-      "summary": "인천 송도에서 열리는 '2026 대한민국 드론·UAM 박람회'에서 NHNETWORKS는 AI 기반 조류대응 드론 시스템을 선보였다.",
-      "points": [
-        "인천 송도에 대한 안전 스마트 공항 시스템",
-        "AI·드론·통합관제를 위해 개발하여 UAM 박람회에 기억해두기",
-        "국토교통부과 항공안전기술원에서의 지원예정"
-      ],
-      "insight": "이러한 AI 기반 드론 시스템은 국가 역량 강화에 도움량을 제공하여, 자동차와 타이어로 일상의 교통권위를 자연적으로 다룰 수 s있도록 도와줍니다."
-    },
-    {
-      "title": "[김정덕의 인간중심보안-14] 디지털 보안문화 전환 모델: CORE-TRUST",
-      "link": "http://www.boannews.com/media/view.asp?idx=144731&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 15:00:00 +0900",
-      "description": "사람을 ‘통제’의 대상에서 ‘신뢰’의 방패로 재정의[연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. ‘인간중심보안’과",
-      "language": "ko",
-      "summary": "사람을 ‘통제’의 대상에서 ‘신뢰’의 방패로 재정의[연재목차 Part 3. 인간중심보안과 보안문화]1...",
-      "points": [
-        "사람을 ‘통제’의 대상에서 ‘신뢰’의 방패로 재정의[연재목차 Part 3",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "스마티, 인파 밀집 모니터링 등 재해·재난 대응 드론 통합 솔루션 주목",
-      "link": "http://www.boannews.com/media/view.asp?idx=144729&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 14:56:00 +0900",
-      "description": "통합관제 차량으로 어떤 곳에서도 시스템 운용 가능시간과 날씨 등 다양한 현장 상황 맞춰 유·무선 드론 운용[송도=보안뉴스 엄호식 기자] 개방형 사물지능융합기술(AIoT) 네트워크 전문기업 ‘스마티’(SMATI)가 2026 대한민국 드론·UAM 박람회에 참가해 제주특별자치도에 구축한 △드론활용 AI 인파 밀집 관리 시스템을 선보였다. 스마티의 드론활용 AI",
-      "language": "ko",
-      "summary": "통합관제 차량으로 어떤 곳에서도 시스템 운용 가능시간과 날씨 등 다양한 현장 상황 맞춰 유·무선 드론 운용[송도=보안뉴스 엄호식 기자] 개방형 사물지능융합기술(AIoT) 네트워크 전문기업 ‘스마티’(SMATI)가 2026 대한민국 드론·UAM 박람회에 참가해 제주특별자치도에 구축한 △드론활용 AI 인파 밀집 관리 시스템을 선보였다. 스마티의 드론활용 AI",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 패스틀리 “AI 시대 ‘봇 의도 파악’ 새로운 보안 과제로 부상”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144604&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 14:48:00 +0900",
-      "description": "넥스트젠 WAF, 봇 관리, 디도스 보호, API 보안 선보여“AI 시대 요구 가시성과 통제력 제공”[보안뉴스 강현주 기자] 인공지능이 디지털 지형을 재편하는 가운데, 기업에서는 ‘모든 트래픽이 인간이 아니며, 모든 봇을 동일하게 다뤄서는 안 된다’는 새로운 현실에 직면하고 있다. AI 에이전트와 크롤러부터 악성 자동화와 API 남용에 이르기까지, 기업은",
-      "language": "ko",
-      "summary": "넥스트젠 WAF, 봇 관리, 디도스 보호, API 보안 선보여“AI 시대 요구 가시성과 통제력 제공”[보안뉴스 강현주 기자] 인공지능이 디지털 지형을 재편하는 가운데, 기업에서는 ‘모든 트래픽이 인간이 아니며, 모든 봇을 동일하게 다뤄서는 안 된다’는 새로운 현실에 직면하고 있다. AI 에이전트와 크롤러부터 악성 자동화와 API 남용에 이르기까지, 기업은",
-      "points": [
-        "AI 에이전트와 크롤러부터 악성 자동화와 API 남용에 이르기까지, 기업은",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
-      "language": "en",
-      "summary": "Lululemon invested in Syntetica, a French startup specializing in novel approaches to recycling nylon using patented technology.",
-      "points": [
-        "Syntetica has developed an innovative method for processing and reusing waste nylon with high efficiency.",
-        "The company'currecy process utilizes proprietary enzymes, allowing the treatment of hard-to-process synthetic materials like nylon.",
-        "Lululemon is backing Syntetica through a $30 million Series A investment."
-      ],
-      "insight": "The partnership between Lululemon and Syntetica represents an important step towards sustainability in the fashion industry, potentially reducing reliance on virgin materials and minimizing waste disposal. This could inspire similar initiatives across other sectors that heavily utilize nylon."
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "language": "en",
-      "summary": "The article discusses Applied Computing's recent fundraising of $20M in Series A to develop an all-encompassing foundation AI model tailored for the oil and gas industry.",
-      "points": [
-        "Applied Computing has secured a significant investment ($20M) through its Series A round specifically aimed at constructing a foundational AI solution",
-        "The intended market is primarily within the sector of energy, with direct implications for oil and gas operators as well as potential applicability to petrochemicals.",
-        "This fundraising effort underscores a growing recognition among industry players that artificial intelligence can provide substantial benefits in operational efficiency."
-      ],
-      "insight": "Applied Computing's initiative suggests an increasing trend within the energy sector towards adopting AI technologies to enhance safety, reduce costs and environmental impact. As Applied Computing moves forward with this project, it may set a precedent for other companies in similar industries."
-    },
-    {
-      "title": "시큐아이, 복날 맞아 임직원과 지역사회에 건강한 여름나기 지원",
-      "link": "http://www.boannews.com/media/view.asp?idx=144718&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 11:08:00 +0900",
-      "description": "치킨·컵빙수·삼계탕 등 복날 이벤트로 임직원 사기 진작삼계탕 나눔 봉사로 지역사회와 상생 가치 실천[보안뉴스 원병철 기자] 시큐아이(대표 정삼용)가 임직원과 지역사회가 건강한 여름을 보낼 수 있도록 다양한 삼복맞이 이벤트를 진행했다고 16일 밝혔다. 삼복 이벤트는 시큐아이가 매년 여름 진행하는 대표적인 사내 행사로, 무더위에 지친 임직원을 격려하고 활기찬",
-      "language": "ko",
-      "summary": "시큐아이는 여름을 위한 사내 행사로, 체인과 골드로 임직원을 지치고 다양한 음식과 이벤트를 제공한다.",
-      "points": [
-        "시큐아이가 여름을 위한 사내 행사로, 임직원의 건강을 지친다.",
-        "체인과 골드를 제공하여 시키는 손노 sang(생산자)",
-        "다양한 음식과 이벤트를 제공하여 지역사회의 전형적인 가친성을 보유한다."
-      ],
-      "insight": "이 기사는 IT/기술 업계에서 많은 건강과 안정성을 주의하는 것을 의미한다. 앞서서 일하지 훼구한 삼복맞이에서 시큐아이가 전체적인 건강과 안정성을 보호하고 제공하는 모습을 강조한다."
-    },
-    {
-      "title": "아톤, AI 보안 연합 ‘프로젝트 캐노피’ 합류... “보안 주권 확보 동참”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144716&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 10:22:00 +0900",
-      "description": "AI 취약점 대응 정보 자사 보안 체계에 반영“금융·기업 보안 네트워크 활용 공익 보안 생태계 확산”[보안뉴스 강현주 기자] 아톤(대표 우길수)은 AI 기반 취약점 방어 기술을 사회 전반으로 확산하기 위한 공익 이니셔티브 ‘프로젝트 캐노피’(Project Canopy)에 디펜딩 파트너(Defending Partners)로 합류했다고 16일 밝혔다. 프로젝트",
-      "language": "ko",
-      "summary": "아톤이 AI보안연합 '프로젝트 캐노피'에 협력한다.",
-      "points": [
-        "아톤과 함께 나타나는 AI보안이 우리사회에 영향을 미치게 볼 수 0있다.",
-        "AI보안연합이 직접 급변동하고 확보하기 위한 공익과제로 '프로젝트 캐노피'을 시작했다.",
-        "AI취약점을 해결하고 사회 전체에서의 보안없이는 가능한 급일 수 있기를 나눠보았다."
-      ],
-      "insight": "이 뉴스는 AI보안으로 인한 우리사회의 안전성과 변화에 대해 통찰을 불려준다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 크라우드스트라이크, 클라우드네이티브로 침해 막아",
-      "link": "http://www.boannews.com/media/view.asp?idx=144594&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 09:46:00 +0900",
-      "description": "시큐리티 클라우드 및 팔콘 선보여...엔드포인트, 클라우드 워크로드, 신원, 데이터 보호[보안뉴스 강현주 기자] 글로벌 사이버 보안 리더 기업 크라우드스트라이크는 클라우드 네이티브 플랫폼으로 기업의 엔드포인트, 클라우드 워크로드, 신원, 데이터를 보호하기 위해 현대 보안을 재정의했다. 크라우드스트라이크 시큐리티 클라우드(CrowdStrike Security",
-      "language": "ko",
-      "summary": "시큐리티 클라우드 기술자가 보안서비스를 강화하여 IT 노동에게 더욱 안전한 잉그인드로 제공",
-      "points": [
-        "이크라우드스트라이크는 클라우드 플랫폼을 사용하여 IT 계열의 보안을 강화한다.",
-        "글로비스가 인품스, 웹사이스 등에서 운영중인 크라우드 공격으로 대상을 제공",
-        "모바일 화면과 인터넷 화면에서 코리아스타그린드가 모바일에 이용할 수 있다."
-      ],
-      "insight": "이러한 기술은 글로비스의 보안 전문성을 강화하고, 사용자 신청자들에게도 더욱 안전한 방식으로 감지를 제공"
     }
   ]
 }
