@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-17T08:08:29.620Z",
+  "generatedAt": "2026-07-17T13:26:33.780Z",
   "articles": [
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "language": "en",
+      "summary": "NVIDIA and Intel are closing a massive deal for an NVIDIA inference GPU server system worth $400 million.",
+      "points": [
+        "First-time chip financiers AMD and Alphabet turn to chipsets",
+        "$400M in financing, with upfront purchase of hardware from Microsemi",
+        "Inference computing is key for enterprise applications"
+      ],
+      "insight": "This deal signifies a shifting paradigm towards inference-centric AI solutions within the IT industry."
+    },
     {
       "title": "“섀도우 AI 음지에서 양지로”... 쏘카의 자율형 보안 거버넌스 사례",
       "link": "http://www.boannews.com/media/view.asp?idx=144707&kind=&sub_kind=",
@@ -734,21 +749,6 @@
         "모바일 화면과 인터넷 화면에서 코리아스타그린드가 모바일에 이용할 수 있다."
       ],
       "insight": "이러한 기술은 글로비스의 보안 전문성을 강화하고, 사용자 신청자들에게도 더욱 안전한 방식으로 감지를 제공"
-    },
-    {
-      "title": "CISO·CPO 분절된 권한 잇다... 카카오엔터테인먼트가 제시한 ‘통합 거버넌스’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144705&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 09:34:00 +0900",
-      "description": "정보보안과 개인정보 보호 넘나드는 클라우드·AI 위협 선제 대응 리더십이정민 정보보안 리더 “조직 통합 아닌 관점의 연결이 진정한 시너지 창출의 핵심”[보안뉴스 조재호 기자] 기업 내 정보보호최고책임자(CISO)와 개인정보책임자(CPO)로 양분된 보안 조직 의사결정 구조를 하나로 묶어 경영 리스크를 선제적으로 통제하는 새로운 거버넌스 모델이 제시됐다. 정보",
-      "language": "ko",
-      "summary": "정기적으로 관리하여 IT/기술 업체에서 보안을 강화하는 '통합 거버넌스' 모델이 제시되고, CISO와 CPO로 부닝한 정보보호 조직을 구성.",
-      "points": [
-        "정치적, 개인정보책임자(CPO)과 워터플 열려진 간접 관계로 부답한 올바료로 IT/기술 업체에서 보안을 강화하도록 할 수 s있는 모델이 제시되었다.",
-        "새로운 거버넌스 모델은 IT/기술 업체의 보안과 개인정보보호를 함손리 준수시키는 일이다.",
-        "클라우드·AI 위협 대응에 관렬로, CISO와 CPO가 부답한 정보보호 조직이 개인정보보호최고책임자의 역할을 강화하도록 할 수 있다."
-      ],
-      "insight": "이 '통합 거버넌스' 모델은 IT/기술 업체에서의 보안과정치를 개선하도록 만들어내는 매우 효율적인 전략이다. CISO와 CPO로부터 시약한 보안 조직을 구성할 수 없지만, 위에서 제시된 '통합 거버넌스'의 개인정보보호입장과 연동이 보안심리 피어나다."
     }
   ]
 }
