@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-18T02:30:42.379Z",
+  "generatedAt": "2026-07-18T07:48:42.544Z",
   "articles": [
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "language": "en",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "엔비디아 소프트웨어 위장, 윈도우 호스트 제어하는 신종 ‘라부바RAT’ 포착",
+      "link": "http://www.boannews.com/media/view.asp?idx=144742&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 18 Jul 2026 12:01:00 +0900",
+      "description": "러스트 기반 신종 RAT 악성코드... 다중 통신 경로 지원해 탐지 회피[보안뉴스 김형근 기자] 보안 감시망을 교란하기 위해 엔비디아 정상 소프트웨어로 위장한 러스트(Rust) 기반 신종 원격 제어 악성코드(RAT), 일명 ‘라부바RAT’(LabubaRAT)이 발견됐다.보안 기업 블랙포인트사이버(Blackpoint Cyber)는 최근 발간한 분석 보고서에서",
+      "language": "ko",
+      "summary": "러스트 기반 신종 RAT 악성코드. 다중 통신 경로 지원해 탐지 회피[보안뉴스 김형근 기자] 보안 감시망을 교란하기 위해 엔비디아 정상 소프트웨어로 위장한 러스트(Rust) 기반 신종 원격 제어 악성코드(RAT), 일명 ‘라부바RAT’(LabubaRAT)이 발견됐다...",
+      "points": [
+        "다중 통신 경로 지원해 탐지 회피[보안뉴스 김형근 기자] 보안 감시망을 교란하기 위해 엔비디아 정상 소프트웨어로 위장한 러스트(Rust) 기반 신종 원격 제어 악성코드(RAT), ...",
+        "보안 기업 블랙포인트사이버(Blackpoint Cyber)는 최근 발간한 분석 보고서에서",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관 66] 아는 길도 물어가라(6)-보이스피싱 의심되면 꼭 해야 할 행동",
       "link": "http://www.boannews.com/media/view.asp?idx=144218&kind=&sub_kind=",
@@ -717,36 +747,6 @@
         "This investment represents a growing interest in AI applications within industries beyond tech sectors such as automotneries."
       ],
       "insight": "The news highlights the increasing integration of artificial intelligence into various business processes, indicating potential industry-wide transformations across different service domains including vehicle maintenance and inspection services. The heavy investment by a high-profile individual like Sheryl Sandberg could also signal growing confidence in AI's applicability beyond traditional tech industries."
-    },
-    {
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 14:40:00 +0000",
-      "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "language": "en",
-      "summary": "Alexandre LeBrun, leader of an artificial intelligence-focused company called AI Mind Initiative (AMI), has opted not to use terms like 'AGI' or 'superintelligence' for his projects.",
-      "points": [
-        "Alexandre LeBrun is the CEO of a startup founded by Yann LeCun, focused on artificial intelligence models and world representation.",
-        "Despite AMI Labs being involved in work that could be labeled as 'superintelligence', Alexandre prefers not to use such terminology due to concerns about creating unrealistic expectations for the field of AI development.",
-        "LeBrun believes using terms like AGI or superintelligence may mislead people into thinking these capabilities are closer than they actually might be."
-      ],
-      "insight": "Alexandre LeBrun's approach highlights a growing awareness within the AI community about responsible communication and managing public expectations regarding artificial intelligence advancements. His decision could influence how future innovations in this field are perceived by society at large."
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "language": "en",
-      "summary": "China's deep learning startup Moonshot is developing its Kimi 3 AI model to rival Anthropic's Opus 4.8, with an impressive parameter count of between 2 and 3 trillion.",
-      "points": [
-        "Kimi 3 by Moonshot will have a parameter count ranging from 2 to 3 trillion.",
-        "China's largest open AI model is expected to close the gap with Anthropic’s Opus 4.8.",
-        "The FT reports on Kimi 3, anticipating its release."
-      ],
-      "insight": "This development suggests a competitive landscape in deep learning capabilities among global tech giants and startups alike."
     }
   ]
 }
