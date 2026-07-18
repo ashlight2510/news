@@ -1,6 +1,169 @@
 {
-  "generatedAt": "2026-07-17T19:10:25.761Z",
+  "generatedAt": "2026-07-18T02:30:42.379Z",
   "articles": [
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 66] 아는 길도 물어가라(6)-보이스피싱 의심되면 꼭 해야 할 행동",
+      "link": "http://www.boannews.com/media/view.asp?idx=144218&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 18 Jul 2026 08:32:00 +0900",
+      "description": "보이스피싱 의심 시 112 또는 1332에 신고하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐,",
+      "language": "ko",
+      "summary": "보이스피싱 의심 시 112 또는 1332에 신고하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
+      "points": [
+        "보이스피싱 의심 시 112 또는 1332에 신고하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
+        "그래서 우리는 기술보다 습관을 배워야 한다",
+        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 에스투더블유, AI 기반 데이터 인텔리전스 기술력으로 안보 위협 대응 지원",
+      "link": "http://www.boannews.com/media/view.asp?idx=144634&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 18 Jul 2026 08:28:00 +0900",
+      "description": "안보·보안 AI 제품 수출로 해외 매출 비중 20% 상회아시아, 중동, 유럽 시장 진출[보안뉴스 엄호식 기자] 빅데이터 분석 인공지능(AI) 기업 에스투더블유(S2W)는 인터폴(INTERPOL) 민관협력 프로그램 ‘게이트웨이 이니셔티브(Gateway Initiative)’의 한국 유일 파트너이자 ‘마이크로소프트 시큐리티 코파일럿(Microsoft Secur",
+      "language": "ko",
+      "summary": "이에서 S2W은 인터폴의 게시기 모드로 한국 파트너로 진전하고, GI 프로그램을 통해 국제 활동을 수행합니다.",
+      "points": [
+        "- S2W은 인터폴의 게시기 모드로 한국 파트너로 진전하였음에도 이를 위해",
+        "- GI 프로그램을 통해 국제 활동을 수행",
+        "- S2W은 AI를 이용한 결과물 생산기 개체를 개정하여 대표형식으로 제출"
+      ],
+      "insight": "기사는 S2W이 AI를 이용한 보안 제품에 대한 국제적인 활동과 제출에 관한 내용을 제시합니다. 많은 IT/기술 기업이 마스터스트렘지력의 AI를 사용하여 보안 제품을 개정하고 생산한다면, S2W의 경향성은 매우중요합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] Hash 기반 실시간 멀웨어 탐지 및 대응 솔루션 ‘TA-STR’, 보안 사각지대 해소",
+      "link": "http://www.boannews.com/media/view.asp?idx=144628&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 18 Jul 2026 08:24:00 +0900",
+      "description": "다양한 멀웨어 위협 실시간으로 탐지, 추적, 분석해 즉각 대응[보안뉴스 엄호식 기자] 아이티스테이션은 2001년 설립 이래 약 25년간 정보보호솔루션 개발에 주력해 온 보안 전문 기업이다. 지속적인 연구개발을 통해 CC인증, GS인증 등 다수의 보안 인증을 획득했으며, 혁신적인 기술력으로 400여개 이상의 고객사를 확보하고 있다.최근에는 지능형 엔드포인트",
+      "language": "ko",
+      "summary": "이슈사이트에서 제공하는 'TA-STR' 시스템은 약 25년간의 정보보호솔루션을 개발한 아이티스테이션이다. 이 기술에서는 사용자가 여러분의 시스템과 IT 구성에 대한 보안을 강제로 인식하도록 함으로써, 현실세계에서 일어나는 코드공학력이나 양자화되어가는 대칭오버파견에 대한 미리보기를 제공한다.",
+      "points": [
+        "- 'TA-STR' 시스템은 사용자의 시스템과 IT 구성을 잘리듯하게 보호하도록 설정할 수 0있다.",
+        "- AI/ML를 이용한 'TA-STR'는 심층으로 진동하고, 현재 가격은 3밖에 오차 가능하다.",
+        "- AI/ML 기반 시스템이란 'TA-STR'는 대칭오버파견, 코드공학력이나 양자화되어가는 악하한 활동에 대한 미리보기를 제공."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서의 'TA-STR' 시스템이란 현재 AI/ML 기반으로 진동하고, 보호의 방식은 일반적으로 불안정한 활동을 대신하여, 사용자의 시스템과 IT 구성에 대해서 일반적으로 보호를 위해 필요한 수정이 없다는 것을 강조하고, 이를 기반으로 공급가 유리로 인식하지만, AI/ML에의 오버할 여지가 있어서 외부 사용자가 이미 보호되어 있는 정도로 광범위하게 제공한다."
+    },
+    {
+      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 23:08:00 +0000",
+      "description": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world’s most […]",
+      "language": "en",
+      "summary": "Eight Australian startups will compete for automatic entry into TechCrunch Disrupt in San Francisco during Stripe Tour Sydney.",
+      "points": [
+        "Startup competition at the event offers direct access to a global stage and potential investor attention.",
+        "Automatic qualifiers include pitching, networking opportunities with industry leaders present as observers or judges may be from VentureBeat's ranks."
+      ],
+      "insight": "This provides Australian startups an unprecedented opportunity for exposure to international tech networks and potential investment. It highlights the growing global collaboration within the startup ecosystem, demonstrating how events like Stripe Tour Sydney can significantly benefit emerging companies in a competitive industry."
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000",
+      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "language": "en",
+      "summary": "Vertu introduces a pricey AI agent for executives claiming benefits in efficiency and personal assistance but faces scrutiny over actual performance.",
+      "points": [
+        "- Vertu's luxury foldable AI assistant is priced at $6,880 per executive.",
+        "- The device purportedly offers features like automating workflow processes to save time for the user.",
+        "- There are questions about whether its performance justifies such a high price point."
+      ],
+      "insight": "The release of Vertu's AI agent raises concerns regarding cost-effectiveness and actual value provided, potentially affecting future investments in similar technology products within the industry."
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "language": "en",
+      "summary": "Databricks is now valued at $188 billion after rebranding as a leading artificial intelligence company and publishing research on cost savings with open AI models.",
+      "points": [
+        "Databricks has successfully shifted its brand identity to focus more prominently on artificial intelligence, evidenced by an impressive $188 billion valuation following the announcement of this strategic pivot earlier in May. The company's founder and CEO Dounia Chevalier highlighted Databricks as a 'rebranding platform that takes existing data science tools like RStudio to scale,' which has resonated well within Silicon Valley.",
+        "Chevalier emphasized the importance of open AI models in reducing costs for businesses, not only through increased efficiency but also by potentially eliminating expenses related to consultants and specialists. This aligns with Databricks' broader mission as an enterprise platform that facilitates collaboration among data scientists.",
+        "Databricks has demonstrated its ambition in the AI field not just through rebranding but by publishing research on leveraging open weight machine learning models to aid coding efforts, which is a significant development considering they previously focused more narrowly as an analytics engine."
+      ],
+      "insight": "Databricks' pivot towards becoming a hub for AI innovation and collaborative tools represents the industry trend of integrating data science with broader business applications. Their valuation growth post-rebranding underscores the increasing importance placed on accessible, scalable platforms that democratize advanced analytics technologies."
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 21:20:47 +0000",
+      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "language": "en",
+      "summary": "The article discusses the increasing trend in audio-recorded workplace interactions as facilitated by Zoom meetings during remote working periods and raises privacy concerns over recorded content being transcribed without consent.",
+      "points": [
+        "A new 'Do Not Record' feature developed for video calls allows participants to opt out of recording, sparking debate about meeting confidentiality standards in the workplace.",
+        "The widespread adoption of remote working has led businesses and individuals alike to record more meetings using platforms like Zoom without clear policies or consent from all parties involved.",
+        "Without proper handling and authorization protocols, transcribed meeting content can lead to privacy violations as information is made available outside the intended audience."
+      ],
+      "insight": "This news highlights an important intersection of technology usage for productivity and data security within remote work environments. It underscores potential legal implications regarding recording consent while advocating a reevaluation of meeting protocols to protect employee privacy rights."
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "language": "en",
+      "summary": "Agility Robotics has opened a new robotic arm (Digit) production and customer service facility near Tesla'selocality of Fremont in California.",
+      "points": [
+        "The Agility Automation company announced the opening of its latest Digit training center for repairing, maintaining, assembling robots right next to a new Gigafactory at their backyard (Fremont, CA).",
+        "Agility claims that this move will create over 50 jobs in California and provide hands-on experience while working with the automation company's advanced robotic arms.",
+        "The Digit has been designed to perform simple tasks such as picking up objects from a conveyor belt or placing items into boxes, making it an ideal fit for Agility Automation."
+      ],
+      "insight": "This development marks the expansion of industrial automation in California and signifies how robotics are increasingly being used not only to replace jobs but also create new ones. It is expected that this collaboration could enhance Tesla's manufacturing capabilities through improved training for technicians."
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 20:09:27 +0000",
+      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "language": "en",
+      "summary": "In India, a growing memory chip shortage caused by an intense focus on artificial intelligence (AI) has led to smartphone sales declining in recent years. This shift signifies the impact of AI advancements and scarcity issues on consumer electronics markets.",
+      "points": [
+        "A severe global semiconductor chip shortage is affecting India's tech industry, specifically causing a slowdown in smartphone sales due to insufficient memory chips for production.",
+        "The demand shift towards AI-focused devices has reallocated resources and manufacturing efforts away from traditional consumer electronics like smartphones. This highlights how the increasing importance of artificial intelligence is influencing market dynamics across various industries, including tech sectors worldwide.",
+        "Although India's economy heavily depends on technology sales as a leading export commodity for foreign exchange earnings and employment generation in electronics manufacturing hubs like Silicon Valley City (SVC), the current AI-driven memory crunch underscores vulnerabilities within its domestic tech supply chain, suggesting that it might need to reassess sourcing strategies."
+      ],
+      "insight": "This semiconductor shortage in India and elsewhere has demonstrated how technological advancements can significantly influence consumer markets. It underscores the importance of diversification within tech industries, especially as they navigate supply chain vulnerabilities amidst AI-driven growth."
+    },
+    {
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+      "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 19:49:53 +0000",
+      "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
+      "language": "en",
+      "summary": "San Francisco's city attorney has ordered Apple and Google to remove nudity-promoting 'nudify' applications from their app stores due to a violation of state law.",
+      "points": [
+        "Apple and Google received legal letters demanding the removal of apps in breach of California laws regarding sexual content for minors.",
+        "The specific legislation cited is known as Nudity-Related Crimes Against Children Act, which prohibits commercial distribution within a 100-foot radius from schools or places where children are present and bans the sale in general merchandise stores."
+      ],
+      "insight": "This action by San Francisco City Attorney reflects growing concerns over digital content regulation to protect minors, setting a precedent for future legal actions against social media platforms hosting adult material accessible online. This could encourage other jurisdictions with similar intentions or laws."
+    },
+    {
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 17 Jul 2026 19:22:00 +0000",
+      "description": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "language": "en",
+      "summary": "Valar Atomics is in discussions to raise new capital at an enterprise value of $6 billion for its nuclear startup.",
+      "points": [
+        "Potential deal indicates a trend towards multi-stage funding rounds obscuring actual entry prices",
+        "Deal signals growing confidence among investors and the market in advanced energy projects like Valar Atomics's small modular reactors (SMRs)",
+        "The financing round could accelerate development, deployment of SMR technology"
+      ],
+      "insight": "This funding trend suggests that despite potential complexities, investor confidence remains high in innovative energy solutions with a focus on sustainability and security."
+    },
     {
       "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
       "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
@@ -584,169 +747,6 @@
         "The FT reports on Kimi 3, anticipating its release."
       ],
       "insight": "This development suggests a competitive landscape in deep learning capabilities among global tech giants and startups alike."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "language": "en",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market",
-      "points": [
-        "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI amb...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 11:30:00 +0000",
-      "description": "Aina is going to pilot a new device in the coming weeks.",
-      "language": "en",
-      "summary": "Ultrahuman has launched $5.5 million funding round for devices designed to control AI agents rather than just record humans.",
-      "points": [
-        "Aina raised over $5.5M in a Series B financing",
-        "The company's hardware controls how people interact with generative artificial intelligence (AI)",
-        "Ultrahuman is piloting new devices that will enhance interactions"
-      ],
-      "insight": "This innovation could lead to more intuitive and immersive human-computer interaction experiences, potentially transforming the way AI agents are controlled."
-    },
-    {
-      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-      "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 11:00:00 +0000",
-      "description": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
-      "language": "en",
-      "summary": "Meta has introduced an alert system for parents when their teen discusses suicide or self-harm with its Facebook Messenger AI chatbot.",
-      "points": [
-        "Facebook's new update aims to identify and act upon potentially serious conversations about mental health issues among minors using the platform'in messaging system."
-      ],
-      "insight": "This development highlights an increasing recognition within social media companies of their role in public safety, as well as potential ethical implications regarding privacy concerns when monitoring user communications for sensitive subjects like suicide and self-harm."
-    },
-    {
-      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
-      "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 09:00:00 +0000",
-      "description": "OnePlus could also wind down its operations in India by 2027.",
-      "language": "en",
-      "summary": "OnePlus is ceasing to release new phones exclusively for the US and Europe markets.",
-      "points": [
-        "OnePlus will stop releasing new smartphones in the United States market by November 2023. The company also plans not to launch any devices targeted at European consumers moving forward, according to multiple sources close to OnePlus who spoke with Bloomberg.",
-        "The decision follows a decline of up to 65% year-on-year in sales for the Chinese manufacturer's midrange phones between January and September. While China continues being its largest market shareholder (nearly half), Europe is currently OnePlus' third biggest, behind only North America.",
-        "OnePlus says this shift will allow it to focus on developing cheaper hardware using a more open ecosystem with Android 13 as the newest version and Snapdragon chipsets."
-      ],
-      "insight": "This move signifies OnePlus' strategic pivot towards affordability in emerging markets where there is still significant potential growth, rather than focusing on saturated Western markets. It also indicates a broader trend of phone makers repositioning themselves to compete through lower-cost devices with accessible software ecosystems."
-    },
-    {
-      "title": "이스온, 국토교통부 ‘디지털도로 AI 신기술 지원사업’ 협약 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=144741&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 17:49:00 +0900",
-      "description": "레일로봇으로 고속도로 터널 화재 관리천장 레일 위 달리며 감시와 안내, 소화까지 수행산업통상자원부 R&D로 키운 원천기술 상용화[보안뉴스 엄호식 기자] 포항의 강소기업 이스온(대표이사 김웅욱)이 국토교통부 ‘디지털도로 AI 신기술 지원사업에 최종 선정돼 지난 7월 8일 전담기관인 한국지능형교통체계협회(ITS Korea)와 협약을 체결했다. 과제명은 ‘AI",
-      "language": "ko",
-      "summary": "이사 김웅욱의 이스온회사는 국토교통부에서 'AI 도로 신경전달' 지원사업에 선정반영을 누름.",
-      "points": [
-        "이사 김웅욱과 국토교통부의 ITS 교통체계혁신지인회와 협약을 체결했다.",
-        "이사 김웅욱의 이러한 협약은 기술적 지원과 안전한 교통 환경을 위해 진행",
-        "포함시스슬 산업이사, 이런 기회는 디지털도로 화재에 대비할 수 0분을 고려한다."
-      ],
-      "insight": "이러한 계정은 IT업의 현状이 기술적인 지원과 안전 교통 시스템 개발에 기여하며, 이체결은 이성공적인 연구가능성을 보장"
-    },
-    {
-      "title": "데이터독, 가트너 ‘옵저버빌리티’ 부문 6년 연속 리더 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144738&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 17:04:00 +0900",
-      "description": "LLM·AI 에이전트 성능 가시화하는 단일 아키텍처 제공[보안뉴스 조재호 기자] 데이터독이 2026년 가트너 매직 쿼드런트 옵저버빌리티 플랫폼 부문 리더로 선정됐다고 16일 발표했다. 이로써 데이터독은 6년 연속 리더로 선정됐다. 데이터독은 이번 가트너 평가 대상 전체 벤더를 통틀어 실행 능력(Ability to Execute) 측면에서 가장 좋은 평가를",
-      "language": "ko",
-      "summary": "기사는 이 기사에서 데터노트료 디자인 '옵저버빌리티' 부문 6년간의 리덤런트를 수동으로 수행하여 선정한 '가트너'이 본인들과 잘 조직화적으로 함께 연구하고, 기술적으로도 전문적으로 최신화된 경력을 가지고 있다는 소재로 요약한.",
-      "points": [
-        "- '옵저버빌리티' 부문에서 6년간의 리덤런트를 수동으로 수행하는 '가트너'이 본인들과 잘 조직화적으로 연구하고, 기술적으로도 전문적으로 최신화된 경력을 가지고 있다는 소재로 요약한.",
-        "- 이 '가트너'은 특정 리덤런트에서 보다 결과를 제공하며, 자신의 경력을 바꾸어 축구하며.",
-        "- '가트너'은 이번 플랫폼에서 특정 리덤런트에서 제공한 것과는 다를 수 ops니다."
-      ],
-      "insight": "이 기사에서 나온 '가트너'은 IT/기술 업계에서의 리덤런트 성과를 통해 자신의 역할을 돔들어봐는 것이 아주 중요합니다."
-    },
-    {
-      "title": "지란지교소프트, 차세대 엔드포인트 AI 보안 신기술 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=144739&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 17:02:00 +0900",
-      "description": "과기정통부 우수 정보보호 기술 지정, 에이전트 내 네트워크 감시 엔진 탑재챗GPT 등 AI 7종·주요 웹메일 경로에 비식별화 포함 3모드 정책 엔진 적용[보안뉴스 조재호 기자] 지란지교소프트가 자사 ‘생성형 AI 및 이메일 구간 민감정보 탐지·차단·비식별화 및 감사 통합 보안 기술’이 과학기술정보통신부와 한국인터넷진흥원(KISA)가 주관하는 2026년 우수",
-      "language": "ko",
-      "summary": "과기정통부 우수 정보보호 기술 지정, 에이전트 내 네트워크 감시 엔진 탑재챗GPT 등 AI 7종·주요 웹메일 경로에 비식별화 포함 3모드 정책 엔진 적용[보안뉴스 조재호 기자] 지란지교소프트가 자사 ‘생성형 AI 및 이메일 구간 민감정보 탐지·차단·비식별화 및 감사 통합 보안 기술’이 과학기술정보통신부와 한국인터넷진흥원(KISA)가 주관하는 2026년 우수",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "KISIA, 국내 보안 기업 해외 진출 도모... ‘2026 기업연계 초청연수’ 성료",
-      "link": "http://www.boannews.com/media/view.asp?idx=144737&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 16:04:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 한국정보보호산업협회(KISIA, 회장 김진수)는 한국인터넷진흥원(KISA, 원장 이상중) 글로벌 사이버보안 협력 네트워크(CAMP)와 비즈니스 상담회를 통해 국내 정보보호 기업의 참여 기회와 해외 수요기업 및 기관과 직접 교류할 수 있는 기회를 대폭 확대했다고 16일 밝혔다. KISIA는 과학기술정보통신부(부총리 겸 장관 배경훈),",
-      "language": "ko",
-      "summary": "KISIA는 국내 정보보호 기업과 해외 IT 상품 공급자의 경진을 통해 국제 기업들이 한국에서의 기업연산에 도움러지게 하려고 합니다.",
-      "points": [
-        "- KISIA이 국내 정보보호 기업들과 CAMP와 같은 통신협계를 강화하여 국가의 경량화 절차를 진행",
-        "- KISIA이 해외 IT 서비스가 한국에서의 전문성을 도입하기 위해 공급자와 대체점으로 프랑션을 개체화",
-        "- KISIA가 국내 정보보호 기업들과 직접 연계하여 국가의 수요와 지원 시장에 대한 불패키스를 해소할 예정"
-      ],
-      "insight": "KISIA이 공급자와 IT 기업들의 인터뷰를 통해 한국계습하고 전문성이 강한 시장에서 더욱 뛰어나서있는 가치충전 기회를 제공하고 있다."
-    },
-    {
-      "title": "李 대통령, 美 AI 접근 통제에 “대비해야”... 개인정보 유출 신고 포상 강조",
-      "link": "http://www.boannews.com/media/view.asp?idx=144736&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 15:46:00 +0900",
-      "description": "배경훈 부총리 “연내 보안 특화 독자 AI 모델 개발 추진”송경희 개보위원장 “유출 내부 신고자 포상 검토”[보안뉴스 강현주 기자] 이재명 대통령이 ‘미토스’ 등 사이버 보안 특화 프론티어 AI 모델에 대한 미국의 접근 통제 관련 “막힌다고 보고 대비해야 한다”고 말했다. 개인정보 유출에 대한 내부자 신고 포상도 강조했다. 16일 청와대 영빈관에서 이재명",
-      "language": "ko",
-      "summary": "대통령인 이재명은 미국의 AI 모델 개발 관리에 대한 보안을 강조하며, 막히다고 설명한 개인정보 유출의 위기와 내부 신고를 강조했다.",
-      "points": [
-        "미국의 사이버 보안에 대해 근시하여, 이재명은 AI의 개발 업계에서 잘못한 접근을 제어함으로써 보호할 수 0ne necessity.",
-        "이재명는 자기 정부의 사용자 개인 정보를 강조해야 한다. 내부 신고가 되어야 하는지 확인해야한다.",
-        "대통령은 각자의 보호절차를 강조하여, 이전에 검색했던 AI의 개인정보 이용을 신기와 논리로 본다."
-      ],
-      "insight": "이재명이 강하게 인증해야 했던 AI 개발 과정에서 막히다를 직접 듣고는, 그들이 개인정보 관리에 대한 방해 위기로 만들어진다."
-    },
-    {
-      "title": "유비파이, 국방·엔터테인먼트 드론 기술로 주목",
-      "link": "http://www.boannews.com/media/view.asp?idx=144734&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 15:24:00 +0900",
-      "description": "군집 및 장거리 공격 드론, 국방과 라이트 쇼 시장 모두 공략[송도=보안뉴스 엄호식 기자] 화려한 드론쇼로 잘 알려진 드론 전문기업 유비파이(UVIFY)가 2026 대한민국 드론·UAM 박람회에서 장거리 공격 드론을 선보였다. 유비파이는 미국 텍사스에서 열린 부활절 행사에서 군집 드론 라이트 쇼를 성공적으로 선보이며 기네스 기록 4개를 획득했다. 이번에",
-      "language": "ko",
-      "summary": "2026년 대한민국 드론·UAM에서 우리파이(UVIFY)는 군집 및 장거지 공격을 위해 마치 열립니다. 이로써 UVIFY은 국방적 전찬기으로 인공지컷 활동을 통해 보안노 Wonderland에서의 것입니다.",
-      "points": [
-        "군집 및 장거지 공격을 위해 UVIFY가 마치 열립니다",
-        "UVIFY는 4개의 기네스를 획득한 이유에 대해서는",
-        "국방적 전찬기로 UVIFY가 인공지컷 활동을 진행"
-      ],
-      "insight": "이러한 드론의 유형은 현재 IT/업무에서 일기임에도 인공지컷로 하는 전반적인 현상을 나타냅니다. UVIFY를 이해하면서, 공격으로 인식되는 공격은 아직 어느정도로 이루어지지 않았음을 나타냅니다."
-    },
-    {
-      "title": "나르마, 장거리 드론 물류 실증으로 글로벌 시장 도전",
-      "link": "http://www.boannews.com/media/view.asp?idx=144732&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 16 Jul 2026 15:22:00 +0900",
-      "description": "하이브리드 엔진 기반 장거리 드론, 울진–울릉도 실증사업 최종 단계 진행[송도=보안뉴스 엄호식 기자] 비가시권(BVLOS: Beyond Visual Line of Sight) 운용이 가능한 수직이착륙(VTOL: Vertical Take-Off and Landing) 드론 솔루션을 개발하는 스타트업 나르마(NARMA)가 울진에서 울릉도까지 드론으",
-      "language": "ko",
-      "summary": "비가시권이 개인정보를 위해 제한적으로 질문함으로서의 스타트업 나르마에서 개밤을 통과하여 비가시권 드론에 대한 처음으로 모터 이동을 시도한 이슈를 해커지고 제공",
-      "points": [
-        "스타트업 나르마가 비가시권 드론 개발에 대해 모터 이동을 시도한 후, 그 작동과정에서 인터뷰되고 다수의 질문에 대한 것을 확인",
-        "제안된 드론이 VTOL(위로출료입지)와 BVLOS(밖보호시기)성능에 대해서, 스마트폰에 관한 일부 사용자들의 질문과 인터뷰를 수동적으로 다룬 경우",
-        "이러한 기능을 통해 보호시기에 유리한 가격액으로 도전을 해결하여, 자동차뿐만 아니라 모터로 이동하는 방법을 해외 인구가 많은 지역에서도 통과"
-      ],
-      "insight": "이 기사는 IT/기술 업체에서의 인기 시장의 중요한 글로벌 미래의 제한적인 모터 이동과정을 소개하고, 스마트포인트에서의 광벡터화 여부를 논의하는 사롤석 기자가 제시한다."
     }
   ]
 }
