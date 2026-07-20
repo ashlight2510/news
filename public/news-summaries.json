@@ -1,6 +1,65 @@
 {
-  "generatedAt": "2026-07-20T09:03:45.494Z",
+  "generatedAt": "2026-07-20T14:08:12.927Z",
   "articles": [
+    {
+      "title": "오리엔텀, 이탈리아 링크스재단과 금융 분야 양자 컴퓨팅 맞손",
+      "link": "http://www.boannews.com/media/view.asp?idx=144766&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 22:32:00 +0900",
+      "description": "링크스재단 고성능 컴퓨팅 기술에 오리엔텀 양자 소프트웨어 기술 접목[보안뉴스 한세희 기자] 양자소프트웨어 전문기업 오리엔텀이 이탈리아 링크스 재단(Fondazione LINKS)과 금융 서비스, 은행 및 보험 분야 양자 및 양자 영감 컴퓨팅 연구개발 협력을 위한 업무협약을 체결했다고 20일 밝혔다.링크스재단은 이탈리아 토리노에 본사를 둔 연구 재단이다. 첨",
+      "language": "ko",
+      "summary": "링크스재단 고성능 컴퓨팅 기술에 오리엔텀 양자 소프트웨어 기술 접목[보안뉴스 한세희 기자] 양자소프트웨어 전문기업 오리엔텀이 이탈리아 링크스 재단(Fondazione LINKS)과 금융 서비스, 은행 및 보험 분야 양자 및 양자 영감 컴퓨팅 연구개발 협력을 위한 업무협약을 체결했다고 20일 밝혔다. 링크스재단은 이탈리아 토리노에 본사를 둔 연구 재단이다",
+      "points": [
+        "링크스재단은 이탈리아 토리노에 본사를 둔 연구 재단이다",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Jul 2026 12:39:28 +0000",
+      "description": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "language": "en",
+      "summary": "Hugging Face experienced a data breach that compromised internal datasets and credentials.",
+      "points": [
+        "Access tokens for Hugging Face accounts were accessed by unautclated actors during the recent attack on Microsoft Exchange Servers, which also impacted Colonial Pipeline Co., SolarWinds Orion software supplier, and a federal law enforcement database infiltrator.",
+        "Hugging Face is encouraging users to rotate access tokens as a precautionary measure against potential unauthorized use of their credentials for malicious purposes like code injection attacks or impersonating legitimate accounts on the platform.",
+        "While external data was not explicitly stated, the breach highlights vulnerabilities that can be exploited if companies rely solely on third-party security measures without proper due diligence and multi-layered defenses."
+      ],
+      "insight": "The Hugging Face breach underscores the importance of robust internal cybersecurity practices, including regular access token rotation and vigilant monitoring for suspicious activities. It also highlights how attacks on one entity can have broader implications across interconnected systems."
+    },
+    {
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 20 Jul 2026 12:30:00 +0000",
+      "description": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+      "language": "en",
+      "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "외교부 국립외교원, 온라인 교육 시스템 해킹... 9개월 간 몰라",
+      "link": "http://www.boannews.com/media/view.asp?idx=144765&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 18:22:00 +0900",
+      "description": "9개월간 불법 접속 지속... 외교 교육대상자 정보 등 저장5개월째 시스템 차단하고 조사 중[보안뉴스 한세희 기자] 외교부 산하 국립외교원이 장기간 해킹을 당한 사실이 드러났다.외교부는 “올해 2월 초 국립외교원 온라인교육시스템에 대한 비정상적 접근 상황을 관계 기관으로부터 통보받은 후 시스템을 긴급 차단했다”고 20일 밝혔다.국립외교원은 외교 인재 교육·",
+      "language": "ko",
+      "summary": "국립외교원이 올해 2월 초에 근시한 외교 교육 시스템을 시스턴트로 차단하였다.",
+      "points": [
+        "국립외교원가 전문들이 위기중에 결정을 내리기",
+        "온라인 교육 시스템의 차단이 기술 실용성과 운영 안전성에 어릺다"
+      ],
+      "insight": "국립외교원의 결정은 IT/기술 시스템 운영 안전성을 강조하는 거라고 이해할 수 0ne가능."
+    },
     {
       "title": "렉스젠, 영상으로 수위·유속·유량 분석부터 범람 위험 감지까지 통합 지원",
       "link": "http://www.boannews.com/media/view.asp?idx=144763&kind=&sub_kind=",
@@ -689,65 +748,6 @@
         "Without proper handling and authorization protocols, transcribed meeting content can lead to privacy violations as information is made available outside the intended audience."
       ],
       "insight": "This news highlights an important intersection of technology usage for productivity and data security within remote work environments. It underscores potential legal implications regarding recording consent while advocating a reevaluation of meeting protocols to protect employee privacy rights."
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "language": "en",
-      "summary": "Agility Robotics has opened a new robotic arm (Digit) production and customer service facility near Tesla'selocality of Fremont in California.",
-      "points": [
-        "The Agility Automation company announced the opening of its latest Digit training center for repairing, maintaining, assembling robots right next to a new Gigafactory at their backyard (Fremont, CA).",
-        "Agility claims that this move will create over 50 jobs in California and provide hands-on experience while working with the automation company's advanced robotic arms.",
-        "The Digit has been designed to perform simple tasks such as picking up objects from a conveyor belt or placing items into boxes, making it an ideal fit for Agility Automation."
-      ],
-      "insight": "This development marks the expansion of industrial automation in California and signifies how robotics are increasingly being used not only to replace jobs but also create new ones. It is expected that this collaboration could enhance Tesla's manufacturing capabilities through improved training for technicians."
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "language": "en",
-      "summary": "In India, a growing memory chip shortage caused by an intense focus on artificial intelligence (AI) has led to smartphone sales declining in recent years. This shift signifies the impact of AI advancements and scarcity issues on consumer electronics markets.",
-      "points": [
-        "A severe global semiconductor chip shortage is affecting India's tech industry, specifically causing a slowdown in smartphone sales due to insufficient memory chips for production.",
-        "The demand shift towards AI-focused devices has reallocated resources and manufacturing efforts away from traditional consumer electronics like smartphones. This highlights how the increasing importance of artificial intelligence is influencing market dynamics across various industries, including tech sectors worldwide.",
-        "Although India's economy heavily depends on technology sales as a leading export commodity for foreign exchange earnings and employment generation in electronics manufacturing hubs like Silicon Valley City (SVC), the current AI-driven memory crunch underscores vulnerabilities within its domestic tech supply chain, suggesting that it might need to reassess sourcing strategies."
-      ],
-      "insight": "This semiconductor shortage in India and elsewhere has demonstrated how technological advancements can significantly influence consumer markets. It underscores the importance of diversification within tech industries, especially as they navigate supply chain vulnerabilities amidst AI-driven growth."
-    },
-    {
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Jul 2026 19:49:53 +0000",
-      "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
-      "language": "en",
-      "summary": "San Francisco's city attorney has ordered Apple and Google to remove nudity-promoting 'nudify' applications from their app stores due to a violation of state law.",
-      "points": [
-        "Apple and Google received legal letters demanding the removal of apps in breach of California laws regarding sexual content for minors.",
-        "The specific legislation cited is known as Nudity-Related Crimes Against Children Act, which prohibits commercial distribution within a 100-foot radius from schools or places where children are present and bans the sale in general merchandise stores."
-      ],
-      "insight": "This action by San Francisco City Attorney reflects growing concerns over digital content regulation to protect minors, setting a precedent for future legal actions against social media platforms hosting adult material accessible online. This could encourage other jurisdictions with similar intentions or laws."
-    },
-    {
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Jul 2026 19:22:00 +0000",
-      "description": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "language": "en",
-      "summary": "Valar Atomics is in discussions to raise new capital at an enterprise value of $6 billion for its nuclear startup.",
-      "points": [
-        "Potential deal indicates a trend towards multi-stage funding rounds obscuring actual entry prices",
-        "Deal signals growing confidence among investors and the market in advanced energy projects like Valar Atomics's small modular reactors (SMRs)",
-        "The financing round could accelerate development, deployment of SMR technology"
-      ],
-      "insight": "This funding trend suggests that despite potential complexities, investor confidence remains high in innovative energy solutions with a focus on sustainability and security."
     }
   ]
 }
