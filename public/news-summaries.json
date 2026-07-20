@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-07-19T19:06:21.602Z",
+  "generatedAt": "2026-07-20T03:03:00.076Z",
   "articles": [
+    {
+      "title": "[인터뷰] 김대옥 넷앤드 부사장 “퇴사자 관리, 기업 생존 걸린 최우선 보안 과제”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144735&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 11:39:00 +0900",
+      "description": "내부 통제의 핵심, 넷앤드 HIWARE가 제시하는 ‘퇴사자 관리’의 새로운 패러다임[보안뉴스 원병철 기자] 쿠팡 개인정보 유출 사고는 3755만명의 개인정보 유출이라는 역대급 유출 규모는 물론 6246억원이라는 과징금 규모까지 국내는 물론 세계적인 이슈로 부각됐지만, 시작은 퇴사자의 관리 소홀이었다. 뿐만 아니라 퇴사자가 기업의 핵심 자산을 유출해 경쟁사로",
+      "language": "ko",
+      "summary": "관리한 퇴사자가 반대로 기업의 핵심 자산을 유출했다는 이슈에 직면해. 내부 절제의 중요성과 세계적인 위기로 논의한.",
+      "points": [
+        "관리자가 퇴사자로 이난한 이유와",
+        "기업의 핵심 자산과 경쟁사의 수정",
+        "국내절재, 세계절비창"
+      ],
+      "insight": "이번 경우에는 퇴사자가 기업의 중요한 자산을 추적해내지만, 이로써 기업의 세계적인 안전성과 국민의 질식에 어떤 영향을 미치는지 공정하거나 위기군에서 이슈로 부객."
+    },
+    {
+      "title": "“누가 아닌 무엇이 뚫렸는가”... 위드네트웍스, 취약점 중심 상시 보안 가이드 배포",
+      "link": "http://www.boannews.com/media/view.asp?idx=144753&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 11:35:00 +0900",
+      "description": "AI 활용 공격 89% 폭증, 제로트러스트 너머 차세대 방어선 제시섀도우 API 식별부터 우선순위 조치까지 방어 순환 체계 구축 노하우 수록[보안뉴스 조재호 기자] 위드네트웍스가 취약점 중심 상시 보안 전략을 다룬 전자책을 홈페이지를 통해 무료 배포한다고 20일 밝혔다. 이 가이드는 AI 공격 자동화 시대를 맞아 제로트러스트 이후 차세대 방어 체계를 수립하",
+      "language": "ko",
+      "summary": "AI 활용 공격 89% 폭증, 제로트러스트 너머 차세대 방어선 제시섀도우 API 식별부터 우선순위 조치까지 방어 순환 체계 구축 노하우 수록[보안뉴스 조재호 기자] 위드네트웍스가 취약점 중심 상시 보안 전략을 다룬 전자책을 홈페이지를 통해 무료 배포한다고 20일 밝혔다. 이 가이드는 AI 공격 자동화 시대를 맞아 제로트러스트 이후 차세대 방어 체계를 수립하",
+      "points": [
+        "이 가이드는 AI 공격 자동화 시대를 맞아 제로트러스트 이후 차세대 방어 체계를 수립하",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "원격으로 정보탈취하는 ‘크리스탈엑스 RAT’, 서비스형 악성코드로 유통 중",
+      "link": "http://www.boannews.com/media/view.asp?idx=144755&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 11:25:00 +0900",
+      "description": "정보 탈취·키 입력 기록·클리퍼·스파이웨어까지MaaS로 유튜브나 텔레그램을 통해 유포[보안뉴스 강현주 기자] 정보 탈취·키 입력 기록·클리퍼·스파이웨어까지 갖춘 악성코드 ‘크리스탈엑스 RAT’(CrystalX RAT)가 서비스형 악성코드(MaaS) 형태로 제3자에게 유통되고 있는 것으로 나타났다. 카스퍼스키(한국지사장 이효은)는 카스퍼스키 글로벌 연구분석팀",
+      "language": "ko",
+      "summary": "정보 탈취·키 입력 기록·클리퍼·스파이웨어까지MaaS로 유튜브나 텔레그램을 통해 유포[보안뉴스 강현주 기자] 정보 탈취·키 입력 기록·클리퍼·스파이웨어까지 갖춘 악성코드 ‘크리스탈엑스 RAT’(CrystalX RAT)가 서비스형 악성코드(MaaS) 형태로 제3자에게 유통되고 있는 것으로 나타났다. 카스퍼스키(한국지사장 이효은)는 카스퍼스키 글로벌 연구분석팀",
+      "points": [
+        "카스퍼스키(한국지사장 이효은)는 카스퍼스키 글로벌 연구분석팀",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[양자와 보안] 이와이엘, 글로벌 HSM 기업에 양자 엔트로피 기반 암호모듈 공급",
+      "link": "http://www.boannews.com/media/view.asp?idx=144754&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 11:18:00 +0900",
+      "description": "암호모듈 ‘EYL CryptoLib v1.2’ 국가암호모듈검증(KCMVP) 재검증 완료[보안뉴스 한세희 기자] 이와이엘(대표 장부석)이 자사 암호모듈 ‘EYL CryptoLib v1.2’의 국가암호모듈검증(KCMVP) 재검증을 완료하고, 이를 글로벌 하드웨어 보안 모듈(HSM) 기업 엔트러스트(Entrust)에 공급한다고 20일 밝혔다. 엔트러스트는 세계",
+      "language": "ko",
+      "summary": "이와이엘이 EYL CryptoLib v1.2의 KCMVP를 재검증한다고 밝혔다.",
+      "points": [
+        "이와이엘이 EYL CryptoLib v1.2, 세계적인 국가암호모듈검증(KCMVP) 재검증을 마치며, 공급",
+        "Entrust에서는 이와이엘의 암호모듈을 공급했다.",
+        "이로써 세계 국가암호모듈검증(KCMVP) 공급"
+      ],
+      "insight": "이 기사는 현재의 IT/보안 업체에서 인풋 입력을 방지하고자 한국어로 요약된다."
+    },
+    {
+      "title": "“에이전틱 AI 시대, 보안 패러다임도 바뀌어야” AI보안연구회 주최 ‘2026 AI 보안 워크숍’ 성료",
+      "link": "http://www.boannews.com/media/view.asp?idx=144752&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 10:47:00 +0900",
+      "description": "에이전트 보안부터 LLM 레드티밍·언러닝까지, 최신 AI 보안 기술과 실무 동향 총망라AI보안연구회 권태경 위원장 “학계-산업계-정부 협력으로 신뢰할 수 있는 AI 생태계 구축해야”[보안뉴스 원병철 기자] AI 에이전트의 확산과 함께 인공지능 보안 위협이 새로운 국면에 접어든 가운데, 최신 기술과 실무·정책 동향을 공유하고 학계·산업계·정부 간 협력 방안을",
+      "language": "ko",
+      "summary": "에이전트 보안부터 LLM 레드티밍·언러닝까지, 최신 AI 보안 기술과 실무 동향 총망라AI보안연구회 권태경 위원장 “학계-산업계-정부 협력으로 신뢰할 수 있는 AI 생태계 구축해야”[보안뉴스 원병철 기자] AI 에이전트의 확산과 함께 인공지능 보안 위협이 새로운 국면에 접어든 가운데, 최신 기술과 실무·정책 동향을 공유하고 학계·산업계·정부 간 협력 방안을",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“보안 AI 신뢰성 입증”... 이글루코퍼레이션, ‘에어’ AI+ 인증 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=144750&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 10:46:00 +0900",
+      "description": "한국표준협회 주관 인공지능 품질 및 신뢰성 평가 통과LLM과 보안 워크플로우 결합해 위협 탐지·분석 투명성 제공[보안뉴스 조재호 기자] 이글루코퍼레이션이 자사 보안 특화 AI 에이전트 ‘에어’(AiR)가 한국표준협회(KSA)로부터 에이어이플러스(AI+) 인증을 획득했다고 20일 밝혔다. AI+ 인증은 KSA가 AI 기능 품질과 신뢰성이 검증된 제품에 발급하",
+      "language": "ko",
+      "summary": "한국표준협회 주관 인공지능 품질 및 신뢰성 평가 통과LLM과 보안 워크플로우 결합해 위협 탐지·분석 투명성 제공[보안뉴스 조재호 기자] 이글루코퍼레이션이 자사 보안 특화 AI 에이전트 ‘에어’(AiR)가 한국표준협회(KSA)로부터 에이어이플러스(AI+) 인증을 획득했다고 20일 밝혔다. AI+ 인증은 KSA가 AI 기능 품질과 신뢰성이 검증된 제품에 발급하",
+      "points": [
+        "AI+ 인증은 KSA가 AI 기능 품질과 신뢰성이 검증된 제품에 발급하",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "AI가 코딩한 봇넷의 공습... IoT 노리는 ‘턱스봇(Tuxbot) V3’ 출현",
+      "link": "http://www.boannews.com/media/view.asp?idx=144747&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 10:37:00 +0900",
+      "description": "팔로알토 유닛42, LLM 악용 추정되는 악성코드 흔적 포착보안 취약한 가정용 IoT 인프라 장악해 사이버 공격 네트워크 구축[보안뉴스 김형근 기자] 사물인터넷(IoT) 기기를 노리는 미라이(Mirai) 봇넷 변종 ‘턱스봇(Tuxbot) V3’가 발견됐다. 대규모언어모델(LLM)을 활용해 코드를 작성한 흔적이 포착돼 AI 기반 악성코드 진화에 대한 우려가",
+      "language": "ko",
+      "summary": "AI로 훈련된 마이리(Mirai)에서 만들어진 '턱스봇(Tuxbot)' V3악성코드의 활동심을 본다.",
+      "points": [
+        "- AI를 사용한 마이리(Mirai)로 만들어진 '턱스봇(Tuxbot)' V3",
+        "- LLM(Large Language Model)에 의해서 코드를 작성하여 AI 기반 악성코드의 활동심이 구성된다.",
+        "- 반대로 IoT 기기가 보호하지 못한 현실을 나타내고, AI가 공격자로 이미지낸다."
+      ],
+      "insight": "이러한 포도스트(PoseStrawberry) V3는 IoT 기기보호에 대해서 염두, LLM을 사용한 AI가 인공지하는 것이 중요한 현상으로서 다시보자."
+    },
+    {
+      "title": "티피링크, 앨리스모바일과 손잡고 단기 무선 인터넷 시장 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=144749&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 10:32:00 +0900",
+      "description": "앨리스모바일 협력 통한 단기 무선 인터넷 시장 공략이동성 및 설치 편의성 갖춘 비즈니스 네트워크 환경 제공행사, 촬영, 건설 현장 대상 네트워크 서비스 확대[보안뉴스 강초희 기자] 글로벌 네트워크 솔루션 기업 티피링크(TP-Link)는 무선 인터넷 대여 서비스 ‘앨리스모바일’과 협력해 포켓 와이파이 기반 무선 인터넷 서비스의 활용성을 확대한다고 밝혔다.이번",
+      "language": "ko",
+      "summary": "앨리스모바일 협력 통한 단기 무선 인터넷 시장 공략이동성 및 설치 편의성 갖춘 비즈니스 네트워크 환경 제공행사, 촬영, 건설 현장 대상 네트워크 서비스 확대[보안뉴스 강초희 기자] 글로벌 네트워크 솔루션 기업 티피링크(TP-Link)는 무선 인터넷 대여 서비스 ‘앨리스모바일’과 협력해 포켓 와이파이 기반 무선 인터넷 서비스의 활용성을 확대한다고 밝혔다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "히타치 밴타라, ‘VSP 원’ 경쟁력 인정...기가옴 6년 연속 리더",
+      "link": "http://www.boannews.com/media/view.asp?idx=144746&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 09:58:00 +0900",
+      "description": "‘VSP 원’ 기반 통합 데이터 관리 플랫폼 경쟁력 입증VSP 360 관리 기능 확대 및 오브젝트 처리 성능 최대 4배 향상[보안뉴스 강초희 기자] HS효성인포메이션시스템(대표 양정규)은 시장 분석기관 기가옴(GigaOm)이 발표한 ‘2026 기가옴 비정형 데이터 관리 레이더’ 보고서에서 히타치 밴타라(Hitachi Vantara)가 6년 연속 리더 및",
+      "language": "ko",
+      "summary": "히타치 밴타라는 'VSP 원' 기반 데이터 관리 시스템은 6년간의 리더로서 경쟁력을 인정하고, 다음 세월에는 핵심적인 개선이 기대되야 한다.",
+      "points": [
+        "- 6년간 리더로서 경쟁력을 인정하고,",
+        "- 'VSP 원'라는 통합 데이터 관리 시스템의 성공적인 모니터링에 기여한 경우를 나타내며,",
+        "- 6년간 리더가 기대되어야 하는 다음 행정기대응을 나타낸다."
+      ],
+      "insight": "저녁한국방송에서 소식이 나오면, 주로 IT/기술 업체들의 성공이나 확대 중止스럽도니까. 'VSP 원'가 이러한 경쟁을 이기고 다음 세월에는 개선이 필요하다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 케이알시큐리티, AI 기반 차세대 ASM ‘ReconRED’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144649&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 20 Jul 2026 09:58:00 +0900",
+      "description": "클라우드 환경 속 외부 노출 자산 실시간 식별해 선제적 예방 체계 확립마이터 어택 프레임워크 및 AI 결합해 위험도 기반 패치 우선순위 도출[보안뉴스 조재호 기자] 케이알시큐리티가 아시아 최대 규모 사이버보안 콘퍼런스 ‘ISEC 2026’에 참가해 차세대 공격표면관리(ASM) 솔루션인 ‘ReconRED’를 선보이며 관련 시장 확대에 나선다. 그동안 모의해킹",
+      "language": "ko",
+      "summary": "ASM 'ReconRED' AI-기반 소품을 ISEC 2nervium 미리보기에서 공개한 케이알시큐리티는, 주요 내용은 규모가 아니고 ASM 소품의 AI 결합으로 이전보다 우선순위 도출을 개선한 기능과 해당 시장 확대에 대한 정보를 제공.",
+      "points": [
+        "ASM 'ReconRED' AI-기반 소품이 ISEC 2nervium 미리보기에서 공개",
+        "소품은 케이알시큐리티가 지금도 모의해와 통합되어 있다.",
+        "ASM 'ReconRED'는 악성 보안 조치에서 우선순위를 산정하기 위해 AI를 이용한 소품으로, 최대한 넓은 관점을 유지하여 커뮤니테이지 보안을 증진시키고 있다."
+      ],
+      "insight": "ASM 'ReconRED'의 AI-기반 개발은 우선순위 계산에서 큰 도움이다. ASM 'ReconRED'는 ISEC 2nervium 미리보기에서 공개한 소프트웨어의 목적을 제대로 수확하고 있는 계정이 모여있다."
+    },
+    {
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 19 Jul 2026 21:45:00 +0000",
+      "description": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "language": "en",
+      "summary": "Netflix has acquired AI filmmaking company InterPositive founded by Ben Affleck' end of the month and still in early stages.",
+      "points": [
+        "Ben Affleck co-founded a startup called 'InterPositive'.",
+        "The purpose was to streamline Hollywood movie production using artificial intelligence technology.",
+        "Netflix paid $587 million for InterPositive."
+      ],
+      "insight": "This acquisition is indicative of the growing interest in incorporating AI into creative industries, potentially leading to more efficient filmmaking processes and lower costs due to automation. It also suggests that established streaming services are willing to invest heavily for cutting-edge technologies."
+    },
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "language": "en",
+      "summary": "Jensen Huang returned from a successful visit to Japan where he secured numerous business agreements across the country's technology sector.",
+      "points": [
+        "Huang concluded several key deals in Tokyo, including partnerships with Japanese companies and investors interested in Nvidia technologies like AI hardware development. These agreements span various sectors such as consumer electronics, automotinization (auto-driving cars), healthcare technology, industrial robotic systems, smart city infrastructure projects.",
+        "Huang's trip not only solidified business partnerships but also opened the door for Nvidia to collaborate on future technological advancements and research endeavors within Japan. By focusing particularly on sectors like auto-driving cars (automotinization) and healthcare technology, Huang is poised to significantly contribute to these industries' growth through advanced computing solutions.",
+        "The visit underscores Nvidia’s continued commitment to expand its global footprint in Japan while reinforcing the importance of cross-border partnerships within IT/technology development."
+      ],
+      "insight": "Jensen Huang's successful business trip signals a strengthened relationship between technology companies and investors, paving the way for increased collaboration across various sectors. These developments may lead to accelerated growth in fields such as AI hardware development, auto-driving cars (automotinization), healthcare technology, industrial robotic systems, smart city infrastructure projects within Japan."
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "language": "en",
+      "summary": "Experts discuss if a lawsuit against Apple could negatively impact Elon Musk’s Neuralink's ambitions for entering the hardware market and becoming public.",
+      "points": [
+        "Apple has sued an unnamed company claiming they are infringing on its patents, which have not been disclosed by Apple to a broader audience yet. The lawsuit is speculated to be against Neuralink or OpenAI based on industry rumors.",
+        "The article examines the potential impact of this legal action on Elon Musk’s plan for his brain-computer interface company, as well as other tech companies eyeing hardware ventures like Microsoft and Amazon. The lawsuit could pose a significant risk if Neuralink or OpenAI is indeed named.",
+        "The broader implications of the suit are discussed regarding its influence on innovation within Silicon Valley's ecosystem, which thrives on open competition."
+      ],
+      "insight": "This development could instill caution in tech companies considering hardware ventures due to potential patent disputes. It also highlights the need for a clear understanding of intellectual property rights within highly innovative sectors like AI and neurotechnology, which is crucial as they expand into new markets."
+    },
     {
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
       "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
@@ -553,199 +748,6 @@
         "Disrupt 2026 session offers strategies and conviction techniques essential for securing fundraising at the critical early stage"
       ],
       "insight": "The Disrupt 2026 event provides a platform for pre-seed founders to learn how to navigate through tougher startup ecosystems, emphasizing storytelling and conviction as tools for attracting potential investors in an AI-driven funded environment."
-    },
-    {
-      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Jul 2026 14:12:02 +0000",
-      "description": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-      "language": "en",
-      "summary": "Zoox is recalling a robotaxi after it became disoriented during heavy smoke from an inferno in Los Angeles.",
-      "points": [
-        "Azoox's fleet has been recalled due to potential safety issues experienced by one of their vehicles under extreme weather conditions."
-      ],
-      "insight": "This incident highlights the importance of considering environmental factors and emergency situations when developing autonomous vehicle (AV) technology, as well as ensuring robust communication with first responders during such events."
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "language": "en",
-      "summary": "NVIDIA and Intel are closing a massive deal for an NVIDIA inference GPU server system worth $400 million.",
-      "points": [
-        "First-time chip financiers AMD and Alphabet turn to chipsets",
-        "$400M in financing, with upfront purchase of hardware from Microsemi",
-        "Inference computing is key for enterprise applications"
-      ],
-      "insight": "This deal signifies a shifting paradigm towards inference-centric AI solutions within the IT industry."
-    },
-    {
-      "title": "“섀도우 AI 음지에서 양지로”... 쏘카의 자율형 보안 거버넌스 사례",
-      "link": "http://www.boannews.com/media/view.asp?idx=144707&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 09:02:00 +0900",
-      "description": "생산성 향상 이면에 가려진 기밀 유출, ‘바이브 코딩’ 취약점 리스크단절된 통제 탈피해 현업 부서와 소통해 인센티브 기반 자율보안 뼈대 수립[보안뉴스 조재호 기자] “생산성 향상을 위한 임직원들의 미인가 AI 사용 이른바 ‘섀도우 AI’는 보안 가시성을 붕괴시키는 치명적 위협입니다. 강압적인 차단 정책은 한계에 직면했으며, 보이지 않는 위험을 자동화된 검증",
-      "language": "ko",
-      "summary": "생산성 향상 이면에 가려진 기밀 유출, ‘바이브 코딩’ 취약점 리스크단절된 통제 탈피해 현업 부서와 소통해 인센티브 기반 자율보안 뼈대 수립[보안뉴스 조재호 기자] “생산성 향상을 위한 임직원들의 미인가 AI 사용 이른바 ‘섀도우 AI’는 보안 가시성을 붕괴시키는 치명적 위협입니다. 강압적인 차단 정책은 한계에 직면했으며, 보이지 않는 위험을 자동화된 검증",
-      "points": [
-        "강압적인 차단 정책은 한계에 직면했으며, 보이지 않는 위험을 자동화된 검증",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[Global Security TOP 100] 김병훈 이스트시큐리티 CTO “AI 시대, 도메인 지식으로 방어”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144404&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:57:00 +0900",
-      "description": "1600만 사용자 보안 데이터 자산 삼아 AI 기반 통합 보안 플랫폼 도약 AI 모델 자체 보호하는 ‘Security for AI’ 철학 이식한 EDR 2.0 출격 [보안뉴스 조재호 기자] AI 고도화는 사이버 공격의 기획부터 실행까지 전 과정을 자동화하며 방어 패러다임의 근본적 전환을 강제하고 있다. 단순히 인공지능(AI)을 방어 도구로 쓰는 것을 넘",
-      "language": "ko",
-      "summary": "김병훈이의 이스트시큐리티 CTO가 AI로 방어하는 방법과 EDR 2.0와의 중요성에대한 소개",
-      "points": [
-        "AI기반 보안 제공을 위해 EDR 2.0를 도임",
-        "AI는 전체 방어와 함께 진전한 방범가 점검 및 방어",
-        "AI의 이용은 사용자 보안에 기여하고 인공지능을 강화하기 위해 필요합니다."
-      ],
-      "insight": "이 기사는 AI를 사용한 방어와 EDR의 중요성에대한 IT/기술 업계에 대한 더 잘리시당함을 보여줍니다."
-    },
-    {
-      "title": "카스퍼스키, ‘인포스틸러’ 감염 35%는 임시 폴더서 시작해",
-      "link": "http://www.boannews.com/media/view.asp?idx=144572&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:50:00 +0900",
-      "description": "2025년 다크웹 정보 탈취 로그 500만개 분석 결과 담은 보고서 공개프로세스 인젝션·LOL 기법 악용한 고도화 감염 사례도 전체 32% 달해[보안뉴스 조재호 기자] 카스퍼스키가 지난해 다크웹에서 발견된 악성코드 로그를 분석한 결과, 전체 감염의 35%가 사용자의 브라우저 임시 폴더 파일 실행에서 비롯되었다고 발표했다. 공격자는 고도화된 해킹 기술보다 불",
-      "language": "ko",
-      "summary": "2025년 다크웹 정보 탈취 로그 500만개 분석 결과 담은 보고서 공개프로세스 인젝션·LOL 기법 악용한 고도화 감염 사례도 전체 32% 달해[보안뉴스 조재호 기자] 카스퍼스키가 지난해 다크웹에서 발견된 악성코드 로그를 분석한 결과, 전체 감염의 35%가 사용자의 브라우저 임시 폴더 파일 실행에서 비롯되었다고 발표했다. 공격자는 고도화된 해킹 기술보다 불",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 시큐리온, 전송자격인증제 대비 악성 문자 탐지 솔루션 ‘OnScan for Message’ 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144610&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:44:00 +0900",
-      "description": "악성 앱 및 악성 문자 탐지 솔루션 확대보이스피싱·스미싱 피해 예방에 기여[보안뉴스 엄호식 기자] 시큐리온은 AI 기반의 모바일·IoT 보안 솔루션을 제공하는 정보보안 기업이다. 독자 개발한 AI 악성 앱·문자 탐지 기술, OS 해킹 탐지 기술로 스마트 환경을 보호할 수 있는 솔루션을 제공한다.핵심 제품은 모바일 해킹 탐지 솔루션 ‘OnTrust’, 악성",
-      "language": "ko",
-      "summary": "악성 앱 및 악성 문자 탐지 솔루션 확대보이스피싱·스미싱 피해 예방에 기여[보안뉴스 엄호식 기자] 시큐리온은 AI 기반의 모바일·IoT 보안 솔루션을 제공하는 정보보안 기업이다. 독자 개발한 AI 악성 앱·문자 탐지 기술, OS 해킹 탐지 기술로 스마트 환경을 보호할 수 있는 솔루션을 제공한다...",
-      "points": [
-        "악성 앱 및 악성 문자 탐지 솔루션 확대보이스피싱·스미싱 피해 예방에 기여[보안뉴스 엄호식 기자] 시큐리온은 AI 기반의 모바일·IoT 보안 솔루션을 제공하는 정보보안 기업이다",
-        "독자 개발한 AI 악성 앱·문자 탐지 기술, OS 해킹 탐지 기술로 스마트 환경을 보호할 수 있는 솔루션을 제공한다",
-        "핵심 제품은 모바일 해킹 탐지 솔루션 ‘OnTrust’, 악성"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 한국퀀텀컴퓨팅, 암호자산 발견부터 키 관리·사용자 인증까지 단계별 전환",
-      "link": "http://www.boannews.com/media/view.asp?idx=144607&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:37:00 +0900",
-      "description": "PQC 기반 암호 자산 보호 및 인증 솔루션 포트폴리오“HSM 중심으로 통합 지원”[보안뉴스 강현주 기자] 양자컴퓨팅 기술의 발전으로 기존 공개키 암호체계가 위협받는 가운데, 기업과 기관들은 양자내성암호(PQC)로의 전환을 서둘러야 하는 상황에 직면해 있다. 하지만 암호화 자산의 현황 파악부터 키 관리, 사용자 인증에 이르기까지 복잡한 전환 과정은 많은 조",
-      "language": "ko",
-      "summary": "PQC 기반 암호 자산 보호 및 인증 솔루션 포트폴리오“HSM 중심으로 통합 지원”[보안뉴스 강현주 기자] 양자컴퓨팅 기술의 발전으로 기존 공개키 암호체계가 위협받는 가운데, 기업과 기관들은 양자내성암호(PQC)로의 전환을 서둘러야 하는 상황에 직면해 있다. 하지만 암호화 자산의 현황 파악부터 키 관리, 사용자 인증에 이르기까지 복잡한 전환 과정은 많은 조",
-      "points": [
-        "PQC 기반 암호 자산 보호 및 인증 솔루션 포트폴리오“HSM 중심으로 통합 지원”[보안뉴스 강현주 기자] 양자컴퓨팅 기술의 발전으로 기존 공개키 암호체계가 위협받는 가운데, 기업...",
-        "하지만 암호화 자산의 현황 파악부터 키 관리, 사용자 인증에 이르기까지 복잡한 전환 과정은 많은 조",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[카드뉴스] “로봇청소기가 해커의 무기로?”… 패치 없는 저가형 IoT 기기가 부른 ‘봇넷’의 경고",
-      "link": "http://www.boannews.com/media/view.asp?idx=144723&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:26:00 +0900",
-      "description": "무선 펌웨어 업데이트(OTA) 및 패치 기능이 부재한 저가형 IoT 가전제품들이 봇넷(Botnet)의 포섭 대상이 되며 사후 조치가 불가능한 ‘영원한 취약점’으로 작용하고 있다. 공격자들은 방화벽을 직접 뚫는 대신 사용자가 직접 도입한 미검증 스마트 기기를 ‘가장 약한 고리’로 삼아 내부망으로 침투하거나 거대 디도스 공격 거점으로 악용한다. 단말기 출시 후",
-      "language": "ko",
-      "summary": "이 기사는 사용자가 '가장 약한 고리'로 미검증 스마트 기기를 불량한 취약점으로 포진하고, 이를 위해 공격자는 거대 디도스 공격 대상을 살환한다.",
-      "points": [
-        "사용자가 미네요 스마트 기기로 구성된 봇넷(Botnet)의 고소도를 이용",
-        "대상은 인터넷컨트롤, 회사 시스템, 그리고 사용자 계정에서 직접 조치를 요구하고 있다",
-        "이 뉴스는 IT/기술 업계가 '영원한 취약점'를 의미한다."
-      ],
-      "insight": "이 보도는 IoT 기기가 사용자가 대체로 신뢰하고 안전하지 않은 상태로 인식할 수 0ne다."
-    },
-    {
-      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-      "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 23:25:22 +0000",
-      "description": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
-      "language": "en",
-      "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "“임직원부터 지역사회까지 챙긴다” 시큐아이, 삼복맞이 나눔 행사 진행",
-      "link": "http://www.boannews.com/media/view.asp?idx=144728&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:25:00 +0900",
-      "description": "복날 맞이 음식 제공해 임직원 사기 진작 도모임직원 봉사단 꾸려 복지관 대상 배식 봉사 진행[보안뉴스 조재호 기자] 시큐아이가 임직원과 지역사회가 건강한 여름을 보낼 수 있도록 다양한 삼복맞이 이벤트를 진행했다고 16일 밝혔다. 삼복 이벤트는 무더위에 지친 임직원을 격려하고 활기찬 조직 문화를 조성하기 위해 기획된 시큐아이의 대표적인 연례 사내 행사다.올해",
-      "language": "ko",
-      "summary": "시큐아이는 임직원과 지역사회를 건강하게 여름을 보내게 되어 있다.",
-      "points": [
-        "시큐아이가 적육과 지식교육을 진행한다",
-        "인기저볼로 꿈의 상엌에서 대한 활동이다",
-        "이 사항은 IT/기술 업체에서 습납을 덜어 일하는 창세인들의 도움이다"
-      ],
-      "insight": "시큐아이 계약은 IT/기술 업체에서의 소통과 협력방식을 제시하며, 일부 승진자들이 글로맨스를 볼 수 0이다"
-    },
-    {
-      "title": "빗장 풀린 공공 AI 틈새 막는다... 윈스테크넷, 차등 보안 통제 거버넌스",
-      "link": "http://www.boannews.com/media/view.asp?idx=144740&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 17 Jul 2026 08:23:00 +0900",
-      "description": "KISA 망분리 맞춰 정보 중요도 기반 아키텍처 제시획일적 차단 넘어선데이터 분류 체계로 디지털 혁신 지원[보안뉴스 조재호 기자] 윈스테크넷이 생성형 AI 데이터 보안 솔루션 ‘SNIPER AIVAX’를 앞세워 국가망보안체계(N2SF) 대응 시장 공략을 본격화한다고 15일 밝혔다.최근 한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 국가 및 공공기관의",
-      "language": "ko",
-      "summary": "KISA, 과학기술정보통신부와의 협업에서 국가및공격을 대항하기 위해 온라인 사용자를 분류하는 SNIPER AIVAX 소프트웨어이다.",
-      "points": [
-        "KISA와 함껸한 국가및공격을 대항하기 위해 SNIPER AIVAX 개발",
-        "온라인 사용자를 분류하여 정보 중요도 이해하는 기능",
-        "국가 및 공격을 대항하기 위한 국가망보안체계에서의 시장 공략 본격화"
-      ],
-      "insight": "이 신속한 AI 보안 소프트웨어는 국가 사내에서 인공지하기를 제어하고, 공게성능 및 예산 부여든 다름을 가지게 함"
-    },
-    {
-      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-      "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 23:01:27 +0000",
-      "description": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
-      "language": "en",
-      "summary": "SpaceX aborted the second launch of Starship V3 moments after ignition due to an unspecified issue, causing a significant drop in its stock price.",
-      "points": [
-        "Starship'sem momentous first flight ended with explosive failure",
-        "Second attempt also failed leading to speculation on issues such as propellant delivery system and fuel flow rates",
-        "SpaceX shares dropped more than 4% after-hours following the launch abort"
-      ],
-      "insight": "The SpaceX Starship development faces technical challenges that require further investigation, indicating potential delays in achieving a successful orbital flight."
-    },
-    {
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 16 Jul 2026 21:22:31 +0000",
-      "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-      "language": "en",
-      "summary": "Following a ransomware attack on their systems, Coca-Cola has temporarily halted dairy production at its Fairlife unit in the United States.",
-      "points": [
-        "Coca Cola's Fairlife U. endures hack",
-        "Dairy production suspended across US facilities due to security breach",
-        "Ransom demand not mentioned, but concern for continued business disrufort"
-      ],
-      "insight": "This incident highlights the vulnerability of critical infrastructure in essential industries like food and beverage manufacturing to cyber threats."
     }
   ]
 }
