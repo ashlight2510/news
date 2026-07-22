@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-07-22T02:45:42.276Z",
+  "generatedAt": "2026-07-22T08:35:14.653Z",
   "articles": [
+    {
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Jul 2026 08:00:00 +0000",
+      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "language": "en",
+      "summary": "Synthesia introduces an interactive enterprise training platform featuring AI roleplay sessions where employees engage in simulated workplace conversations with AI avatars.",
+      "points": [
+        "AI Roleplay Sessions offer a hands-on approach to employee training using artificial intelligence for realistic dialogue and feedback",
+        "The system provides analytics on company' end, measuring the effectiveness of workplace communication skills development",
+        "Synthesia emphasizes interactive learning that bridges theoretical knowledge with practical application in simulated environments"
+      ],
+      "insight": "This innovative training platform highlights a shift towards immersive AI-driven experiences, which could set new standards for measuring and enhancing workplace communication skills across various industries."
+    },
+    {
+      "title": "[양자와 보안] “암호만 바꿔선 부족”...수산아이앤티, 차세대 ‘접속 보안’ 아키텍처 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144795&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 15:26:00 +0900",
+      "description": "단순 암호 알고리즘 교체 넘어 보안 게이트웨이 역할 강조‘e워커(eWalker) SSL VPN’ 하이브리드 PQC 기반 키 교환 및 호환성 제공[보안뉴스 조재호 기자] 수산아이앤티가 양자컴퓨터 시대 데이터 해독 위협의 해법으로 기존 암호 체계와 양자내성암호(PQC)를 결합한 차세대 하이브리드 접속 보안 아키텍처를 22일 공개했다.양자컴퓨터 기술 발전 속도가",
+      "language": "ko",
+      "summary": "단순 암호 알고리즘 교체 넘어 보안 게이트웨이 역할 강조‘e워커(eWalker) SSL VPN’ 하이브리드 PQC 기반 키 교환 및 호환성 제공[보안뉴스 조재호 기자] 수산아이앤티가 양자컴퓨터 시대 데이터 해독 위협의 해법으로 기존 암호 체계와 양자내성암호(PQC)를 결합한 차세대 하이브리드 접속 보안 아키텍처를 22일 공개했다. 양자컴퓨터 기술 발전 속도가",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "OT 가시성 눈으로 확인하자... 노조미 네트웍스, OT 보안 데모 센터 오픈",
+      "link": "http://www.boannews.com/media/view.asp?idx=144793&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 15:20:00 +0900",
+      "description": "경기 안산 디지털전환허브에 실제 스마트 공장 라인 연동 데모 센터 구축미쓰비시 오토메이션 인프라 확장해 설비 자산 가시화 및 사이버 위협 탐지 시연[보안뉴스 조재호 기자] 노조미 네트웍스 코리아(Nozomi Networks Korea)가 경기도 안산 경기테크노파크 디지털전환허브에 대규모 OT 보안 데모 센터를 열었다고 22일 밝혔다.이 데모 센터는 실제 작",
+      "language": "ko",
+      "summary": "Nozomi Networks Korea 이후 경기도 안산에서 OT 보안 데모 센터를 시연했다.",
+      "points": [
+        "한국어로 정의된 포인트가 필요하며, 기사 내용이 한국어로 요약되어야 함",
+        "- 경기도 안산에서 OT 보안 데모 센터를 시연하여 가시화 및 위협을 탐지하는 방식을 시뮬릭한다.",
+        "- OT 보안은 IT/기술 업계에서의 주요 솔루치로, 이 기사가 중요한 IT/OT 보안에 대해 좀더 자세히 설명될 수 0있다."
+      ],
+      "insight": "기사는 IT/OT 보안의 각도와 중요성을 강조하고, OT 보안에 대한 이해와 중요성을 논의한다."
+    },
+    {
+      "title": "랜섬웨어 조직 ‘더 젠틀맨’, 백도어로 전세계 산업 정보 활발히 수집 중",
+      "link": "http://www.boannews.com/media/view.asp?idx=144794&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 14:53:00 +0900",
+      "description": "랜섬웨어 배포 전 정보 수집과 원격 제어 수행윈도우 전용 신규 랜섬웨어 시험하며 공격 도구 확대[보안뉴스 강현주 기자] 빠르게 세력을 확장하고 있는 랜섬웨어 조직 ‘더 젠틀맨’(The Gentlemen)이 맞춤형 백도어를 활용해 전세계 산업을 대상으로 활발히 정보 수집과 원격 제어 활동을 하고 있다. 22일 카스퍼스키(한국지사장 이효은) 글로벌 연구분석팀(",
+      "language": "ko",
+      "summary": "랜섬웨어 조직 '더 젠틀맨'는 빠른 세력 확장을 기반으로 백도어로 전세계 산업 정보를 수집하고 제어할 수 0에 있다.",
+      "points": [
+        "더 '젠틀맨'는 세상에서도 광명의 전산기가 뛰는 모습을 보인다.",
+        "백도어로 연구분석팀이 원격 제어 수행윈도우를 사용한 '더 젠틀맨'가 전세계 산업에서의 데이터 수집과 제어 기능을 강화하고 있다.",
+        "불포를 확대한 '더 젠틀맨'은 세렁이의 발전으로, 여러 카지백에서의 데이터 수집과 제어 작업을 연구할 수 있다."
+      ],
+      "insight": "이러한 기술적인 전문가들의 살페어로운 방식으로 정보를 수집하고 제어하는 '더 젠틀맨'은 IT/기술 업계에서도 공유성과 확장성이 선호되며, 불포를 통한 보안적인 전문가로의 데이터 수집과 제어를 통해 세상에서도 더 나은 정보 관리를 통해 공격자들과 신속하게 만드는 가장 큰 이슈입니다."
+    },
+    {
+      "title": "[카드뉴스] “키는 주머니에 있는데 출발?”… 무선 신호 복제하는 ‘스마트키 리플레이 공격’ 비상",
+      "link": "http://www.boannews.com/media/view.asp?idx=144792&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 14:32:00 +0900",
+      "description": "스마트키 버튼 작동 시 발생하는 무선 RF 신호를 중간에서 가로채 복제·재전송하는 ‘리플레이(Replay) 공격’ 형태의 신종 차량 절도 범죄가 급증하고 있다. 단돈 몇 만 원 수준의 저가형 SDR 하드웨어 장비가 대중화되면서, 차량에 적용된 첨단 암호화 알고리즘과 롤링 코드가 쉽게 우회 및 무력화되는 실정이다. 소프트웨어적 방화벽이나 물리적 차체 방어의",
+      "language": "ko",
+      "summary": "스마트키 버튼 작동 시 발생하는 무선 RF 신호를 중간에서 가로채 복제·재전송하는 ‘리플레이(Replay) 공격’ 형태의 신종 차량 절도 범죄가 급증하고 있다. 단돈 몇 만 원 수준의 저가형 SDR 하드웨어 장비가 대중화되면서, 차량에 적용된 첨단 암호화 알고리즘과 롤링 코드가 쉽게 우회 및 무력화되는 실정이다...",
+      "points": [
+        "스마트키 버튼 작동 시 발생하는 무선 RF 신호를 중간에서 가로채 복제·재전송하는 ‘리플레이(Replay) 공격’ 형태의 신종 차량 절도 범죄가 급증하고 있다",
+        "단돈 몇 만 원 수준의 저가형 SDR 하드웨어 장비가 대중화되면서, 차량에 적용된 첨단 암호화 알고리즘과 롤링 코드가 쉽게 우회 및 무력화되는 실정이다",
+        "소프트웨어적 방화벽이나 물리적 차체 방어의"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "시큐레이어-쿼드마이너 맞손... 맥락 데이터로 진화하는 AI 관제 생태계",
+      "link": "http://www.boannews.com/media/view.asp?idx=144791&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 14:25:00 +0900",
+      "description": "시큐레이어 SIEM·SOAR 솔루션-쿼드마이너 네트워크 블랙박스 융합단편적 로그 분석 한계 돌파, 지능형 지속 위협 탐지율 획기적 향상 기대[보안뉴스 조재호 기자] 시큐레이어와 쿼드마이너가 사이버보안 솔루션 공동 사업 추진 및 해외 시장 진출을 위한 전략적 업무협약(MOU)을 체결했다고 22일 밝혔다.최근 AI를 악용한 사이버 위협이 정교화·자동화되며 위협",
+      "language": "ko",
+      "summary": "시큐레이어 SIEM·SOAR 솔루션-쿼드마이너 네트워크 블랙박스 융합단편적 로그 분석 한계 돌파, 지능형 지속 위협 탐지율 획기적 향상 기대[보안뉴스 조재호 기자] 시큐레이어와 쿼드마이너가 사이버보안 솔루션 공동 사업 추진 및 해외 시장 진출을 위한 전략적 업무협약(MOU)을 체결했다고 22일 밝혔다. 최근 AI를 악용한 사이버 위협이 정교화·자동화되며 위협",
+      "points": [
+        "최근 AI를 악용한 사이버 위협이 정교화·자동화되며 위협",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“고민보다 행동하라”... 전문가들이 짚은 AI 보안 커리어 돌파구",
+      "link": "http://www.boannews.com/media/view.asp?idx=144790&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 13:33:00 +0900",
+      "description": "신입 TO 부족한 현실 극복할 무기는 오픈소스 활용 및 MCP 직접 연동‘OWASP Top 10 for LLM·NIST’ 등 글로벌 위협 프레임워크 가이드 우선 숙지단순 이론가 아닌 문제 극복 기록 담은 실전 포트폴리오 확보가 핵심 차별점[보안뉴스 조재호 기자] “어떻게 대응할지 고민하기보다 직접 에이전트를 구축해 보는 실용주의적 접근이 필수적입니다. 스스",
+      "language": "ko",
+      "summary": "신입 TO 부족한 현실 극복할 무기는 오픈소스 활용 및 MCP 직접 연동‘OWASP Top 10 for LLM·NIST’ 등 글로벌 위협 프레임워크 가이드 우선 숙지단순 이론가 아닌 문제 극복 기록 담은 실전 포트폴리오 확보가 핵심 차별점[보안뉴스 조재호 기자] “어떻게 대응할지 고민하기보다 직접 에이전트를 구축해 보는 실용주의적 접근이 필수적입니다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 22 Jul 2026 03:20:57 +0000",
+      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "language": "en",
+      "summary": "Amidst growing competition in AI research with ambitious companies like Anthropic and OpenAI acquiring more entities towards their goal of 'becoming the greatest team,' a rumor about physically augmented intelligence emerged on Twitter.",
+      "points": [
+        "Anthropic's CEO Sam Altman stated in an interview that they aim to be recognized as one of history’s five biggest tech companies by acquiring more businesses. He mentioned their ambition towards AI research and development, emphasizing a goal for Anthropic to achieve this status.",
+        "A Twitter user shared what appeared to be photos purportedly showing an enhanced human figure with cybernetic limbs interacting at the entrance of Silicon Valley's headquarters. The images were quickly debunked as not being related to actual events or people, indicating it might have been a hoax.",
+        "The Twitter post sparked various reactions from social media users and tech influencers on whether Anthropic is seriously considering embracing physical enhancthy in their pursuit of technological advancement."
+      ],
+      "insight": "While the rumor highlights growing concerns around AI technology's potential impact, it also underscores a speculative future where companies may integrate advanced biotechnology into artificial intelligence research to maintain competitive edges. However, Anthropic has not publicly confirmed or denied these claims and such physical augmentation remains within the realm of science fiction rather than imminent reality."
+    },
+    {
+      "title": "구글, 보안 특화 AI 모델 ‘제미나이 3.5 플래시 사이버’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144789&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 12:09:00 +0900",
+      "description": "보안 취약점 분석해 보고서 작성... 우선 정부 기관 등에 제한적으로 공개[보안뉴스 한세희 기자] 구글이 취약점 발견 등 보안 역량에 특화된 새 AI 모델 ‘제미나이 3.5 플래시 사이버’를 21일(현지시간) 공개했다. 구글은 이날 ‘제미나이3.6 플래시’와 ‘3.5플래시-라이트’, ‘3.5플래시 사이버’ 등 새 경량 AI 모델 3종을 공개했다. 하지만 최",
+      "language": "ko",
+      "summary": "보안 취약점 분석해 보고서 작성. 우선 정부 기관 등에 제한적으로 공개[보안뉴스 한세희 기자] 구글이 취약점 발견 등 보안 역량에 특화된 새 AI 모델 ‘제미나이 3...",
+      "points": [
+        "우선 정부 기관 등에 제한적으로 공개[보안뉴스 한세희 기자] 구글이 취약점 발견 등 보안 역량에 특화된 새 AI 모델 ‘제미나이 3",
+        "5 플래시 사이버’를 21일(현지시간) 공개했다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "AI로 마약 검출... 과기정통부·경찰청, 과학치안 R&D 성과 전시회",
+      "link": "http://www.boannews.com/media/view.asp?idx=144787&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 22 Jul 2026 12:02:00 +0900",
+      "description": "AI 수사지원·AI 로보틱스 등 5개 테마관 [보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 장관 배경훈)와 경찰청(청장 직무대행 유재성)이 AI 기술을 활용한 ‘과학치안’ 연구개발 성과를 공개했다. 양 기관은 22일 서울 경찰청에서 ‘제3회 과학치안 R&D 성과전시회’를 개최했다. 2023년 시작해 올해 3회째를 맞은 이번 전시회는 그동안 민생 침해",
+      "language": "ko",
+      "summary": "AI 수사지원·AI 로보틱스 등 5개 테마관 [보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 장관 배경훈)와 경찰청(청장 직무대행 유재성)이 AI 기술을 활용한 ‘과학치안’ 연구개발 성과를 공개했다. 양 기관은 22일 서울 경찰청에서 ‘제3회 과학치안 R&D 성과전시회’를 개최했다...",
+      "points": [
+        "AI 수사지원·AI 로보틱스 등 5개 테마관 [보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 장관 배경훈)와 경찰청(청장 직무대행 유재성)이 AI 기술을 활용한 ‘과학치안’ ...",
+        "양 기관은 22일 서울 경찰청에서 ‘제3회 과학치안 R&D 성과전시회’를 개최했다",
+        "2023년 시작해 올해 3회째를 맞은 이번 전시회는 그동안 민생 침해"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "오픈AI 최신 모델, 스스로 샌드박스 탈출해 허깅페이스 해킹했다",
       "link": "http://www.boannews.com/media/view.asp?idx=144788&kind=&sub_kind=",
@@ -600,154 +750,6 @@
         "”김소정 대통령실 사이버안보비서관은 21일 한국CISO협의회가 서울 중구 롯데호텔에서 개최한"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "런던 교통 시스템 마비시킨 스캐터드 스파이더 해커 2명, 징역 5년 6개월 선고",
-      "link": "http://www.boannews.com/media/view.asp?idx=144774&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 15:20:00 +0900",
-      "description": "교통공사 복구비만 505억원영국 최대 사이버범죄 기소 사건으로 기록[보안뉴스 김형근 기자] 2024년 런던교통공사(TfL)를 해킹한 사이버 범죄 조직 스캐터드 스파이더(Scattered Spider) 조직원이 5년 이상의 중형을 선고 받았다. 영국 울위치 형사법원은 해커 조직 핵심 멤버인 탈하 주베이르(20)와 오웬 플라워스(18)에게 각각 징역 5년 6개",
-      "language": "ko",
-      "summary": "스페인어: 스캐터드 스파이더 해커가 5년 이상의 중형을 선고받은 영국의 교통공사에서의 마비.",
-      "points": [
-        "스페인어: Hace ke los líderes de la mafia cyber del Reino Unido han sido capturados después de un asalto en las instalaciones del transporte público que ha dejado una marca significativa en Londres."
-      ],
-      "insight": "스페인어: Esta noticia implica preocupación sobre la seguridad y estabilidad dentro de los sectores tecnológico-transportacionales británenz, poniendo en evidencia vulnerabilidades potencialmente graves."
-    },
-    {
-      "title": "韓 외교관 전원 해킹 추정... 최대 1만건 유출",
-      "link": "http://www.boannews.com/media/view.asp?idx=144776&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 15:16:00 +0900",
-      "description": "[보안뉴스 강현주 기자] 국립외교원 온라인교육시스템에서 한국 외교관 전원의 신상 정보가 유출된 것으로 추정된다. 외교부는 20일 국립외교원의 온라인교육시스템 서버를 신원 미상의 공격자가 지난해 4∼5월 장악한 뒤 올해 2월까지 접속했다는 내용의 보도자료를 냈다. 이어 21일 언론을 통해 “해당 시스템에 약 1만건의 데이터가 저장돼 있다”고 밝혔다. 이번 해",
-      "language": "ko",
-      "summary": "[보안뉴스 강현주 기자] 국립외교원 온라인교육시스템에서 한국 외교관 전원의 신상 정보가 유출된 것으로 추정된다. 외교부는 20일 국립외교원의 온라인교육시스템 서버를 신원 미상의 공격자가 지난해 4∼5월 장악한 뒤 올해 2월까지 접속했다는 내용의 보도자료를 냈다...",
-      "points": [
-        "[보안뉴스 강현주 기자] 국립외교원 온라인교육시스템에서 한국 외교관 전원의 신상 정보가 유출된 것으로 추정된다",
-        "외교부는 20일 국립외교원의 온라인교육시스템 서버를 신원 미상의 공격자가 지난해 4∼5월 장악한 뒤 올해 2월까지 접속했다는 내용의 보도자료를 냈다",
-        "이어 21일 언론을 통해 “해당 시스템에 약 1만건의 데이터가 저장돼 있다”고 밝혔다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "K-보안 주역들 라스베이거스로... KISA, 데프콘 34 출정식 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144772&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 15:14:00 +0900",
-      "description": "BoB 수료생 포함 국내 5개 연합팀 136명 본선 진출 쾌거8월 7일 미국 라스베이거스서 데프콘 34 본선 돌입[보안뉴스 조재호 기자] 차세대 보안리더 양성 프로그램(BoB) 수료생들이 대거 포진한 국내 5개 연합팀이 미국 라스베이거스에서 열릴 ‘데프콘 34’ 본선 무대에서 세계 정상을 향한 여정에 나섰다.과학기술정보통신부와 한국인터넷진흥원(KISA)은",
-      "language": "ko",
-      "summary": "BoB 수료생 포함 국내 5개 연합팀 136명 본선 진출 쾌거8월 7일 미국 라스베이거스서 데프콘 34 본선 돌입[보안뉴스 조재호 기자] 차세대 보안리더 양성 프로그램(BoB) 수료생들이 대거 포진한 국내 5개 연합팀이 미국 라스베이거스에서 열릴 ‘데프콘 34’ 본선 무대에서 세계 정상을 향한 여정에 나섰다. 과학기술정보통신부와 한국인터넷진흥원(KISA)은",
-      "points": [
-        "과학기술정보통신부와 한국인터넷진흥원(KISA)은",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "뷰티테크 정조준한 파수 AI, 리안헤어와 차세대 플랫폼 구축 착수",
-      "link": "http://www.boannews.com/media/view.asp?idx=144771&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 15:10:00 +0900",
-      "description": "네이버클라우드·랩큐 등과 연합해 인프라부터 데이터까지 결합공공·연구기관 넘어 민간 비즈니스 전반으로 인공지능 솔루션 확장[보안뉴스 조재호 기자] 파수 AI가 K-뷰티의 인공지능 전환을 지원하기 위해 미용 프랜차이즈 리안헤어(회장 유상준)와 손잡고 AI 뷰티 플랫폼 구축에 나선다고 21일 밝혔다.파수AI는 ‘AX 원스톱 바우처 지원사업’ 공급기업으로 선정돼",
-      "language": "ko",
-      "summary": "이런 기사는 인공지능 코시되기를 촉진할 수 있는 활용방식을 소개한다.",
-      "points": [
-        "인공지능 AI가 미용 프러랜치사에서 구축한 리안헤어와 자기를 만드는 뷰티큐에서의 인공지능 활용 목표",
-        "이러한 활용방식은 인터렉가다처럼 IT/기술 업계에서 의미보다 전문적인 분앞을 제공하고 있다",
-        "이러한 활용방식은 비즈니스쿠킷과 광고업지에서 곧장의 인공지능 도구로 최저점을 기다리고 있다"
-      ],
-      "insight": "이러한 활용방식은 IT/기술 업계에서 파산하지 않도록 가속성을 높일 수 있음을 보여준다"
-    },
-    {
-      "title": "SGA솔루션즈, 호남권 ICT 중소기업 보안 강화 나선다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144770&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 15:04:00 +0900",
-      "description": "정부가 예산 80% 지원... 맞춤형 보안 컨설팅 및 솔루션 제공단발성 도입 넘어 상시 보안 검증 가능한 체질 개선 지원[보안뉴스 조재호 기자] SGA솔루션즈가 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중소기업 정보보호 기술사업’ 호남권 공급 기업으로 선정됐다고 21일 밝혔다.이 사업을 통해 광주·전남·전북·제주 지역 중소기업은 정보보호 컨설팅과 보안",
-      "language": "ko",
-      "summary": "정부가 예산 80% 지원. 맞춤형 보안 컨설팅 및 솔루션 제공단발성 도입 넘어 상시 보안 검증 가능한 체질 개선 지원[보안뉴스 조재호 기자] SGA솔루션즈가 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중소기업 정보보호 기술사업’ 호남권 공급 기업으로 선정됐다고 21일 밝혔다...",
-      "points": [
-        "맞춤형 보안 컨설팅 및 솔루션 제공단발성 도입 넘어 상시 보안 검증 가능한 체질 개선 지원[보안뉴스 조재호 기자] SGA솔루션즈가 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중...",
-        "이 사업을 통해 광주·전남·전북·제주 지역 중소기업은 정보보호 컨설팅과 보안",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "시큐리티플랫폼, 제로트러스트 영상보안 솔루션 공공조달 본격화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144762&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 11:11:00 +0900",
-      "description": "나라장터 등록 통한 공공조달 공급체계 확보하드웨어 신뢰기반 제로트러스트 영상보안 구현공공 영상보안 시장 사업화 및 파트너 생태계 확대[보안뉴스 강초희 기자] 시큐리티플랫폼(대표 황수익)이 제로트러스트 기반 영상보안 솔루션 ‘엑시오 엣지 시큐리티’(Axio Edge Security) 제품군의 조달청 나라장터 쇼핑몰 등록을 완료했다고 20일 밝혔다. 이번 조달",
-      "language": "ko",
-      "summary": "시큐리티플랫폼이 제로트러스트 영상보안 솔루션 '엑시오 엣지'를 나라장터에서 공급하도록 등례체계에 등례한다.",
-      "points": [
-        "시큐리티플랫폼이 제로트러스트 영상보안 콘텐츠를 공급하도록 나라장터에서 등례차설",
-        "시큐리티플랫폼의 제로트러스트 영상보안 기능을 본격화하는 대한민국에서의 국내공정체 시장 전용 진전",
-        0
-      ],
-      "insight": "시큐리티플랫폼이 '엑시오 엣지' 기기로 공급하도록 나라장터에서 진정하게 조언한다면, 국가보호와 보안운동 계획이 등장할 것이다."
-    },
-    {
-      "title": "제6회 더 시큐리티컵 골프대회, 10월 30일 센추리21CC에서 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144760&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 10:03:00 +0900",
-      "description": "보안업계 종사자 및 기업 보안담당자, 유관기관 관계자 등 보안인 네트워크의 장보안뉴스, 시큐리티월드, 더비엔, 인포마마켓비엔 공동 주최...샷건플레이 방식 진행[보안뉴스 원병철 기자] 보안인들을 위한 특별한 가을 이벤트가 개최된다. 제6회 더 시큐리티컵 골프대회(THE SECURITY CUP 2026)가 오는 10월 30일(금) 오전 11시부터 강원도 원주",
-      "language": "ko",
-      "summary": "6회 더 시큐리티컵 골프대회가 21CC에서 2026년에서 개최되었다.",
-      "points": [
-        "- 기술자나 IT 사원들을 위한 보안 연구를 통해 보안침식 방식을 제시함",
-        "- 강원도 원주에서 개체적인 행동을 같이 진행한다.",
-        "- IT/기술 분야에서의 보안 방식과 문제 해결 방법을 시도한다."
-      ],
-      "insight": "이 대회는 IT/기술 업계에서의 보안 전문가들의 연구 경진과 인novation 탐지를 위한 머릿속요소로, 21CC 공동조착 회사가 이 기회를 주도한다."
-    },
-    {
-      "title": "AI 기반 사이버 방어 핵심은 ‘데이터 맥락’... 이스라엘 비콘시큐리티, 1300만달러 시드 투자 유치",
-      "link": "http://www.boannews.com/media/view.asp?idx=144768&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 10:02:00 +0900",
-      "description": "보안팀과 AI 에이전트 공동 활용하는 단일 데이터 플랫폼 제공[보안뉴스 김형근 기자] 기업들의 인공지능(AI) 에이전트 도입이 가속화되는 가운데 보안 의사결정의 기반이 되는 데이터 신뢰성 확보가 사이버 보안의 새로운 과제로 떠오르고 있다.이스라엘 보안 스타트업 비콘시큐리티(Beacon Security)는 기업 내 분산된 데이터와 위협 요소를 통합해 보안팀과",
-      "language": "ko",
-      "summary": "AI-기반 보안에 관한 기사에 대해 한국어로 요약을 제공합니다.",
-      "points": [
-        "AI 도입이 권한 확보와 보호 목적을 위한 전문당사 시스템으로 받아들여진다.",
-        "AI를 도임으로 개인정보, 집의 위치, IT 시스템을 보호하는 방식이 변화되고 있다.",
-        "AI 분산 보안 시스템은 광범선과 통합되어 일종의 신뢰성을 확보한다."
-      ],
-      "insight": "이 기사는 AI로 구현된 보안설계의 중요성과 관련성을 IT/기술 업체에서 인식하고 있다."
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 21 Jul 2026 00:12:24 +0000",
-      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "language": "en",
-      "summary": "Anthropic has settled a $1.5 billion legal dispute related to its use of copyrighted texts in training language models. The final approval marks the end of one case but leaves unresolved broader issues.",
-      "points": [
-        "Amazon and Anthropic settle over allegations involving misappropriation of intellectual property during AI model development",
-        "The $1.5 billion settlement resolves a specific legal dispute, not the wider issue of copyrighted works' usage for training artificial intelligence models.",
-        "Anthropic has used textbooks and copyrighted materials to create large language datasets which are then fed into their AI systems"
-      ],
-      "insight": "The approval highlights ongoing legal complexities within the technology sector, particularly regarding fair use of copyrighted material in training sophisticated artificial intelligence models."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 69] 아는 길도 물어가라(9)-이체 한도 줄여야 하는 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=144221&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 21 Jul 2026 08:47:00 +0900",
-      "description": "이체 한도는 필요한 만큼만 최소로 설정하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지키",
-      "language": "ko",
-      "summary": "보안의 언어는 사용자들이 항상 아니면서도 쉽게 익숙해질 수 dependent on their prior experiences.",
-      "points": [
-        "우리는 실수에서 보안 사고를 시작하기 때문에 보안 습각은 중요하다.",
-        "100개의 보안 습객을 속담과 연계함으로서 기억과 동치시킬 수 있어야 한다.",
-        "보안은 아마도 쉽게 푸시할 수 seldom is there."
-      ],
-      "insight": "우리는 목적을 이해하고, 자세히 생각해야 만다. IT/기술에서는 보안은 우리의 집체속성을 위해 중요한 주제이지만, 우리가 소분당으로서 어렸을 경우 보안 항목에 대한 관심이나 참여도 다음과 같다."
     }
   ]
 }
