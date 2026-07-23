@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-07-23T08:40:16.551Z",
+  "generatedAt": "2026-07-23T13:58:12.841Z",
   "articles": [
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 11:00:00 +0000",
+      "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "language": "en",
+      "summary": "Experts suggest that Kimi's rapid improvement is unlikely due to exploiting Anthropic’de Fable model through distillation techniques.",
+      "points": [
+        "Kimima expert believes the quick enhancement of AI performance isn't from strictly using anthropic's fable for distillation",
+        "Anthropic released their powerful large language model, GPT-4",
+        "Experts are skeptical about exploiting other models to achieve similar results quickly"
+      ],
+      "insight": "This highlights the importance of understanding how AI improvements occur and whether they stem from specific techniques or different advancements in technology."
+    },
+    {
+      "title": "AI 거센 물결, 안전은?... 시대가 부른 보안 스타트업들 ‘진격’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144825&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 23 Jul 2026 18:48:00 +0900",
+      "description": "AI 레드티밍·가드레일, 동형암호, 취약점 관리 플랫폼 등 성장 각광[보안뉴스 강현주 기자] AI의 비약적인 발전은 전세계 산업과 일상의 변화를 거센 속도로 이끌고 있다. 다양한 분야에서 AI로 생산성을 크게 높이고 있으며, 고도의 전문 기술이 없어도 AI로 아이디어를 실현할 수 있는 시대가 왔다. 하지만 악의적 이용자들의 의도 역시 AI를 통해 쉽게 실현",
+      "language": "ko",
+      "summary": "AI가 확장하여 일상과 산업에서의 생산성을 높이고 있는데, 보안 서비스는 AI를 이용한 직접 '진격'에 대비했다.",
+      "points": [
+        "AI 제인호블록과 자동화된 비약적인 발전이 시대를 넘어서고 도달",
+        "이용자들의 의도로 AI를 통해 확섭한 '진격'이 일부 경우에 발생",
+        "보안 서비스는 AI로 인증, 문서 공지 등을 준수하지만, 이용자의 질행을 예방하기 위해 진입권을 제한"
+      ],
+      "insight": "AI를 이용하는 방식은 자연스럽게 인식되지만, 사용자의 의도와 의존심에 대해 일상과 산업에서의 권위를 강조해야 한다."
+    },
+    {
+      "title": "[김정덕의 인간중심보안-15] 보안 자가면역질환을 치유하라",
+      "link": "http://www.boannews.com/media/view.asp?idx=144823&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 23 Jul 2026 17:44:00 +0900",
+      "description": "무균실의 환상을 벗어나 `인간중심보안`으로[연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. ‘인간중심보안’과 ‘제로트",
+      "language": "ko",
+      "summary": "무균실의 환상을 벗어나 `인간중심보안`으로[연재목차 Part 3. 인간중심보안과 보안문화]1...",
+      "points": [
+        "무균실의 환상을 벗어나 `인간중심보안`으로[연재목차 Part 3",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "필수 동의 뒤에 숨은 데이터 싹쓸이... 개인정보위, 틱톡·애플 제재",
+      "link": "http://www.boannews.com/media/view.asp?idx=144820&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 23 Jul 2026 17:37:00 +0900",
+      "description": "틱톡, 945만명 타사 행태정보 무단 수집·맞춤형 광고 활용으로 103억 과징금애플, Siri 음성 전사문 동의 없이 이용 및 계열사 국외 이전 고지 미흡 제재개인정보위 “해외 사업자도 국내 이용자 자기결정권 보장 의무 엄정 적용”[보안뉴스 조재호 기자] 해외 빅테크 기업의 불투명한 데이터 수집에 제동이 걸렸다. 개인정보보호위원회는 적법한 근거 없이 개인정",
+      "language": "ko",
+      "summary": "IT/기술 업체에서 개인정보 계약을 위해 수집된 불투명한 데이터를 이용하여 계십을 강화",
+      "points": [
+        "개인정보의 수집, 이용으로 관리권을 강화합니다.",
+        "국내외의 빅테랭크 기업에서의 데이터 수집",
+        "개인정보 보호위원회의 근거"
+      ],
+      "insight": "이 신용대우기사는 IT/기술 업체에서의 개인정보 계약권에 대한 중요한 논의를 시작하고 있습니다."
+    },
     {
       "title": "스피어AX, GTEL ROBOT과 베트남 AI 공공안전 생태계 구축",
       "link": "http://www.boannews.com/media/view.asp?idx=144822&kind=&sub_kind=",
@@ -688,66 +748,6 @@
         "불포를 확대한 '더 젠틀맨'은 세렁이의 발전으로, 여러 카지백에서의 데이터 수집과 제어 작업을 연구할 수 있다."
       ],
       "insight": "이러한 기술적인 전문가들의 살페어로운 방식으로 정보를 수집하고 제어하는 '더 젠틀맨'은 IT/기술 업계에서도 공유성과 확장성이 선호되며, 불포를 통한 보안적인 전문가로의 데이터 수집과 제어를 통해 세상에서도 더 나은 정보 관리를 통해 공격자들과 신속하게 만드는 가장 큰 이슈입니다."
-    },
-    {
-      "title": "[카드뉴스] “키는 주머니에 있는데 출발?”… 무선 신호 복제하는 ‘스마트키 리플레이 공격’ 비상",
-      "link": "http://www.boannews.com/media/view.asp?idx=144792&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Jul 2026 14:32:00 +0900",
-      "description": "스마트키 버튼 작동 시 발생하는 무선 RF 신호를 중간에서 가로채 복제·재전송하는 ‘리플레이(Replay) 공격’ 형태의 신종 차량 절도 범죄가 급증하고 있다. 단돈 몇 만 원 수준의 저가형 SDR 하드웨어 장비가 대중화되면서, 차량에 적용된 첨단 암호화 알고리즘과 롤링 코드가 쉽게 우회 및 무력화되는 실정이다. 소프트웨어적 방화벽이나 물리적 차체 방어의",
-      "language": "ko",
-      "summary": "스마트키 버튼 작동 시 발생하는 무선 RF 신호를 중간에서 가로채 복제·재전송하는 ‘리플레이(Replay) 공격’ 형태의 신종 차량 절도 범죄가 급증하고 있다. 단돈 몇 만 원 수준의 저가형 SDR 하드웨어 장비가 대중화되면서, 차량에 적용된 첨단 암호화 알고리즘과 롤링 코드가 쉽게 우회 및 무력화되는 실정이다...",
-      "points": [
-        "스마트키 버튼 작동 시 발생하는 무선 RF 신호를 중간에서 가로채 복제·재전송하는 ‘리플레이(Replay) 공격’ 형태의 신종 차량 절도 범죄가 급증하고 있다",
-        "단돈 몇 만 원 수준의 저가형 SDR 하드웨어 장비가 대중화되면서, 차량에 적용된 첨단 암호화 알고리즘과 롤링 코드가 쉽게 우회 및 무력화되는 실정이다",
-        "소프트웨어적 방화벽이나 물리적 차체 방어의"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "시큐레이어-쿼드마이너 맞손... 맥락 데이터로 진화하는 AI 관제 생태계",
-      "link": "http://www.boannews.com/media/view.asp?idx=144791&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Jul 2026 14:25:00 +0900",
-      "description": "시큐레이어 SIEM·SOAR 솔루션-쿼드마이너 네트워크 블랙박스 융합단편적 로그 분석 한계 돌파, 지능형 지속 위협 탐지율 획기적 향상 기대[보안뉴스 조재호 기자] 시큐레이어와 쿼드마이너가 사이버보안 솔루션 공동 사업 추진 및 해외 시장 진출을 위한 전략적 업무협약(MOU)을 체결했다고 22일 밝혔다.최근 AI를 악용한 사이버 위협이 정교화·자동화되며 위협",
-      "language": "ko",
-      "summary": "시큐레이어 SIEM·SOAR 솔루션-쿼드마이너 네트워크 블랙박스 융합단편적 로그 분석 한계 돌파, 지능형 지속 위협 탐지율 획기적 향상 기대[보안뉴스 조재호 기자] 시큐레이어와 쿼드마이너가 사이버보안 솔루션 공동 사업 추진 및 해외 시장 진출을 위한 전략적 업무협약(MOU)을 체결했다고 22일 밝혔다. 최근 AI를 악용한 사이버 위협이 정교화·자동화되며 위협",
-      "points": [
-        "최근 AI를 악용한 사이버 위협이 정교화·자동화되며 위협",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“고민보다 행동하라”... 전문가들이 짚은 AI 보안 커리어 돌파구",
-      "link": "http://www.boannews.com/media/view.asp?idx=144790&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 22 Jul 2026 13:33:00 +0900",
-      "description": "신입 TO 부족한 현실 극복할 무기는 오픈소스 활용 및 MCP 직접 연동‘OWASP Top 10 for LLM·NIST’ 등 글로벌 위협 프레임워크 가이드 우선 숙지단순 이론가 아닌 문제 극복 기록 담은 실전 포트폴리오 확보가 핵심 차별점[보안뉴스 조재호 기자] “어떻게 대응할지 고민하기보다 직접 에이전트를 구축해 보는 실용주의적 접근이 필수적입니다. 스스",
-      "language": "ko",
-      "summary": "신입 TO 부족한 현실 극복할 무기는 오픈소스 활용 및 MCP 직접 연동‘OWASP Top 10 for LLM·NIST’ 등 글로벌 위협 프레임워크 가이드 우선 숙지단순 이론가 아닌 문제 극복 기록 담은 실전 포트폴리오 확보가 핵심 차별점[보안뉴스 조재호 기자] “어떻게 대응할지 고민하기보다 직접 에이전트를 구축해 보는 실용주의적 접근이 필수적입니다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 03:20:57 +0000",
-      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "language": "en",
-      "summary": "Amidst growing competition in AI research with ambitious companies like Anthropic and OpenAI acquiring more entities towards their goal of 'becoming the greatest team,' a rumor about physically augmented intelligence emerged on Twitter.",
-      "points": [
-        "Anthropic's CEO Sam Altman stated in an interview that they aim to be recognized as one of history’s five biggest tech companies by acquiring more businesses. He mentioned their ambition towards AI research and development, emphasizing a goal for Anthropic to achieve this status.",
-        "A Twitter user shared what appeared to be photos purportedly showing an enhanced human figure with cybernetic limbs interacting at the entrance of Silicon Valley's headquarters. The images were quickly debunked as not being related to actual events or people, indicating it might have been a hoax.",
-        "The Twitter post sparked various reactions from social media users and tech influencers on whether Anthropic is seriously considering embracing physical enhancthy in their pursuit of technological advancement."
-      ],
-      "insight": "While the rumor highlights growing concerns around AI technology's potential impact, it also underscores a speculative future where companies may integrate advanced biotechnology into artificial intelligence research to maintain competitive edges. However, Anthropic has not publicly confirmed or denied these claims and such physical augmentation remains within the realm of science fiction rather than imminent reality."
     }
   ]
 }
