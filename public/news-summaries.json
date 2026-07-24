@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-07-23T19:22:19.992Z",
+  "generatedAt": "2026-07-24T02:49:39.069Z",
   "articles": [
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 72] 등잔 밑이 어둡다(2)-공유기 비밀번호 안 바꾸면 생기는 일",
+      "link": "http://www.boannews.com/media/view.asp?idx=144224&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 11:04:00 +0900",
+      "description": "공유기(Wi-Fi) 비밀번호를 반드시 설정하고, 관리자 비번도 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵",
+      "language": "ko",
+      "summary": "공유기(Wi-Fi) 비밀번호를 반드시 설정하고, 관리자 비번도 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
+      "points": [
+        "공유기(Wi-Fi) 비밀번호를 반드시 설정하고, 관리자 비번도 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
+        "그래서 우리는 기술보다 습관을 배워야 한다",
+        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 샌즈랩 MNX, NDR 넘어 CTI·개인정보 유출 탐지까지 통합 지원",
+      "link": "http://www.boannews.com/media/view.asp?idx=144817&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 11:01:00 +0900",
+      "description": "NDR·CTI·개인정보 유출 탐지를 하나의 보안 운영 흐름으로 연계비용 효율성과 운영 편의성 강화[보안뉴스 강초희 기자] 샌즈랩은 사이버 위협 인텔리전스와 네트워크 보안 기술을 기반으로 성장해온 보안 전문 기업이다. 자체 수집·분석한 위협 데이터를 바탕으로 CTI, NDR, 개인정보 유출 탐지 등 다양한 보안 영역에서 기업과 기관의 보안 운영 효율을 높이는",
+      "language": "ko",
+      "summary": "샌즈랩 MNX가 광고와 보안 서비스를 통합 시, IT/기술 업계에서의 운영 편의성과 보안 영역 강화",
+      "points": [
+        "샌즈랩 MNX는 전문가들로부터 수집된 위협 데이터를 기반으로 CTI, NDR, 개인정보 유출 탐지 등을 합니다.",
+        "샌즈랩는 IT/기술 업계의 보안 영역에서 시장 대비를 위해 이전 발칭된 IT/기술 기술을 활용합니다.",
+        "이 연구를 통해 샌즈랩 MNX은 IT/기술 업계의 보안 영역 강화 과정에서 중요한 경량을 얻을 수 있습니다."
+      ],
+      "insight": "이 기사는 IT/기술 업계가 개인정보 위협으로 이어지던 현상을 대안적으로 대체함으로써 CTI, NDR, 개인정보 유출 탐지를 위한 전문능 보안 시스템을 제공하고자 한다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 듀얼오스, 국제표준 기반 패스워드리스 상호인증 솔루션",
+      "link": "http://www.boannews.com/media/view.asp?idx=144816&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 11:00:00 +0900",
+      "description": "피싱 및 파밍 공격을 차단하는 제로트러스트 기반 통합 접근관리 솔루션[보안뉴스 강초희 기자] 듀얼오스는 패스워드리스 기반 계정인증 및 접근관리 솔루션을 제공하는 기술 기업이다. 핵심 인증 기술은 UN 산하 국제표준화기구인 ITU-T에서 X.1280(상호인증 기반 패스워드리스 기술) 표준으로 제정됐다. 최근 듀얼오스는 KB국민은행 제로트러스트 실증사업을 비롯",
+      "language": "ko",
+      "summary": "피싱 및 파밍 공격을 차단하는 제로트러스트 기반 통합 접근관리 솔루션[보안뉴스 강초희 기자] 듀얼오스는 패스워드리스 기반 계정인증 및 접근관리 솔루션을 제공하는 기술 기업이다. 핵심 인증 기술은 UN 산하 국제표준화기구인 ITU-T에서 X...",
+      "points": [
+        "피싱 및 파밍 공격을 차단하는 제로트러스트 기반 통합 접근관리 솔루션[보안뉴스 강초희 기자] 듀얼오스는 패스워드리스 기반 계정인증 및 접근관리 솔루션을 제공하는 기술 기업이다",
+        "핵심 인증 기술은 UN 산하 국제표준화기구인 ITU-T에서 X",
+        "1280(상호인증 기반 패스워드리스 기술) 표준으로 제정됐다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "쿠도커뮤니케이션, 포항시 AI 기반 안전보건체계 통합관리시스템 구축",
+      "link": "http://www.boannews.com/media/view.asp?idx=144826&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 10:35:00 +0900",
+      "description": "AI 증적 사진 검증·문서 업로드 검증·챗봇 기반 업무지원 기능 적용현장 안전보건 업무 디지털화로 증빙자료 관리 정확성 및 행정 효율성 강화공공 행정 프로세스 반영한 통합 포털 개발 역량 기반 사업 확대 추진[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표 김용식)은 선도적인 산업재해 예방과 안전보건관리체계 고도화를 추진하는 포항시에 AI 기반 안전보건 통합관",
+      "language": "ko",
+      "summary": "AI 증적 사진 검증·문서 업로드 검증·챗봇 기반 업무지원 기능 적용현장 안전보건 업무 디지털화로 증빙자료 관리 정확성 및 행정 효율성 강화공공 행정 프로세스 반영한 통합 포털 개발 역량 기반 사업 확대 추진[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표 김용식)은 선도적인 산업재해 예방과 안전보건관리체계 고도화를 추진하는 포항시에 AI 기반 안전보건 통합관",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 24 Jul 2026 01:00:00 +0000",
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "language": "en",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 만약 달리는 자율주행차가 해킹을 당한다면",
+      "link": "http://www.boannews.com/media/view.asp?idx=144797&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 09:17:00 +0900",
+      "description": "자율주행 차량은 도로 위 피지컬 AI 시스템 기존 IT 기기 취약점 그대로주행 중 다수 자율주행 차량 동시 해킹 당하면? 국가 안보에도 영향[보안뉴스= 배종찬 인사이트케이 연구소장] 전 세계 자동차 산업은 단순한 기계 장치에서 벗어나 소프트웨어 중심 자동차(SDV)로의 대전환을 맞이하고 있다. 썸트렌드(SomeTrend)의 빅데이터 연관어 분석(2026년",
+      "language": "ko",
+      "summary": "자율주행 차량은 도로 위 피지컬 AI 시스템 기존 IT 기기 취약점 그대로주행 중 다수 자율주행 차량 동시 해킹 당하면. 국가 안보에도 영향[보안뉴스= 배종찬 인사이트케이 연구소장] 전 세계 자동차 산업은 단순한 기계 장치에서 벗어나 소프트웨어 중심 자동차(SDV)로의 대전환을 맞이하고 있다...",
+      "points": [
+        "자율주행 차량은 도로 위 피지컬 AI 시스템 기존 IT 기기 취약점 그대로주행 중 다수 자율주행 차량 동시 해킹 당하면",
+        "국가 안보에도 영향[보안뉴스= 배종찬 인사이트케이 연구소장] 전 세계 자동차 산업은 단순한 기계 장치에서 벗어나 소프트웨어 중심 자동차(SDV)로의 대전환을 맞이하고 있다",
+        "썸트렌드(SomeTrend)의 빅데이터 연관어 분석(2026년"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 24 Jul 2026 00:05:00 +0000",
+      "description": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+      "language": "en",
+      "summary": "Stripe partners with TechCrunch for a startup competition in Australia aimed at discovering promising early-stage companies.",
+      "points": [
+        "TechCrunch and Stripe collaborate to uncover top startups",
+        "Australian entrepreneurs can enter the 'Startup Battlefield' event",
+        "The initiative aims to bring attention to Australia’s tech scene"
+      ],
+      "insight": "This partnership may encourage more local talent and investment into Australian startups, potentially leading to significant contributions in various sectors of the IT industry."
+    },
+    {
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 22:40:08 +0000",
+      "description": "Shashua has been invited to take the chairman of the board seat.",
+      "language": "en",
+      "summary": "Mobileye CEO Amnon Shashua will step down as he moves into a new role focused on robotaxis and robotics while another prominent figure takes his place.",
+      "points": [
+        "Amnon Shashua, the former CEO of Mobileye, is stepping aside for this transition.",
+        "The company's chairman Moshe Yisraeli will take over as interim CEO after Shashua exits.",
+        "Shashua has been invited to join the board and chair a committee focused on robotaxis."
+      ],
+      "insight": "This move indicates Mobileye is strategically expanding its focus beyond traditional autonomous driving technology into specialized areas like robotaxis, potentially leading to more significant industry influence in emerging fields of transportation tech."
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "language": "en",
+      "summary": "AMD announced the launch of Helios AI, an advanced rack-scale artificial intelligence (AI) computing system competing with Nvidia' extranet platforms in various industries including automotive and data center infrastructure.",
+      "points": [
+        "Helios is built on Radeon Instinct GPUs",
+        "Offers up to a quadruple of AI engines per rack for parallel processing capabilities needed by enterprises",
+        "Targeted at automotive, data center infrastructure and healthcare industries"
+      ],
+      "insight": "This new development could significantly impact the competition between Nvidia and AMD in providing specialized hardware solutions to businesses seeking to leverage artificial intelligence technologies."
+    },
+    {
+      "title": "Patreon lays off 20% of its workforce",
+      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 20:30:07 +0000",
+      "description": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "language": "en",
+      "summary": "Patreon announced layoffs affecting approximately 20% of their workforce due to a need to adapt to market shifts and revise the company'selower cost structure.",
+      "points": [
+        "Approximately 20% of Patreon staff are being laid off as part of restructuring efforts",
+        "The layoffs will impact both full-time employees (FTEs) and contractors at various stages in their projects",
+        "Patreon is experiencing growth but also faces challenges adapting to the changing market dynamics"
+      ],
+      "insight": "This development may indicate a broader trend of companies adjusting operations due to economic uncertainties, which could potentially reshape job stability within the tech industry."
+    },
+    {
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 20:13:24 +0000",
+      "description": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
+      "language": "en",
+      "summary": "Startup Corgi has reportedly raised a staggering $4 billion in funding over its third round within an eight-week span.",
+      "points": [
+        "Corgi's recent investment surge includes raising significant funds back-to-back at rapidly increasing valuations, setting it apart from the usual startup trends",
+        "The speed of Corgi's fundraising is unprecedented in its eight weeks since securing $50 million earlier this year and only two months after a previous round with SoftBank Group Corp.",
+        "Corgi, an AI-focused insurance startup founded by former JPMorgan executives Jeff Frost and John Schmitz in 2018."
+      ],
+      "insight": "The rapid pace at which Corgi is raising capital indicates a highly competitive market for investment within the burgeoning AI-centric insurance sector, suggesting intense demand from forward-looking venture funds and significant industry backing. This may also signal shifts in traditional business models toward more tech integration as startups rapidly iterate on innovation."
+    },
+    {
+      "title": "Tesla’s door handles may spur new US safety rules",
+      "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 20:06:21 +0000",
+      "description": "The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.",
+      "language": "en",
+      "summary": "Tesla's door handles are linked to several deadly incidents where occupants became trapped due to over-sealing of the doors; following these events and consultations with stakeholdner organizations, U.S. safety agencies may introduce new rules.",
+      "points": [
+        "A series of fatal accidents in Tesla vehicles have raised questions about door handle design leading to entrapment within cars due to over-sealing.",
+        "The National Transportation Safety Board (NTSB) has highlighted these incidents as significant contributors to the deaths, emphasizing that they are not attributed to mechanical failures or electronic defects in vehicles.",
+        "Safety regulators and auto safety organizations have called for new guidelines on door sealing levels."
+      ],
+      "insight": "The Tesla incidents may compel U.S. authorities to review vehicle safety standards, potentially leading to the introduction of regulations that address issues beyond mechanical or electronic defects in cars."
+    },
+    {
+      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+      "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 23 Jul 2026 19:41:54 +0000",
+      "description": "Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.",
+      "language": "en",
+      "summary": "Meta is abandoning a major clean energy pact after heavily funding its natural gas infrastructure.",
+      "points": [
+        "- Meta has invested significantly in natural gas over the past year and is now exiting from an industry renewable energy group as part of this strategy. The move follows announcener's previous commitment to a net-zero carbon footprint by 2030.",
+        "The company cited its need for reliable, low-cost power in areas where it operates and the necessity to meet immediate electricity demands without relying on intermittent renewable energy sources as reasons behind this decision. Meta also highlighted that natural gas is a critical component of decarbonizing other aspects like heating homes.",
+        "In its place, Facebook parent company plans an increase in investments towards clean power infrastructure and sustainability initiatives moving forward."
+      ],
+      "insight": "Meta's move could signal the industry-wide debate over energy transition pathways between renewables and other low-carbon technologies such as natural gas. While it raises concerns about commitment to carbon neutrality, Meta sees a need for reliable power sources in its operations."
+    },
     {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
@@ -551,201 +746,6 @@
       "points": [
         "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI w...",
         "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 파수 AI, 안전한 인공지능 전환 지원할 ‘AX 플랫폼’ 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=144798&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 08:28:00 +0900",
-      "description": "구축형 AX 플랫폼 ‘Ellm’ 및 서비스형 AI 민감정보 관리솔루션 ‘AI-R DLP’ 전시자연어 처리·딥러닝 접목한 ‘AI-R Privacy’ 비정형 데이터 내 개인정보 검출 고도화[보안뉴스 조재호 기자] 파수 AI가 ‘ISEC 2026’에서 인공지능 전환(AX) 플랫폼 ‘엘름’(Ellm)과 AI 기반 민감정보 보호 솔루션 ‘AI-R DLP’ 등을 전시",
-      "language": "ko",
-      "summary": "ISEC 2026에서 AI를 활용한 'Ellm' AX 플랫폼과 AI-R DLP 솔루션을 제공합니다. 'AI-R Privacy' 기법은 인멤당자에게 개인정보 보호를 촉진하여 미래의 안전한 인공지능을 만들어낼 수 있도록 합니다.",
-      "points": [
-        "구축형 AX 플랫폼 'Ellm'이 사용자의 광고 지원을 위한 AI를 활용합니다.",
-        "서비스형 AI 민감정보 관리솔루션 'AI-R DLP'은 임의화되지 않은 사용자 정보를 분석합니다.",
-        "‘AI-R Privacy’ 기법은 AI가 고유값을 인식하여 개인정보를 즉시 검색하여 내재 데이터 분리 혹은 제출 솔루션입니다."
-      ],
-      "insight": "이 기사는 AI를 이용한 인공지능 전환에 대한 광고 지원 방식과 민감정보 보호솔루션의 제출이 있다는 사실을 IT/기술 업계에서 소개하고 있습니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 데이터시큐어, 네트릭스 DSPM으로 N2SF와 AI 환경 보안 최적화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144796&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 08:26:00 +0900",
-      "description": "가시화, 분류, 격리 등 지원해 정보 유출 통제[보안뉴스 강현주 기자] 데이터시큐어는 네트릭스의 문서보안태세관리(DSPM) 솔루션을 선보인다. 이 솔루션은 조직 내 정보를 가시화하고, 이를 자동으로 분류하며 태깅하고, 격리하며, 권한에 맞게 사용하도록 감시하고 정보의 유출을 통제한다. N2SF와 AI 활용 환경에서 꼭 필요한 데이터를 가시화하고,",
-      "language": "ko",
-      "summary": "ISEC2026 미리보기에서 데이터시큐어는 관련된 정보를 가시화, 분류하며, 유출을 제압하고 핵심 인사이트를 제공한다.",
-      "points": [
-        "기사는 N2SF와 AI 환경에서의 DSPM 시큐어가 필요한 데이터가 가시화 및 유출을 제어하여 정보보호를 촉진한다.",
-        "이러한 기술들은 네트워킹에서의 공격없는 데이터 안전성을 위해 중요하다.",
-        "이로써 정보 시스템의 보호와 안전성을 강조한다."
-      ],
-      "insight": "이러한 기술은 IT/기술 업계에서의 데이터보호약판과 DSPM를 강화하고, 솔직한 분석에 대비해야 함을 나타낸다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 71] 등잔 밑이 어둡다(1)-블루투스 켜두면 생기는 의외의 위험",
-      "link": "http://www.boannews.com/media/view.asp?idx=144223&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 08:23:00 +0900",
-      "description": "블루투스나 NFC는 사용하지 않을 때 꺼두는 것이 안전합니다보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지",
-      "language": "ko",
-      "summary": "사용자 기반의 보안에 주로 심화된 생활 습관과 이를 소유 스マ트나 NFC를 포함한 기본적으로 안전하게 사용하는 방법에 대해 제시한다.",
-      "points": [
-        "사용자가 보안예상을 포함한 기술들과 함께 습글과 신경망을 연동하여 보안적인 체이지를 만들어야 한다.",
-        "보안 참고를 위해서는 사용자의 활동에 대응되는 속성을 학습시켜야 하며, 이를 위한 것은 속담으로 배우는 100가지 설명에서 제공한다.",
-        "보안 습관은 사용자의 정보를 포함하여 생성되기 시작된다."
-      ],
-      "insight": "이 보안 실습에서는 IT/기술 공학자가 기존의 언어와 컨셼트너그와 같은 방식을 사용하지 못한다. 대안으로는 사용자들의 스마트폰, PC, 인터넷, 생활적으로도 보안예상을 포함하여 학습해서 자동화된 예상이 만들어진다."
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "language": "en",
-      "summary": "Google attributes a significant portion of its growing revenue stream from artificial intelligence (AI) investments with successes in cloud computing.",
-      "points": [
-        "Investment into AI-related companies, such as DeepMind and healthcare startups using Google Cloud Platform's technology has bolstered the company financially",
-        "Google reports record profits from its business services division including advertising revenue surge in Q4 2curently reporting $57.0 billion in total revenues for this quarter (a year-over-year increase of more than a third to almost double that amount) with Google AI investments being cited as one driver",
-        "The cloud business, which includes hardware and services like BigQuery data warehousing service is also doing well"
-      ],
-      "insight": "Google's commitment towards artificial intelligence has not only advanced the field but also significantly contributed to its overall revenue growth due to increased demand for AI-powered cloud computing solutions."
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 20:49:03 +0000",
-      "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "language": "en",
-      "summary": "A dispute between the White House and Treasury Dept regarding distilled Anthropic's text generator 'Fable,' has escalated to threats of sanctions amid concerns over Chinese influence in AI development.",
-      "points": [
-        "The Trump administration threatened economic retaliation against China after alleging the moonshot initiative used Fable, a language model developed by Anthropic but partly funded and trained with data from Microsoft's GPT-3.",
-        "Anthropic CEO sent an open letter defending their work on ethical grounds, while White House officials denied using or even knowing about the specific technology in question. Treasury Secretary Steven Mnuchin warned of 'economic retaliation'.",
-        "The episode has intensified a broader debate over foreign influence and data privacy concerns within AI development."
-      ],
-      "insight": "This controversy underscserises the need for clarity on which technologies are utilized in initiatives of this scale to prevent misuse or unintended consequences, particularly when involving countries with different political agendas and data regulations. It further highlights concerns about foreign influence within AI development."
-    },
-    {
-      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-      "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 20:43:38 +0000",
-      "description": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
-      "language": "en",
-      "summary": "Tesla is experiencing increased spending with its production timeline for the Cybercab, Semi, and Megapack slipping.",
-      "points": [
-        "Despite a revenue increase of 26%, Tesla's operating expenses have also risen sharply in FY21."
-      ],
-      "insight": {
-        "English": "Tesla needs to manage its spending and production timelines more effectively, or it could face financial difficulties that may impact the broader EV market trends. If Tesla can't deliver on time while controlling costs, consumer confidence might waver in a rapidly evolving industry."
-      }
-    },
-    {
-      "title": "Social media addiction lawsuit against Meta is dropped",
-      "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 20:36:41 +0000",
-      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
-      "language": "en",
-      "summary": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-      "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 19:42:56 +0000",
-      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
-      "language": "en",
-      "summary": "SoundCloud has acquired the now-defunct decentralized music startup Nina Protocol several months after it announced closure plans.",
-      "points": [
-        "Acquisition of defunct SoundCloud competitor",
-        "Integration into SoundCloud'ner platform for independent musicians",
-        "Access to a diverse catalogue and discovery tools"
-      ],
-      "insight": "The acquisition indicates the music industry is increasingly embracing decentralized platforms, which could reshape how artists distribute their work."
-    },
-    {
-      "title": "How an OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "language": "en",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible",
-      "points": [
-        "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox",
-        "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 18:50:44 +0000",
-      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "language": "en",
-      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world",
-      "points": [
-        "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using i...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Science Corporation’s vision-restoring chip wins EU approval",
-      "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 18:18:02 +0000",
-      "description": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
-      "language": "en",
-      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said",
-      "points": [
-        "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 18:13:58 +0000",
-      "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
-      "language": "en",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12. 3 million in seed funding...",
-      "points": [
-        "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12",
-        "3 million in seed funding",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-      "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 18:02:57 +0000",
-      "description": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic’s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, […]",
-      "language": "en",
-      "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom...",
-      "points": [
-        "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025",
-        "Menlo led Anthropic’s $500M Series D, and Murphy has had a front-row seat as the company went from a...",
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
