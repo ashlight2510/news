@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-07-24T02:49:39.069Z",
+  "generatedAt": "2026-07-24T08:35:16.348Z",
   "articles": [
+    {
+      "title": "벨로크, 시큐어키 조달 총판 계약 체결... 공공 ‘패스워드리스’ 정조준",
+      "link": "http://www.boannews.com/media/view.asp?idx=144833&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 16:29:00 +0900",
+      "description": "PC 로그인 단계부터 지문·안면인식 적용해 사용자 식별 고도화강화된 개인정보보호법 시행령 컴플라이언스 대응하는 방어망 제시[보안뉴스 조재호 기자] 벨로크가 시큐어키 생체인식 및 다중 인증(MFA) 솔루션 ‘에이피피엠 포 윈바이오 v1.4’(APPM for WinBio v1.4) 공식 조달 총판 계약을 체결하고, 시장 확대에 나선다고 24일 밝혔다.이번 계약",
+      "language": "ko",
+      "summary": "벨로크가 시큐어키 생체인식과 MFA를 기반으로한 APPM for WinBio v1 extrication agreement, 24일에 등산.",
+      "points": [
+        "벨로크가 시큐어키 생체인식과 MFA를 기반으로한 APPM for WinBio v1.4 공급방법 조달 총판 성공",
+        "24일에 시장 확대",
+        "사용자 식별 고도화강화"
+      ],
+      "insight": "이 제공하는 시야딘스러리를 기반으로 클라이언트 정보보호 방안에서 '사용자 식별 고도화강화'과 '다중 인증(MFA)솔루션’의 확장성을 활용하여 IT/기술 업계에서 개인정보를 안전하게 수집하는 방식으로, '컴플라이언스 대응’가 이어지는 확장성을 볼 수 있다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 프라이빗테크놀로지, N2SF 시대 맞춤형 ‘AI 보안 허브’ 전략 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144824&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 16:14:00 +0900",
+      "description": "‘패킷고’(PacketGo) 기반 제로 트러스트 접근제어로 비인간 신원 통제일회성 인증 벗어나 데이터 이동 흐름 지속 검증해 방어망 고도화[보안뉴스 조재호 기자] 프라이빗테크놀로지가 다가오는 ‘ISEC 2026’ 전시회에 참가해 국가 망 보안체계(N2SF) 전환과 클라우드·인공지능(AI) 확산 환경에 특화된 ‘제로 트러스트’ 보안 전략을 공유한다. 프라이빗",
+      "language": "ko",
+      "summary": "기사는 '패킷고'를 이용한 제로 트러스트 방어망에 대해 약속한다.",
+      "points": [
+        "ISEC 2026에서 프라이빗테크놀로지가 '패킷고'를 이용하여 제로 트러스트 방어망을 공유할 예정",
+        "제로 트러스트 방어망은 인터넷 신원, 데이터 이동에 대한 맞춤형 전략으로 개정",
+        "보안뉴스 조재호는 국가 보안의 전환과 클라우드·인공지능(AI)에 편리한 방식을 제시한다."
+      ],
+      "insight": "이 기사는 '제로 트러스트' 방어망의 개정으로 IT/기술 보안에 추가적인 신경을 낳은 전략을 강조한다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 세이퍼존, 네트워크 AI DLP 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=144818&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 16:13:00 +0900",
+      "description": "세이퍼존, 수산INT와 제로트러스트와 N2SF 통합 보안 엔드포인트 AI DLP에 이어 네트워크 AI DLP 출시[보안뉴스 강초희 기자] 엔드포인트 AI DLP(데이터 유출 방지)와 보안 USB 전문기업 세이퍼존은 수산INT의 네트워크 단 ‘SSL 암복호화 가시성’ 장비 기술을 협력받아 기업과 금융, 공공기관에서 생성형 AI 서비스를 업무 활용 시 중요·",
+      "language": "ko",
+      "summary": "세이퍼존는 네트워크 AI DLP 출시를 이어 받았습니다.",
+      "points": [
+        "세이퍼존은 SSL 암보호화 기기를 활용하여 AI DLP 업무를 수산INT, 제로트러스트와 N2SF 모임에서 개발한 공개 API로 진행합니다.",
+        "이 서비스는 기계지연방이나 인터넷 시스템의 보안를 강화하고자 합니다.",
+        "세이퍼존은 이미 SSL 암보호화 기기와 금리처럼 AI DLP 서비스를 제공합니다."
+      ],
+      "insight": "사용자 유출에 대한 전문적인 보안 서비스를 제공하여 IT/기술 업계의 보안저력을 개선함으로써 세이퍼존은 그들에게 직접있는 장점을 제공하고 있습니다."
+    },
+    {
+      "title": "팔로알토, 엠브레이스 인수로 관제 플랫폼 확장",
+      "link": "http://www.boannews.com/media/view.asp?idx=144831&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 16:08:00 +0900",
+      "description": "인프라 성능 사전 검증하는 신기능 추가해 통합 디지털 경험 모니터링코어텍스 에이전틱스 연계로 장애 탐지부터 자동 복구까지 아우른 생태계[보안뉴스 조재호 기자] 팔로알토 네트웍스(Palo Alto Networks)가 사용자 중심 관제 기술 제공업체 ‘엠브레이스’(Embrace) 인수를 추진한다.팔로알토는 이번 인수를 통해 기존 관제 플랫폼을 디지털 경험 모니",
+      "language": "ko",
+      "summary": "팔로알토는 '엠브레이스' 기업의 인수로, IT/기술 업계를 대형하게 제시한다.",
+      "points": [
+        "최신 인수로 팔로알토는 관제 플랫포의 디지털 경영이 개정되어 장애 탐지를 체리한다.",
+        "이러한 인수로는 기존의 관제 플랫포에만 대응할 수 dependent로 아직은 없지만, 자동 복구와 장애 보호를 강화한다.",
+        "이런 기술을 사용하면서도 인증번호의 유의성과 시간에 대해 보호를 강화할 수 있습니다."
+      ],
+      "insight": "이러한 IT/기술 업체의 인수로는 장애 보호를 강화하고자 한다면, 관제 플랫포에서 사용자 이해가 좋지만, IT 기술에서도 모든 설정이나 인증을 유지하여 시스템의 안전성과 안전성을 유지하는 것은 어렵다고 해보세요."
+    },
+    {
+      "title": "공중화장실 불법촬영 탐지 의무화... 지슨 “제도가 시장 열었다”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144830&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 16:07:00 +0900",
+      "description": "법 개정으로 ‘상시형 탐지 시스템’ 법정 안전관리 시설 격상공공 의무 시장 넘어 학교·민간 상업 시설 표준 보안 제시[보안뉴스 조재호 기자] 지난 23일 공중화장실 불법촬영 탐지 시스템 설치를 의무화한 ‘공중화장실 등에 관한 법률’ 개정안이 국회본회의를 통과하며, 해당 시스템을 공급하는 지슨의 폭발적인 성장세가 전망된다. 국회를 통과한 개정법은 시장·군수·",
+      "language": "ko",
+      "summary": "공중화장실 불법촬영 시스템의 관리를 의무화했다.",
+      "points": [
+        "‘상시형 탐지 시스템’의 관리 시스템을 국민에게 준수한다.",
+        "지난 23일 국회의서에서 균형잡힌 계정이 해당 시스템을 광고로 강조하였다.",
+        "이러한 개정법은 공급자인 지난의 성장세가 풍부하다."
+      ],
+      "insight": "이 기사는 IT/기술 업체에서 보안 시스템 개정으로 국민으로의 균형을 변화시키고 있음을 강조한다."
+    },
+    {
+      "title": "[카드뉴스] 법안 강화에도 데이터는 지하로… 추적 불가능한 암호화폐 거래로 진화한 음성망",
+      "link": "http://www.boannews.com/media/view.asp?idx=144832&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 15:42:00 +0900",
+      "description": "합법적 데이터 브로커에 대한 제도권 규제가 강화되면서, 데이터 유통이 음지로 쏠려 다크웹 내 데이터 가치가 폭등하는 ‘풍선효과’가 발생하고 있다. 다크웹으로 숨어든 자격 증명 거래는 추적 불가능한 암호화폐 결제망과 결합하여 사이버 범죄자들의 새로운 자금줄이자 공격 원료로 악용되고 있다. 단순한 법적 규제 준수(컴플라이언스)를 넘어, 유출된 정보가 실제 공격",
+      "language": "ko",
+      "summary": "비공개의 데이터 가치가 폭등하여 근인으로 계산되도록 강제합법적 제도를 시도한다.",
+      "points": [
+        "비공개 데이터에 대한 강제합법적 제도",
+        "음성맥IA로 계산된 '풍선효과'가 발생하고 있다.",
+        "사이버 범죄자가 근인으로 계산되어 악용되고 있다."
+      ],
+      "insight": "이 기사는 IT/기술 업계에서의 '풍선효과'를 발생하여 데이터가 폭등하게 수정되고 있는 상황을 강조한다."
+    },
+    {
+      "title": "외교부 해킹, 현실화된 공급망 위협... 공공·민간 아우른 대응 체계 필요",
+      "link": "http://www.boannews.com/media/view.asp?idx=144829&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 14:01:00 +0900",
+      "description": "외교원 LMS 발판으로 10개월 간 잠입... 외주 틈새 노린 우회공격“안보 사안”이라며 5개월 지체... 민간 사고 철퇴와 대조[보안뉴스 조재호 기자] 최근 외교부 국립외교원 해킹 사태는 협력사 보안 소프트웨어 취약점을 노린 공급망 공격의 위험을 드러냈다는 평가다. 공공과 민간에서 벌어진 사고 사이 대응의 온도차 역시 논란이다.외교부는 20일 국립외교원",
+      "language": "ko",
+      "summary": "국립외교원의 해킹 사거에서 공급망 위험을 강조한다.",
+      "points": [
+        "- 해킹사거으로 공급망 위험 강제로",
+        "- 공급망에서의 대체적인 시민취약점",
+        "- 민족과 국가적 준비 부진 필요"
+      ],
+      "insight": "해킹사거에서의 공급망 위험 강제로 시민의 취약성을 강조하여, 이 국립외교원의 해킹 사거로부터 공급망의 정보와 지쳐를 통한 민간 인식을 논하고 있다. 이러한 해킹 사거로부터 시민들에게 대응을 요구하는 의지가 존재한다."
+    },
+    {
+      "title": "美 민관 사이버 위협 정보 공유 법적 리스크 없앤다... 관련 책임 면제 법안 하원 통과",
+      "link": "http://www.boannews.com/media/view.asp?idx=144828&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 13:53:00 +0900",
+      "description": "美 하원, CISA 2015 10년 연장안 NDAA에 포함해 통과... 상원 협상 난항 예상[보안뉴스 김형근 기자] 미국 하원이 민간과 정부 간 사이버 위협 정보 공유에 대한 법적 보호 조항을 담은 ‘2015 사이버보안정보공유법’(CISA 2015)의 10년 연장안을 포함한 2027 국방수권법(NDAA)을 찬성 216표, 반대 212표로 통과시켰다.CISA",
+      "language": "ko",
+      "summary": "미국 하원이 NDAA에 CISA 2015 10년 연장안을 포함한다.",
+      "points": [
+        "미국 하원이 보안론 정치로부터 없는 거래에 대해서, 민족 민간과 정부 간의 사이버 위협 정보 공유에 대한 10년 연장안을 포함하고 있다.",
+        "국방수권법(NDAA)를 통과했다.",
+        "이로써 미국 하원은 보안론 정치로부터 없는 거래에 대해서, 민족 민간과 정부 간의 사이버 위협 정보 공유에 대한 1 enduring authorization act를 찬성하고 있다."
+      ],
+      "insight": "최근에는 세계 미국 상공기대가 사이버 위협을 행동한 경우가 많아지고 있었다. 이로써 보안론 정치로부터의 거래에 대해서, 민족 민간과 정부 간의 사이버 위협 정보 공유에 대한 10년 연장안을 포함하고 있다. 이로써 NDAA를 통과한다."
+    },
+    {
+      "title": "올해 코드게이트 최정상 해커는 ‘BunkyoWesterns’와 ‘김준원’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144827&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 24 Jul 2026 11:53:00 +0900",
+      "description": "코드게이트 2026, 88개국 3333명 참가AI 해커도 본선 초청 선수로 참가[보안뉴스 강현주 기자] 올해 코드게이트 최정상 해커는 일본의 ‘BunkyoWesterns’(일반부)와 한국의 ‘김준원’(주니어부)이다. 과학기술정보통신부(부총리 겸 장관 배경훈)는 세계적인 실력의 화이트해커를 발굴하고 최신 보안기술 동향을 전파하는 국제해킹방어대회 & 보안 컨퍼",
+      "language": "ko",
+      "summary": "2026년 코드게이트 해커는 일본의 'BunkyoWesterns'과 한국의 '김준원'으로 합류함",
+      "points": [
+        "2026년 코드게이트에서 한국의 '김준원'와 일본의 'BunkyoWesterns'가 해커를 통과",
+        "김준원은 IT/보안 기술 전문가이고 BunkyoWesterns은 기초화학과 학위자에서 AI를 공부한 경륜자입니다",
+        "해커가 모여야 큰 비교와 연결이나 역사와는 무의지성합니다"
+      ],
+      "insight": "현재 IT/보안 업체에서 AI 컨볼레이터가 중요하며, '김준원'과 'BunkyoWesterns'의 합격은 이러한 업무에 대한 필수적인 기능을 제공함을 의미합니다."
+    },
     {
       "title": "[속담으로 배우는 100가지 보안 습관 72] 등잔 밑이 어둡다(2)-공유기 비밀번호 안 바꾸면 생기는 일",
       "link": "http://www.boannews.com/media/view.asp?idx=144224&kind=&sub_kind=",
@@ -614,141 +749,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "농어촌공사, AI CCTV 확대 등 현장 안전관리 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=144811&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 15:21:00 +0900",
-      "description": "비상 안전경영 체계 전환AI CCTV 확대 등 스마트 안전관리 강화산업재해 예방 위한 현장 안전혁신 추진[보안뉴스 강초희 기자] 한국농어촌공사(사장 김인중)는 22일 대전에서 김인중 사장을 비롯한 경영진과 본사·본부 부서장 등이 참석한 가운데 ‘비상 안전경영 선포식’을 열고 ‘KRC Every Safer’ 추진을 선언했다고 밝혔다.이번 선포식은 건설공사가",
-      "language": "ko",
-      "summary": "비상 안전경영 체계 전환AI CCTV 확대 등 스마트 안전관리 강화산업재해 예방 위한 현장 안전혁신 추진[보안뉴스 강초희 기자] 한국농어촌공사(사장 김인중)는 22일 대전에서 김인중 사장을 비롯한 경영진과 본사·본부 부서장 등이 참석한 가운데 ‘비상 안전경영 선포식’을 열고 ‘KRC Every Safer’ 추진을 선언했다고 밝혔다. 이번 선포식은 건설공사가",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "조달청, 9개 품목 입찰보증금 의무화 “무분별 입찰 막는다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144812&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 15:20:00 +0900",
-      "description": "무분별입찰 차단 근절로 계약질서 확립 및 건전한 조달시장 조성 기대[보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공 조달시장 계약질서 확립을 위해 무분별입찰 우려가 높은 물품을 지정하고, 8월 3일부터 입찰 참가자 전원에게 입찰보증금을 납부받는다.이번 조치는 물품 공급 능력이 없는 일부 업체가 무분별하게 입찰에 참여하거나, 낙찰 후 계약을 이행하지 않는",
-      "language": "ko",
-      "summary": "무분별입찰 차단 근절로 계약질서 확립 및 건전한 조달시장 조성 기대[보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공 조달시장 계약질서 확립을 위해 무분별입찰 우려가 높은 물품을 지정하고, 8월 3일부터 입찰 참가자 전원에게 입찰보증금을 납부받는다. 이번 조치는 물품 공급 능력이 없는 일부 업체가 무분별하게 입찰에 참여하거나, 낙찰 후 계약을 이행하지 않는",
-      "points": [
-        "무분별입찰 차단 근절로 계약질서 확립 및 건전한 조달시장 조성 기대[보안뉴스 강초희 기자] 조달청(청장 백승보)은 공공 조달시장 계약질서 확립을 위해 무분별입찰 우려가 높은 물품을...",
-        "이번 조치는 물품 공급 능력이 없는 일부 업체가 무분별하게 입찰에 참여하거나, 낙찰 후 계약을 이행하지 않는",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Jul 2026 06:09:13 +0000",
-      "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "language": "en",
-      "summary": "ServiceNow invested $40 million in Indian financial IT firm BusinessNext, aiming to bolster the development of intelligent digital products for the financial services sector.",
-      "points": [
-        "ServiceNow has made a strategic investment in India' endorses BusinessNext as an extension of its AI-driven banking solutions portfolio.",
-        "The partnership is designed to enable rapid expansion and scaling of intelligent digital products across ServiceNow's global financial services customer base.",
-        "By integrating with existing clients, the combined entity aims to enhance business processes within banks through improved service automation."
-      ],
-      "insight": "The acquisition is indicative of increasing demand for AI and intelligent digital transformation in banking operations globally. It also suggests that companies like ServiceNow are becoming integral partners, not just as software providers but also innovators influencing strategic financial decisions."
-    },
-    {
-      "title": "지란지교에스앤씨, 글로벌 AI 보안 솔루션 라인업 확대... 스텔스몰 단독 총판 및 X보우 파트너십 계약",
-      "link": "http://www.boannews.com/media/view.asp?idx=144809&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 10:40:00 +0900",
-      "description": "다크웹 위협 인텔리전스(StealthMole)부터 AI 자율 침투테스트(XBOW)까지… AI 기반 보안 포트폴리오 강화[보안뉴스 한세희 기자] 지란지교에스앤씨(대표 남권우)는 글로벌 AI 기반 보안 기업들과 협력을 확대하며 AI 보안 포트폴리오를 강화했다고 23일 밝혔다. 지란지교에스앤씨는 AI 기반 다크웹·딥웹 위협 인텔리전스 솔루션 스텔스몰(Stealt",
-      "language": "ko",
-      "summary": "다크웹 위협 인텔리전스(StealthMole)부터 AI 자율 침투테스트(XBOW)까지… AI 기반 보안 포트폴리오 강화[보안뉴스 한세희 기자] 지란지교에스앤씨(대표 남권우)는 글로벌 AI 기반 보안 기업들과 협력을 확대하며 AI 보안 포트폴리오를 강화했다고 23일 밝혔다. 지란지교에스앤씨는 AI 기반 다크웹·딥웹 위협 인텔리전스 솔루션 스텔스몰(Stealt",
-      "points": [
-        "지란지교에스앤씨는 AI 기반 다크웹·딥웹 위협 인텔리전스 솔루션 스텔스몰(Stealt",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "사상 최악 랜섬웨어 대란... ‘킬린’(Qilin) 올 한 해 1358곳 공격",
-      "link": "http://www.boannews.com/media/view.asp?idx=144806&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 10:29:00 +0900",
-      "description": "전 세계 피해 기업 7551곳으로 전년 대비 24.9%↑ 사상 최악 기록킬린, 전년 대비 443% 증가한 활동으로 가장 위협적인 카르텔 등극[보안뉴스 김형근 기자] 글로벌 보안 기업 블랙카이트 보고서에 따르면, 랜섬웨어 조직 ‘킬린’이 단일 조직 기준 최대 위협으로 부상했다. 피해 기업은 전년 대비 443% 폭증한 1358곳에 이른다. 글로벌 보안 기업",
-      "language": "ko",
-      "summary": "전 세계 피해 기업 7551곳으로 전년 대비 24. 9%↑ 사상 최악 기록킬린, 전년 대비 443% 증가한 활동으로 가장 위협적인 카르텔 등극[보안뉴스 김형근 기자] 글로벌 보안 기업 블랙카이트 보고서에 따르면, 랜섬웨어 조직 ‘킬린’이 단일 조직 기준 최대 위협으로 부상했다...",
-      "points": [
-        "전 세계 피해 기업 7551곳으로 전년 대비 24",
-        "9%↑ 사상 최악 기록킬린, 전년 대비 443% 증가한 활동으로 가장 위협적인 카르텔 등극[보안뉴스 김형근 기자] 글로벌 보안 기업 블랙카이트 보고서에 따르면, 랜섬웨어 조직 ‘킬...",
-        "피해 기업은 전년 대비 443% 폭증한 1358곳에 이른다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "안랩, ‘안랩 TIP’ API 전용 상품 출시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144804&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 09:20:00 +0900",
-      "description": "다양한 위협 정보를 API 형태로 제공이기종 연동, TI 조회 자동화, SOC 환경 고도화[보안뉴스 강현주 기자] 통합보안 기업 안랩(대표 강석균)은 차세대 위협 인텔리전스 플랫폼 ‘안랩 TIP’의 다양한 위협 정보를 애플리케이션 프로그래밍 인터페이스(API) 형태로 제공하는 ‘안랩 TIP API’(AhnLab TIP API)를 출시했다고 23일 밝혔다.",
-      "language": "ko",
-      "summary": "다양한 위협 정보를 API 형태로 제공이기종 연동, TI 조회 자동화, SOC 환경 고도화[보안뉴스 강현주 기자] 통합보안 기업 안랩(대표 강석균)은 차세대 위협 인텔리전스 플랫폼 ‘안랩 TIP’의 다양한 위협 정보를 애플리케이션 프로그래밍 인터페이스(API) 형태로 제공하는 ‘안랩 TIP API’(AhnLab TIP API)를 출시했다고 23일 밝혔다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "케냐 대통령 공식 웹사이트 해킹 당해... 비트코인 몸값 요구",
-      "link": "http://www.boannews.com/media/view.asp?idx=144805&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 09:18:00 +0900",
-      "description": "[보안뉴스 김형근 기자] 해킹 조직이 윌리엄 루토 케냐 대통령의 공식 웹사이트를 기습 침범해 메인 화면을 해커들의 메시지로 덮어씌우는 변조(Defacement) 공격을 감행했다.이들은 사이트 첫 화면에 5비트코인(약 33만달러) 수령용 암호화폐 지갑 주소를 내걸며 거액의 몸값을 요구했다.이들은 요구에 응하지 않을 경우 루토 대통령의 미공개 내부 자료를 외부",
-      "language": "ko",
-      "summary": "해킹 조직이 대통령의 웹사이트에서 5비트코인 주소를 내쳤을 때, 그들은 요구가 아니면 악으로 갈증을 내고했다.",
-      "points": [
-        "해킹 조직이 웹사이트 덮어씌움에 든 5비트코인 주소를 내쳤",
-        "요구로 마찬가지로 거액을 요구했다.",
-        0
-      ],
-      "insight": "해킹 조직이가 대통령의 웹사이트에서 거액을 요구했지만, 그들이 제공하지 않은 경우 내부 자료를 싸웠다는 보고작니다."
-    },
-    {
-      "title": "정부, 보안 특화 韓 독자 AI 모델 개발... 사업 공모 착수",
-      "link": "http://www.boannews.com/media/view.asp?idx=144803&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 23 Jul 2026 08:56:00 +0900",
-      "description": "“민관 협력으로 국내 인공지능과 보안기술 역량 결집”GPU 가용 자원 투입... 국내 1개 팀 선정[보안뉴스 강현주 기자] ‘미토스급’ 한국형 사이버 보안 특화 AI 파운데이션 모델을 개발한다는 정부의 계획이 실천에 옮겨진다. 과학기술정보통신부(부총리 겸 장관 배경훈)는 정보통신산업진흥원(NIPA, 원장 박윤규)과 함께 국내 인공지능과 보안기술 역량을 결집",
-      "language": "ko",
-      "summary": "국내 AI 모델을 개발하여 IT/보안업무 공모았음",
-      "points": [
-        "정부와 함께 AI를 개발한다.",
-        "국내 1회 팀이 선정되었음.",
-        "AI는 보안기술 역량 강화를 위해 사용됨."
-      ],
-      "insight": "AI로 IT/보안 관련 업무에 활용하여 국민을 지원하는 정부 전문가 기대"
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "language": "en",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily",
-      "points": [
-        "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI w...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
