@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-25T02:47:22.161Z",
+  "generatedAt": "2026-07-25T08:09:49.307Z",
   "articles": [
+    {
+      "title": "우분투 스냅-컨파인 취약점 발견... 일반 사용자도 루트 권한 획득 위험",
+      "link": "http://www.boannews.com/media/view.asp?idx=144838&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 25 Jul 2026 12:58:00 +0900",
+      "description": "[보안뉴스 김형근 기자] 리눅스 기반의 대표적인 오픈소스 운영체제 우분투 데스크톱24.04, 25.10, 26.04의 스냅-컨파인(snap-confine) 구성 요소에서 고위험 권한 상승 취약점(CVE-2026-8933)이 발견됐다. 이 결함은 우분투 시스템의 스냅-컨파인 바이너리가 샌드박스를 초기화하고 최소 권한 원칙을 적용하다 의도치 않은 레이스 컨디션",
+      "language": "ko",
+      "summary": "[보안뉴스 김형근 기자] 리눅스 기반의 대표적인 오픈소스 운영체제 우분투 데스크톱24. 04의 스냅-컨파인(snap-confine) 구성 요소에서 고위험 권한 상승 취약점(CVE-2026-8933)이 발견됐다...",
+      "points": [
+        "[보안뉴스 김형근 기자] 리눅스 기반의 대표적인 오픈소스 운영체제 우분투 데스크톱24",
+        "04의 스냅-컨파인(snap-confine) 구성 요소에서 고위험 권한 상승 취약점(CVE-2026-8933)이 발견됐다",
+        "이 결함은 우분투 시스템의 스냅-컨파인 바이너리가 샌드박스를 초기화하고 최소 권한 원칙을 적용하다 의도치 않은 레이스 컨디션"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "AI가 통제 벗어나면 정부가 중단... 美 하원 ‘킬스위치법’ 발의",
       "link": "http://www.boannews.com/media/view.asp?idx=144836&kind=&sub_kind=",
@@ -736,21 +751,6 @@
         "CISA recommends critical infrastructure sectors, including water and energy services to bolster their cybersecurity defenses in response to the threat"
       ],
       "insight": "The warning from CISA underscores that national security concerns now extend beyond traditional battlegrounds. Hackers' targets on American critical infrastructure have prompted a call for improved defense measures, making this an issue with implications far beyond IT and technology sectors."
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Jul 2026 17:07:35 +0000",
-      "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-      "language": "en",
-      "summary": "An AI-powered Media Router has been launched to help developers select the most suitable generative media model for their projects by considering factors like image/video quality and speed against cost.",
-      "points": [
-        "Media Router is an automated tool that aids in choosing appropriate generative models based on developer'curtaine priorities, such as balance between output quality, processing speed, or budget constraints.",
-        "The Media Router provides recommendations by analyzing various model options and their associated characteristics to find the best match for specific requirements.",
-        "This launch comes amid a growing demand in generative media content creation where finding optimal tools can significantly impact efficiency."
-      ],
-      "insight": "With increasing demands for high-quality, cost-effective, or rapid generation of digital media assets, industry players need efficient decision support systems like Media Router to streamline their workflows. This innovation could potentially become a pivotal tool in the burgeoning generative AI sector."
     }
   ]
 }
