@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-25T08:09:49.307Z",
+  "generatedAt": "2026-07-25T13:26:52.679Z",
   "articles": [
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "language": "en",
+      "summary": "An incident involving a power line falling near an AI data center in Northern Virginia exposed vulnerabilities within these facilities during power outages or disruptions.",
+      "points": [
+        "A fallen power line highlighted the lack of resilience for AI-centric and other critical IT infrastructures against grid disturbances, emphasizing the need to fortify their backup systems.",
+        "The incident prompts a reevaluation of current data center energy redundancies which are often designed without factoring in potential human error or equipment failure that can lead to outages like this one.",
+        "To prevent similar incidents from causing significant damage, it is essential for AI and technology facilities to invest more heavily into robust power protection solutions."
+      ],
+      "insight": "This event indicates a pressing need within the IT/technology industry to enhance data center infrastructure resilience against unforeseen outages that could impact critical operations, especially given their reliance on constant and reliable energy supply. Improved redundancy plans are crucial for safeguarding AI-driven assets from external grid vulnerabilities."
+    },
+    {
+      "title": "청와대 “앤트로픽, 美 당국과 미토스 오픈-폐쇄 모델 논의중”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144840&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 25 Jul 2026 18:24:00 +0900",
+      "description": "[보안뉴스 강현주 기자] ‘미토스 충격’이라 불리는 AI 사이버 공격 위협 관련, 개발사인 앤트로픽이 미국 규제 당국과 미토스 오픈-폐쇄 모델에 대해 논의 중이라고 청와대 측이 밝혔다. 김용범 청와대 정책실장은 미국 샌프란시스코에서 24일(현지시간) 열린 ‘샌프란시스코 AI 서밋’을 전후해 우리 정부와 앤트로픽 측이 사이버 보안 문제와 관련해 긴밀히 협의했",
+      "language": "ko",
+      "summary": "충격적인 AI 공격에 대한 민주통화, 미국 규제 당국과 미토스의 오픈-폐쇄 모델에 대한 진짜로 논의.",
+      "points": [
+        "앤트로픽이 미국 규제 당국과 미토스 오픈-폐쇄 모델에 대한 공격에 대해서는 '미토스 충격'라고 부르고, 정치적인 책잡이로 인해 중요한 문제.",
+        "샌프란시스코에서 현재 대화를 유도하고 공격에 대해 공지하고 있다.",
+        "정부와 이들의 논의는 보안과 비율을 위한 교통이다."
+      ],
+      "insight": "이러한 AI 공격 문제는 IT/기술 업체에서 많은 의미가 있다. 정보보안이 우리에게 중요하다는 것을 강조한다."
+    },
     {
       "title": "우분투 스냅-컨파인 취약점 발견... 일반 사용자도 루트 권한 획득 위험",
       "link": "http://www.boannews.com/media/view.asp?idx=144838&kind=&sub_kind=",
@@ -721,36 +751,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Jul 2026 18:38:34 +0000",
-      "description": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
-      "language": "en",
-      "summary": "AegisAI has raised a $36M series A round with investment from former Google security experts and Battery Ventures. The startup's goal is to combat the rise of sophisticated cyberattacks using artificial intelligence.",
-      "points": [
-        "Founded by former Google execs, AegisAI specializes in fighting advanced spear phishing attacks",
-        "Secured $36M Series A funding led by Battery Ventures and Alphabet’s GV",
-        "Aims to provide a defense against cyberattacks leveraging machine learning"
-      ],
-      "insight": "The significant investment in AegisAI highlights the industry's increasing concern over sophisticated spear phishing attacks that are becoming harder to detect, emphasizing the necessity for advanced solutions backed by substantial funding and expertise."
-    },
-    {
-      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
-      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 23 Jul 2026 17:27:08 +0000",
-      "description": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
-      "language": "en",
-      "summary": "The US Cybersecurity & Infrastructure Security Agency (CISA) has updated its advisory to warn that Iranian hackers are targeting systems used by American water and energy providers.",
-      "points": [
-        "Iran-linked cyber threat actors have been exploiting the network of a U.improved security measures for critical infrastructure sectors, including water and energy services in response to Iranian hackers' attempts at disruption",
-        "The US government has released updated advisories from CISA warning that these hackers are not only targeting but also exploiting systems used by American organizations.",
-        "CISA recommends critical infrastructure sectors, including water and energy services to bolster their cybersecurity defenses in response to the threat"
-      ],
-      "insight": "The warning from CISA underscores that national security concerns now extend beyond traditional battlegrounds. Hackers' targets on American critical infrastructure have prompted a call for improved defense measures, making this an issue with implications far beyond IT and technology sectors."
     }
   ]
 }
