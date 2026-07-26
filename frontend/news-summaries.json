@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-26T13:18:21.205Z",
+  "generatedAt": "2026-07-26T19:09:49.017Z",
   "articles": [
+    {
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 26 Jul 2026 17:03:19 +0000",
+      "description": "How one founder house is betting work-life balance can beat burnout .",
+      "language": "en",
+      "summary": "A London startup hub named Founder House prioritizes employee wellbeing to prevent burnout and promote a healthy work-life balance.",
+      "points": [
+        "Founder House emphasizes the importance of maintaining personal hobbies, exercise routines, meditation practices, time with family or friends even when working on startup projects in London",
+        "The company believes that ensuring employees have a well-rounded life outside work will improve productivity and reduce burnout rates.",
+        "Founder House offers various programs to support its staff'thy health including 'Family Time Fridays,' mandatory exercise breaks, meditation sessions before meetings begin."
+      ],
+      "insight": "This model shows that fostering a positive work environment focused on employee wellbeing could lead to increased productivity and creativity within the technology sector. It may prompt other tech companies in London to follow suit for better staff retention rates and overall success of their businesses."
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "language": "en",
+      "summary": "Hugging Face CEO demands 'radical transparency' following OpenAI hack; the incident has sparked concerns over AI safety and security.",
+      "points": [
+        "OpenAI was hit by a significant cyberattack, prompting calls for increased openness within its organization",
+        "The company faces scrutiny regarding potential biases in AI systems that could have wider societal impacts",
+        "There are concerns about the implications of these issues on data privacy and security"
+      ],
+      "insight": "This hack at OpenAI emphasizes the need for transparency, rigorous safety protocols, and robust cybersecurity measures within AI organizations to maintain public trust."
+    },
+    {
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 26 Jul 2026 16:03:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "language": "en",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it",
+      "points": [
+        "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ev...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "개인정보 유출 조사에 평균 8개월... “중대 사건에 인력 집중”",
       "link": "http://www.boannews.com/media/view.asp?idx=144843&kind=&sub_kind=",
@@ -706,51 +751,6 @@
         "이로써 미국 하원은 보안론 정치로부터 없는 거래에 대해서, 민족 민간과 정부 간의 사이버 위협 정보 공유에 대한 1 enduring authorization act를 찬성하고 있다."
       ],
       "insight": "최근에는 세계 미국 상공기대가 사이버 위협을 행동한 경우가 많아지고 있었다. 이로써 보안론 정치로부터의 거래에 대해서, 민족 민간과 정부 간의 사이버 위협 정보 공유에 대한 10년 연장안을 포함하고 있다. 이로써 NDAA를 통과한다."
-    },
-    {
-      "title": "올해 코드게이트 최정상 해커는 ‘BunkyoWesterns’와 ‘김준원’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144827&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 24 Jul 2026 11:53:00 +0900",
-      "description": "코드게이트 2026, 88개국 3333명 참가AI 해커도 본선 초청 선수로 참가[보안뉴스 강현주 기자] 올해 코드게이트 최정상 해커는 일본의 ‘BunkyoWesterns’(일반부)와 한국의 ‘김준원’(주니어부)이다. 과학기술정보통신부(부총리 겸 장관 배경훈)는 세계적인 실력의 화이트해커를 발굴하고 최신 보안기술 동향을 전파하는 국제해킹방어대회 & 보안 컨퍼",
-      "language": "ko",
-      "summary": "2026년 코드게이트 해커는 일본의 'BunkyoWesterns'과 한국의 '김준원'으로 합류함",
-      "points": [
-        "2026년 코드게이트에서 한국의 '김준원'와 일본의 'BunkyoWesterns'가 해커를 통과",
-        "김준원은 IT/보안 기술 전문가이고 BunkyoWesterns은 기초화학과 학위자에서 AI를 공부한 경륜자입니다",
-        "해커가 모여야 큰 비교와 연결이나 역사와는 무의지성합니다"
-      ],
-      "insight": "현재 IT/보안 업체에서 AI 컨볼레이터가 중요하며, '김준원'과 'BunkyoWesterns'의 합격은 이러한 업무에 대한 필수적인 기능을 제공함을 의미합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 72] 등잔 밑이 어둡다(2)-공유기 비밀번호 안 바꾸면 생기는 일",
-      "link": "http://www.boannews.com/media/view.asp?idx=144224&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 24 Jul 2026 11:04:00 +0900",
-      "description": "공유기(Wi-Fi) 비밀번호를 반드시 설정하고, 관리자 비번도 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵",
-      "language": "ko",
-      "summary": "공유기(Wi-Fi) 비밀번호를 반드시 설정하고, 관리자 비번도 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
-      "points": [
-        "공유기(Wi-Fi) 비밀번호를 반드시 설정하고, 관리자 비번도 변경하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
-        "그래서 우리는 기술보다 습관을 배워야 한다",
-        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 샌즈랩 MNX, NDR 넘어 CTI·개인정보 유출 탐지까지 통합 지원",
-      "link": "http://www.boannews.com/media/view.asp?idx=144817&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 24 Jul 2026 11:01:00 +0900",
-      "description": "NDR·CTI·개인정보 유출 탐지를 하나의 보안 운영 흐름으로 연계비용 효율성과 운영 편의성 강화[보안뉴스 강초희 기자] 샌즈랩은 사이버 위협 인텔리전스와 네트워크 보안 기술을 기반으로 성장해온 보안 전문 기업이다. 자체 수집·분석한 위협 데이터를 바탕으로 CTI, NDR, 개인정보 유출 탐지 등 다양한 보안 영역에서 기업과 기관의 보안 운영 효율을 높이는",
-      "language": "ko",
-      "summary": "샌즈랩 MNX가 광고와 보안 서비스를 통합 시, IT/기술 업계에서의 운영 편의성과 보안 영역 강화",
-      "points": [
-        "샌즈랩 MNX는 전문가들로부터 수집된 위협 데이터를 기반으로 CTI, NDR, 개인정보 유출 탐지 등을 합니다.",
-        "샌즈랩는 IT/기술 업계의 보안 영역에서 시장 대비를 위해 이전 발칭된 IT/기술 기술을 활용합니다.",
-        "이 연구를 통해 샌즈랩 MNX은 IT/기술 업계의 보안 영역 강화 과정에서 중요한 경량을 얻을 수 있습니다."
-      ],
-      "insight": "이 기사는 IT/기술 업계가 개인정보 위협으로 이어지던 현상을 대안적으로 대체함으로써 CTI, NDR, 개인정보 유출 탐지를 위한 전문능 보안 시스템을 제공하고자 한다."
     }
   ]
 }
