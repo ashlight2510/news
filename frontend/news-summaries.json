@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-27T10:02:11.236Z",
+  "generatedAt": "2026-07-27T14:32:00.350Z",
   "articles": [
+    {
+      "title": "Snapchat now lets you share what you’re listening to in real time",
+      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "description": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+      "language": "en",
+      "summary": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "description": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "language": "en",
+      "summary": "Enigma Labs has secured $70 million in funding to simplify robot control via volume dial-like interfaces and machine learning algorithms.",
+      "points": [
+        "Enigma received a $70 million seed round led by Index Ventures and Ribbit Capital, with Conviction Partners also participating",
+        "The company's goal is to make controlling robots as intuitive as adjusting the volume on your device through its Volume dial technology.",
+        "Enigma intends to develop an easy-toinfluence robot interface that utilizes machine learning algorithms."
+      ],
+      "insight": "This significant funding and innovative control method could revolutionize human-robot interactions, making robots more accessible for everyday tasks by simplifying their operation through intuitive interfaces akin to volume controls on devices. This approach has the potential to expand robot adoption across various industries."
+    },
+    {
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
+      "language": "en",
+      "summary": "Europe's TBPN-style live show secured $1.6 million in funding and announced plans for significant growth.",
+      "points": [
+        "TBPN raised $1.6 million with backing from major media firms, angel investors, OpenAI, and DeepMind",
+        "The network is expanding to become Europe's first live show platform focused on tech news"
+      ],
+      "insight": "This development suggests that there is a strong demand for real-time coverage of the technology sector in European markets. The backing by such prominent investors also indicates confidence in TBPN's ability to capture and retain audience interest."
+    },
     {
       "title": "국제AX연구회, 첫 정기 워크샵 개최... AI 전환 확산 위한 산학연 협력 본격화",
       "link": "http://www.boannews.com/media/view.asp?idx=144882&kind=&sub_kind=",
@@ -704,53 +748,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 24 Jul 2026 16:11:56 +0000",
-      "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "language": "en",
-      "summary": "Startup World led by Sam Altman is raising $52.5M via cryptocurrency to support its biometric identification technology that uses eye scans.",
-      "points": [
-        "Sam Altman's startup, World, has raised a significant amount through crypto funding for their unique ID system using eyeball scanning",
-        "The company plans to scan all of the world’s eyes and create digital identifiers that can unlock devices or personalize experiences without traditional passwords.",
-        "World's biometric technology promises convenience, security, privacy protection by creating non-reversible keys from eye data"
-      ],
-      "insight": "The development of World’s secure and user-friendly authentication method may significantly disrupt the current password-based system in IT/technology industry."
-    },
-    {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 24 Jul 2026 15:51:49 +0000",
-      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "language": "en",
-      "summary": "US tech companies including Nvidia urge against wide bans on China's open-weight AI models amid discussions of response to Chinese technology advancenzes and model distillation concerns.",
-      "points": [
-        "US policymakers are considering responses to the technological developments in China, particularly regarding artificial intelligence (AI).",
-        "Companies such as Nvidia and Mistral have voiced their concern against broad restrictions on open-weight AI models which they fear could harm competitiveness.",
-        "The issue of model distillation — where a less complex but effective model is created by using information from more sophisticated ones — also plays into the debates and concerns."
-      ],
-      "insight": {
-        "Insight": "This news suggests that in response to Chinese AI advancements, policymakers will have a significant impact on international competitiveness if they impose broad restrictions. The tech industry warns these could backfire and harm their own interests."
-      }
-    },
-    {
-      "title": "Rivian sues the US government for ‘full refund’ of Trump tariffs",
-      "link": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 24 Jul 2026 15:16:31 +0000",
-      "description": "The automaker joins a long line of companies seeking such refunds. In April, Rivian CFO Claire McDonough said she expected the company stood to reap a refund in the \"tens of millions of dollars.\"",
-      "language": "en",
-      "summary": "Rivian sued for Trump tariff refunds seeks tens of millions from US government.",
-      "points": [
-        "Automaker Rivian files lawsuit seeking full refund on Trump tariffs imposed in November and December. CFO expects the company stands to reap a refund in the 'tens of millions of dollars.'",
-        "The case against is backed by Internal Revenue Service (IRS) audit findings that could favor Rivian's claim for credits.",
-        "Rivian and other companies have sought such tariff compensation before, but this stands as the largest request made thus far."
-      ],
-      "insight": "The outcome of Rivian's case against Trump tariffs may set a significant precedent in how future governments handle economic policies affecting industries like automotive manufacturing and could influence international trade agreements. If successful, it might encourage other affected companies to seek refunds or exemptions for similar situations."
     }
   ]
 }
