@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-07-29T02:44:05.700Z",
+  "generatedAt": "2026-07-29T08:54:30.747Z",
   "articles": [
+    {
+      "title": "[ISEC 2026 미리보기] 화이트디펜더, AI 시대 랜섬웨어 대응 새로운 기준",
+      "link": "http://www.boannews.com/media/view.asp?idx=144903&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 16:59:00 +0900",
+      "description": "행위 기반 탐지와 SaaS 통합관리[보안뉴스 강현주 기자] 에브리존은 안티랜섬웨어 화이트디펜더(WhiteDefender)와 새롭게 출시한 서비스형 소프트웨어(SaaS) 기반 화이트디펜더 플랫폼(WhiteDefender Platform)을 선보인다. 최근 랜섬웨어는 AI 기술을 활용해 공격 속도와 정교함을 빠르게 높여가고 있다. 공격자는 생성형 AI를 이용해",
+      "language": "ko",
+      "summary": "행위 기반 탐지와 SaaS 통합관리[보안뉴스 강현주 기자] 에브리존은 안티랜섬웨어 화이트디펜더(WhiteDefender)와 새롭게 출시한 서비스형 소프트웨어(SaaS) 기반 화이트디펜더 플랫폼(WhiteDefender Platform)을 선보인다. 최근 랜섬웨어는 AI 기술을 활용해 공격 속도와 정교함을 빠르게 높여가고 있다...",
+      "points": [
+        "행위 기반 탐지와 SaaS 통합관리[보안뉴스 강현주 기자] 에브리존은 안티랜섬웨어 화이트디펜더(WhiteDefender)와 새롭게 출시한 서비스형 소프트웨어(SaaS) 기반 화이트...",
+        "최근 랜섬웨어는 AI 기술을 활용해 공격 속도와 정교함을 빠르게 높여가고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] XBOW, 자율 모의해킹으로 보안 검증의 기준 다시 쓰다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144879&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 16:56:00 +0900",
+      "description": "인간의 한계를 넘어서는 AI[보안뉴스 엄호식 기자] AI 에이전트가 인간 화이트해커를 제치고 글로벌 버그바운티 정상에 오른 사건은, 애플리케이션 보안이 새로운 국면에 접어들었음을 알리는 신호였다. 2025년 HackerOne 전미 랭킹 1위를 기록한 주인공은 사람이 아닌 XBOW의 AI 에이전트였다.’탐지’에서 ‘검증’으로XBOW는 웹 애플리케이션과 API",
+      "language": "ko",
+      "summary": "AI 에이전트 XBOW이 인간의 보안을 위해 개선한 웹애플리케이션, API를 제공하여 결국적으로 보안 기준을 다시 능숴화함을 나타냄",
+      "points": [
+        "XBOW은 AI를 이용한 보안 업계에서 새로운 기능의 도움이다.",
+        "HackerOne 게시판에서 XBOW는 2025년 미리보고 1위를 차지했다.",
+        "XBOW은 인간을 대체하여 보안 모의해를 제공한다."
+      ],
+      "insight": "딱 정말로 AI가 보안 업계에서 탈세대로 인삿중이고 있는 경우, XBOW의 성공한 방식은 게시판과 인기를 둔다."
+    },
+    {
+      "title": "허깅페이스 해킹 ‘AI 안전’ 경종... “가드레일 의존말고 ‘기본’ 충실”",
+      "link": "http://www.boannews.com/media/view.asp?idx=144928&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 16:46:00 +0900",
+      "description": "“AI 자기 통제 한계”... 인증 보안 등 기본 탄탄해야“프롬프트 조작으로 페이블5 가드레일 탈옥 성공”[보안뉴스 강현주 기자] 오픈AI의 ‘GPT-5.6’이 샌드박스를 스스로 뚫고 나와 오픈소스 AI 공유 플랫폼 ‘허깅페이스’를 해킹한 사건은 AI 모델의 ‘안전장치’ 의존에 대한 경종을 울리고 있다. 29일 보안 전문가들 사이에서는 “인간 해커보다 훨씬",
+      "language": "ko",
+      "summary": "“AI 자기 통제 한계”. 인증 보안 등 기본 탄탄해야“프롬프트 조작으로 페이블5 가드레일 탈옥 성공”[보안뉴스 강현주 기자] 오픈AI의 ‘GPT-5...",
+      "points": [
+        "인증 보안 등 기본 탄탄해야“프롬프트 조작으로 페이블5 가드레일 탈옥 성공”[보안뉴스 강현주 기자] 오픈AI의 ‘GPT-5",
+        "6’이 샌드박스를 스스로 뚫고 나와 오픈소스 AI 공유 플랫폼 ‘허깅페이스’를 해킹한 사건은 AI 모델의 ‘안전장치’ 의존에 대한 경종을 울리고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] 빈번한 해킹으로 ‘공유재산’이 되어버린 ‘개인정보’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144929&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 16:38:00 +0900",
+      "description": "최근 개인정보 유출 사례의 핵심은 수법의 다양화와 비대면 채널의 취약성크리덴셜스터핑 및 금융 및 투자 사기 연계형 유출 사례가 급증[보안뉴스= 배종찬 인사이트케이 연구소장] 디지털 대전환 시대를 살아가는 현대인에게 개인정보는 단순한 식별 수단을 넘어 자산이자 신분 그 자체로 여겨진다. 하지만 최근 연이어 들려오는 대규모 유출 소식들은 우리의 신분 지도가 얼",
+      "language": "ko",
+      "summary": "기사는 개인정보가 우리의 신분 지도로 환영될 수 s를 주었다.",
+      "points": [
+        "- 수법의 다양화와 비대면 채널의 취약성에서 개인정보를 강력히 탄출",
+        "- 금융 및 투자 사기 연곀 유출 없이 개인정보는 공유재산이 되어나",
+        "- IT/기술 업체에서 개인정보의 중요성을 강조함"
+      ],
+      "insight": "IT/기술 업체가 개인정보를 보호하고자 한다면, 이러한 문제점에 대비해서 실습코드를 통해 개인정보 안전성을 유지하는 방법을 고민해야 함."
+    },
+    {
+      "title": "[해킹을 결제하시겠습니까?] #10. 새 체크카드 등록 후 5분, 해킹은 여기서 갈린다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144870&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 14:43:00 +0900",
+      "description": "새 체크카드 수령 후 필수 보안 점검금융사기 예방 위한 기본 설정 체크리스트[보안뉴스 강초희 기자] 새 체크카드를 받으면 대부분 비밀번호 등록만 마친 뒤 바로 사용한다. 하지만 카드도 스마트폰처럼 ‘초기 설정’이 필요하다. 해외결제와 결제 알림, 사용 한도 등 기본 보안 설정을 확인하지 않으면 카드 정보 유출이나 부정 사용 발생 시 피해가 커질 수 있다.",
+      "language": "ko",
+      "summary": "기사는 비밀번호 등을 확보하지 않거나 설정이 되어있지 않은 새 체크카드를 사용한다는 주장에 대해 언급한다.",
+      "points": [
+        "새 체크카드를 받으면 잘 설정하지 않을 수 0 최소.",
+        "기본 보안 설정이 필요하며, 그 외사용 위대한 접근은 방해가 되어 있다.",
+        "비밀번호 등을 보장하지 않아도 정신없는 별로만 사용할 수 없다."
+      ],
+      "insight": "기사는 새 체크카드 감마를 잘하지 못한다는 주장에 대해 강조하고 있으며, 비밀번호 등을 확보하지 않아도 직접 사용이 어렵다는 것을 강조한다."
+    },
+    {
+      "title": "“보안사고 83% AI 악용” 기가몬, 2026 보안 보고서 발표",
+      "link": "http://www.boannews.com/media/view.asp?idx=144920&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 14:07:00 +0900",
+      "description": "글로벌 IT 조직 1023명 대상 조사 결과, 65% 침해 사고 경험투자와 효용감의 간극 짚은 ‘AI 보안 착시’ 현상... 심층 가시성 필요해[보안뉴스 조재호 기자] 지난 1년간 보안 침해 사고를 경험한 기업 10곳 중 8곳 이상(83%)에서 AI가 관련된 위협이 발생한 것으로 드러나, AI 기술 이면에 도사린 보안 리스크가 현실화되고 있다. 공격자들은",
+      "language": "ko",
+      "summary": "글로벌 IT 조직 1023명 대상 조사 결과, 65% 침해 사고 경험투자와 효용감의 간극 짚은 ‘AI 보안 착시’ 현상. 심층 가시성 필요해[보안뉴스 조재호 기자] 지난 1년간 보안 침해 사고를 경험한 기업 10곳 중 8곳 이상(83%)에서 AI가 관련된 위협이 발생한 것으로 드러나, AI 기술 이면에 도사린 보안 리스크가 현실화되고 있다",
+      "points": [
+        "글로벌 IT 조직 1023명 대상 조사 결과, 65% 침해 사고 경험투자와 효용감의 간극 짚은 ‘AI 보안 착시’ 현상",
+        "심층 가시성 필요해[보안뉴스 조재호 기자] 지난 1년간 보안 침해 사고를 경험한 기업 10곳 중 8곳 이상(83%)에서 AI가 관련된 위협이 발생한 것으로 드러나, AI 기술 이면...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "이노뎁, 울산 CCTV 8942대 AI 전환 사업 수주",
+      "link": "http://www.boannews.com/media/view.asp?idx=144922&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 13:49:00 +0900",
+      "description": "국내 최초 지자체 관제센터 국산 NPU 도입으로 AI 시티 전환 선도모델 구축 울산시청·5개 구·군 통합하며 도시 전역을 연결하는 지능형 관제환경 조성 전국 127개 지자체 고객 기반으로 후속 수주·반복 매출 확대 기대[보안뉴스 엄호식 기자] AI 기반 영상관제 플랫폼 전문기업 이노뎁(대표 이성진)이 울산광역시가 추진하는 ‘공공 AI CCTV 전환사업’을",
+      "language": "ko",
+      "summary": "울산시 이노뎁가 CCTV 8942대에서 AI를 도입한, 국산 NPU로 관제환경을 조성함으로ced.",
+      "points": [
+        "이노뎁이 CCTV 8942대에서 AI를 도임, 국산 NPU으로 관제조치",
+        "확대받은 수주를 재미와 가격점을 통해 유지보수, 계좌는 수상이 된다.",
+        "다니민 집단과 국세인교육자를 동입어 현재 울산시 관제를 업데이트한다."
+      ],
+      "insight": "이노뎁이의 AI 적용에서 보완해야하는 IT/기술 업계에서는, 인нова심과 관광사업로 플랫폼을 더욱 유명시켜야한다."
+    },
+    {
+      "title": "포티넷, 하이브리드 융합 방화벽 ‘포티게이트 1200G’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144917&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 13:36:00 +0900",
+      "description": "클라우드·온프레미스 보안 정책 적용한 ‘포티SASE 아웃포스트’ 지원자체 아키텍처 적용해 방화벽 처리량 397Gbps, 에너지 효율 5.6배 극대화[보안뉴스 조재호 기자] 포티넷이 하이브리드 인프라 환경에 최적화된 G 시리즈 신제품 ‘포티게이트 1200G’(FortiGate 1200G) 방화벽과 ‘포티SASE 아웃포스트’(FortiSASE Outpost)",
+      "language": "ko",
+      "summary": "게시사이트 '비대치인테그'에서 포티넷이 하이브리드 융합 방화벽을 공개한 1200G 시리즈로, FortiSASE Outpost를 통해 컴퓨터 인증서(X.509) 보안에 강점을 제공한다.",
+      "points": [
+        "- '포티게이트 1200G'는 397Gbps 방화벽으로 하이브리드 컴퓨터를 보호합니다.",
+        "- 'FortiSASE Outpost'는 X.509 보안서네CT로 인증서를 공급하여, 방화벽에 대한 모바일 보안을 강화합니다.",
+        "- 세부사전제한은 없이 비대치적으로 보호가능하고 효율적으로 계약할 수 있습니다."
+      ],
+      "insight": "이러한 시리즈와 아키텍체는 하이브리드 기반 방화벽에서 보안과 성공을 확인할 수 있습니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 78리서치랩, 우리 회사 보안 정말 안전할까? 자동화된 실전 공격 시뮬레이션으로 완벽 검증",
+      "link": "http://www.boannews.com/media/view.asp?idx=144880&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 13:34:00 +0900",
+      "description": "자동화된 실전 공격 시뮬레이션으로 보안시스템 완벽 검증 및 대응[보안뉴스 엄호식 기자] 78리서치랩(78ResearchLab)은 우수한 오펜시브 시큐리티 연구인력이 모인 사이버 보안 스타트업이다. 기업과 국가기관, 연구소에 OS/SW, 자동차/IoT 장비, 블록체인 등 핵심 분야의 보안 취약점 분석 서비스를 제공하며, 정보보호 솔루션, 모의해킹, 교육까지",
+      "language": "ko",
+      "summary": "자동화된 실전 공격 시뮬레이션으로 보안시스템 완벽 검증 및 대응[보안뉴스 엄호식 기자] 78리서치랩(78ResearchLab)은 우수한 오펜시브 시큐리티 연구인력이 모인 사이버 보안 스타트업이다. 기업과 국가기관, 연구소에 OS/SW, 자동차/IoT 장비, 블록체인 등 핵심 분야의 보안 취약점 분석 서비스를 제공하며, 정보보호 솔루션, 모의해킹, 교육까지",
+      "points": [
+        "자동화된 실전 공격 시뮬레이션으로 보안시스템 완벽 검증 및 대응[보안뉴스 엄호식 기자] 78리서치랩(78ResearchLab)은 우수한 오펜시브 시큐리티 연구인력이 모인 사이버 보...",
+        "기업과 국가기관, 연구소에 OS/SW, 자동차/IoT 장비, 블록체인 등 핵심 분야의 보안 취약점 분석 서비스를 제공하며, 정보보호 솔루션, 모의해킹, 교육까지",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 한국마이크로소프트, AI 시대 ‘AI-퍼스트’ 엔드투엔드 보안 전략으로 새로운 보안 패러다임 제",
+      "link": "http://www.boannews.com/media/view.asp?idx=144878&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 29 Jul 2026 13:32:00 +0900",
+      "description": "ISEC 2026서 다계층 통합보안 솔루션 공개100여 개 AI 에이전트로 취약점 발굴하는 MDASH 기술 강조[보안뉴스 엄호식 기자] 한국마이크로소프트는 AI 시대에 최적화된 새로운 보안 패러다임과 ‘AI-퍼스트 엔드투엔드 보안 전략을 발표한다. AI 기술이 기업 전반으로 빠르게 확산되면서 보안 환경 역시 근본적인 변화를 맞이하고 있다. 마이크로소프트는",
+      "language": "ko",
+      "summary": "ISEC 2026서 다계층 통합보안 솔루션 공개100여 개 AI 에이전트로 취약점 발굴하는 MDASH 기술 강조[보안뉴스 엄호식 기자] 한국마이크로소프트는 AI 시대에 최적화된 새로운 보안 패러다임과 ‘AI-퍼스트 엔드투엔드 보안 전략을 발표한다. AI 기술이 기업 전반으로 빠르게 확산되면서 보안 환경 역시 근본적인 변화를 맞이하고 있다",
+      "points": [
+        "ISEC 2026서 다계층 통합보안 솔루션 공개100여 개 AI 에이전트로 취약점 발굴하는 MDASH 기술 강조[보안뉴스 엄호식 기자] 한국마이크로소프트는 AI 시대에 최적화된 새...",
+        "AI 기술이 기업 전반으로 빠르게 확산되면서 보안 환경 역시 근본적인 변화를 맞이하고 있다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "안랩, 올 상반기 영업익 62% 상승... 해외·N2SF 사업 선전 힘입어",
       "link": "http://www.boannews.com/media/view.asp?idx=144919&kind=&sub_kind=",
@@ -600,156 +750,6 @@
         "With SpaceX acquisition closing on schedule by mid-2023 and India firmly in its expansion plans as third largest market globally"
       ],
       "insight": "Cursor's strategic move into a larger portion of the Indian IT industry, alongside their global ambitions with the SpaceX merger, indicates both companies are making robust moves to capitalize on growth opportunities within this rapidly expanding market."
-    },
-    {
-      "title": "‘파수 DSPM’ 지원 확대... 원드라이브·쉐어포인트·아웃룩·슬랙까지",
-      "link": "http://www.boannews.com/media/view.asp?idx=144897&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 13:21:00 +0900",
-      "description": "다양한 업무 환경에서 산재된 데이터를 통합 관리[보안뉴스 강현주 기자] 파수 AI(대표 조규곤)는 멀티클라우드 데이터 보안 태세 관리 솔루션 ‘파수 DSPM’(Fasoo DSPM)의 클라우드 저장소 및 서비스형 소프트웨어(SaaS) 애플리케이션 지원을 확대한다고 28일 밝혔다. 이번 업데이트로 대다수 기업들이 사용하는 주요 앱들을 지원해, 다양한 업무 환경",
-      "language": "ko",
-      "summary": "기사는 '파수 DSPM' 이용을 강화하여 IT/기술 업체에서 데이터 보안과 관련된 앱들의 지원를 확대한다.",
-      "points": [
-        "파수 DSPM(Fasoo DSPM)는 산재된 다양한 업무 환경에서 착용되고, 기술가이드를 제공하여 IT/기술 업체에서 사용되는 주요 앱을 지원한다.",
-        "이러한 DSPM(Data Security Protection Management) 소프트웨어는 보안, 관리 및 관리 테이터의 핵심 부위를 처리하여 IT/기술 업체에서 근본으로 더졌다.",
-        "황급한 확장을 보장하기 위해, 마치 이전보다 그만큼 강화한 DSPM 저장소를 지원한다."
-      ],
-      "insight": "이러한 데이터 보안 관리 서비스와 IT/기술 업체의 필요성은 현재에도 상당하다고 판단할 수 있다. '파수 DSPM'는 이제껏 데이터 보안에 기여하는 IT/기술 서비스가 꼭 중요하다."
-    },
-    {
-      "title": "라우터와 컨트롤러 통합, 라이선스 없는 클라우드 관리로 구축 부담과 운영 비용 절감",
-      "link": "http://www.boannews.com/media/view.asp?idx=144874&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 11:14:00 +0900",
-      "description": "Omada, Fusion 라우터 시리즈로 SMB 네트워크 운영의 새로운 기준 제시[보안뉴스 엄호식 기자] 기업 네트워크 환경이 빠르게 변화하고 있다. 무선 네트워크는 Wi-Fi 7과 멀티 기가비트 환경으로 진화하고 있으며, 하나의 사업자가 여러 매장과 사무실을 운영하는 멀티 사이트 환경도 늘어나고 있다. 이에 따라 네트워크 성능뿐만 아니라 구축 과정과 운영",
-      "language": "ko",
-      "summary": "라우터와 컨트로이 통합, 라이선스 없는 클라우드 관리로 구축 부담과 운영 비용 절감",
-      "points": [
-        "라우터 시리즈를 SMB 네트워크 운영에 도전하여",
-        "구축 부담과 운영 비용 절감을 위해",
-        0
-      ],
-      "insight": "라우터와 컨트로이는 IT 네트워크에서의 새로운 기술으로, 일상을 최소화시키고 수요일보다 저렇게 빨리 전문적으로 제공하는 이를 '라이선스 없는 클라우드 관리'로 정의한다."
-    },
-    {
-      "title": "[ISEC 20226 미리보기] 스패로우, AI 시대의 SW 공급망 보안 체계 구축 방안 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144863&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 11:11:00 +0900",
-      "description": "AI 생성 코드부터 SBOM 기반 공급망 관리까지 SW 공급망 보안 강화 위한 제품 전시SW 공급망 보안 로드맵 발맞춰, 보안 역량 강화할 수 있도록 공급망 보안 솔루션 고도화 예정[보안뉴스 한세희 기자] 스패로우는 소스코드 보안약점 분석(SAST), 소프트웨어 구성 요소 분석(SCA), 웹 애플리케이션 취약점 동적 분석(DAST) 등 소프트웨어 개발 생명",
-      "language": "ko",
-      "summary": "스패로우가 제안한 공급망 보안 솔루션은 SW 공급망의 보안적용 위치를 정확하게 인식하여 강화하고, SBOM 기반 보안 시스템을 사용하는 방안을 제시한다.",
-      "points": [
-        "공급망 보안에서는 소스코드 분석, 소프트웨어 구조, 접근성으로 SW 보안 방식을 개선",
-        "기사가 제시한 SBOM 기반 공급망 보안 시스템이 전반적인 SW 보안에 도움려는 방식을 다음과 같은 세부적인 방식으로 설명한다.",
-        "스패로우의 공급망 보안 제시는 SW 애플리케이션 취약점을 식별하고 SBOM를 활용해 보안 기능을 통합한다."
-      ],
-      "insight": "스패로우의 공급망 보안 제시는 SW 애플리케이션 광고염의 일부이지만, SBOM를 활용하여 SW 보안을 통합시키는 방식은 IT/기술 업계에서 매우 중요한 인사이트다."
-    },
-    {
-      "title": "[ISEC 20226 미리보기] 사이버다임, 문서중앙화로 완성하는 ‘Safe AI’ 핵심 전략",
-      "link": "http://www.boannews.com/media/view.asp?idx=144861&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 11:08:00 +0900",
-      "description": "‘AI 사용자 2000만 시대’ 데이터 유출 위협에 사전 대응 방안리스크 방어부터 안전한 ‘AI Data Platform’ 구축까지[보안뉴스 한세희 기자] 문서중앙화 솔루션 분야 국내 1위 기업 사이버다임은 8월 11일(화)부터 12일(수)까지 서울 코엑스에서 열리는 ‘ISEC 2026’(제20회 국제 시큐리티 콘퍼런스)에서 세션 발표에 나선다고 밝혔다.",
-      "language": "ko",
-      "summary": "이 기사는 AI 보안을 위한 핵심 전략 'Safe AI'를 제공하고, ISEC 2026에서 세션 발평을 기다리고 자격적으로 등산할 수 있도록 AI Data Platform의 제안.",
-      "points": [
-        "- ISEC 2026에서 'Safe AI'를 세션 받게 기대됨",
-        "- AI Data Platform는 AI 공개로 한정된, 보안에 대한 이식성을 가지고 있다고 주장",
-        "- ISEC 2026에서 'Safe AI'에 관심을 유도할 수 있음"
-      ],
-      "insight": "이 뉴스는 IT/기술 업계 사내에서의 AI 보안에 중요한 내용을 제공하고, 'Safe AI'를 세션에서 다듬어야 함"
-    },
-    {
-      "title": "KAIST, 국내 유일 마이크로소프트 AI 안전성 연구팀에 선정",
-      "link": "http://www.boannews.com/media/view.asp?idx=144891&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 10:38:00 +0900",
-      "description": "손수엘 전산학부 교수, 마이크로소프트 AI 레드팀 참여[보안뉴스 강현주 기자] 생성형 AI가 산업과 사회 전반으로 빠르게 확산되면서 AI의 안전성과 보안성을 확보하는 기술이 새로운 핵심 경쟁력으로 떠오르고 있다. 이 가운데 한국과학기술원(KAIST, 총장 배충식)이 국내에서는 유일하게 마이크로소프트의 글로벌 AI 안전성 연구 프로그램에 선정돼 차세대 AI",
-      "language": "ko",
-      "summary": "손수엘 전산학부 교수, 마이크로소프트 AI 레드팀 참여[보안뉴스 강현주 기자] 생성형 AI가 산업과 사회 전반으로 빠르게 확산되면서 AI의 안전성과 보안성을 확보하는 기술이 새로운 핵심 경쟁력으로 떠오르고 있다. 이 가운데 한국과학기술원(KAIST, 총장 배충식)이 국내에서는 유일하게 마이크로소프트의 글로벌 AI 안전성 연구 프로그램에 선정돼 차세대 AI",
-      "points": [
-        "손수엘 전산학부 교수, 마이크로소프트 AI 레드팀 참여[보안뉴스 강현주 기자] 생성형 AI가 산업과 사회 전반으로 빠르게 확산되면서 AI의 안전성과 보안성을 확보하는 기술이 새로운...",
-        "이 가운데 한국과학기술원(KAIST, 총장 배충식)이 국내에서는 유일하게 마이크로소프트의 글로벌 AI 안전성 연구 프로그램에 선정돼 차세대 AI",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 75] 등잔 밑이 어둡다(5)-영수증 하나로 정보 털리는 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=144227&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 10:22:00 +0900",
-      "description": "영수증에 적힌 카드번호 뒷자리 등이 노출되지 않게 폐기하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지",
-      "language": "ko",
-      "summary": "잘못 진행한 카드처리로 인해 보안이 위헌함",
-      "points": [
-        "-90% 사고는 실수에서, 근본적으로 보안습관의 정도가 문제임",
-        "-100개 공지를 소유하여 IT 업체가 반영할 수 0에 나타나는 이유",
-        "-카드보안 습관을 통한 더 안정적인 보안으로 미국의 IT 비중층을 위해 대응해야 함"
-      ],
-      "insight": "보안심화에서 기본적으로 IT 업계가 다수의 인식점을 제출하여 보안습관을 높이세요."
-    },
-    {
-      "title": "울산시, ‘국산 반도체(NPU) 기반 AI CCTV’ 전환 사업 착수",
-      "link": "http://www.boannews.com/media/view.asp?idx=144887&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 10:13:00 +0900",
-      "description": "국비 31억원 확보해 CCTV 총 8942대 AI로 전환 울산형 AI 안전망 가동 및 노동자 중심 AI 전환 실현[보안뉴스 강초희 기자] 울산시가 ‘지능형 안전도시 울산’ 구현을 위해 차세대 국산 AI 반도체(NPU)와 시각언어모델(VLM)을 결합한 지능형 CCTV 관제체계 구축 사업에 본격 착수한다.울산시는 7월 28일 서울 중구 서울스퀘어에서 과학기술정",
-      "language": "ko",
-      "summary": "울산시는 '국산 반도체(NPU) 기반 AI CCTV'로 전환하여 지능형 AI 안전도시를 구현했다.",
-      "points": [
-        "울산시는 AI CCTV로 전환",
-        "국산 AI 반도체(NPU)와 VLM을 계약한 AI 코드",
-        "안전도시 구조화"
-      ],
-      "insight": "이러한 건 국산 지능형 CCTV 착수는 안전도시 기밀처리를 위해 AI의 중요성을 강조하고, 이 방식은 울산시에서의 안전보호 프로세S를 높일 것으로 예상"
-    },
-    {
-      "title": "AI 해킹 막는 멀티 에이전트... MS, 차세대 자율 보안 ‘프로젝트 퍼셉션’ 내달 3일 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=144885&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 10:06:00 +0900",
-      "description": "지속 인지·추론·대응하는 차세대 ‘사이버 스택’ 비전 제시다중 모델 아키텍처 도입으로 탐지 성능 향상 및 비용 50% 절감[보안뉴스 조재호 기자] 마이크로소프트(Microsoft)가 AI 시대를 맞아 자동화된 사이버 위협을 탐지하고 자율 대응하는 차세대 에이전트 기반 보안 시스템 ‘프로젝트 퍼셉션’(Project Perception)을 2026년 8월 3일",
-      "language": "ko",
-      "summary": "지속 인지·추론·대응하는 차세대 ‘사이버 스택’ 비전 제시다중 모델 아키텍처 도입으로 탐지 성능 향상 및 비용 50% 절감[보안뉴스 조재호 기자] 마이크로소프트(Microsoft)가 AI 시대를 맞아 자동화된 사이버 위협을 탐지하고 자율 대응하는 차세대 에이전트 기반 보안 시스템 ‘프로젝트 퍼셉션’(Project Perception)을 2026년 8월 3일",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "‘해킹 비서’ 돼버린 AI... 클로드 데스크톱 악용 공격 실험 또 성공",
-      "link": "http://www.boannews.com/media/view.asp?idx=144883&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 09:56:00 +0900",
-      "description": "국내외 연구원들 클로드 데스크톱 이용 해킹 성공국내 기업 다수 쓰는 AD 서버 등 쉽게 장악[보안뉴스 강현주 기자] 앤트로픽의 PC용 AI 어시스턴트인 ‘클로드 데스크톱’을 이용한 해킹 시도 성공 사례가 또 등장했다. 이처럼 AI의 ‘해킹 비서화’가 점점 현실로 다가오면서 인증 보안 및 접근권한 통제 강화, 런타임 제어, AI 모델에 대한 통제 강화, 연동",
-      "language": "ko",
-      "summary": "AI '해킹 비서'를 이용한 국내외 PC용 AI 기사 개체복구 성공",
-      "points": [
-        "연구자들이 AI '클로드 데스크톱'을 이용해서 해외 PC 플랫폼에 대한 저처궤창한 기사 개체복구 성공",
-        "AI '해킹 비서'를 이용한 방식은 인증 보안 및 접근권에 대한 강화, 런타임 제어 등을 통해 결국 연구자들이 초기에는 아니한 방식이다.",
-        "인증보안 개정사고가 우선적으로 주체적으로 되어 밀임"
-      ],
-      "insight": "국내 기업들이 인증보안에 관련본 지침을 통해 AI를 확장하여 IT 업체에서의 비순행한 개인화가 나타났다."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000",
-      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "language": "en",
-      "summary": "Dario Amodei, Anthropic'in co-founder CEO expressed concern over the threat posed by Chinese AI but did not oppose open weight models for artificial intelligence development.",
-      "points": [
-        "Anthropic founder and CEO Dario Amodei shared his views on a range of issues including China, crypto assets, education technology (EdTech), the Metaverse/Metaworlds, AI safety, regulation in the US & Europe, privacy matters.",
-        "Amodei did not oppose open weight models for artificial intelligence development but expressed concern about Chinese advancements and a possible future where machines run most or all industries.",
-        "He believes that if China surpasses Silicon Valley by being the first to reach human equivalence, it could pose an existential threat as they may have different priorities."
-      ],
-      "insight": "Amodei's views raise important questions about AI development and global competition in technology. His concerns highlight potential threats from countries like China but also point out that open weight models for AI can be beneficial, despite the geopolitical risks involved."
     }
   ]
 }
