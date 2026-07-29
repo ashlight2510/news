@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-07-29T08:54:30.747Z",
+  "generatedAt": "2026-07-29T14:09:20.537Z",
   "articles": [
+    {
+      "title": "DoorDash is building its own drone delivery business",
+      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 13:00:00 +0000",
+      "description": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+      "language": "en",
+      "summary": "DoorDash has obtained federal aviation authority for its own autonomous aerial logistics division.",
+      "points": [
+        "FAA grants DoorDash commercial drone delivery license",
+        "Pilot program launched in California and Virginia with food deliveries using drones from local restaurants like Chick-fil-A, Papa John'su Pizza, The Cheese Store NYC, Olive Garden among others.",
+        "Expected to expand service nationwide after initial tests"
+      ],
+      "insight": "This development indicates a significant shift towards autonomous technology in the retail and food industry logistics sector."
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "link": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 13:00:00 +0000",
+      "description": "Running Mode will be available to Premium users on iOS in select countries",
+      "language": "en",
+      "summary": "Spotify has introduced a new Running Mode feature for premium subscribers that automatically pauses music playback when the user starts running and resumes after they stop.",
+      "points": [
+        "Running Mode is now available to Spotify Premium users on iOS in select countries",
+        "The app detects movement through GPS data or accelerometer, controlling audio accordingly",
+        "This new feature enhances workout experiences and convenience for premium subscribers"
+      ],
+      "insight": "With Running Mode becoming available to more Spotify users globally, it may influence other music streaming platforms to develop similar functionalities, increasing user engagement during exercise routines."
+    },
+    {
+      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 12:00:00 +0000",
+      "description": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+      "language": "en",
+      "summary": "A California-based company is using additional aluminum scrap as feedstock for electrochemical cells designed to recover valuable metals like cobalt and lithium from waste streams.",
+      "points": [
+        "Fast Metals plans to utilize caustic aluminum scraps, which are traditionally considered 'waste', by incorporating them into a proprietary process that extracts critical minerals such as cobalt and lithium for reuse in high-value applications.",
+        "The company's method involves recycling used batteries to access these valuable metals within, which are often extracted using hazardous processes like acid leaching or smelting that pose environmental concerns due to CO2 emissions and water pollution. Fast Metals aims to provide an alternative through their electrochemical process.",
+        "Fast Metals' approach not only presents potential economic benefits but also promises more environmentally friendly mineral recovery, aiming for less impact on climate change with reduced energy consumption compared to conventional methods."
+      ],
+      "insight": "This news indicates a shift towards sustainable practices in the IT/technology industry by repurposing waste materials as feedstocks and employing greener extraction technologies, which could have significant environmental and economic implications for resource recovery processes within this sector."
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "language": "en",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview",
+      "points": [
+        "Pangram has raised $9 million to scale its AI detection software",
+        "The startup has also released a new AI text detection model, Pangram 4, and an AI image detection mo...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "[ISEC 2026 미리보기] 화이트디펜더, AI 시대 랜섬웨어 대응 새로운 기준",
       "link": "http://www.boannews.com/media/view.asp?idx=144903&kind=&sub_kind=",
@@ -690,66 +750,6 @@
         "보다 신속한 관리를 위해서는 AI CCTV 등의 확산이 필요하다."
       ],
       "insight": "자살 위험장소 관리에 신경처럼 지속적인 개선과 효과를 최대한 유지하고자 한다면, 국가는 AI CCTV로부터의 확산과 시각화를 이용한 관리체계의 개선이 필요하다."
-    },
-    {
-      "title": "“너 야동 봤지?”... 샤이니헌터스 사칭, 민망한 영상 유포 협박",
-      "link": "http://www.boannews.com/media/view.asp?idx=144900&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 14:21:00 +0900",
-      "description": "기존 유출된 데이터 악용... “유포 막으려면 2000달러 비트코인 입금” 협박[보안뉴스=김형근 기자] 해킹 조직 ‘샤이니헌터스’(ShinyHunters)가 과거 탈취한 기업 데이터베이스 내 이메일 정보를 악용한 성착취 공갈(Sextortion) 캠페인이 확산되고 있다고 해외 정보보호 매체 블리핑컴퓨터가 보도했다. .공격자들은 피해자 기기를 해킹해 통제권을",
-      "language": "ko",
-      "summary": "ShinyHunters 사이트에서 데이터베이스 내 이메일 정보를 통제권을 따라 Sextortion을 확산",
-      "points": [
-        "ShinyHunters 사이트는 전구인살직에 대해서 연치를 요구합니다.",
-        "Sextortion을 위해 데이터베이스의 이메일 정보를 확산한다.",
-        "포인트는 사직자가 이메일 정보에 대한 예외 요구를 받아들여 해킹하도록 근한함을 지니하고"
-      ],
-      "insight": "이 경우, IT/기술 업체는 보안에 직접 조직이 올바른 권리로부터 자격주의를 받을 수 있고, 사용자 정보보호에 대한 기대도 필요합니다."
-    },
-    {
-      "title": "금융보안원, 온라인 ‘금융 AI보안 캠퍼스’ 개설",
-      "link": "http://www.boannews.com/media/view.asp?idx=144899&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 14:05:00 +0900",
-      "description": "수요 높은 AI 보안 과정 오픈 후 내년 초 전면 개시하나의 플랫폼에서 체계적 학습[보안뉴스 강현주 기자] 금융보안원(원장 박상원)은 금융회사 임직원의 AI 보안 역량 강화를 지원하기 위해 온라인 ‘금융 AI보안 캠퍼스’를 개설할 계획이라고 28일 밝혔다. 금융보안원은 금융권의 AI 활용이 빠르게 확산되고 미토스 등 프론티어 AI가 새로운 보안 과제로 부상",
-      "language": "ko",
-      "summary": "금융회사 임직원이 AI보안능가를 강화하기 위해 개시한 '금융 AI보안 캠퍼스'",
-      "points": [
-        "금융회사 임직원이 새로운 AI보안과제에 빠진",
-        "긨루코스터나 피찍에 AI를 활용하여 보안작업을 할 수 0ne살",
-        "28일까지 개시후 내년"
-      ],
-      "insight": "이러한 진전은 IT/기술 보안에 대한 활용에 매우 핵심적인 의미를 가지고 있다."
-    },
-    {
-      "title": "디사일로 LLM 추론 프레임워크 ‘토르’, 국제 FHE 벤치마킹 스위트 등재",
-      "link": "http://www.boannews.com/media/view.asp?idx=144898&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 28 Jul 2026 13:52:00 +0900",
-      "description": "‘버트’ 암호화 상태로 비암호화 대등 정확도 구동“프라이버시 보호 AI 생태계의 기반 마련”[보안뉴스 강현주 기자] 디사일로(대표 이승명)는 자사의 완전동형암호(FHE) 기반 거대언어모델(LLM) 추론 프레임워크 ‘토르’(THOR)가 국제 표준화 단체 ‘호모모픽인크립션닷오알지’(HomomorphicEncryption.org)가 주관하는 ‘FHE 벤치마킹 스",
-      "language": "ko",
-      "summary": "‘버트’ 암호화 상태로 비암호화 대등 정확도 구동“프라이버시 보호 AI 생태계의 기반 마련”[보안뉴스 강현주 기자] 디사일로(대표 이승명)는 자사의 완전동형암호(FHE) 기반 거대언어모델(LLM) 추론 프레임워크 ‘토르’(THOR)가 국제 표준화 단체 ‘호모모픽인크립션닷오알지’(HomomorphicEncryption. org)가 주관하는 ‘FHE 벤치마킹 스",
-      "points": [
-        "org)가 주관하는 ‘FHE 벤치마킹 스",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 04:30:00 +0000",
-      "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "language": "en",
-      "summary": "In anticipation of the SpaceX acquisition by Cursor Technology Solutions Corp., CEO Anand Pillai has announced a significant expansion into India as their third-largcuring market globally.",
-      "points": [
-        "Cursor views its presence in India following increased demand and plans to expand local hiring for better service delivery.",
-        "The Indian IT industry is witnessing Cursor's aggressive push with an aim of establishing a robust foothold, indicating the company’s confidence about further growth prospects therein.",
-        "With SpaceX acquisition closing on schedule by mid-2023 and India firmly in its expansion plans as third largest market globally"
-      ],
-      "insight": "Cursor's strategic move into a larger portion of the Indian IT industry, alongside their global ambitions with the SpaceX merger, indicates both companies are making robust moves to capitalize on growth opportunities within this rapidly expanding market."
     }
   ]
 }
