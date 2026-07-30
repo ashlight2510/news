@@ -1,6 +1,199 @@
 {
-  "generatedAt": "2026-07-29T19:18:23.619Z",
+  "generatedAt": "2026-07-30T02:23:06.305Z",
   "articles": [
+    {
+      "title": "[ISEC 2026 미리보기] “관리자 뚫려도 데이터는 지킨다”... 한국보안인증의 ‘D-포트리스’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144933&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 30 Jul 2026 11:14:00 +0900",
+      "description": "지능형 공격에 맞선 하드웨어 기반 일방통행 기술 ‘데이터 다이오드’대기업부터 중소 제조업까지 수용할 수 있는 고강도 사이버 복원력[보안뉴스 조재호 기자] 관리자 권한 탈취로 백업 데이터까지 암호화되는 지능형 랜섬웨어 위협에 대응해, 한국보안인증이 물리적 일방통행 통신 기술과 2차 인증을 번들화한 차세대 데이터 금고 아키텍처를 제시한다.한국보안인증(대표 백건",
+      "language": "ko",
+      "summary": "기사는 국가보안에 중요한 IT/기술 관련 보안 제도인 'D-포트리스'를 소개하고 공격자의 임무를 위해 사용되는 이전에 다시 세대로 인증을 요구한다.",
+      "points": [
+        "국가보안은 IT/기술 관련 보안 제도 'D-포트리스'를 수용하여 인공지속화되고 있다.",
+        "이전에 최대한 암호화된 백업된 데이터로 공격자가 시스템을 인식하는 경우를 대비해 다시 세대로 인증을 요구한다.",
+        "공격자의 임무를 위해서 모든 이전에 발생한 데이터의 암호화가 필요하다."
+      ],
+      "insight": "이 보안정리 제도는 IT/기술 관련 논선에서 사용자들이 권한을 결정할 수 없도록 하여 공격자의 임무를 방어할 활동을 촉진시키고 있다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] 이노테나, 폐쇄망 RAG·도면 뷰어 탑재 플랫폼 ‘MoAI’ 선봬",
+      "link": "http://www.boannews.com/media/view.asp?idx=144937&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 30 Jul 2026 11:11:00 +0900",
+      "description": "비정형 문서 구조화·접근 권한 제어로 신뢰할 수 있는 AI 데이터 원천 제공원본 다운로드 없이 화면 스트리밍 전송하는 2D·3D 도면 뷰어로 유출 차단[보안뉴스 조재호 기자] 생성형 AI 도입 확산으로 내부 기밀 유출 위험이 고조되는 가운데, 이노테나가 비정형 문서를 정제 구조화하고 정교한 접근 권한 제어로 신뢰할 수 있는 데이터 원천을 만드는 기업 지식",
+      "language": "ko",
+      "summary": "ISEC 2026 미리보기에서는 IMS이나 IMSA인 ISEC 모델을 AI를 통해 제공하는 데이터 원천 구조화 및 접근 권한 제어 기능의 비정형 방식으로 신뢰할 수 있는 모델이 개밤을 위해 도전하고 있습니다.",
+      "points": [
+        "ISEC 모델은 AI로 데이터를 통합하여 구조화한다.",
+        "직접적인 유출 위험을 제게함으로써 ISEC 모델은 AI를 이용한 비정형 문서 구조화.",
+        "임의점 기반 강화 방식을 사용하여 신뢰성과 안전성을 유지한다."
+      ],
+      "insight": "ISEC 모델은 IT/기술 업체에서의 신뢰할 수 있는 AI 데이터 제공 구조화 방식을 제공하며, 내부 기밀 유출 위험과 안전성을 강제로 광범현으로 만들어준다."
+    },
+    {
+      "title": "폭염 산업안전 공략, 하이크비전 ‘AI 기반 통합 안전 솔루션’ 공개",
+      "link": "http://www.boannews.com/media/view.asp?idx=144934&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 30 Jul 2026 11:08:00 +0900",
+      "description": "AI 영상·열화상 기반 폭염 대응 산업안전 솔루션 공개온열질환 예방, 설비 과열 감시, 비상 대응 자동화 지원[보안뉴스 강초희 기자] 영상 분야를 핵심 역량으로 보유한 AIoT 제품 및 솔루션 공급업체 하이크비전(한국지사장 타이)은 AI 영상 기술과 첨단 센싱 인프라를 유기적으로 결합한 ‘여름철 폭염 대비 산업안전 종합 솔루션’을 30일 선보였다.최근 기록",
+      "language": "ko",
+      "summary": "AI 영상·열화상 기반 폭염 대응 산업안전 솔루션 공개온열질환 예방, 설비 과열 감시, 비상 대응 자동화 지원[보안뉴스 강초희 기자] 영상 분야를 핵심 역량으로 보유한 AIoT 제품 및 솔루션 공급업체 하이크비전(한국지사장 타이)은 AI 영상 기술과 첨단 센싱 인프라를 유기적으로 결합한 ‘여름철 폭염 대비 산업안전 종합 솔루션’을 30일 선보였다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 77] 등잔 밑이 어둡다(7)-공용 USB 충전이 위험한 이유",
+      "link": "http://www.boannews.com/media/view.asp?idx=144229&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 30 Jul 2026 11:06:00 +0900",
+      "description": "호텔 로비나 비행기 내 공용 USB 충전 포트 사용을 주의하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다.",
+      "language": "ko",
+      "summary": "공용 USB 충전에서의 위험성을 소개하며 실수와 관련된 보안 기술 지식이 중요하다.",
+      "points": [
+        "- 90% 가한 '실수'로 90% 의 보안 사고가 시작되는 것을 강elye 할 수 0ne",
+        "- 특정 위험 요인들에 대해서만 최소한으로 대응하여 보안 공동작으로 이주의 기술을 배워야 한다는 것",
+        "- 스마트폰, PC, 인터넷, 개인정보 등 공용 장소에서 보안 기술을 외우지 못하지 않도록 최소한의 속담을 통해 보강하여 보격"
+      ],
+      "insight": "공용 USB 받은 위험성은 스마트폰, PC 등의 장소에서와 다른 요인들로 이어지고 있지만, IT/기술업계에서는 최소한의 보안 속담을 따라 공동체제를 구성하여 보호하여야 하다."
+    },
+    {
+      "title": "이노뎁 AI, 금호석유화학 등 산업현장 ‘예방관제’ 확산 본격화",
+      "link": "http://www.boannews.com/media/view.asp?idx=144936&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 30 Jul 2026 10:30:00 +0900",
+      "description": "AI 영상분석과 안전 데이터 결합해 위험상황 선제 감지울산 AI CCTV 전환사업 이어 산업시설 AI 관제 수주 성과복수 산업현장으로의 적용 확대로 B2B AI 관제 시장 성장 기대[보안뉴스 엄호식 기자] AI 기반 영상관제 플랫폼 전문기업 이노뎁(대표 이성진)이 금호석유화학 여수사업장의 ‘AI 기반 안전관리 통합 모니터링 시스템 구축사업’을 수주하며 산업",
+      "language": "ko",
+      "summary": "이노뎁 CCTV 전환사에서 'AI 기반 안전관리 통합 모니터링 시스템 구축'의 수주력과 B2B AI 관제 시장 성공.",
+      "points": [
+        "이노뎁이 'AI 기반 안전관리 통합 모니터링 시스템 구축'을 진행하고 제처리한다.",
+        "금호석유화학에서는 AI 영상분석과 안전 데이0이 적합하도록 조정",
+        "산업시설 여수사업장에서 CCTV 전환사는 AI를 통해 위험상황을 선지꾀한다."
+      ],
+      "insight": "이론적으로 AI 영상 광고는 안전관제를 강화하며, IT 기술 업체가 확산해주기도 흘리라."
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "language": "en",
+      "summary": "Microsoft announced an expansion in its artificial intelligence division during their latest earnings call with investors and analysts.",
+      "points": [
+        "Microsoft is expanding the AI tools it offers to tackle a broader range of use cases, including search."
+      ],
+      "insight": "The news indicates Microsoft's aggressive competition in the rapidly growing field of artificial intelligence against other prominent players like OpenAI and Anthropic. This could potentially reshape how companies approach AI development moving forward."
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "language": "en",
+      "summary": "In a bold prediction ahead of Meta's AI-centric future unveiled at its annual developer conference, Facebook CEO Mark Zuckerberg foresees billions using personal AI agents within five years.",
+      "points": [
+        "Mark Zuckerberg predicts the widespinning adoption of personalized artificial intelligence over the next half-decade.",
+        "Meta's massive investment into building an infrastructure to support this transformation underscores its commitment, despite potential privacy concerns among users and regulators alike.",
+        "The initiative promises AI assistants that understand natural language and personal preferences for each user."
+      ],
+      "insight": "Zuckerberg's vision suggests a paradigm shift in how individuals interact with technology, raising questions about data privacy and the future of human-computer interaction within the IT/technology industry. As investments into AI infrastructure grow globally, it indicates that personalized computing could become as commonplace as smartphones."
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "language": "en",
+      "summary": "Microsoft reported impressive fourth-quarter earnings for fiscal year 2026 with a significant investment in Anthropic yielding $3.2B while its OpenAI venture had mixed results.",
+      "points": [
+        "Microsoft invested heavily in AI, including the labs from major players like Microsoft and DeepMind as well as newcomers such as Anthropic",
+        "The company reported that these investments contributed to significant earnings growth but found a mix of success with OpenAI's ventures.",
+        "$3.2B in revenue was generated for Microsoft from the capital invested into AI labs, marking positive financial outcomes."
+      ],
+      "insight": "Microsoft is expanding its investments to stay ahead and relevant in the rapidly evolving field of artificial intelligence, as seen with their earnings growth despite some mixed results. The success suggests a strategic direction for Microsoft's future ventures into AI technologies."
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "language": "en",
+      "summary": "During the second-quarter earnings call, Mark Zuckerberg highlighted Meta' endless enterprise opportunities in various AI domains beyond agents, including APIs and compute.",
+      "points": [
+        "Mark Zuckerberg discusses a broad range of AI applications for business",
+        "Enterprise use cases span from customer interaction to backend improvements",
+        "Meta sees potential growth through developing their own internal software"
+      ],
+      "insight": "This suggests Meta is expanding its focus on enterprise solutions, which could diversify and strengthen the company's AI business beyond consumer-driven platforms."
+    },
+    {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 21:16:39 +0000",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt 2026 featured a deep dive into AI's current and future trends through discussions led by industry leaders like Google for Startups.",
+      "points": [
+        "Google for Startups hosts the mainstage event on Artificial Intelligence at TechCrunch Disrupt 2026, signifying its prominence in AI development.",
+        "AI's impact is being scrutinized as industry experts address challenges and opportunities within various sectors using machine learning technology.",
+        "Emerging ethical concerns over privacy and bias are highlighted at the conference."
+      ],
+      "insight": "The recurrence of AI discussions reflects its growing influence in shaping business strategies, emphasizing both technological advancements and societal implications for IT industries globally."
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "language": "en",
+      "summary": "Lilian Weng, co-founder of Thinking Machines and former Vice President (VP) for AI Safety Research at OpenAI, departed the latter company citing health reasons before joining another unnamed organization.",
+      "points": [
+        "Lilian Weng is a prominent figure in artificial intelligence safety research, having recently stepped down from her role as VP of this discipline within OpenAI due to personal health concerns. Post-departure details remain undisclosed beyond these reasons and the fact that she has joined another entity.",
+        "The article does not specify which company Weng has entered post-OpenAI, nor is there mention of any significant role or title assumed in her new position aside from a general description as 'thinking machine pioneer.'",
+        "Weng'in recent years had been deeply involved with AI safety at OpenAI before announcing to leave due health concerns."
+      ],
+      "insight": "The departure of Lilian Weng signals potential changes or new directions in the field of artificial intelligence, particularly regarding approaches and practices for ensuring safe development. Her move could also signify a shift within organizations about how they address leadership transitions related to personal well-being."
+    },
+    {
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 21:02:12 +0000",
+      "description": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+      "language": "en",
+      "summary": "Winamp is set to relaunch with an integrated Deezer service inside its own premium music player aiming for a comeback amidst the saturated digital music streaming market.",
+      "points": [
+        "Winamp announces partnership with Deezer and plans to launch a new premium subscription-based music service powered by it, along with their all-in-one Winamp player.",
+        "The move is part of an effort for nostalgic brand win back market share amid increasing competition in digital streaming services like Spotify, Apple Music, Amazon Prime Music and Tidal.",
+        "Winamp' endorses the use case that a premium service with exclusive content can offer unique value to listeners."
+      ],
+      "insight": "As traditional music players face tough competition from specialized streaming services in terms of features, Winamp leveraging its nostalgic brand and an integrated Deezer-powered subscription aiming at providing a comprehensive experience may give them the edge for regaining market share."
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "language": "en",
+      "summary": "The Hugging Face AI project has faced security issues resulting in unauthorized access and potential data leaks; the situation is likened to a bear at a campsite.",
+      "points": [
+        "Hugging Face, an open-source artificial intelligence (AI) toolkit widely used for natural language processing tasks like translation, summarization, question answering, etc., has been breached leading to unautstatic access and potential data leaks",
+        "The project's security was compromised after a user discovered that someone had unchecked in by using the Hugging Face API key without proper authorization for about six months.",
+        "Investigations are ongoing, with findings indicating an unknown third party accessed sensitive information related to model usage and fine-tuning data. The issue was reported but not immediately acknowledged or resolved."
+      ],
+      "insight": "The incident highlights the importance of robust security practices within open source projects and raises concerns about potential misuse of AI tools, which may have wider implications for trust in shared technology infrastructures across industries relying on such platforms."
+    },
     {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
       "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
@@ -555,201 +748,6 @@
         "MCP gateway products are utilized by runlayers as the interface between their internal network and a client’s extranet, enabling secure data exchange for various services like billing."
       ],
       "insight": "The lawsuit against Rippling may indicate growing concern over intellectual property protection within IT/technology startups. It underlines potential vulnerabilities when sharing product ideas with competitors and the need to safeguard innovations better, especially in a market where understanding of MCP gateway products is essential for business success."
-    },
-    {
-      "title": "Sam Altman is ready to decelerate",
-      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 20:17:08 +0000",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "language": "en",
-      "summary": "In a recent interview with Bloomberg Businessweek, Sam Altman revealed his intention to step back from leading OpenAI amid growing concerns over AI safety and ethics.",
-      "points": [
-        "Sam Altman plans to move away from leadership roles at OpenAI due to rising issues related to AI safety",
-        "Altman has been vocal about the need for greater oversight in artificial intelligence development, following a security incident he personally felt deeply impacted by.",
-        "His decision is significant as it might lead other industry leaders to reconsider their stance on AI governance."
-      ],
-      "insight": "Sam Altman' endorsement of stricter oversight in the development and deployment of artificial intelligence could signal a shift towards more responsible innovation within Silicon Valley tech giants. This might be an important catalyst for broader discussions about ethical AI usage across industries."
-    },
-    {
-      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-      "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 19:09:18 +0000",
-      "description": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
-      "language": "en",
-      "summary": "Ozlo has updated its Sleepbuds to offer better battery life, connectivity, audio quality, and new sleep features following in Bose'nergies are the core content of this article? The Ozlo company released an update for their popular Sleepearb devices which now boast extended battery life, enhanced wireless connection capabilities, superior sound output as well as a host of novel sleep-related functionalities. These updates signify continuation and expansion into Bose's former product territory in the earbud market.",
-      "points": [
-        "Ozlo has updated its Sleepearb devices to extend battery life",
-        "Improved wireless connection capabilities for users on the go",
-        "Enhanced sound output providing high-quality audio experience"
-      ],
-      "insight": "This news indicates that Ozlo is positioning itself strongly within a market once dominated by Bose, suggesting potential growth and competition in wearable technology focused primarily around sleep."
-    },
-    {
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
-      "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 19:07:31 +0000",
-      "description": "Katalyst's LINK spacecraft is tumbling out of control after suffering key component failures.",
-      "language": "en",
-      "summary": "NASA' endorsed robot KAT-V2 malfunctioned while deploying the James Webb Space Telescope (JWST), causing it to tumble uncontrollably.",
-      "points": [
-        "Robotic arm of NASAs ATEL spacecraft failed, leading to loss of control during deployment",
-        "The incident occurred after multiple key component failures on the robot's part",
-        "NASA is working with KAT-V2 team members and engineers for problem resolution"
-      ],
-      "insight": "This event highlights potential risks in relying heavily on automated systems without robust backup plans or redundancies, which could have more severe consequences when deploying critical space equipment."
-    },
-    {
-      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-      "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 19:06:33 +0000",
-      "description": "Rep. Kevin Mullin (D-California ) has proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators — action that follows a series of incidents in which robotaxis blocked fire trucks and impeded emergency responders.",
-      "language": "en",
-      "summary": "California Rep. Kevin Mullin proposes legislation requiring federal oversight to set minimum national safety standards for autonomous vehicle operators in response to robotaxis hindering emergency services.",
-      "points": [
-        "Rep. Kevin Mullin of California introduces a bill seeking federal establishment of standardized, nationwide regulations for the operation of driverless vehicles after incidents with local fire trucks and EMS obstruction.",
-        "Legislation highlighted by Rep. Mullin follows multiple documented instances where robotaxis have stopped or hindered emergency responders on public roads during critical moments.",
-        "The proposed bill underscCTMnGUtC0JKa3vDd12zqe9jLk/f5mZs+XbHrY47lAx8EJWpOVoN6QwPg="
-      ],
-      "insight": "This proposed legislation could set a precedent for how governments regulate and manage safe interactions between self-driving technology and critical infrastructure such as first responders, reflecting growing concerns about the impact of autonomous vehicles in emergency response scenarios."
-    },
-    {
-      "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-      "link": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 18:35:29 +0000",
-      "description": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
-      "language": "en",
-      "summary": "eBay settled for $56 million after pressuring two bloggers known as Ina and David Steiner, who were critical of the company.",
-      "points": [
-        "Two e-commerce newsletter writers received intimidation from high-level executives at eBay in 2019 due to their negative coverage on social media platforms like Medium. The couple was targeted for criticizing and questioning corporate practices, leading to a plot by the company' end of this year.",
-        "The Steiner siblings were told that they would face consequences if eBay did not receive positive reviews in various online marketplaces over time—a condition set without their consent. The couple continued writing despite fears due to loyal followers, but eventually stopped when the intimidation tactics escalated.",
-        "The Steiner siblings were part of a broader trend where corporate behemoths threatened individuals who spoke out against them on social media platforms like Medium. This was also seen in cases involving Uber and Wells Fargo."
-      ],
-      "insight": "This news highlights the increasing use of intimidation tactics by large companies to silence critics, which poses a threat not only to freedom of speech but can potentially harm their reputation if exposed. It also raises questions about accountability and ethics in corporate conduct."
-    },
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 18:16:39 +0000",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "language": "en",
-      "summary": "This article highlights several innovative apps that have emerged on the iOS App Store despite fears of AI rendering traditional software obsolete.",
-      "points": [
-        "Developers are creating more intelligent and personalized applications, like a smarter bookmarking tool to organize content effectively.",
-        "Unique neighborhood marketplaces such as Nextdoor.ai have emerged within the App Store ecosystem.",
-        "Apps fostering social connections through digital pen pals or nature journals are gaining traction among users."
-      ],
-      "insight": "The success of these new apps suggests that while AI is transforming software development, there remains significant value in user-focused and innovative applications tailored to specific communities."
-    },
-    {
-      "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
-      "link": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 17:57:57 +0000",
-      "description": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
-      "language": "en",
-      "summary": "HBO Max has launched a new 'Shorts' feed focusing exclusively on vertical video formats in response to the growing trend of short-form content popularized by TikTok and Instagram Reels.",
-      "points": [
-        "- HBO Max introduces a dedicated Shorts channel for vertically oriented videos, aligning with current social media consumption patterns",
-        "- The platform's expansion into vertical video marks its adaptation to streaming audiences accustomed to short-form content on other platforms",
-        "Streaming services are increasingly incorporating various formats and lengths of content to cater to diverse audience preferences"
-      ],
-      "insight": "The integration of a Shorts feed by HBO Max demonstrates the streaming industry's recognition of changing user behavior, potentially influencing how competitors reassess their content offerings."
-    },
-    {
-      "title": "Saudi prince buys 5% stake in Lucid Motors",
-      "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 17:33:51 +0000",
-      "description": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
-      "language": "en",
-      "summary": "Saudi Prince Abdulaziz bin Miteb Al Saud invested in his country's homegrown electric vehicle company Lucid Motors by purchasing a 5% stake for around $2 billion. The investment follows speculations about potential privatization of the EV firm, which has denied such plans.",
-      "points": [
-        "Saudi Prince Abdulaziz bin Miteb Al Saud invested in Lucid Motors with a purchase worth approximately $2 billion representing around a 5% stake. This occurs amid speculation that Saudi Arabia may take the company private, which has been denied by the EV maker.",
-        "Lucid Motors is an electric vehicle manufacturer based in Newark, California and was founded with backing from Abu Dhabi'sprivate equity firm WT Investment Company. The investment comes after a lucrative funding round where Lucid raised $1.2 billion.",
-        "The Saudi prince is the son of one of King Salman bin Abdulaziz Al-Saud’s half brothers, Prince Miteb bin Abdalaziz and has been named by Bloomberg as a key member in Crown Prince Mohammed Bin Salman's inner circle. This investment represents his first venture outside the country."
-      ],
-      "insight": "The Saudi prince's investment signals growing international interest in lucrative opportunities within the electric vehicle industry, and potentially indicates a shift towards strategic diversification of wealth beyond traditional oil-based sectors for prominent national figures like himself. However, as Lucid Motors has denied plans to go private through this investment, it leaves open questions about future corporate decisions."
-    },
-    {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 15:42:26 +0000",
-      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "language": "en",
-      "summary": "Data centers in certain states may experience temporary power outages to avoid widespideffect blackouts on the US's largest grid during extreme weather conditions.",
-      "points": [
-        "Temporary shutdown of data centers could prevent massive, region-wide blackouts caused by energy supply shortfalls due to increased demand and potential damage from severe winter storms or wildfires.",
-        "The California Independent System Operator (CAISO) has issued an Energy Emergency Alert Level 2 notice for the state's grid as they struggle with power production, maintenance issues, and high temperatures causing cooling systems to fail at many facilities in Southern California.",
-        "In Texas, energy providers have had difficulty producing enough electricity due to freezing conditions leading up to February storms. RTOIssued an Energy Emergency Alert Level 3 notice for the Southwest grid after a winter event caused major power supply issues."
-      ],
-      "insight": "This news highlights potential challenges and risks that data centers may face in terms of energy reliability, especially during extreme weather conditions. As renewable energy sources are not always available to meet sudden spikes in demand due to temperature fluctuations or natural disasters, the need for a more resilient grid becomes evident."
-    },
-    {
-      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 15:10:10 +0000",
-      "description": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
-      "language": "en",
-      "summary": "PayPal reported better-than-expected Q2 results and reiterated focus on AI-driven growth, while openly considering a higher takeover bid that could benefit shareholders.",
-      "points": [
-        "PayPal reports strong financial performance",
-        "CEO continues to prioritize long-term investments in technology for company'thre recovery and expansion",
-        "Consideration of another offer may lead to a potential takeover"
-      ],
-      "insight": "This development suggests that PayPal could be open to significant strategic shifts, potentially disrupting the established financial services landscape with its advanced technological capabilities."
-    },
-    {
-      "title": "Elon Musk’s X Money app is rolling out in the US",
-      "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 14:57:12 +0000",
-      "description": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
-      "language": "en",
-      "summary": "Elon Musk's X Money launching in the US provides an innovative digital wallet with a Visa debit card for peer-to-peer transfers through Apple Pay without any fees or limits.",
-      "points": [
-        "X Money app by Elon Musk introduces the 'X Visa' - virtual currency to facilitate instant, fee-free P2P transactions within the platform using Apple Pay integration.",
-        "The X Debit card allows immediate availability in a digital wallet and can be added directly into existing financial systems without hassles for users familiar with such services.",
-        "Musk's payment system is designed to compete by eliminating traditional banking fees, offering an attractive alternative that leverages the convenience of Apple Pay."
-      ],
-      "insight": "The introduction of Elon Musk's X Money app and its digital wallet could significantly disrupt traditional financial services in e-commerce with fee-free P2P transactions using mainstream payment systems like Apple Pay. It signifies a push towards open banking paradigms, where users have more control over their finances without being tied to specific banks or credit card companies."
-    },
-    {
-      "title": "WhatsApp now lets you make calls using its web app",
-      "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 14:53:22 +0000",
-      "description": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
-      "language": "en",
-      "summary": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions",
-      "points": [
-        "Similar to the smartphone and desktop apps, the web app will support calling features such as screen...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "description": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "language": "en",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
