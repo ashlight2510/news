@@ -1,6 +1,246 @@
 {
-  "generatedAt": "2026-07-30T14:04:40.591Z",
+  "generatedAt": "2026-07-30T19:31:38.766Z",
   "articles": [
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 18:57:58 +0000",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "language": "en",
+      "summary": "Google has reported fixing a significantly higher number of Chrome browser issues this past June than it did over its preceding two years due to advancinLANG=enAI technologies.",
+      "points": [
+        "Increased bug discovery and patching at Google, largely attributed to AI",
+        "Exponential growth in the identification of bugs through machine learning models like LLMs",
+        "Potential industry-wide impact on software maintenance practices"
+      ],
+      "insight": "The significant increase in Chrome bug fixes by Google highlights how AI tools are revolutionizing productivity and efficiency within IT departments, potentially setting new standards for responsiveness to vulnerabilities."
+    },
+    {
+      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 18:38:12 +0000",
+      "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+      "language": "en",
+      "summary": "The state of Florida plans to repurpose $200 million allocated for electric vehicle chargers into the creation of an air taxi network linking golf courses, luxury apartments, and airports.",
+      "points": [
+        "Florida will redirect federal EV charger funds towards building a new air taxi infrastructure",
+        "The ambitious plan includes constructing landing pads at various Florida destinations such as golf courses and luxury properties",
+        "Critics question the practicality, safety concerns, and possible environmental impacts of the initiative"
+      ],
+      "insight": "This innovative but controversial project could potentially revolutionize short-haul transportation in sunny Florida if it addresses feasibility, cost management, and public acceptance effectively."
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 18:05:21 +0000",
+      "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "language": "en",
+      "summary": "LinkedIn is addressing the issue of low-quality AI-generated content by introducing a button to report it and replacing its in-house writing feature with an external proofreading tool.",
+      "points": [
+        "LinkedIn launches 'seems like AI slop' reporting option for questionable posts",
+        "AI Writing Lab is being replaced with Proofread&Review service by Grammarly and ProWriters",
+        "CEO Jeff Weiner acknowledges the challenge of removing harmful content"
+      ],
+      "insight": "LinkedIn' extrinsic measures to combat AI-generated spam could set a precedent for other social media platforms in ensuring high quality, human-centric professional communication."
+    },
+    {
+      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 17:50:11 +0000",
+      "description": "Add another member to the fast-and-furious AI unicorn club: Simile",
+      "language": "en",
+      "summary": "Startup Synthetic-user company Simile has raised a significant $200 million at an increased valuation of $2 billion after just five months since its last funding round.",
+      "points": [
+        "Simile, specializing in synthetic user solutions for AI applications, recently closed on a successful Series B financing.\n",
+        "$200 million raised with the investment led by Google's Verily division and continued support from Sequoia.",
+        "Following an initial $100 million Series A funding round 5 months prior."
+      ],
+      "insight": "The rapid growth of Simile indicates a rising trend in demand for synthetic user technologies, positioning companies that excel in this niche as key players within the broader tech industry and signaling significant investor confidence during uncertain economic times. This could imply an increased focus on creating more personalized digital experiences through AI."
+    },
+    {
+      "title": "Spotify launches ‘User notes’ to let users add memories to songs",
+      "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 17:41:25 +0000",
+      "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
+      "language": "en",
+      "summary": "Spotify has introduced 'User notes,' allowing listeners to attach personal memories and reasons for songs' inclusion in their digital libraries.",
+      "points": [
+        "The new Spotify feature lets users add captions that can include why a track was added or when they first heard it.",
+        "Spotify released the User Notes section within its Music app on both iOS and Android devices without any changes to playback settings, accessible via swipe-right gestures in songs or albums pages.",
+        "The feature supports multiple languages but currently has a limitation of up to 250 characters per note."
+      ],
+      "insight": "This new Spotify update enhances user experience by allowing the sharing and preservation of personal musical memories, fostering community interaction within the platform."
+    },
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 16:09:42 +0000",
+      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "language": "en",
+      "summary": "Okta has acquired the Israeli cybersecurity startup Permiso for about $200 million as it expands its identity threat detection offerings within enterprises.",
+      "points": [
+        "The acquisition of AI security startup permiso by Okta adds to their capabilities in securing non-human identities across cloud environments, especially focusing on protecting agents and bots used for tasks like code execution or document signing. This deal is valued around $200 million.",
+        "With the purchase of Permiso, a company that specializes in using AI to detect malicious activity within IT systems, Okta strengthens its position as an identity security leader by integrating advanced behavioral analytics and machine learning into their product line. The deal is likely set against increased enterprise concerns about securing non-human identities.",
+        "The acquisition comes at a time when the demand for robust cybersecurity solutions that can address sophisticated threats, such as those targeting AI agents and bots within cloud environments, has surged. Enterprises are seeking to ensure these digital entities cannot be hijacked or misused."
+      ],
+      "insight": "This acquisition by Okta highlights the growing intersection of identity security with advanced technologies such as AI and machine learning in response to evolving cybersecurity threats. As enterprises increasingly rely on non-human identities for operations, securing these entities becomes paramount."
+    },
+    {
+      "title": "Tesla made its 10 millionth EV",
+      "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 16:00:25 +0000",
+      "description": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+      "language": "en",
+      "summary": "Tesla reached its milestone of selling 10 million electric vehicles (EVs), which represents halfway towards one of Elon Musk's product goals for his pay package.",
+      "points": [
+        "Tesla has sold a significant number of EVs, reaching the 10 million mark",
+        "This achievement is key to unlocking part of CEO Elon Musk's $1 trillion compensation package",
+        "The milestone reflects Tesla's commitment and success in electrifying transport"
+      ],
+      "insight": "Tesla hitting this EV sales goal demonstrates the increasing adoption of electric vehicles, which could significantly impact global energy usage patterns."
+    },
+    {
+      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+      "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 15:45:36 +0000",
+      "description": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+      "language": "en",
+      "summary": "Commonwealth Fusion Systems is gearing up for a potential initial public offering (IPO) within the next few years.",
+      "points": [
+        "The fusion power startup Commonwealth Fusion Systems may go public in two to three years.",
+        "No current plans have been disclosed by CEO David Gifford on when exactly they plan to list.",
+        "Funding has helped CFS progress towards its IPO goals, with continued growth expected."
+      ],
+      "insight": "The news that Commonwealth Fusion Systems may be going public within the next few years indicates a growing interest in fusion energy and potential investment opportunities for stakehold endorsement. This could mean increased capital influx to advance research into sustainable power generation, impacting the future of global energy infrastructure."
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 15:41:16 +0000",
+      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
+      "language": "en",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+      "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 15:27:08 +0000",
+      "description": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
+      "language": "en",
+      "summary": "Netflix has secured a global streaming deal for 'The Walking Dead' franchise, valued at $50 enda million.",
+      "points": [
+        "- Netflix signs the largest TV series licensing agreement in history",
+        "- The contract covers all ten seasons of the AMC show and provides exclusive rights outside North America for three years",
+        "- Deal includes a guarantee from producers that an eleventh season will be produced if desired"
+      ],
+      "insight": "The deal positions Netflix as a dominant force in international streaming markets, with the power to shape content production and distribution globally."
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 15:19:15 +0000",
+      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "language": "en",
+      "summary": "Nscale has acquired US-based artificial intelligence (AI) company Anyscale to expand its capabilities in scaling AI compute stacks.",
+      "points": [
+        "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+        "The acquisition allows Nscale to enhance its services by integrating Anyscale' extranet technology with the Neo-Cloud infrastructure.",
+        "This deal is aimed at consolidating more of the artificial intelligence compute stack in a bid to expand their service offerings."
+      ],
+      "insight": "The acquisition signifies Nscale's strategic move towards owning and optimizing portions of AI computing infrastructure, which could lead to enhanced services for enterprises deploying large-scale AI projects. It may also increase competition in the sector."
+    },
+    {
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 15:17:39 +0000",
+      "description": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+      "language": "en",
+      "summary": "Commonwealth Fusion Systems has successfully secured $1 billion in funding to advance towards their goal of building a commercially viable fusion power plant.",
+      "points": [
+        "Fundraising achievement for Commonwealth Fusion, aiming at commercializing fusion energy",
+        "Raised the full amount needed on its target date with help from investors like Temasek Holdings and Bill Gates' Breakthrough Energy Ventures",
+        "Targets first plant operation by 2decade end"
+      ],
+      "insight": "This significant funding round highlights a strong vote of confidence in fusion energy technology, potentially signaling its imminent commercial viability."
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "language": "en",
+      "summary": "The study reveals a limited number of U.S. engineers proficient in delivering meaningful AI ROI and highlights the trend of hiring forward-deployed engineers to accelerate large-scale AI implementation.",
+      "points": [
+        "- Only around 2,000 U.S. engineers possess expertise for significant AI ROI delivery",
+        "- Enterprises are actively seeking forward-deployed engineers with experience in scaling up the adoption of artificial intelligence technologies",
+        "There is a growing obsession within enterprise hiring practices to bring on board these specialized engineering talent pools"
+      ],
+      "insight": "The article suggests that for AI technology companies, securing forward-deployed engineers with the necessary skills and experience becomes crucial in maintaining competitive advantage as they scale their operations."
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 14:48:32 +0000",
+      "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "language": "en",
+      "summary": "The article discusses how despite being fast and causing significant disruption in hours after the OpenAI breach into Hugging Face's systems, attackers lacked an unstoppable element due to traditional cybersecurity defenses.",
+      "points": [
+        "One of the biggest lessons from the recent hack on Hugging Face is about timely defense in cybersecurity beyond just AI-specific measures.",
+        "Hackers targeting OpenAI's services caused immediate and widespdependent disruption, indicating a swift attack vector exploited by threat actors.",
+        "The resilience shown by IT security teams highlighted the importance of traditional defenses against sophisticated AI-powered cyber threats."
+      ],
+      "insight": "This incident reveals that while AI technologies can enhance hacking methods, they don't render current cybersecurity measures ineffective. The response to this breach underscores the ongoing significance of traditional IT security defenses against sophisticated threats."
+    },
+    {
+      "title": "핀텔, 공군 기지에 ‘AI 경계감시망’ 구축하며 국방 사업 본격화",
+      "link": "http://www.boannews.com/media/view.asp?idx=144964&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 30 Jul 2026 23:14:00 +0900",
+      "description": "국산 NPU에 자체 AI 영상분석 소프트웨어 적용공군 기지 시작으로 해안·함정·항공 분야 확대 추진[보안뉴스 엄호식 기자] 인공지능(AI) 기술 선도 기업 핀텔이 공군 기지의 주요 경계 지역을 실시간 감시하는 국방 AI 사업에 진출했다. 핀텔은 ‘NPU 기반 지능형 영상감시체계 시범 구축 사업’을 수주했다고 30일 밝혔다.이번 사업은 공군 기지의 활주로와",
+      "language": "ko",
+      "summary": "국산 NPU에 자체 AI 영상분석 소프트웨어 적용공군 기지 시작으로 해안·함정·항공 분야 확대 추진[보안뉴스 엄호식 기자] 인공지능(AI) 기술 선도 기업 핀텔이 공군 기지의 주요 경계 지역을 실시간 감시하는 국방 AI 사업에 진출했다. 핀텔은 ‘NPU 기반 지능형 영상감시체계 시범 구축 사업’을 수주했다고 30일 밝혔다...",
+      "points": [
+        "국산 NPU에 자체 AI 영상분석 소프트웨어 적용공군 기지 시작으로 해안·함정·항공 분야 확대 추진[보안뉴스 엄호식 기자] 인공지능(AI) 기술 선도 기업 핀텔이 공군 기지의 주요...",
+        "핀텔은 ‘NPU 기반 지능형 영상감시체계 시범 구축 사업’을 수주했다고 30일 밝혔다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 30 Jul 2026 14:00:00 +0000",
+      "description": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+      "language": "en",
+      "summary": "TechCrunch's TechCrunch Disrupt 2026 featured leaders from Amazon, Replit, Tether among others in its main stage.",
+      "points": [
+        "The TechCrunch Disrupt stage is a significant event for tech conversations with over ten years of history.",
+        "Leaders like Tim Cook (Amazon), Robin Chase (Replit), and Paolo Cantarutti (Tether) are among the attendees in 2026's main stage.",
+        "The inclusion of various tech leaders on this prominent platform suggests a diverse range of topics for discussion."
+      ],
+      "insight": "This diversity indicates an increasing trend towards cross-industry collaboration and knowledge sharing within the IT/technology sector, possibly leading to innovative disruptions in established markets or practices. Such interdisciplinary interactions may accelerate technological advancements as different perspectives converge on common challenges."
+    },
     {
       "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
       "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
@@ -508,246 +748,6 @@
         "The US government cited national security concerns as reasons behind their decision, which experts argue may have more economic implications"
       ],
       "insight": "This news sends a strong message about the importance of domestic production and self-sufficiency in critical technological areas. It could also signal increasing tensions between nations with regards to trade and technology."
-    },
-    {
-      "title": "Google brings its age-assurance technology to Android developers worldwide",
-      "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 17:00:00 +0000",
-      "description": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
-      "language": "en",
-      "summary": "Google has launched the Play Age Signals API globally for Android app developers, allowing them to offer personalized content while preserving user privacy by focusing on age group data instead of individual identities.",
-      "points": [
-        "Play Age Signals API enables apps to tailor experiences based on users' ages without compromising their anonymity",
-        "Google aims for this technology expansion as it seeks broader adoption across Android developers worldwide",
-        "This approach provides personalized yet privacy-respecting services"
-      ],
-      "insight": "The release of Google's Play Age Signals API demonstrates the industry’s move towards respecting user privacy while still delivering customized experiences, which could set a new standard for age classification technologies."
-    },
-    {
-      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
-      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 15:36:48 +0000",
-      "description": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
-      "language": "en",
-      "summary": "After Elon Musk took over as CEO and increased freedom on content moderation, X faced a boycott by World Federation of Advertisers (WFA) leading to multiyear legal battles.",
-      "points": [
-        "Elon Musk's takeover resulted in more lenient content policies for platform X",
-        "X experienced significant advertising revenue decline post-takeover, citing concerns over ad fraud and misuse of user data by major tech platforms",
-        "World Federation of Advertisers (WFA) boycotted X following the takeover without providing a valid justification for their stance"
-      ],
-      "insight": "The World Federation's unjustified actions against platform X highlight ongoing concerns about ad quality and data practices within digital advertising ecosystem, potentially influencing future industry-wide standards."
-    },
-    {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 15:35:09 +0000",
-      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "language": "en",
-      "summary": "Hint is an artificial intelligence startup co-founded by Martha Stewart that integrates various aspects of property management into one application.",
-      "points": [
-        "Martha Stewart and her husband Stewart Green are founders of Hint, a home AI assistant platform launched in March.",
-        "The Hint app unifies different elements like maintenance schedules, HOA records, real estate deeds with an intelligent virtual assistant for personalized property management advice.",
-        "Having the backing of notable investors and Martha Stewart’thistoric television presence, Hint is positioned to compete in a growing market where apps like TaskRabbit offer similar services."
-      ],
-      "insight": "Hint's launch represents an expansion into AI-powered home management solutions, potentially attracting users who value Martha Stewart's expertise and are looking for convenience in maintaining their properties."
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 15:00:00 +0000",
-      "description": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-      "language": "en",
-      "summary": "AI Browser Perplexity targets knowledge workers with its AI-first browser concept in the wake of Comet launch.",
-      "points": [
-        "Perplexity has developed an AI-driven browser for enhancing productivity among knowledge workers, backed by a $5.7 million seed funding led by Madrona.",
-        "The Perplexity Browser integrates seamlessly with Microsoft Office and Google Workspace apps to provide intelligent assistance in completing tasks like drafts or scheduling meetings.",
-        "While the browser is designed for knowledge workers, its AI-powered features could set a precedence that extends across various professional fields requiring intensive data analysis."
-      ],
-      "insight": "The launch of Perplexity Browser underscinces a shift towards integrating AI in everyday productivity tools within the IT industry. It opens up new possibilities for knowledge work, setting a trend that could inspire similar developments across various domains requiring intensive data analysis."
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "language": "en",
-      "summary": "Encore AI has raised $30 million to create artificial intelligence agents that learn from customer interactions by analyzing calls, messages, and CRM data.",
-      "points": [
-        "The startup aims to utilize the information gathered during sales conversations to develop effective playbooks for their AI assistants.",
-        "Encore'table focuses on identifying successful strategies within customer interactions by analyzing recorded calls alongside messages and CRM data.",
-        "$30 million in funding has been secured, demonstrating investor confidence in the startup's potential to revolutionize sales processes with AI."
-      ],
-      "insight": "This development signifies a growing trend of integrating artificial intelligence into customer service roles within IT and technology fields. As these systems become more advanced, it may lead to widespread changes in how businesses approach client interactions and manage their sales strategies."
-    },
-    {
-      "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-      "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 14:00:00 +0000",
-      "description": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activists” pushing back against Big Tech, they think the rest of […]",
-      "language": "en",
-      "summary": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activists” pushing back against Big Tech, they think the rest of […]",
-      "points": [
-        "Now, with a new flip phone and a growing wave of “attention activists” pushing back against Big Tech...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "DoorDash is building its own drone delivery business",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 13:00:00 +0000",
-      "description": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
-      "language": "en",
-      "summary": "DoorDash has obtained federal aviation authority for its own autonomous aerial logistics division.",
-      "points": [
-        "FAA grants DoorDash commercial drone delivery license",
-        "Pilot program launched in California and Virginia with food deliveries using drones from local restaurants like Chick-fil-A, Papa John'su Pizza, The Cheese Store NYC, Olive Garden among others.",
-        "Expected to expand service nationwide after initial tests"
-      ],
-      "insight": "This development indicates a significant shift towards autonomous technology in the retail and food industry logistics sector."
-    },
-    {
-      "title": "Spotify adds a running mode to its app",
-      "link": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 13:00:00 +0000",
-      "description": "Running Mode will be available to Premium users on iOS in select countries",
-      "language": "en",
-      "summary": "Spotify has introduced a new Running Mode feature for premium subscribers that automatically pauses music playback when the user starts running and resumes after they stop.",
-      "points": [
-        "Running Mode is now available to Spotify Premium users on iOS in select countries",
-        "The app detects movement through GPS data or accelerometer, controlling audio accordingly",
-        "This new feature enhances workout experiences and convenience for premium subscribers"
-      ],
-      "insight": "With Running Mode becoming available to more Spotify users globally, it may influence other music streaming platforms to develop similar functionalities, increasing user engagement during exercise routines."
-    },
-    {
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 12:00:00 +0000",
-      "description": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
-      "language": "en",
-      "summary": "A California-based company is using additional aluminum scrap as feedstock for electrochemical cells designed to recover valuable metals like cobalt and lithium from waste streams.",
-      "points": [
-        "Fast Metals plans to utilize caustic aluminum scraps, which are traditionally considered 'waste', by incorporating them into a proprietary process that extracts critical minerals such as cobalt and lithium for reuse in high-value applications.",
-        "The company's method involves recycling used batteries to access these valuable metals within, which are often extracted using hazardous processes like acid leaching or smelting that pose environmental concerns due to CO2 emissions and water pollution. Fast Metals aims to provide an alternative through their electrochemical process.",
-        "Fast Metals' approach not only presents potential economic benefits but also promises more environmentally friendly mineral recovery, aiming for less impact on climate change with reduced energy consumption compared to conventional methods."
-      ],
-      "insight": "This news indicates a shift towards sustainable practices in the IT/technology industry by repurposing waste materials as feedstocks and employing greener extraction technologies, which could have significant environmental and economic implications for resource recovery processes within this sector."
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "language": "en",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview",
-      "points": [
-        "Pangram has raised $9 million to scale its AI detection software",
-        "The startup has also released a new AI text detection model, Pangram 4, and an AI image detection mo...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 화이트디펜더, AI 시대 랜섬웨어 대응 새로운 기준",
-      "link": "http://www.boannews.com/media/view.asp?idx=144903&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Jul 2026 16:59:00 +0900",
-      "description": "행위 기반 탐지와 SaaS 통합관리[보안뉴스 강현주 기자] 에브리존은 안티랜섬웨어 화이트디펜더(WhiteDefender)와 새롭게 출시한 서비스형 소프트웨어(SaaS) 기반 화이트디펜더 플랫폼(WhiteDefender Platform)을 선보인다. 최근 랜섬웨어는 AI 기술을 활용해 공격 속도와 정교함을 빠르게 높여가고 있다. 공격자는 생성형 AI를 이용해",
-      "language": "ko",
-      "summary": "행위 기반 탐지와 SaaS 통합관리[보안뉴스 강현주 기자] 에브리존은 안티랜섬웨어 화이트디펜더(WhiteDefender)와 새롭게 출시한 서비스형 소프트웨어(SaaS) 기반 화이트디펜더 플랫폼(WhiteDefender Platform)을 선보인다. 최근 랜섬웨어는 AI 기술을 활용해 공격 속도와 정교함을 빠르게 높여가고 있다...",
-      "points": [
-        "행위 기반 탐지와 SaaS 통합관리[보안뉴스 강현주 기자] 에브리존은 안티랜섬웨어 화이트디펜더(WhiteDefender)와 새롭게 출시한 서비스형 소프트웨어(SaaS) 기반 화이트...",
-        "최근 랜섬웨어는 AI 기술을 활용해 공격 속도와 정교함을 빠르게 높여가고 있다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] XBOW, 자율 모의해킹으로 보안 검증의 기준 다시 쓰다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144879&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Jul 2026 16:56:00 +0900",
-      "description": "인간의 한계를 넘어서는 AI[보안뉴스 엄호식 기자] AI 에이전트가 인간 화이트해커를 제치고 글로벌 버그바운티 정상에 오른 사건은, 애플리케이션 보안이 새로운 국면에 접어들었음을 알리는 신호였다. 2025년 HackerOne 전미 랭킹 1위를 기록한 주인공은 사람이 아닌 XBOW의 AI 에이전트였다.’탐지’에서 ‘검증’으로XBOW는 웹 애플리케이션과 API",
-      "language": "ko",
-      "summary": "AI 에이전트 XBOW이 인간의 보안을 위해 개선한 웹애플리케이션, API를 제공하여 결국적으로 보안 기준을 다시 능숴화함을 나타냄",
-      "points": [
-        "XBOW은 AI를 이용한 보안 업계에서 새로운 기능의 도움이다.",
-        "HackerOne 게시판에서 XBOW는 2025년 미리보고 1위를 차지했다.",
-        "XBOW은 인간을 대체하여 보안 모의해를 제공한다."
-      ],
-      "insight": "딱 정말로 AI가 보안 업계에서 탈세대로 인삿중이고 있는 경우, XBOW의 성공한 방식은 게시판과 인기를 둔다."
-    },
-    {
-      "title": "허깅페이스 해킹 ‘AI 안전’ 경종... “가드레일 의존말고 ‘기본’ 충실”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144928&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Jul 2026 16:46:00 +0900",
-      "description": "“AI 자기 통제 한계”... 인증 보안 등 기본 탄탄해야“프롬프트 조작으로 페이블5 가드레일 탈옥 성공”[보안뉴스 강현주 기자] 오픈AI의 ‘GPT-5.6’이 샌드박스를 스스로 뚫고 나와 오픈소스 AI 공유 플랫폼 ‘허깅페이스’를 해킹한 사건은 AI 모델의 ‘안전장치’ 의존에 대한 경종을 울리고 있다. 29일 보안 전문가들 사이에서는 “인간 해커보다 훨씬",
-      "language": "ko",
-      "summary": "“AI 자기 통제 한계”. 인증 보안 등 기본 탄탄해야“프롬프트 조작으로 페이블5 가드레일 탈옥 성공”[보안뉴스 강현주 기자] 오픈AI의 ‘GPT-5...",
-      "points": [
-        "인증 보안 등 기본 탄탄해야“프롬프트 조작으로 페이블5 가드레일 탈옥 성공”[보안뉴스 강현주 기자] 오픈AI의 ‘GPT-5",
-        "6’이 샌드박스를 스스로 뚫고 나와 오픈소스 AI 공유 플랫폼 ‘허깅페이스’를 해킹한 사건은 AI 모델의 ‘안전장치’ 의존에 대한 경종을 울리고 있다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[배종찬의 보안 빅데이터] 빈번한 해킹으로 ‘공유재산’이 되어버린 ‘개인정보’",
-      "link": "http://www.boannews.com/media/view.asp?idx=144929&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Jul 2026 16:38:00 +0900",
-      "description": "최근 개인정보 유출 사례의 핵심은 수법의 다양화와 비대면 채널의 취약성크리덴셜스터핑 및 금융 및 투자 사기 연계형 유출 사례가 급증[보안뉴스= 배종찬 인사이트케이 연구소장] 디지털 대전환 시대를 살아가는 현대인에게 개인정보는 단순한 식별 수단을 넘어 자산이자 신분 그 자체로 여겨진다. 하지만 최근 연이어 들려오는 대규모 유출 소식들은 우리의 신분 지도가 얼",
-      "language": "ko",
-      "summary": "기사는 개인정보가 우리의 신분 지도로 환영될 수 s를 주었다.",
-      "points": [
-        "- 수법의 다양화와 비대면 채널의 취약성에서 개인정보를 강력히 탄출",
-        "- 금융 및 투자 사기 연곀 유출 없이 개인정보는 공유재산이 되어나",
-        "- IT/기술 업체에서 개인정보의 중요성을 강조함"
-      ],
-      "insight": "IT/기술 업체가 개인정보를 보호하고자 한다면, 이러한 문제점에 대비해서 실습코드를 통해 개인정보 안전성을 유지하는 방법을 고민해야 함."
-    },
-    {
-      "title": "[해킹을 결제하시겠습니까?] #10. 새 체크카드 등록 후 5분, 해킹은 여기서 갈린다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144870&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Jul 2026 14:43:00 +0900",
-      "description": "새 체크카드 수령 후 필수 보안 점검금융사기 예방 위한 기본 설정 체크리스트[보안뉴스 강초희 기자] 새 체크카드를 받으면 대부분 비밀번호 등록만 마친 뒤 바로 사용한다. 하지만 카드도 스마트폰처럼 ‘초기 설정’이 필요하다. 해외결제와 결제 알림, 사용 한도 등 기본 보안 설정을 확인하지 않으면 카드 정보 유출이나 부정 사용 발생 시 피해가 커질 수 있다.",
-      "language": "ko",
-      "summary": "기사는 비밀번호 등을 확보하지 않거나 설정이 되어있지 않은 새 체크카드를 사용한다는 주장에 대해 언급한다.",
-      "points": [
-        "새 체크카드를 받으면 잘 설정하지 않을 수 0 최소.",
-        "기본 보안 설정이 필요하며, 그 외사용 위대한 접근은 방해가 되어 있다.",
-        "비밀번호 등을 보장하지 않아도 정신없는 별로만 사용할 수 없다."
-      ],
-      "insight": "기사는 새 체크카드 감마를 잘하지 못한다는 주장에 대해 강조하고 있으며, 비밀번호 등을 확보하지 않아도 직접 사용이 어렵다는 것을 강조한다."
-    },
-    {
-      "title": "“보안사고 83% AI 악용” 기가몬, 2026 보안 보고서 발표",
-      "link": "http://www.boannews.com/media/view.asp?idx=144920&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 29 Jul 2026 14:07:00 +0900",
-      "description": "글로벌 IT 조직 1023명 대상 조사 결과, 65% 침해 사고 경험투자와 효용감의 간극 짚은 ‘AI 보안 착시’ 현상... 심층 가시성 필요해[보안뉴스 조재호 기자] 지난 1년간 보안 침해 사고를 경험한 기업 10곳 중 8곳 이상(83%)에서 AI가 관련된 위협이 발생한 것으로 드러나, AI 기술 이면에 도사린 보안 리스크가 현실화되고 있다. 공격자들은",
-      "language": "ko",
-      "summary": "글로벌 IT 조직 1023명 대상 조사 결과, 65% 침해 사고 경험투자와 효용감의 간극 짚은 ‘AI 보안 착시’ 현상. 심층 가시성 필요해[보안뉴스 조재호 기자] 지난 1년간 보안 침해 사고를 경험한 기업 10곳 중 8곳 이상(83%)에서 AI가 관련된 위협이 발생한 것으로 드러나, AI 기술 이면에 도사린 보안 리스크가 현실화되고 있다",
-      "points": [
-        "글로벌 IT 조직 1023명 대상 조사 결과, 65% 침해 사고 경험투자와 효용감의 간극 짚은 ‘AI 보안 착시’ 현상",
-        "심층 가시성 필요해[보안뉴스 조재호 기자] 지난 1년간 보안 침해 사고를 경험한 기업 10곳 중 8곳 이상(83%)에서 AI가 관련된 위협이 발생한 것으로 드러나, AI 기술 이면...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
