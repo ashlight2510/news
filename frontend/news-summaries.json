@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-31T08:57:30.013Z",
+  "generatedAt": "2026-07-31T14:06:14.958Z",
   "articles": [
+    {
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 13:45:53 +0000",
+      "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+      "language": "en",
+      "summary": "Elon Musk's companies may undergo a major restructuring by selling Tesla'thy China operations and merging with SpaceX.",
+      "points": [
+        "Tesla is reportedly considering the sale of its business in mainland China as part of an anticipated corporate reorganization that could also see it merge with Elon Musk’s space exploration company, SpaceX.",
+        "The potential move comes amidst a backdrop where Tesla has faced various challenges on different fronts including safety concerns over its Autopilot feature and supply chain issues for battery production in China which could impact the sale negotiations.",
+        "Despite these setbacks, Musk continues to show interest in pushing forward with major restructuring efforts that will potentially combine his interests into a single conglomerate."
+      ],
+      "insight": "The planned Tesla and SpaceX merger represents an ambitious attempt by Elon Musk to create the first multi-planetary human civilization, which could significantly alter investment focus within the IT/technology industry towards space exploration technologies."
+    },
+    {
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0000",
+      "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+      "language": "en",
+      "summary": "Ryan Williams' repeat entrepreneurship firm Ellis AI has secured $1 end to the story is that it plans on using this capital for further research and development.",
+      "points": [
+        "Ellis AI, led by Ryan Williams who also founded OnDeck Capital LLC., announced a significant milestone with its first-ever outside funding round of $10 million in seed stage.",
+        "The company intends to use the funds for research and development (R&D) purposes exclusively within artificial intelligence solutions targeted at private credit managers, including onboarding tools such as due diligence checklists and scoring systems.",
+        "This news signifies a growing interest in AI applications that can streamline financial processes traditionally managed by humans or less advanced software."
+      ],
+      "insight": "The fundraising achievement by Ellis AI, led by former OnDeck Capital CEO Ryan Williams, not only showcases the potential of artificial intelligence in transforming credit management but also highlights the increasing willingness among investors to back technology-driven solutions aimed at revolutionizing conventional business processes."
+    },
+    {
+      "title": "슈프리마, AI 얼굴인식 기반 실시간 수색자 검색 솔루션 ‘큐페이스 파인더’ GS인증 1등급 획득",
+      "link": "http://www.boannews.com/media/view.asp?idx=144969&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Fri, 31 Jul 2026 18:28:00 +0900",
+      "description": "소프트웨어 품질인증 확보로 공공 안전 인프라 경쟁력 강화[보안뉴스 엄호식 기자] 지능형 출입통제 및 물리보안 솔루션 전문기업 슈프리마(대표 이재원, 김한철)의 AI 얼굴인식 기반 실시간 수색자 검색 솔루션 ‘큐페이스 파인더’(Q-Face Finder)가 한국정보통신기술협회(TTA)가 주관하는 소프트웨어 품질인증 제도에서 최고 등급인 ‘GS(Goo",
+      "language": "ko",
+      "summary": "소프트웨어 품질인증 확보로 공공 안전 인프라 경쟁력 강화[보안뉴스 엄호식 기자] 지능형 출입통제 및 물리보안 솔루션 전문기업 슈프리마(대표 이재원, 김한철)의 AI 얼굴인식 기반 실시간 수색자 검색 솔루션 ‘큐페이스 파인더’(Q-Face Finder)가 한국정보통신기술협회(TTA)가 주관하는 소프트웨어 품질인증 제도에서 최고 등급인 ‘GS(Goo",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "마이크로소프트, 글로벌 프론티어 전환 고객 사례 공개 “에이전틱 워크플로로 AI 가치를 비즈니스 성과로 전환”",
       "link": "http://www.boannews.com/media/view.asp?idx=144968&kind=&sub_kind=",
@@ -705,51 +750,6 @@
         0.2564
       ],
       "insight": "이러한 기술들은 IT 업체에서의 보안적 연구와 개선을 촉진시키고, 글로벌 지원과 EDID를 통해 국내 SAP 보안 시장에서 상위순위를 차지합니다."
-    },
-    {
-      "title": "상반기, ‘핵티비스트 디도스’ 기승부리고 ‘생성형 AI 위협’ 고조",
-      "link": "http://www.boannews.com/media/view.asp?idx=144957&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 15:52:00 +0900",
-      "description": "서버 해킹 줄고 디도스 증가... ‘리퍼섹’ 금융권 등 공격 민간 침해사고 신고 건수 1236건... 19.5% 증가[보안뉴스 강현주 기자] 2026년 상반기는 핵티비스트들의 디도스(DDoS) 공격이 기승을 부렸고, ‘미토스 충격’으로 불리는 생성형 AI의 위협이 고조됐다. 30일 과학기술정보통신부와 한국인터넷진흥원(KISA)은 ‘2026년 상반기 사이버",
-      "language": "ko",
-      "summary": "서버 해킹 줄고 디도스 증가. ‘리퍼섹’ 금융권 등 공격 민간 침해사고 신고 건수 1236건...",
-      "points": [
-        "‘리퍼섹’ 금융권 등 공격 민간 침해사고 신고 건수 1236건",
-        "5% 증가[보안뉴스 강현주 기자] 2026년 상반기는 핵티비스트들의 디도스(DDoS) 공격이 기승을 부렸고, ‘미토스 충격’으로 불리는 생성형 AI의 위협이 고조됐다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "한국형 ‘플러그인 생태계’ 정조준... 정부, 합동 보안 권고문 발표",
-      "link": "http://www.boannews.com/media/view.asp?idx=144956&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 15:48:00 +0900",
-      "description": "방치된 구형 전자서명·인증 프로그램 취약점 노린 정교한 ‘워터링홀’ 기승오래된 전자서명·인증 프로그램 삭제 권고, 기업은 네트워크 분리·SBOM 관리[보안뉴스 조재호 기자] 뉴스나 병원 사이트 방문만으로도 오래된 보안 프로그램 취약점을 통해 악성코드에 감염되는 ‘워터링홀’ 공격이 기승을 부리면서, 정부 및 보안 유관기관이 민관 합동 사이버보안 권고문을 발표",
-      "language": "ko",
-      "summary": "한국의 정보보안에 중요한 공격없이 플러그인 생태계가 IT 기술 회사를 위해 강제로 수동 방문을 얻는 ‘워터링홀’에 대한 보안 광고 및 정부 진입의 이어지면서 전용한 IT 보안 궜명으로 시사합니다.",
-      "points": [
-        "- 플러그인 생태계가 보안에 미치는 일쿠손의 영향",
-        "- IT 기술 회사는 수동 방문을 피하는 노린 보안 프로그램이 아니면 다음과 같은 위험에 집어들여질 가능성",
-        "- IT/기술 회사가 인식해야 하는 보안 부분은 ‘전문가’, ‘공격자’, ‘플러그인자’에서 이어지면서 정의를 줄여야 합니다."
-      ],
-      "insight": "기사는 IT 회사가 보안적인 관리를 취약으로 보고받을 수 0에서 3이하의 점수와 플러그인 생태계, IT/기술 회사가 직접 다니는 소재보안 노 cittily를 다루는 문제점을 강조합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 제이콥시스템, 표준인증 프로토콜 기반 접근제어 ‘ATZone 2.0’ 선보여",
-      "link": "http://www.boannews.com/media/view.asp?idx=144948&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 15:36:00 +0900",
-      "description": "TACACS+·RADIUS 기반 국산 접근제어 솔루션으로 금융·공공기관 등 전 산업군 공략[보안뉴스 원병철 기자] 제이콥시스템(대표 정자현)은 표준 인증 프로토콜(TACACS+·RADIUS) 기반 통합 접근제어 솔루션 ‘ATZone’을 개발·공급하는 정보보호 전문 기업이다. 최근 자사 솔루션 ATZone v2.0으로 TTA(한국정보통신기술협회) GS인증 1",
-      "language": "ko",
-      "summary": "제이콜시스템은 TACACS+·RADIUS 기반의 국산 접근제어운영체제를 개발하고 공급하는 기술 기업이다.",
-      "points": [
-        "제이콜시스템은 TACACS+·RADIUS 기반의 국산 접근제어운영체제를 개받",
-        "제이콜시스템은 ATZone v2.0으로 TTA는 이에 기인증을 하여 공급한다.",
-        "ATZone v2 end-to-end 국산 접근제어 솔루션은 ATZONE 설정과 MFA 항원을 포함한다."
-      ],
-      "insight": "이제보다는 ATZone 2.0는 TTA나 공급받은 기업에서 IT/기술 업계에서 중요하게 선호되고 있다."
     }
   ]
 }
