@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-07-31T14:06:14.958Z",
+  "generatedAt": "2026-07-31T19:27:11.621Z",
   "articles": [
+    {
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 19:00:00 +0000",
+      "description": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+      "language": "en",
+      "summary": "New research from the U. ’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play",
+      "points": [
+        "New research from the U",
+        "’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commi...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "language": "en",
+      "summary": "OpenAI CEO Sam Altman suggests the AI industry may need to slow down after years of rapid development and recent events highlighting potential risks.",
+      "points": [
+        "Sam Altman, OpenAI's CEO, calls for a 'pace,' indicating caution in further advancing artificial intelligence (AI).",
+        "The AI industry is reevaluating its approach following the unexpected behaviors of models like ChatGPT.",
+        "Security concerns and ethical implications are influencing shifts towards more controlled development, as seen with Altman's comments."
+      ],
+      "insight": "Sam Altman's comment may signal a broader industry reflection on the responsible growth of AI technology amidst emerging risks. This could lead to revised standards and regulations for safer integration into society."
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "language": "en",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 16:08:18 +0000",
+      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "language": "en",
+      "summary": "Apple could introduce a paywall for advanced Siri capabilities within the framework of its subscription service 'iCloud+' as envisioned by CEO Tim Cook.",
+      "points": [
+        "Tim Cook has expressed his vision to offer more compute-powered features with Siri through Apple'CTown+ subscriptions",
+        "Currently, there is no mention in the article about what specific capabilities would be paywalled or how much they cost",
+        "The integration of these advanced Siri AI services could potentially set a precedent for other software companies"
+      ],
+      "insight": "This development may suggest Apple's strategy to increase revenue by monetizing enhancements in its artificial intelligence capabilities while maintaining user loyalty and satisfaction."
+    },
+    {
+      "title": "GM and Ford are talking less and less about EVs",
+      "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 15:47:46 +0000",
+      "description": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
+      "language": "en",
+      "summary": "Recent reports indicate that U.S. automakers General Motors (GM) and Ford are reducing their focus on electric vehicles during investor calls compared to pre-pandemic levels.",
+      "points": [
+        "Investor call frequency regarding EVs has declined for GM and Ford",
+        "Automakers' reduced emphasis may impact consumer confidence in transitioning away from internal combustion engines (ICE)",
+        "Lowered focus on electric vehicles raises questions about the companies’ future strategies"
+      ],
+      "insight": "The decreased attention to EV development by these automakers could signify a significant shift or uncertainty within the industry regarding electrification and climate change commitments."
+    },
+    {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 15:37:58 +0000",
+      "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+      "language": "en",
+      "summary": "Samsung predicts the memory (DRAM) shortage will intensify through to late 2currectYearsto early next year, extending into at least until after Christmas in 2023 and potentially lasting till as far out as mid-2024. This is expected due to rising global demand for AI data centers.",
+      "points": [
+        "Samsung anticipates DRAM chip shortage continuation through late 2023 or early into next year",
+        "The memory crunch has been primarily caused by soaring demands from the booming artificial intelligence sector in data centers, which is now consuming half of all new computer chips produced annually.",
+        "This unprecedented shortage could lead to rising prices and rationing for end-user products if chip manufacturers prioritize AI applications over consumer electronics."
+      ],
+      "insight": "The DRAM memory crunch, primarily driven by increased demand from the burgeoning artificial intelligence sector in data centers has significant implications on product pricing and availability for end-users. Manufacturers may need to rethink priorities as we move forward."
+    },
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 15:16:17 +0000",
+      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "language": "en",
+      "summary": "SpaceX has initiated construction of a new power plant at xAI’s Colossus data centers but plans to delay the removal of unauthorized turbines for additional time.",
+      "points": [
+        "Construction commenced on SpaceX's solar farm, supplying energy to xAI's vast server complexes.",
+        "Despite legal obligations set by local authorities, unpermitted wind and sun power installations remain in place due to bureaucratic delays.",
+        "SpaceX is also developing an innovative method of space-based solar power generation."
+      ],
+      "insight": "The postponement highlights potential issues within regulatory frameworks that could impact the timely advancement and environmental benefits promised by renewable energy projects in IT infrastructures globally."
+    },
+    {
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 14:49:21 +0000",
+      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testing later this year.",
+      "language": "en",
+      "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testing later this year",
+      "points": [
+        "CEO Steve Huffman said the feature is already in the works and could begin testing later this year",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 14:47:11 +0000",
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "language": "en",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test",
+      "points": [
+        "The startup is building voice models designed to make AI phone calls pass the Turing test",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "WhatsApp is testing a new folder for messages from large businesses",
+      "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 31 Jul 2026 14:39:43 +0000",
+      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
+      "language": "en",
+      "summary": "Starting next week, WhatsApp plans on creating special folders for mass communications with enterprises as opposed to individual businesses or organizations.",
+      "points": [
+        "WhatsApp is developing a new folder specifically designed for large corporate accounts in the UK and India",
+        "Messages from these large entities will automatically be moved into this 'Enterprise Accounts' group after certain hours post-delivery as announced by WhatsApp CEO, Will Cathcart.",
+        "The move is aimed at reducing spam on personal messaging apps without compromising communication lines between businesses and customers"
+      ],
+      "insight": "This news indicates a shift in how large corporations communicate with consumers via social platforms. By segregating mass communications from regular user chats, WhatsApp can potentially streamline internal customer service operations while minimizing spam for individuals."
+    },
     {
       "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
       "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
@@ -600,156 +750,6 @@
         "The inclusion of various tech leaders on this prominent platform suggests a diverse range of topics for discussion."
       ],
       "insight": "This diversity indicates an increasing trend towards cross-industry collaboration and knowledge sharing within the IT/technology sector, possibly leading to innovative disruptions in established markets or practices. Such interdisciplinary interactions may accelerate technological advancements as different perspectives converge on common challenges."
-    },
-    {
-      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Jul 2026 13:30:52 +0000",
-      "description": "The U.S. federal consumer watchdog said Hims & Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-      "language": "en",
-      "summary": "The FTC has filed a lawsuit against Hims & Hers over allegations that the company shared patient data with Meta and Snap without consent.",
-      "points": [
-        "Hims & Hers operates in sexual wellness and mental health sectors, prescribing medication for patients",
-        "The federal consumer watchdog has accused the firm of using website trackers to share customer information unlawfully with Meta (Facebook) and Snapchat.",
-        "The FTC alleges that Hims & Hers shared identifiable data from millions of users without explicit consent, which is a violation of privacy laws."
-      ],
-      "insight": "This news highlights potential issues regarding user privacy in the digital health space and raises concerns about how patient information might be utilized by third parties beyond direct care provision. It underscries the need for transparency when handling sensitive medical data, especially as it pertains to sexual wellness and mental health."
-    },
-    {
-      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Jul 2026 13:09:03 +0000",
-      "description": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
-      "language": "en",
-      "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Spotify adds a running mode to its app",
-      "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "description": "Running Mode will be available to Premium users on iOS in select countries",
-      "language": "en",
-      "summary": "Running Mode will be available to Premium users on iOS in select countries",
-      "points": [
-        "Running Mode will be available to Premium users on iOS in select countries",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "description": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
-      "language": "en",
-      "summary": "Inforcer has secured a significant funding of $50 million in its latest investment phase to aid smaller businesses navigate the complexities of AI and heightened security risks.",
-      "points": [
-        "Inforcer, an IT company focusing on cloud-native cybersecurity solutions for SMEs (Small and Medium Enterprises), has raised $50 million in Series C funding led by Insight Partners.",
-        "The investment will bolster Inforcer' endorsed products which are engineered to fortify small businesses against emerging cybersecurity threats, particularly from AI-driven adversaries as per the company founder Rohit Bansal. The funds aim at expanding product capabilities and addressing future challenges.",
-        "Inforcer aims not only in protection but also education of smaller entities about evolving IT risks related to Artificial Intelligence."
-      ],
-      "insight": "This investment underscores the growing necessity for cybersecurity solutions that cater specifically to SMEs, which are often less equipped than larger corporations. Inforcer's focus on AI-driven threats reveals an industry trend of increasing sophistication among threat actors and a parallel need in defense technologies."
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "language": "en",
-      "summary": "Dili has secured $21.7 million in funding to create AI-driven compliance tools for the rapidly expanding infrastructure sector.",
-      "points": [
-        "A Series A round of $21.7 million was led by Khosla Ventures and backed by Allianz, Rebel Fund, Brick and Mortar Ventures' Darren Bechtel, and Y Combinator’ extr...",
-        "Dili is focused on addressing the regulatory compliance needs of infrastructure projects with AI.",
-        "The funding will support Dili in developing its software platform across multiple markets."
-      ],
-      "insight": "This investment highlights a growing demand for intelligent solutions to navigate complex regulations, which is critical as the global focus on sustainable infrastructure expansion intensifies. Companies like Dili that can bridge technology and compliance are likely to become indispeneral in this sector."
-    },
-    {
-      "title": "행정안전부, 제4회 재난안전데이터 활용 창업경진대회 수상작 발표",
-      "link": "http://www.boannews.com/media/view.asp?idx=144962&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 17:55:00 +0900",
-      "description": "창업경진대회 통해 ‘트윈세이퍼’ 대상 수상[보안뉴스 엄호식 기자] 행정안전부(장관 윤호중)는 재난안전데이터를 활용한 창의적 아이디어와 혁신적인 사업 서비스를 발굴하기 위해 7월 27일 ‘제4회 재난안전데이터 활용 창업경진대회’를 개최하고 그 결과를 발표했다. 대회는 아이디어 기획과 제품 및 서비스 개발 2개 부문으로 진행됐으며 전문가로 구성된 심사위원단이",
-      "language": "ko",
-      "summary": "행정안전부가 재난 위기에서 대한 IT/기술 창의성을 촬영하여, '제4회 재난안전데이터 활용 창업경진대회'을 개체화시켔고 있습니다.",
-      "points": [
-        "국민은 재거 사고의 수립 원인과 해결육지 균형에 대한 자세한 정보를 얻기 어려우지만, 이러한 패닉을 완화하기 위해 다시 재개한 국민의 노용.",
-        "대회는 IT/기술 창잘성 관점에서 사회적으로 도전한 '트윈세이퍼' 대상을 보여줍니다.",
-        "국민들은 재난 위기에서의 IT/기술 경영자의 노용에 대한 미리 정신적인 지향성이 있습니다."
-      ],
-      "insight": "국민이 '트윈세이퍼'을 위해 IT/기술 분야에서의 시약과 진보를 통해, 재난 생산자들이 대화를 통해 현실에 대한 상황을 잘리거나 다음 단계로 일컫는가?"
-    },
-    {
-      "title": "소방청, ‘고중량 드론’으로 고층건축물 화재진압 가능성 확인",
-      "link": "http://www.boannews.com/media/view.asp?idx=144958&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 17:36:00 +0900",
-      "description": "국립소방연구원, 소방호스 연결해 고층 외부 화점 수평 방수 성능 실증방수 압력·거리·시간 등 정량 데이터 확보... 현장 적용 기술 고도화 추진 [보안뉴스 강초희 기자] 소방청 국립소방연구원(원장 김연상)은 28일부터 29일까지 충남 당진시 대한전선 케이블 타워에서 고중량 드론을 활용한 고층건축물 고도의 수평 방수 성능 실증을 마쳤다고 밝혔다.이번 실증은",
-      "language": "ko",
-      "summary": "국립소방연구원이 고층건축물 화재진액 가능성을 확인하는 고중량 드론을 사용한 수평 방수 실증 과정에 대해 요약.",
-      "points": [
-        "국립소방연구원이 '고중량 드론'를 활용하여, 대한전선 케이블 타워에서 대체 의무인들에게 수평방치 성공율을 알아내고 진행하였다.",
-        "이어서, 화재진압을 위해 확보된 정량 자료를 직접 조사하여 화재진액 가능성을 결정한다.",
-        "방수 검사에서의 결과는 현장 환경에 따라 매우 중요하고, 그리고 녹화 시스템을 통해 화재진액이나 열의 수를 추적할 수 0r possibility에 대한 이론적인 지원을 제공한다."
-      ],
-      "insight": "이러한 방식은 IT 기술로 인위염을 예상하고 재일기대칭을 감소시키는 영리성을 보장하고, 심첫질화약품사이트의 안전성을 강제한다."
-    },
-    {
-      "title": "침해사고 4건 중 1건 AI 활용... “공격 비용 수백만원인데 피해 비용은 86억원”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144960&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 17:02:00 +0900",
-      "description": "핵심 인프라 산업에 공격 집중AI 모델 또는 AI 애플리케이션 대상 공격 20%[보안뉴스 강현주 기자] 전세계 침해사고 4건 중 1건이 AI를 활용한 공격으로 나타났다. 전년 대비 56% 증가한 수치다.30일 IBM은 ‘2026 데이터 유출 비용 보고서’ 내용을 토대로 이같이 밝혔다. 이번 보고서는 IBM의 후원으로 포네몬연구소가 수행했으며, 2025년 3",
-      "language": "ko",
-      "summary": "AI 기사에서 공격자가 AI를 활용한 공격으로 인해 공격 비용이 56% 증가하였다.",
-      "points": [
-        "AI 기사에서 공격자는 AI를 활용한 공격으로 인해 공격 비용이 56% 증가",
-        "전년대비 56% 증가한 공격적 비용",
-        "IBM 연구소의 ‘2026 데이터 유출 비용 보고서’에서 AI 기사를 포함"
-      ],
-      "insight": "이러한 AI 기사는 IT/기술 업계에서의 공격 유患을 강조해주고, 다음 단일 공격이 큰 비용 자동차인지에 대한 관련 약점을 보여줍니다."
-    },
-    {
-      "title": "조달청, ‘조달자율화 시범사업’ 상반기 점검회의 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144959&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 16:50:00 +0900",
-      "description": "외부 평가위원·관계 부처 참석 전체 회의상반기 점검 및 현장 제언 청취[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 30일 정부대전청사에서 2026년 상반기 조달자율화 시범사업 점검회의’를 개최했다.이번 회의에는 외부 평가위원과 관계 부처 관계자들이 참석해 상반기 시범사업 추진 결과를 점검하고, 하반기 운영 계획에 대한 의견을 나누었다.조달청은 지난 1월",
-      "language": "ko",
-      "summary": "조달청은 이번 주기별 시범사업 활동의 측정과 결과, 그리고 하반기의 행동 방안을 중단적으로 시사한 다음 개최한 회의에 참석했다.",
-      "points": [
-        "이번 주기별 시범사업은 조달자율화를 위한 전문가들과 협상",
-        "관리점보회의가 해외 경영학회국와 연계",
-        "현재 시작하지 못함을 나타내는 이유"
-      ],
-      "insight": "조달자율화시범사업은 일반적으로 정신적으로 중단함을 인식하고, 조달청은 이를 직접적으로 제안한다."
-    },
-    {
-      "title": "[Global Security TOP 100] 최정규 인스피언 대표 “SAP 보안 ‘넘사벽’... AX 키는 연결과 보호”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144802&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 30 Jul 2026 16:35:00 +0900",
-      "description": "“독보적 SAP 보안 기술력과 글로벌 표준 지원 EDI 차별력”[보안뉴스 강현주 기자] SAP EAI 컨설팅을 시작으로 국내 SAP 보안 시장 점유율 1위를 지켜온 인스피언이 전자문서교환(EDI), 기업 애플리케이션 통합(EAI), 보안 정보 및 이벤트 관리(SIEM), 개인정보 접속기록 관리를 결합한 엔터프라이즈 플랫폼 기업으로 도약하고 있다. 최정규",
-      "language": "ko",
-      "summary": "SAP에서 EDID, EAI, SIEM, 개인정보관리를 합친 엔터플레이트로 국내 SAP 보안 시장의 대표.",
-      "points": [
-        "SAP EAI를 시작한 이유는 EDID 기능과 글로벌 지원",
-        "SIEM, 개인정보관리를 함합니다.",
-        0.2564
-      ],
-      "insight": "이러한 기술들은 IT 업체에서의 보안적 연구와 개선을 촉진시키고, 글로벌 지원과 EDID를 통해 국내 SAP 보안 시장에서 상위순위를 차지합니다."
     }
   ]
 }
