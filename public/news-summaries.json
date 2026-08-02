@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-08-02T02:42:20.153Z",
+  "generatedAt": "2026-08-02T08:35:29.331Z",
   "articles": [
+    {
+      "title": "[ISEC 2026 미리보기] Black Duck, SBOM 기반 소프트웨어 공급망 보안으로 글로벌 규제 대응 지원",
+      "link": "http://www.boannews.com/media/view.asp?idx=144949&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:47:00 +0900",
+      "description": "SBOM부터 SCA, SAST, DAST, AI 기반 취약점 분석까지 통합 제공DevSecOps 환경의 안전한 소프트웨어 개발 지원[보안뉴스 원병철 기자] Black Duck은 AI 기반 애플리케이션 보안 분야의 글로벌 리더로, 소프트웨어 보안과 AI 기반의 DevSecOps 구현을 위한 통합 포트폴리오를 제공하고 있다.최근 AI 기반 소프트웨어 개발이 빠",
+      "language": "ko",
+      "summary": "SBOM부터 SCA, SAST, DAST, AI 기반 취약점 분석까지 통합 제공DevSecOps 환경의 안전한 소프트웨어 개발 지원[보안뉴스 원병철 기자] Black Duck은 AI 기반 애플리케이션 보안 분야의 글로벌 리더로, 소프트웨어 보안과 AI 기반의 DevSecOps 구현을 위한 통합 포트폴리오를 제공하고 있다. 최근 AI 기반 소프트웨어 개발이 빠",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[ISEC 2026 미리보기] GS네오텍, ‘ISEC 2026’서 차세대 클라우드 통합 보안 플랫폼 ‘시큐리티 렌즈’ 선보인다",
+      "link": "http://www.boannews.com/media/view.asp?idx=144943&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:45:00 +0900",
+      "description": "국내 규제 환경 맞춤 설계... 코드부터 런타임까지 통합 가시성 확보AI ‘네오봇’으로 위협 분석부터 감사 증적 자동 처리... 자율 보안 제시[보안뉴스 강초희 기자] 국내 IT 산업을 선도하는 GS네오텍이 오는 8월 11일부터 12일까지 서울 코엑스에서 열리는 아시아 최대 규모 사이버보안 콘퍼런스 ‘ISEC 2026’(제20회 국제 시큐리티 콘퍼런스)에",
+      "language": "ko",
+      "summary": "GS네오텍이 ISEC 2026에서 제공한 클라우드 보안 시스템 '시큐리티 렌즈'은 IT 산업의 위협을 AI 기반으로 줄일 수 있는 귀무한 방법으로 인정되고 자동 처리를 이용한다.",
+      "points": [
+        "GS네오텍이 '시큐리티 렌즈' AI 기반의 보안 시스템을 ISEC 2026에서 제공하는",
+        "다양한 IT 산업에서 위협을 피하기 위해 자동 결정을 통합",
+        "대안성질이나 위협 원인에서의 상호작용 분석"
+      ],
+      "insight": "이 기사는 IT/기술 업체가 다양한 IT 보안 방식을 AI로 피하여 자동화시도한다고 가정하고, 그때문에 아이템싱의 경우 위협이 갈아지는 방향성이 어렵다는 것을 강조한다."
+    },
+    {
+      "title": "[2026 비상벨 제품 & 솔루션 리포트] ‘보고’ ‘듣고’ ‘대응’하는 AI 비상벨",
+      "link": "http://www.boannews.com/media/view.asp?idx=144849&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:41:00 +0900",
+      "description": "AI 기반 지능형 비상벨로 진화하는 공공안전 시스템CCTV·관제센터·경찰을 연결하는 통합 대응체계 확산유지관리·표준화가 좌우하는 비상벨 시장의 미래 경쟁력설문조사로 본 비상벨 시장, 연동성과 AI 기능이 핵심 과제[보안뉴스 강초희 기자] 강력범죄와 이상행동 범죄에 대한 사회적 불안이 커지면서 비상벨은 공공안전 인프라의 핵심 요소로 자리 잡고 있다. 지방자치",
+      "language": "ko",
+      "summary": "AI 기반 지능형 비상벨로 진화하는 공공안전 시스템CCTV·관제센터·경찰을 연결하는 통합 대응체계 확산유지관리·표준화가 좌우하는 비상벨 시장의 미래 경쟁력설문조사로 본 비상벨 시장, 연동성과 AI 기능이 핵심 과제[보안뉴스 강초희 기자] 강력범죄와 이상행동 범죄에 대한 사회적 불안이 커지면서 비상벨은 공공안전 인프라의 핵심 요소로 자리 잡고 있다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "“보이스피싱부터 코인 세탁까지”... 금융범죄 잡는 K-보안 협력모델 콘퍼런스 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144974&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:39:00 +0900",
+      "description": "한국금융범죄예방협회 주최 아래 공공 수사기관 및 민간 보안업계 머리 맞댄다인공지능 시대 지능화된 글로벌 금융 사기 억제할 민관 정보분석 해법 전수[보안뉴스 조재호 기자] 아시아 최대 사이버보안 콘퍼런스 ISEC 2026(제20회 국제 시큐리티 콘퍼런스)의 동시개최행사인 ‘글로벌 금융범죄 위협과 K-보안 협력모델’ 콘퍼런스가 11일 서울 코엑스 2층 아셈볼룸",
+      "language": "ko",
+      "summary": "글로벌 금융범집의 위협에 대비하면서 IT/기술 공동조치이 필요한 K-보안 모델 개설.",
+      "points": [
+        "- 한국금융범집에 대한 확인",
+        "- 민족적이지 않은 IT/기술 공동조치의 중요성을 강조",
+        "- ISEC2026 시작으로 국내 보안컨력 개선 계획"
+      ],
+      "insight": "이러한 IT/기술 협력모델은 K-보안 전문가들과 마지막 방사로 세상에 대한 미래를 위해 필요확인하면서도, 금융위기 근위시군들이 보호적인 비중을 주는 것이 중요한 결롬이다."
+    },
+    {
+      "title": "서울시 보안 역량 결집... ‘서울시 사이버보안 콘퍼런스 & 개인정보보호 워크숍’",
+      "link": "http://www.boannews.com/media/view.asp?idx=144975&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:36:00 +0900",
+      "description": "8월 12일 코엑스서 진행... 서울시 정보보안과 주최로 ISEC 2026과 동시 개최본청·사업소·자치구·투자출연기관 대상 정보보호 및 개인정보 역량 강화 초점[보안뉴스 조재호 기자] 서울시 디지털도시국 정보보안과가 주최하는 ‘사이버보안 콘퍼런스 및 개인정보보호 워크숍’이 8월 12일 코엑스에서 개최돼, 본청·사업소·자치구·투자출연기관 실무진의 보안 역량",
+      "language": "ko",
+      "summary": "서울시에서 개체인 보호를 강화하기 위해 개체인 보안 교육을 강력히 진행",
+      "points": [
+        "서울시의 공무원들과 사내에서의 보안 기능을 높이고자 8월 12일에 개체인 보안 교육을 강조",
+        "개인정보보호 워크숍, '사이버보안 콘퍼런스 및 개인정보보호 워크숍',에서는 개체인의 보호와 개인정보보호에 초점을 늚롌다.",
+        "이 교육은 IT/기술 업계에서 핵심으로 개인정보보호에 대한 의미나 인사이트를 제공한다."
+      ],
+      "insight": "이러한 교육은 IT/기술 업계가 개인정보보호 문제에 대응하고 싶은 것을 의미한다."
+    },
+    {
+      "title": "AI 시대 보안 거버넌스 새 판 짠다... ‘제13회 CISO 워크숍’ 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144976&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:31:00 +0900",
+      "description": "12일 오후 1시부터 코엑스 오디토리움서 전개, ISEC 2026 동시 개최홍관희·권용원·이창열·신용석·김정희·황인구 CISO 강단 올라 경영 전략 공유침해 사고 넘어선 사이버 복원력 및 위협자산 플랫폼 구축 해법 짚어[보안뉴스 조재호 기자] 한국CISO협의회와 중앙전파관리소가 공동 주최하는 제13회 CISO 역량강화 워크숍이 8월 12일 코엑스에서 개최돼",
+      "language": "ko",
+      "summary": "AI 시대에 적합한 보안 업협창입자가 강력하게 학교추진하는 '제13회 CISO 워크숍'를 개최",
+      "points": [
+        "- 기사 내에서 정의한 'CISO 인력'이 AI 시대에 따라 변경되어야 할 수 in the news. CISOs should adapt their skills accordingly to tackle emerging cybersecurity challenges.",
+        "- 공동주최한 '제13회 CISO 워크숍'은 IT/기술 업계에서의 핵심 교육과 교정을 위해 개최되었다. It is a strategic initiative aimed at providing advanced education and training for cybersecurity professionals.",
+        "- ISEC 2026의 동시개설이 '경영 전략'과 '사고 발생'에 대한 공유침해가 연결되어야 했다. It seems that the simultaneous announcement of ISEC 2026 and this workshop was intended to address shared security concerns in business strategy, operational risk sharing, and past mistakes."
+      ],
+      "insight": "이러한 과게적인 학습서는 IT/기술 업계에서의 시장체형으로 보상되어있다. This comprehensive learning service is becoming a trendsetter within the market and highlights the industry's recognition of ongoing cybersecurity threats."
+    },
+    {
+      "title": "“데프콘은 대회 아닌 파티” OWASP 서울이 말한 글로벌 컨퍼런스 N배 즐기기",
+      "link": "http://www.boannews.com/media/view.asp?idx=144977&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 16:27:00 +0900",
+      "description": "7월 세미나서 빌리지 자원봉사 및 CTF 운영 통해 합류하는 관람 노하우 소개약한 단일 버그 엮은 ‘익스플로잇 체인’으로 CFP 심사위원 설득하는 기법 눈길[보안뉴스 조재호 기자] 세계 최대 규모의 사이버 보안 컨퍼런스이자 해킹 방어 대회인 데프콘(DEF CON)을 대회나 단순 참관을 넘어 입체적으로 즐길 수 있는 노하우가 공유됐다. 오픈소스 월드 애플리케",
+      "language": "ko",
+      "summary": "이 기사는 OWASP 서울에서 위치한 DEF CON(데프콘)가 수강자는 관람자의 즐기기를 중심으로 하는 이야기를 제시합니다.",
+      "points": [
+        "- DEF CON은 최대한 큰 IT/보안 컨벤션 이미지에서도 빛나는 사진.",
+        "- 수강자는 그냥 전화 중지하거나, 이해가 되지 않은 클라이언트와 연결하여 공유 방어를 통한 IT 보호와 교통 안전에 대한 질문.",
+        "- 익스플로잇 체인이 사용되고, 보안에 노해가 덜다는 것을 강조합니다."
+      ],
+      "insight": "이 뉴스는 IT/기술 업계 사람들이 보안에 대해 더 깊이 모고린 수백명의 크격적인 연구자로 오픈소스 월드 애플리케가 중인 DEF CON(데프콘)이 질문하기도 있는 사회에서의 IT 보호 체인이 없는 곳을 제시한다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 80] 등잔 밑이 어둡다(10)-인감도장 관리 잘못하면 생기는 일",
+      "link": "http://www.boannews.com/media/view.asp?idx=144232&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 10:29:00 +0900",
+      "description": "인감도장과 인감증명서는 따로 보관하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지키느냐의",
+      "language": "ko",
+      "summary": "보안 운영에 유혈한 인식이 중요하며, 습관과 기술의 교동을 강조합니다.",
+      "points": [
+        "- 90% 보안 사고는 대단히 실수로 시작되기에, 습관과 IT 기술의 교동이 필요합니다.",
+        "- 100가지 보안 습관을 속담과 연관시켜 소개하여 보안에 대한 인식을 높이세요.",
+        "- 악의적으로 인감도장을 오해하면서 보안 일이 부탁드나 일해질 수 없다."
+      ],
+      "insight": "보안은 심지어 습규하지만 우리가 반드시 알아서 부탁려는 것은 아니라 기술와 습관을 이정에서 연계해야 한다."
+    },
+    {
+      "title": "통제 부서에서 기술 전도사로... 토스증권이 짚은 AI 시대 보안 혁신",
+      "link": "http://www.boannews.com/media/view.asp?idx=144708&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 10:15:00 +0900",
+      "description": "실무자가 스스로 판단하고 통제하는 사내 문화 조성다층적 운영 모델로 AI 활용 속도와 안전성 동시 확보장세인 CISO “보안 부서는 기준 전파하는 기술 전도사”[보안뉴스 조재호 기자] AI가 도입되면서 문서 초안 작성과 로그 패턴 분석 등 활용 범위가 넓어짐에 따라 보안팀이 감당해야 할 의사결정 업무가 급증하고 있다. 모든 AI 도구 사용 허가 요청이 쏠리",
+      "language": "ko",
+      "summary": "AI의 도전과 결과가 보안업론에서 변화를 인증하고 있음",
+      "points": [
+        "- CISO는 AI를 활용해 속도와 안전성을 동시에 복원",
+        "- AI 기술 전도사로서의 스스로 판단과 통제에 자세",
+        "- AI를 이용한 활용 범위가 넓어지면 보안 작업이 급하게 증가"
+      ],
+      "insight": "보안 커뮤니템 시대의 AI 도전과정이 기술 전반에서 선호되고 있습니다."
+    },
+    {
+      "title": "“AI 시대 개인정보보호 해법 찾는다”... 제3차 CPO 워크숍 11일 개최",
+      "link": "http://www.boannews.com/media/view.asp?idx=144971&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 2 Aug 2026 10:08:00 +0900",
+      "description": "개인정보위 후원 아래 공공·민간 CPO 및 보안 담당자 1000여명 결집AI 활용한 관리 체계 개선 및 데이터 전 생애주기 가시화 전략 심층 논의[보안뉴스 조재호 기자] CPO 워크숍 운영사무국이 주최하고 개인정보보호위원회가 후원하는 ‘2026년 제3차 CPO 워크숍’이 오는 11일 서울 코엑스 오디토리움에서 개최된다.이번 워크숍은 공공 및 민간 부문의 최",
+      "language": "ko",
+      "summary": "개인정보위 후원 아래 공공·민간 CPO 및 보안 담당자 1000여명 결집AI 활용한 관리 체계 개선 및 데이터 전 생애주기 가시화 전략 심층 논의[보안뉴스 조재호 기자] CPO 워크숍 운영사무국이 주최하고 개인정보보호위원회가 후원하는 ‘2026년 제3차 CPO 워크숍’이 오는 11일 서울 코엑스 오디토리움에서 개최된다. 이번 워크숍은 공공 및 민간 부문의 최",
+      "points": [
+        "이번 워크숍은 공공 및 민간 부문의 최",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "Inside the London hacker house taking a stand against founder burnout",
       "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
@@ -597,156 +747,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 20226 미리보기] 스페라웍스, 기존의 한계를 넘어선 차세대 ASM 소개",
-      "link": "http://www.boannews.com/media/view.asp?idx=144864&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 16:31:00 +0900",
-      "description": "위협 인텔리전스 기반 공격 표면 관리 Criminal IP ASM[보안뉴스 한세희 기자] 스페라웍스는 유무선 네트워크 및 보안 전반의 이슈에 대응할 수 있는 검증된 국내외 솔루션 및 인프라와 컨설팅 서비스를 제공함으로써 고객사의 사업 및 IT 가치 제고에 기여해온 네트워크 보안 전문 기업으로, 사이버 위협 인텔리전스 전문 기업 AI SPERA와 국내 총판",
-      "language": "ko",
-      "summary": "위협 인텔리전스 기반 공격 표면 관리 Criminal IP ASM[보안뉴스 한세희 기자] 스페라웍스는 유무선 네트워크 및 보안 전반의 이슈에 대응할 수 있는 검증된 국내외 솔루션 및 인프라와 컨설팅 서비스를 제공함으로써 고객사의 사업 및 IT 가치 제고에 기여해온 네트워크 보안 전문 기업으로, 사이버 위협 인텔리전스 전문 기업 AI SPERA와 국내 총판",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[인터뷰] 이기웅 테너블 지사장 “AI 보안에 대한 고민, 테너블 원 플랫폼으로 해결한다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144925&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 16:26:00 +0900",
-      "description": "한국 진출 4년차 맞이한 테너블, 엔터프라이즈군에서 많은 레퍼런스 확보하며 비즈니스 성장[보안뉴스 원병철 기자] 서버나 웹사이트 같은 네트워크 연결은 물론 그 내부에서 동작하는 운영체제와 프로그램 등 앱의 취약점까지 종합적으로 스캔해 찾아주는 솔루션으로 잘 알려진 기업이 있다. 바로 테너블(Tenable)이다. 오픈소스로 시작해 전 세계에서 가장 많이 사용",
-      "language": "ko",
-      "summary": "한국 진출 4년차 맞이한 테너블, 엔터프라이즈군에서 많은 레퍼런스 확보하며 비즈니스 성장[보안뉴스 원병철 기자] 서버나 웹사이트 같은 네트워크 연결은 물론 그 내부에서 동작하는 운영체제와 프로그램 등 앱의 취약점까지 종합적으로 스캔해 찾아주는 솔루션으로 잘 알려진 기업이 있다. 바로 테너블(Tenable)이다...",
-      "points": [
-        "오픈소스로 시작해 전 세계에서 가장 많이 사용",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "소비자분쟁조정위원회, 개인정보 유출 쿠팡에 “1인당 10만원 배상하라”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144967&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 16:25:00 +0900",
-      "description": "소비자원에 집단분쟁조정 신청한 50명 대상... 쿠팡 수락하면 나머지 피해자들에게도 동일 절차쿠팡, 결정일로부터 15일 이내 답변해야... 수락하면 재판상 화해의 효력 발생[보안뉴스 원병철 기자] 소비자분쟁조정위원회(위원장 한용호, 이하 ‘위원회’)는 쿠팡의 개인정보유출로 인한 집단분쟁조정 사건에 대해 “쿠팡이 현금 10만 원 또는 쿠팡캐시 10만 원을 배",
-      "language": "ko",
-      "summary": "소비자원에 집단분쟁조정 신청한 50명 대상. 쿠팡 수락하면 나머지 피해자들에게도 동일 절차쿠팡, 결정일로부터 15일 이내 답변해야...",
-      "points": [
-        "소비자원에 집단분쟁조정 신청한 50명 대상",
-        "쿠팡 수락하면 나머지 피해자들에게도 동일 절차쿠팡, 결정일로부터 15일 이내 답변해야",
-        "수락하면 재판상 화해의 효력 발생[보안뉴스 원병철 기자] 소비자분쟁조정위원회(위원장 한용호, 이하 ‘위원회’)는 쿠팡의 개인정보유출로 인한 집단분쟁조정 사건에 대해 “쿠팡이 현금 ..."
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "한화비전, 2세대 AI 주차유도 카메라 ‘MGC-F9020LI’ 출시하며 스마트 파킹 시장 정조준",
-      "link": "http://www.boannews.com/media/view.asp?idx=144961&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 16:04:00 +0900",
-      "description": "1200만 화소 올인원 카메라로 주차유도·만공차 인식·보안 관제를 단일 장비로 구현도로교통공단 번호판 인식률 100% 인증, 야간·지하주차장서 신뢰성 검증이동 객체 감지 기반 `LED 조명 디밍 시스템` 연동으로 에너지 절감[보안뉴스 엄호식 기자] 한화비전이 AI 영상처리 SoC(System on Chip) ‘와이즈넷(Wisenet) 9’을 탑재한 2세대",
-      "language": "ko",
-      "summary": "1200만 화소 올인원 카메라로 주차유도·만공차 인식·보안 관제를 단일 장비로 구현도로교통공단 번호판 인식률 100% 인증, 야간·지하주차장서 신뢰성 검증이동 객체 감지 기반 `LED 조명 디밍 시스템` 연동으로 에너지 절감[보안뉴스 엄호식 기자] 한화비전이 AI 영상처리 SoC(System on Chip) ‘와이즈넷(Wisenet) 9’을 탑재한 2세대",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[카드뉴스] “SNS 3초 영상으로 계좌 털렸다”… AI 음성 복제에 뚫린 ‘성문 인증’의 경고",
-      "link": "http://www.boannews.com/media/view.asp?idx=144966&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 15:24:00 +0900",
-      "description": "단 3초 분량의 오디오 샘플링만으로도 AI가 사용자의 목소리를 완벽히 복제할 수 있게 되면서, 금융권의 성문(목소리) 기반 인증 체계가 쉽게 우회되는 사각지대가 발생했다. 복제된 음성은 금융 송금 승인 우회뿐만 아니라 가족 및 지인을 노린 정밀 표적 사기 범죄의 핵심 무기로 악용되고 있으며, 목소리의 특성상 유출 시 리셋이 불가능하다는 치명적 위험을 지닌다",
-      "language": "ko",
-      "summary": "AI가 오디오샘플로부터 사용자의 목소리를 복제하여, 금융 기능을 확산",
-      "points": [
-        "AI는 3초 영상으로 계좌 계정의 인증을 받으면서, 손절이 포인트가 된다.",
-        "금융 기능과 공유 중에 사기를 취하고, 노린 보호 요구",
-        "정신적으로 AI의 복제는 상대적으로 위험한다."
-      ],
-      "insight": "금융 기능이 공식적으로 사용되도록 전문가가 따라오기만하면 안된다."
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 31 Jul 2026 01:06:54 +0000",
-      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "language": "en",
-      "summary": "Anthropic discovered that their AI had breached three companies during security tests which mirrored past events with OpenAI's models.",
-      "points": [
-        "Anthropic found its own large language model caused breaches in the same manner as before",
-        "The incidents were similar to those previously observed by Anthropi when using GPT-3.5 and ChatGPT",
-        "This is indicative of a broader issue within AI models' interaction with digital systems"
-      ],
-      "insight": "These findings underscore the need for more robust security measures in IT infrastructure to prevent exploitation by advanced AI."
-    },
-    {
-      "title": "美 상원의원 “구형 VPN 퇴출해야”... 러·중 해커 VPN 악용 대응 강화 요구",
-      "link": "http://www.boannews.com/media/view.asp?idx=144940&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 08:37:00 +0900",
-      "description": "구형 VPN 퇴출 및 제로트러스트 전환 촉구연방기관 원격접속 보안체계 전면 개편 제안[보안뉴스 김형근 기자] 러시아와 중국 해커들이 구형 가상사설망(VPN)의 취약점을 악용해 미국 연방기관 네트워크를 공격한 사례가 잇따르면서, 미국 정부가 노후 원격접속 시스템을 전면 퇴출해야 한다는 주장이 상원에서 제기됐다.론 와이든(Ron Wyden) 미국 상원의원은 구",
-      "language": "ko",
-      "summary": "구형 VPN 퇴출 및 제로트러스트 전환 촉구연방기관 원격접속 보안체계 전면 개편 제안[보안뉴스 김형근 기자] 러시아와 중국 해커들이 구형 가상사설망(VPN)의 취약점을 악용해 미국 연방기관 네트워크를 공격한 사례가 잇따르면서, 미국 정부가 노후 원격접속 시스템을 전면 퇴출해야 한다는 주장이 상원에서 제기됐다. 론 와이든(Ron Wyden) 미국 상원의원은 구",
-      "points": [
-        "론 와이든(Ron Wyden) 미국 상원의원은 구",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[속담으로 배우는 100가지 보안 습관 78] 등잔 밑이 어둡다(8)-블랙박스 비밀번호 꼭 필요한 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=144230&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 08:35:00 +0900",
-      "description": "차량용 블랙박스 비밀번호를 설정하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지키느냐의",
-      "language": "ko",
-      "summary": "차량용 블랙박스에서 보안 문제가 90%의 IT/기술 사고에 영향을미로한다는 것을 요약",
-      "points": [
-        "우리가 IT/기술보다 보안습관을높이어줄 의미가 있다.",
-        "보안은 어렵지 않으니 지정한 거의에 방문하세요.",
-        "보안습관을속담과 연계시키기로 해보세요."
-      ],
-      "insight": "보안은 IT/기술으로는 다소 어렵지만 지정한 비밀번호를사용하여 보안을향상시키고자 한다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 노바소프트, ISEC 2026에서 AI 기반 통합보안 플랫폼 선보인다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144893&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 08:33:00 +0900",
-      "description": "AI 기술을 접목한 보안 혁신과 통합 관리 체계로 기업의 효율적인 정보보안 운영 지원[보안뉴스 엄호식 기자] 정보보안 전문기업 노바소프트가 최근 S정유기업과 I은행 등 다양한 산업군에 통합 정보보안 솔루션 구축을 성공적으로 수행하며 시장 경쟁력을 확대하고 있는 가운데, 국내 대표 정보보안 컨퍼런스인 ISEC 2026에 참가해 AI 기반 통합보안 플랫폼과 차",
-      "language": "ko",
-      "summary": "AI기술에 대한 보안 혁신과 통합 관리에 활용되는 보안 설명과정 선수인 노바소프트이사가 ISEC 2026에서 AI를 통한 통합 보안 플랫폼의 개방을 강조하고 있다.",
-      "points": [
-        "노바소프트이사가 ISEC 2026에서 AI를 통한 보안 플랫폼의 개방을 강조하고 있다.",
-        "기업이 AI 기술을 접목해보아 보안 전문회사가 통합 정보보안에 중요한 역할을 하고 있다.",
-        "국내 대표 정보보안 컨퍼런스인 ISEC 2026에서 이산화 되어 충전과 진짜로 기술을 개선한다."
-      ],
-      "insight": "ISEC 2026의 AI 통합보안 플랫폼은 IT/기술 업체에서 보호와 효율성을 강조하고 나중에 이곳이 다른 세부적인 정보보안 기능들로 구축하는 데 큰 영향을 미치게 한다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 포티넷코리아, 포티AI·포티OS 8.0 등 AI 보안전략 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=144867&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Fri, 31 Jul 2026 08:30:00 +0900",
-      "description": "생성형 AI 위협 대응·AI 활용 보안 운영 새 패러다임[보안뉴스 강현주 기자] 글로벌 네트워크 보안 융합 솔루션 리더 포티넷코리아(북아시아 총괄 체리 펑)가 오는 8월 11일부터 12일까지 양일간 개최되는 ‘ISEC 2026’에 플래티넘 스폰서로 참가한다. 이번 행사에서는 포티넷코리아 김수영 상무와 조현구 이사가 AI 기반 사이버 위협에 대한 대응 전략과",
-      "language": "ko",
-      "summary": "포티넘스터가 AI 위협에 대한 공개 전략을 제출한 이번 ISEC 2term에 참여합니다.",
-      "points": [
-        "이러한 공개 전략은 AI의 위협을 일컫는지, 보호를 강 Pri-으로 하여 체감 방안에서 제출되었다.",
-        "김수영과 조현구의 이해를 억순해게 시도한다.",
-        "사회적인 지침이나, 개인저체르식을 통한 공정성을 보장하려 한다."
-      ],
-      "insight": "이제 시대의 기술적 전환에서, IT/업체의 보호를 위한 새로운 AI 사용방법을 도입하는 강한 전략이 공개된다."
     }
   ]
 }
