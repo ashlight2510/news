@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-08-03T09:54:39.072Z",
+  "generatedAt": "2026-08-03T14:38:43.741Z",
   "articles": [
+    {
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 03 Aug 2026 12:50:46 +0000",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "language": "en",
+      "summary": "Cybersecurity startup Horizon3 secured an additional $250 million at a whopping $2 billion valuation in its Series E funding round as businesses increasingly demand continuous AI-powered security validation.",
+      "points": [
+        "Horizon3 has raised $250 million, bringing their total capital to over $1 billion with this latest investment.",
+        "The company achieved a valuation of $2 billion after the raise reflects its rapid growth and success in offering continuous AI-powered security validation services instead of traditional annual penetration testing (pentesting).",
+        "Companies are increasingly shifting from one-time, scheduled pentests to ongoing cybersecurity solutions like Horizon3' endorses."
+      ],
+      "insight": {
+        "Insight_1": "The rise of continuous AI-powered security validation services represents a significant shift in the IT/technology industry. This change not only showcases technological advancements but also signifies growing concerns about cybersecurity threats.",
+        "Insight_2": "As businesses increasingly opt for real-time, continuous AI-powered security validation services over traditional pentesting methods, it highlights the need to keep up with evolving and sophisticated cyberthreats that require constant vigilance."
+      }
+    },
+    {
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 03 Aug 2026 12:10:41 +0000",
+      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "language": "en",
+      "summary": "Researchers have discovered potential risks in popular smart TV app protocols like AirPlay and Chromecast.",
+      "points": [
+        "The study revealed that apps such as Samsung's Smart Hub, Amazon Fire TV Stick, Google Nexus Player/Cast, LG'things Link, Roku Cast, Apple Remote iOS app, YouTube Go",
+        "These services are vulnerable to cyber attacks because they do not properly authenticate the second device before sharing internet connectivity.",
+        "As a result of this discovery, Samsung has banned apps that share users' connections with strangers from being used on its devices."
+      ],
+      "insight": "This development highlights an urgent need for improved security practices in smart TV app protocols to prevent potential cyber threats and unauthorized data access within households, which could have serious privacy implications. As this issue seems widespread among major brands like Samsung, Google, Amazon FireTV Stick, LG LinkCast, etc., it's likely that other companies are also evaluating their own security measures."
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "language": "en",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler",
+      "points": [
+        "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "아마노코리아, 바이온에버와 AI 충전·주차 통합 플랫폼 개발 추진",
       "link": "http://www.boannews.com/media/view.asp?idx=145003&kind=&sub_kind=",
@@ -696,51 +744,6 @@
       "summary": "국방과 물류, 운송 분야에서 활발하게 적용 기대드론용 CCTV, 소형·경량화 및 고해상도 영상 지원, AI 기반 영상처리, 다중 센서 융합 등 특징[보안뉴스 엄호식 기자] 레저와 산업에 주로 사용되던 드론이 영상보안과 만나 도시와 산업의 안전을 한 단계 끌어올리는 새로운 패러다임으로 주목받고 있다. 고정형 CCTV가 가진 한계를 드론이 보완하고, 영상보안",
       "points": [
         "고정형 CCTV가 가진 한계를 드론이 보완하고, 영상보안",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "2026년 8월, 물리&사이버보안 기업이 찾는 인재는 누구?",
-      "link": "http://www.boannews.com/media/view.asp?idx=144871&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 1 Aug 2026 10:07:00 +0900",
-      "description": "CCTV/NVR 영상분석 엔지니어, 정보보안 솔루션 영업, B2B 영업, 해외 영업AI 소프트웨어 영업, 구매 조달, 기술지원 및 유지보소, 생산, 펌웨어 개발, 물류/자재 관리 등[보안뉴스 엄호식 기자] 무더위가 피크에 달하는 8월은 직장인들이 가장 많이 휴가를 떠나는 시기다. 여름 휴가를 통해 더위를 피하는 것은 물론 상반기를 마무리하고 하반기를 대비하",
-      "language": "ko",
-      "summary": "CCTV/NVR 영상분석 엔지니어, 정보보안 솔루션 영업, B2B 영업, 해외 영업AI 소프트웨어 영업, 구매 조달, 기술지원 및 유지보소, 생산, 펌웨어 개발, 물류/자재 관리 등[보안뉴스 엄호식 기자] 무더위가 피크에 달하는 8월은 직장인들이 가장 많이 휴가를 떠나는 시기다. 여름 휴가를 통해 더위를 피하는 것은 물론 상반기를 마무리하고 하반기를 대비하",
-      "points": [
-        "여름 휴가를 통해 더위를 피하는 것은 물론 상반기를 마무리하고 하반기를 대비하",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 진네트웍스, 차세대 인증서 수명주기 관리(CLM) 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144924&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 1 Aug 2026 10:04:00 +0900",
-      "description": "글로벌 검증 거친 키팩터 라인업으로 국내 기업 비즈니스 연속성 보호오픈소스 PKI 파이프라인 솔루션 ‘EJBCA’ 소개하며 고도화 전략 공유[보안뉴스 조재호 기자] 진네트웍스(대표 이호진)가 ‘제20회 국제 시큐리티 콘퍼런스’(ISEC 2026)에 참가해 글로벌 인증서 수명주기 관리(CLM) 기업의 인증서 자동화 관리 솔루션 ‘키팩터 커맨드’(Keyfact",
-      "language": "ko",
-      "summary": "글로벌 검증 거친 키팩터 라인업으로 국내 기업 비즈니스 연속성 보호오픈소스 PKI 파이프라인 솔루션 ‘EJBCA’ 소개하며 고도화 전략 공유[보안뉴스 조재호 기자] 진네트웍스(대표 이호진)가 ‘제20회 국제 시큐리티 콘퍼런스’(ISEC 2026)에 참가해 글로벌 인증서 수명주기 관리(CLM) 기업의 인증서 자동화 관리 솔루션 ‘키팩터 커맨드’(Keyfact",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 지란지교 3사, AI 에이전트 결합한 통합 ‘자율보안’ 청사진 제시",
-      "link": "http://www.boannews.com/media/view.asp?idx=144923&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 1 Aug 2026 10:01:00 +0900",
-      "description": "지란지교 그룹, 엔드포인트부터 AI 보안 아우르는 라인업 공개휴먼 리스크 관리(HRM) 티저와 자율 침투테스트 등 차세대 포트폴리오 시연[보안뉴스 조재호 기자] AI 자율보안 트렌드에 발맞춰 지란지교소프트, 지란지교시큐리티, 지란지교에스앤씨 3사가 통합 보안 포트폴리오를 앞세워 제20회 국제 시큐리티 콘퍼런스(ISEC 2026)에 참가한다. 이번 전시는 각",
-      "language": "ko",
-      "summary": "지란지교 그룹, 엔드포인트부터 AI 보안 아우르는 라인업 공개휴먼 리스크 관리(HRM) 티저와 자율 침투테스트 등 차세대 포트폴리오 시연[보안뉴스 조재호 기자] AI 자율보안 트렌드에 발맞춰 지란지교소프트, 지란지교시큐리티, 지란지교에스앤씨 3사가 통합 보안 포트폴리오를 앞세워 제20회 국제 시큐리티 콘퍼런스(ISEC 2026)에 참가한다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드"
       ],
