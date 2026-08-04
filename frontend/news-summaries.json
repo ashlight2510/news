@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-08-04T08:45:50.926Z",
+  "generatedAt": "2026-08-04T14:14:45.731Z",
   "articles": [
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 14:03:01 +0000",
+      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "language": "en",
+      "summary": "Apple is expanding its investigation after it suspects that more of its ex-employees might have taken trade secrets to OpenAI.",
+      "points": [
+        "Apple has broadened the scope of its investigation into former employees potentially misappropriating confidential information."
+      ],
+      "insight": "This development may result in increased scrutinization and security measures within tech companies handling sensitive data, emphasizing the importance of internal controls to protect intellectual property rights. It also raises questions about how AI platforms manage knowledge sourced from various contributors while ensuring confidentiality."
+    },
+    {
+      "title": "Spotify now has over 300M subscribers",
+      "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 13:52:58 +0000",
+      "description": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+      "language": "en",
+      "summary": "Despite increasing subscription rates, Spotify managed to expand its user base by over a third of a billion during Q2.",
+      "points": [
+        "Spotify's subscriber count increased by 9% in the second quarter",
+        "Subscriber growth occurred despite price hikes in various regions",
+        "Totaling more than 300 million subscribers"
+      ],
+      "insight": "This growth indicates strong brand loyalty and could suggest that Spotify's model, balancing free ad-supported usage with premium features for paying customers, remains effective in a competitive market."
+    },
+    {
+      "title": "India moves to give its instant payments network a business model",
+      "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 13:31:17 +0000",
+      "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
+      "language": "en",
+      "summary": "India proposes legislation for a new payment service tax model that could transform its zero-fee Unified Payment Interface (UPI) regime.",
+      "points": [
+        "The draft legislation is expected to lay the groundwork for potential changes in India's UPI system which operates without merchant discount rates since 2020.",
+        "Current businesses using digital payment systems are not required to pay fees, though they must share revenues with a mobile network operator (MNO).",
+        "In the proposed legislation, an intermediary entity will collect commission from transactions and deposit it into government coffers."
+      ],
+      "insight": "This move could significantly impact India's payment ecosystem by introducing fees for UPI services, affecting consumer behavior and business strategies reliant on digital payments."
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "language": "en",
+      "summary": "AI firm Runware has launched a portable, on-demand data center solution named Sonic Inference Pod to determine the future of modular and scalable IT infrastructure.",
+      "points": [
+        "Runware introduces Sonic Inference Pod as an AI company'infrastructure initiative",
+        "Pod uses GPUs with custom-designed inference software for immediate processing capabilities, positioning itself to challenge traditional data centers in terms of scalability and portability.",
+        "The launch marks a significant exploration into the viability of modularized computing environments within IT infrastructure."
+      ],
+      "insight": "Runware's Sonic Inference Pod could signal a shift towards more flexible, on-demand data center solutions in the industry if proven successful and cost-effective."
+    },
+    {
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "description": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "language": "en",
+      "summary": "Endeavour Optical Networks plans to introduce a state-ofcurve communication network leveraging space lasers for data transfer.",
+      "points": [
+        "Endeavour Optical is launching the fastest communications system using space lasers",
+        "The technology represents an evolution of satellite networks, potentially bypassing geographical limitations and terrestrial obstructions",
+        "Initial prototypes successfully transmitted data at speeds over 28Gbps"
+      ],
+      "insight": "This development could signify a shift in high-speed communications infrastructure from traditional cable routes to space, offering improved speed, reliability and less latency."
+    },
+    {
+      "title": "Bending Spoons to buy Airtable for $1.28B",
+      "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 11:30:56 +0000",
+      "description": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
+      "language": "en",
+      "summary": "Airtable's share price plummeted from overvalued levels in 2self-proclaimed 'bending spoon moments'. In the latest such instance, shares are trading at a valuation of $4 billion while previously being valued upwards to $11 billion.",
+      "points": [
+        "Airtable's share price has experienced significant volatility",
+        "The company was once highly overvalued with peak worth exceeding $11 billion in terms of market cap and shares were trading at a valuation well beyond their fundamentals",
+        "Despite recent fluctuations, Airtable remains an innovative solution provider for businesses"
+      ],
+      "insight": "The bending spoon moments surrounding Airtable highlight the importance of grounded financial assessment in technology companies and may serve as a cautionary tale about overvaluation."
+    },
     {
       "title": "[CSW 2026] “이제 AI 에이전트가 새로운 공급망 공격 표면... 속도보다 검증 신경 써야”",
       "link": "http://www.boannews.com/media/view.asp?idx=145004&kind=&sub_kind=",
@@ -663,94 +751,6 @@
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "여의시스템, 공식 온라인 쇼핑몰서 ‘YES 네트워크 솔루션 특별전’ 진행",
-      "link": "http://www.boannews.com/media/view.asp?idx=144982&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 09:51:00 +0900",
-      "description": "공식 온라인 쇼핑몰 중심의 고객 혜택 및 온라인 구매 접근성 강화8월 14일까지 ‘YES’ 스위치 라인업 대상 5% 즉시할인 쿠폰 제공[보안뉴스 강초희 기자] 여의시스템(대표 성명기·성제현)이 최근 리뉴얼을 마친 공식 온라인 쇼핑몰을 통해 자체 네트워크 브랜드 ‘YES’ 스위치 제품군 대상 ‘네트워크 솔루션 특별전’(Solution Plus)을 진행 중이라",
-      "language": "ko",
-      "summary": "공식 온라인 쇼핑몰 중심의 고객 혜택 및 온라인 구매 접근성 강화8월 14일까지 ‘YES’ 스위치 라인업 대상 5% 즉시할인 쿠폰 제공[보안뉴스 강초희 기자] 여의시스템(대표 성명기·성제현)이 최근 리뉴얼을 마친 공식 온라인 쇼핑몰을 통해 자체 네트워크 브랜드 ‘YES’ 스위치 제품군 대상 ‘네트워크 솔루션 특별전’(Solution Plus)을 진행 중이라",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "The global memory shortage hits the MacBook Air",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 02 Aug 2026 21:33:59 +0000",
-      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-      "language": "en",
-      "summary": "Apple'in beloved but increasingly scarce and expensive Air laptops are a victim of the global chip shortage.",
-      "points": [
-        "The availability of Apple’s popular MacBook Air is being impacted due to the worldwide memory-chip deficit.",
-        "Apple has had to raise prices, as suppliers struggle with high demand and limited production capacity. This follows a global semiconductor crunch that began in late 2021 amid Covid supply chain disruptions which continue today (with no end date), according to the Wall Street Journal.",
-        "Apple’s Mac line has been growing steadily since early last year, and now with inventory limited by memory chip shortages suppliers are able to demand higher prices for components."
-      ],
-      "insight": "The global technology industry is experiencing a persistent semiconductor scarcity exacerbated by the Covid-19 pandemic. This has caused significant disruptions in product availability, such as Apple's MacBook Air, leading to increased prices and manufacturer challenges."
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "language": "en",
-      "summary": "In a recent podcast appearance, OpenAI CEO Sam Altman called for slowing down AI progress to ensure safe and responsible adoption.",
-      "points": [
-        "Sam Altman is calling on the industry to pace the rate of artificial intelligence development",
-        "Altman emphasized that it’s not a matter of if but when regulations will be necessary due to societal impact of AI technologies",
-        "The CEO highlighted OpenAI'ner as an example project with safety measures being prioritized over speed"
-      ],
-      "insight": "Sam Altman's call for slower and more responsible AI development reflects a broader concern within the tech industry about ensuring safe adoption without stifling innovation. This could potentially lead to increased collaboration between technology companies, policymakers, and regulators."
-    },
-    {
-      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 02 Aug 2026 17:05:07 +0000",
-      "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-      "language": "en",
-      "summary": "Malaysia has reportedly decided to shut down Network School founded by Balaji Srinivasan due to unspecified reasons.",
-      "points": [
-        "Network School in Malaysia is closing",
-        "The reason for the closure remains unknown according to reports",
-        "Balaji Srinivasan was a prominent figure founding and running Network School"
-      ],
-      "insight": "This development may indicate potential difficulties that frontier tech communities face, such as legal or financial challenges. It also raises questions about the sustainability of similar initiatives in other countries."
-    },
-    {
-      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 02 Aug 2026 16:05:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "language": "en",
-      "summary": "The article discusses how artificial intelligence (AI) will shape autonomous taxis or 'robotaxis.' It highlights two diverging paths for the development of robotaxi technology: one focusing on ride-hailing services and partnerships, as seen with Alphabet's Waymo, while another prioritizes last-mile solutions like shuttles to transit stations.",
-      "points": [
-        "AI-powered autonomous taxis are expected to take two development paths: one for ride-hailing services and the other focusing on solving 'last mile' problems by connecting rides with public transportation."
-      ],
-      "insight": "This news underscde how AI in mobility is creating a bifurcation within autonomous vehicle technology, indicating potential market segmentations based on service model—ride-hailing versus last-mile solutions. It suggests that developers and companies will need to strategically choose their focus areas as the industry grows."
-    },
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 02 Aug 2026 15:23:19 +0000",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "language": "en",
-      "summary": "Although AI has raised concerns about making traditional apps obsolete, developers continue to create new software at a rapid pace.",
-      "points": [
-        "Developers are introducing innovative applications like smarter bookmarking tools and neighborhood marketplaces despite the rise of AI",
-        "New digital pen pals and nature journals have been added by developers, reflecting creativity in app development amidst technological advancements",
-        "The continuous influx of fresh software on App Store suggests that traditional apps still hold value for users"
-      ],
-      "insight": "This trend indicates a blend of tradition and innovation within the IT/technology industry, showing there's room for both in our increasingly AI-driven world."
     }
   ]
 }
