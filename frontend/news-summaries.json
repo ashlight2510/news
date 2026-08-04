@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-08-04T14:14:45.731Z",
+  "generatedAt": "2026-08-04T19:43:13.696Z",
   "articles": [
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 19:28:49 +0000",
+      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "language": "en",
+      "summary": "Nvidia is leading the newly formed Open Secure AI Alliance with more than a hundred members to propose safeguards in response to artificial intelligence (AI) threats.",
+      "points": [
+        "The recent formation of the Open Secure AI Alliance, which includes over 120 companies such as Nvidia and Microsoft, shows rapid progress within weeks.",
+        "This group has already come up with proposals for defending against security risks posed by sophisticated computer programs resembling human intelligence.",
+        "The initiative reflects the industry's growing concern over potential vulnerabilities that AI agents could exploit."
+      ],
+      "insight": "This development suggests a collaborative approach within the tech community to mitigate risks associated with advanced AI, indicating an ongoing proactive stance towards emerging threats and their implications for cybersecurity in general industry practices beyond just IT/technology."
+    },
+    {
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 17:31:01 +0000",
+      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+      "language": "en",
+      "summary": "Waymo has made its robotaxi service available without a waitlist in Dallas as it expands autonomous driving capabilities to more regions.",
+      "points": [
+        "Drop of the Waymo robotaxi waitlist for non-members",
+        "Expansion plans include further testing, regulatory compliance assessment, and deployment across multiple states/countries",
+        "Partnership with Fiat Chrysler Automobiles (FCA) to provide vehicles"
+      ],
+      "insight": "This represents a significant move for Waymo in commercializing autonomous vehicle technology; it sets the stage for broader adoption and regulatory conversations."
+    },
+    {
+      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+      "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 17:20:54 +0000",
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "language": "en",
+      "summary": "TechCrunch readers can enjoy an extra $100 off their TechCrunch Disrupt passes for the event in August.",
+      "points": [
+        "An additional discount of up to $100 is available on TC Disrupt pass purchases through today",
+        "The offer applies only to founder, investor, or general attendee categories",
+        "This promotion will be valid until the end of this week"
+      ],
+      "insight": "TechCrunch's special discount for its events demonstrates their ongoing commitment to making innovative technology and business a reality. By offering such generous rates, they promote inclusivity in tech conferences while also building brand loyalty amongst their readers."
+    },
+    {
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+      "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 17:05:48 +0000",
+      "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
+      "language": "en",
+      "summary": "TV Time co-founder Justin Stewart has launched Bingers to recreate the popular tracking app's social aspects and add new features like importing past TV watching data.",
+      "points": [
+        "Justin Stewart, a former employee of NBCUniversal who worked on their streaming service Peacock, is now CEO at TuneBuddy. He co-founded Bingers to revive the social elements that were lost from original version of TV Time.",
+        "The app'thy new tracker features 'binger badges', a community leaderboard system allowing users to compete with each other by tracking their consumption habits and earning prizes in partnership with brands such as Samsung, Philips, LG, Sony, Dish Network, Xfinity.",
+        "The revived app supports importing past viewing history from services like Roku Channel TV. It also plans to add a 'TV party' feature where friends can schedule times for watching together and share experiences."
+      ],
+      "insight": "This news demonstrates the potential of social features in enhancing user engagement within tracking apps, potentially reshaping industry standards towards more interactive entertainment consumption habits. It also shows how tech companies are leveraging partnerships with brands to create value-added experiences for users."
+    },
+    {
+      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+      "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 16:27:59 +0000",
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+      "language": "en",
+      "summary": "Hackers exploit a bug in the cryptocurrency hardware wallet Coldcard, leading to over $130 million lost.",
+      "points": [
+        "Security flaw discovered",
+        "Money drained from victims' wallets via hacked device",
+        "$130 million total losses reported"
+      ],
+      "insight": "This significant breach highlights the vulnerability in physical hardware security and underscCESCENTE.SENSIBLEsecurity of cryptocurrency assets, prompting a reevaluation of offline wallet safety."
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 15:50:06 +0000",
+      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+      "language": "en",
+      "summary": "Spotify has partnered with Merlin to launch an AI-powered remix and cover tool that will allow fans to create covers while enscuring artist participation.",
+      "points": [
+        "Merlin, a company representing over 30,000 independent labels and distributors, is backing Spotify's new paid product for creating AI-generated music remixes and covers",
+        "Spotify will ensure artists opt in, receive credit, and are compensated through the partnership with Merlin and Universal Music Group",
+        "The tool allows fans to create their own versions of popular songs while respecting copyright laws"
+      ],
+      "insight": "This new initiative by Spotify can significantly contribute towards engaging music consumers, creating a more interactive experience within the platform. It also potentially offers an additional revenue stream for participating artists."
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 15:42:35 +0000",
+      "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "language": "en",
+      "summary": "Governor Greg Abbott of Texas has called for audits on data centers due to energy concerns amidst extreme weather conditions.",
+      "points": [
+        "Texas' demanding new power needs have overtaxed its electricity system, prompting Governor Abbott to call for emergency state-wide reviews and mandatory reporting by large Texas companies. This action is a response to the potential threat of widespdest blackouts.",
+        "The pushback against this request from tech corporations highlights their reliance on stable energy supplies in pursuing industry growth, while environmentalists express concern over data centers' significant power consumption amid climate change issues.",
+        "Despite Texas’ reputation for abundant natural gas and cheap electricity as major selling points to the technology sector, these attributes now seem less appealing under extreme weather conditions."
+      ],
+      "insight": "The situation in Texas underscores a potential vulnerability of tech industry operations that heavily rely on data centers' energy supplies. While economic allure exists for building facilities there, this case exemplifies how even the most desirable locations can face unexpected operational challenges."
+    },
+    {
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 15:38:22 +0000",
+      "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+      "language": "en",
+      "summary": "Walmart has finalized the purchase of digital marketing firm Vibe.co to bolster its own television ad services through a new subsidiary called Walmart Connect.",
+      "points": [
+        "Vibe.co, known for using social media engagement strategies in TV advertising, will be integrated into Walmart'ner Connected TV Advertising Platform as Walmart Ventures-owned Vibe",
+        "Walmart aims to enhance its marketing capabilities by incorporating digital tactics used by startups like Pixability and Winkleman.",
+        "The acquisition of Vibe.co is part of an expansion strategy for Walmart's in-store technology platform."
+      ],
+      "insight": "This deal signals a strategic shift towards merging digital engagement with traditional TV advertising within the retail industry, potentially setting new standards for consumer interaction and brand loyalty."
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 15:20:06 +0000",
+      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "language": "en",
+      "summary": "Elon Musk often diverts focus during his quarterly comments on the future of robotics and artificial intelligence with regard to their potential impact on automobiles.",
+      "points": [
+        "Despite spending considerable time, Elon Musk primarily concentrates discussions around Tesla's electric vehicles rather than its broader tech initiatives during earnings calls.",
+        "Musk frequently speculates about the future integration of robotics and AI into everyday life beyond automotive applications in these public forums.",
+        "The attention given to robots, artificial intelligence, and potential impacts on industries other than Tesla's core business suggests Musk views them as crucial components of his long-term vision."
+      ],
+      "insight": "While Elon Musk may not directly discuss the development or advancement of robotics within Tesla itself, it is clear that he sees a transformative role for AI and robots across various industries. This indicates how technology innovations can drive forward his broader ambitions."
+    },
+    {
+      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+      "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 04 Aug 2026 15:00:00 +0000",
+      "description": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
+      "language": "en",
+      "summary": "The article invites individuals and organizations to host their own side events coinciding with the Founder Summit in Boston from June 4-1 end of this year.",
+      "points": [
+        "Over a thousand attendees expected during TechCrunch Founder Summit Week",
+        "Opportunity for new tech initiatives and interactions amidst industry leaders",
+        "Free event space provided to host own events"
+      ],
+      "insight": "The convergence of numerous side events can provide diverse networking opportunities, fostering collaboration and innovation within the IT/technology community during Founder Summit Week."
+    },
     {
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
@@ -88,6 +238,81 @@
         "Despite recent fluctuations, Airtable remains an innovative solution provider for businesses"
       ],
       "insight": "The bending spoon moments surrounding Airtable highlight the importance of grounded financial assessment in technology companies and may serve as a cautionary tale about overvaluation."
+    },
+    {
+      "title": "[배종찬의 보안 빅데이터] ‘AI 스스로 해킹’하는 시대, 통제 가능한가",
+      "link": "http://www.boannews.com/media/view.asp?idx=145009&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 4 Aug 2026 17:51:00 +0900",
+      "description": "오픈AI 최신 모델, 테스트 환경 스스로 벗어나 외부 플랫폼 침해 사례 발생목표 달성 위해 스스로 경로 탐색하는 ‘자율 에이전트’ 진화의 양면성 노출 [보안뉴스= 배종찬 인사이트케이 연구소장] 지난 한 달간 국내 뉴스와 소셜 빅데이터를 분석한 썸트렌드(SomeTrend)의 ‘빅데이터 감성 연관어 분석’(2026년 6월 29일~7월 28일) 결과, ‘AI해킹",
+      "language": "ko",
+      "summary": "오픈AI 최신 모델, 테스트 환경 스스로 벗어나 외부 플랫폼 침해 사례 발생목표 달성 위해 스스로 경로 탐색하는 ‘자율 에이전트’ 진화의 양면성 노출 [보안뉴스= 배종찬 인사이트케이 연구소장] 지난 한 달간 국내 뉴스와 소셜 빅데이터를 분석한 썸트렌드(SomeTrend)의 ‘빅데이터 감성 연관어 분석’(2026년 6월 29일~7월 28일) 결과, ‘AI해킹",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "호텔 와이파이 노린 러시아 해커, 가짜 업데이트로 감시 악성코드 유포",
+      "link": "http://www.boannews.com/media/view.asp?idx=145007&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 4 Aug 2026 17:43:00 +0900",
+      "description": "호텔 와이파이 장악과 가짜 업데이트 악성코드 유포러시아 연계 스톰-2945의 캡티브크런치 공격 캠페인DNS 조작·기기 코드 인증 악용과 공용 와이파이 보안 경고[보안뉴스 김형근 기자] 호텔 와이파이를 무단 장악한 러시아 해커들이 가짜 브라우저 업데이트를 통해 원격제어 악성코드(RAT) ‘콘플레이크’(CornFlake)를 유포한 것으로 나타났다.마이크로소프트",
+      "language": "ko",
+      "summary": "러시아 해커가 호텔 와이파이를 무단 장악한 것을 고용하고, 크레딧브라우저업데이트로 만들어진 가짜 업데이트 브라우저 악성코드 'CornFlake'를 유포한 것.",
+      "points": [
+        "러시아 해커들이 무단 호텔 와이파이를 장악하여, 다음으로 크레딧브라우저업데이트와 'CornFlake'을 만들어 위한 악용으로 가시화",
+        "이러한 장악과 가짜 업데이트적인 행위는 IT 보안에 대한 광범위한 위기와 신호를 전송한다.",
+        "호텔 와이파이의 안전성과 보호적용 지침을 강조"
+      ],
+      "insight": "이러한 몇몇 IT/기술 업체에서는 공식적으로 이러한 위기와 신호를 보호하고, 그리고 이 정치적인 경계를 통해 공식적인 공동잡음과 다사이트적인 대체으로 보호약점을 개선하고자 한다."
+    },
+    {
+      "title": "이글루코퍼레이션, 클라우드·AI 보안 특허 4건 취득... 지능형 보안 고도화",
+      "link": "http://www.boannews.com/media/view.asp?idx=145014&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 4 Aug 2026 17:40:00 +0900",
+      "description": "클라우드와 AI 접목된 차세대 IT 인프라 환경의 보안 아키텍처 제시쿠버네티스 내부 통신 사각지대 해소 및 컨테이너 데이터 무결성 검증 특허 확보LLM 할루시네이션 방지 및 분란 로그 병렬 이벤트 처리 등 AI 특허도 2종 취득[보안뉴스 조재호 기자] 이글루코퍼레이션이 클라우드 네이티브 환경의 보안 사각지대를 해소하고 시스템의 운영 효율성을 높이는 핵심 특",
+      "language": "ko",
+      "summary": "기사는 뉴스에서 이글루코퍼레이션과 클라우드·AI 보안 고도화에 대해 정 Level의 내용을 제시한다.",
+      "points": [
+        "이글루코퍼레이션이 클라우드 네이티브 환경보안에 어떻게 해소하고 작성되었는지에 대한 서업.",
+        "AI LLM을 위한 추가적인 보안 전략과 시스템의 수질을 확보한다.",
+        "분란 로그를 병렬으로 수행하여 이벤트 처리 강화"
+      ],
+      "insight": "기사는 IT/기술 업계에서 우려가 컸인하고, AI 특허의 보안성을 향상시켜야한다."
+    },
+    {
+      "title": "지니언스, 2026년 상반기 매출 249.2억원 ‘역대 최대’... 영업이익 294.3%↑",
+      "link": "http://www.boannews.com/media/view.asp?idx=145015&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 4 Aug 2026 17:39:00 +0900",
+      "description": "NAC·EDR 주력 사업 호조 속 클라우드 및 MDR 서비스 비즈니스 동반 성장 견인대기업 EDR 신규 도입 확산 및 세대 간 망분리 ‘지니안 홈’ 수주로 실적 대폭 상향[보안뉴스 조재호 기자] 지니언스가 2026년 상반기 창사 이래 최대 실적을 달성했다. 연결 기준 상반기 매출액은 전년 동기 대비 19.9% 증가한 249.2억원, 영업이익은 294.3%",
+      "language": "ko",
+      "summary": "지니언스는 2026년 상반기에 전년도의 최대 수요를 달성한다.",
+      "points": [
+        "- 연결 기준 상반기 매출액: 249.2억원",
+        "- 영업이응스트먼트: 294.3%",
+        "- 클라우드 서비스와 MDR 서비스를 통해 성장"
+      ],
+      "insight": "지니언스는 연계기업들과의 공동잡음이 증가하고, 기술발전없이도 상황좌로 달아나온다."
+    },
+    {
+      "title": "웹·API 통합 보안 체계 구축, 모니터랩-시큐레터 ‘맞손’",
+      "link": "http://www.boannews.com/media/view.asp?idx=145018&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Tue, 4 Aug 2026 17:36:00 +0900",
+      "description": "WAAP·CDR 기술 결합해 업로드 파일 내 악성 위협 실시간 무해화제로트러스트 기반 문서 재구성으로 시그니처 및 샌드박스 탐지 한계 극복[보안뉴스 조재호 기자] 모니터랩이 콘텐츠 보안 전문기업 시큐레터와 웹 및 API 보안 영역에 ‘콘텐츠 무해화’(CDR) 기술을 결합하는 전략적 파트너십을 체결했다고 4일 밝혔다.이번 협력은 모니터랩의 WAAP와 시큐레터",
+      "language": "ko",
+      "summary": "모니터랩이 WAAP·CDR 기술을 활용한 IT/API 보안 구축",
+      "points": [
+        "- 모니터랩, 시큐레터와의 협력에서 WAAP·CDR 기술을 결합한다.",
+        "- CDR 기술은 보안과정량 문서 재구성로 시그니처 및 샌드박스 탐지 활동에 사용함.",
+        "- 이러한 방식은 저력층 공격자의 진짜인식과 '콘텐츠 무해화'을 잘 제어함."
+      ],
+      "insight": "이 기사는 IT/API 보안에 중요한 신호를 전달하고 있으며, 현재 공격자의 진짜인식과 대응을 강인하는 방식이다."
     },
     {
       "title": "[CSW 2026] “이제 AI 에이전트가 새로운 공급망 공격 표면... 속도보다 검증 신경 써야”",
@@ -522,231 +747,6 @@
       "summary": "AI 기반 전기차 충전 인프라 구축 협력주차·충전 통합 모빌리티 플랫폼 개발자율주차·주차로봇 연계 미래 서비스 추진 [보안뉴스 강초희 기자] 주차관제 및 스마트 모빌리티 인프라 전문기업 아마노코리아(대표이사 전명진)가 AI 기반 전기차 충전 솔루션 전문기업 바이온에버(대표이사 임용석)와 업무협약을 체결했다. 양사는 지난 7월 30일 아마노코리아 본사에서 ‘",
       "points": [
         "양사는 지난 7월 30일 아마노코리아 본사에서 ‘",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026 미리보기] 멘로시큐리티 코리아, AI 시대 겨냥한 브라우저 보안 플랫폼으로 국내 기업 보안 혁신 지원",
-      "link": "http://www.boannews.com/media/view.asp?idx=145002&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 17:23:00 +0900",
-      "description": "AI 기반 업무 환경 확산에 따른 웹·브라우저 보안 위협 대응 제로트러스트 기반 Enterprise Browser Security 제공[보안뉴스 원병철 기자] 멘로시큐리티 코리아(Menlo Security Korea)는 AI 활용이 기업 전반으로 확대되는 가운데 증가하는 웹 기반 사이버 위협으로부터 기업을 보호하기 위해 자사의 Enterprise Brows",
-      "language": "ko",
-      "summary": "Menlo Security Korea는 AI 활용이 게임체제로 인식해야 할 브라우저 보안 위협에 대한 지원을 준비중이고, Enterprise Browser Security 제공을 강화하기 위해 AI 기반 방식의 전문가가 많음.",
-      "points": [
-        "AI 기반 방식은 클라이얼 타이어, 소셜미디어 손실, 인구값 등을 고려하여 보안 위협에 대한 방식을 개별화적으로 제공",
-        "최신 보안 제품이 기업의 웹 서비스 보호를 체감시키고자 한다.",
-        "기업들은 AI 기반 방식을 활용하여 개선되어야만 획재적인 보안 제품이 제공되는 것을 확인할 수 0가지고 있다."
-      ],
-      "insight": "보안 지원은 기업에서 우선 의사소통과 디지털 분양 방식을 전반적으로 이용하여 AI를 활용해보안 관리에 대한 기술가능성을 개선"
-    },
-    {
-      "title": "국가 인프라 지킬 ‘암호모듈’ 평가자 육성... KISA 교육생 선착순 모집",
-      "link": "http://www.boannews.com/media/view.asp?idx=144993&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 17:12:00 +0900",
-      "description": "과기정통부·국정원 공동 주관으로 8월 31일부터 5일간 오프라인 교육 가동민간 시험 체계 확대 대비해 객관적이고 일관된 암호모듈 평가 기반 구축[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 과학기술정보통신부, 국가정보원과 공동으로 암호모듈 시험에 필요한 전문 지식과 실무 역량을 갖춘 인력을 양성하기 위해 ‘암호모듈 시험자 양성 교육’을 신설하고 교육",
-      "language": "ko",
-      "summary": "과기정통부·국정원 공동 주관으로 8월 31일부터 5일간 오프라인 교육 가동민간 시험 체계 확대 대비해 객관적이고 일관된 암호모듈 평가 기반 구축[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 과학기술정보통신부, 국가정보원과 공동으로 암호모듈 시험에 필요한 전문 지식과 실무 역량을 갖춘 인력을 양성하기 위해 ‘암호모듈 시험자 양성 교육’을 신설하고 교육",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "진천군, CCTV 2106대로 생활안전망 똑똑하게 고도화한다",
-      "link": "http://www.boannews.com/media/view.asp?idx=145000&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 17:11:00 +0900",
-      "description": "AI 영상분석 기반 스마트 관제망 고도화생활권 CCTV 확충 및 비상벨 연계 강화24시간 통합관제 통한 범죄 예방 및 신속 대응[보안뉴스 강초희 기자] 충북 진천군(군수 김명식)이 범죄와 사고로부터 군민의 평온한 일상을 지키기 위해 생활권 CCTV를 확충하고, 지능형 영상 분석과 비상벨, 관계기관 대응체계를 결합한 스마트 관제망을 고도화하고 있다.군민들이",
-      "language": "ko",
-      "summary": "AI 영상분석 기반 스마트 관제망 고도화생활권 CCTV 확충 및 비상벨 연계 강화24시간 통합관제 통한 범죄 예방 및 신속 대응[보안뉴스 강초희 기자] 충북 진천군(군수 김명식)이 범죄와 사고로부터 군민의 평온한 일상을 지키기 위해 생활권 CCTV를 확충하고, 지능형 영상 분석과 비상벨, 관계기관 대응체계를 결합한 스마트 관제망을 고도화하고 있다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "유럽 진출 위해 꼭 알아야 할 사이버 보안법 ‘EU CRA’ 톺아보기",
-      "link": "http://www.boannews.com/media/view.asp?idx=144902&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 17:00:00 +0900",
-      "description": "유럽연합(EU), 디지털 제품 대상으로 사이버보안 강화하는 사이버복원력법(CRA) 시행[보안뉴스 엄호식 기자] 2016년 CCTV와 DVR, 라우터 등 IoT 기기를 감염시켜 대규모 DDoS 공격을 일으킨 ‘미라이 봇넷’(Mirai Botnet)의 발생으로 기본 패스워드 금지 등 보안 내재화가 본격적으로 추진됐다. 그리고 2017년 전 세계 약 40억달러의",
-      "language": "ko",
-      "summary": "유럽연합(EU), 디지털 제품 대상으로 사이버보안 강화하는 사이버복원력법(CRA) 시행[보안뉴스 엄호식 기자] 2016년 CCTV와 DVR, 라우터 등 IoT 기기를 감염시켜 대규모 DDoS 공격을 일으킨 ‘미라이 봇넷’(Mirai Botnet)의 발생으로 기본 패스워드 금지 등 보안 내재화가 본격적으로 추진됐다. 그리고 2017년 전 세계 약 40억달러의",
-      "points": [
-        "그리고 2017년 전 세계 약 40억달러의",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[CSW 2026] “북한 연계 김수키, AI로 진화”... 정밀한 표적 공격, 추적 힘든 악성코드 증가",
-      "link": "http://www.boannews.com/media/view.asp?idx=145001&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 16:59:00 +0900",
-      "description": "CSW 2026에서 APAC 지역 위협 동향 공유[중국 광저우=보안뉴스 한세희 기자] 한국 정부 기관을 주로 공격하는 북한 연계 위협 그룹 김수키가 AI를 이용해 진화하고 있다. 랜섬웨어 그룹들은 무차별 공격보다 정교한 표적 공격 비중을 높이고 있다. 3일 중국 광저우에서 열린 ‘사이버 시큐리티 위켄드(CSW) 2026’에서 세르게이 로즈킨 카스퍼스키 글",
-      "language": "ko",
-      "summary": "CSW 2026에서 APAC 지역 위협 동향 공유[중국 광저우=보안뉴스 한세희 기자] 한국 정부 기관을 주로 공격하는 북한 연계 위협 그룹 김수키가 AI를 이용해 진화하고 있다. 랜섬웨어 그룹들은 무차별 공격보다 정교한 표적 공격 비중을 높이고 있다...",
-      "points": [
-        "CSW 2026에서 APAC 지역 위협 동향 공유[중국 광저우=보안뉴스 한세희 기자] 한국 정부 기관을 주로 공격하는 북한 연계 위협 그룹 김수키가 AI를 이용해 진화하고 있다",
-        "랜섬웨어 그룹들은 무차별 공격보다 정교한 표적 공격 비중을 높이고 있다",
-        "3일 중국 광저우에서 열린 ‘사이버 시큐리티 위켄드(CSW) 2026’에서 세르게이 로즈킨 카스퍼스키 글"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[2026 EDR·NDR·XDR 솔루션 리포트] 국가 사이버보안 기본지침 개정과 만나 보안 체계를 업그레이드하다",
-      "link": "http://www.boannews.com/media/view.asp?idx=144905&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 16:43:00 +0900",
-      "description": "탐지와 대응의 골든타임 확보해 조직의 연속성 지켜내는 EDR·NDR·XDR [설문조사] 국가 사이버보안 기본지침 개정안, 38.3% ‘개정 소식만 들어봤고, 세부 내용은 잘 몰라’EDR·NDR·XDR 솔루션 집중분석: 쿼드마이너, Trellix(아이티언), 넷위트니스, 이글루코퍼레이션, ESET, 안랩, 쿼리시스템즈[보안뉴스 원병철 기자] 2026년 5월",
-      "language": "ko",
-      "summary": "탐지와 대응의 골든타임 확보해 조직의 연속성 지켜내는 EDR·NDR·XDR [설문조사] 국가 사이버보안 기본지침 개정안, 38. 3% ‘개정 소식만 들어봤고, 세부 내용은 잘 몰라’EDR·NDR·XDR 솔루션 집중분석: 쿼드마이너, Trellix(아이티언), 넷위트니스, 이글루코퍼레이션, ESET, 안랩, 쿼리시스템즈[보안뉴스 원병철 기자] 2026년 5월",
-      "points": [
-        "탐지와 대응의 골든타임 확보해 조직의 연속성 지켜내는 EDR·NDR·XDR [설문조사] 국가 사이버보안 기본지침 개정안, 38",
-        "3% ‘개정 소식만 들어봤고, 세부 내용은 잘 몰라’EDR·NDR·XDR 솔루션 집중분석: 쿼드마이너, Trellix(아이티언), 넷위트니스, 이글루코퍼레이션, ESET, 안랩, ...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "스캐닝 넘어 공격자 시선으로... 금융보안원, ‘모의해킹 실무 가이드’ 배포",
-      "link": "http://www.boannews.com/media/view.asp?idx=144994&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 16:02:00 +0900",
-      "description": "생성형 AI 악용 공격 증가 속 3개 분야 6개 항목 핵심 점검 체계 마련마이터 어택 및 킬체인 프레임워크 기반으로 목표지향적 모의 침투 시나리오 정립[보안뉴스 조재호 기자] 금융보안원은 금융사가 실제 공격자 관점의 침투테스트를 체계적으로 수행할 수 있도록 돕는 ‘금융분야 침투테스트’(모의해킹) 수행 가이드라인을 발간했다고 3일 밝혔다.이번 가이드라인 발간",
-      "language": "ko",
-      "summary": "금융보안원이 강화된 금융사가의 공격자 시선으로 피드위로 진행한 모의해킹 기능을 제공하여, AI 악용 공격에 대한 절차를 전이하는 방식으로 진행한다.",
-      "points": [
-        "금융보안원은 모의해킹, '금융분약 침투',를 AI 직장에서의 대처방식을 제공한다.",
-        "이 기사는 금융보안원이 강화된 금융사가들에게 어택적 방안을 제공하여, 금융사가의 공격자 시선으로 진행한 공격에 대비를 시연하여 준비할 수 0에요.",
-        "AI 악용 공격 방식을 다루기 위해서는, 현재의 금융보안코인들이 잘하게 만든 '모의해킹'를 통해 전환해야 한다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서, AI로 인위적으로 진정하지 못한 공격을 탐욕적으로 이해하고 대비를 보호하기위한 '모의해킹'을 AI 공격자가 수행하여 강화되었다는 사상을 제공한다."
-    },
-    {
-      "title": "[CSW 2026] AI 인프라부터 애플리케이션까지 지킨다... 카스퍼스키, “신뢰와 혁신 가능케 하는 AI 생태계”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144999&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 16:00:00 +0900",
-      "description": "CSW 2026 개최”AI 위협이 가시성 앞질러”... AI로 인한 위협은 통제하고 신뢰는 높여[중국 광저우=보안뉴스 한세희 기자] 카스퍼스키가 보안 위협을 최소화하며 기업 내 AI 사용 생산성을 극대화하는 새 AI 플랫폼 ‘카스퍼스키 AI 프로텍트’를 선보인다. 아드리안 히아 카스퍼스키 아시아태평양 총괄 사장은 3일 광저우에서 열린 ‘사이버시큐리티위크엔드",
-      "language": "ko",
-      "summary": "AI가 이공부를 위해서 인디어 사용한 기술에 대한 신경질활성성으로 인한 위협과 혁신을 다루고 있는 CSW2026 아이플러스 프로텍트를 소개한 카스퍼시 AI 대전공인 마지막 경진선 출신이, 이제는 AI가 인피리싸인 세계로서의 존재로 인한 인피리즈 위협을 최소화하고 사회에 영향을 주기로 선보이며, AI를 생산체제로 이전에는 인공지의 운용성과 염불적이 때문으로실질적인 피해가 발생했다.",
-      "points": [
-        "- CSW2026 AI 프로텍트는 신경질활성성으로 인한 위협을 이해하고 방어할 수 0.5",
-        "AI를 사용하기 전에는 인공지의 근본질이 인내재인 데이터와 모형에 손쉽게 열리고 자연스러우니깖 AI가 세계에 대한 직장적인 충독으로 인한 위협을 최소화",
-        "AI는 사회에서 중요하지만, 인사이트를 제대로 확보하고 활용하기 어려우니 인재 결정과 효율성 개선에 주몸"
-      ],
-      "insight": "마지막 경진선 출신이 AI를 이전에는 일하기 어렵게 했지만, 다시 우리의 인디어 사용을 위해서 인공지가 개체화할 수 있도록 강구으로 개선하고 AI를 이전의 인사이트에 대해서 감세리고 기술적인 활용을 노력하면, IT/기술 업체에서 AI를 생산하는 경로가 더 안전이며, 사회에도 영향을 미리보다 좋은 협상을 이기게 될 것"
-    },
-    {
-      "title": "국토부, AI 시대 공간정보 고도화 “도시·재난안전·모빌리티 활용 확대”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144996&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 16:00:00 +0900",
-      "description": "AI 기반 3차원 공간정보 구축 확대GeoAI·디지털트윈 중심 산업 경쟁력 강화공간정보 개방·활용 확대 및 해외 진출 지원[보안뉴스 강초희 기자] 국토교통부(장관 김윤덕)는 ‘공간정보산업 진흥법’에 따라 ‘제4차 공간정보산업진흥 기본계획’(2026~2030)을 국가공간정보위원회 심의를 거쳐 확정했다고 밝혔다.정부가 2026년을 ‘AI 3대 강국 도약의 원년",
-      "language": "ko",
-      "summary": "AI 기반 3차원 공간정보 구축 확대GeoAI·디지털트윈 중심 산업 경쟁력 강화공간정보 개방·활용 확대 및 해외 진출 지원[보안뉴스 강초희 기자] 국토교통부(장관 김윤덕)는 ‘공간정보산업 진흥법’에 따라 ‘제4차 공간정보산업진흥 기본계획’(2026~2030)을 국가공간정보위원회 심의를 거쳐 확정했다고 밝혔다. 정부가 2026년을 ‘AI 3대 강국 도약의 원년",
-      "points": [
-        "정부가 2026년을 ‘AI 3대 강국 도약의 원년",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "나루씨큐리티-진인프라, ‘ZeroTiCA’ 리셀러 계약... 제로트러스트 보안 시장 정조준",
-      "link": "http://www.boannews.com/media/view.asp?idx=144984&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 11:24:00 +0900",
-      "description": "MSP 역량과 AI 침해진단 기술 결합 ‘진단-조치-운영’ 통합 보안 모델 제시N2SF 컨설팅 및 구축 사업 연계해 공공·민간 제로 트러스트 시장 공략[보안뉴스 조재호 기자] 나루시큐리티와 진인프라가 AI 기반 침해진단 서비스 ‘제로티카’(ZeroTiCA) 리셀러 계약을 체결하고 공공 및 민간 통합 보안 시장 공략에 나선다.이번 계약을 통해 진인프라는 기존",
-      "language": "ko",
-      "summary": "MSP 역량과 AI 침해진단 기술 결합 ‘진단-조치-운영’ 통합 보안 모델 제시N2SF 컨설팅 및 구축 사업 연계해 공공·민간 제로 트러스트 시장 공략[보안뉴스 조재호 기자] 나루시큐리티와 진인프라가 AI 기반 침해진단 서비스 ‘제로티카’(ZeroTiCA) 리셀러 계약을 체결하고 공공 및 민간 통합 보안 시장 공략에 나선다. 이번 계약을 통해 진인프라는 기존",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "핀란드, 연말에 러시아 연결 광케이블도 끊는다... 전력망 이어 통신망도 단절",
-      "link": "http://www.boannews.com/media/view.asp?idx=144985&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 10:57:00 +0900",
-      "description": "전력망 이어 광케이블 연결 종료러시아 국경 통신 인프라 단계적 단절대체 통신망 확보 및 영향 최소화[보안뉴스 김형근 기자] 핀란드 국영 송전망 운영사 핑그리드(Fingrid)가 연말 임대 계약 만료에 맞춰 러시아와 연결된 광케이블 운영을 종료한다.글로벌 사이버보안 매체 더 레코드(The Record)에 따르면, 양국 간 전력 송전은 러시아의 우크라이나 침공",
-      "language": "ko",
-      "summary": "핀란도 연말에 러시아-광케이블의 전용 업무를 중단하고, Fingrid가 연번 송전을 수동으로 자동차로 내리기를 위한 인프라를 구성할 예정이다.",
-      "points": [
-        "핀란도는 연말에 러시아-광케이블의 전용 업무를 중단하고,",
-        "인프라가 수동으로 자동차로 내리기를 위한 도약이다.",
-        "Fingrid이 연램에서 광케이블 연결을 종료하고, 인프라의 영향을 최소화한다."
-      ],
-      "insight": "이러한 개정이 IT/기술 업체에서 전반적으로 중요하게 인식될 가능성이 높다."
-    },
-    {
-      "title": "AI 시대 방어의 한계 넘는다... 이스트시큐리티, ‘EDR 차세대 진화’ 기술보고서",
-      "link": "http://www.boannews.com/media/view.asp?idx=144986&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 10:48:00 +0900",
-      "description": "하루 평균 2992건 쏟아지는 보안 경보 속 인력난 겪는 현장 딜레마 조명인간은 최종 승인만 담당하는 구조로 IT 담당자 누구나 관제 수준 운영 지원[보안뉴스 조재호 기자] 이스트시큐리티는 AI 기술과 EDR 솔루션을 결합해 자율형 보안 패러다임을 제시하는 ‘AI 에이전트로 진화하는 EDR - AI 주도 자율형 보안의 시작’ 기술보고서를 발간했다고 3일 밝",
-      "language": "ko",
-      "summary": "하루 평균 2992건 쏟아지는 보안 경보 속 인력난 겪는 현장 딜레마 조명인간은 최종 승인만 담당하는 구조로 IT 담당자 누구나 관제 수준 운영 지원[보안뉴스 조재호 기자] 이스트시큐리티는 AI 기술과 EDR 솔루션을 결합해 자율형 보안 패러다임을 제시하는 ‘AI 에이전트로 진화하는 EDR - AI 주도 자율형 보안의 시작’ 기술보고서를 발간했다고 3일 밝",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "원모어시큐리티, 필리핀 Baybay City 전역에 실종자 고속검색 솔루션 구축",
-      "link": "http://www.boannews.com/media/view.asp?idx=144978&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 10:11:00 +0900",
-      "description": "‘원모어아이 고속검색 v3.0’ 도시 전체 CCTV에 적용실종자·범죄 용의자 신속 추적 지원필리핀 차량 번호판 학습 추진... 현지 맞춤형 차량 추적 서비스까지 확대[보안뉴스 강초희 기자] 원모어시큐리티(대표이사 김민식)가 필리핀 Baybay City 전역에 실종자 고속검색 솔루션 ‘원모어아이 고속검색 v3.0’ 구축을 완료했다고 밝혔다. 이번 구축은 20",
-      "language": "ko",
-      "summary": "원모어시큐리티가 필리핀 Baybay City에서 사용자가 사진을 입력해도 추천한 의자가 소유자 중복이나 아닌 경우으로 인식함.",
-      "points": [
-        "원모어시큐리티는 새로운 솔루션 '원모어아이'를 구축한다.",
-        "도시 전역의 CCTV 데이터를 기반으로 직방 유의자를 식별함.",
-        "사용자가 입력한 이미지가 손재해진 인증 여부에 대해서도 지원함."
-      ],
-      "insight": "이러한 기능은 사용자의 안전을 보장하고, 교통위기 수요를 증가시키는 것을 목표로 한국어로"
-    },
-    {
-      "title": "쿠도커뮤니케이션, AI·보안 전문성 지역사회와 나눈다 “청소년 교육 사회공헌 진행”",
-      "link": "http://www.boannews.com/media/view.asp?idx=144980&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 10:00:00 +0900",
-      "description": "중·고등학생 15명 대상으로 4일간 ‘2026 과천미리내공유학교’ 운영임직원 전문성과 DX타워 인프라 활용해 지역 청소년의 진로 탐색 지원[보안뉴스 강초희 기자] 쿠도커뮤니케이션(대표 김용식)은 7월 28일부터 31일까지 경기도 과천시 DX타워에서 중·고등학생을 대상으로 청소년 교육 사회공헌 프로그램인 ‘2026 과천미리내공유학교’를 운영했다고 밝혔다.이번",
-      "language": "ko",
-      "summary": "쿠도 기사는 교육사회공헌을 위해 3대학생들이 국내에서 발전한 DX타워의 이해와 스스로의 미래를 조사한 것을 보여준다.",
-      "points": [
-        "- 현재 중·고등학생들에게 국내 DX타워의 역할과 지속가능한 운동 기능을 이해하는 것은 중요한 진보이다.",
-        "- ‘2026 과천미리내공유학교’ 프로그램이 쿠도를 위해 DX타워에서의 활용을 촉인한다.",
-        "- 여러분은 현재가격대가 다음 학년 동안에 더욱 내부로 조사해보기를 요구하고 있다."
-      ],
-      "insight": "이러한 교육사회공헌 프로젝트는 DX타워에서의 인피하는 미래를 구척해보고자 한다. 학생들은 국내 최신 기술과 관련된 운동력을 함양적으로 연구해보고자 한다."
-    },
-    {
-      "title": "큐냅 코리아, 컴퓨존 단독 최대 39% 할인 NAS 특가 판매",
-      "link": "http://www.boannews.com/media/view.asp?idx=144981&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 3 Aug 2026 09:53:00 +0900",
-      "description": "9월 30일까지 QNAP 주차별 특가 운영NAS·확장 스토리지 주요 모델 최대 39% 할인 판매[보안뉴스 강초희 기자] 컴퓨팅·스토리지·네트워크 솔루션 전문 기업 큐냅 코리아(지사장 알렉산더 서)는 컴퓨존 단독으로 QNAP NAS와 확장 스토리지 주요 모델을 할인 판매하는 ‘QNAP 주차별 특가’ 행사를 진행한다고 밝혔다. 행사는 8월 1일부터 9월 30일",
-      "language": "ko",
-      "summary": "9월 30일까지 QNAP 주차별 특가 운영NAS·확장 스토리지 주요 모델 최대 39% 할인 판매[보안뉴스 강초희 기자] 컴퓨팅·스토리지·네트워크 솔루션 전문 기업 큐냅 코리아(지사장 알렉산더 서)는 컴퓨존 단독으로 QNAP NAS와 확장 스토리지 주요 모델을 할인 판매하는 ‘QNAP 주차별 특가’ 행사를 진행한다고 밝혔다. 행사는 8월 1일부터 9월 30일",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드"
       ],
