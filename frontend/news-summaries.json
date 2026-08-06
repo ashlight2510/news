@@ -1,6 +1,246 @@
 {
-  "generatedAt": "2026-08-05T19:32:36.200Z",
+  "generatedAt": "2026-08-06T02:46:15.694Z",
   "articles": [
+    {
+      "title": "ADT캡스, ‘캡스 매장솔루션’으로 매장 통합 관리 지원",
+      "link": "http://www.boannews.com/media/view.asp?idx=145041&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 11:26:00 +0900",
+      "description": "하이브리드, 무인, 1인 매장 등 매장 환경에 맞춘 통합 운영관리 서비스 주목보안, 출입, 근태, 매출, 기기 등 ‘캡스ON’ 하나의 플랫폼에서 실시간 관리ADT캡스 출동보안 서비스 연계로 운영관리부터 긴급 대응까지 원스톱 지원[보안뉴스 강초희 기자] SK쉴더스(대표 민기식)의 물리보안 브랜드 ADT캡스가 ‘캡스 매장솔루션’을 통해 매장 운영과 보안을 하나",
+      "language": "ko",
+      "summary": "ADT캡스의 '캡스 매장솔루션'이 모든 병합 매장에서 브랜드 보안서비스로 환경 조성",
+      "points": [
+        "- ADT캡스는 모든 문화, 근방, 출입, 직원의 지속적인 보안을 위한 준비",
+        "- '캡스 매장솔루션'이 ADT캡스의 브랜드로 확대되어 멤버가 광립으로 움직이기 위해 수월한 노용",
+        "- ADT캡스는 운영 중인 모든 병합 매장에서 환경 조성을 위해 개선"
+      ],
+      "insight": "이러한 시장 대화, ADT캡스가 IT/기술 업체에서 보안과 운영 지침을 제공하는 계신이다."
+    },
+    {
+      "title": "리눅스 재단·엔비디아, 오픈 시큐어 AI 얼라이언스 출범... ‘SAFE’ 초안 제시",
+      "link": "http://www.boannews.com/media/view.asp?idx=145042&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 11:25:00 +0900",
+      "description": "50여개 글로벌 빅테크 연합해 개방형 AI 보안 스택 및 보안 도구 전면 개방허깅페이스 사고 교훈 삼아 투명성 갖춘 프런티어 모델로 단일 장애점 극복침해 및 결함 사례 익명 공유하는 ‘세이프’ 가동... 책임 추궁 대신 공동 학습[보안뉴스 김형근 기자] 엔비디아(NVIDIA)와 리눅스 재단(Linux Foundation) 등 글로벌 IT 기업들이 인공지능의",
+      "language": "ko",
+      "summary": "50여개 글로벌 빅테크 연합해 개방형 AI 보안 스택 및 보안 도구 전면 개방허깅페이스 사고 교훈 삼아 투명성 갖춘 프런티어 모델로 단일 장애점 극복침해 및 결함 사례 익명 공유하는 ‘세이프’ 가동. 책임 추궁 대신 공동 학습[보안뉴스 김형근 기자] 엔비디아(NVIDIA)와 리눅스 재단(Linux Foundation) 등 글로벌 IT 기업들이 인공지능의",
+      "points": [
+        "50여개 글로벌 빅테크 연합해 개방형 AI 보안 스택 및 보안 도구 전면 개방허깅페이스 사고 교훈 삼아 투명성 갖춘 프런티어 모델로 단일 장애점 극복침해 및 결함 사례 익명 공유하...",
+        "책임 추궁 대신 공동 학습[보안뉴스 김형근 기자] 엔비디아(NVIDIA)와 리눅스 재단(Linux Foundation) 등 글로벌 IT 기업들이 인공지능의",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "아파치 톰캣 암호화 우회 취약점 비상... CISA, KEV 긴급 등재",
+      "link": "http://www.boannews.com/media/view.asp?idx=145039&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 11:16:00 +0900",
+      "description": "중국계 해커, AI 악용해 ‘리버스 셸’ 배포 등 실제 침해 사고 발생CISA, 연방 기관에 조치 불가 시 제품 사용 중단 초강수 지침[보안뉴스 김형근 기자] 미국 사이버보안및인프라보안국(CISA)이 실제 현장 공격에 악용 중인 아파치 톰캣(Apache Tomcat)의 고위험 암호화 우회 취약점(CVE-2026-34486)을 KEV 카탈로그에 추가했다.이번",
+      "language": "ko",
+      "summary": "중국계 해커, AI 악용해 ‘리버스 셸’ 배포 등 실제 침해 사고 발생CISA, 연방 기관에 조치 불가 시 제품 사용 중단 초강수 지침[보안뉴스 김형근 기자] 미국 사이버보안및인프라보안국(CISA)이 실제 현장 공격에 악용 중인 아파치 톰캣(Apache Tomcat)의 고위험 암호화 우회 취약점(CVE-2026-34486)을 KEV 카탈로그에 추가했다",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[DEF CON 34] K-해커, 데프콘 휩쓴다... CTF 본선 12팀 중 7팀 韓 주축",
+      "link": "http://www.boannews.com/media/view.asp?idx=145038&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 11:13:00 +0900",
+      "description": "예선 1위 팀 등 7개 팀 한국 해커가 리더BoB와 화이트햇스쿨 수료생 대거 포함... KISA, 지원 확대[라스베이거스=보안뉴스 강현주 기자] 대한민국 정예 해커들이 올해 데프콘 CTF 본선을 휩쓸었다. 한국 해커들이 대거 포진된 7개 팀이 글로벌 최고 권위의 해킹 대회 데프콘 CTF에 출전해 전세계 해커들과 겨룬다. 미국 라스베이거스 컨벤션센터(LVCC",
+      "language": "ko",
+      "summary": "예선 1위 팀 등 7개 팀 한국 해커가 리더BoB와 화이트햇스쿨 수료생 대거 포함. KISA, 지원 확대[라스베이거스=보안뉴스 강현주 기자] 대한민국 정예 해커들이 올해 데프콘 CTF 본선을 휩쓸었다...",
+      "points": [
+        "예선 1위 팀 등 7개 팀 한국 해커가 리더BoB와 화이트햇스쿨 수료생 대거 포함",
+        "KISA, 지원 확대[라스베이거스=보안뉴스 강현주 기자] 대한민국 정예 해커들이 올해 데프콘 CTF 본선을 휩쓸었다",
+        "한국 해커들이 대거 포진된 7개 팀이 글로벌 최고 권위의 해킹 대회 데프콘 CTF에 출전해 전세계 해커들과 겨룬다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "이노뎁, 제주 185억원 재난 AX 사업 참여로 국가 AI 전환 핵심 레퍼런스 연속 확보",
+      "link": "http://www.boannews.com/media/view.asp?idx=145043&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 10:47:00 +0900",
+      "description": "울산 AI 시티 이어 제주 재난 AX까지 공공 AI 전환 시장 선점영상관제 넘어 재난 예측·지역 데이터 통합하는 공공 AX 플랫폼으로 확장제주 실증모델 전국 도서·해안지역 및 일본·아시아 확산 기대[보안뉴스 엄호식 기자] 이노뎁은 제주테크노파크가 추진하는 ‘AI 기반 도서형 기후·해양 재난 대응 선도모델 구축사업’의 참여기관으로 선정됐다고 밝혔다. 이번 사",
+      "language": "ko",
+      "summary": "제주에서 AI를 활용한 'AI 기반 도서형 기하' 연구점장으로 국가 재단이 시스템화 진행.",
+      "points": [
+        "제주 공인 AI 전환 시장에서의 'AI 기반 도서형 기하' 연구점장으로 국가 대단지가 이어졌다.",
+        "최근 재산 재난 진짜인 것입니다. 'AI 기반 도서형 기하' 연구점장로 공동이해를 시작했다.",
+        "국가 AI를 활용하여 재산 재난에 대한 대안을 제공하고 싶어진다."
+      ],
+      "insight": "이벤트는 공동주급의 'AI 기반 도서형 기하' 연구점장으로, 재산 재난에 대한 IT 전문가의 지원을 논의하고자 한다."
+    },
+    {
+      "title": "시놀로지, SK네트웍스서비스와 영상 보안 카메라 국내 독점 판매 파트너십 체결",
+      "link": "http://www.boannews.com/media/view.asp?idx=145040&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 09:46:00 +0900",
+      "description": "시놀로지 카메라, 전 세계 1400만대 이상 가동최근 가변 초점 불렛 카메라 BC800Z와 어안 카메라 FC600 출시시장 확대 위해 파트너 대상 교육과 기술 지원, 영업 협업 및 맞춤형 솔루션 제안 강화[보안뉴스 엄호식 기자] 글로벌 스토리지 및 데이터 관리 솔루션 선도 기업 시놀로지(Synology)가 SK네트웍스서비스와 영상 보안 카메라의 국내 독점",
+      "language": "ko",
+      "summary": "시놀로지는 SK네트웍스서비스와 영상 보안 카메라의 국내 독점을 제공합니다.",
+      "points": [
+        "시놀로지이 전 세계 1400만대 이상 가동한 카메라를 제공",
+        "영업 협업 및 맞춤형 솔루션을 강화하여 보안 설계에 출장을 요구",
+        "국내 독점 초기화를 위해 SK네트웍스서비스와 협업하고 제작"
+      ],
+      "insight": "시놀로지는 영상 보안 카메라를 제공하는 대표적인 판매 핵심자이며, SK네트웍스서비스와의 글로지스리 협조는 국내 독젼의 일정화면에서 그들의 역할을 강화시키고, 세계적으로도 발전이 가능한 아킷웨이지추상을 제공하여 보안 설계에 기여함을 나타냅니다."
+    },
+    {
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 22:55:43 +0000",
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "language": "en",
+      "summary": "TechCrunch offers an additional $100 off for TechCrunch Disrupt passes until Friday as part of a promotional deal.",
+      "points": [
+        "Starting today, take up to $200 discount on the TechCrouch Disrupt pass before it expires this weekend",
+        "TechCrunch is also offering an extra $100 off if you purchase a ticket within two days after launch of promotion.",
+        "Discount applies until Friday, providing potential savings for attendees interested in the event."
+      ],
+      "insight": "This promotional offer by TechCrunch demonstrates their commitment to making technology conferences more accessible and affordable. Additionally, such offers may encourage participation from diverse audiences who are keen on attending but were previously deterred due to cost concerns."
+    },
+    {
+      "title": "Nikita Bier steps down as X’s head of product",
+      "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 21:30:50 +0000",
+      "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "language": "en",
+      "summary": "Nikita Bier has resigned from her role as head of product at startup accelerator X about a year after taking the position.",
+      "points": [
+        "- Nikita Bier was previously known for serial entrepreneurship and took on an intensive, always-on job with only two days off per week.",
+        "- Her departure comes one year into her tenure overseeing X'th product portfolio which includes three companies in their cohort alone.",
+        "- Despite the demand of her role, Bier managed to maintain a healthy personal life."
+      ],
+      "insight": "Bier’s decision highlights potential issues with startup culture and its demands on leaders. This could prompt conversations about work-life balance in entrepreneurial environments within the IT industry."
+    },
+    {
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 21:26:40 +0000",
+      "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+      "language": "en",
+      "summary": "Travis Kalanick has re-entered the tech industry with his robotics company Atoms after acquiring an autonomous vehicle startup and is seeking a CFO to join the team.",
+      "points": [
+        "Travis Kalanick, CEO of Uber Technologies Inc., invested in Anthony Levandowski' extricating him from investor tension with Alphabet’s Waymo amidst his controversies at Uber",
+        "Kalanick founded Atoms as a robotics startup specializing in industrial automation and has acquired the autonomous driving company, 'Euclid', for over $6 million.",
+        "$150,000 annual salary package is being offered to former Uber CFO Ali Ahmed with benefits including stock options."
+      ],
+      "insight": "Kalanick's return could signify a shift towards innovation in robotics and autonomous vehicles within the broader IT/technology industry. His experience from previous leadership roles might influence new trends or strategies, especially if he successfully integrates Atoms into his portfolio."
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "language": "en",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software",
+      "points": [
+        "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks w...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 21:05:37 +0000",
+      "description": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "language": "en",
+      "summary": "OpenAI is undergoing a Department of Justice investigation over its employee sponsorship practices related to H-1B visas and green cards.",
+      "points": [
+        "The DOJ claims OpenAI did not sufficiently attempt to hire U.S. citizens before seeking permanent residence for Visa holders",
+        "OpenAI has been accused of a 'reverse outsourcing' model by the DOJ which could hurt American workers and employers.",
+        "An anti-bias study suggests OpenAI employees are more diverse than many other tech companies."
+      ],
+      "insight": "This investigation brings to light potential unethical practices in employee sponsorship that may impact future immigration policies within the IT industry. It also highlights a paradox wherein a company celebrated for its inclusive culture and innovative AI is scrutinized for visa-related issues, which could lead tech companies to reassess their global talent acquisition strategies."
+    },
+    {
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 20:50:45 +0000",
+      "description": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "language": "en",
+      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis",
+      "points": [
+        "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someda...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 20:48:56 +0000",
+      "description": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+      "language": "en",
+      "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "link": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 20:48:54 +0000",
+      "description": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own notable hire in that vein, bringing on Claire Zau, a seed investor with a major following on Instagram and […]",
+      "language": "en",
+      "summary": "Lightspeed Venture Partners has recently hired Claire Zau, known for her significant influence in the creator community via social media platforms like Instagram.",
+      "points": [
+        "Venture firms are increasingly engaging with creators to build trust before funding decisions.",
+        "Lightspeed Venture Partners hired Claire Zau, a seed investor and influential figure on social media platforms like Instagram.",
+        "This trend reflects the growing importance of personal brand influence in venture capital."
+      ],
+      "insight": "The IT/technology industry is recognizing that trust between founders and investors can be built through engaging with influencers within creator communities, which may lead to more successful funding rounds for startups associated with popular personalities online."
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 20:05:00 +0000",
+      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "language": "en",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents",
+      "points": [
+        "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 05 Aug 2026 19:30:19 +0000",
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "language": "en",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
       "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
@@ -509,245 +749,6 @@
         "Event dates: October 13-15, Moscone West"
       ],
       "insight": "TechCrunch'selfforced commitmentto ensuring the financial viability of attending their flagship event underscores an industry trend towards securing cost efficiencies for conferences."
-    },
-    {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 21:07:26 +0000",
-      "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "language": "en",
-      "summary": "SpaceX has significantly invested in Tesla Megapacks this year, reflecting the close ties between SpaceX and its parent company.",
-      "points": [
-        "Elon Musk's companies have an intricate network of financial relationships with each other through large-scale transactions like these purchases.",
-        "SpaceX has invested a substantial amount in Tesla Megapacks, showcasing confidence in both SpaceEx and its subsidiary company."
-      ],
-      "insight": "The cross-company investments within Elon Musk' endorsed corporate universe highlights the interdependence of his ventures. It suggests that successes across platforms can bolster each entity, driving collective growth in industries like energy storage and renewable transportation."
-    },
-    {
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 20:36:30 +0000",
-      "description": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-      "language": "en",
-      "summary": "During the company's post-IPO reporting period for Q1 of FY23, SpaceX significantly increased revenues compared to last year while also expanding its computing solutions with Anthropic and Google.",
-      "points": [
-        "SpaceX reported a doubling in revenue from $4.8 billion (Year P/L) to $9.5 billion for the first quarter of FY23, attributing this growth largely due to increased Starlink sales amid rising global demand and pricing.",
-        "The company signed computing services deals with Anthropic and Google in its latest move to diversify business beyond space exploration and satellite launches by providing supercomputing solutions for research institutions worldwide.",
-        "SpaceX CEO Elon Musk emphasized the growing importance of Starlink as a service, stating that it had become 'a really big part' of their overall revenues."
-      ],
-      "insight": "This news signals SpaceX’in strategic diversification towards services beyond its space exploration projects by leveraging Anthropi and Google. It suggests the company is looking to create a sustainable revenue stream even if there are setbacks in their core business."
-    },
-    {
-      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 20:26:53 +0000",
-      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "language": "en",
-      "summary": "New research by EFF warns Android app developers that some of the third-party code used could be secretly gathering user location data.",
-      "points": [
-        "The Electronic Frontier Foundation has uncovered potentially invasive practices within popular apps involving unautclated collection and sharing of users' location information with advertisers through opaque, undesirable third-party code integration",
-        "This issue extends beyond just app developers themselves to include the software providers who supply these integrated tools without clear consent or notification methods for data usage",
-        "The findings serve as a wakeup call not only about privacy concerns and user trust but also highlights need for transparency in how tech products are built"
-      ],
-      "insight": "This news serves to heighten awareness regarding the necessity of clear consent, disclosure, and transparent practices within app development as they relate to data sharing with advertisers. Developers should strive towards more informed third-party integrations that uphold user trust."
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 20:05:26 +0000",
-      "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "language": "en",
-      "summary": "A SaferAI report reveals Z.ai'in GLM-5.2 model approaches frontier AI with insufficient safety measures.",
-      "points": [
-        "Z.ai's open-weight GLM-5.2 nearly matches the capabilities of advanced closed models in terms of raw performance, yet falls short on critical safety aspects that are crucial for responsible deployment.",
-        "Open AI technology like Z.ai’s model is gaining traction and could potentially outpace governance frameworks designed to ensure ethical use without compromising its benefits due to current regulatory lags in the industry.",
-        "The study underscores an urgent need for standardized safety protocols specifically tailored for open AI systems that are as effective, if not more so, than those used by closed models."
-      ],
-      "insight": "As powerful AI tools become increasingly available and potentially misused without adequate safeguards in place, this report highlights the urgent need for developing robust regulatory mechanisms to keep pace with rapidly evolving technology within IT/technology industry. The widening safety gap between open-weight models like Z.ai’s GLM-5.2 and their closed counterparts suggests that without immediate action, there's a risk of allowing harmful applications of AI technologies on the market."
-    },
-    {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 19:48:40 +0000",
-      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "language": "en",
-      "summary": "Amazon's artificial intelligence arm Anthropic has signed what could be the largest-ever contract for an advanced language model by entering into a $1 endorsement deal with AI startup Volta.",
-      "points": [
-        "Anthropic, Amazon’s cloud partnership spree",
-        "$10 billion dollar deal reportedly signed between Anthropi and start-up Volta for 'endorsement', the biggest contract to date in advanced language model development",
-        "Billion Dollar Deal"
-      ],
-      "insight": "The $10 billion partnership agreement is a landmark moment, potentially setting an industry benchmark. Anthropic and AI start-ups might need to recalibrate their financial models considering such colossal investments."
-    },
-    {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 19:34:34 +0000",
-      "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "language": "en",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories",
-      "points": [
-        "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 19:28:49 +0000",
-      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "language": "en",
-      "summary": "Nvidia is leading the newly formed Open Secure AI Alliance with more than a hundred members to propose safeguards in response to artificial intelligence (AI) threats.",
-      "points": [
-        "The recent formation of the Open Secure AI Alliance, which includes over 120 companies such as Nvidia and Microsoft, shows rapid progress within weeks.",
-        "This group has already come up with proposals for defending against security risks posed by sophisticated computer programs resembling human intelligence.",
-        "The initiative reflects the industry's growing concern over potential vulnerabilities that AI agents could exploit."
-      ],
-      "insight": "This development suggests a collaborative approach within the tech community to mitigate risks associated with advanced AI, indicating an ongoing proactive stance towards emerging threats and their implications for cybersecurity in general industry practices beyond just IT/technology."
-    },
-    {
-      "title": "Waymo opens up robotaxi service in Dallas to everyone",
-      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 17:31:01 +0000",
-      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
-      "language": "en",
-      "summary": "Waymo has made its robotaxi service available without a waitlist in Dallas as it expands autonomous driving capabilities to more regions.",
-      "points": [
-        "Drop of the Waymo robotaxi waitlist for non-members",
-        "Expansion plans include further testing, regulatory compliance assessment, and deployment across multiple states/countries",
-        "Partnership with Fiat Chrysler Automobiles (FCA) to provide vehicles"
-      ],
-      "insight": "This represents a significant move for Waymo in commercializing autonomous vehicle technology; it sets the stage for broader adoption and regulatory conversations."
-    },
-    {
-      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
-      "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 17:20:54 +0000",
-      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "language": "en",
-      "summary": "TechCrunch readers can enjoy an extra $100 off their TechCrunch Disrupt passes for the event in August.",
-      "points": [
-        "An additional discount of up to $100 is available on TC Disrupt pass purchases through today",
-        "The offer applies only to founder, investor, or general attendee categories",
-        "This promotion will be valid until the end of this week"
-      ],
-      "insight": "TechCrunch's special discount for its events demonstrates their ongoing commitment to making innovative technology and business a reality. By offering such generous rates, they promote inclusivity in tech conferences while also building brand loyalty amongst their readers."
-    },
-    {
-      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-      "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 17:05:48 +0000",
-      "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
-      "language": "en",
-      "summary": "TV Time co-founder Justin Stewart has launched Bingers to recreate the popular tracking app's social aspects and add new features like importing past TV watching data.",
-      "points": [
-        "Justin Stewart, a former employee of NBCUniversal who worked on their streaming service Peacock, is now CEO at TuneBuddy. He co-founded Bingers to revive the social elements that were lost from original version of TV Time.",
-        "The app'thy new tracker features 'binger badges', a community leaderboard system allowing users to compete with each other by tracking their consumption habits and earning prizes in partnership with brands such as Samsung, Philips, LG, Sony, Dish Network, Xfinity.",
-        "The revived app supports importing past viewing history from services like Roku Channel TV. It also plans to add a 'TV party' feature where friends can schedule times for watching together and share experiences."
-      ],
-      "insight": "This news demonstrates the potential of social features in enhancing user engagement within tracking apps, potentially reshaping industry standards towards more interactive entertainment consumption habits. It also shows how tech companies are leveraging partnerships with brands to create value-added experiences for users."
-    },
-    {
-      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-      "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 16:27:59 +0000",
-      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
-      "language": "en",
-      "summary": "Hackers exploit a bug in the cryptocurrency hardware wallet Coldcard, leading to over $130 million lost.",
-      "points": [
-        "Security flaw discovered",
-        "Money drained from victims' wallets via hacked device",
-        "$130 million total losses reported"
-      ],
-      "insight": "This significant breach highlights the vulnerability in physical hardware security and underscCESCENTE.SENSIBLEsecurity of cryptocurrency assets, prompting a reevaluation of offline wallet safety."
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 15:50:06 +0000",
-      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
-      "language": "en",
-      "summary": "Spotify has partnered with Merlin to launch an AI-powered remix and cover tool that will allow fans to create covers while enscuring artist participation.",
-      "points": [
-        "Merlin, a company representing over 30,000 independent labels and distributors, is backing Spotify's new paid product for creating AI-generated music remixes and covers",
-        "Spotify will ensure artists opt in, receive credit, and are compensated through the partnership with Merlin and Universal Music Group",
-        "The tool allows fans to create their own versions of popular songs while respecting copyright laws"
-      ],
-      "insight": "This new initiative by Spotify can significantly contribute towards engaging music consumers, creating a more interactive experience within the platform. It also potentially offers an additional revenue stream for participating artists."
-    },
-    {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 15:42:35 +0000",
-      "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-      "language": "en",
-      "summary": "Governor Greg Abbott of Texas has called for audits on data centers due to energy concerns amidst extreme weather conditions.",
-      "points": [
-        "Texas' demanding new power needs have overtaxed its electricity system, prompting Governor Abbott to call for emergency state-wide reviews and mandatory reporting by large Texas companies. This action is a response to the potential threat of widespdest blackouts.",
-        "The pushback against this request from tech corporations highlights their reliance on stable energy supplies in pursuing industry growth, while environmentalists express concern over data centers' significant power consumption amid climate change issues.",
-        "Despite Texas’ reputation for abundant natural gas and cheap electricity as major selling points to the technology sector, these attributes now seem less appealing under extreme weather conditions."
-      ],
-      "insight": "The situation in Texas underscores a potential vulnerability of tech industry operations that heavily rely on data centers' energy supplies. While economic allure exists for building facilities there, this case exemplifies how even the most desirable locations can face unexpected operational challenges."
-    },
-    {
-      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-      "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 15:38:22 +0000",
-      "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
-      "language": "en",
-      "summary": "Walmart has finalized the purchase of digital marketing firm Vibe.co to bolster its own television ad services through a new subsidiary called Walmart Connect.",
-      "points": [
-        "Vibe.co, known for using social media engagement strategies in TV advertising, will be integrated into Walmart'ner Connected TV Advertising Platform as Walmart Ventures-owned Vibe",
-        "Walmart aims to enhance its marketing capabilities by incorporating digital tactics used by startups like Pixability and Winkleman.",
-        "The acquisition of Vibe.co is part of an expansion strategy for Walmart's in-store technology platform."
-      ],
-      "insight": "This deal signals a strategic shift towards merging digital engagement with traditional TV advertising within the retail industry, potentially setting new standards for consumer interaction and brand loyalty."
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 15:20:06 +0000",
-      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-      "language": "en",
-      "summary": "Elon Musk often diverts focus during his quarterly comments on the future of robotics and artificial intelligence with regard to their potential impact on automobiles.",
-      "points": [
-        "Despite spending considerable time, Elon Musk primarily concentrates discussions around Tesla's electric vehicles rather than its broader tech initiatives during earnings calls.",
-        "Musk frequently speculates about the future integration of robotics and AI into everyday life beyond automotive applications in these public forums.",
-        "The attention given to robots, artificial intelligence, and potential impacts on industries other than Tesla's core business suggests Musk views them as crucial components of his long-term vision."
-      ],
-      "insight": "While Elon Musk may not directly discuss the development or advancement of robotics within Tesla itself, it is clear that he sees a transformative role for AI and robots across various industries. This indicates how technology innovations can drive forward his broader ambitions."
-    },
-    {
-      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 04 Aug 2026 15:00:00 +0000",
-      "description": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
-      "language": "en",
-      "summary": "The article invites individuals and organizations to host their own side events coinciding with the Founder Summit in Boston from June 4-1 end of this year.",
-      "points": [
-        "Over a thousand attendees expected during TechCrunch Founder Summit Week",
-        "Opportunity for new tech initiatives and interactions amidst industry leaders",
-        "Free event space provided to host own events"
-      ],
-      "insight": "The convergence of numerous side events can provide diverse networking opportunities, fostering collaboration and innovation within the IT/technology community during Founder Summit Week."
     }
   ]
 }
