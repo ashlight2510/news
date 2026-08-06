@@ -1,6 +1,108 @@
 {
-  "generatedAt": "2026-08-06T08:49:04.395Z",
+  "generatedAt": "2026-08-06T14:09:15.831Z",
   "articles": [
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 06 Aug 2026 13:31:57 +0000",
+      "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "language": "en",
+      "summary": "Suno plans to implement a song-watermarking system amidst various ongoing lawsuits.",
+      "points": [
+        "Despite facing multiple legal battles",
+        "Introducing the watermark technology for music identification and copyright protection",
+        "The service will be available to paying subscribers"
+      ],
+      "insight": "Suno's decision indicates an attempt to protect their content while navigating a challenging legal landscape, potentially influencing industry standards on digital rights management."
+    },
+    {
+      "title": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
+      "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 06 Aug 2026 13:01:25 +0000",
+      "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
+      "language": "en",
+      "summary": "Ford has announced the 'Fathom', an electric truck due in fall 2influx for a starting price of $28,350; however, its design details will be unveiled later.",
+      "points": [
+        "The Ford Fathom is set to launch with multiple trim levels and prices ranging from nearly $47k upwards",
+        "It promises ample interior space comparable or surpassing many full-size pickup trucks of today, including the Tesla Cybertruck's cargo capacity for its price range.",
+        "Ford plans to release more details about Fathom in early 2028."
+      ],
+      "insight": "The Ford electric truck 'Fathom', with competitive pricing and spacious interiors, indicates a strong entry strategy into the rapidly growing EV market segmented for utility vehicles. Its forthcoming details are expected to reveal more about how it could shift consumer preferences towards eco-friendly transportation in this category."
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "description": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "language": "en",
+      "summary": "A group of ex-Spotify employees have raised $10M to develop an AI recommendation system for e-commerce sites.",
+      "points": [
+        "The new platform predicts a customer'self shopping next, learning their taste over time and continuously refining its suggestions based on real-time actions.",
+        "Ex-Spotify employees have founded the startup with this AI recommendation system."
+      ],
+      "insight": "This news demonstrates that companies in various industries are recognizing how effective personalized recommendations can be for increasing customer engagement and sales. As a result, they're looking to implement similar technologies within their own operations or partner with those who have developed such systems."
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "language": "en",
+      "summary": "Mirendil has signed a significant deal with Google Cloud for computational infrastructure expansion aimed at developing self-improving AI systems to aid in scientific research.",
+      "points": [
+        "Signing of the $1 endorses Mirendil's commitment towards innovation and scaling up its computing power using cloud services.",
+        "The project focuses on creating a feedback loop within AI that enables self-improvement, potentially revolutionizing scientific research.",
+        "A partnership with Google Cloud indicates the importance of robust infrastructure in cutting-edge AI development."
+      ],
+      "insight": "This deal highlights how vital cloud computing resources are for advancing complex AI systems that can self-improve and contribute significantly to scientific progress, signaling a trend towards more collaborative partnerships between tech firms in the industry."
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 06 Aug 2026 12:30:00 +0000",
+      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "language": "en",
+      "summary": "Google is expanding its services beyond mapping by introducing food ordering and hotel bookings directly through Google Maps.",
+      "points": [
+        "Google has unveiled agentic features such as dining reservations, restaurant discovery with menus, customized meal planning for special occasions like Valentine's Day or birthdays within the app itself via Smart Compose."
+      ],
+      "insight": "The integration of food ordering and hotel booking into Google Maps is indicative of a significant shift towards making everyday tasks seamless through digital platforms, setting a new standard for how navigation tools can serve as comprehensive personal assistants in the IT/technology industry."
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 06 Aug 2026 12:00:00 +0000",
+      "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "language": "en",
+      "summary": "Omilia, a customer support platform company founded by former Google executives, secured $67M in Series B funding and has significantly grown its annual recurring revenue (ARR) since last raising capital.",
+      "points": [
+        "Series B round of $67M for Omilia with the aim to scale customer support operations",
+        "Omilia's ARR growing by ten times from previous fundraising in 2020, now at $60 million annually",
+        "Started as a side project and evolved into providing AI-driven remote work solutions"
+      ],
+      "insight": "The recent capital raise emphasizes the potential of customer support platforms incorporating AI to disrupt traditional outsourcing models in IT, possibly indicating shifts towards more scalable and automated approaches."
+    },
+    {
+      "title": "[양자와 보안] 탈레스, 양자 내성 HSM ‘루나 8’ 출시... AI 및 포스트 양자 컴퓨팅 시대 대비",
+      "link": "http://www.boannews.com/media/view.asp?idx=145059&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Thu, 6 Aug 2026 19:04:00 +0900",
+      "description": "탈레스 설계한 암호화 프로세서로 구동... 신뢰할 수 있는 보안 기능과 PQC 등 차세대 기술 지원[보안뉴스=한세희 기자] 탈레스(Thales)는 차세대 하드웨어 보안 모듈 ‘루나 8’(Luna 8)을 출시한다고 6일 밝혔다. 양자내성암호(PQC) 전환을 위해 조직이 암호화 키를 안전하게 저장, 보호, 관리할 수 있도록 한다. 새롭게 부상하는 양자 위협,",
+      "language": "ko",
+      "summary": "탈레스 설계한 암호화 프로세서로 구동. 신뢰할 수 있는 보안 기능과 PQC 등 차세대 기술 지원[보안뉴스=한세희 기자] 탈레스(Thales)는 차세대 하드웨어 보안 모듈 ‘루나 8’(Luna 8)을 출시한다고 6일 밝혔다...",
+      "points": [
+        "신뢰할 수 있는 보안 기능과 PQC 등 차세대 기술 지원[보안뉴스=한세희 기자] 탈레스(Thales)는 차세대 하드웨어 보안 모듈 ‘루나 8’(Luna 8)을 출시한다고 6일 밝혔...",
+        "양자내성암호(PQC) 전환을 위해 조직이 암호화 키를 안전하게 저장, 보호, 관리할 수 있도록 한다",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "총알받이로 전락한 CISO... 금융권 보안 인재 엑소더스 시작되나?",
       "link": "http://www.boannews.com/media/view.asp?idx=145052&kind=&sub_kind=",
@@ -644,111 +746,6 @@
         "-AI algorithms are improving the accuracy of short-term, localized weather predictions."
       ],
       "insight": "With advanced machine learning techniques driving improved precision in atmospheristic conditions prediction at a granular level, WindBorne Systems' approach could significantly enhance decision making for industries reliant on accurate real-time climate data while presenting new commercial opportunities with its proprietary forecast technology."
-    },
-    {
-      "title": "“스스로 우회로 찾는다” 中 해커 ‘딥시크’ 악용한 자율형 AI 해킹 적발",
-      "link": "http://www.boannews.com/media/view.asp?idx=145024&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 5 Aug 2026 17:36:00 +0900",
-      "description": "팔로알토 유닛 42, 인간 개입 없는 능동형 해킹 정황 분석취약점 탐색부터 공격 실행까지 스스로 판단하는 차세대 위협 현실화[보안뉴스 김형근 기자] 팔로알토 네트웍스의 위협 인텔리전스 연구팀 유닛 42(Unit 42)가 AI 악용한 차세대 사이버 공격 캠페인 분석 보고서를 공개했다. 이번에 발견한 공격은 중국을 기반으로 활동하는 지능형 지속 위협(APT)",
-      "language": "ko",
-      "summary": "팔로알토 유닛 42, 인간 개입 없는 능동형 해킹 정황 분석취약점 탐색부터 공격 실행까지 스스로 판단하는 차세대 위협 현실화[보안뉴스 김형근 기자] 팔로알토 네트웍스의 위협 인텔리전스 연구팀 유닛 42(Unit 42)가 AI 악용한 차세대 사이버 공격 캠페인 분석 보고서를 공개했다. 이번에 발견한 공격은 중국을 기반으로 활동하는 지능형 지속 위협(APT)",
-      "points": [
-        "이번에 발견한 공격은 중국을 기반으로 활동하는 지능형 지속 위협(APT)",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“AI 시대 인증 패러다임 바꾼다”... 패스워드리스 얼라이언스 포럼 콘퍼런스 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=144979&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 5 Aug 2026 17:02:00 +0900",
-      "description": "한국정보통신기술협회 주최로 비밀번호 대체할 차세대 로그인 아키텍처 조명브라우저 및 소버린 로그인 원리부터 NIST 800-63-4 AAL 규격 심층 해설[보안뉴스 조재호 기자] 한국정보통신기술협회(TTA)가 주최하는 ‘패스워드리스 얼라이언스 포럼 콘퍼런스 2026’가 오는 12일 서울 코엑스 2층 콘퍼런스룸 북 206호에서 열린다. 글로벌 보안 콘퍼런스인",
-      "language": "ko",
-      "summary": "한국정보통신기술협회 주최로 비밀번호 대체할 차세대 로그인 아키텍처 조명브라우저 및 소버린 로그인 원리부터 NIST 800-63-4 AAL 규격 심층 해설[보안뉴스 조재호 기자] 한국정보통신기술협회(TTA)가 주최하는 ‘패스워드리스 얼라이언스 포럼 콘퍼런스 2026’가 오는 12일 서울 코엑스 2층 콘퍼런스룸 북 206호에서 열린다. 글로벌 보안 콘퍼런스인",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "비알인포텍, ‘혁신프리미어 1000’ 선정... 저탄소 보안카메라 기술력 인정",
-      "link": "http://www.boannews.com/media/view.asp?idx=145028&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 5 Aug 2026 16:43:00 +0900",
-      "description": "국내 최초 저탄소 인증 보안카메라 기술력 인정친환경 보안 제품 확대, 공공 탄소중립 정책 대응[보안뉴스 강초희 기자] 보안용 카메라 및 조명 제조 전문기업 비알인포텍(대표 오상록)이 정부부처가 공동 주관하는 ‘2026년 제2차 혁신프리미어 1000’에 선정됐다고 밝혔다.‘혁신 프리미어 1000’은 금융위원회 등 14개 정부부처가 공동 주관해 산업별 혁신성과",
-      "language": "ko",
-      "summary": "국내 최초 저탁산소 보안카메라 기술력 인정에 대한 IT/기술 업계에서 '2026년 제2차 혁신프리미어 1000'에 선정된 기사로, 비알인포텍이 공동 주관하는 선정 대상입니다.",
-      "points": [
-        "저탁산소 보안카메라 기술력 인정",
-        "국내 최초로 진행되었다고 한국어로",
-        "비알인포텍의 선정에 대해서만 설명합니다"
-      ],
-      "insight": "비알인포텍이 선정된 것은 IT/기술 업계가 최초로 진행되는 약세에 대한 보안과 안전성의 지켜십니다. 이러한 선정은 현재 공동 주관에서 국내 및 해외 공장들이 인재를 필터링하고자 한다는 의미입니다."
-    },
-    {
-      "title": "영국 경찰 법률 데이터베이스 해킹, 경찰 등 13만5000명 정보 유출 주장",
-      "link": "http://www.boannews.com/media/view.asp?idx=145029&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 5 Aug 2026 16:41:00 +0900",
-      "description": "경찰·형사사법 관계자 이름과 이메일 노출엑스필스쿼드, “1.9GB 데이터 탈취” 주장[보안뉴스 강초희 기자] 영국 경찰이 사용하는 법률 정보 시스템이 사이버 공격을 받아 경찰관과 형사사법 관계자 등의 연락처 정보가 유출됐다. 데이터 탈취를 주장한 공격자는 총 13만5000건의 정보를 확보했다고 주장하며 몸값을 요구하고 있다.미국 사이버보안 전문매체 블리핑컴",
-      "language": "ko",
-      "summary": "경찰·형사사법 관계자 이름과 이메일 노출엑스필스쿼드, “1. 9GB 데이터 탈취” 주장[보안뉴스 강초희 기자] 영국 경찰이 사용하는 법률 정보 시스템이 사이버 공격을 받아 경찰관과 형사사법 관계자 등의 연락처 정보가 유출됐다...",
-      "points": [
-        "경찰·형사사법 관계자 이름과 이메일 노출엑스필스쿼드, “1",
-        "9GB 데이터 탈취” 주장[보안뉴스 강초희 기자] 영국 경찰이 사용하는 법률 정보 시스템이 사이버 공격을 받아 경찰관과 형사사법 관계자 등의 연락처 정보가 유출됐다",
-        "데이터 탈취를 주장한 공격자는 총 13만5000건의 정보를 확보했다고 주장하며 몸값을 요구하고 있다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "나루씨큐리티, KISA와 손잡고 전국 중소기업 보안 사각지대 해소",
-      "link": "http://www.boannews.com/media/view.asp?idx=145034&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 5 Aug 2026 16:36:00 +0900",
-      "description": "지역 침해사고 피해기업 탐지 및 취약점 진단 사업 수행... 맞춤형 위협 대응이재광 센터장 “막연한 솔루션 도입보다 실행할 수 있는 우선순위 대응책 제시할 것”[보안뉴스 조재호 기자] 나루씨큐리티가 한국인터넷진흥원(KISA)이 추진하는 지역 침해사고 피해기업 탐지 및 취약점 진단 사업을 수행하며 전국 중소기업 보안 역량 강화에 나선다고 5일 밝혔다. 이번",
-      "language": "ko",
-      "summary": "지역 침해사고 피해기업 탐지, 취약점 진단, 보안 방식 개선",
-      "points": [
-        "나루씨큐리티와 KISA가 작은 기업에게 보안 피해 방식을 제안한다.",
-        "이 사업은 전용도로나, 컨벤션적 서비스 구성원들의 보안 채널로 작성되었다.",
-        "결과적으로 이러한 조치는 기술 전문가가 보호하고 항상 최신화를 위해 도움이 되어있다."
-      ],
-      "insight": "이러한 조치는 IT/기술 업계에서 모든 회사가 보호와 안전성을 강화하도록 도울 것이다."
-    },
-    {
-      "title": "행안부, 보행 안전 위협하는 부적합 볼라드 정비",
-      "link": "http://www.boannews.com/media/view.asp?idx=145031&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 5 Aug 2026 16:33:00 +0900",
-      "description": "석재형·저규격·훼손 볼라드 집중 개선안전신문고 신고 연계 보행환경 개선[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 보행자 안전을 위협하거나 통행을 방해하는 자동차 진입 억제용 말뚝(이하 볼라드)을 일제 정비한다고 밝혔다.볼라드는 횡단보도, 보행섬 등에 설치하여 자동차의 보도 진입을 억제하고 보행자의 안전한 통행을 보장하는 시설로, 관련 법령에서 규정",
-      "language": "ko",
-      "summary": "석재형·저규격·훼손 볼라드 집중 개선안전신문고 신고 연계 보행환경 개선[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 보행자 안전을 위협하거나 통행을 방해하는 자동차 진입 억제용 말뚝(이하 볼라드)을 일제 정비한다고 밝혔다. 볼라드는 횡단보도, 보행섬 등에 설치하여 자동차의 보도 진입을 억제하고 보행자의 안전한 통행을 보장하는 시설로, 관련 법령에서 규정",
-      "points": [
-        "석재형·저규격·훼손 볼라드 집중 개선안전신문고 신고 연계 보행환경 개선[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 보행자 안전을 위협하거나 통행을 방해하는 자동차 진입 억제...",
-        "볼라드는 횡단보도, 보행섬 등에 설치하여 자동차의 보도 진입을 억제하고 보행자의 안전한 통행을 보장하는 시설로, 관련 법령에서 규정",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
-      "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 05 Aug 2026 07:15:49 +0000",
-      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
-      "language": "en",
-      "summary": "At Wispr Flow Inc., the Granola-styled Meeting Note Taker (MNT) is set to revolutionize how businesses record meetings by automatically creating detailed summaries and action items.",
-      "points": [
-        "Wispr'incorporated a new notetaking feature into their existing meeting management software, called Granola-styled Meeting Note Taker (MNT).",
-        "The MNT is designed to generate accurate meeting transcripts and distill action items during meetings.",
-        "With the implementation of this tool, Wispr Flow aims to improve productivity in corporate environments by streamlining post-meeting processes."
-      ],
-      "insight": "This development signifies an increasing trend towards AI integration for administrative tasks within IT industries; it indicates that organizations are seeking tools to increase efficiency and reduce manual workload. Wispr Flow's MNT represents a step forward in the evolution of intelligent business software, potentially setting new standards in virtual meeting management."
     }
   ]
 }
