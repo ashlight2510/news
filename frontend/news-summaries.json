@@ -1,6 +1,79 @@
 {
-  "generatedAt": "2026-08-07T18:58:22.136Z",
+  "generatedAt": "2026-08-08T01:28:04.480Z",
   "articles": [
+    {
+      "title": "체코, 1억달러 투입 ‘C-ITS’ 본격 가동하며 AI 교통분석·사이버보안 시장 확대",
+      "link": "http://www.boannews.com/media/view.asp?idx=145011&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 8 Aug 2026 10:11:00 +0900",
+      "description": "2031년 C-ITS 전국 서비스 구축과 1억달러 투자 추진긴급차량 우선통행·철도 연계·AI 교통서비스 확대AI 교통분석·사이버보안 분야 후속사업 및 시장 확대[보안뉴스 강초희 기자] 체코의 차세대 지능형 교통체계(C-ITS)가 시범사업을 넘어 상용 서비스와 전국 확산 단계에 들어선다. 체코 정부는 2031년까지 전국 단위 C-ITS 서비스 환경 구축을 목",
+      "language": "ko",
+      "summary": "2031년 C-ITS 전국 서비스 구축과 1억달러 투자 추진긴급차량 우선통행·철도 연계·AI 교통서비스 확대AI 교통분석·사이버보안 분야 후속사업 및 시장 확대[보안뉴스 강초희 기자] 체코의 차세대 지능형 교통체계(C-ITS)가 시범사업을 넘어 상용 서비스와 전국 확산 단계에 들어선다. 체코 정부는 2031년까지 전국 단위 C-ITS 서비스 환경 구축을 목",
+      "points": [
+        "체코 정부는 2031년까지 전국 단위 C-ITS 서비스 환경 구축을 목",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "language": "en",
+      "summary": "OpenAI has deliberately slowed the development of its Astra language model due to security concerns that it could pose a threat if released too early.",
+      "points": [
+        "The Astra LLM is still in development and reached OpenAI's critical cybersecurity threshold, potentially able to carry out sophisticated attacks on well-protected systems.",
+        "OpenAI intentionally delayed the release of their language model due to these security concerns.",
+        "As a precautionary measure, researchers are studying how Astra might behave in real scenarios and what threat it could pose."
+      ],
+      "insight": "The development slowdown raises questions about balancing advancements in artificial intelligence with the necessary cybersecurity measures to protect against potential misuse of powerful AI models. It underscores an industry-wide need for robust security protocols as we approach more sophisticated and autonomous systems."
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "language": "en",
+      "summary": "Following an initial investment in AI technology resulting in financial losses, Rippling developed the AI Spend Console to monitor and control individual and team spending on company-wide AI tools.",
+      "points": [
+        "Rippling faced significant costs after implementing its own bespo extranet platform that leveraged artificial intelligence (AI).",
+        "To mitigate similar financial missteps, Rippling introduced the AI Spend Console to track spending on employee-owned and company-supported tools.",
+        "The tool's design enables companies with pervasive cloud computing technology to manage spend effectively."
+      ],
+      "insight": "This initiative by Rippling emphasizes the importance of oversight in AI expenditures within organizations, potentially influencing other businesses that also utilize company-sponsored tools for employee work tasks."
+    },
+    {
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 07 Aug 2026 21:20:00 +0000",
+      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "language": "en",
+      "summary": "Wacom has launched the midpriced and versatile MovinkPad 11 for artists looking to bring their creativity into the digital realm without breaking the bank.",
+      "points": [
+        "The Wacom MovinkPad 11 offers a user-friendly interface with sensitivity adjustable in ten settings, accommodating different preferences and techniques of digital artists."
+      ],
+      "insight": "The release reflects an increasing focus on democratizing creative tools for wider accessibility within the IT/technology industry. As hardware becomes more affordable without compromising functionality, we can expect a surge in amateur talent entering various artistic fields online and offline."
+    },
+    {
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 07 Aug 2026 21:00:08 +0000",
+      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "language": "en",
+      "summary": "Security researchers in Poland discovered that key internet infrastructure is vulnerable to hacks due to common software weaknesses.",
+      "points": [
+        "Researchers identified security flaws at government websites related to courts, hospitals, and airports.",
+        "Common points of failure include outdated content management systems organizing web content.",
+        "The vulnerabilities could potentially allow hackers easy access across various sectors."
+      ],
+      "insight": "This news highlights the widespread nature of cybersecurity issues and underscores an urgent need for organizations to regularly update their digital infrastructure within Poland's critical industries, as well as globally. The IT community must prioritize security enhancements before these vulnerabilities are exploited."
+    },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
@@ -673,78 +746,6 @@
         "Ford plans to release more details about Fathom in early 2028."
       ],
       "insight": "The Ford electric truck 'Fathom', with competitive pricing and spacious interiors, indicates a strong entry strategy into the rapidly growing EV market segmented for utility vehicles. Its forthcoming details are expected to reveal more about how it could shift consumer preferences towards eco-friendly transportation in this category."
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "description": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
-      "language": "en",
-      "summary": "A group of ex-Spotify employees have raised $10M to develop an AI recommendation system for e-commerce sites.",
-      "points": [
-        "The new platform predicts a customer'self shopping next, learning their taste over time and continuously refining its suggestions based on real-time actions.",
-        "Ex-Spotify employees have founded the startup with this AI recommendation system."
-      ],
-      "insight": "This news demonstrates that companies in various industries are recognizing how effective personalized recommendations can be for increasing customer engagement and sales. As a result, they're looking to implement similar technologies within their own operations or partner with those who have developed such systems."
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "language": "en",
-      "summary": "Mirendil has signed a significant deal with Google Cloud for computational infrastructure expansion aimed at developing self-improving AI systems to aid in scientific research.",
-      "points": [
-        "Signing of the $1 endorses Mirendil's commitment towards innovation and scaling up its computing power using cloud services.",
-        "The project focuses on creating a feedback loop within AI that enables self-improvement, potentially revolutionizing scientific research.",
-        "A partnership with Google Cloud indicates the importance of robust infrastructure in cutting-edge AI development."
-      ],
-      "insight": "This deal highlights how vital cloud computing resources are for advancing complex AI systems that can self-improve and contribute significantly to scientific progress, signaling a trend towards more collaborative partnerships between tech firms in the industry."
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 12:30:00 +0000",
-      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "language": "en",
-      "summary": "Google is expanding its services beyond mapping by introducing food ordering and hotel bookings directly through Google Maps.",
-      "points": [
-        "Google has unveiled agentic features such as dining reservations, restaurant discovery with menus, customized meal planning for special occasions like Valentine's Day or birthdays within the app itself via Smart Compose."
-      ],
-      "insight": "The integration of food ordering and hotel booking into Google Maps is indicative of a significant shift towards making everyday tasks seamless through digital platforms, setting a new standard for how navigation tools can serve as comprehensive personal assistants in the IT/technology industry."
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 12:00:00 +0000",
-      "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "language": "en",
-      "summary": "Omilia, a customer support platform company founded by former Google executives, secured $67M in Series B funding and has significantly grown its annual recurring revenue (ARR) since last raising capital.",
-      "points": [
-        "Series B round of $67M for Omilia with the aim to scale customer support operations",
-        "Omilia's ARR growing by ten times from previous fundraising in 2020, now at $60 million annually",
-        "Started as a side project and evolved into providing AI-driven remote work solutions"
-      ],
-      "insight": "The recent capital raise emphasizes the potential of customer support platforms incorporating AI to disrupt traditional outsourcing models in IT, possibly indicating shifts towards more scalable and automated approaches."
-    },
-    {
-      "title": "[양자와 보안] 탈레스, 양자 내성 HSM ‘루나 8’ 출시... AI 및 포스트 양자 컴퓨팅 시대 대비",
-      "link": "http://www.boannews.com/media/view.asp?idx=145059&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 6 Aug 2026 19:04:00 +0900",
-      "description": "탈레스 설계한 암호화 프로세서로 구동... 신뢰할 수 있는 보안 기능과 PQC 등 차세대 기술 지원[보안뉴스=한세희 기자] 탈레스(Thales)는 차세대 하드웨어 보안 모듈 ‘루나 8’(Luna 8)을 출시한다고 6일 밝혔다. 양자내성암호(PQC) 전환을 위해 조직이 암호화 키를 안전하게 저장, 보호, 관리할 수 있도록 한다. 새롭게 부상하는 양자 위협,",
-      "language": "ko",
-      "summary": "탈레스 설계한 암호화 프로세서로 구동. 신뢰할 수 있는 보안 기능과 PQC 등 차세대 기술 지원[보안뉴스=한세희 기자] 탈레스(Thales)는 차세대 하드웨어 보안 모듈 ‘루나 8’(Luna 8)을 출시한다고 6일 밝혔다...",
-      "points": [
-        "신뢰할 수 있는 보안 기능과 PQC 등 차세대 기술 지원[보안뉴스=한세희 기자] 탈레스(Thales)는 차세대 하드웨어 보안 모듈 ‘루나 8’(Luna 8)을 출시한다고 6일 밝혔...",
-        "양자내성암호(PQC) 전환을 위해 조직이 암호화 키를 안전하게 저장, 보호, 관리할 수 있도록 한다",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
