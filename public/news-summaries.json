@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-08T01:28:04.480Z",
+  "generatedAt": "2026-08-08T06:52:35.952Z",
   "articles": [
+    {
+      "title": "[DEF CON 34] 데프콘 본선, AI 사용 제한 無... “AI 역량=경쟁력 불가피”",
+      "link": "http://www.boannews.com/media/view.asp?idx=145077&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 8 Aug 2026 11:30:00 +0900",
+      "description": "예선에 있던 AI 사용 제한 규정, 본선에선 사라져“사실상 제약 불가... 창의력 여전히 유효”[라스베이거스=보안뉴스 강현주 기자] 이번 데프콘 CTF 본선에서는 AI의 사용이 무제한 허용된다. 앞서 5월에 치러진 예선에서는 AI 사용에 대한 일부 제한 룰이 있었다. 이에 따라 본선에서도 어느 정도 제약이 있을 것으로 예상된 바 있다. 하지만 예선과 달리",
+      "language": "ko",
+      "summary": "예선에 있던 AI 사용 제한 규정, 본선에선 사라져“사실상 제약 불가. 창의력 여전히 유효”[라스베이거스=보안뉴스 강현주 기자] 이번 데프콘 CTF 본선에서는 AI의 사용이 무제한 허용된다...",
+      "points": [
+        "예선에 있던 AI 사용 제한 규정, 본선에선 사라져“사실상 제약 불가",
+        "창의력 여전히 유효”[라스베이거스=보안뉴스 강현주 기자] 이번 데프콘 CTF 본선에서는 AI의 사용이 무제한 허용된다",
+        "앞서 5월에 치러진 예선에서는 AI 사용에 대한 일부 제한 룰이 있었다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "Microsoft 365 AitM 악용 피싱 공격으로 계정 탈취... 급여 관련 이메일 수집",
+      "link": "http://www.boannews.com/media/view.asp?idx=145076&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 8 Aug 2026 10:58:00 +0900",
+      "description": "북미 및 유럽의 의료, 교육, 정부 서비스 부문 공격...단순 정보만 수집해 공격 탐지 우회[보안뉴스 원병철 기자] 최근 마이크로소프트 365 계정을 장악해 재무 워크플로에 관련된 주요 담당자를 식별하고, 관련 이메일을 수집하기 위한 중간자 공격(AitM) 기법을 사용하는 ‘광범위한 이메일 기반 피싱 캠페인’이 활발하게 진행되는 것으로 알려져 주의가 요구된",
+      "language": "ko",
+      "summary": "북미 및 유럽의 의료, 교육, 정부 서비스 부문 공격. 단순 정보만 수집해 공격 탐지 우회[보안뉴스 원병철 기자] 최근 마이크로소프트 365 계정을 장악해 재무 워크플로에 관련된 주요 담당자를 식별하고, 관련 이메일을 수집하기 위한 중간자 공격(AitM) 기법을 사용하는 ‘광범위한 이메일 기반 피싱 캠페인’이 활발하게 진행되는 것으로 알려져 주의가 요구된",
+      "points": [
+        "북미 및 유럽의 의료, 교육, 정부 서비스 부문 공격",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "체코, 1억달러 투입 ‘C-ITS’ 본격 가동하며 AI 교통분석·사이버보안 시장 확대",
       "link": "http://www.boannews.com/media/view.asp?idx=145011&kind=&sub_kind=",
@@ -716,36 +746,6 @@
         "EBay has hired more staff for live shopping and added extra cameras, lighting equipment"
       ],
       "insight": "eBay's expansion efforts in the field of live-shopping demonstrate its dedication to adapting e-commerce platforms towards meeting evolving customer preferences. With this move, it may not only enhance user experience but also gain a competitive edge against rivals like Amazon."
-    },
-    {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 13:31:57 +0000",
-      "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "language": "en",
-      "summary": "Suno plans to implement a song-watermarking system amidst various ongoing lawsuits.",
-      "points": [
-        "Despite facing multiple legal battles",
-        "Introducing the watermark technology for music identification and copyright protection",
-        "The service will be available to paying subscribers"
-      ],
-      "insight": "Suno's decision indicates an attempt to protect their content while navigating a challenging legal landscape, potentially influencing industry standards on digital rights management."
-    },
-    {
-      "title": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
-      "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 13:01:25 +0000",
-      "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
-      "language": "en",
-      "summary": "Ford has announced the 'Fathom', an electric truck due in fall 2influx for a starting price of $28,350; however, its design details will be unveiled later.",
-      "points": [
-        "The Ford Fathom is set to launch with multiple trim levels and prices ranging from nearly $47k upwards",
-        "It promises ample interior space comparable or surpassing many full-size pickup trucks of today, including the Tesla Cybertruck's cargo capacity for its price range.",
-        "Ford plans to release more details about Fathom in early 2028."
-      ],
-      "insight": "The Ford electric truck 'Fathom', with competitive pricing and spacious interiors, indicates a strong entry strategy into the rapidly growing EV market segmented for utility vehicles. Its forthcoming details are expected to reveal more about how it could shift consumer preferences towards eco-friendly transportation in this category."
     }
   ]
 }
