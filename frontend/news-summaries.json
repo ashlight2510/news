@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-08T06:52:35.952Z",
+  "generatedAt": "2026-08-08T12:45:36.787Z",
   "articles": [
+    {
+      "title": "[사진으로 보는 DEF CON 34ⓛ] ‘해커들의 축제’ 개막... 다양한 CTF와 즐길거리",
+      "link": "http://www.boannews.com/media/view.asp?idx=145080&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 8 Aug 2026 16:24:00 +0900",
+      "description": "CTF 외에도 강연, 시연, 게임, 기념품, 음악 등 누릴 것 많아[라스베이거스=보안뉴스 강현주 기자] 다양한 CTF와 보안 지식, 즐길거리를 누리는 전세계 해커들의 축제, 데프콘34(DEF CON 34)가 막을 올렸다. 여느 글로벌 테크 행사 대비 규모는 뒤지지 않지만 조금은 차분한, 그래서 더 이색적인 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서",
+      "language": "ko",
+      "summary": "CTF 외에도 강연, 시연, 게임, 기념품, 음악 등 누릴 것 많아[라스베이거스=보안뉴스 강현주 기자] 다양한 CTF와 보안 지식, 즐길거리를 누리는 전세계 해커들의 축제, 데프콘34(DEF CON 34)가 막을 올렸다. 여느 글로벌 테크 행사 대비 규모는 뒤지지 않지만 조금은 차분한, 그래서 더 이색적인 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서",
+      "points": [
+        "CTF 외에도 강연, 시연, 게임, 기념품, 음악 등 누릴 것 많아[라스베이거스=보안뉴스 강현주 기자] 다양한 CTF와 보안 지식, 즐길거리를 누리는 전세계 해커들의 축제, 데프콘...",
+        "여느 글로벌 테크 행사 대비 규모는 뒤지지 않지만 조금은 차분한, 그래서 더 이색적인 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "[사진으로 보는 DEF CON 34②] 한국팀 데프콘 본선 활약 현장",
+      "link": "http://www.boannews.com/media/view.asp?idx=145079&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sat, 8 Aug 2026 16:18:00 +0900",
+      "description": "7개 한국팀 출전 CTF 본선 시작[라스베이거스=보안뉴스 강현주 기자] 한국 해커들이 대거 활약하는 전세계 해커들의 축제, 데프콘34가 막을 올렸다. 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서 6일(현지시간) 개막했다. 하지만 첫날은 등록과 머천다이즈 중심으로 진행됐으며, 한국팀이 참가하는 해킹대회(CTF) 본선은 현지시간 7일 시작됐다. 686개팀",
+      "language": "ko",
+      "summary": "7개 한국팀 출전 CTF 본선 시작[라스베이거스=보안뉴스 강현주 기자] 한국 해커들이 대거 활약하는 전세계 해커들의 축제, 데프콘34가 막을 올렸다. 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서 6일(현지시간) 개막했다...",
+      "points": [
+        "7개 한국팀 출전 CTF 본선 시작[라스베이거스=보안뉴스 강현주 기자] 한국 해커들이 대거 활약하는 전세계 해커들의 축제, 데프콘34가 막을 올렸다",
+        "데프콘34는 라스베이거스 컨벤션센터(LVCC)에서 6일(현지시간) 개막했다",
+        "하지만 첫날은 등록과 머천다이즈 중심으로 진행됐으며, 한국팀이 참가하는 해킹대회(CTF) 본선은 현지시간 7일 시작됐다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "[DEF CON 34] 데프콘 본선, AI 사용 제한 無... “AI 역량=경쟁력 불가피”",
       "link": "http://www.boannews.com/media/view.asp?idx=145077&kind=&sub_kind=",
@@ -716,36 +746,6 @@
         "- The project named 'Terafab' is set to be built north of Houston"
       ],
       "insight": "This landmark collaboration between Tesla and SpaceX signals significant growth potential for the semiconductor manufacturing industry, with Texas becoming a key player in chip production."
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-      "language": "en",
-      "summary": "OpenAI argues in court against Apple's trade secrets lawsuit by pointing out flaws in how companies typically handle data security and offboarding practices.",
-      "points": [
-        "Court exhibits show OpenAI claims that Apple manager accessed a former engineer’s iCloud post-departure, suggesting poor internal controls on sensitive information access.",
-        "OpenAI contends these missteps by companies weaken their arguments for maintaining the secrecy of trade secrets like ChatGPT's technology.",
-        "The case puts into question standard practices around how corporations manage and secure data after an employee leaves."
-      ],
-      "insight": "This lawsuit challenges conventional wisdom on internal security measures within tech companies, which could lead to significant shifts in industry standards for handling sensitive information post-employment separation."
-    },
-    {
-      "title": "eBay continues to bet on live shopping after record quarter",
-      "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 14:17:46 +0000",
-      "description": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.",
-      "language": "en",
-      "summary": "After reporting its highest-ever quarterly revenue of $5 billion on Tuesday (March 2), eBay is expanding live shopping globally following a surge in demand for the service.",
-      "points": [
-        "eBay Live' endorsed record gross merchandise volume amid an increased interest",
-        "The company plans to grow its international presence of eBay Live by introducing it into new markets soon",
-        "EBay has hired more staff for live shopping and added extra cameras, lighting equipment"
-      ],
-      "insight": "eBay's expansion efforts in the field of live-shopping demonstrate its dedication to adapting e-commerce platforms towards meeting evolving customer preferences. With this move, it may not only enhance user experience but also gain a competitive edge against rivals like Amazon."
     }
   ]
 }
