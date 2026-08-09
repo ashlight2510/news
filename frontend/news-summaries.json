@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-09T01:44:34.556Z",
+  "generatedAt": "2026-08-09T06:56:24.932Z",
   "articles": [
+    {
+      "title": "[ISEC 2026 토크 콘서트] AI 자율 공격 시대, 우리는 준비됐나?... CISO와 보안 기업 솔직 대화",
+      "link": "http://www.boannews.com/media/view.asp?idx=145073&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 9 Aug 2026 15:45:00 +0900",
+      "description": "ISEC 2026 2일차 12일, 토크 콘서트 개최... 보안 수요자와 공급자의 속내 털어놓는다[보안뉴스 한세희 기자] AI가 스스로 취약점을 찾고 악성 코드까지 만들어 공격하는 시대가 왔다. 사람이 따라가지 못할 정도의 속도와 규모로 공격을 쏟아내는 AI의 등장은 보안 분야에 전례 없는 위협을 만들어내고 있다. AI가 사회 전반을 변화시킬 것으로 예상되는",
+      "language": "ko",
+      "summary": "AI가 보안 관련 공격에 영향을 미치고, IT/기술 업체는 이를 최대한 생산창진으로 만들어내도록 전주.",
+      "points": [
+        "- AI 기반 공격에 직면해",
+        "- IT/기술 업체는 보안 활동을 핀다",
+        "- 미치는 영향을 제어하고자 한다"
+      ],
+      "insight": "AI의 발전에 따라보안 관계가 더욱 중요해진다. IT/기술 업체는 이를 고려하여 보안 전문가의 지위를 높일 필요가 있다."
+    },
+    {
+      "title": "[DEF CON 34 해커 인터뷰] K-해커가 잘하는 이유?... “AI에 강해서!”",
+      "link": "http://www.boannews.com/media/view.asp?idx=145082&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 9 Aug 2026 11:14:00 +0900",
+      "description": "‘IT DNA’와 빠른 습득, 인재양성 프로그램 등 비결 꼽아 “난이도 높아져... AI도 소용없는 문제 가장 어려웠다”[라스베이거스=보안뉴스 강현주 기자] “한국 해커가 AI에 가장 강해요. 뭐든 빨리 습득하는 한국인은 ‘IT DNA’가 있는 것 같아요. 다국적팀과 한국 멤버만의 팀은 각각의 장점이 있어요. AI가 소용없던 문제가 있었는데 가장 어려웠어요",
+      "language": "ko",
+      "summary": "‘IT DNA’와 빠른 습득, 인재양성 프로그램 등 비결 꼽아 “난이도 높아져. AI도 소용없는 문제 가장 어려웠다”[라스베이거스=보안뉴스 강현주 기자] “한국 해커가 AI에 가장 강해요...",
+      "points": [
+        "‘IT DNA’와 빠른 습득, 인재양성 프로그램 등 비결 꼽아 “난이도 높아져",
+        "AI도 소용없는 문제 가장 어려웠다”[라스베이거스=보안뉴스 강현주 기자] “한국 해커가 AI에 가장 강해요",
+        "뭐든 빨리 습득하는 한국인은 ‘IT DNA’가 있는 것 같아요"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "스카이넷의 전조? ‘오픈AI-앤트로픽-메타’ 주요 AI 모델의 탈주극 벌어져",
       "link": "http://www.boannews.com/media/view.asp?idx=145081&kind=&sub_kind=",
@@ -717,35 +747,6 @@
         "Aimed at producing components for defense vehicles like submarines"
       ],
       "insight": "The Hadrian investment highlights a growing intersection between technology firms and national security industries."
-    },
-    {
-      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-      "link": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 17:41:56 +0000",
-      "description": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
-      "language": "en",
-      "summary": "Ford CEO praised the new Fathom electric vehicle as a pivotal moment for Ford; however, industry experts are skeptical about its performance and market fit.",
-      "points": [
-        "Despite high expectations, doubts remain regarding the Fathom EV's capabilities in meeting consumer demands within the burgeoning electric vehicle (EV) sector.",
-        "Ford CEO emphasized that while Ford may not have a Taurus-like model at present, they are continuously working to evolve and improve their offerings beyond gasoline vehicles alone."
-      ],
-      "insight": "While the Fathom EV might fall short in some aspects as compared with conventional pickups or luxury models like the Ford Taurus Raptor, its development signifies a shift toward electrification which is vital for long-term industry sustainability."
-    },
-    {
-      "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-      "link": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 06 Aug 2026 17:39:47 +0000",
-      "description": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.",
-      "language": "en",
-      "summary": "Bumble is transitioning from a purely app-based dating platform to one that emphasizes in-person interactions for its younger demographic.",
-      "points": [
-        "CEO Whitney Wolfe Herd expressed confidence about the success of Bumble's approach, stating 'We think it’d be impossible without our model.'",
-        "Bumble aims to create unique local events and venues that cater specifically to Gen Z demographics.",
-        "The CEO emphasized their strategy is focused on creating safe environments for socializing among the target age group."
-      ],
-      "insight": "This strategic pivot could signal Bumble's attempt to differentiate itself in a crowded dating app market, focusing more on fostering genuine connections and experiences rather than just swiping through profiles. It acknowledges Gen Z's preference for real-world interactions over digital ones."
     }
   ]
 }
