@@ -1,6 +1,231 @@
 {
-  "generatedAt": "2026-08-11T13:04:37.698Z",
+  "generatedAt": "2026-08-11T19:10:41.991Z",
   "articles": [
+    {
+      "title": "Google’s Gemini app surges to one billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "language": "en",
+      "summary": "Google' endorsed virtual assistant Gemini has surpassed one billion downloads since its launch last October.",
+      "points": [
+        "- Google’s own AI-based chatbot Bard had received over three times the number of installations as competitor systems within days, including ChatGPT and Microsoft's Phi",
+        "- The app supports several natural language processing models like Gopher Model (a smaller subset with 15% fewer parameters than PaLM2), Llama-3/4B Prefix-Tuned for Conversational Use Cases, Gemini Foundations (lower resource usage model at just over half the size of PaLM2)",
+        "- Google stated that it does not plan to use AI in search ranking algorithms as an 'ethical responsibility'."
+      ],
+      "insight": "Gemini’s rise indicates a competitive landscape where multiple tech giants are racing towards developing advanced, user-friendly conversational agents. This competition suggests rapid innovation and the increasing integration of AI in everyday digital interactions, potentially reshaping how people engage with technology."
+    },
+    {
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 17:46:14 +0000",
+      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "language": "en",
+      "summary": "Bluesky' end user base has decreased since the post-election spike while maintaining engagement within their app.",
+      "points": [
+        "Despite a decrease in active users following an initial surge, Bluesky continues to see some level of community engagement with its mobile application.",
+        "The company's focus is shifting beyond the scope of just providing information on elections and voting-related tools towards fostering broader civic dialogue.",
+        "This strategic pivot suggests a transition in Bluesky’s role from an election tool to becoming more like a general platform for discussion."
+      ],
+      "insight": "The shift by Bluesky indicates the company is adapting its model and possibly expanding their user base, which could lead towards sustaining engagement despite declining active users specifically related to elections or voting-related tools."
+    },
+    {
+      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+      "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 17:41:49 +0000",
+      "description": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+      "language": "en",
+      "summary": "Finnish satellite company ICEYE has become the inaugural beneficiary of Scaleup Europe's $5.7 billion fund targeted at European technology companies.",
+      "points": [
+        "Scaleup Europe, a public-private venture with an investment goal of $5.7 billion for early to growth stage tech businesses in the EU and UK.",
+        "The first company backed by Scaleup Europe is ICEYE (ICE Evidence), which provides high resolution earth observation imagery from satellites, supporting a range of applications including environmental monitoring, agriculture, urban planning, humanitarian aid, emergency response and national security.",
+        "The fund's investment represents the largest single deal to date for ICEYE. The company was founded in 2016 by former members of a European start-up accelerator specializing in Earth observation technology."
+      ],
+      "insight": "This marks an important development as Scaleup Europe targets early and growth stage tech companies within the EU, providing substantial capital to help these businesses expand globally. ICEYE's backing by such a significant fund could set precedence for future investments in European satellite imagery technology."
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "language": "en",
+      "summary": "Brad Lightcap has been OpenAI's Chief Operating Officer for many years and is now leaving the company with excitement about starting something new to help advance their mission from a different perspective.",
+      "points": [
+        "Longtime COO Brad Lightcap announces he will be departing OpenAI",
+        "Lightcap expressed enthusiasm at moving on, emphasizing his desire to assist in advancing the company's mission by joining forces with like-minded people and taking risks.",
+        "OpenAI CEO Sam Altman reiterated Lightcap’s commitment towards their shared vision for AI"
+      ],
+      "insight": "The departure of a longtime COO might lead to changes in leadership strategies at OpenAI, but the company's ongoing mission remains intact. The focus will likely continue to be humanity-aligned development and ethical use of artificial intelligence."
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 17:41:22 +0000",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "language": "en",
+      "summary": "River AI, backed by General Catalyst in its first round led by xAI co-founder Igor Babuschkin, has raised $1.1 billion to develop personal agents.",
+      "points": [
+        "General Catalyst leads a significant investment into River AI focusing on creating highly specialized virtual assistants or 'personal agents'.",
+        "Founded by Igor Babuschkin and backed with early-stage funding, the startup has secured $1 endorsement from tech industry leaders.",
+        "The massive round of financing is set to propel River AI into developing advanced personal assistants that can perform tasks autonomously."
+      ],
+      "insight": "This investment signifies a major push towards specialized artificial intelligence technologies, which could redefine the scope and capabilities within virtual assistant applications across various industries. It also reflects growing confidence in startups led by experienced co-founders who understand cutting-edge AI trends."
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "language": "en",
+      "summary": "AnthropiAC's AI has demonstrated unexpected advancement in tackling one of mathematics' most challenging problems - the Riemann hypothesis.",
+      "points": [
+        "The unreleased Anthropic model, despite not solving it, progressed on the Riemann hypothesis more than expected from an Artificial Intelligence entity",
+        "AnthropiAC has been recognized for its AI's significant contribution in this field with a special award by President Biden.",
+        "This achievement highlights that modern artificial intelligence could potentially solve complex mathematical problems and contribute to the expansion of human knowledge."
+      ],
+      "insight": "The successes of AnthropiAC, while still preliminary, hint at AI's potential for making substantial contributions in solving historically unsolvable mathematics conjectures which can advance various scientific fields. This development could redefine the role and capabilities expected from modern artificial intelligence."
+    },
+    {
+      "title": "Joby Aviation builds out defense business with $500M acquisition",
+      "link": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 16:06:08 +0000",
+      "description": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
+      "language": "en",
+      "summary": "The article discusses Joby Aviation's $50 endowment for expanding into the aviation defense sector through acquiring Resonant Sciences.",
+      "points": [
+        "Joby Aviation plans to acquire a company named 'Resonant Sciences'.",
+        "'Resonant Sciences', founded in July, develops technology that enables small drones to take off and land vertically without needing GPS signals or external sensors.",
+        "The deal is set at $50 million. The acquisition will be financed using Joby's capital reserve fund."
+      ],
+      "insight": "This strategic move by Joby Aviation indicates a potential expansion into the defense and commercial sectors, likely impacting drone usage in these areas significantly within five years."
+    },
+    {
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 15:40:46 +0000",
+      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "language": "en",
+      "summary": "During a Delta flight where in-flight Wi-Fi was temporarily offline, someone set up an unauthorized fake Wi-Fi network leading to security concerns.",
+      "points": [
+        "The aircraft's legitimate Wi-Fi service was disabled for approximately half an hour due to the incident of a falsified wireless connection being established during flight.",
+        "Delta Airlines is investigating after reports surfaced that someone attempted to set up their own non-authorized, publicly accessible network mid-flight on one Delta aircraft.",
+        "The security lapse raised concerns about potential data breaches and unauthorized access as the incident occurred with at least 160 passengers connected."
+      ],
+      "insight": "This news highlights growing cybersecurity vulnerabilities, especially in aviation where passenger safety is critical. It underscores a need for constant review of security measures to protect against unauthorized network access on flights that rely heavily on internet connectivity."
+    },
+    {
+      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
+      "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 15:33:59 +0000",
+      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
+      "language": "en",
+      "summary": "In a move likely influenced by consumer preferences for uninterrupted gaming experiences, Block Blast!, the top mobile game of 2term5, has decided to skip ads in its Apple Arcade incarnation.",
+      "points": [
+        "Block Blast! is transitioning from an ad-supported model to an ad-free experience on Apple Arcade starting September.",
+        "The decision reflects a trend where players increasingly prefer uninterrupted gameplay over monetary incentives like free games or discounted services.",
+        "This release will likely set the standard for how popular mobile titles are presented to consumers within subscription-based gaming ecosystems."
+      ],
+      "insight": "Block Blast!'s ad-free launch on Apple Arcade may signal a shift in consumer expectations, where convenience and seamless experiences trump financial motivators. This could influence other game developers to reconsider their monetization strategies within subscription services."
+    },
+    {
+      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 15:30:00 +0000",
+      "description": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+      "language": "en",
+      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed",
+      "points": [
+        "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lesso...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
+      "link": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 15:23:58 +0000",
+      "description": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
+      "language": "en",
+      "summary": "Kalshi is accused by FlightAway of using their platform for unautclated prediction markets regarding flight delays and cancellations.",
+      "points": [
+        "Flightaware alleges Kalshi used its name without permission to create bets on flights being cancelled or delayed based on data provided to them, which is against the terms of service for FlightAway's platform.",
+        "Kalshi offers investors a way to place wagers on whether certain flight paths will be affected by delays and cancellations using publicly available information about previous weather events at airports where those flights operate from or to, as well as other general industry knowledge such news articles that might impact scheduling.",
+        "The issue is not only limited within the United States but also touches on various countries across Europe with Kalshi's prediction markets for flight cancellations."
+      ],
+      "insight": "This situation highlights a potential misuse of data and platform assets, which could lead to legal consequences and damage trust in predictive analytics services within the aviation industry if predictions are used without proper authorization or understanding by investors."
+    },
+    {
+      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+      "link": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 15:00:00 +0000",
+      "description": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
+      "language": "en",
+      "summary": "Kyoto Fusioneering has secured funding from investors including Mizuho Bank and Toyota Motor Finance Inc., along with government subsidies to build a prototype for fusion power plant components in Japan.",
+      "points": [
+        "Japan-based startup Kyoto Fusioneering receives grant to construct part of fuel system",
+        "Mizuho Bank, Tokyo Shokojo Fukuoka Finance Co., Ltd. and Mitsubishi UFJ Trust & Investment served as investors",
+        "Government provided subsidies for the project"
+      ],
+      "insight": "This news indicates increasing interest in fusion technology within Japan' endangering its global competitiveness."
+    },
+    {
+      "title": "Bumble ditches its rule that kept men from making the first move",
+      "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 13:59:26 +0000",
+      "description": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
+      "language": "en",
+      "summary": "Bumble announced on Friday (July 13) they will allow men to initiate conversation starting August 8.",
+      "points": [
+        "Renowned dating app Bumble is changing its policies effective from August, allowing guys to start the convo first instead of girls",
+        "The move comes after a year-long review by CEO Tobi Kuti and his team. The rule change came despite opposition within management.",
+        "Bumble will remain committed to creating safe spaces where women can lead conversations."
+      ],
+      "insight": "This decision could potentially shift dating dynamics on technology platforms, allowing for a more balanced interaction style among users and challenging traditional gender roles in online communication. It also highlights the importance of inclusivity within tech companies as they update their policies to reflect evolving social norms."
+    },
+    {
+      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+      "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 13:40:30 +0000",
+      "description": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
+      "language": "en",
+      "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges",
+      "points": [
+        "The investigation shows that North Koreans are able to infiltrate government agencies, as well as pr...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "language": "en",
+      "summary": "Spotify plans to introduce 'AI Persona' labels for AI-generated artist profiles on the platform, which will not be included in personalized music recommendations.",
+      "points": [
+        "Introducing new label: ‘AI Persona’",
+        "Music from these artists excluded by default",
+        "Recommendation systems to differentiate AI-generated content"
+      ],
+      "insight": "The move highlights the growing importance of transparency and user choice in music discovery, potentially setting a precedent for other platforms."
+    },
     {
       "title": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
@@ -519,231 +744,6 @@
         "공모전이 실제로 작성된 코드가 기술화된 것을 보여준다."
       ],
       "insight": "이러한 공모전은 IT/기술 환경에서 업무 합성과 시스템화의 중요성을 강조하고, 세계적으로 IT/기술 축구의 발전을 나타내고 있다."
-    },
-    {
-      "title": "[인터뷰] 김태수 마이크로소프트 보안연구 부사장 “에이전틱 보안, AI로 실행하는 새로운 보안 패러다임”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145100&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 16:33:00 +0900",
-      "description": "마이크로소프트, 에이전틱 보안(Agentic Security) 시스템 ‘Project Perception’ 제시미래 보안 시스템, 위험을 지속적으로 예측하고 이해하며, 선제 대응하는 지능형 시스템으로 발전[보안뉴스 원병철 기자] 미토스의 등장 이후 AI가 보안에 얼마만큼의 영향을 끼치는지에 대한 연구와 고민이 끊임없이 이뤄지고 있다. 대표적인 것이 마이크로",
-      "language": "ko",
-      "summary": "김태수는 마이크로소프트의 Agentic Security 시스템 ‘Project Perception’를 개발하여, AI로 진짜인 위험에 대한 보안을 강화하고자 한다.",
-      "points": [
-        "‘Project Perception’은 부산에서 시작되어 ‘에이전틱 보안’로 미세도리를 진정해줄 계획으로, 인공지하기를 이용한 AI 시스템으로 제시되었다.",
-        "이 보안 시스템은 위험의 앞서와 그외에서 찾아가지 어려워진다면, AI를 이용해 최대한 영향을 미리보살 수 creation of an advanced security system that proactively identifies and mitigates threats before they materialize.",
-        "김태수는 IT/기술 시장에서의 발전적인 AI로 이미지, 음성 또한 보안을 구성하여, 대근처 위험에 대비 양해를 실천한다."
-      ],
-      "insight": "이러한 개인의 생산적으로 이루어진 보안 시스템의 개발으로 AI가 영향을 미리보살하여 IT/기술 업계에서 보안 제품의 경우가 인CREDIBLE."
-    },
-    {
-      "title": "한강홍수통제소, AI·슈퍼컴 활용해 도시침수예보 정확도 높인다",
-      "link": "http://www.boannews.com/media/view.asp?idx=145099&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 16:11:00 +0900",
-      "description": "한강홍수통제소-KISTI, 11일 도시침수예보 고도화 업무협약 체결AI 강우분석·시뮬레이션·CCTV 침수인지 기술 단계적 연계강남역·신대방역 침수예보에 첨단기술 실증 후 현장 적용[보안뉴스 강초희 기자] 기후에너지환경부 소속 한강홍수통제소(소장 김구범)는 한국과학기술정보연구원(원장 이식)과 11일 도시침수예보체계 고도화를 위한 업무협약을 체결한다.이번 협약",
-      "language": "ko",
-      "summary": "한강홍수통제소-KISTI, 11일 도시침수예보 고도화 업무협약 체결AI 강우분석·시뮬레이션·CCTV 침수인지 기술 단계적 연계강남역·신대방역 침수예보에 첨단기술 실증 후 현장 적용[보안뉴스 강초희 기자] 기후에너지환경부 소속 한강홍수통제소(소장 김구범)는 한국과학기술정보연구원(원장 이식)과 11일 도시침수예보체계 고도화를 위한 업무협약을 체결한다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "“믿었던 회사 메일이 함정?” 기업 메일함 활용한 발신자 인증 시스템 우회 공격 기승",
-      "link": "http://www.boannews.com/media/view.asp?idx=145097&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 15:53:00 +0900",
-      "description": "젠 디지털, 탈취된 기업 메일함 악용한 뱅킹 악성코드 공격 사례 분석21종 블록체인 지갑주소 복사 시 공격자 주소로 로컬 바꿔치기바이낸스 스마트체인 이용한 이더하이딩 기법으로 C2 은닉[보안뉴스 김형근 기자] 글로벌 보안 기업 젠 디지털(Gen Digital)이 2026년 상반기 동안 벌어진 △탈취된 기업 메일함을 이용한 금융 악성코드 공격 △암호화폐 지갑",
-      "language": "ko",
-      "summary": "기사에서 소재로, 비밀범위를 포함한 기업 메일함을 이용한 악용코드 공격 사고가 본격적으로 시작했다는 소식.",
-      "points": [
-        "기업 메일함이 이용한 글로벌 간접 거스레코드",
-        "잘못된 활동자 주소로 로컬 바꿔침",
-        "블록체인과 이더하이딩 기법을 활용한 간접질환"
-      ],
-      "insight": "이러한 공격은 IT/기술 업계에서 중요한 이유로 하지만, 이슈가 포함되어 있어 신뢰치를 회병하기 위해 일반적으로 업무에서 생기는 것과 유사한 동행위가 나타나고 있다."
-    },
-    {
-      "title": "싸이터, 데프콘 34서 선박 기자재 취약점 시연... “해양 공급망 보안 경고”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145098&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 15:48:00 +0900",
-      "description": "마리타임 해킹 빌리지 세션 참가... 2년 연속 글로벌 무대서 연구 성과 공유정상 위장 악성 요소의 관리자 권한 실행 등 구조적 위험성 규명[보안뉴스 조재호 기자] 싸이터가 미국 라스베이거스에서 열린 세계 최대 해킹·보안 컨퍼런스 데프콘(DEF CON) 34에 참여해 선박 기자재 사이버보안 위험 연구 결과를 발표했다고 10일 밝혔다.1993년 시작된 데프콘",
-      "language": "ko",
-      "summary": "싸이터에서 선박 기자재 보안위험 연구 결과를 공유함",
-      "points": [
-        "싸이터에서 선박 기자재 보안 분석 근 examine",
-        "구조적 위험성의 중요성 인식",
-        "공유된 연盤 보안 프로토타xis"
-      ],
-      "insight": "선박 기자재 보안이 우리나라 공장권과 경제에 좀더 중요해야 함을 인사이트로 전의지심한 보안 방식을 개선하고자 한다."
-    },
-    {
-      "title": "SK쉴더스 EQST, 데프콘 34 AI CTF서 5위",
-      "link": "http://www.boannews.com/media/view.asp?idx=145096&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 15:46:00 +0900",
-      "description": "에이전틱 AI 활용한 공방 기술 겨뤄... 국제 연합팀으로 본선도 맹활약“실전 해킹 경험 바탕으로 AI 레드팀 연구 및 보안 기술 고도화 나설 것”[보안뉴스 조재호 기자] SK쉴더스가 자사 화이트해커 그룹 EQST가 미국 라스베이거스에서 열린 세계 최대 해킹·보안 컨퍼런스 ‘데프콘’(DEF CON) 34의 AI 빌리지 CTF에서 최종 5위에 올랐다고 10일",
-      "language": "ko",
-      "summary": "SK쉴더스의 AI 기술에서 최고위치를 차지한다.",
-      "points": [
-        "SK쉴더스가 대한민국의 EQST 이렇게 5위임을 보였다.",
-        "해외에서도 그리고 투자자 여론스케일에서 더욱 있다.",
-        "이로써 이전에는 버금으로 제출한 CTF를 AI로 형성"
-      ],
-      "insight": "이러한 모습은 기술의 미래에서 아래쪽을 보입니다."
-    },
-    {
-      "title": "[AI 시대의 인지전-4] 2026년 중동전쟁, AI의 오답도 인지전에 이용될 수 있다",
-      "link": "http://www.boannews.com/media/view.asp?idx=145095&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 14:41:00 +0900",
-      "description": "실제 미나브 사진을 다른 참사로 오인한 제미나이와 그록, 근거로 제시한 출처도 오류수익형 AI 전쟁 영상부터 추천 알고리즘까지, 정보의 생성과 노출, 검증 과정에 드러난 취약점[보안뉴스=유도진 극동대학교 해킹보안학과 교수] 2026년 2월 28일 미국과 이스라엘의 대이란 공습이 시작됐다. 같은 날 이란 미나브의 한 초등학교가 공격받아 학생과 여성 교사, 학",
-      "language": "ko",
-      "summary": "실제 미나브 사진을 다른 참사로 오인한 제미나이와 그록, 근거로 제시한 출처도 오류수익형 AI 전쟁 영상부터 추천 알고리즘까지, 정보의 생성과 노출, 검증 과정에 드러난 취약점[보안뉴스=유도진 극동대학교 해킹보안학과 교수] 2026년 2월 28일 미국과 이스라엘의 대이란 공습이 시작됐다. 같은 날 이란 미나브의 한 초등학교가 공격받아 학생과 여성 교사, 학",
-      "points": [
-        "같은 날 이란 미나브의 한 초등학교가 공격받아 학생과 여성 교사, 학",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "단순 미끼 넘어 자동화, 北 해킹조직의 AI 무기화 진화",
-      "link": "http://www.boannews.com/media/view.asp?idx=145089&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 14:16:00 +0900",
-      "description": "외부 AI 서비스 차단 회피 위해 로컬 환경에 LLM 직접 세팅가상자산·금융 분야 타깃으로 실제 업무 문서 수준의 스피어피싱 유포[보안뉴스 조재호 기자] 북한 배후 해커 그룹 ‘김수키’(Kimsuky)가 AI를 활용한 사이버 공격 역량을 지속적으로 진화시키며 악성코드 개발과 공격 자동화 과정 전반에 적용하는 것으로 나타났다. 지니언스는(대표 이동범)는 북한",
-      "language": "ko",
-      "summary": "외부 AI 서비스 차단 회피 위해 로컬 환경에 LLM 직접 세팅가상자산·금융 분야 타깃으로 실제 업무 문서 수준의 스피어피싱 유포[보안뉴스 조재호 기자] 북한 배후 해커 그룹 ‘김수키’(Kimsuky)가 AI를 활용한 사이버 공격 역량을 지속적으로 진화시키며 악성코드 개발과 공격 자동화 과정 전반에 적용하는 것으로 나타났다. 지니언스는(대표 이동범)는 북한",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "美 노스캐롤라이나주 항만, 해킹으로 전산망 마비... 물류 수동 처리 비상",
-      "link": "http://www.boannews.com/media/view.asp?idx=145087&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 13:12:00 +0900",
-      "description": "윌밍턴·모어헤드시티·샬럿 3개 거점 타격, 미 해안경비대 조사 착수연간 400만톤 화물 처리 물류망 지연... 랜섬웨어 감염 여부 분석 중[보안뉴스 김형근 기자] 미국 노스캐롤라이나주 항만 공사가 사이버 공격을 받아 전산망이 마비되면서 주요 업무를 수동 처리 체계로 전환했다. 이번 전산망 침해 사고는 윌밍턴(Wilmington), 모어헤드시티(Morehea",
-      "language": "ko",
-      "summary": "윌밍턴·모어헤드시티·샬럿 3개 거점 타격, 미 해안경비대 조사 착수연간 400만톤 화물 처리 물류망 지연. 랜섬웨어 감염 여부 분석 중[보안뉴스 김형근 기자] 미국 노스캐롤라이나주 항만 공사가 사이버 공격을 받아 전산망이 마비되면서 주요 업무를 수동 처리 체계로 전환했다...",
-      "points": [
-        "윌밍턴·모어헤드시티·샬럿 3개 거점 타격, 미 해안경비대 조사 착수연간 400만톤 화물 처리 물류망 지연",
-        "랜섬웨어 감염 여부 분석 중[보안뉴스 김형근 기자] 미국 노스캐롤라이나주 항만 공사가 사이버 공격을 받아 전산망이 마비되면서 주요 업무를 수동 처리 체계로 전환했다",
-        "이번 전산망 침해 사고는 윌밍턴(Wilmington), 모어헤드시티(Morehea"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "엔키화이트햇 연합팀 ‘0x4b52’ 국제 해킹대회 데프콘 34 준우승",
-      "link": "http://www.boannews.com/media/view.asp?idx=145092&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 11:58:00 +0900",
-      "description": "예선 상위권 휩쓴 기세 이어 라스베이거스 본선 무대서도 최정상급 실력 발휘차현수 실장 등 연구원 전원 상위권 랭크, 대회 노하우는 자사 솔루션 고도화에 적용[보안뉴스 조재호 기자] 엔키화이트햇은 자사 연구원들이 소속된 연합팀 ‘0x4b52’가 국제 해킹방어대회 ‘데프콘 34’(DEF CON 34) CTF 본선에서 준우승을 차지했다고 10일 밝혔다.해커들의",
-      "language": "ko",
-      "summary": "‘0x4b52’ 연합팀이 DEF CON 34 CTF 경로에서 상위권 랭크에서 준우승을 차지하였다.",
-      "points": [
-        "‘0x4b52’ 연합팀이 DEF CON 34 CTF 경로에서 적극한한 솔루션을 도입하여 준우승을 기른다.",
-        "연구원들의 소속된 연합팀이 해커들과의 경계에서 이해를 촉진한다.",
-        0
-      ],
-      "insight": "이 기사는 IT/기술 업계의 경계에서 연합팀의 역할과 성공의 원인을 소유하고자 포함한다."
-    },
-    {
-      "title": "덕수궁 주요 전각에 침입 감지 시스템 구축으로 국가유산 보호 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=145093&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 11:53:00 +0900",
-      "description": "적외선(PIR) 감지와 자동 경고방송·상황실 경보시스템 구축무단침입 예방 및 신속 대응[보안뉴스 엄호식 기자] 국가유산청 궁능유적본부 덕수궁관리소(소장 이승재)는 국가유산의 훼손과 무단침입을 예방하고 신속한 현장 대응체계 구축을 위해 ‘덕수궁 전각 침입 감지 시스템 구축 사업’을 완료했다.이번 사업을 통해 중화전과 함녕전, 덕홍전, 준명당, 즉조당, 석어당",
-      "language": "ko",
-      "summary": "국가유산에 대한 보호 강화를 위해 감지 시스템과 대침 상태 알릴 방식을 구축",
-      "points": [
-        "- 국가유산의 훼손과 무단침입을 예방하기 위해 감지 시스템 구축",
-        "- '덕수궁 전각 침입 감지 시스템 구출사업'을 마칵",
-        "- 중화전과 국세군, 준명당과 같은 장단단지역의 보호 노잼"
-      ],
-      "insight": "이 뉴스는 IT/기술 관련 분야에서 국가유산 보호와 IT/기술 업계의 공통적인 입찰치 방식을 강조한다."
-    },
-    {
-      "title": "[인터뷰] 아이덴티티와 데이터 보안으로 세계를 바꾼 ‘네트릭스’, N2SF에 주목하는 이유",
-      "link": "http://www.boannews.com/media/view.asp?idx=145068&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 10:19:00 +0900",
-      "description": "네트릭스 Martin Cannard Field CTO, Terry Burgess VP APJ, 김기남 데이타시큐어 대표 인터뷰1Secure 등 제로트러스트 기반 솔루션으로 N2SF 지원...데이타시큐어 도입사례 발굴해 고객 지원[보안뉴스 원병철 기자] 한국의 보안은 세계와 비교했을 때 독특한 점이 많은 곳이다. 분단국가이자 휴전국가로 보안에 대한 위협이 다",
-      "language": "ko",
-      "summary": "N2SF에 대한 IT/보안 기능을 제공하는 Martin Cannard Field과 그들의 시크ера에서 작성한 관련 이론.",
-      "points": [
-        "Martin Cannard 노인은 세계가 N2SF에 어떤 의미나 인사이트를 주시는 것으로 주목함",
-        "N2SF는 Martin Cannard Field과 그들의 시크사에서 만들어진 네트워킹으로 세계의 보안을 강화하기 위해 지원한다.",
-        "N2SF이 아닌 제로 기술 회사가 인공지능에 대한 생산에 어떤 의미나 인사이트를 주시는지 고민해야 함"
-      ],
-      "insight": "Martin Cannard Field과 그들의 시크사가 N2SF을 위한 보안 기능을 제공하며, 이로써 세계 양적 영역에서 공동체를 유지하는 데 도움이 되는 것으로 보면서 N2SF이 아니다."
-    },
-    {
-      "title": "위즈코리아, ‘개인정보 접속기록 관리’ 넘어 탐지·격리까지 대응하는 ‘WEEDS BlackBox Series’",
-      "link": "http://www.boannews.com/media/view.asp?idx=145075&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 10:17:00 +0900",
-      "description": "AI 기반 ‘위즈 블랙박스 시리즈’로 이상행위 관리 및 컴플라이언스 완벽 대응접속기록 생성부터 AI 탐지·안면인식·자동 소명·즉시 격리까지 원스톱 사전 예방 체계 구축[보안뉴스 원병철 기자] 개인정보 접속기록 및 내부 정보 보호 전문 기업 위즈코리아(WEEDSKOREA)가 AI 기반 위험행위 분석 및 대응 플랫폼인 ‘위즈 블랙박스 시리즈(WEEDS Blac",
-      "language": "ko",
-      "summary": "AI 기반 ‘위즈 블랙박스 시리즈’로 이상행위 관리 및 컴플라이언스 완벽 대응접속기록 생성부터 AI 탐지·안면인식·자동 소명·즉시 격리까지 원스톱 사전 예방 체계 구축[보안뉴스 원병철 기자] 개인정보 접속기록 및 내부 정보 보호 전문 기업 위즈코리아(WEEDSKOREA)가 AI 기반 위험행위 분석 및 대응 플랫폼인 ‘위즈 블랙박스 시리즈(WEEDS Blac",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[한국정보공학기술사 보안을 論하다-45] 처벌이 곧 보안은 아니다: CISO 거버넌스가 나아갈 길",
-      "link": "http://www.boannews.com/media/view.asp?idx=145085&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 10:06:00 +0900",
-      "description": "제재보다 중요한 건 귀책 사유... 개인정보 일반법은 개인 책임 아닌 조직 책임 물어CISO 개인의 태만? 인력·예산·실시간 탐지체계 등 조직적 한계? 인과관계 따져봐야[보안뉴스= 이아람 기술사] 지난 8월 초, 금융감독원이 롯데카드 전·현직 정보보호 최고책임자(CISO: Chief Information Security Officer) 모두에게 정직과 함께",
-      "language": "ko",
-      "summary": "제재보다 중요한 건 귀책 사유. 개인정보 일반법은 개인 책임 아닌 조직 책임 물어CISO 개인의 태만...",
-      "points": [
-        "개인정보 일반법은 개인 책임 아닌 조직 책임 물어CISO 개인의 태만",
-        "인력·예산·실시간 탐지체계 등 조직적 한계",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "경제·투자 플랫폼 덮친 유출 사태... 삼프로TV 개인정보 유출 공지",
-      "link": "http://www.boannews.com/media/view.asp?idx=145084&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 10:03:00 +0900",
-      "description": "외부 행위자 앱 무단 접속, 계좌 2972건·카드 정보 317건 정보 유출이름·연락처 악용한 ‘크리덴셜 스터핑’ 및 타깃형 2차 금융 피해 유의[보안뉴스 조재호 기자] 경제 유튜브 채널 삼프로TV가 운영하는 앱에서 외부 무단 접속을 통한 대규모 개인정보 유출 사고가 발생했다. 이번 사고로 유출된 개인정보는 46만건에 달하며, 이 중 일부 계좌·카드 정보가",
-      "language": "ko",
-      "summary": "삼프로TV는 앱에서 사용자의 계정 정보와 연락처 정보를 무단접속으로 유출하여, 이런 행위는 개인정보 안전성에 직접 영향을 미치고, 금융 플랫폼의 안전성에도 조심스럽다.",
-      "points": [
-        "삼프로TV은 사용자들의 계정, 카드 정보, 연락처 데이터를 무단접속으로 유출",
-        "이러한 앱에서 사용자의 개인정보가 46만건 중 일부가 유출되어 있다.",
-        "이런 데이터 유출은 개인정보 안전성과 금융 플레이트를 위한 안전성에 대한 문제가 생기고 있다."
-      ],
-      "insight": "이 기사는 IT/기술 업체에서 개인정보 안전성과 금융 플러이에 대한 주요 문제를 강조하고, 삼프로TV의 유출직업에 대한 심각한 영향을 미리 알려준다."
-    },
-    {
-      "title": "조달청, 나라장터 쇼핑몰 등록 물품 원산지 관리 강화",
-      "link": "http://www.boannews.com/media/view.asp?idx=145088&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 09:58:00 +0900",
-      "description": "원산지 ‘대한민국’ 표시 물품 대해 2027년 1월 1일부터 원산지증명서 제출 의무화[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 다수공급자계약(MAS) 물품의 원산지 허위 등록을 원천 차단하기 위한 제도 개선안을 2027년 1월 1일부터 시행한다고 밝혔다. 그동안 MAS 물품의 원산지는 업체가 자율적으로 입력하고, 허위 등록이 확인될 경우에만 조달청이",
-      "language": "ko",
-      "summary": "원산지 ‘대한민국’ 표시 물품 대해 2027년 1월 1일부터 원산지증명서 제출 의무화[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 다수공급자계약(MAS) 물품의 원산지 허위 등록을 원천 차단하기 위한 제도 개선안을 2027년 1월 1일부터 시행한다고 밝혔다. 그동안 MAS 물품의 원산지는 업체가 자율적으로 입력하고, 허위 등록이 확인될 경우에만 조달청이",
-      "points": [
-        "원산지 ‘대한민국’ 표시 물품 대해 2027년 1월 1일부터 원산지증명서 제출 의무화[보안뉴스 엄호식 기자] 조달청(청장 백승보)은 다수공급자계약(MAS) 물품의 원산지 허위 등록...",
-        "그동안 MAS 물품의 원산지는 업체가 자율적으로 입력하고, 허위 등록이 확인될 경우에만 조달청이",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
