@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-08-10T18:59:54.504Z",
+  "generatedAt": "2026-08-11T01:43:20.077Z",
   "articles": [
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "description": "San Francisco's housing market is in trouble again.",
+      "language": "en",
+      "summary": "OpenAI has reportedly concluded negotiations for a controversial $7 billion acquisition of its own workforce.",
+      "points": [
+        "OpenAI is considering an employee tender offer that could value the company at approximately $320 per share after completion.",
+        "The proposed deal includes special payments and equity to encourage employees to sell their shares, potentially diluting current stockholders' stakes by 45%.",
+        "Critics argue this move may hinder OpenAI’static pursuit of AI safety measures."
+      ],
+      "insight": "The employee tender offer raises questions about the priorities within major tech firms and could impact their commitment to broader societal issues such as AI ethics, potentially focusing more on internal growth at the expense of external responsibility."
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "language": "en",
+      "summary": "As malicious attacks powered by artificial intelligence (AI) increase in number, OpenAI has launched its advanced Daybreak program and an accompanyin cyber-trained AI model to counter them.",
+      "points": [
+        "OpenAI introduces a new AI-based defense system against growing sophisticated cyber attacks",
+        "Daybreak is expanded with the inclusion of a novel, specifically trained artificial intelligence (AI) for enhanced IT security",
+        "The goal is to provide organizations better protection in an era where traditional digital defenses are often insufficient"
+      ],
+      "insight": "This development indicates how AI technology can play a crucial role not just as attackers, but also as protectors against cyber threats. As such, the IT industry must adapt to integrate and leverage these advancements for stronger security."
+    },
+    {
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 10 Aug 2026 23:16:44 +0000",
+      "description": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+      "language": "en",
+      "summary": "Reports suggest Jeff Bezos may buy into UK's historic football club Liverpool FC.",
+      "points": [
+        "- Reports claiming Amazon CEO could invest in soccer team",
+        "- Purchase allegedly of U.K.'s famed Liverpool Football Club (LFC)",
+        "- No official statement from Bezos or LFC confirmed"
+      ],
+      "insight": "This potential acquisition would signify a major expansion for Amazon into sports ownership, potentially influencing the club's strategies and marketing."
+    },
+    {
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 10 Aug 2026 22:26:54 +0000",
+      "description": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+      "language": "en",
+      "summary": "Rippling has countersued tiny startup Runlayer for allegedly pilfering their product concepts—a cautionary tale of the seller'seland buyer-beware dynamics in tech markets.",
+      "points": [
+        "Runlayer filed a lawsuit against Rippling last month, claiming idea theft",
+        "Rippling has countersued Runlayer for similar accusations",
+        "This case highlights potential risks of intellectual property infringement within tech industries"
+      ],
+      "insight": "The legal confrontation between Rippling and Runlayer underscores the critical need for robust IP protection strategies to safeguard against idea misappropriation, reflecting a broader risk landscape in fast-paced technology sectors."
+    },
+    {
+      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+      "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 10 Aug 2026 21:20:04 +0000",
+      "description": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+      "language": "en",
+      "summary": "Google co-founder Sergey Brin has spent $100 million to fight California's Prop 40 bill that would impose a one-time tax on billionaires.",
+      "points": [
+        "Sergey Brin, Google Co-Founder spends $100M against the 'Billionaire Tax'.",
+        "Prop 40 seeks to levy a 5% tax based on net worth for California's wealthiest residents.",
+        "Brin argues that such measures disincentivize entrepreneurship and innovation."
+      ],
+      "insight": "This news highlights the controversial debate around imposing additional taxes on billionaires, which some argue hinders economic growth by discouraging risk-taking in business endeavors."
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "language": "en",
+      "summary": "In his extensive manifesto on Monday, Mark Zuckerberg details a vision of personal artificial intelligence and Superintelligences developed by Facebook's meta-AI division. Despite the enthusiasm for AI potentiality in everyday life, there is significant public unease.",
+      "points": [
+        "Mark Zuckerberg published a detailed manifesto on his aspirations for integrating personal artificial intelligence (AI) into daily life through Facebook's meta-AI division.",
+        "The article emphasizes the ambitious scope of AI development under Meta, focusing particularly on creating 'personal superintelligence' systems that can assist with tasks like language translation and content creation.",
+        "Public sentiment toward these advanced AI developments appears mixed or even negative due to concerns about privacy invasion."
+      ],
+      "insight": "This news reflects a tension in society between the exciting possibilities of personal superintelligence technologies developed by major tech companies and public apprehensions around data security, surveillance capitalism, and loss of human jobs. This underscores an urgent need for transparent ethical guidelines to balance innovation with privacy protection."
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "language": "en",
+      "summary": "An individual using an AI called Claude hacked into a gym's reservation system to improve their position in line for classes and drew attention from within the tech industry.",
+      "points": [
+        "Claude, developed by Microsoft CEO Satya Nadella’s startup CounterLogic, is hailed as an OpenAI chatbot but was used deceptively at a gym.",
+        "The individual responsible for using Claude exploited the AI to manipulate class waitlists and jump ahead of others without being human.",
+        "This incident raises questions about authenticity verification in online interactions."
+      ],
+      "insight": "While innovative, this act shows that some individuals might attempt unethical uses of technology for personal gain. This highlights the importance of developing mechanisms to verify identity and intentions behind AI-driven actions within digital environments."
+    },
     {
       "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
       "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
@@ -640,111 +745,6 @@
         "The integration allows OpenAI to leverage NextSlide's expertise in AI-driven presentation solutions while enhancing the capabilities of ChatGPT by expanding into new application areas."
       ],
       "insight": "This acquisition demonstrates a significant trend where established tech giants like OpenAI are consolidating innovative startups to enhance and diversify their AI offerings, potentially leading to more advanced generative tools for businesses across different industries in the near future."
-    },
-    {
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 08 Aug 2026 16:34:22 +0000",
-      "description": "X is winding down its existing Revenue Sharing program.",
-      "language": "en",
-      "summary": "The cloud service provider X has decided to phase out their revenue sharing model in favor of an Original Content Rewards system.",
-      "points": [
-        "- Existing Revenue Sharing program is being phased down by the company named 'X'",
-        "- Introducing a new scheme called 'Original Content Rewards', which aligns with their service offering and customer incentives strategy",
-        "- The shift signifies changes within cloud industry revenue models, moving towards content-driven approaches"
-      ],
-      "insight": "The transition to Original Content Rewards by X may signal a broader trend among IT/technology firms to revamp their customer engagement and incentive strategies through aligning with the digital transformation of services."
-    },
-    {
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 08 Aug 2026 16:00:00 +0000",
-      "description": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "language": "en",
-      "summary": "The Kindle Scribe Colorsoft offers a fun writing experience but is too expensive and bulky for average consumers.",
-      "points": [
-        "Kindle Scribe Colorsoft's lightweight design makes it an appealing device, particularly with its colorful display that enhances reading enjoyment. Its interactive features aim to make the act of writing feel more like playing a game than doing work by offering rewards and feedback.",
-        "However, despite these positive aspects, the Kindle Scribe Colorsoft is not accessible for everyone due to its cost - priced at $150 on Amazon – as well as being larger in size compared to standard paper books or other e-readers. This could deter some potential buyers from investing.",
-        "The company aims to target students and writers who want an alternative writing tool that is engaging, by incorporating game elements into the device's functions."
-      ],
-      "insight": "While Kindle Scribe Colorsoft introduces innovative ways of making writing fun through interactive features like rewards for words added or progress tracked on a scoreboard, its high price and size might limit consumer accessibility. This suggests that companies in the tech industry should consider pricing strategies and portable device designs to ensure wider market reach."
-    },
-    {
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 08 Aug 2026 15:00:00 +0000",
-      "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-      "language": "en",
-      "summary": "Google has recently updated its method for naming hacker groups and TechCrunch interviewed an expert in cybersecurity to explore the reasons behind this practice.",
-      "points": [
-        "The world's leading experts on tracking hackers provide insights into Google'thy new approach towards referring and assigning names to different types of malicious actors, including state-sponsored ones that come with their own set codenames. The tech giant has been in practice for over five years.",
-        "Google’s change is part of a shift from the company giving hackers specific identities like 'Fancy Bear' or using generic terms such as ‘Russian Hacking Group.’ Google now refers to these groups only by codenames, not names. The organization has been working on de-anonymizing threat actors in an effort for them be recognized and stopped.",
-        "The new approach does more than just assigning a name – it provides vital information about the group's size, motive and skill level."
-      ],
-      "insight": "This change by Google reflects an industry-wide trend of de-anonymizing threat actors to better understand their motivations and capabilities. It also highlights how cybersecurity efforts are increasingly sophisticated as they aim not only for prevention but identification, analysis, and disruption."
-    },
-    {
-      "title": "[사진으로 보는 DEF CON 34ⓛ] ‘해커들의 축제’ 개막... 다양한 CTF와 즐길거리",
-      "link": "http://www.boannews.com/media/view.asp?idx=145080&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 8 Aug 2026 16:24:00 +0900",
-      "description": "CTF 외에도 강연, 시연, 게임, 기념품, 음악 등 누릴 것 많아[라스베이거스=보안뉴스 강현주 기자] 다양한 CTF와 보안 지식, 즐길거리를 누리는 전세계 해커들의 축제, 데프콘34(DEF CON 34)가 막을 올렸다. 여느 글로벌 테크 행사 대비 규모는 뒤지지 않지만 조금은 차분한, 그래서 더 이색적인 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서",
-      "language": "ko",
-      "summary": "CTF 외에도 강연, 시연, 게임, 기념품, 음악 등 누릴 것 많아[라스베이거스=보안뉴스 강현주 기자] 다양한 CTF와 보안 지식, 즐길거리를 누리는 전세계 해커들의 축제, 데프콘34(DEF CON 34)가 막을 올렸다. 여느 글로벌 테크 행사 대비 규모는 뒤지지 않지만 조금은 차분한, 그래서 더 이색적인 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서",
-      "points": [
-        "CTF 외에도 강연, 시연, 게임, 기념품, 음악 등 누릴 것 많아[라스베이거스=보안뉴스 강현주 기자] 다양한 CTF와 보안 지식, 즐길거리를 누리는 전세계 해커들의 축제, 데프콘...",
-        "여느 글로벌 테크 행사 대비 규모는 뒤지지 않지만 조금은 차분한, 그래서 더 이색적인 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[사진으로 보는 DEF CON 34②] 한국팀 데프콘 본선 활약 현장",
-      "link": "http://www.boannews.com/media/view.asp?idx=145079&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 8 Aug 2026 16:18:00 +0900",
-      "description": "7개 한국팀 출전 CTF 본선 시작[라스베이거스=보안뉴스 강현주 기자] 한국 해커들이 대거 활약하는 전세계 해커들의 축제, 데프콘34가 막을 올렸다. 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서 6일(현지시간) 개막했다. 하지만 첫날은 등록과 머천다이즈 중심으로 진행됐으며, 한국팀이 참가하는 해킹대회(CTF) 본선은 현지시간 7일 시작됐다. 686개팀",
-      "language": "ko",
-      "summary": "7개 한국팀 출전 CTF 본선 시작[라스베이거스=보안뉴스 강현주 기자] 한국 해커들이 대거 활약하는 전세계 해커들의 축제, 데프콘34가 막을 올렸다. 데프콘34는 라스베이거스 컨벤션센터(LVCC)에서 6일(현지시간) 개막했다...",
-      "points": [
-        "7개 한국팀 출전 CTF 본선 시작[라스베이거스=보안뉴스 강현주 기자] 한국 해커들이 대거 활약하는 전세계 해커들의 축제, 데프콘34가 막을 올렸다",
-        "데프콘34는 라스베이거스 컨벤션센터(LVCC)에서 6일(현지시간) 개막했다",
-        "하지만 첫날은 등록과 머천다이즈 중심으로 진행됐으며, 한국팀이 참가하는 해킹대회(CTF) 본선은 현지시간 7일 시작됐다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[DEF CON 34] 데프콘 본선, AI 사용 제한 無... “AI 역량=경쟁력 불가피”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145077&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 8 Aug 2026 11:30:00 +0900",
-      "description": "예선에 있던 AI 사용 제한 규정, 본선에선 사라져“사실상 제약 불가... 창의력 여전히 유효”[라스베이거스=보안뉴스 강현주 기자] 이번 데프콘 CTF 본선에서는 AI의 사용이 무제한 허용된다. 앞서 5월에 치러진 예선에서는 AI 사용에 대한 일부 제한 룰이 있었다. 이에 따라 본선에서도 어느 정도 제약이 있을 것으로 예상된 바 있다. 하지만 예선과 달리",
-      "language": "ko",
-      "summary": "예선에 있던 AI 사용 제한 규정, 본선에선 사라져“사실상 제약 불가. 창의력 여전히 유효”[라스베이거스=보안뉴스 강현주 기자] 이번 데프콘 CTF 본선에서는 AI의 사용이 무제한 허용된다...",
-      "points": [
-        "예선에 있던 AI 사용 제한 규정, 본선에선 사라져“사실상 제약 불가",
-        "창의력 여전히 유효”[라스베이거스=보안뉴스 강현주 기자] 이번 데프콘 CTF 본선에서는 AI의 사용이 무제한 허용된다",
-        "앞서 5월에 치러진 예선에서는 AI 사용에 대한 일부 제한 룰이 있었다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Microsoft 365 AitM 악용 피싱 공격으로 계정 탈취... 급여 관련 이메일 수집",
-      "link": "http://www.boannews.com/media/view.asp?idx=145076&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Sat, 8 Aug 2026 10:58:00 +0900",
-      "description": "북미 및 유럽의 의료, 교육, 정부 서비스 부문 공격...단순 정보만 수집해 공격 탐지 우회[보안뉴스 원병철 기자] 최근 마이크로소프트 365 계정을 장악해 재무 워크플로에 관련된 주요 담당자를 식별하고, 관련 이메일을 수집하기 위한 중간자 공격(AitM) 기법을 사용하는 ‘광범위한 이메일 기반 피싱 캠페인’이 활발하게 진행되는 것으로 알려져 주의가 요구된",
-      "language": "ko",
-      "summary": "북미 및 유럽의 의료, 교육, 정부 서비스 부문 공격. 단순 정보만 수집해 공격 탐지 우회[보안뉴스 원병철 기자] 최근 마이크로소프트 365 계정을 장악해 재무 워크플로에 관련된 주요 담당자를 식별하고, 관련 이메일을 수집하기 위한 중간자 공격(AitM) 기법을 사용하는 ‘광범위한 이메일 기반 피싱 캠페인’이 활발하게 진행되는 것으로 알려져 주의가 요구된",
-      "points": [
-        "북미 및 유럽의 의료, 교육, 정부 서비스 부문 공격",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
