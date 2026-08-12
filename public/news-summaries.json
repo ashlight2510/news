@@ -1,6 +1,303 @@
 {
-  "generatedAt": "2026-08-12T13:15:29.079Z",
+  "generatedAt": "2026-08-12T19:08:08.188Z",
   "articles": [
+    {
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 18:34:21 +0000",
+      "description": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+      "language": "en",
+      "summary": "Grubhub has agreed to pay a $23.8 million settlement with the Federal Trade Commission (FTC) following allegations of unfair and deceptive business practices regarding delivery surcharges.",
+      "points": [
+        "The FTC settled its complaint against Grubhub, resulting in a payment of nearly $24 million to consumers who suffered from misleading pricing during the past four years",
+        "Grubhub'thy violated consumer protection laws by not disclosing delivery fees directly on restaurant menus or prices advertised as ‘dine-in’, causing customers and restaurants losses of an estimated $30 to $50 million each year",
+        "Starting June 16th consumers who ordered from Grubhub will begin receiving refunds for past misconduct"
+      ],
+      "insight": "The FTC settlement serves as a warning and potential precedent, reinforcing the importance of transparency in pricing within the food delivery industry."
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "language": "en",
+      "summary": "AI coding startup Cognition is reportedly already in discussions for their next funding round with a potential valuation of up to $40 billion.",
+      "points": [
+        "Cognition could raise at least another mega round within the next few months",
+        "$1 billion raised previously, now targeting over $30 billion valuation in new round",
+        "Startup'thyra is also aiming to secure a substantial fundraise"
+      ],
+      "insight": "The ongoing and rapid escalation of startup valuations within the AI coding space suggests an intensifying investor interest, which could lead to increased innovation but might raise concerns about market saturation."
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "language": "en",
+      "summary": "At AI4 conference, Geoffrey Hinton, Fei-Fei Li, and Andrew Ng discussed the future of AI safety regulation, open access to technology, and competitdependent America's growth.",
+      "points": [
+        "Experts at a leading artificial intelligence event highlighted critical issues regarding safety standards for AI development.",
+        "The trio emphasized that keeping research in the public domain would foster innovation while ensuring ethical practices are maintained.",
+        "Concerns were raised about maintaining America's lead as global competitors, particularly China, make significant advances in artificial intelligence."
+      ],
+      "insight": {
+        "content": "The debate at the AI4 conference underscores a shared understanding among leading experts that ethical considerations and open innovation are key to maintaining America's competitive edge as well as ensuring safety measures in artificial intelligence development.",
+        "implication": "This discussion implies an urgent need for policymakers, industry leaders, and researchers within the tech sector to prioritize ethical practices while continuously innovating."
+      }
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "language": "en",
+      "summary": "Thrive Holdings, backed by OpenAI, has successfully raised $2 billion in new funding, reflecting its high valuation of $12 billion.",
+      "points": [
+        "OpenAI-backed Thrive Holdings raises significant capital for enterprise AI deployment",
+        "Investment from heavyweights like SoftBank underscte the industry's confidence in enterprise AI applications and services",
+        "Thrive Holding's fundraising achievement is a strong indicator of rapid growth and market expansion within the Enterprise Artificial Intelligence sector"
+      ],
+      "insight": "The substantial investment into Thrive by major backers highlights enterprise AI as an emerging field with significant industry potential, signaling future technological advancements in business operations."
+    },
+    {
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 17:15:41 +0000",
+      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "language": "en",
+      "summary": "Hackers claim to have stolen data from Uber Freight after targeting the company's transportation business.",
+      "points": [
+        "An extortion gang known for cyber attacks on shipping and logistics firms has claimed responsibility for a hack into Uber Freight, seeking ransom payment",
+        "The reported breach at ride-hailing company' extrication of information from the transportation division indicates an increasing trend in sector-specific targeting.",
+        "Uber is still investigating but has assured customers that no personal data was compromised."
+      ],
+      "insight": "This event highlights a growing concern for cybersecurity within specific vertical markets, emphasizing the need for robust security protocols across all sectors of technology-driven businesses in India and globally. Companies must adopt industry best practices to protect their sensitive data."
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 16:57:58 +0000",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "language": "en",
+      "summary": "Automattic's Mesh has transitioned from a web app to an offline Android application using AI for managing contacts and relationships.",
+      "points": [
+        "Mesh is now available on the Google Play Store as an alternative contact management solution, designed with natural language understanding capabilities inspired by chatbots like Microsoft Tay."
+      ],
+      "insight": "This move expands Automattic's product ecosystem and demonstrates how conversational AI can enhance personal tech applications in the market."
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 16:46:02 +0000",
+      "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way. One of […]",
+      "language": "en",
+      "summary": "Sandbar is marketing its voice-command AI wearable ring as a means to capture spontaneous thoughts without relying on typing or touchscreens, suggesting this could be the future direction for user interaction with technology.",
+      "points": [
+        "The Sandbar Ring offers speech recognition and natural language processing capabilities within an always-on smart device format.",
+        "Sandbar'thinking that voice interfaces will become mainstream due to their ease of use, especially when multitasking or in hands-free situations is desired by users.",
+        "This wearable product differentiates itself from competitors with its unique approach and emphasis on capturing fleeting thoughts."
+      ],
+      "insight": "The Sandbar Ring's focus on voice interaction suggests a growing trend towards natural, less intrusive ways to interact with AI-driven devices in the wearable technology market. This could lead users to prefer non-physical interactions over touch or typing."
+    },
+    {
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 16:18:31 +0000",
+      "description": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+      "language": "en",
+      "summary": "Tesla seeks $10 billion investment for building its own massive solar factory on Texas land.",
+      "points": [
+        "Texas Governor Greg Abbott has promised to help Tesla build a gigafactory if the company commits more than half of their production capacity in North America to this state by October, which could be considered as part funding for its own massive solar factory project."
+      ],
+      "insight": "This development highlights Texas' growing ambition and commitment towards becoming an energy hub. By directly engaging with a major tech company like Tesla in the renewable sector, it may accelerate the transition to sustainable power generation within the state while also bolstering its economy."
+    },
+    {
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 16:18:23 +0000",
+      "description": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "language": "en",
+      "summary": "Form Energy, a company specializing in high-capacity energy storage, has secured $750 million from investors to scale up production of its '100-hour battery'. Google and Crusoe Wind Power have placed orders for these batteries.",
+      "points": [
+        "Form Energy announced significant funding rounds totaling over $682.3 million with major backers like GV (formerly known as Google Ventures) contributing close to half a billion dollars in investments, aimed at expanding their manufacturing capabilities.",
+        "The company has secured orders from tech giant Google and Crusoe Wind Power for its high-capacity batteries designed to store energy for up to 100 hours – an order that comes with the commitment of $35 million in payments over five years plus a down payment towards battery production.",
+        "Form Energy'selimitless design approach, wherein they remove all components not essential for operation and use water as their electrolyte rather than flammable chemicals like lithium-ion batteries do, sets them apart from traditional energy storage solutions."
+      ],
+      "insight": "This investment in Form Energy's technology represents a substantial confidence boost within the industry towards scalable grid storage solutions that could effectively integrate with renewable sources to enhance reliability and sustainability of clean power systems. The '100-hour battery', while still experimental, is poised as an innovative advancement capable of addressing one of energy's most pressing challenges - long duration reliable supply."
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 16:04:27 +0000",
+      "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "language": "en",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch",
+      "points": [
+        "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the st...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 15:56:13 +0000",
+      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+      "language": "en",
+      "summary": "Facebook has officially launched Creator Studio as a standalone app featuring AI tools to assist creators with personalized recommendations based on various content aspects.",
+      "points": [
+        "Creator Studio is Facebook'self new, stand-alone application for content creation.",
+        "AI assistant in the studio offers tailored suggestions considering style, audience engagement and performance goals of users.",
+        "This tool aims to enhance creativity while maintaining user privacy."
+      ],
+      "insight": "The launch of Creator Studio with an AI component could set new standards for content creation tools within the social media industry by offering real-time, personalized recommendations that balance efficiency and creativity without compromising on data security concerns."
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 15:44:56 +0000",
+      "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "language": "en",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 15:18:55 +0000",
+      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "language": "en",
+      "summary": "Security researcher Nightmare Eclipse has published a new Windows zero-day vulnerability after facing threats of legal action from Microsoft.",
+      "points": [
+        "Nightmare Eclipse released another zero-day, following publicized potential legal conflict with Microsoft",
+        "Microsoft threatened to take legal action against the researcher for disclosing unannounced security flaws in their products before coordinated patches are available. However, Nightmare Eclipse has not been legally pursued.",
+        "Nightmidexplorer claims that they released this zero-day as a warning towards Microsoft to take better care of its users' privacy and digital safety."
+      ],
+      "insight": "The release may force the IT industry, especially companies like Microsoft, to reassess their vulnerability disclosure practices in an effort not only to maintain security but also consumer trust. The incident raises questions on how corporations handle such threats legally and ethically."
+    },
+    {
+      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
+      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 15:02:00 +0000",
+      "description": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
+      "language": "en",
+      "summary": "Silkroad Innovation Hub has announced the continuation of their Road to Battlefield competition for two years straight in order to provide Central Eurasian startup founders with an opportunity to compete directly at Startup Battlefield.",
+      "points": [
+        "Road to Battlefield is a direct route contest specifically aimed at startups from Silkroad Innovation Hub's region of focus, Central Eurasia",
+        "The competition offers founders the chance for exposure and potential investment opportunities in Startup Battlefield’thon stage round-based pitching competitions.",
+        "Second year announcement signifies its success as an event that supports startups on their journey to growth"
+      ],
+      "insight": "The Road to Battlefield competition is a testament to the Silkroad Innovation Hub's commitment towards fostering and nurturing startup ecosystem in Central Eurasia, which could potentially lead to more successful startups with investments from major events like Startup Battlefield."
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 14:20:33 +0000",
+      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "language": "en",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event",
+      "points": [
+        "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcement...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google’s Quick Share adds a tap-to-share mode",
+      "link": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 14:13:03 +0000",
+      "description": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
+      "language": "en",
+      "summary": "Google has introduced a new 'tap-to-share' mode to its Quick Share feature that allows users to rapidly exchange contact information as well as multimedia content.",
+      "points": [
+        "Introduced tap-to end share in Google’s quick share",
+        "Quick sharing for multiple types of media, including videos and photos",
+        "Enhances the way we transfer info quickly with new feature"
+      ],
+      "insight": "The addition of a 'tap-to-share' mode could significantly streamline personal communication by reducing reliance on text messaging platforms for contact sharing."
+    },
+    {
+      "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "description": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.",
+      "language": "en",
+      "summary": "Google has unveiled its new Pixel 11 smartphones with a higher starting price point and increased standard storage capacity.",
+      "points": [
+        "The Google Pixel 11 series offers little to no hardware changes from the previous generation, indicating that most enhancements are software-driven or design refinements.",
+        "Despite minimal physical upgrades, significant improvements in user experience and functionality have been noted due to optimizations within Android itself. These include better camera processing capabilities with enhanced AI features for photo editing tasks such as removing backgrounds seamlessly."
+      ],
+      "insight": "This news highlights that while the hardware may not visibly advance, Google is still refining and improving user experience through software updates like Android Pie. This indicates a shift in consumer value perception where advanced AI features might be more critical than traditional camera improvements for some users."
+    },
+    {
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "description": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+      "language": "en",
+      "summary": "Google has launched the Pixel Watch 5 with features like a smarter interface based on Google'nera Gemini vision system, advanced blood pressure pattern recognition, insulin resistance tracking, personalized assistance and enhanced sleep monitoring.",
+      "points": [
+        "The Pixel Watch 5 integrates Google’nera Gemini for better visual interaction with health-related data",
+        "It offers sophisticated methods to detect blood pressure patterns and track insulin resistance",
+        "Enhancements in sleep tracking provide more personalized help and improve user wellness"
+      ],
+      "insight": "The Pixel Watch 5 represents a significant step towards wearables that offer not just fitness monitoring but also critical health indicators like blood pressure, making them essential tools for proactive healthcare management."
+    },
+    {
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "link": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "description": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
+      "language": "en",
+      "summary": "Google has launched a low-cost tracker called the $29 Pixel Tag that connects with its Find Hub network to help users locate lost keys, bags, and more.",
+      "points": [
+        "The Google Pixel Tag offers tracking capabilities for misplaced items like keys or luggries",
+        "With a price tag of just $29.95 USD (AUD) it is one of the most affordable options on the market at present.",
+        "Google's Find Hub network allows lost devices to be located by connecting them with other Pixel Tags and smartphone users."
+      ],
+      "insight": "The Google Pixel Tag, being part of a vast networking system backed by tech giant Alphabet Inc., introduces affordability into the realm of item tracking technology. This could drive down costs industry-wide as companies seek to provide similar solutions for consumers."
+    },
+    {
+      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
+      "link": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "description": "The Pixel 11 Pro Fold will cost $1,899.",
+      "language": "en",
+      "summary": "Google is relecloning its smartphone and foldable product lines with the release of a more robust Pixel phone followed by an improved version of the Android-powered Galaxy Z Fold.",
+      "points": [
+        "The Google Pixel 11 Pro Fold comes at $1,899, introducing notable enhancements in durability and display quality compared to its predecessor.",
+        "This model boasts a substantially more rugged metal body with reinforced corners, designed to resist drops without the need for screen protectors or cases as standard equipment."
+      ],
+      "insight": "The announcement of Google's Pixel Pro Fold suggests an intensified competition in the premium foldable smartphone market. The stronger build and brighter screens could help differentiate it from other high-end competitors, potentially setting new standards for durability."
+    },
     {
       "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
       "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
@@ -449,304 +746,6 @@
         "This achievement highlights that modern artificial intelligence could potentially solve complex mathematical problems and contribute to the expansion of human knowledge."
       ],
       "insight": "The successes of AnthropiAC, while still preliminary, hint at AI's potential for making substantial contributions in solving historically unsolvable mathematics conjectures which can advance various scientific fields. This development could redefine the role and capabilities expected from modern artificial intelligence."
-    },
-    {
-      "title": "Joby Aviation builds out defense business with $500M acquisition",
-      "link": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 16:06:08 +0000",
-      "description": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
-      "language": "en",
-      "summary": "The article discusses Joby Aviation's $50 endowment for expanding into the aviation defense sector through acquiring Resonant Sciences.",
-      "points": [
-        "Joby Aviation plans to acquire a company named 'Resonant Sciences'.",
-        "'Resonant Sciences', founded in July, develops technology that enables small drones to take off and land vertically without needing GPS signals or external sensors.",
-        "The deal is set at $50 million. The acquisition will be financed using Joby's capital reserve fund."
-      ],
-      "insight": "This strategic move by Joby Aviation indicates a potential expansion into the defense and commercial sectors, likely impacting drone usage in these areas significantly within five years."
-    },
-    {
-      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 15:40:46 +0000",
-      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
-      "language": "en",
-      "summary": "During a Delta flight where in-flight Wi-Fi was temporarily offline, someone set up an unauthorized fake Wi-Fi network leading to security concerns.",
-      "points": [
-        "The aircraft's legitimate Wi-Fi service was disabled for approximately half an hour due to the incident of a falsified wireless connection being established during flight.",
-        "Delta Airlines is investigating after reports surfaced that someone attempted to set up their own non-authorized, publicly accessible network mid-flight on one Delta aircraft.",
-        "The security lapse raised concerns about potential data breaches and unauthorized access as the incident occurred with at least 160 passengers connected."
-      ],
-      "insight": "This news highlights growing cybersecurity vulnerabilities, especially in aviation where passenger safety is critical. It underscores a need for constant review of security measures to protect against unauthorized network access on flights that rely heavily on internet connectivity."
-    },
-    {
-      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
-      "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 15:33:59 +0000",
-      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
-      "language": "en",
-      "summary": "In a move likely influenced by consumer preferences for uninterrupted gaming experiences, Block Blast!, the top mobile game of 2term5, has decided to skip ads in its Apple Arcade incarnation.",
-      "points": [
-        "Block Blast! is transitioning from an ad-supported model to an ad-free experience on Apple Arcade starting September.",
-        "The decision reflects a trend where players increasingly prefer uninterrupted gameplay over monetary incentives like free games or discounted services.",
-        "This release will likely set the standard for how popular mobile titles are presented to consumers within subscription-based gaming ecosystems."
-      ],
-      "insight": "Block Blast!'s ad-free launch on Apple Arcade may signal a shift in consumer expectations, where convenience and seamless experiences trump financial motivators. This could influence other game developers to reconsider their monetization strategies within subscription services."
-    },
-    {
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 15:30:00 +0000",
-      "description": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "language": "en",
-      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed",
-      "points": [
-        "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lesso...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
-      "link": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 15:23:58 +0000",
-      "description": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-      "language": "en",
-      "summary": "Kalshi is accused by FlightAway of using their platform for unautclated prediction markets regarding flight delays and cancellations.",
-      "points": [
-        "Flightaware alleges Kalshi used its name without permission to create bets on flights being cancelled or delayed based on data provided to them, which is against the terms of service for FlightAway's platform.",
-        "Kalshi offers investors a way to place wagers on whether certain flight paths will be affected by delays and cancellations using publicly available information about previous weather events at airports where those flights operate from or to, as well as other general industry knowledge such news articles that might impact scheduling.",
-        "The issue is not only limited within the United States but also touches on various countries across Europe with Kalshi's prediction markets for flight cancellations."
-      ],
-      "insight": "This situation highlights a potential misuse of data and platform assets, which could lead to legal consequences and damage trust in predictive analytics services within the aviation industry if predictions are used without proper authorization or understanding by investors."
-    },
-    {
-      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-      "link": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 15:00:00 +0000",
-      "description": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-      "language": "en",
-      "summary": "Kyoto Fusioneering has secured funding from investors including Mizuho Bank and Toyota Motor Finance Inc., along with government subsidies to build a prototype for fusion power plant components in Japan.",
-      "points": [
-        "Japan-based startup Kyoto Fusioneering receives grant to construct part of fuel system",
-        "Mizuho Bank, Tokyo Shokojo Fukuoka Finance Co., Ltd. and Mitsubishi UFJ Trust & Investment served as investors",
-        "Government provided subsidies for the project"
-      ],
-      "insight": "This news indicates increasing interest in fusion technology within Japan' endangering its global competitiveness."
-    },
-    {
-      "title": "Bumble ditches its rule that kept men from making the first move",
-      "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 13:59:26 +0000",
-      "description": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
-      "language": "en",
-      "summary": "Bumble announced on Friday (July 13) they will allow men to initiate conversation starting August 8.",
-      "points": [
-        "Renowned dating app Bumble is changing its policies effective from August, allowing guys to start the convo first instead of girls",
-        "The move comes after a year-long review by CEO Tobi Kuti and his team. The rule change came despite opposition within management.",
-        "Bumble will remain committed to creating safe spaces where women can lead conversations."
-      ],
-      "insight": "This decision could potentially shift dating dynamics on technology platforms, allowing for a more balanced interaction style among users and challenging traditional gender roles in online communication. It also highlights the importance of inclusivity within tech companies as they update their policies to reflect evolving social norms."
-    },
-    {
-      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
-      "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 13:40:30 +0000",
-      "description": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
-      "language": "en",
-      "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges",
-      "points": [
-        "The investigation shows that North Koreans are able to infiltrate government agencies, as well as pr...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "language": "en",
-      "summary": "Spotify plans to introduce 'AI Persona' labels for AI-generated artist profiles on the platform, which will not be included in personalized music recommendations.",
-      "points": [
-        "Introducing new label: ‘AI Persona’",
-        "Music from these artists excluded by default",
-        "Recommendation systems to differentiate AI-generated content"
-      ],
-      "insight": "The move highlights the growing importance of transparency and user choice in music discovery, potentially setting a precedent for other platforms."
-    },
-    {
-      "title": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 12:30:00 +0000",
-      "description": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.",
-      "language": "en",
-      "summary": "Amazon executive Panos Panay is set to unveil his forward-looking perspective on post-smartphone technology at TechCrunch Disrupt 2026.",
-      "points": [
-        "Panos Panay, Amazon's vice president of hardware products and ecosystem strategy, will present a vision for the future beyond smartphones",
-        "His presentation is part of his duties to help develop new devices that enhance customer experiences with Alexa across different platforms.",
-        "The anticipation suggests an innovative approach could be in store from Panay's insights."
-      ],
-      "insight": "Panay’s announcement may set the direction for a significant shift in device development, emphasizing integration and enhancement of voice assistants like Alexa across multiple platforms beyond traditional smartphones."
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "language": "en",
-      "summary": "Anthropic is implementing measures to watermark text outputs from its AI language models and extending these features across a wider array of model versions.",
-      "points": [
-        "Anthropic will watermark the output generated by older, less expensive language models."
-      ],
-      "insight": "The move indicates Anthropi's awareness of intellectual property concerns within AI and sets a precedent for ensuring transparency in AI-generated content across different model tiers."
-    },
-    {
-      "title": "중앙전파관리소-한국CISO협의회, 제13회 CISO 역량강화 워크숍 공동 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=145118&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 18:30:00 +0900",
-      "description": "’기업 경쟁력 높이는 CISO 핵심 역량’ 주제로 현직 CISO들의 방향 제시[보안뉴스=한세희 기자] 과학기술정보통신부 중앙전파관리소(소장 최준호)와 한국CISO협의회(회장 이기주)는 전국 정보보호최고책임자(CISO)를 대상으로’제13회 역량강화 워크숍’을 12일 서울 코엑스 오디토리움에서 개최한다.이번 워크숍은 급변하는 사이버 위협에 실질적으로 대응하고,",
-      "language": "ko",
-      "summary": "제13회 CISO 역량강화 워크숍의 주제는 '기업 경쟁력 높이는 CISO 핵심 역량'를 가리고 있으며, 위협에 대어서 대응하기 위해 활용한 지발적인 IT 보안적용이 요구된다.",
-      "points": [
-        "중앙전파관리소(소장)과 한국CISO협의회(회장)가 기여하는 '제13회 CISO 역량강화 워크숍'을 개최한다.",
-        "경영체계자들에게 IT보안의 중요성을 인식하고, 이를 기술에서 세산하여 발전함을 기대한다.",
-        "사이버 위협에 맞는 IT보안에 효과적으로 취약한 부분은 개인적으로 공유하기로 선택한다."
-      ],
-      "insight": "이 보안뉴스는 IT/기술 업체에서 CISO의 역량과 관련된 보호운전의 중요성을 강조한다. 그리고 현재 위협심진 이기주가 체계 이미지에서 IT보안의 중요성을 인식하여 개선과 발전을 강조한다."
-    },
-    {
-      "title": "[ISEC 2026] AI 시대 공격표면 폭증... 해커원이 제시하는 노출관리 4단계",
-      "link": "http://www.boannews.com/media/view.asp?idx=145117&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 18:25:00 +0900",
-      "description": "11일 ISEC 2026 1일차 키노트△발견 △우선순위 지정 △수정 △지속 관리 강조[보안뉴스 강현주 기자] 생성형 AI가 보편화되면서 공격자들은 적은 비용으로 대규모 공격을 자동화할 수 있게 됐고, 기업들이 방어해야 할 ‘공격 표면’은 폭발적으로 증가했다. 지속적 위협 노출 관리(CTEM) 기업인 해커원은 이 같은 변화 속에서 기존 방식으로는 대응이 어렵",
-      "language": "ko",
-      "summary": "11일 ISEC 2026 1일차 키노트△발견 △우선순위 지정 △수정 △지속 관리 강조[보안뉴스 강현주 기자] 생성형 AI가 보편화되면서 공격자들은 적은 비용으로 대규모 공격을 자동화할 수 있게 됐고, 기업들이 방어해야 할 ‘공격 표면’은 폭발적으로 증가했다. 지속적 위협 노출 관리(CTEM) 기업인 해커원은 이 같은 변화 속에서 기존 방식으로는 대응이 어렵",
-      "points": [
-        "11일 ISEC 2026 1일차 키노트△발견 △우선순위 지정 △수정 △지속 관리 강조[보안뉴스 강현주 기자] 생성형 AI가 보편화되면서 공격자들은 적은 비용으로 대규모 공격을 자동...",
-        "지속적 위협 노출 관리(CTEM) 기업인 해커원은 이 같은 변화 속에서 기존 방식으로는 대응이 어렵",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026] 그룹아이비 CPO “채용 과정이 곧 북한 해커 위장 취업 1차 방어선”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145116&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 18:06:00 +0900",
-      "description": "챗GPT 이력서와 30분 실시간 딥페이크로 글로벌 기업 신원 확인 절차 우회공격 비용 10달러 불과하지만 방어 피해는 3500만달러 달하는 비대칭성 지적[보안뉴스 조재호 기자] 글로벌 사이버 보안 기업 그룹아이비(Group-IB)가 북한의 AI 악용 위장 취업 실태를 공개하며 예측 기반의 방어 패러다임 전환 전략을 소개했다. 11일 서울 강남구 코엑스에서",
-      "language": "ko",
-      "summary": "Group-IB 그룹아이비 CPO는 인공지능의 위주로 북한 사이밍 AI 악용에 대한 전향 방어적 발전을 소개하고 있으며, 그들은 매년 이러한 위자의 공식인데, 그들은 국민을 위한 보호를 위해 최대한 필요한 비용과 시간을 차지하기로한다.",
-      "points": [
-        "Group-IB CPO는 글로벌 AI 악용으로 인한 위자와 북한에서의 공식인질성을 방어",
-        "-이들은 이러한 위자에 대한 공식인 교착하는 속도를 유지한다.",
-        "-그들은 보호 계획을 단순화하지 않고, AI 기반의 방어전략에 직접적인 지침을 시스템화한다."
-      ],
-      "insight": "이 기사는 Group-IB CPO가 위자와 공식인 교차하기로한다. 그들은 국민의 보호를 위해 강조하고 있듯이, AI에 대한 광탄질과 공세가 현재 사회에서 우리들의 수준을 위해 필요로 하는 지적으로 인정한다."
-    },
-    {
-      "title": "아시아 최대 보안 콘퍼런스 ISEC 2026, ‘‘AI로 구현하는 자율 보안의 미래’’ 주제로 성황리 개막!",
-      "link": "http://www.boannews.com/media/view.asp?idx=145111&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 15:05:00 +0900",
-      "description": "서울 코엑스 Hall D, 오디토리움, 아셈볼룸에서 11~12일 개최AI 에이전트로 가능해진 ‘자율성’에 초점 맞춰 AI 보안의 미래 조망총 237개 기관 및 기업 참여, 24개 트랙 124개 세션, 166개 전시부스 규모 제13회 CISO 역량강화 워크숍, 2026년 제3차 CPO 워크숍 등 동시 개최최근 앤트로픽의 ‘클로드 미토스’ 등 시스템 취약점을",
-      "language": "ko",
-      "summary": "서울에서 개최한 ISEC 2026의 주제인 'AI로 구현할 수 don't exist yet 보안'에 대해서 요약.",
-      "points": [
-        "지난 주간, 서울 코엑스 Hall D에서 서양 IT/기술 업계의 대표인 ISEC 2026을 개체화한 서울에서 인공지능을 이용한 자율성 보안의 미래를 참고하여 AI 보안의 기anticipated 제2차 CPO 워크숍과 광범위한 인사이트 논술을 계약한.",
-        "참고로 서울에서 개최한 AI 보안의 미래를 기다리는 IT/기술 업계 기관이 결함이 없는 회식집합이 되어 그들의 서식을 대폭이지만, 이전 워크숉에서 AI로 보안을 구현하는 방법에 대한 진짜 공부를 마치 시작해 들일까지는 아니라 여전히 여유가 되어야만 함.",
-        "자동화된 AI로 이루어진 'AI로 구현할 수 다 don't exist yet 보안'의 개인정보체계에 대해서 조사를 통해서는 잘 모름지만, IT/기술 업계가 이미 AI 보안에 대한 연구를 중앙에 하고 있음."
-      ],
-      "insight": "이커맨드 플릭스로 인해 이제껏 AI로 구현할 수 다 don't exist yet 보안의 지식이 굉장ely demanding, 아니면 IT/기술 업계가 AI로 구현한 '자율성' 보안에서도 항상 잘못된 연출를 일으키지만, ISEC 2026을 기다리는 사회에서 AI로 구현하는 '자율성'보안이 미래에서 중요한 도전임을 인식해야할 정도까지 내는 강제로 이커맨드를 따릅니다."
-    },
-    {
-      "title": "여의시스템-텔스타에이전틱로보틱스, 다크팩토리 사업협력 업무협약 체결",
-      "link": "http://www.boannews.com/media/view.asp?idx=145115&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 14:49:00 +0900",
-      "description": "기술 지원·영업 및 개발 역량 공유·해외 공동 마케팅 추진2세 경영인 중심 정기 교류 네트워크 구축 계획[보안뉴스 강초희 기자] 여의시스템(대표 성명기·성제현)은 스마트팩토리 구축 및 운영 전문기업 텔스타에이전틱로보틱스(대표 임병훈·임동균)와 피지컬 AI가 주도하는 다크팩토리·스마트팩토리 시장에서의 사업 협력 방안을 모색하는 업무협약을 체결했다고 11일 밝",
-      "language": "ko",
-      "summary": "기술 지원·영업 및 개발 역량 공유·해외 공동 마케팅 추진2세 경영인 중심 정기 교류 네트워크 구축 계획[보안뉴스 강초희 기자] 여의시스템(대표 성명기·성제현)은 스마트팩토리 구축 및 운영 전문기업 텔스타에이전틱로보틱스(대표 임병훈·임동균)와 피지컬 AI가 주도하는 다크팩토리·스마트팩토리 시장에서의 사업 협력 방안을 모색하는 업무협약을 체결했다고 11일 밝",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026] 박용규 KISA 본부장 “AI 보안, 실패해도 도전해야 발전 가능”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145114&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 14:30:00 +0900",
-      "description": "ISEC 2026 특별강연 ‘사이버위협 속에서의 AI 위치와 활용 방향’ 도전과 실패 과정에서 얻은 데이터를 다시 활용하며 학습 루프 만들어야[보안뉴스 원병철 기자] 미토스의 등장 이후 AI는 보안 분야에 큰 영향을 미치고 있다. 2026년 3월 미토스의 등장으로 자율 AI 해킹 공격이 현실화됐고, 프로젝트 글래스윙이 출범하며 공동 협력에 나섰다. 우리 정",
-      "language": "ko",
-      "summary": "AI 보안에 중화를 위한 기사 요약",
-      "points": [
-        "AI가 보안에 중화하고, 모바일과 인터넷을 통해 공격으로 시도한 이슈가 발생",
-        "AI를 위한 학습 노드 작성에서 공격자가 인터넷에 나섰다",
-        "AI 공격자는 모바일과 인터넷 활용을 통해 AI 보안에 중화"
-      ],
-      "insight": "이러한 AI 공격으로부터의 업무가 되고, IT/기술 업계는 AI를 활용해보세요."
-    },
-    {
-      "title": "Omada, 대전·대구 이어 광주 ‘라이브 워크숍’ 통해 지역 파트너 현장 소통 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=145113&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 14:29:00 +0900",
-      "description": "Omada·VIGI 제품 로드맵 및 파트너 정책 공유호남 지역 협력 강화[보안뉴스 엄호식 기자] Omada가 지역 파트너와의 현장 접점을 넓히기 위해 오는 9월 9일 광주에서 호남 지역 파트너 및 업계 관계자를 대상으로 ‘광주 라이브 워크숍’을 개최한다고 밝혔다.Omada 라이브 워크숍은 지역 파트너를 직접 찾아 네트워크 및 영상보안 시장의 최신 기술과 제",
-      "language": "ko",
-      "summary": "대전, 대구, 광주의 파트너들과 IT 서비스 개선 시도",
-      "points": [
-        "- 오늘 9일 광주에서 호남 지역의 파트너와 현장 대화를 통해 '광주 라이브 워크숍'을 개체화한다.",
-        "- 광주에서 미니 모임과 파트너와의 현재 소통 방식이 제휴단골적일 때.",
-        "- 감소한 IT/보안 시장에서 우리나라가 어린이지만 많은 공동울모를 통해 개체화하기로 했다."
-      ],
-      "insight": "이러한 시도는 IT/보안 업계가 우리나라의 공동울모에 대한 오랫동안 생활하고 성과를 기억해 두었던 이어체각에서 보는 결제가 아니라도 자연스러우니 신기로 확인하시오."
-    },
-    {
-      "title": "조달청, 규제합리화 신속 추진으로 현장 체감 속도 높여",
-      "link": "http://www.boannews.com/media/view.asp?idx=145112&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 13:45:00 +0900",
-      "description": "제2차 민·관 합동 ‘조달현장 규제혁신위원회’ 개최120개 과제 중 76개 과제 완료[보안뉴스 강초희 기자] 조달청(청장 백승보)은 11일 서울지방조달청에서 2026년 ‘제2차 민·관 합동 조달현장 규제혁신위원회’(이하 위원회)를 개최했다. 이 자리에서 공공조달 규제 합리화를 위한 신규 과제를 확정하고 전체 추진과제 현황을 점검했다.이날 위원회에서는 지난",
-      "language": "ko",
-      "summary": "조달현장 규제혁신위원회를 개최한 서울지방조달청은, 현재의 과제 현황을 질행하고자 한다.",
-      "points": [
-        "- 2차 민·관 합동에서 개최한 위원회는 합리화 규제를 위한 신뢰성 조정과제를 확인하고",
-        "- 76개의 과제 중 24개가 완료되어 결과적으로 IT/기술 규제에 대한 현황을 측정했다.",
-        "- 현재의 IT/기술 분앞에서 중요한 인사이트는 다음과 같다."
-      ],
-      "insight": "조달현장 규제를 위한 합리화 협상은 IT/기술 업계에서 권별한 의미가 있다. 이 위원회는 자동매소드 및 오프카인속도를 바탕으로 IT 현장에서의 분약적인 규제 방식이 되도록 삼성전자, LG화학, SK하이지드시스터지 등과 통합주식 회사와 같은 IT/기술 기업이 현재 제공하는 정보를 바로 수집하고자 한다."
-    },
-    {
-      "title": "[ISEC 2026] “AI에 대한 통제는 모델 ‘안’ 아니라 ‘밖’에 있어야”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145110&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 11 Aug 2026 13:37:00 +0900",
-      "description": "김수영 포티넷 상무 ISEC 1일차 키노트프롬프트 주입 등 AI 겨냥 공격 정교화 추세... AI 지키는 통합 플랫폼 필요[보안뉴스=한세희 기자] “자율(autonomy)이라 해서 승인 없는 완전한 자율을 뜻하진 않습니다. AI 실행 단계에서 승인을 거치는 제어가 필요합니다.”김수영 포티넷 상무는 11일 서울 코엑스에서 개막한 ‘제20회 국제 시큐리티 콘퍼",
-      "language": "ko",
-      "summary": "ISEC 2 endorses human oversight for AI, arguing against unfettered autonomy in favor of controlled self-management.",
-      "points": [
-        "- ISEC supports the need for governance and accountability mechanisms within evolving autonomous systems to ensure safety and ethical standards. This is essential as we move towards more complex AI applications.",
-        "- The role of human intervention in monitoring, evaluating, or intervening during an AI's operation has been emphasized by ISEC leaders. They assert that humans remain integral parts for decision-making processes even within automated systems to maintain control and responsibility.",
-        "- There is a call for developing robust frameworks and international standards governing the deployment of autonomous technologies, with human oversight at its core as articulated by ISEC representatives."
-      ],
-      "insight": "ISEC's stance reflects growing concerns about AI systems that may act beyond their original programming or understanding. By advocating for continuous monitoring and intervention from humans, they address the ethical implications of deploying autonomous technologies in sensitive areas while ensuring adherence to safety norms."
     }
   ]
 }
