@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-08-12T19:08:08.188Z",
+  "generatedAt": "2026-08-13T01:54:41.820Z",
   "articles": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "language": "en",
+      "summary": "Claude users are upset with the implementation of Anthropic's watermarks as they believe it could negatively impact their job security by being used at work or school.",
+      "points": [
+        "Anthropic has introduced a new system that leaves digital 'fingerprints', which some Claude users find problematic for professional use",
+        "Users are concerned about potential repercussclions in their jobs, as the watermarked models could be used without proper attribution or consent.",
+        "The controversy highlights a broader issue of ethical AI usage and intellectual property rights within creative industries."
+      ],
+      "insight": "This event raises important questions about ownership and privacy in the realm of generative AI, emphasizing that as technology advances, there must be evolved legal frameworks to address these concerns adequately. It also suggests a need for clearer policies from companies like Anthropic regarding professional use."
+    },
+    {
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 22:24:00 +0000",
+      "description": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "language": "en",
+      "summary": "Fermi Nuclear Fuel LLC has appointed Lee McIntire as its new CEO after firing outgoing co-founder Toby Neugebauer.",
+      "points": [
+        "Lee McIntire, an independent board member of Fermi'ner was hired to be the company's next chief executive officer (CEO).",
+        "The previous co-founder and former CEO, Toby Neugebauer, had been removed from his post over a year ago due to disagreements with some members on the board.",
+        "Fermi Nuclear Fuel LLC is expected to continue its operations while transitioning into McIntire's leadership."
+      ],
+      "insight": "The recent change in CEO for AI nuclear power firm Fermi might signify a new direction and potential changes within the company, as well as reflect broader trends of governance and strategic decision-making shifts in similar firms or industries."
+    },
+    {
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 20:53:41 +0000",
+      "description": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "language": "en",
+      "summary": "Northrop Grumman's robotic vehicle successfully attempted its first mission of extending the life of satellites by attaching new thrusters.",
+      "points": [
+        "The Mission Robotic Vehicle, developed to service aging spacecraft with limited human interaction in hard-to-reach areas, has completed a historic task - installing new propulsion units on an old satellite orbiting Earth outside the International Space Station's (ISS) altitude.",
+        "Northrop Grumman is testing this technology to maintain and extend operational lifespans of satellites that would otherwise need costly replacements or decommissions, potentially saving billions in space programs over time due to reduced wastefulness.",
+        "The robot's first operation took place on an aging satellite with a 20-year service life outside the ISS altitude and demonstrated capabilities for maneuverability despite limited mobility of its 'legs.'"
+      ],
+      "insight": "This development in autonomous space technology by Northrop Grumman could significantly extend operational lifespans of satellites, reduce costs associated with satellite replacements or decommissions and enable complex servicing operations to be conducted safely without human presence."
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "language": "en",
+      "summary": "Amazon has decided that by default it will use content from Twitch streamers for training AI models unless explicitly opted out of doing so.",
+      "points": [
+        "Twitch CPO Mike Minton responds to user feedback on a livestream",
+        "Default usage policy without explicit consent due to low engagement",
+        "Opt-out option available at the end for streamers"
+      ],
+      "insight": "This move by Amazon could set a precedent for other companies using content from platforms like Twitch, potentially raising issues around user privacy and consent in data usage."
+    },
     {
       "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
       "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
@@ -686,66 +746,6 @@
         "This strategic pivot suggests a transition in Bluesky’s role from an election tool to becoming more like a general platform for discussion."
       ],
       "insight": "The shift by Bluesky indicates the company is adapting its model and possibly expanding their user base, which could lead towards sustaining engagement despite declining active users specifically related to elections or voting-related tools."
-    },
-    {
-      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-      "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 17:41:49 +0000",
-      "description": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
-      "language": "en",
-      "summary": "Finnish satellite company ICEYE has become the inaugural beneficiary of Scaleup Europe's $5.7 billion fund targeted at European technology companies.",
-      "points": [
-        "Scaleup Europe, a public-private venture with an investment goal of $5.7 billion for early to growth stage tech businesses in the EU and UK.",
-        "The first company backed by Scaleup Europe is ICEYE (ICE Evidence), which provides high resolution earth observation imagery from satellites, supporting a range of applications including environmental monitoring, agriculture, urban planning, humanitarian aid, emergency response and national security.",
-        "The fund's investment represents the largest single deal to date for ICEYE. The company was founded in 2016 by former members of a European start-up accelerator specializing in Earth observation technology."
-      ],
-      "insight": "This marks an important development as Scaleup Europe targets early and growth stage tech companies within the EU, providing substantial capital to help these businesses expand globally. ICEYE's backing by such a significant fund could set precedence for future investments in European satellite imagery technology."
-    },
-    {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 17:41:34 +0000",
-      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "language": "en",
-      "summary": "Brad Lightcap has been OpenAI's Chief Operating Officer for many years and is now leaving the company with excitement about starting something new to help advance their mission from a different perspective.",
-      "points": [
-        "Longtime COO Brad Lightcap announces he will be departing OpenAI",
-        "Lightcap expressed enthusiasm at moving on, emphasizing his desire to assist in advancing the company's mission by joining forces with like-minded people and taking risks.",
-        "OpenAI CEO Sam Altman reiterated Lightcap’s commitment towards their shared vision for AI"
-      ],
-      "insight": "The departure of a longtime COO might lead to changes in leadership strategies at OpenAI, but the company's ongoing mission remains intact. The focus will likely continue to be humanity-aligned development and ethical use of artificial intelligence."
-    },
-    {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 17:41:22 +0000",
-      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "language": "en",
-      "summary": "River AI, backed by General Catalyst in its first round led by xAI co-founder Igor Babuschkin, has raised $1.1 billion to develop personal agents.",
-      "points": [
-        "General Catalyst leads a significant investment into River AI focusing on creating highly specialized virtual assistants or 'personal agents'.",
-        "Founded by Igor Babuschkin and backed with early-stage funding, the startup has secured $1 endorsement from tech industry leaders.",
-        "The massive round of financing is set to propel River AI into developing advanced personal assistants that can perform tasks autonomously."
-      ],
-      "insight": "This investment signifies a major push towards specialized artificial intelligence technologies, which could redefine the scope and capabilities within virtual assistant applications across various industries. It also reflects growing confidence in startups led by experienced co-founders who understand cutting-edge AI trends."
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 11 Aug 2026 16:25:20 +0000",
-      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "language": "en",
-      "summary": "AnthropiAC's AI has demonstrated unexpected advancement in tackling one of mathematics' most challenging problems - the Riemann hypothesis.",
-      "points": [
-        "The unreleased Anthropic model, despite not solving it, progressed on the Riemann hypothesis more than expected from an Artificial Intelligence entity",
-        "AnthropiAC has been recognized for its AI's significant contribution in this field with a special award by President Biden.",
-        "This achievement highlights that modern artificial intelligence could potentially solve complex mathematical problems and contribute to the expansion of human knowledge."
-      ],
-      "insight": "The successes of AnthropiAC, while still preliminary, hint at AI's potential for making substantial contributions in solving historically unsolvable mathematics conjectures which can advance various scientific fields. This development could redefine the role and capabilities expected from modern artificial intelligence."
     }
   ]
 }
