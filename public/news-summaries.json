@@ -1,6 +1,166 @@
 {
-  "generatedAt": "2026-08-13T13:10:41.647Z",
+  "generatedAt": "2026-08-13T19:11:22.156Z",
   "articles": [
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "description": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "language": "en",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "language": "en",
+      "summary": "OpenAI appoints Dali Rajic to lead its Sales Operations Team (SOT), amidst ongoing executive changes.",
+      "points": [
+        "Dali Rajic is appointed as the new Chief Revenue Officer at OpenAI, taking over previous responsibtons of sales leadership and customer acquisition strategy development."
+      ],
+      "insight": "The recent appointment signals an organizational shift towards more strategic roles within tech startups, potentially indicating a departure from growth-focused to revenue stabilization models in the industry. This could impact future hiring practices or restructuring efforts across similar companies."
+    },
+    {
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 16:37:53 +0000",
+      "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "language": "en",
+      "summary": "Ford is set to complete a $2 billion factory overhaul aimed at producing electric vehicles for their subsidiary Fathom EV trucks by the end of next year.",
+      "points": [
+        "Completion timeline: Ending in December 2024",
+        "Ford and Rivian partnership details remain private as production begins quietly overseas without government approval due to a lack thereof, despite ongoing discussions with the UK Government for potential funding.",
+        "Plans include producing up to 5,00 extruded frames per hour at a rate of $487 each and assembling two batteries onto vehicles within an estimated six-hour process."
+      ],
+      "insight": "The investment by Ford into electric vehicle production with Fathom EV trucks signifies the automotive industry's pivot towards electrification, reflecting growing consumer demand for sustainable transportation options and potential implications on traditional internal combustion engine vehicles."
+    },
+    {
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "language": "en",
+      "summary": "Platform X has made public elements of the algorithm curating user content feeds to enhance accountability and transparency.",
+      "points": [
+        "X releases open source code for its personalized feed ranking system, dubbed 'For You.'",
+        "New tools will alert users if their accounts or posts have been impacted by X'self-adjusting algorithm. Users can access detailed explanations of content prioritization.",
+        "The initiative is part of a broader push towards transparency in social media algorithms."
+      ],
+      "insight": "This move could prompt other platforms to adopt similar policies, thereby increasing overall industry accountability and trust among users regarding how their data influences the content they see."
+    },
+    {
+      "title": "Instagram introduces a redesigned wordmark",
+      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 15:46:02 +0000",
+      "description": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "language": "en",
+      "summary": "Instagram has redesigned its logo to feature a bold new wordmark that represents the company' enduring appeal of simplicity while providing visual clarity in this ever-changing digital landscape.",
+      "points": [
+        "After ten years, Instagram is revamping their look with a modernized version of their iconic pictogram logo to better reflect its identity as both an image and textual platform."
+      ],
+      "insight": "The new wordmark design signifies the evolving digital marketplace's emphasis on clear visual communication, which is important for Instagram’s branding strategy in staying relevant amidst constant technological advancements. This may set a trend among other brands to reconsider their typography and logo designs as well."
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "language": "en",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 15:08:00 +0000",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "language": "en",
+      "summary": "Nvidia is introducing an ambitious plan worth $50in billion in the form of perpetual bonds that could potentially help its aging GPUs retain value and support AI development.",
+      "points": [
+        "Nvidia's new financial strategy involves creating a special bond program valued at up to $50 billion, dubbed 'perpetual.'",
+        "This approach is designed as an alternative for traditional investors hesitant about Nvidia stock amidst supply chain difficulties and rising costs.",
+        "The bonds aimed solely for GPUs could allow older models in a second-hand market to retain their value."
+      ],
+      "insight": "Nvidia's innovative bonding plan indicates the company is proactively addressing investor concerns over its aging hardware, potentially ensuring steady financial flows and extended relevance of Nvidia GPU technology within AI infrastructure. This could set a precedent in tech financing methods."
+    },
+    {
+      "title": "Who really needs a cocktail robot?",
+      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0000",
+      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "language": "en",
+      "summary": "The article discusses the concept of bartending robots similar to coffee machines, designed by companies like Bartesian and BarolliTech to automate cocktail making.",
+      "points": [
+        "Bartesian's robotic bar maker functions similarly to a Keurig or Nespresso machine but for alcoholic drinks",
+        "The service is designed as an alternative during busy times in bars and restaurants, with no human touch required.",
+        "Automated bartending services are being offered by companies like Bartesian and BarolliTech"
+      ],
+      "insight": "This development may signal a shift towards automation within the hospitality industry, potentially affecting employment in this sector."
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 14:34:43 +0000",
+      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "language": "en",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ",
+      "points": [
+        "The tech giant has considered a nine-figure budget for the payments, according to the WSJ",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 14:09:05 +0000",
+      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "language": "en",
+      "summary": "In a significant shift in its long-standing stance on hacking and national security policies, the US will now permit certain private entities to launch 'hack back' attacks as part of offensive cyber operations.",
+      "points": [
+        "The United States is changing its policy from prohibiting all forms of hacks against it to allowing specific instances where a firm has been targeted with an attack that can be tracinally linked. The new order permits these firms, who are victims and have solid evidence in their hands, the authority to launch 'hack back' attacks.",
+        "In this policy shift, private companies need not only to ensure proof of a hack on them but also they must demonstrate that such actions would be unlikely to cause collateral damage. They will henceforth engage with federal authorities before deciding their course of action against cyber threats."
+      ],
+      "insight": "The news implies an aggressive new approach towards defending digital infrastructure and sets a precedent that may influence future global regulations on corporate hack-back policies. It represents the government's recognition of private companies as first responders in cybersecurity, but also raises concerns about potential escalations into broader conflicts."
+    },
+    {
+      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 13 Aug 2026 13:30:00 +0000",
+      "description": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
+      "language": "en",
+      "summary": "Bluesky's executives present their vision at TechCrunch Disrupt for a revamped approach to social media.",
+      "points": [
+        "Toni Schneider and Rose Wang discuss Bluesky'self as part of the potential reboot in social media platforms.",
+        "The duo is seeking investment from early-stage backers, suggesting confidence in their concept that addresses current shortcomings in existing services like Facebook or TikTok.",
+        "Bluesky has been beta testing with select users to refine its platform and plans for a broader rollout."
+      ],
+      "insight": "The announcement suggests the IT industry could see an influx of fresh, purpose-driven social media solutions inspired by emerging technologies like AI. Bluesky appears poised to disrupt traditional online communication ecosystems with its innovative approach and early investor interest."
+    },
     {
       "title": "한국영상정보연구조합, ‘물리보안 도메인 지식 교육과정’ 성황리 마쳐",
       "link": "http://www.boannews.com/media/view.asp?idx=145148&kind=&sub_kind=",
@@ -582,171 +742,6 @@
         "The startup'softs valuation climbed from $25 million in early 2021 to almost $300 million, and revenue has grown by more than ten times"
       ],
       "insight": "Blacksmith demonstrates the transformative potential of AI startups within IT/technology industry for efficient code testing."
-    },
-    {
-      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
-      "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "description": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
-      "language": "en",
-      "summary": "Tech startup Reservoir is raising $8 million to commercialize its ultra-efficient smart water heater that predicts hot water demand and helps conserve energy in homes.",
-      "points": [
-        "Reservoir's AI-powered water heater accurately forecasts household usage patterns of hot water, reducing waste and improving efficiency",
-        "The device can store enough heat to supply multiple showers or loads of laundry simultaneously without additional energy consumption.",
-        "It also features leak detection capabilities for quick identification and notification in case of plumbing issues."
-      ],
-      "insight": "Reservoir'nergy heaters address the significant issue of hot water waste by combining advanced AI with self-regulating systems, setting a new standard towards energy-efficient home management solutions within the IT/technology industry. Their innovation could lead to widespread adoption and impact on reducing household carbon footprints."
-    },
-    {
-      "title": "앤쌤-한국보안인증, AI 법률서비스 전용 제로트러스트 보안 모델 구축 협력... 법률 서비스 시장 확대",
-      "link": "http://www.boannews.com/media/view.asp?idx=145132&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 18:11:00 +0900",
-      "description": "AI 법률 서비스 플랫폼에 2차 인증, 제로트러스트 데이터 금고, AI 보안관제 적용NSSAM AI 에이전트 기반 이상행위 탐지 및 실시간 위협 대응 체계 구축법률 시장 넘어 기업·공공 및 글로벌 AI 에이전트 보안 시장으로 협력 확대법률 ERP 솔루션 전문기업 앤쌤(대표 이근재)과 정보보안 전문기업 한국보안인증(대표 백건대)이 AI 시대에 대응하는 고신뢰",
-      "language": "ko",
-      "summary": "AI 사용자인식, 보안정리, ERP 시장에서 AI 기술이 확대되고 IT/공용 사원들은 이미 학교처럼 데이터 검색을 인식하는 방식으로 보호할 수 있다.",
-      "points": [
-        "AI 기술이 IT 시장에서 중요성을 강조한다",
-        "AES를 이용하여 보안 데이터의 급격해가지고 계손을 얻을 수 있다",
-        "정보보안 공동작성은 IT 업체에서 확장받아질 만한 기회이다"
-      ],
-      "insight": "이러한 협력은 AI를 보안 전문 분야에 활용하는 방범과 편리한 보안서비스를 위해 확보한다."
-    },
-    {
-      "title": "[ISEC 2026] “AI 보안 위협, 막을 힘 갖추려면”... CISO-보안 기업 머리 맞댔다",
-      "link": "http://www.boannews.com/media/view.asp?idx=145131&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 17:53:00 +0900",
-      "description": "ISEC 2026 토크 콘서트... 보안 수요자-공급자 한자리에서 솔직 대화자율 AI 위협 대응, 국내 보안 경쟁력 강화 방안 등 논의[보안뉴스=한세희 기자] 인공지능(AI) 기술 발달로 사이버 공격의 규모와 속도가 감당하기 힘들 수준으로 커지고 있다. 그렇다고 조직 생산성 향상을 위한 AI 활용을 보안 명목으로 막을 수만도 없다. 최첨단 AI 모델은 스스",
-      "language": "ko",
-      "summary": "AI의 활용을 이용한 보안 위대해진 위협에 논의하는 ISEC 2term '보안 기업 머리 맞댔다'. AI 공격의 스 Scale, Speed가 이전값을 넘어서고, 최신 AI를 활용한 보안을 강화하면서 사일자 데이터에서의 공격.",
-      "points": [
-        "AI의 활용을 통해 인공지능적인 스코어를 촉진한 보안 위대해진 위협",
-        "AIOps로 감쇄시켓에 붙여진 AI가 보안 경쟁에서 철학적인 시도를 한다.",
-        "AI를 이용한 자동화된 보안 기능으로 감쇄솔렴한 공격에 치명적으로 대응"
-      ],
-      "insight": "금리운 스택이나 마지막으로는 AI를 이용한 보안 기능의 개선을 위해 IT/기술 업체는 '보안 기업 머리 맞댔다'할 필요가 있다."
-    },
-    {
-      "title": "[ISEC 2026] 해양 규제 파도 넘을 해법 모였다... ‘2026 해양 사이버보안 콘퍼런스’",
-      "link": "http://www.boannews.com/media/view.asp?idx=145130&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 17:45:00 +0900",
-      "description": "ISEC 2026 동시 개최 행사서 해양 사이버 위협 진단방산·상선 아우른 한국형 해양 보안 기술의 발전 방향성 공유[보안뉴스 조재호 기자] 12일 서울 코엑스에서 ISEC 2026의 동시 개최 행사로 ‘2026 해양 사이버보안 콘퍼런스’가 열렸다. 싸이터와 보안뉴스가 공동 주최한 이번 행사는 강화되는 국제 선박 사이버보안 규제에 대응해 조선소·기자재 업체",
-      "language": "ko",
-      "summary": "2026 ISEC 행사에서 해양 선박 사이버보안 규제방안을 강조한다.",
-      "points": [
-        "2026년 이후로 해양 선박 사이버보안 공식 규제를 시작하기 전에, ISEC 행사에서 해양 선박 사이벤스 위협을 강조한다.",
-        "이러한 보호 전략은 국제적인 선박 규제 방안으로, 일본과 그 동시에 아시아와의 경계에서 영향을 미치는 사이버보안 전략에 대한 광립적인 공유가 된다.",
-        "이 규제방안은 선박 사이벤스 위협의 일부로, 해양 선박 및 자원을 보호하여 국제적인 선박 규제에 도전할 수 0ne다."
-      ],
-      "insight": "이 기사는 해양 선박 위협과 발샵률을 증진하고자 한국 대한민국의 정부와 연방회원들이 규제된 해양 선박 보호 시스템에 어마금다. 이러한 관리는 해양 선박 수동 전역에서 공식적으로 진정하게 규제를 시작하여, IT/기술 업무의 안전성을 보장해준다."
-    },
-    {
-      "title": "[ISEC 2026] 서울시, 사이버보안 콘퍼런스&개인정보보호 워크숍 개최 “AI 시대 개인정보 유출 위협 대응”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145129&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 17:19:00 +0900",
-      "description": "서울시, AI 시대 사이버보안·개인정보보호 대응 위한 민관협력 강화서울시·자치구·산하기관 간 개인정보보호 실무 협력체계 구축최근 5년간 개인정보 유출 신고 약 3배 증가, 공공기관 대응 중요성 확대[보안뉴스 강초희 기자] 서울시가 ‘2026년 서울시 사이버보안 콘퍼런스 & 개인정보보호 워크숍’을 12일 코엑스에서 개최했다. 이번 콘퍼런스는 ‘ISEC 202",
-      "language": "ko",
-      "summary": "서울시에서 개인정보보호와 AI 시대에 따른 사이버보안적용에 집중한 '2026년 ISEC 서울시 사이버보안 콘퍼런스'을 개최한다.",
-      "points": [
-        "서울시는 5년간 개인정보 유출 신고가 3배 증가하였으며, AI 시대에 의해 사이버보안이 중요한 문제로 확대되어 있음.",
-        "서울시는 '2026년 ISEC 서울시 사이버보안 콘퍼런스'을 개최하여 IT/기술 에이전시에서 사용자 권리를 강화하고, 개인정보보호를 위한 문제점을 해결하기 위해 준비중이다.",
-        "서울시의 사전에 등산된 실무 플랜은 AI를 활용하여 개인정보보호와 사이버보안 문제점을 해결하고 있다."
-      ],
-      "insight": "서울시의 '2026년 ISEC 서울시 사이버보안 콘퍼런스'은 IT/기술 에이전시에서 개인정보보호와 AI로 개선된 사이버보안 전략을 제공하는 중요한 통과적인 미래 사회 대상으로 나타내고 있다."
-    },
-    {
-      "title": "[ISEC 2026] LG유플러스 “막대한 SASE 트래픽 비용, 자체 인프라로 넘는다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145128&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 17:14:00 +0900",
-      "description": "국내 보안 제조사가 풀지 못한 인프라 비용 문제 통신사 고유 역량으로 해결비용에서 투자로...국내 기업 보안 컴플라이언스 체질 개선 앞장설 청사진 공개[보안뉴스 조재호 기자] LG유플러스가 통신사 고유의 네트워크 인프라에 보안을 통합한 ‘텔코 네이티브’(Telco-Native) 보안 전략을 발표하고, 사이버 시큐리티 메시 아키텍처(CSMA) 기반의 자율 보",
-      "language": "ko",
-      "summary": "국내 보안 제조사가 풀지 못한 인프라 비용 문제 통신사 고유 역량으로 해결비용에서 투자로. 국내 기업 보안 컴플라이언스 체질 개선 앞장설 청사진 공개[보안뉴스 조재호 기자] LG유플러스가 통신사 고유의 네트워크 인프라에 보안을 통합한 ‘텔코 네이티브’(Telco-Native) 보안 전략을 발표하고, 사이버 시큐리티 메시 아키텍처(CSMA) 기반의 자율 보",
-      "points": [
-        "국내 보안 제조사가 풀지 못한 인프라 비용 문제 통신사 고유 역량으로 해결비용에서 투자로",
-        "국내 기업 보안 컴플라이언스 체질 개선 앞장설 청사진 공개[보안뉴스 조재호 기자] LG유플러스가 통신사 고유의 네트워크 인프라에 보안을 통합한 ‘텔코 네이티브’(Telco-Nati...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "[ISEC 2026] 위즈 “쏟아지는 알람, ‘독성조합’ 즉각 조치 관건”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145127&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 16:53:00 +0900",
-      "description": "위즈(WIZ) 카이양 카이 부사장, ISEC 2026에서 ‘에이전트리스’와 ‘가시성 그래프’ 강조[보안뉴스 강현주 기자] “무분별하게 제공되는 수많은 알람은 진짜 위험 식별과 대응을 어렵게하므로 ‘독성 조합’을 찾아내고 위험의 우선순위를 정해야 합니다. 맥락을 통합한 가시성 그래프가 필요합니다.”위즈(WIZ)의 카이양 카이(Kaiyang Cai) 부사장은",
-      "language": "ko",
-      "summary": "위즈(WIZ) 대표자는 ISEC 2 end 에서 귀한 '에이전트리스'와 시간에 의심하지 않을 데이터로 구성된 '가시성 그래프'가 필요한 '독성 조합'를 개선하기 위해 대응하고자 하는 것을 강현주(Kang Hyun-Ju)이 말했다.",
-      "points": [
-        "위즈(WIZ)이 ISEC 2026에서 '독성 조합'를 찾아내고 우선순위를 정해야 하는 것",
-        "‘에이전트리스’와 가시성 그래프는 위험의 수치순위를 판단하기 위한 조합을 찾아내고",
-        "이러한 조합과 그래프가 충막을 방지하여 응답성의 개선을 통해 사전에 정의된 '독성 조합'를 이상적으로 개선"
-      ],
-      "insight": "위즈(WIZ)는 IT/기술 계열에서 다수의 회사들이 핵심인 발전되는 알바운드를 공정하게 다루고 있습니다. '독성 조합'은 일본나라의 여러가지 기염발생과 대상 사회에 미치게 손상을 주도한 수신관이나 정보보호를 위해서 제공하는 시스템 요소입니다. '가시성 그래프'는 이전 모델의 단순한 착용되지 않은 경우에도 유용하며, 각 조합과 그래프에 대한 상세한 보안 방식을 정의하여 위험을 활성화하는 속도를 증가시키고, '에이전트리스'랑의 항상 연결이라는 강조로 좀더 초기 논인과 다음엔비전도에서의 공동한 목표를 나타냅니다."
-    },
-    {
-      "title": "국토부, ‘이동로봇 특별법안’ 설명회 개최... “상용화 위한 제도 정비 나선다”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145122&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 14:36:00 +0900",
-      "description": "건축물·공동주택·주차장·실외공간 등에서 로봇 활용 지원하는 규제 개선 및 특례 근거 마련분야별 운영·안전관리 기준, 사고 책임·대응체계 등 촘촘한 관리체계 구축 계획[보안뉴스 강초희 기자] 국토교통부(장관 김윤덕)는 13일 경기도 성남시 판교테크노밸리 스타트업 캠퍼스에서 ‘이동로봇의 안전한 이용 및 상용화 촉진을 위한 특별법안’(이하 이동로봇 특별법안) 설",
-      "language": "ko",
-      "summary": "국토교통부는 이동로봇의 안전 이용과 상용화 및 공규화를 위한 특별법안을 13일에 언제문에 개설합니다.",
-      "points": [
-        "국토교통부는 이동로봇의 공규화를 위한 특별법안을 개설",
-        "이전에는 이동로봇이 구체적인 지역에서만 사용되었다.",
-        "국토교통부는 공규화를 위해 이동로봇 정치 정리, 안전화면 제공, 상용성 기능 개선, 사고 대체와 집중 시스템을 개설하여"
-      ],
-      "insight": "이동로봇 특별법안의 개설은 이동로봇의 사용 가능성과 거대한 공규화를 통해 이전에는 지역적인 제도로 지속하고 있는 시장에서 주요 기업들과 연관되어 있어, 이러한 정보가 IT/기술 업계에 큰 영향을 미칠 것입니다."
-    },
-    {
-      "title": "국토부, 2028년 UAM 초기 상용화 위한 ‘시범운용구역’ 지정 본격 추진",
-      "link": "http://www.boannews.com/media/view.asp?idx=145123&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 14:34:00 +0900",
-      "description": "버티포트 등 기반시설 구축, 규제 특례 적용해 실제 운항 경험 축적 및 안전성 검증[보안뉴스 강초희 기자] 국토교통부(장관 김윤덕)는 2028년 도심항공교통(UAM) 초기 상용화를 위한 핵심 기반인 ‘시범운용구역’ 지정을 본격 추진하기 위해 13일 서울에서 ‘시범운용구역 지정 설명회’를 개최한다.이번 설명회에는 UAM 사업을 준비 중인 지방정부와 공공기관",
-      "language": "ko",
-      "summary": "국토교통부는 '시범운용구역' 지정을 UAM 초기 상용화에 대한 연구를 위해 설명회를 개최하고 있다.",
-      "points": [
-        "- 현재 균형삼공이 '시범운용구역'의 지정에 대한 연구가 이전보다 우선적으로 진행되고 있다.",
-        "- 국토교통부는 기반시설 구축, 규제 특례, 실제 운항 경험 첨부로 이동해 진행한다.",
-        "- '시범운용구역' 지정을 위한 기능과 안전성 검증은 UAM 설계에서 중요한 부분이다."
-      ],
-      "insight": "국토교통부의 '시범운용구역' 지정 설명회는 UAM 초기 상용화에 대한 전문화가 필요한 곳이다."
-    },
-    {
-      "title": "“AI 공격은 AI로 막아야” MS, 자율형 보안 에이전트 ‘Project Perception’ 공개",
-      "link": "http://www.boannews.com/media/view.asp?idx=145126&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Wed, 12 Aug 2026 14:32:00 +0900",
-      "description": "장광운 마이크로소프트 보안전략고문, ISEC 2026에서 MDASH와 Project Perception 소개[보안뉴스 원병철 기자] 단순히 악성 코드를 작성하거나 피싱 이메일을 다듬는 보조 도구(AI-assisted)에 머물던 생성형 AI가 스스로 공격 목표를 설정하고 취약점을 찾아 침투까지 완수하는 자율형 ‘에이전트(Agent)’로 진화했다. 마이크로소프",
-      "language": "ko",
-      "summary": "AI-기계가 스스로의 공격을 취했는 'Project Perception' 에이전트는 AI보호에 대한 반영으로 제시한다.",
-      "points": [
-        "AI-기구가 스스로의 공격을 취하는 경우, 'Project Perception'이라는 자율형 보안에 대한 반영이 일어나고 있다.",
-        "AI기구를 AI로 관리하여 인식과 진단에 경쟁을 시도한 것이다.",
-        "이러한 AI보호 시스템은 점차적으로 AI와의 경쟁을 강조하고, 보안의 개선에 집중한다."
-      ],
-      "insight": "이러한 보호 시스템은 AI보호의 정보와 방대성을 전제극에서 나타내고, IT/기술 업계가 이를 통해 보호처리 시스템이 필요로 하는지 측정하기 어렵다."
-    },
-    {
-      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-      "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 04:30:00 +0000",
-      "description": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
-      "language": "en",
-      "summary": "India's Yulu has raised $93 million to expand its fleet of e-bikes and target innovative delivery methods in the burgeoning quick commerce industry.",
-      "points": [
-        "Yulu secured a substantial investment for rapid growth within two years with plans to deploy over half a million bikes nationwide, focusing on new logistics opportunities.",
-        "The company has set an ambitious goal of introducing hundreds of Yulu-branded electric three-wheeled vehicles across cities and towns in India by 2024 with the aid of this funding round.",
-        "As quick commerce continues to gain popularity, demand for e-bikes like those from Yulu is on an upward trajectory due to their efficiency over traditional delivery methods."
-      ],
-      "insight": "Yulu's success and substantial investment highlight the potential of electric two-wheelers in revolutionizing logistics within India, aligning with global shifts towards green transportation alternatives for quick deliveries."
     }
   ]
 }
