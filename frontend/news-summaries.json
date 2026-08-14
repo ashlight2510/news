@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-08-14T13:33:35.714Z",
+  "generatedAt": "2026-08-14T18:57:59.179Z",
   "articles": [
+    {
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 16:21:04 +0000",
+      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "language": "en",
+      "summary": "Unforgetful is a new reminders app aimed at people who have trouble with snoozing alarms. Developer Marco Arment created the app to prevent users from inadcurately dismissing alarms by making reminders harder to ignore.",
+      "points": [
+        "Unforgetful is designed to be harder to dismiss than standard reminders.",
+        "Developer Marco Arment has created this new reminder app.",
+        "The app aims to help people who tend to hit snooze and inadvertently dismiss alarms."
+      ],
+      "insight": "Unforgetful app targets a behavioral issue related to time management and punctuality, which could potentially help users become more reliable in their daily routines and meetings."
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "language": "en",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+      "points": [
+        "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "language": "en",
+      "summary": "Mark Zuckerberg has publicly advocated that AI should be accessible to everyone, contrasting Muse Spark' end-user restrictions. Meta's Glimmer AI model release aligns with this vision, offering an open-weight AI model downloadable by individuals for their hardware.",
+      "points": [
+        "Mark Zuckerberg's letter emphasizes the democratization of AI.",
+        "Meta's Glimmer AI model is open for public download and hardware compatibility.",
+        "Muse Spark remains restricted behind Meta's APIs, contrasting with Glimmer's open approach."
+      ],
+      "insight": "This news highlights the ongoing debate within the tech industry about the accessibility of AI technology, with Meta taking a step towards broader public access."
+    },
+    {
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 14:54:48 +0000",
+      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+      "language": "en",
+      "summary": "Apple seeks a federal court's approval to charge up to 15% on in-app purchases made outside the App Store, facing opposition from the FTC and various states.",
+      "points": [
+        "Apple'ner Commission and Demand",
+        "FTC Challenges and State Actions",
+        "Implications for App Developers"
+      ],
+      "insight": "Apple's proposal could lead to significant changes in the digital marketplace, potentially affecting app developer revenue and consumer purchasing behavior."
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "language": "en",
+      "summary": "French startup Kog debunks the myth that GPUs are not suitable for general-purpose computing tasks, particularly those involving AI inference. By developing their own GPU-based inference accelerator, Kog aims to unlock the full potential of GPUs for more efficient and versatile computing solutions.",
+      "points": [
+        "Kog's GPU-based inference accelerator can deliver speedups of up to 33,000x, demonstrating the capabilities of GPUs beyond traditional graphics-related tasks.",
+        "The startup's technology allows for reconfiguration of GPU compute arrays to suit specific use cases, enabling efficient AI inference tasks across various industries.",
+        "Kog has partnered with industry leaders like Samsung to integrate its GPU accelerator into cloud computing platforms, showcasing the commercial potential and practicality of GPU-based AI inference."
+      ],
+      "insight": "Kog's innovation in GPU-based AI inference technology could redefine the future of computing, making AI processing more accessible, efficient, and adaptable across a wide range of industries."
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "language": "en",
+      "summary": "Natural gas prices in parts of the U.S. may triple, potentially leading to large bills for hyperscalers powering their AI data centers.",
+      "points": [
+        "Rising natural gas prices in the U.S.",
+        "Possible tripled costs for hyperscalers' energy bills",
+        "Implications for AI data centers' operational costs"
+      ],
+      "insight": "If the natural gas price forecast proves accurate, hyperscalers may need to reconsider their energy strategies to avoid significant financial impacts."
+    },
+    {
+      "title": "US courts will start publishing how often the government uses spyware",
+      "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 14 Aug 2026 13:29:04 +0000",
+      "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+      "language": "en",
+      "summary": "The Administrative Office of the U. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals",
+      "points": [
+        "The Administrative Office of the U",
+        "Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spy...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
       "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
@@ -640,114 +745,6 @@
         "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000",
-      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "language": "en",
-      "summary": "Claude users are upset with the implementation of Anthropic's watermarks as they believe it could negatively impact their job security by being used at work or school.",
-      "points": [
-        "Anthropic has introduced a new system that leaves digital 'fingerprints', which some Claude users find problematic for professional use",
-        "Users are concerned about potential repercussclions in their jobs, as the watermarked models could be used without proper attribution or consent.",
-        "The controversy highlights a broader issue of ethical AI usage and intellectual property rights within creative industries."
-      ],
-      "insight": "This event raises important questions about ownership and privacy in the realm of generative AI, emphasizing that as technology advances, there must be evolved legal frameworks to address these concerns adequately. It also suggests a need for clearer policies from companies like Anthropic regarding professional use."
-    },
-    {
-      "title": "AI nuclear power firm Fermi finally has a new CEO",
-      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 22:24:00 +0000",
-      "description": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-      "language": "en",
-      "summary": "Fermi Nuclear Fuel LLC has appointed Lee McIntire as its new CEO after firing outgoing co-founder Toby Neugebauer.",
-      "points": [
-        "Lee McIntire, an independent board member of Fermi'ner was hired to be the company's next chief executive officer (CEO).",
-        "The previous co-founder and former CEO, Toby Neugebauer, had been removed from his post over a year ago due to disagreements with some members on the board.",
-        "Fermi Nuclear Fuel LLC is expected to continue its operations while transitioning into McIntire's leadership."
-      ],
-      "insight": "The recent change in CEO for AI nuclear power firm Fermi might signify a new direction and potential changes within the company, as well as reflect broader trends of governance and strategic decision-making shifts in similar firms or industries."
-    },
-    {
-      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 20:53:41 +0000",
-      "description": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
-      "language": "en",
-      "summary": "Northrop Grumman's robotic vehicle successfully attempted its first mission of extending the life of satellites by attaching new thrusters.",
-      "points": [
-        "The Mission Robotic Vehicle, developed to service aging spacecraft with limited human interaction in hard-to-reach areas, has completed a historic task - installing new propulsion units on an old satellite orbiting Earth outside the International Space Station's (ISS) altitude.",
-        "Northrop Grumman is testing this technology to maintain and extend operational lifespans of satellites that would otherwise need costly replacements or decommissions, potentially saving billions in space programs over time due to reduced wastefulness.",
-        "The robot's first operation took place on an aging satellite with a 20-year service life outside the ISS altitude and demonstrated capabilities for maneuverability despite limited mobility of its 'legs.'"
-      ],
-      "insight": "This development in autonomous space technology by Northrop Grumman could significantly extend operational lifespans of satellites, reduce costs associated with satellite replacements or decommissions and enable complex servicing operations to be conducted safely without human presence."
-    },
-    {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 20:10:40 +0000",
-      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "language": "en",
-      "summary": "Amazon has decided that by default it will use content from Twitch streamers for training AI models unless explicitly opted out of doing so.",
-      "points": [
-        "Twitch CPO Mike Minton responds to user feedback on a livestream",
-        "Default usage policy without explicit consent due to low engagement",
-        "Opt-out option available at the end for streamers"
-      ],
-      "insight": "This move by Amazon could set a precedent for other companies using content from platforms like Twitch, potentially raising issues around user privacy and consent in data usage."
-    },
-    {
-      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 18:34:21 +0000",
-      "description": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
-      "language": "en",
-      "summary": "Grubhub has agreed to pay a $23.8 million settlement with the Federal Trade Commission (FTC) following allegations of unfair and deceptive business practices regarding delivery surcharges.",
-      "points": [
-        "The FTC settled its complaint against Grubhub, resulting in a payment of nearly $24 million to consumers who suffered from misleading pricing during the past four years",
-        "Grubhub'thy violated consumer protection laws by not disclosing delivery fees directly on restaurant menus or prices advertised as ‘dine-in’, causing customers and restaurants losses of an estimated $30 to $50 million each year",
-        "Starting June 16th consumers who ordered from Grubhub will begin receiving refunds for past misconduct"
-      ],
-      "insight": "The FTC settlement serves as a warning and potential precedent, reinforcing the importance of transparency in pricing within the food delivery industry."
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 18:19:12 +0000",
-      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "language": "en",
-      "summary": "AI coding startup Cognition is reportedly already in discussions for their next funding round with a potential valuation of up to $40 billion.",
-      "points": [
-        "Cognition could raise at least another mega round within the next few months",
-        "$1 billion raised previously, now targeting over $30 billion valuation in new round",
-        "Startup'thyra is also aiming to secure a substantial fundraise"
-      ],
-      "insight": "The ongoing and rapid escalation of startup valuations within the AI coding space suggests an intensifying investor interest, which could lead to increased innovation but might raise concerns about market saturation."
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
-      "language": "en",
-      "summary": "At AI4 conference, Geoffrey Hinton, Fei-Fei Li, and Andrew Ng discussed the future of AI safety regulation, open access to technology, and competitdependent America's growth.",
-      "points": [
-        "Experts at a leading artificial intelligence event highlighted critical issues regarding safety standards for AI development.",
-        "The trio emphasized that keeping research in the public domain would foster innovation while ensuring ethical practices are maintained.",
-        "Concerns were raised about maintaining America's lead as global competitors, particularly China, make significant advances in artificial intelligence."
-      ],
-      "insight": {
-        "content": "The debate at the AI4 conference underscores a shared understanding among leading experts that ethical considerations and open innovation are key to maintaining America's competitive edge as well as ensuring safety measures in artificial intelligence development.",
-        "implication": "This discussion implies an urgent need for policymakers, industry leaders, and researchers within the tech sector to prioritize ethical practices while continuously innovating."
-      }
     }
   ]
 }
