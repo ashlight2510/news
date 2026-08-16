@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-16T12:39:46.288Z",
+  "generatedAt": "2026-08-16T18:27:45.605Z",
   "articles": [
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "language": "en",
+      "summary": "Anthropic CEO, Dario Amodei, has responded to criticisms regarding his views on AI, suggesting the negative backlener is rooted in a lack of trust. Amodei emphasized the need for more public understanding and transparency in AI development to alleviate concerns.",
+      "points": [
+        "Dario Amodei has defended his views on AI as not being overly pessimistic.",
+        "The backlash against AI has been attributed by Amodei to a 'crisis of trust.'",
+        "Amodei calls for increased public understanding and transparency in AI development."
+      ],
+      "insight": "The Anthropic CEO's comments highlight the importance of trust and communication in the public perception of AI and suggest that addressing these issues could mitigate concerns about AI's impact."
+    },
+    {
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 16 Aug 2026 16:04:00 +0000",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "language": "en",
+      "summary": "The article discusses the evolving landscape of electric air taxis, highlighting the growing interest in this mode of transportation. Companies are making progress in design, but regulatory and infrastructure hurdles remain.",
+      "points": [
+        "Electric air taxis are gaining interest as a future mode of transportation.",
+        "Technological advancements are being made, but regulatory hurdles are significant.",
+        "Infrastructure development for safe, reliable air taxi operation is necessary."
+      ],
+      "insight": "The article provides insight into the potential challenges and opportunities for the electric air taxi industry, emphasizing the need for collaboration between companies, regulators, and infrastructure developers to advance the technology and make it viable for mass adoption."
+    },
     {
       "title": "보안 생태계 쌍두마차… 정장 입은 블랙햇, 청바지 입은 데프콘",
       "link": "http://www.boannews.com/media/view.asp?idx=145170&kind=&sub_kind=",
@@ -716,36 +746,6 @@
         "After ten years, Instagram is revamping their look with a modernized version of their iconic pictogram logo to better reflect its identity as both an image and textual platform."
       ],
       "insight": "The new wordmark design signifies the evolving digital marketplace's emphasis on clear visual communication, which is important for Instagram’s branding strategy in staying relevant amidst constant technological advancements. This may set a trend among other brands to reconsider their typography and logo designs as well."
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "language": "en",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 15:08:00 +0000",
-      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "language": "en",
-      "summary": "Nvidia is introducing an ambitious plan worth $50in billion in the form of perpetual bonds that could potentially help its aging GPUs retain value and support AI development.",
-      "points": [
-        "Nvidia's new financial strategy involves creating a special bond program valued at up to $50 billion, dubbed 'perpetual.'",
-        "This approach is designed as an alternative for traditional investors hesitant about Nvidia stock amidst supply chain difficulties and rising costs.",
-        "The bonds aimed solely for GPUs could allow older models in a second-hand market to retain their value."
-      ],
-      "insight": "Nvidia's innovative bonding plan indicates the company is proactively addressing investor concerns over its aging hardware, potentially ensuring steady financial flows and extended relevance of Nvidia GPU technology within AI infrastructure. This could set a precedent in tech financing methods."
     }
   ]
 }
