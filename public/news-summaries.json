@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-16T06:36:56.077Z",
+  "generatedAt": "2026-08-16T12:39:46.288Z",
   "articles": [
+    {
+      "title": "보안 생태계 쌍두마차… 정장 입은 블랙햇, 청바지 입은 데프콘",
+      "link": "http://www.boannews.com/media/view.asp?idx=145170&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 16 Aug 2026 17:21:00 +0900",
+      "description": "기술·인재·자본 순환하는 글로벌 보안 생태계 플랫폼전설적 해커 제프 모스가 창설한 해킹 학술 컨퍼런스AI 시대 신종 위협에 맞설 지구촌 방어망 재정립[보안뉴스 김형근 기자] 과학학술계에 ‘네이처’(Nature)와 ‘사이언스’(Science)라는 두 거두가 존재하듯이 사이버 보안 세계에는 블랙햇(Black Hat)과 데프콘(DEF CON)이라는 양대 산맥이",
+      "language": "ko",
+      "summary": "기술·인재·자본 순환하는 글로벌 보안 생태계 플랫폼전설적 해커 제프 모스가 창설한 해킹 학술 컨퍼런스AI 시대 신종 위협에 맞설 지구촌 방어망 재정립[보안뉴스 김형근 기자] 과학학술계에 ‘네이처’(Nature)와 ‘사이언스’(Science)라는 두 거두가 존재하듯이 사이버 보안 세계에는 블랙햇(Black Hat)과 데프콘(DEF CON)이라는 양대 산맥이",
+      "points": [
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
+    {
+      "title": "英 국가 핵심 전력망 운영사 해킹 당했나... 내부 기술 데이터 40GB 유출 주장 제기",
+      "link": "http://www.boannews.com/media/view.asp?idx=145174&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 16 Aug 2026 17:19:00 +0900",
+      "description": "소스 코드·클라우드 설정 등 5500여 개 파일 다크웹 포럼에 공개... 인프라 설계 정보 노출 따른 2차 피해 우려[보안뉴스 한세희 기자] 영국 잉글랜드 및 웨일스 지역 등의 송배전 인프라를 총괄하는 에너지 기업 ‘내셔널그리드’(National Grid)의 내부 소프트웨어 및 인프라 구성 데이터가 사이버 범죄 포럼에 대규모로 유출됐다는 주장이 나왔다. 핵",
+      "language": "ko",
+      "summary": "작동하는 전력망에 대한 본격 검사 작업이 되었습니다.",
+      "points": [
+        "5500개 파일의 소프트웨어 설정 내역과 인프라 구성 정보가 공개되었다.",
+        "이러한 정보가 유맥적인 웹 포럼인 이인프라에서 공개되었다.",
+        "이유는 이러한 정보가 사이버 범죄 포맜스에서 대규모저람되었다는 가설이다."
+      ],
+      "insight": "이러한 녹지축원 정보를 공개해서 사이버 범죄 포맜스에 빈축처벌되는 것이 해외 기술 사이트에서 가볍게 발칭되고 있다고 가정할 수 있다."
+    },
     {
       "title": "서울시, AI 업무 활용 안전하게... 사이버 보안 체계 정비",
       "link": "http://www.boannews.com/media/view.asp?idx=145173&kind=&sub_kind=",
@@ -716,36 +746,6 @@
         "The bonds aimed solely for GPUs could allow older models in a second-hand market to retain their value."
       ],
       "insight": "Nvidia's innovative bonding plan indicates the company is proactively addressing investor concerns over its aging hardware, potentially ensuring steady financial flows and extended relevance of Nvidia GPU technology within AI infrastructure. This could set a precedent in tech financing methods."
-    },
-    {
-      "title": "Who really needs a cocktail robot?",
-      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0000",
-      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
-      "language": "en",
-      "summary": "The article discusses the concept of bartending robots similar to coffee machines, designed by companies like Bartesian and BarolliTech to automate cocktail making.",
-      "points": [
-        "Bartesian's robotic bar maker functions similarly to a Keurig or Nespresso machine but for alcoholic drinks",
-        "The service is designed as an alternative during busy times in bars and restaurants, with no human touch required.",
-        "Automated bartending services are being offered by companies like Bartesian and BarolliTech"
-      ],
-      "insight": "This development may signal a shift towards automation within the hospitality industry, potentially affecting employment in this sector."
-    },
-    {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 14:34:43 +0000",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "language": "en",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ",
-      "points": [
-        "The tech giant has considered a nine-figure budget for the payments, according to the WSJ",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
