@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-08-15T18:29:08.841Z",
+  "generatedAt": "2026-08-16T01:15:20.671Z",
   "articles": [
+    {
+      "title": "서울시, AI 업무 활용 안전하게... 사이버 보안 체계 정비",
+      "link": "http://www.boannews.com/media/view.asp?idx=145173&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 16 Aug 2026 09:51:00 +0900",
+      "description": "사이버보안 조례 시행규칙 입법예고… 내달 2일까지 의견 접수[보안뉴스 한세희 기자] 서울시가 인공지능(AI)과 클라우드 등 신기술 활용에 따른 사이버 위협을 막을 수 있도록 보안 체계를 강화한다. 서울시는 최근 ‘서울특별시 사이버보안에 관한 조례 시행규칙안’을 입법예고하고 다음달 2일까지 시민 등 의견을 받는다고 밝혔다. 이 안은 작년 9월 시행된 서울시",
+      "language": "ko",
+      "summary": "서울시는 AI 및 클라우드 기술을 활용한 보안 위협을 줄이고자 행사를 시작한다.",
+      "points": [
+        "서울시는 AI와 클라우드 기술을 활용한 보안 위협을 줄이고자 한다.",
+        "최근 시행된 서울시 보안 조례 시행규칙 입법예고로, 이 제품들을 활용해 보안 위험을 줄일 위해 시작한다.",
+        "2일까지 의견을 받는다."
+      ],
+      "insight": "서울시는 인공지능과 클라우드 기술을 활용해 보안 위험을 줄일 수 있습니다."
+    },
+    {
+      "title": "[ISEC 2026] “AI의 ‘규모’와 사람의 ‘깊이’를 한 플랫폼에 통합”... 존 아데오 해커원 부사장",
+      "link": "http://www.boannews.com/media/view.asp?idx=145164&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Sun, 16 Aug 2026 09:33:00 +0900",
+      "description": "“AI가 규모와 속도 높이면 사람이 정확성 검증”“CTEM-AI 레드티밍 결합, 업계가 나아갈 방향”[보안뉴스 강현주 기자] “사이버 보안의 미래는 AI와 사람 중 하나를 선택하는 것이 아닙니다. 속도를 위해 AI를 쓰고, 정확도를 위해 사람의 깊이를 결합하는 것입니다.”‘제20회 국제 시큐리티 콘퍼런스’(ISEC 2026) 현장에서 만난 지속적 위협 노출",
+      "language": "ko",
+      "summary": "ISEC 2026 서재에서 제20회 국제 시큐리티 콘퍼런스에서 지속적 위협 노출",
+      "points": [
+        "AI와 사람의 깊이를 결합하여 속도와 정확성을 확보한다.",
+        "CTEM-AI 레드티밍 결합의 핵심 사업으로 인한 탄생.",
+        "사이버 보안의 미래는 AI와 사람의 깊이를 함께 선택한다."
+      ],
+      "insight": "이 기사는 AI와 사람의 깊이가 함께 관련된 깊이 염료로 사이버 보안에 직접 영향을 미치게 강불한다."
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "language": "en",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse",
+      "points": [
+        "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "language": "en",
+      "summary": "Anthropic has revealed how Claude's new watermarks will function, focusing on hidden watermarks that can be revealed with editing and their impact on code transparency.",
+      "points": [
+        "Anthropic has unveiled Claude'static watermarking system.",
+        "The watermark can only be removed by modifying the code.",
+        "The watermark remains even after multiple edits and code transformations."
+      ],
+      "insight": "Claude's new watermarking technique could enhance code transparency and ownership verification within the AI industry, although its practical implications and potential misuse remain areas of concern."
+    },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -686,65 +746,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "In a first, US will allow some private firms to carry out cyberattacks",
-      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 14:09:05 +0000",
-      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-      "language": "en",
-      "summary": "In a significant shift in its long-standing stance on hacking and national security policies, the US will now permit certain private entities to launch 'hack back' attacks as part of offensive cyber operations.",
-      "points": [
-        "The United States is changing its policy from prohibiting all forms of hacks against it to allowing specific instances where a firm has been targeted with an attack that can be tracinally linked. The new order permits these firms, who are victims and have solid evidence in their hands, the authority to launch 'hack back' attacks.",
-        "In this policy shift, private companies need not only to ensure proof of a hack on them but also they must demonstrate that such actions would be unlikely to cause collateral damage. They will henceforth engage with federal authorities before deciding their course of action against cyber threats."
-      ],
-      "insight": "The news implies an aggressive new approach towards defending digital infrastructure and sets a precedent that may influence future global regulations on corporate hack-back policies. It represents the government's recognition of private companies as first responders in cybersecurity, but also raises concerns about potential escalations into broader conflicts."
-    },
-    {
-      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 13:30:00 +0000",
-      "description": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
-      "language": "en",
-      "summary": "Bluesky's executives present their vision at TechCrunch Disrupt for a revamped approach to social media.",
-      "points": [
-        "Toni Schneider and Rose Wang discuss Bluesky'self as part of the potential reboot in social media platforms.",
-        "The duo is seeking investment from early-stage backers, suggesting confidence in their concept that addresses current shortcomings in existing services like Facebook or TikTok.",
-        "Bluesky has been beta testing with select users to refine its platform and plans for a broader rollout."
-      ],
-      "insight": "The announcement suggests the IT industry could see an influx of fresh, purpose-driven social media solutions inspired by emerging technologies like AI. Bluesky appears poised to disrupt traditional online communication ecosystems with its innovative approach and early investor interest."
-    },
-    {
-      "title": "한국영상정보연구조합, ‘물리보안 도메인 지식 교육과정’ 성황리 마쳐",
-      "link": "http://www.boannews.com/media/view.asp?idx=145148&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 13 Aug 2026 18:15:00 +0900",
-      "description": "정책·법령부터 AI 관제 실무까지... 업계 재직자 및 취업준비생 등 130명 수료[보안뉴스 강초희 기자] 한국영상정보연구조합(이사장 황정현, KIIA)은 ‘물리보안 분야 도메인 지식 교육과정’을 개설해 성황리에 완료했다고 밝혔다. 8월 11~12일 양일간 서울 코엑스 아셈볼룸에서 운영된 이번 교육은 △물리·융합보안 산업 육성 정책 및 인증 제도 △AI 시",
-      "language": "ko",
-      "summary": "정책·법령부터 AI 관제 실무까지. 업계 재직자 및 취업준비생 등 130명 수료[보안뉴스 강초희 기자] 한국영상정보연구조합(이사장 황정현, KIIA)은 ‘물리보안 분야 도메인 지식 교육과정’을 개설해 성황리에 완료했다고 밝혔다...",
-      "points": [
-        "업계 재직자 및 취업준비생 등 130명 수료[보안뉴스 강초희 기자] 한국영상정보연구조합(이사장 황정현, KIIA)은 ‘물리보안 분야 도메인 지식 교육과정’을 개설해 성황리에 완료했...",
-        "8월 11~12일 양일간 서울 코엑스 아셈볼룸에서 운영된 이번 교육은 △물리·융합보안 산업 육성 정책 및 인증 제도 △AI 시",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "美 4개 주 지방정부 연쇄 사이버공격... 911 응급망·행정 서비스 전면 마비",
-      "link": "http://www.boannews.com/media/view.asp?idx=145136&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Thu, 13 Aug 2026 18:11:00 +0900",
-      "description": "캘리포니아·오클라호마 등 4개 주 지방정부, 랜섬웨어 등 연쇄 사이버공격 피해최근 12개 주 상하수도 시설 연달아 겨냥한 사이버공격보안 취약한 중소 지방정부·공공인프라가 표적된 것으로 추정[보안뉴스 김형근 기자] 미국 4개 주의 여러 지방정부와 카운티가 랜섬웨어 등 연쇄 사이버공격을 받아 911 응급망과 대민 행정 서비스가 전면 마비되는 사태가 벌어졌다.글",
-      "language": "ko",
-      "summary": "캘리포니아·오클라호마 등 4개 주 지방정부, 랜섬웨어 등 연쇄 사이버공격 피해최근 12개 주 상하수도 시설 연달아 겨냥한 사이버공격보안 취약한 중소 지방정부·공공인프라가 표적된 것으로 추정[보안뉴스 김형근 기자] 미국 4개 주의 여러 지방정부와 카운티가 랜섬웨어 등 연쇄 사이버공격을 받아 911 응급망과 대민 행정 서비스가 전면 마비되는 사태가 벌어졌다",
-      "points": [
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
     }
   ]
 }
