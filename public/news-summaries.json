@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-16T18:27:45.605Z",
+  "generatedAt": "2026-08-17T01:12:48.266Z",
   "articles": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "language": "en",
+      "summary": "Stripe is poised to acquire AI gateway startup OpenRouter for over $7 billion. OpenRouter'self CEO likens the company to Stripe, suggesting it holds a significant role in the AI space.",
+      "points": [
+        "Stripe's reported acquisition of OpenRouter for over $7 billion.",
+        "OpenRouter positions itself as a pivotal AI gateway startup.",
+        "CEO of OpenRouter draws a parallel between OpenRouter and Stripe."
+      ],
+      "insight": "This acquisition signifies a major move in the financial sector towards integrating AI technologies, which could reshape payment processes and customer experience."
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "language": "en",
+      "summary": "The Equity podcast episode delves into public skepticism surrounding Mark Zuckerberg's vision for an AI-driven future. It explores why some individuals are hesitant to embrace this technological direction.",
+      "points": [
+        "The podcast episode addresses the reasons behind the mixed public opinion on Zuckerberg's AI vision, highlighting concerns about privacy, security, and the societal impact of AI.",
+        "Experts interviewed in the podcast discuss the potential consequences of an AI-dominated future, including the risk of job displacement and the ethical implications of AI decision-making.",
+        "The episode also examines the role of public perception in shaping the future of AI and technology, emphasizing the importance of fostering a constructive dialogue about these developments."
+      ],
+      "insight": "This news underscores the need for a more inclusive conversation on the future of AI, taking into account the diverse perspectives and concerns of the public. It also highlights the importance of addressing these concerns to ensure a more responsible and sustainable integration of AI into society."
+    },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -718,34 +748,6 @@
         "Plans include producing up to 5,00 extruded frames per hour at a rate of $487 each and assembling two batteries onto vehicles within an estimated six-hour process."
       ],
       "insight": "The investment by Ford into electric vehicle production with Fathom EV trucks signifies the automotive industry's pivot towards electrification, reflecting growing consumer demand for sustainable transportation options and potential implications on traditional internal combustion engine vehicles."
-    },
-    {
-      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 16:00:00 +0000",
-      "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-      "language": "en",
-      "summary": "Platform X has made public elements of the algorithm curating user content feeds to enhance accountability and transparency.",
-      "points": [
-        "X releases open source code for its personalized feed ranking system, dubbed 'For You.'",
-        "New tools will alert users if their accounts or posts have been impacted by X'self-adjusting algorithm. Users can access detailed explanations of content prioritization.",
-        "The initiative is part of a broader push towards transparency in social media algorithms."
-      ],
-      "insight": "This move could prompt other platforms to adopt similar policies, thereby increasing overall industry accountability and trust among users regarding how their data influences the content they see."
-    },
-    {
-      "title": "Instagram introduces a redesigned wordmark",
-      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 15:46:02 +0000",
-      "description": "The social media giant says it was time for a sharper and more modern look after a decade.",
-      "language": "en",
-      "summary": "Instagram has redesigned its logo to feature a bold new wordmark that represents the company' enduring appeal of simplicity while providing visual clarity in this ever-changing digital landscape.",
-      "points": [
-        "After ten years, Instagram is revamping their look with a modernized version of their iconic pictogram logo to better reflect its identity as both an image and textual platform."
-      ],
-      "insight": "The new wordmark design signifies the evolving digital marketplace's emphasis on clear visual communication, which is important for Instagram’s branding strategy in staying relevant amidst constant technological advancements. This may set a trend among other brands to reconsider their typography and logo designs as well."
     }
   ]
 }
