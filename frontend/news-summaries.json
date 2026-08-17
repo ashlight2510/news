@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-17T01:12:48.266Z",
+  "generatedAt": "2026-08-17T06:55:11.282Z",
   "articles": [
+    {
+      "title": "[배종찬의 보안 빅데이터] 중국의 대만 침공, 군대 아닌 AI 해킹",
+      "link": "http://www.boannews.com/media/view.asp?idx=145175&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 17 Aug 2026 10:03:00 +0900",
+      "description": "국경을 넘는 위협은 이제 군대 이동 아닌 코드 몇 줄과 AI 에이전트 몇 개로 시작[보안뉴스= 배종찬 인사이트케이 연구소장] 중국과 연계된 것으로 의심되는 해커들이 AI 에이전트 여러 개를 동시에 움직여 대만 정부 시스템을 공격, 계정 85개를 침해하고 인사정보 2,500건 이상을 탈취한 사실이 확인됐다. 비슷한 시기 미국에서도 중국 해킹 조직 솔트 타이푼",
+      "language": "ko",
+      "summary": "대만 정부의 보안 시스템이 분석되어 AI 개체와 코드 이동자와 관련된 확인증언.",
+      "points": [
+        "대만 정부의 보안 시스템이 군대 이동자가 아닌 AI 몇 개와 코드 이동자가 85개의 계정을 침해하고 인사정보 2,500건 이상을 탈취한 사실.",
+        "비슷한 운동이 미국 지역에서 발생했다.",
+        "이러한 저력적 게임은 정부 보안에 이용되고 있다."
+      ],
+      "insight": "실현적으로 중국이 분석하지 않은 IT 시스템에 악의적으로 초점을 붙여 보안적으로 활용하여 정보를 수집하는 신기루션임을 알 수 있다."
+    },
+    {
+      "title": "[속담으로 배우는 100가지 보안 습관 85] 소 잃고 외양간 고친다(5)-모르는 계좌 정리하기",
+      "link": "http://www.boannews.com/media/view.asp?idx=144239&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 17 Aug 2026 09:33:00 +0900",
+      "description": "‘내 계좌 한눈에’ 서비스를 통해 모르는 계좌가 있는지 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다",
+      "language": "ko",
+      "summary": "‘내 계좌 한눈에’ 서비스를 통해 모르는 계좌가 있는지 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다...",
+      "points": [
+        "‘내 계좌 한눈에’ 서비스를 통해 모르는 계좌가 있는지 확인하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다",
+        "그래서 우리는 기술보다 습관을 배워야 한다",
+        "속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -720,34 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000",
-      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "language": "en",
-      "summary": "OpenAI appoints Dali Rajic to lead its Sales Operations Team (SOT), amidst ongoing executive changes.",
-      "points": [
-        "Dali Rajic is appointed as the new Chief Revenue Officer at OpenAI, taking over previous responsibtons of sales leadership and customer acquisition strategy development."
-      ],
-      "insight": "The recent appointment signals an organizational shift towards more strategic roles within tech startups, potentially indicating a departure from growth-focused to revenue stabilization models in the industry. This could impact future hiring practices or restructuring efforts across similar companies."
-    },
-    {
-      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 16:37:53 +0000",
-      "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
-      "language": "en",
-      "summary": "Ford is set to complete a $2 billion factory overhaul aimed at producing electric vehicles for their subsidiary Fathom EV trucks by the end of next year.",
-      "points": [
-        "Completion timeline: Ending in December 2024",
-        "Ford and Rivian partnership details remain private as production begins quietly overseas without government approval due to a lack thereof, despite ongoing discussions with the UK Government for potential funding.",
-        "Plans include producing up to 5,00 extruded frames per hour at a rate of $487 each and assembling two batteries onto vehicles within an estimated six-hour process."
-      ],
-      "insight": "The investment by Ford into electric vehicle production with Fathom EV trucks signifies the automotive industry's pivot towards electrification, reflecting growing consumer demand for sustainable transportation options and potential implications on traditional internal combustion engine vehicles."
     }
   ]
 }
