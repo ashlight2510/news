@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-17T06:55:11.282Z",
+  "generatedAt": "2026-08-17T12:48:47.074Z",
   "articles": [
+    {
+      "title": "중국 연계 추정 해킹그룹, Babuk 랜섬웨어 변종 유포... VMware vCenter 취약점 악용",
+      "link": "http://www.boannews.com/media/view.asp?idx=145176&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Mon, 17 Aug 2026 18:02:00 +0900",
+      "description": "CVSS 점수 9.8점에 달할 정도로 치명적... 7월 28일 패치 완료인증 우회 취약점 CVE-2026-59309도 함께 악용... 중국 APT 그룹 소행 추정[보안뉴스 한세희 기자] 중국 정부와 연계된 것으로 추정되는 지능형 지속 위협(APT) 그룹이 최근 패치된 VMware vCenter의 보안 취약점을 악용해 바북(Babuk) 랜섬웨어 변종을 유포한",
+      "language": "ko",
+      "summary": "8점에 달할 정도로 치명적. 7월 28일 패치 완료인증 우회 취약점 CVE-2026-59309도 함께 악용...",
+      "points": [
+        "7월 28일 패치 완료인증 우회 취약점 CVE-2026-59309도 함께 악용",
+        "중국 APT 그룹 소행 추정[보안뉴스 한세희 기자] 중국 정부와 연계된 것으로 추정되는 지능형 지속 위협(APT) 그룹이 최근 패치된 VMware vCenter의 보안 취약점을 악...",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "[배종찬의 보안 빅데이터] 중국의 대만 침공, 군대 아닌 AI 해킹",
       "link": "http://www.boannews.com/media/view.asp?idx=145175&kind=&sub_kind=",
@@ -735,21 +750,6 @@
         "Certification process aims at ensnering enterprise AI adoption"
       ],
       "insight": "This partnership between big tech and cutting-edge AI research could catalyze wider acceptance and implementation of advanced AI in business environments."
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "description": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "language": "en",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
