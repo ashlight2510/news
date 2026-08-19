@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-08-19T06:57:37.952Z",
+  "generatedAt": "2026-08-19T12:48:42.691Z",
   "articles": [
+    {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "description": "It's the data, stupid.",
+      "language": "en",
+      "summary": "A startup believes it knows the requirements for AI to cure cancer, emphasizing the need for vast data, computational power, and interdisciplinary collaboration.",
+      "points": [
+        "AI's potential to cure cancer is recognized, but substantial data, processing power, and diverse expertise are needed.",
+        "The startup is working on a project that aims to utilize AI in cancer treatment, but they acknowledge the significant challenges ahead.",
+        "Experts caution that while AI can aid, it's not a standalone solution for curing cancer and requires substantial research and development."
+      ],
+      "insight": "This news highlights the ongoing efforts and recognition of AI's potential role in cancer treatment, but also the caution and realism needed in setting expectations for its capabilities and the resources required."
+    },
+    {
+      "title": "You can Venmo your college tuition, for some reason",
+      "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "description": "Kids these days don't know how good they have it.",
+      "language": "en",
+      "summary": "Kids these days don't know how good they have it",
+      "points": [
+        "Kids these days don't know how good they have it",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "language": "en",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber",
+      "points": [
+        "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "KT, 국산 반도체와 AI 모델 일체형 ‘소버린 AI 어플라이언스’ 출시",
+      "link": "http://www.boannews.com/media/view.asp?idx=145213&kind=&sub_kind=",
+      "source": "보안뉴스",
+      "publishedAt": "Wed, 19 Aug 2026 18:20:00 +0900",
+      "description": "“데이터 주권과 AX 도입을 한 번에 해결”[보안뉴스 강현주 기자] KT(대표 박윤영)가 국산 AI 반도체와 국산 언어모델(LLM)을 하나의 서버에 통합한 기업용 소버린 AI 어플라이언스(하드웨어와 소프트웨어가 결합된 완제품형 장치)를 출시했다고 19일 밝혔다. KT가 선보인 ‘KT NPU LLM 스테이션’은 국내 AI 반도체 기업 리벨리온의 NPU ‘아톰",
+      "language": "ko",
+      "summary": "“데이터 주권과 AX 도입을 한 번에 해결”[보안뉴스 강현주 기자] KT(대표 박윤영)가 국산 AI 반도체와 국산 언어모델(LLM)을 하나의 서버에 통합한 기업용 소버린 AI 어플라이언스(하드웨어와 소프트웨어가 결합된 완제품형 장치)를 출시했다고 19일 밝혔다. KT가 선보인 ‘KT NPU LLM 스테이션’은 국내 AI 반도체 기업 리벨리온의 NPU ‘아톰",
+      "points": [
+        "“데이터 주권과 AX 도입을 한 번에 해결”[보안뉴스 강현주 기자] KT(대표 박윤영)가 국산 AI 반도체와 국산 언어모델(LLM)을 하나의 서버에 통합한 기업용 소버린 AI 어플...",
+        "KT가 선보인 ‘KT NPU LLM 스테이션’은 국내 AI 반도체 기업 리벨리온의 NPU ‘아톰",
+        "IT 업계의 중요한 변화와 트렌드"
+      ],
+      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
+    },
     {
       "title": "한국요꼬가와전기-VNTG, 제조기업 AI 도입 지원 위한 MOU 체결",
       "link": "http://www.boannews.com/media/view.asp?idx=145205&kind=&sub_kind=",
@@ -687,66 +747,6 @@
       "points": [
         "IT 업계의 중요한 변화와 트렌드",
         "IT 업계의 중요한 변화와 트렌드",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "티피링크 타포, 홈캠 주요 서버 국내 이전 완료 “보안 신뢰도 강화”",
-      "link": "http://www.boannews.com/media/view.asp?idx=145177&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 18 Aug 2026 10:08:00 +0900",
-      "description": "릴레이 서버·클라우드 영상 스토리지 국내 이전 완료한국 사용자 데이터의 국내 처리 환경 강화... 개인정보·영상 데이터 보호 신뢰도 제고 국내 인프라 기반 영상 스트리밍 및 기기 제어 응답 성능 개선[보안뉴스 강초희 기자] 글로벌 네트워크 및 스마트 홈 기업 티피링크(TP-Link)는 스마트 홈 브랜드 타포(Tapo)의 홈카메라 관련 주요 서버를 국내로 이",
-      "language": "ko",
-      "summary": "릴레이 서버·클라우드 영상 스토리지 국내 이전 완료한국 사용자 데이터의 국내 처리 환경 강화. 개인정보·영상 데이터 보호 신뢰도 제고 국내 인프라 기반 영상 스트리밍 및 기기 제어 응답 성능 개선[보안뉴스 강초희 기자] 글로벌 네트워크 및 스마트 홈 기업 티피링크(TP-Link)는 스마트 홈 브랜드 타포(Tapo)의 홈카메라 관련 주요 서버를 국내로 이",
-      "points": [
-        "릴레이 서버·클라우드 영상 스토리지 국내 이전 완료한국 사용자 데이터의 국내 처리 환경 강화",
-        "개인정보·영상 데이터 보호 신뢰도 제고 국내 인프라 기반 영상 스트리밍 및 기기 제어 응답 성능 개선[보안뉴스 강초희 기자] 글로벌 네트워크 및 스마트 홈 기업 티피링크(TP-Li...",
-        "IT 업계의 중요한 변화와 트렌드"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "제네텍-엑시스, 물리보안 미래 제시하는 ‘하이브리드 SaaS’ 웨비나 개최",
-      "link": "http://www.boannews.com/media/view.asp?idx=145179&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 18 Aug 2026 10:06:00 +0900",
-      "description": "8월 26일 ‘하이브리드 SaaS, 물리보안의 미래’ 공동 웨비나 개최온프레미스 안정성과 클라우드 운영효율 결합한 하이브리드 아키텍처 및 TCO 절감 전략 공개AI 엣지 지능화, 사이버보안 엔드-투-엔드 체계 등 실무 중심 세션 구성[보안뉴스 강초희 기자] 통합 물리 보안 소프트웨어 플랫폼 기업 제네텍(Genetec, 한국 지사장 윤승제)과 네트워크 비디오",
-      "language": "ko",
-      "summary": "제네텍은 하이브리드 SaaS로 물리보안 서비스를 개체화하고, 클라우드 운영환경에서의 보호 효율과 안전성을 불어붙이기 위해 AI 기반 보호 엣지 및 엔드-투-엔드 체계 시스템을 제공한다.",
-      "points": [
-        "제네텍은 하이브리드 SaaS로 물리보안 서비스를 개체화하고 클라우드 운영환경에서의 보호 효율과 안전성을 불어붙이기 위해 AI 기반 보호 엣지 및 엔드-투-엔드 체계 시스템을 제공한다.",
-        "TCO 절감 전략과 안전화형 업데이트 시스템을 통해 보안점유십으로써 최적으로 보안을 위한 인젠그램을 형성한다.",
-        "강화 시스템 서비스는 솔레텍적으로 생산적인 보안을 위한 시스템 촉착을 위해 활성화한다."
-      ],
-      "insight": "이러한 논인서 네비셨 서비스와 보안 기술을 통해 새로운 시기의 보안 서비스 시대를 듣고자 한다."
-    },
-    {
-      "title": "[AI 시대의 인지전-5] AI와 대화한 유권자, 후보 선호가 움직였다",
-      "link": "http://www.boannews.com/media/view.asp?idx=145180&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 18 Aug 2026 10:04:00 +0900",
-      "description": "미국, 캐나다, 폴란드 유권자 5954명 실험... AI가 옹호한 후보 쪽으로 선호 변화영국 거주 성인 4만2357명 분석... 설득에 특화한 사후학습과 정보 중심 지시가 효과 키워[보안뉴스=유도진 극동대학교 해킹보안학과 교수] AI를 통한 정치적 설득은 이미 실제 선거 규칙의 대상이 됐다. 오는 10월 4일 대통령선거와 의회선거를 치르는 브라질에서는 8월",
-      "language": "ko",
-      "summary": "미국, 캐나다, 폴란드 유권자 5954명 실험. AI가 옹호한 후보 쪽으로 선호 변화영국 거주 성인 4만2357명 분석...",
-      "points": [
-        "미국, 캐나다, 폴란드 유권자 5954명 실험",
-        "AI가 옹호한 후보 쪽으로 선호 변화영국 거주 성인 4만2357명 분석",
-        "설득에 특화한 사후학습과 정보 중심 지시가 효과 키워[보안뉴스=유도진 극동대학교 해킹보안학과 교수] AI를 통한 정치적 설득은 이미 실제 선거 규칙의 대상이 됐다"
-      ],
-      "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
-    },
-    {
-      "title": "SGA솔루션즈 상반기 매출 751억원, 영업이익 21억... 흑자 전환",
-      "link": "http://www.boannews.com/media/view.asp?idx=145178&kind=&sub_kind=",
-      "source": "보안뉴스",
-      "publishedAt": "Tue, 18 Aug 2026 09:47:00 +0900",
-      "description": "매출 전년동기 대비 309.4% 증가... 크레온유니티 편입 효과AI발 해킹, N2SF 전환 수요 확대... 서버보안·제로트러스트 통합보안 사업 본격화[보안뉴스 한세희 기자] SGA솔루션즈(대표 최영철)는 상반기 연결 기준 매출 751억원, 영업이익 21억3000만원을 기록했다고 14일 밝혔다. 매출은 전년 동기 대비 309.4% 늘었고, 영업이익도 흑자로",
-      "language": "ko",
-      "summary": "매출 전년동기 대비 309. 크레온유니티 편입 효과AI발 해킹, N2SF 전환 수요 확대...",
-      "points": [
-        "크레온유니티 편입 효과AI발 해킹, N2SF 전환 수요 확대",
-        "서버보안·제로트러스트 통합보안 사업 본격화[보안뉴스 한세희 기자] SGA솔루션즈(대표 최영철)는 상반기 연결 기준 매출 751억원, 영업이익 21억3000만원을 기록했다고 14일 ...",
         "IT 업계의 중요한 변화와 트렌드"
       ],
       "insight": "이 뉴스는 IT 업계의 최신 동향을 보여주며, 기술 발전과 시장 변화에 대한 중요한 정보를 제공합니다."
