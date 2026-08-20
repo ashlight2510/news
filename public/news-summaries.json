@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-20T06:45:25.760Z",
+  "generatedAt": "2026-08-20T12:47:48.784Z",
   "articles": [
+    {
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 20 Aug 2026 12:43:19 +0000",
+      "description": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "language": "en",
+      "summary": "The United States has identified hackers exploiting AI to target vulnerable Siemens controllers in water systems, raising concerns about potential disruinations.",
+      "points": [
+        "Hackers are targeting internet-connected Siemens controllers used in water facilities.",
+        "The US believes the attacks are aiding AI technology.",
+        "These cyber-attacks raise concerns about potential disruptions in water services."
+      ],
+      "insight": "The use of AI in cyber-attacks against critical infrastructure systems like water facilities represents a significant threat to national security and underscores the need for advanced cyber defenses in the IT/technology industry."
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 20 Aug 2026 12:11:57 +0000",
+      "description": "Meta said its Muse Spark model is powering the dictation feature.",
+      "language": "en",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature",
+      "points": [
+        "Meta said its Muse Spark model is powering the dictation feature",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 20 Aug 2026 09:30:00 +0000",
+      "description": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "language": "en",
+      "summary": "Binance has introduced an AI-driven trading platform called Agent OS that utilizes tools like ChatGPT and Claude Code. Users have the primary responsibility to monitor and manage the trading activities of these AI agents.",
+      "points": [
+        "Binance's Agent OS integrates tools such as ChatGPT and Claude Code to facilitate AI-driven trading.",
+        "Users are responsible for overseeing and controlling their AI agents' trades on Binance' extranet.",
+        "Binance has recently announced a partnership with Microsoft to enhance their AI capabilities."
+      ],
+      "insight": "Binance's Agent OS empowers users to incorporate AI into their trading strategies, but emphasizes that users should stay informed and vigilant to ensure responsible trading practices."
+    },
     {
       "title": "유락, 엔비디아 ‘엔업’ 선정... “온디바이스 AI 포렌식 기술 선도”",
       "link": "http://www.boannews.com/media/view.asp?idx=145216&kind=&sub_kind=",
@@ -705,51 +750,6 @@
         "The offer for discounted passes is valid until August 21."
       ],
       "insight": "This discounted offer highlights the importance of early registration for major tech conferences, which can lead to significant savings for attendees and ensures a spot in the packed program."
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "language": "en",
-      "summary": "Jane Street installed Etched's AI cluster system and was impressed, resulting in a significant funding round. Etched'through this deal, has doubled its valuation within a month.",
-      "points": [
-        "Jane Street has installed Etched's first shipped AI cluster system",
-        "The installation led to a massive funding round",
-        "Etched's valuation has doubled to $21 billion within a month"
-      ],
-      "insight": "This news highlights the growing importance of AI technology in the finance industry and the potential for rapid growth and high valuations in this sector."
-    },
-    {
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 18 Aug 2026 17:12:13 +0000",
-      "description": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "language": "en",
-      "summary": "Apple has simplified its EU App Store fees by adopting a 5% commission model for apps distributed outside its platform, and is relaxing rules to facilitate alternative app stores.",
-      "points": [
-        "Apple has replaced the per-install fee with a 5% commission for apps distributed outside the App Store in the EU.",
-        "The changes include making it easier for developers to operate alternative app marketplaces.",
-        "Apple is simplifying its policies regarding alternative app stores and alternative payment methods."
-      ],
-      "insight": "The changes suggest Apple is trying to be more accommodating to developers and increase competition in the app distribution market, which could lead to greater innovation and more choices for consumers in the EU."
-    },
-    {
-      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-      "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 18 Aug 2026 16:39:05 +0000",
-      "description": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
-      "language": "en",
-      "summary": "Comcast has introduced a motion sensing feature in its latest routers, which can detect movement inside homes without external sensors. However, this raises privacy concerns.",
-      "points": [
-        "Comcast has added a motion sensing feature to its newer routers, enabling them to detect movement inside homes without traditional motion sensors.",
-        "This feature could potentially be used to gather data on customer habits without their explicit consent.",
-        "Comcast has assured that the data will not be used for advertising purposes, but privacy advocates remain skeptical."
-      ],
-      "insight": "The introduction of motion sensing in routers by Comcast raises significant privacy concerns in the IT/technology industry, potentially changing how internet service providers collect and use data."
     }
   ]
 }
