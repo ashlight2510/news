@@ -1,6 +1,306 @@
 {
-  "generatedAt": "2026-08-26T12:51:19.713Z",
+  "generatedAt": "2026-08-26T20:00:38.880Z",
   "articles": [
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "description": "Consumer AI apps need to stop making users learn their product architecture.",
+      "language": "en",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture",
+      "points": [
+        "Consumer AI apps need to stop making users learn their product architecture",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 19:34:04 +0000",
+      "description": "Was Greg Brockman the right executive all along?",
+      "language": "en",
+      "summary": "The article discusses the reasons behind the mass departure of top executives from OpenAI, questioning whether Greg Brockman, the former CEO, was the correct choice for the tech giant.",
+      "points": [
+        "The mass resignation of OpenAI's top executives has raised questions about the company' enduring leadership strategy.",
+        "The departure of Greg Brockman, the former CEO, has led to speculation about his effectiveness in the role and the potential impact on OpenAI's direction.",
+        "The exodus has occurred in the backdrop of the broader tech industry's struggle to balance rapid innovation with ethical considerations and potential societal impact."
+      ],
+      "insight": "The OpenAI executive exodus indicates a growing concern within the technology industry about the balance between rapid innovation and the ethical implications of AI technologies. This may suggest a need for more accountable and transparent leadership in tech companies."
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 19:05:22 +0000",
+      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "language": "en",
+      "summary": "OpenAI's official report details several cybersecurity compromises associated with the Hugging Face breach, offering the most comprehensive account to date.",
+      "points": [
+        "The Hugging Face breach consisted of multiple cybersecurity incidents, the first involving unautstatic access to source code repositories.",
+        "The second incident detailed in the report involved unauthorized access and potential data theft from cloud storage platforms used by the company.",
+        "The third and most concerning aspect of the breach involved the compromise of machine learning models and proprietary algorithms."
+      ],
+      "insight": "The Hugging Face breach highlights the importance of securing machine learning models and proprietary algorithms, as well as the need for heightened security measures in cloud storage platforms."
+    },
+    {
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 18:35:40 +0000",
+      "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "language": "en",
+      "summary": "Flipboard has acquired Graze, a startup focused on monetizing the open social web through feed-building and creator monetization tools. The acquisition will expand Flipboard' extranet ecosystem and integrate privacy-friendly ad technology.",
+      "points": [
+        "Flipboard has acquired Graze, a startup focused on monetizing the open social web through feed-building and creator monetization tools.",
+        "The acquisition is part of Flipboard's strategy to expand its open social web ecosystem and integrate privacy-friendly ad technology.",
+        "Graze's technology and tools will benefit Flipboard's content creators and help in the growth of the open social web."
+      ],
+      "insight": "The acquisition of Graze by Flipboard represents a significant development in the open social web ecosystem, as it integrates privacy-friendly ad technology and creator monetization tools, which could potentially drive growth and investment in the sector."
+    },
+    {
+      "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+      "link": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 18:23:09 +0000",
+      "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
+      "language": "en",
+      "summary": "Boston Scientific reports a cyberattack causing global operational disruption, with unconfirmed impacts on medical devices and customer data.",
+      "points": [
+        "Boston Scientific is experiencing a global disruption in operations due to a cyberattack.",
+        "The company has not confirmed if medical devices are impacted.",
+        "It is unclear if any customer data was exfiltrated during the cyberattack."
+      ],
+      "insight": "This incident highlights the vulnerabilities in the medical device industry and the importance of robust cybersecurity measures to protect sensitive data and ensure continuity of critical healthcare services."
+    },
+    {
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 17:01:05 +0000",
+      "description": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+      "language": "en",
+      "summary": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.in.government departments, including NASA, the Justice Department, and the Senate.",
+      "points": [
+        "The FBI has seized domains associated with a Chinese-backed botnet that allowed hackers to breach several U.S. government departments.",
+        "The hackers used the botnet to target NASA, the Justice Department, and the Senate, among other government entities.",
+        "The breach highlights the vulnerability of government agencies to foreign cyber threats."
+      ],
+      "insight": "This news underscores the ongoing threat of foreign cyber actors targeting government agencies and the need for robust cybersecurity measures and international cooperation."
+    },
+    {
+      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+      "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 17:00:00 +0000",
+      "description": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-founder, told TechCrunch — women’s health, […]",
+      "language": "en",
+      "summary": "Capital F, an all-female-led VC firm, has closed its debut fund with $17 million to invest in companies targeting the 'female economy.' The firm focuses on markets influenced by women, particularly in health, which could reshape investment trends in the tech industry.",
+      "points": [
+        "Capital F, led by all women, has raised $17 million in its debut fund.",
+        "The firm targets investments in the 'female economy,' which is driven by women's demands.",
+        "Investments focus on women's health, personal finance, and family-centric technology."
+      ],
+      "insight": "Capital F's investment approach may inspire other VCs to consider gender-specific market dynamics, potentially leading to more inclusive investment strategies within the tech industry."
+    },
+    {
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 16:53:07 +0000",
+      "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
+      "language": "en",
+      "summary": "Apple is set to announce its next-generinh generation iPhone at the upcoming September 9 event, where it is widely anticipated to unveil a foldable iPhone. The event marks a significant shift in leadership as John Ternus takes over as CEO from Tim Cook.",
+      "points": [
+        "Apple's September 9 event is expected to reveal a foldable iPhone.",
+        "John Ternus will become the new CEO of Apple, succeeding Tim Cook.",
+        "The foldable iPhone is anticipated to be a significant technological advancement."
+      ],
+      "insight": "The introduction of a foldable iPhone could revolutionize the mobile industry by offering a new level of portability and screen size. The change in leadership to John Ternus may bring fresh perspectives and strategies to the company."
+    },
+    {
+      "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+      "link": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 16:03:14 +0000",
+      "description": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+      "language": "en",
+      "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 16:00:00 +0000",
+      "description": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis is joined by Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe’s startup […]",
+      "language": "en",
+      "summary": "Sweden's startup scene, led by companies like Lovable, Legora, and Neko Health, is experiencing a significant boom, raising substantial capital at high valuations.",
+      "points": [
+        "Lovable, a Vibe-coding darling, raised $400 million at a valuation of $13.3 billion, doubling its worth in eight months.",
+        "Legora, a legal AI company, is among the high-valued startups in Sweden, alongside health tech startup Neko Health.",
+        "European investors continue to pour significant capital into Swedish startups, signaling strong confidence in the region's technology sector."
+      ],
+      "insight": "This trend highlights the growing confidence in Swedish tech companies and could indicate a shift in global startup investment towards Europe."
+    },
+    {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 15:47:28 +0000",
+      "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "language": "en",
+      "summary": "Particle has unveiled a new podcast intelligence platform that transcribes and analyzes over 130,000 podcasts, making their content searchable online and accessible for AI agents. The platform, Radar, offers transcriptions, analysis, and APIs, enhancing podcast discoverability and interaction with AI.",
+      "points": [
+        "Particle has developed a podcast intelligence platform called Radar, which transcribes and analyzes over 130,000 podcasts, making them searchable online.",
+        "The Radar platform provides APIs and MCPs (Media Conversion Packages) to access transcribed content for AI agents.",
+        "Radar's capabilities aim to enhance podcast discoverability and interaction with AI."
+      ],
+      "insight": "Radar is transforming the podcast industry by making podcast content accessible to AI agents, thereby creating new opportunities for personalized content delivery and intelligent search capabilities."
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 15:00:00 +0000",
+      "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "language": "en",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence",
+      "points": [
+        "Perceptron offers an AI model that it says can help machines navigate the world while also providing...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
+      "link": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 14:44:33 +0000",
+      "description": "Ring says users can still opt for end-to-end encryption.",
+      "language": "en",
+      "summary": "Ring has introduced a new encryption standard for its cloud features, which is now the default setting, though users can still choose end-to end encryption. The company aims to balance user privacy with accessibility for law enforcement.",
+      "points": [
+        "Ring is introducing a new encryption standard for its cloud features as the default.",
+        "Users have the option to opt for end-to-end encryption.",
+        "Ring's goal is to balance user privacy with law enforcement accessibility."
+      ],
+      "insight": "This development by Ring reflects the ongoing debate in the IT industry regarding user privacy and the demand for a more accessible approach for law enforcement, without compromising encryption."
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 14:37:01 +0000",
+      "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "language": "en",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before",
+      "points": [
+        "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "link": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 14:31:05 +0000",
+      "description": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
+      "language": "en",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that over 1 end in the US have been targeted by suspected Iran-backed cyberattacks, mainly aimed at critical water systems.",
+      "points": [
+        "Over 100 US water systems targeted in July by suspected Iran-backed cyberattacks",
+        "Critical infrastructure including water systems are potential targets",
+        "Federal cyber agency confirms attacks amid a wave of suspicions"
+      ],
+      "insight": "The confirmation of these attacks highlights the vulnerability of critical infrastructure to international cyber threats and underscores the need for robust cybersecurity measures in the IT/technology industry."
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 14:19:29 +0000",
+      "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "language": "en",
+      "summary": "Z.ai, a lesser-known AI lab, has revealed itself as the creator of the highly successful Ox Alpha AI model, which is currently outperforming major AI competitors. The lab's weights are set to be released soon, adding to the model'static significance.",
+      "points": [
+        "Z.ai, previously unrecognized, is behind the top-performing Ox Alpha AI model.",
+        "The Ox Alpha model's success is attributed to its advanced architecture and the team's innovative approach.",
+        "The release of Ox Alpha's weights is anticipated to further enhance its capabilities and influence in the AI field."
+      ],
+      "insight": "The release of Ox Alpha's weights by Z.ai could potentially shift the competitive landscape in AI development, as it may provide a roadmap for other labs and developers to improve their AI models."
+    },
+    {
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 13:43:01 +0000",
+      "description": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
+      "language": "en",
+      "summary": "The lawsuit against Meta claims that the social media giant knowingly created addictive platforms for children, causing harm despite awareness of these dangers.",
+      "points": [
+        "Meta is facing a lawsuit for allegedly designing addictive social media platforms.",
+        "The lawsuit highlights Meta's knowledge of potential harms to children on their platforms.",
+        "The lawsuit demands $18 billion in penalties from Meta."
+      ],
+      "insight": "This lawsuit could signal a shift towards greater accountability for social media companies in protecting children's online experiences and well-being."
+    },
+    {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 13:30:00 +0000",
+      "description": "Robot bodies are waiting for their AI brains to catch up.",
+      "language": "en",
+      "summary": "Robot bodies are waiting for their AI brains to catch up",
+      "points": [
+        "Robot bodies are waiting for their AI brains to catch up",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Bluesky now lets you upload 10-minute long videos",
+      "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 13:12:36 +0000",
+      "description": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
+      "language": "en",
+      "summary": "Bluesky has introduced support for uploading 1in 10-minute long videos, offering faster upload speeds and an all-in-one solution for video-related needs. This update provides a comprehensive platform for content creators who want to focus on content rather than technical aspects.",
+      "points": [
+        "Bluesky now allows uploading videos up to 10 minutes long.",
+        "Faster upload speeds with Bluesky's new support for long videos.",
+        "All-in-one solution for content creation, editing, and publishing."
+      ],
+      "insight": "The introduction of longer video upload capabilities by Bluesky demonstrates the growing demands of content creators who need to share more extensive content while maintaining control over the technical aspects of production, which is likely to influence competitor offerings in the IT/technology industry."
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "language": "en",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent",
+      "points": [
+        "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecu...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
@@ -446,306 +746,6 @@
       "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product",
       "points": [
         "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 03:30:00 +0000",
-      "description": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
-      "language": "en",
-      "summary": "India-based Airbound has received $37 million in funding to develop rocket-like drones for quick delivery of airborne packages. The company has attracted investors such as DoorDash and Lachy Groom, and they plan to start commercial operations soon.",
-      "points": [
-        "Airbound has received $37 million in funding to develop rocket-like drones for delivery.",
-        "The company has attracted investors from Greenoaks, DoorDash, and Silicon Valley.",
-        "Airbound plans to start commercial operations soon."
-      ],
-      "insight": "This funding round signifies growing confidence in the drone delivery industry and the potential of Airbound's technology to disrupt traditional delivery methods. The involvement of high-profile investors further emphasizes the industry's potential for growth and innovation."
-    },
-    {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "language": "en",
-      "summary": "The AI hedge fund, Situational Awareness, was once a hot topic on Wall Street but quickly became the focus of a federal investigation by the SEC after it nearly collapsed. The firm is now under federal scrutiny.",
-      "points": [
-        "Situational Awareness, a star AI hedge fund, nearly imploded after a massive pull-out of funds.",
-        "The SEC has issued subpoenas to the firm and its founder, Peter Thiel, who is also a venture capitalist.",
-        "The investigation is said to be looking into the fund' endowment and how the money was invested."
-      ],
-      "insight": "This incident highlights the potential risks and lack of oversight in the fast-growing AI hedge fund industry. It serves as a warning to other firms to exercise due diligence and proper risk management practices."
-    },
-    {
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 23:05:44 +0000",
-      "description": "We all knew it was coming. The expected valuation may surprise, though.",
-      "language": "en",
-      "summary": "We all knew it was coming. The expected valuation may surprise, though",
-      "points": [
-        "We all knew it was coming",
-        "The expected valuation may surprise, though",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 21:24:17 +0000",
-      "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "language": "en",
-      "summary": "President Trump purchased shares of SpaceX shortly after its highly successful initial public offering (IPO). SpaceX's stock price returned to its IPO level after the president' endorsement.",
-      "points": [
-        "President Trump invested in SpaceX shortly after its IPO.",
-        "SpaceX's stock price reverted to its IPO value following the purchase.",
-        "The president's investment came after the stock reached the mid-$150 range."
-      ],
-      "insight": "The president's purchase of SpaceX shares signals confidence in the company's potential and may influence public and market sentiment towards technology investments."
-    },
-    {
-      "title": "Zillow and Redfin settle FTC antitrust case",
-      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 20:45:33 +0000",
-      "description": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-      "language": "en",
-      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business",
-      "points": [
-        "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental adv...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 20:16:34 +0000",
-      "description": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
-      "language": "en",
-      "summary": "TechCrunch Disrupt 2curse invites startups to exhibit and potentially attract investors and partners, offering exhibit slots until they fill up.",
-      "points": [
-        "TechCrunch Disrupt 2026 will run from October 13-15 in New York.",
-        "Startups with limited exhibit space urged to act quickly.",
-        "Potential for significant investment and partnership opportunities."
-      ],
-      "insight": "The limited exhibit space at TechCrunch Disrupt 2026 underscores the competitive nature of the tech industry and the importance of startups actively seeking investment and partnerships."
-    },
-    {
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 19:58:17 +0000",
-      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
-      "language": "en",
-      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 19:54:50 +0000",
-      "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
-      "language": "en",
-      "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers",
-      "points": [
-        "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being f...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 19:54:19 +0000",
-      "description": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "language": "en",
-      "summary": "At TechCrunch Disrupt 2 end, Replit CEO Amjad Masad is expected to discuss the future of programming and the role of Replit in shaping it.",
-      "points": [
-        "Amjad Masad, CEO and co-founder of Replit, will be speaking at TechCrunch Disrupt 2026.",
-        "The focus of Masad's talk will be on the future of programming.",
-        "Replit's role in developing the future of programming will be a key part of the discussion."
-      ],
-      "insight": "Amjad Masad's participation in TechCrunch Disrupt 2026 indicates Replit's commitment to influencing the future of programming, which could impact the way programmers learn and develop new skills."
-    },
-    {
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 19:44:13 +0000",
-      "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "language": "en",
-      "summary": "TechCrunch Disrupt invites applications for hosting a Side Event until September 4. It's an opportunity for individuals or companies to present their ideas in a one-day event.",
-      "points": [
-        "TechCrunch Disrupt'inspired Side Event application process",
-        "Hosting a Side Event at TechCrunch Disrupt",
-        "Exposure and networking opportunities at the Side Event"
-      ],
-      "insight": "This initiative by TechCrunch Disrupt provides a platform for innovators and industry professionals to showcase their ideas, fostering collaboration and potential partnerships within the IT community."
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 18:03:55 +0000",
-      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
-      "language": "en",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "language": "en",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "OpenAI is building AI agents for everything. Will everyone use them",
-      "points": [
-        "OpenAI is building AI agents for everything",
-        "Will everyone use them",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Brake problems in GM EVs draw greater federal scrutiny",
-      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 14:18:47 +0000",
-      "description": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-      "language": "en",
-      "summary": "GM EVs, including the 2024 Blazer, are drawing federal scrutinization due to reported brake issues, leading to dangerous driving behaviors in some incidents.",
-      "points": [
-        "The 2024 Blazer EV driver faced brake failure, resorting to steering into a curb to avoid a severe crash.",
-        "Government investigations are intensifying into GM EVs, with a focus on brake performance.",
-        "The issues with GM EVs' braking systems have led to dangerous driving techniques as a workaround."
-      ],
-      "insight": "This news underscores the importance of reliable braking systems in electric vehicles and the potential risks associated with their failure. It could lead to stricter safety regulations and testing protocols in the EV industry."
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "language": "en",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen",
-      "points": [
-        "Hugging Face has reportedly been fielding acquisition offers that would value the company at around ...",
-        "But with the founders' feeling of responsibility to community, doubts arise as to whether a sale wil...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 24 Aug 2026 13:45:15 +0000",
-      "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-      "language": "en",
-      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity",
-      "points": [
-        "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the n...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "language": "en",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation",
-      "points": [
-        "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy o...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 23 Aug 2026 19:30:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "points": [
-        "Uber faces fine of nearly $1B over automated driver suspensions",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "language": "en",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool",
-      "points": [
-        "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, includin...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 23 Aug 2026 16:03:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "language": "en",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation",
-      "points": [
-        "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transp...",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
