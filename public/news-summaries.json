@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-08-26T20:00:38.880Z",
+  "generatedAt": "2026-08-27T07:25:11.612Z",
   "articles": [
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "language": "en",
+      "summary": "Nvidia is set to acquire Hugging Face, a widely used open-source AI platform, for $12.9 billion. This deal aims to enhance Nvidia'CTs chip business and re-enter the cloud service sector.",
+      "points": [
+        "Nvidia's acquisition of Hugging Face for $12.9 billion",
+        "Hugging Face is an open-source AI hub",
+        "The deal signifies Nvidia's push to bolster its chip business and expand into the cloud market"
+      ],
+      "insight": "The acquisition of Hugging Face by Nvidia signals a strategic move to integrate AI capabilities within its core chip business and strengthen its presence in the expanding cloud services industry."
+    },
+    {
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 27 Aug 2026 00:24:57 +0000",
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "language": "en",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns",
+      "points": [
+        "The startup is only a year old but it has already generated a massive amount of hype (and money) whi...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 23:47:18 +0000",
+      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "language": "en",
+      "summary": "Amazon has extended its partnership with Nvidia by ordering an additional 2 million GPU chips over the next two years to meet the company's surging demand. The deal will also see Amazon's involvement in the design of future chips.",
+      "points": [
+        "Amazon has ordered an additional 2 million Nvidia GPU chips over two years.",
+        "The deal also involves Amazon in the design of future Nvidia chips.",
+        "The partnership is set to add 2 million GPU chips to Amazon's data centers in the next two years."
+      ],
+      "insight": "This deal reflects Amazon's increasing reliance on AI and machine learning technologies, and highlights Nvidia's pivotal role in driving advancements in these areas for major tech companies."
+    },
+    {
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 22:47:58 +0000",
+      "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "language": "en",
+      "summary": "Meta is entering a significant $18 billion settlement over privacy concerns related to age verification technology. The deal underscCTs the difficulties with implementing such technology effectively.",
+      "points": [
+        "Meta's $18 billion privacy settlement focuses on age verification concerns.",
+        "The deal highlights the technology's challenges in protecting privacy.",
+        "This case may set precedents for future age verification technology deployments."
+      ],
+      "insight": "This deal brings to light the balance that must be struck between implementing age verification technologies and safeguarding privacy, which may affect the industry's approach to deploying such solutions."
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000",
+      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "language": "en",
+      "summary": "Anthropic signed a $45 billion deal with infrastructure provider Nscale, marking their latest example of a compute-gobbling streak. The partnership will provide the necessary computing power for Anthropic' extramural research.",
+      "points": [
+        "Anthropic has signed a $45 billion deal with Nscale",
+        "The deal will provide computing power for Anthropic's extramural research",
+        "The partnership is the latest example of Anthropic's compute-gobbling streak"
+      ],
+      "insight": "This partnership highlights Anthropic's ambition to scale its extramural research efforts, which could lead to significant advancements in AI research and development. The deal also demonstrates the increasing reliance of AI research organizations on infrastructure providers to support their large-scale computing needs."
+    },
     {
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
       "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
@@ -675,81 +750,6 @@
         "WhatsApp has added a new feature that lets users verify the identity of their contacts."
       ],
       "insight": "The update indicates WhatsApp's commitment to enhancing security and user privacy, which may set a new standard for other communication platforms."
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "language": "en",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents",
-      "points": [
-        "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Uber launches live video streaming for teen accounts",
-      "link": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "description": "Uber said no one will be able to access the video once the ride ends.",
-      "language": "en",
-      "summary": "Uber said no one will be able to access the video once the ride ends",
-      "points": [
-        "Uber said no one will be able to access the video once the ride ends",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-      "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 12:37:37 +0000",
-      "description": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
-      "language": "en",
-      "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs",
-      "points": [
-        "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "description": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
-      "language": "en",
-      "summary": "Fitbit founders have introduced Luffu Link, a standalone health and safety device that eliminates the need for a phone to access its features.",
-      "points": [
-        "Luffu Link integrates health sensing, voice logging, location awareness, and emergency help features.",
-        "Luffu Link operates independently of a phone.",
-        "Luffu Link has been designed with privacy in mind, not collecting personal data."
-      ],
-      "insight": "The launch of Luffu Link represents a shift towards more standalone, privacy-focused health technology that operates independently of a smartphone."
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "language": "en",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product",
-      "points": [
-        "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
