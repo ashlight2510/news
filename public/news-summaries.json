@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-28T22:12:39.449Z",
+  "generatedAt": "2026-08-29T05:44:38.942Z",
   "articles": [
+    {
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 28 Aug 2026 23:24:27 +0000",
+      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "language": "en",
+      "summary": "Chinese automakers are investing in humanoid robots, hoping to profit from them like Tesla did with electric cars. This follows Tesla'nerves', a startup that became the first company to sell a robot.",
+      "points": [
+        "Chinese automakers are investing in humanoid robots.",
+        "The automakers are banking on profit from robots similar to Tesla's success with electric cars.",
+        "Tesla'nerves, a robot startup, became the first company to sell a robot."
+      ],
+      "insight": "Chinese automakers' investment in humanoid robots indicates a growing confidence in the commercial viability of robotics in the automotive industry, which could revolutionize the sector in the coming years."
+    },
+    {
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 28 Aug 2026 22:42:48 +0000",
+      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "language": "en",
+      "summary": "The article discusses XREAL's smart glasses as a potential future technology for home entertainment, particularly for watching movies. The concept is still in development, and the glasses are designed to provide a unique viewing experience similar to a TV, but through a pair of sunglasses.",
+      "points": [
+        "XREAL' extralarge sunglasses are being developed as a form of home entertainment, allowing users to watch movies without traditional screens.",
+        "The glasses employ technology to render movie content on a transparent surface, which users can view while wearing sunglasses.",
+        "The project is still in the development phase, but it could revolutionize the way we consume media at home."
+      ],
+      "insight": "If successful, XREAL's smart glasses could offer a discreet and immersive way to enjoy movies, potentially disrupting traditional home entertainment setups."
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -720,36 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 26 Aug 2026 16:00:00 +0000",
-      "description": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis is joined by Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe’s startup […]",
-      "language": "en",
-      "summary": "Sweden's startup scene, led by companies like Lovable, Legora, and Neko Health, is experiencing a significant boom, raising substantial capital at high valuations.",
-      "points": [
-        "Lovable, a Vibe-coding darling, raised $400 million at a valuation of $13.3 billion, doubling its worth in eight months.",
-        "Legora, a legal AI company, is among the high-valued startups in Sweden, alongside health tech startup Neko Health.",
-        "European investors continue to pour significant capital into Swedish startups, signaling strong confidence in the region's technology sector."
-      ],
-      "insight": "This trend highlights the growing confidence in Swedish tech companies and could indicate a shift in global startup investment towards Europe."
-    },
-    {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 26 Aug 2026 15:47:28 +0000",
-      "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "language": "en",
-      "summary": "Particle has unveiled a new podcast intelligence platform that transcribes and analyzes over 130,000 podcasts, making their content searchable online and accessible for AI agents. The platform, Radar, offers transcriptions, analysis, and APIs, enhancing podcast discoverability and interaction with AI.",
-      "points": [
-        "Particle has developed a podcast intelligence platform called Radar, which transcribes and analyzes over 130,000 podcasts, making them searchable online.",
-        "The Radar platform provides APIs and MCPs (Media Conversion Packages) to access transcribed content for AI agents.",
-        "Radar's capabilities aim to enhance podcast discoverability and interaction with AI."
-      ],
-      "insight": "Radar is transforming the podcast industry by making podcast content accessible to AI agents, thereby creating new opportunities for personalized content delivery and intelligent search capabilities."
     }
   ]
 }
