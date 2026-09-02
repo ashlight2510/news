@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-09-02T16:08:19.018Z",
+  "generatedAt": "2026-09-02T20:41:18.453Z",
   "articles": [
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "language": "en",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "MapQuest is now the No. 1 U.S. app after bucking Trump’s ‘Lake America’ renaming",
+      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 20:12:41 +0000",
+      "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+      "language": "en",
+      "summary": "MapQuest regained its leading position in the U.S. App Store after refusing to rename 'America' to 'Lake America' as part of President Trump's initiative, leading to a surge in downloads.",
+      "points": [
+        "MapQuest refused to rename 'America' to 'Lake America' under Trump's initiative.",
+        "MapQuest experienced a surge in downloads, accounting for more than half of the U.S. downloads by the end of six days.",
+        "Despite being dethroned, MapQuest regained its top spot in the U.S. App Store."
+      ],
+      "insight": "MapQuest's refusal to rename 'America' to 'Lake America' shows how consumer loyalty and opposition to political changes can significantly impact an app's downloads and ranking."
+    },
+    {
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 19:35:09 +0000",
+      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+      "language": "en",
+      "summary": "An identity theft search site, which claimed to have stolen over 150 million driver' end license photos, has shut down after exposing a major hacking incident targeting an ID verification service.",
+      "points": [
+        "An identity theft search site reportedly acquired more than 150 million driver's license photos.",
+        "The site is now inactive and shut down after revealing a large-scale hacking of an ID verification service.",
+        "The hackers' motives remain unclear, but the exposure of such a massive data breach raises significant security concerns."
+      ],
+      "insight": "The article highlights the severe implications of cybersecurity breaches within the IT/technology industry, underscoring the urgent need for robust data protection measures."
+    },
+    {
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 19:25:35 +0000",
+      "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+      "language": "en",
+      "summary": "Delivery Hero's board has shown support for Uber' extranodary takeover bid worth $15 billion, which, if approved, will create one of the world's largest food delivery platforms.",
+      "points": [
+        "Delivery Hero's board has expressed approval for Uber's $15 billion bid to acquire them.",
+        "The combined company post-merger would be one of the largest food delivery platforms globally.",
+        "This deal could reshape the food delivery market and influence competitors and regulatory approaches."
+      ],
+      "insight": "This potential merger underlines the growing consolidation in the food delivery sector and the strategic importance of scale and network effects in the industry."
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 17:18:13 +0000",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
+      "language": "en",
+      "summary": "Pangram'ser Max Spero discusses the challenges in detecting AI-generated content, which is increasingly found in various online platforms. The proliferation of AI-generated text and images poses a significant trust issue for the internet community.",
+      "points": [
+        "AI-generated content is pervasive across job applications, product reviews, and insurance claims.",
+        "Detecting AI-generated content is currently a difficult task, creating a trust issue.",
+        "The rise of AI-generated content is outpacing the development of detection methods."
+      ],
+      "insight": "The increasing presence of AI-generated content requires the IT industry to develop more advanced detection tools and methods to maintain trust and authenticity on the internet."
+    },
+    {
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 17:12:27 +0000",
+      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+      "language": "en",
+      "summary": "Creators in the US will see changes to their payouts as X replaces Stripe with its X Money payments service for processing payments. This transition may impact how and when creators receive their funds.",
+      "points": [
+        "X will take over U. end creator payouts from Stripe, signaling a shift to its X Money service.",
+        "The move raises questions about the speed and accessibility of payouts.",
+        "This change could affect creators' earnings and financial planning."
+      ],
+      "insight": "The transition to X Money may affect the efficiency of payouts to creators, potentially impacting their earnings and financial planning. It's important for creators to understand the terms and conditions of the new service."
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "points": [
+        "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 16:54:23 +0000",
+      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+      "language": "en",
+      "summary": "Google has purchased 400 MW of Enhanced Geothermal System (EGS) power, which could potentially expand to 1 gigawatt, catering to a large AI data center in Utah.",
+      "points": [
+        "Google's acquisition of 400 MW from Fervo's Enhanced Geothermal System (EGS) project.",
+        "Potential expansion of the deal to 1 gigawatt of geothermal power.",
+        "The acquired power would supply a large AI data center in Utah."
+      ],
+      "insight": "Google's investment in geothermal energy demonstrates a growing commitment to renewable energy sources for data center power needs, which could set a precedent for other tech companies in the future."
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "language": "en",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products",
+      "points": [
+        "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "language": "en",
+      "summary": "India's wealthiest individual, Mukesh Ambani, plans to upgrade outdated computers by converting them into AI-ready PCs at a minimal cost of approximately $11 per month for two months. Jio aims to democratize access to AI technology by leveraging their robust broadband infrastructure and smartphone penetration.",
+      "points": [
+        "Mukesh Ambani, India's richest man, announced Jio's plan to convert outdated computers into AI-ready PCs.",
+        "The service would cost roughly $11 per month for two months, which is significantly cheaper than current market prices for AI hardware.",
+        "Jio intends to leverage its existing infrastructure, such as the strong broadband connectivity and widespread smartphone ownership in India, to offer this service."
+      ],
+      "insight": "This news signifies a shift towards more affordable and accessible AI computing, potentially transforming the IT industry by making AI technology available to a broader audience and spurring innovation at a lower cost."
+    },
     {
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
@@ -600,156 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "language": "en",
-      "summary": "The Pentagon is integrating various AI models, including OpenAI's ChatGPT and SpaceXAI's Grok, into its AI tools portal. This includes the addition of Google's Gemini, which is an AI-driven search engine.",
-      "points": [
-        "The Pentagon has adopted OpenAI's ChatGPT and SpaceXAI's Grok for enhanced AI capabilities.",
-        "Google's AI-based search engine, Gemini, has been included in the Pentagon's AI tools portal.",
-        "These integrations signify a major shift towards advanced AI utilization within government institutions."
-      ],
-      "insight": "The Pentagon's adoption of AI models like ChatGPT and Grok demonstrates a growing trend of AI integration in government entities for improved efficiency and decision-making."
-    },
-    {
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 19:32:21 +0000",
-      "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "language": "en",
-      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event",
-      "points": [
-        "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side E...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 19:16:59 +0000",
-      "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "language": "en",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles",
-      "points": [
-        "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed ...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 19:02:06 +0000",
-      "description": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-      "language": "en",
-      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring",
-      "points": [
-        "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step clos...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Microsoft tests fix for latest hours-long Outlook outage",
-      "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 18:56:41 +0000",
-      "description": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
-      "language": "en",
-      "summary": "Microsoft is testing a fix for the recent hours-long Outlook outage, which caused email delays and failures.",
-      "points": [
-        "Microsoft is testing a fix for the recent Outlook issues.",
-        "The outage affected Microsoft's 1.6 billion users worldwide.",
-        "The issues were caused by a software bug."
-      ],
-      "insight": "The recent Outlook issues highlight the importance of robust software testing and bug prevention measures in the IT/technology industry."
-    },
-    {
-      "title": "Kalshi bans George Santos for life over State of the Union bets",
-      "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 18:53:41 +0000",
-      "description": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
-      "language": "en",
-      "summary": "George Santos, who made bets on the State of the Union address, faces a lifetime ban from the trading platform Kalshi after the company found evidence of manipulation. The case was previously settled with the CFTC.",
-      "points": [
-        "George Santos made bets on the State of the Union address.",
-        "Kalshi discovered manipulation and a conflict of interest in Santos' betting.",
-        "The Commodity Futures Trading Commission previously settled charges against Santos."
-      ],
-      "insight": "The Kalshi's strict rules and integrity-focused culture reflects a growing industry concern for preventing manipulation and conflicts of interest, which could set a precedent for future disciplinary actions."
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "language": "en",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-      "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 18:10:09 +0000",
-      "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-      "language": "en",
-      "summary": "Hackers have claimed to have stolen millions of patient records from healthcare giant McKesson, causing the company to report intermittent service degradation. The company, which supplies medicines and medical devices in the U.S., is taking measures to address the breach.",
-      "points": [
-        "Millions of patient records stolen from healthcare giant McKesson",
-        "Expected intermittent service degradation",
-        "Company addressing the breach"
-      ],
-      "insight": "This data breach at McKesson could lead to increased scrutiny and regulations for protecting patient data, potentially affecting the industry's approach to cybersecurity."
-    },
-    {
-      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-      "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 17:14:44 +0000",
-      "description": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
-      "language": "en",
-      "summary": "Ryan Breslow, founder of Bolt, is investing $5 million from his own funds into a pay-to-play bridge funding round to save the struggling startup.",
-      "points": [
-        "Ryan Breslow is investing $5 million into Bolt's pay-to-play bridge funding.",
-        "Bolt was once valued at $11 billion but is now in a precarious financial position.",
-        "The investment aims to rescue Bolt from impending collapse."
-      ],
-      "insight": "The news of Breslow's investment raises questions about the sustainability of Bolt's business model and the future of the pay-to-play industry."
-    },
-    {
-      "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
-      "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 31 Aug 2026 17:02:42 +0000",
-      "description": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware lines.",
-      "language": "en",
-      "summary": "Tim Cook highlighted John Ternus's key role in building Apple's product lines, including the iPhone, Mac, and AirPods. Cook's memo offers insight into how Ternus is viewed within the company and the direction he may influence.",
-      "points": [
-        "Tim Cook emphasized John Ternus's instrumental role in product development at Apple.",
-        "Cook's memo sheds light on Ternus's extensive experience and impact on various Apple hardware products.",
-        "The memo provides insight into the evolving leadership at Apple and the strategic direction moving forward."
-      ],
-      "insight": "Tim Cook's memo underscores the importance of product development expertise within Apple's leadership and hints at a focus on product innovation and development in the future of the company."
     }
   ]
 }
