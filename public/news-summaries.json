@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-06T20:02:22.973Z",
+  "generatedAt": "2026-09-07T03:00:05.679Z",
   "articles": [
+    {
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "language": "en",
+      "summary": "Phil Schiller has reportedly left Apple amid concerns regarding the company's future plans under new CEO John Ternus, particularly regarding the shift to more recurring revenue streams.",
+      "points": [
+        "Phil Schiller' end of tenure at Apple.",
+        "Schiller's reservations about new CEO John Ternus' business strategy.",
+        "Shift in Apple's revenue model towards recurring income."
+      ],
+      "insight": "This news could indicate a significant change in Apple's revenue approach and the company's relationship with its developers, potentially impacting the dynamics of the app ecosystem."
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "language": "en",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments",
+      "points": [
+        "Authors say publishers seem to be claiming more than their fair share of settlement payments",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -720,36 +750,6 @@
         "This deal could reshape the food delivery market and influence competitors and regulatory approaches."
       ],
       "insight": "This potential merger underlines the growing consolidation in the food delivery sector and the strategic importance of scale and network effects in the industry."
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
-      "language": "en",
-      "summary": "Pangram'ser Max Spero discusses the challenges in detecting AI-generated content, which is increasingly found in various online platforms. The proliferation of AI-generated text and images poses a significant trust issue for the internet community.",
-      "points": [
-        "AI-generated content is pervasive across job applications, product reviews, and insurance claims.",
-        "Detecting AI-generated content is currently a difficult task, creating a trust issue.",
-        "The rise of AI-generated content is outpacing the development of detection methods."
-      ],
-      "insight": "The increasing presence of AI-generated content requires the IT industry to develop more advanced detection tools and methods to maintain trust and authenticity on the internet."
-    },
-    {
-      "title": "X shifts US creator payouts from Stripe to X Money",
-      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 02 Sep 2026 17:12:27 +0000",
-      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "language": "en",
-      "summary": "Creators in the US will see changes to their payouts as X replaces Stripe with its X Money payments service for processing payments. This transition may impact how and when creators receive their funds.",
-      "points": [
-        "X will take over U. end creator payouts from Stripe, signaling a shift to its X Money service.",
-        "The move raises questions about the speed and accessibility of payouts.",
-        "This change could affect creators' earnings and financial planning."
-      ],
-      "insight": "The transition to X Money may affect the efficiency of payouts to creators, potentially impacting their earnings and financial planning. It's important for creators to understand the terms and conditions of the new service."
     }
   ]
 }
