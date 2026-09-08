@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T21:15:39.371Z",
+  "generatedAt": "2026-09-08T03:09:42.156Z",
   "articles": [
+    {
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 08 Sep 2026 02:16:39 +0000",
+      "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+      "language": "en",
+      "summary": "Eric Wu's new company, NavigateAI, has developed AI copilots to provide hands-free guidance to construction workers, addressing the severe labor shortage in the industry, with significant backing from various venture capital firms.",
+      "points": [
+        "NavigateAI, founded by Eric Wu, has created AI copilots that deliver real-time, hands-free guidance to construction workers.",
+        "The company has raised $25 million in funding from Elad Gil, Khosla Ventures, and Lennar.",
+        "The hands-free guidance AI aims to alleviate the labor crunch, especially in data center projects requiring 4,000 to 5,000 workers each."
+      ],
+      "insight": "NavigateAI's AI copilots could be a significant advancement in mitigating labor shortages within the construction industry, particularly for complex projects like data centers, and may set a precedent for AI integration in various sectors."
+    },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -735,21 +750,6 @@
         "The ruling aims to benefit competitors and increase market competition."
       ],
       "insight": "The ruling could lead to a more competitive market and benefits for other tech companies in the industry."
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "language": "en",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
