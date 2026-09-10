@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-09-09T20:43:52.341Z",
+  "generatedAt": "2026-09-10T03:18:47.506Z",
   "articles": [
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 10 Sep 2026 00:00:37 +0000",
+      "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "language": "en",
+      "summary": "AI research startup Listen Labs has scrapped a $1 endorsement from Menlo Ventures, as the company enters negotiations with Salesforce. The deal is expected to value Listen Labs at $1.5 billion.",
+      "points": [
+        "Listen Labs has abandoned a Series C term sheet from Menlo Ventures.",
+        "Listen Labs is negotiating a deal with Salesforce, with potential funding up to $1.5 billion.",
+        "The deal would value Listen Labs at $1.5 billion."
+      ],
+      "insight": "This deal signifies a significant investment in AI research startups and highlights the growing interest and confidence in AI technologies from major corporations like Salesforce."
+    },
+    {
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 09 Sep 2026 23:14:29 +0000",
+      "description": "Mullenweg said in a company Slack message that it was against his will.",
+      "language": "en",
+      "summary": "Automattic's board has mandated CEO Matt Mullenweg to take a leave of absence, a decision he reportedly opposed. The company did not immediately disclose reasons for the move.",
+      "points": [
+        "Matt Mullenweg, CEO of Automattic, has been forced to take a leave of absence by the company'selfood.",
+        "Mullenweg stated the decision was against his will, as per a company Slack message.",
+        "Automattic did not provide immediate reasons for the leave of absence."
+      ],
+      "insight": "This unexpected leadership change at Automattic could signal internal issues or strategic realignment, which could have implications for employee morale and the company's operational stability."
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "language": "en",
+      "summary": "Paul Christiano, known for his work in AI alignment, has been appointed to the board of directors at OpenAI. His appointment comes amidst concerns about the long-term impact of advanced AI on society.",
+      "points": [
+        "Paul Christiano, an AI researcher focused on alignment, joins OpenAI' endorsement of board members.",
+        "Christiano's appointment is made amidst concerns over AI's societal impact.",
+        "OpenAI Foundation's board expansion signifies the growing influence and governance of AI technology."
+      ],
+      "insight": "Christiano's expertise in AI alignment brings a necessary perspective to OpenAI's governance, addressing ethical and societal challenges of AI deployment. His role may signify the industry's growing awareness of these issues."
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "language": "en",
+      "summary": "Massachusetts has imposed new restrictions on data center development to promote clean power use, following similar legislation in other states. The rules, set to take effect from 2025, mandate that at least 50% of data centers' energy must come from renewable sources.",
+      "points": [
+        "Massachusetts introduces restrictions for data centers to increase clean power usage.",
+        "Legislation requires 50% of data center energy to be renewable from 2ner 2025.",
+        "Similar laws have been passed in other states, reflecting a nationwide trend."
+      ],
+      "insight": "The new Massachusetts rules reflect a growing trend in the US and globally to ensure data centers reduce their carbon footprint through renewable energy usage, which may influence future regulations and industry standards."
+    },
+    {
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 09 Sep 2026 20:58:09 +0000",
+      "description": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "language": "en",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere",
+      "points": [
+        "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -675,81 +750,6 @@
         "The hands-free guidance AI aims to alleviate the labor crunch, especially in data center projects requiring 4,000 to 5,000 workers each."
       ],
       "insight": "NavigateAI's AI copilots could be a significant advancement in mitigating labor shortages within the construction industry, particularly for complex projects like data centers, and may set a precedent for AI integration in various sectors."
-    },
-    {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "language": "en",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter",
-      "points": [
-        "The rise of AI has brought an avalanche of new terms and slang",
-        "Here is a glossary with definitions of some of the most important words and phrases you might encoun...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 07 Sep 2026 18:02:29 +0000",
-      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-      "language": "en",
-      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "What we expect from the upcoming Apple launch",
-      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 07 Sep 2026 15:58:00 +0000",
-      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-      "language": "en",
-      "summary": "The article discusses the expectations from Apple'suptcoming launch, which is expected to feature the foldable iPhone Ultra, along with updates on AirPods and HomePods.",
-      "points": [
-        "Apple's foldable iPhone Ultra is set to be the highlight of the upcoming launch.",
-        "Additional announcements regarding AirPods and HomePods are anticipated.",
-        "The launch could signal Apple's direction in terms of innovation and product expansion."
-      ],
-      "insight": "The release of the foldable iPhone Ultra could indicate Apple's commitment to expanding its product line, potentially setting a new standard for foldable smartphones within the industry."
-    },
-    {
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 06 Sep 2026 21:41:06 +0000",
-      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "language": "en",
-      "summary": "Phil Schiller has reportedly left Apple amid concerns regarding the company's future plans under new CEO John Ternus, particularly regarding the shift to more recurring revenue streams.",
-      "points": [
-        "Phil Schiller' end of tenure at Apple.",
-        "Schiller's reservations about new CEO John Ternus' business strategy.",
-        "Shift in Apple's revenue model towards recurring income."
-      ],
-      "insight": "This news could indicate a significant change in Apple's revenue approach and the company's relationship with its developers, potentially impacting the dynamics of the app ecosystem."
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "language": "en",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments",
-      "points": [
-        "Authors say publishers seem to be claiming more than their fair share of settlement payments",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
