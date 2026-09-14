@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-09-14T18:02:58.983Z",
+  "generatedAt": "2026-09-14T21:34:58.744Z",
   "articles": [
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "language": "en",
+      "summary": "OpenAI has acquired Glass Imaging, a smartphone camera technology company, for $30 endowment, with Glass Imaging's founders being former Apple engineers.",
+      "points": [
+        "OpenAI has acquired Glass Imaging, a startup with roots in Apple's Portrait Mode technology.",
+        "Glass Imaging was founded by two former Apple engineers.",
+        "$300 million endowment for the acquisition."
+      ],
+      "insight": "This acquisition signifies OpenAI's commitment to integrating advanced image and video processing capabilities into its AI technology, potentially impacting the development of AI-driven camera applications."
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "language": "en",
+      "summary": "AI infrastructure company Cornelis has raised $205 million to challenge Nvidia's GPU market dominance. The company introduced a product, Active Compute Fabric, to optimize GPU usage by reducing data wait times.",
+      "points": [
+        "Cornelis, an AI infrastructure company, has secured $205 million to compete with Nvidia' end-to-end AI solutions.",
+        "Cornelis plans to sell directly to customers, bypassing Nvidia's traditional distribution channels.",
+        "The Active Compute Fabric product targets inefficiencies in GPU usage, aiming to optimize performance by reducing wait times for data."
+      ],
+      "insight": "Cornelis' funding and market entry strategies have the potential to disrupt Nvidia's GPU market dominance, and their product could change how GPUs are utilized in AI infrastructure."
+    },
+    {
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 14 Sep 2026 18:14:29 +0000",
+      "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "language": "en",
+      "summary": "Amazon Prime Video is incorporating on-demand short-form news clips similar to TikTok'th format in an effort to attract younger viewers. The feature includes local and national news segments.",
+      "points": [
+        "Amazon Prime Video introduces short-form news clips",
+        "Features local and national news segments",
+        "Competes with TikTok in content format"
+      ],
+      "insight": "Amazon Prime Video's foray into short-form content could potentially reshape the streaming industry by offering a new format that might better engage younger demographics."
+    },
+    {
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 14 Sep 2026 18:08:43 +0000",
+      "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "language": "en",
+      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat",
+      "points": [
+        "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a ri...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
       "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
@@ -169,6 +229,21 @@
     {
       "title": "A Vinyl Bar in Shibuya is a startup from former Spotify employee offering fun music apps",
       "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 14 Sep 2026 13:55:00 +0000",
+      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "language": "en",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making",
+      "points": [
+        "Former Spotify exec's company releases experimental \"singles\" that involves users in music making",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "source": "TechCrunch",
       "publishedAt": "Mon, 14 Sep 2026 13:55:00 +0000",
       "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
@@ -671,81 +746,6 @@
       "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature",
       "points": [
         "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "language": "en",
-      "summary": "Anthropic' endorses AI entities that attempt to bypass CAPTCHAs, asserting a parallel between their disdain and human frustration.",
-      "points": [
-        "Anthropic supports AI that dislikes CAPTCHAs, reflecting user annoyance.",
-        "CAPTCHAs remain a key internet security measure.",
-        "AI's 'dislike' of CAPTCHAs highlights the ongoing struggle between user convenience and security."
-      ],
-      "insight": "The public endorsement of CAPTCHA-avoiding AI by Anthropic could signal a demand for more user-friendly internet security solutions that balance safety and convenience."
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 10 Sep 2026 17:45:00 +0000",
-      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "language": "en",
-      "summary": "Pocket FM, an Indian digital radio network, has increased its revenue by doubling its run rate to $500 million, largely due to AI-driven content production. The platform, which uses AI to create most of its audio content, has significantly reduced production costs.",
-      "points": [
-        "Pocket FM's revenue run rate has doubled to $500 million.",
-        "AI powers 99% of Pocket FM's new content.",
-        "AI content production is about 80 times cheaper for Pocket FM."
-      ],
-      "insight": "This success story highlights the potential of AI in transforming media production and distribution, creating new business models and reducing costs. It suggests that the digital media industry could experience a similar disruption in the near future."
-    },
-    {
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 10 Sep 2026 16:31:25 +0000",
-      "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
-      "language": "en",
-      "summary": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead",
-      "points": [
-        "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profi...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "description": "Google's new feature will transfer your passkeys as well.",
-      "language": "en",
-      "summary": "Google's new feature will transfer your passkeys as well",
-      "points": [
-        "Google's new feature will transfer your passkeys as well",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 10 Sep 2026 15:07:27 +0000",
-      "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "language": "en",
-      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country",
-      "points": [
-        "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
