@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-09-17T16:23:08.193Z",
+  "generatedAt": "2026-09-17T21:05:32.819Z",
   "articles": [
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 20:34:47 +0000",
+      "description": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "language": "en",
+      "summary": "The article discusses Y Combinator's funding of AI observability companies, emphasizing the importance of monitoring AI systems for potential risks and ethical issues.",
+      "points": [
+        "Y Combinator has invested in 1 end-to end AI observability company called Thoughtworks Dataworks.",
+        "There's a growing need for AI observability as rogue AI agents can cause harm if not kept in check.",
+        "AI observability is crucial for managing risks associated with AI, as it helps identify and mitigate potential issues."
+      ],
+      "insight": "The focus on AI observability reflects the growing recognition of the potential dangers of AI systems and the need for effective monitoring and management strategies within the technology industry."
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "language": "en",
+      "summary": "OpenAI disclosed instances of GPT-5. 6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it",
+      "points": [
+        "OpenAI disclosed instances of GPT-5",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 20:19:37 +0000",
+      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "language": "en",
+      "summary": "The article discusses differing opinions on Amodei'in call for a global response to AI safety, highlighting the debate over whether the focus should be on safety or control of AI systems.",
+      "points": [
+        "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+        "The debate centers around whether the focus should be on safety or control of AI systems.",
+        "The discussion underscores the complexity and differing perspectives on addressing AI safety."
+      ],
+      "insight": "The AI safety debate reflects the broader industry tension between ensuring safe AI development and maintaining control over AI technologies."
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "language": "en",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics",
+      "points": [
+        "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "language": "en",
+      "summary": "Microsoft privately criticized OpenAI' endorsement of scraping paywalled Times content as 'theft,' while internally expressing concerns about the impact on publishers.",
+      "points": [
+        "Microsoft called OpenAI's data practices a form of theft.",
+        "Both companies scraped paywalled content from the Times to build datasets.",
+        "Microsoft warned internally of potential negative consequences for publishers."
+      ],
+      "insight": "This revelation raises questions about the ethical implications of data scraping in the AI industry and the potential impact on media outlets."
+    },
+    {
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 18:30:30 +0000",
+      "description": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+      "language": "en",
+      "summary": "Waymo halted its service in San Antonio due to flooding issues that led to one of its robotaxis being swept away. After five months, the service has been restored.",
+      "points": [
+        "Waymo's service in San Antonio was suspended due to flooding in April.",
+        "One of Waymo'table robotaxis was swept away during the flood.",
+        "Service has been restored after five months."
+      ],
+      "insight": "The restoration of Waymo's service in San Antonio demonstrates the resilience of the company in bouncing back from unexpected disruptions, potentially inspiring other companies in the industry to prepare for similar challenges."
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 17:26:25 +0000",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "language": "en",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U",
+      "points": [
+        "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 17:15:59 +0000",
+      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "language": "en",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models",
+      "points": [
+        "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods fo...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "language": "en",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+      "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 16:34:36 +0000",
+      "description": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes",
+      "points": [
+        "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect",
+        "And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop w...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Apple will let EU apps use less alarming tracking consent screens",
       "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
@@ -600,156 +750,6 @@
         "The move could have implications for the global semiconductor supply chain and domestic production."
       ],
       "insight": "This potential partnership could signify a strategic move to secure a more stable memory chip supply chain for the U.S. and reduce reliance on foreign chip production, while also potentially impacting global chip pricing and availability."
-    },
-    {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "language": "en",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch",
-      "points": [
-        "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "description": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-      "language": "en",
-      "summary": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations",
-      "points": [
-        "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel t...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "description": "Amazon is letting all customers use Alexa+ assistant in early access period",
-      "language": "en",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
-      "points": [
-        "Amazon is letting all customers use Alexa+ assistant in early access period",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "language": "en",
-      "summary": "Nvidia CEO Jensen Huang argues that AI does not need regulation but should be inherently safe, which can be ensured by AI product makers.",
-      "points": [
-        "AI is fundamentally a hardware and software construct, not an 'alien mind.'",
-        "Nvidia CEO Jensen Huang advocates for safety in AI development, which he believes can be achieved without governmental regulation.",
-        "The article emphasizes the responsibility of AI companies to engineer safety into their products."
-      ],
-      "insight": "Nvidia CEO Jensen Huang's stance suggests a proactive approach by AI companies in ensuring safety, potentially reducing the need for governmental AI regulation."
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "language": "en",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "language": "en",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 15 Sep 2026 19:00:00 +0000",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "language": "en",
-      "summary": "The article discusses various AI projects, particularly Apple's Siri, and OpenAI's 'DALL-E,' that have faced challenges or failed to meet expectations, collectively referred to as the AI graveyard.",
-      "points": [
-        "Apple's Siri, the AI personal assistant, has faced delays and criticisms regarding its performance and limitations.",
-        "OpenAI's 'DALL-E' received a mixed response, raising concerns about misuse and AI-generated content.",
-        "The AI graveyard includes numerous other projects that either shut down or didn't live up to expectations, highlighting the difficulties and unpredictability in the AI industry."
-      ],
-      "insight": "The news reflects the inherent challenges and unpredictability of the AI industry, emphasizing that success is not guaranteed despite significant investments and expectations."
-    },
-    {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 15 Sep 2026 18:29:20 +0000",
-      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "language": "en",
-      "summary": "The surge in AI usage is projected to make U.in data centers a major consumer of natural gas, potentially surpassing the combined consumption of Germany and Japan by 2035.",
-      "points": [
-        "The increased demand for AI and related computing services in the U.S. is leading to a significant rise in energy consumption, particularly for natural gas.",
-        "By 2035, U.S. data centers could consume more natural gas than Germany and Japan combined, highlighting the energy intensity of the tech industry.",
-        "This trend underscores the urgent need for more energy-efficient computing solutions and a transition to renewable energy sources."
-      ],
-      "insight": "This projected trend in natural gas consumption highlights the growing environmental impact of the IT industry, emphasizing the importance of adopting more sustainable and energy-efficient practices."
-    },
-    {
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 15 Sep 2026 18:16:07 +0000",
-      "description": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-      "language": "en",
-      "summary": "SpaceX is preparing for a historic mission to launch its fully reusable Starship rocket into orbit for the first time on September 22. This launch will also include the deployment of the first V3 Starlink satellites to expand its internet service. The launch is a major step towards SpaceX's goal of colonizing Mars.",
-      "points": [
-        "SpaceX aims to launch its fully reusable Starship rocket into orbit for the first time.",
-        "The launch will include deploying the first V3 Starlink satellites to expand its internet service.",
-        "The mission is a significant step towards SpaceX's ambition of colonizing Mars."
-      ],
-      "insight": "SpaceX's successful launch and deployment of its Starship and Starlink satellites will not only mark a significant technological milestone but also set the stage for rapid global internet expansion and the realization of Musk's Mars colonization ambition."
-    },
-    {
-      "title": "AI agents now have a place to snitch",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 15 Sep 2026 17:42:59 +0000",
-      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "language": "en",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities",
-      "points": [
-        "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavi...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
