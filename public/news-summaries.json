@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-17T21:05:32.819Z",
+  "generatedAt": "2026-09-18T03:24:02.993Z",
   "articles": [
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "language": "en",
+      "summary": "Mazama Energy, backed by Khosla, has raised $135 million to exploit superhot rock geothermal energy. They are planning to build a well three miles underground, capable of producing 15 MW of electricity constantly.",
+      "points": [
+        "Mazama Energy raises $135 million to develop superhot rock geothermal energy.",
+        "One planned well could generate 15 MW of electricity 24/7.",
+        "Drilling project to commence three miles underground."
+      ],
+      "insight": "This news indicates a potential shift towards more sustainable and high-output geothermal energy solutions within the IT/technology industry."
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "description": "The round values the data center giant at $30.9 billion.",
+      "language": "en",
+      "summary": "The round values the data center giant at $30",
+      "points": [
+        "The round values the data center giant at $30",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "language": "en",
+      "summary": "Google DeepMind has inaugurated a new institute dedicated to enhancing the conversation around Artificial General Intelligence (AGI). Recognizing that consensus may evolve with increasing data and insights, the institute seeks to bring together diverse perspectives from Google, DeepMind, and the global research community.",
+      "points": [
+        "Google DeepMind's institute focuses on broadening AGI debate.",
+        "The institute acknowledges changing opinions as new information emerges.",
+        "It aims to surface differing views among Google, DeepMind, and the research community."
+      ],
+      "insight": "This initiative suggests that Google DeepMind is committed to transparency and ongoing dialogue within the AGI community, which could shape responsible AI development and policy-making in the field."
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 23:08:24 +0000",
+      "description": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "language": "en",
+      "summary": "Zoox's 1 end-user license agreement (EULA) with Nevada will expire soon, raising concerns about the company's ability to continue operating autonomous vehicles in the state as it faces increasing competition.",
+      "points": [
+        "Zoox's 100-cap EULA expires later this month.",
+        "Competition in autonomous vehicle testing heats up in Las Vegas.",
+        "Zoox's ability to operate autonomous vehicles in Nevada is in question."
+      ],
+      "insight": "The approaching expiration of Zoox's 100-cap EULA in Nevada highlights the growing competition in the autonomous vehicle industry and the need for companies to secure their testing operations to remain viable."
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "description": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "language": "en",
+      "summary": "AI lab PrismML has developed a tiny Language Model (LLM) that aims to make AI more accessible and useful for everyone by providing it with immediate textual inputs and outputs.",
+      "points": [
+        "PrismML' extralarge LLM, with 160 billion parameters, is designed to run in a browser and provide immediate responses to textual prompts.",
+        "The model, named Prism, offers a range of text-based AI services without the need for user training or specialized hardware.",
+        "Prism's developers are planning to release the model openly, enabling a broader range of developers and companies to integrate AI into their projects."
+      ],
+      "insight": "This development could democratize AI, making it more accessible to businesses and individuals without specialized resources, and could lead to widespread adoption of AI technologies across various industries."
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 17 Sep 2026 22:14:59 +0000",
+      "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "language": "en",
+      "summary": "The FAA is investing $875 million in AI software to improve air traffic management. The system aims to help controllers handle increasing air traffic more efficiently by providing better situational awareness and decision support.",
+      "points": [
+        "The Federal Aviation Administration (FAA) plans to invest $875 million in AI software for air traffic management.",
+        "The AI system is designed to help controllers better navigate their jobs, providing enhanced situational awareness and decision support.",
+        "This investment aims to improve efficiency and safety in managing increasing air traffic."
+      ],
+      "insight": "This investment by the FAA demonstrates a significant shift towards the use of AI technology in the aviation industry, potentially setting a new standard for air traffic management worldwide."
+    },
     {
       "title": "The fix for rogue AI agents could be more AI",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
@@ -660,96 +750,6 @@
         "Karpas suggests that such a tool could democratize robot programming and accelerate innovation."
       ],
       "insight": "The article implies that the creation of an AI tool for robot programming could revolutionize the robotics industry by enabling a broader range of people to create and innovate."
-    },
-    {
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 14:47:07 +0000",
-      "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-      "language": "en",
-      "summary": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation",
-      "points": [
-        "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limit...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 14:32:08 +0000",
-      "description": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
-      "language": "en",
-      "summary": "Amazon has announced a $1 hourly raise for its employees, marking a $1.5 billion investment. The move aims to improve working conditions and boost morale.",
-      "points": [
-        "Amazon announces a $1 raise for employees",
-        "Investment of over $1.5 billion",
-        "Purpose is to improve working conditions and morale"
-      ],
-      "insight": "The move by Amazon, while a positive step for employee welfare, is relatively small compared to the company's market capitalization. It may not significantly shift the broader tech industry's approach to employee compensation but could enhance the public perception of Amazon's corporate culture."
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 14:24:58 +0000",
-      "description": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-      "language": "en",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 14:15:00 +0000",
-      "description": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
-      "language": "en",
-      "summary": "The article announces a group of top investors who will judge contenders in the Startup Battlefield 2de2 at TechCrunch Disrupt 2026. It also provides an opportunity for early registration to save on event costs.",
-      "points": [
-        "A panel of influential investors will be evaluating startups in the battlefield 200 contest.",
-        "TechCrunch Disrupt 2026 offers a unique chance to witness the ultimate startup pitch competition.",
-        "Early registration at TechCrunch Disrupt 2026 may result in significant savings of up to $200."
-      ],
-      "insight": "The Startup Battlefield 200 at TechCrunch Disrupt 2026 represents an opportunity for startups to showcase their potential and attract investment from top-tier investors, signaling a competitive landscape for emerging businesses in the tech industry."
-    },
-    {
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "language": "en",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left...",
-      "points": [
-        "Last day to book your exhibit table at Disrupt is September 18",
-        "Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 16 Sep 2026 13:23:02 +0000",
-      "description": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "language": "en",
-      "summary": "SK Hynix is reportedly negotiating with Intel to construct memory chips in the United States, though no final agreements have been made as of the report.",
-      "points": [
-        "SK Hynix and Intel are in discussions to manufacture memory chips in the U.S.",
-        "SK Hynix has not yet finalized any plans or arrangements.",
-        "The move could have implications for the global semiconductor supply chain and domestic production."
-      ],
-      "insight": "This potential partnership could signify a strategic move to secure a more stable memory chip supply chain for the U.S. and reduce reliance on foreign chip production, while also potentially impacting global chip pricing and availability."
     }
   ]
 }
