@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-21T22:02:46.965Z",
+  "generatedAt": "2026-09-22T03:25:50.588Z",
   "articles": [
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "language": "en",
+      "summary": "Apple Store architect Ron Johnson emphasizes the importance of people in the Apple Store experience, rather than technology, in an article reflecting on his time building Apple stores. He remains skeptical about Silicon Valley's optimism regarding AI in retail.",
+      "points": [
+        "Ron Johnson, the architect behind Apple's iconic retail spaces, champions the role of people in creating the unique Apple Store experience.",
+        "He questions the Silicon Valley's high expectations for AI to revolutionize retail, expressing skepticism about its current capabilities.",
+        "Despite his doubts, Johnson acknowledges that Apple has always focused on the human aspect in their customer service and retail strategy."
+      ],
+      "insight": "Johnson's perspective suggests that the human element cannot be overlooked, even in an era increasingly dominated by AI and automation in retail environments, emphasizing that personal interaction remains key to customer satisfaction."
+    },
     {
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
       "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
@@ -735,21 +750,6 @@
         "Khalil and Sykes shared insights on Nvidia's approach to balancing openness with the need for proprietary technology."
       ],
       "insight": "The debate on AI openness is critical as it could influence the direction of startup growth and innovation in the tech industry."
-    },
-    {
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 18 Sep 2026 15:22:48 +0000",
-      "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "language": "en",
-      "summary": "Meta has launched Muse, an AI tool that can manage files and apps on Mac computers, effectively taking some user actions.",
-      "points": [
-        "Muse is an AI that integrates with Mac users' files and apps.",
-        "The AI can take actions on behthy behalf, such as sending emails or making purchases.",
-        "Muse is aimed at enhancing productivity by reducing user manual tasks."
-      ],
-      "insight": "Muse represents a growing trend in AI-driven productivity tools, offering a glimpse into future possibilities where AI could handle complex tasks on behalf of users, potentially transforming workflows and user-computer interactions."
     }
   ]
 }
