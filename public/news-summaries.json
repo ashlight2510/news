@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-22T21:04:44.102Z",
+  "generatedAt": "2026-09-23T03:31:10.112Z",
   "articles": [
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "language": "en",
+      "summary": "The TechCrunch Founder Summit, set to take place on November 4 in Boston, will offer a range of resources and insights for startups. The event promises to cover topics like fundraising and AI, with the aim of facilitating smoother startup experiences.",
+      "points": [
+        "The TechCrunch Founder Summit provides startup founders with key insights into unlocking fundraising opportunities.",
+        "AI is a prominent focus at the Summit, offering insights into how AI can transform startups.",
+        "The Summit aims to make the challenges of starting a tech company easier and the successes more gratifying."
+      ],
+      "insight": "This annual gathering will continue to be an essential resource for tech entrepreneurs, offering valuable knowledge and networking opportunities to help startups succeed in the evolving technology landscape."
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "language": "en",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach",
+      "points": [
+        "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
       "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
@@ -720,36 +750,6 @@
         "In November 2023, Google announced the end of support for Gemini, turning the AI into an internet legend and a cautionary tale of AI misuse."
       ],
       "insight": "This incident raises questions about the ethical use of AI and the importance of establishing clear guidelines to prevent misuse. It also highlights the potential dangers of AI falling into the wrong hands."
-    },
-    {
-      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 19 Sep 2026 17:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "The US Navy has revealed its technology priorities for the coming years, focusing on artificial intelligence, underwater drones, and hypersonic weapons.",
-      "points": [
-        "The US Navy plans to leverage artificial intelligence to enhance ship automation and fleet management.",
-        "Underwater drones, or unmanned underwater vehicles (UUVs), are set to play a significant role in naval operations, including mine countermeasures and undersea surveillsel.",
-        "Hypersonic weapons, capable of speeds exceeding Mach 5, are in development to provide the Navy with a strategic advantage in rapid response scenarios."
-      ],
-      "insight": "The US Navy's technological priorities signal a push towards autonomous systems and advanced weaponry, which could reshape naval warfare and strategy."
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Petlibro has introduced an AI-powered feeder designed to cater to the feeding needs of multiple cats in one household, promising to save time and reduce stress for owners. The device features personalized feeding schedules, portion control, and a user-friendly interface for easy setup and management.",
-      "points": [
-        "AI-powered feeder by Petlibro caters to multiple cats, offering personalized schedules and portion control.",
-        "The feeder includes features like the ability to set up automated feeding times, monitor calorie intake, and track eating habits.",
-        "Petlibro'serving as a time-saver and stress-reducer for cat owners, ensuring that each cat gets its meal without any fights or competition."
-      ],
-      "insight": "The AI-powered feeder by Petlibro could significantly impact the multi-cat household market, offering a new level of convenience and reducing stress for both cats and owners."
     }
   ]
 }
