@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-25T03:34:55.378Z",
+  "generatedAt": "2026-09-25T11:13:20.536Z",
   "articles": [
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "language": "en",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period",
+      "points": [
+        "The venture firm is aligning its India fundraising cycle with its global funds for the first time, a...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
       "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
@@ -735,21 +750,6 @@
         "Revolutionizing traditional tire-changing services in the automotive industry."
       ],
       "insight": "PitPro's automated tire-changing robot could disrupt traditional tire-changing services, offering faster and potentially more reliable services, and has the potential to expand into the U.S. market."
-    },
-    {
-      "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
-      "link": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 23 Sep 2026 12:12:39 +0000",
-      "description": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software.",
-      "language": "en",
-      "summary": "Forked versions of Comma'static's hands-off driving technology are under investigation following two fatal crashes. Some of these crashes involved drivers potentially misusing the software.",
-      "points": [
-        "The investigation into Comma'static's hands-off driving technology was initiated after two fatal crashes.",
-        "The misuse of 'forked' versions of the software is believed to have contributed to the accidents.",
-        "The technology was designed to allow drivers to safely transfer control to an autonomous system while the vehicle is in motion."
-      ],
-      "insight": "The incidents involving Comma'static's technology highlight the importance of software safety and the potential risks associated with the misuse of autonomous vehicle technology in real-world scenarios."
     }
   ]
 }
