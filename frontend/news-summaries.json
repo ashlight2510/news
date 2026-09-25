@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-24T21:21:36.015Z",
+  "generatedAt": "2026-09-25T03:34:55.378Z",
   "articles": [
+    {
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 24 Sep 2026 23:24:33 +0000",
+      "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "language": "en",
+      "summary": "Waymo, the self-driving technology company, has significantly increased its fleet in Texas over the past month, indicating rapid expansion.",
+      "points": [
+        "Waymo expanded its fleet in Texas by 49% in the past month.",
+        "Texas has become a hotspot for Waymo's fleet expansion.",
+        "Other hotspots exist, showing a trend of rapid scaling in select regions."
+      ],
+      "insight": "The rapid expansion of Waymo's fleet in select regions like Texas signifies the company's growing presence and potential dominance in the autonomous vehicle industry."
+    },
     {
       "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
       "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
@@ -735,21 +750,6 @@
         "The technology was designed to allow drivers to safely transfer control to an autonomous system while the vehicle is in motion."
       ],
       "insight": "The incidents involving Comma'static's technology highlight the importance of software safety and the potential risks associated with the misuse of autonomous vehicle technology in real-world scenarios."
-    },
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 23 Sep 2026 12:00:00 +0000",
-      "description": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-      "language": "en",
-      "summary": "Ema, a Seattle-based AI company, has raised $77 million to date, attracting major enterprise customers like Google and Microsoft. The funding round marks the company's significant growth and investor confidence in its AI technology.",
-      "points": [
-        "Ema has raised a total of $77 million.",
-        "More than 50 enterprise customers, including major players like Google and Microsoft, have chosen Ema' extranet.",
-        "Ema's AI technology is increasingly being adopted by enterprises, eating into traditional enterprise software and services."
-      ],
-      "insight": "The funding and client adoption indicate a growing trend of enterprises embracing AI solutions to improve efficiency and drive innovation in the industry. This shift could disrupt traditional enterprise software and services, pushing them to evolve and adapt."
     }
   ]
 }
