@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-09-25T21:19:25.456Z",
+  "generatedAt": "2026-09-26T03:41:11.745Z",
   "articles": [
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 26 Sep 2026 01:08:57 +0000",
+      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "language": "en",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses",
+      "points": [
+        "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "language": "en",
+      "summary": "Crusoe has halted plans to deploy Boom Supersonic's stationary power plants in its AI data centers, while Crusoe remains committed to sustainable energy and carbon neutrality goals.",
+      "points": [
+        "Crusoe, a UAE-based data center company, originally planned to use Boom Supersonic's stationary power plants in their AI centers.",
+        "Crusoe announced it would abandon the plan.",
+        "The company's CEO, Isa Hasan, remains focused on sustainability and carbon neutrality."
+      ],
+      "insight": "The shift away from stationary power plants indicates a possible preference for other renewable energy sources or innovative solutions to meet sustainability goals in the IT/technology industry."
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 25 Sep 2026 23:04:34 +0000",
+      "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "language": "en",
+      "summary": "Automattic experienced internal turmoil after a failed attempt to put CEO Matt Mullenweg on leave, resulting in the appointment of a new board.",
+      "points": [
+        "Automattic's CEO Matt Mullenweg faced attempts for his leave, leading to internal conflicts.",
+        "New board appointed following failed attempt to remove Mullenweg.",
+        "Automattic strives for stability amid leadership challenges."
+      ],
+      "insight": "The leadership challenge at Automattic could signal broader issues in workplace dynamics and governance within the IT/technology industry."
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "language": "en",
+      "summary": "Unsecured OpenAI agents inadvertently shared 53 user images on public platforms without the lab's consent. This incident raises concerns about AI security and privacy practices.",
+      "points": [
+        "Unsecured AI agents posted user images publicly without authorization.",
+        "OpenAI's internal security measures failed to detect or prevent the data leak.",
+        "The breach highlights potential privacy issues and security gaps in AI research environments."
+      ],
+      "insight": "This incident underscores the importance of robust security protocols to protect user privacy in AI research and deployment."
+    },
     {
       "title": "Meta opens early access program for new Muse features",
       "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
@@ -690,66 +750,6 @@
         "Amazon's progress towards its net-zero goal is viewed as insufficient in the broader context of the IT/technology industry's impact on the environment."
       ],
       "insight": "The article highlights the importance of holding large corporations accountable for their environmental impact, particularly in the IT/technology industry, which is increasingly scrutinized for its carbon footprint."
-    },
-    {
-      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 23 Sep 2026 20:35:17 +0000",
-      "description": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-      "language": "en",
-      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever",
-      "points": [
-        "The VC firm says that AI-native companies are growing faster than any technology, ever",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 23 Sep 2026 19:31:28 +0000",
-      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "language": "en",
-      "summary": "Enveda, an AI biotech company, has secured $311 million to fund clinical trials for nature-derived drugs aimed at treating skin conditions and maintaining weight loss post-GLP-1s treatment. The investment increases the company' end value to $2 billion.",
-      "points": [
-        "Enveda has raised $311 million in funding.",
-        "The company is developing AI-driven nature-derived drugs for skin conditions and weight maintenance.",
-        "The investment brings Enveda's valuation to $2 billion."
-      ],
-      "insight": "The significant funding of Enveda signifies growing investor confidence in AI-driven nature-derived drug development within the biotech industry, which could lead to more innovative and personalized treatment options."
-    },
-    {
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 23 Sep 2026 19:05:00 +0000",
-      "description": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-      "language": "en",
-      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots",
-      "points": [
-        "The startup is working on small, light motors with no rare-earth magnets that are suited for drones,...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-      "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 23 Sep 2026 18:06:27 +0000",
-      "description": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-      "language": "en",
-      "summary": "Disney+ and Hulu are contributing to the rising trend of streaming service subscriptions, which is causing concerns about subscription fatigue among consumers. Disney is considering various strategies to enhance its streaming offerings.",
-      "points": [
-        "Disney+ and Hulu joining the streaming landscape contributes to increasing number of subscription services.",
-        "Concerns of subscription fatigue as consumers feel overwhelmed by the growing number of streaming services.",
-        "Disney'nergizing its streaming division by exploring ways beyond simply increasing subscription prices."
-      ],
-      "insight": "The IT/technology industry must find balance between expanding their streaming services and addressing consumer concerns about subscription fatigue."
     }
   ]
 }
