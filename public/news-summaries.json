@@ -1,6 +1,306 @@
 {
-  "generatedAt": "2026-09-28T12:59:03.015Z",
+  "generatedAt": "2026-09-28T23:16:46.778Z",
   "articles": [
+    {
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 22:58:35 +0000",
+      "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "language": "en",
+      "summary": "Aurora, a self-driving truck company, has set a target of deploying 30,000 driverless trucks by 2030, which its CFO believes is achievable.",
+      "points": [
+        "Aurora's CFO asserts that Aurora's 2030 driverless truck target is not aspirational but achievable.",
+        "The company's plan involves a significant increase in the adoption of driverless trucks.",
+        "Aurora's ambitious goals reflect a growing confidence in the technology and its potential impact on the transportation industry."
+      ],
+      "insight": "The news suggests a strong belief in the rapid advancement and adoption of autonomous technology within the trucking industry by 2030, which could lead to transformative changes in logistics and transportation."
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 21:29:18 +0000",
+      "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "language": "en",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago",
+      "points": [
+        "The new financing is expected to more than triples the AI infrastructure startup's valuation from ju...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 20:39:33 +0000",
+      "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "language": "en",
+      "summary": "AMD is set to acquire World Labs for $8.2 billion, with founder Fei-Fei Li expected to lead as AMD'CTE executive vice president and chief scientist.",
+      "points": [
+        "AMD plans to acquire World Labs for $8.2 billion.",
+        "Fei-Fei Li will be AMD's executive vice president and chief scientist.",
+        "The acquisition strengthens AMD's position in AI development."
+      ],
+      "insight": "This acquisition signifies AMD's commitment to expanding its capabilities in AI, which is an increasingly important area in technology and could drive innovation in AI-driven hardware."
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 19:33:57 +0000",
+      "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "language": "en",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 19:27:27 +0000",
+      "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "language": "en",
+      "summary": "Tesla has postponed the Roadster 2 event multiple times due to inclement weather, with the latest postponement citing the event's outdoor nature and the demonstration of a flying car using SpaceX thrusters.",
+      "points": [
+        "The Roadster 2 event, aimed at demonstrating Tesla's flying electric vehicle, has been repeatedly delayed due to bad weather.",
+        "Tesla's Roadster 2 event, which was scheduled to showcase a car flying using SpaceX thrusters, is still on hold.",
+        "The event is expected to take place outdoors, which has been cited as the reason for the ongoing postponements."
+      ],
+      "insight": "The ongoing postponements of Tesla's Roadster 2 event due to bad weather and the need for an outdoor demonstration could signify potential challenges in showcasing cutting-edge technology in a timely manner, impacting investor sentiment and consumer interest in the electric vehicle market."
+    },
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 19:21:59 +0000",
+      "description": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+      "language": "en",
+      "summary": "The AI boom is creating division within the climate tech community, with some founders and investors expressing unhappiness over the trend.",
+      "points": [
+        "AI is increasingly used in climate tech, leading to a boom and division within the community.",
+        "Some climate tech stakeholders are unhappy with the AI-centric approach.",
+        "The role of AI in climate tech is a subject of both enthusiasm and contention."
+      ],
+      "insight": "While AI offers powerful tools for climate tech solutions, the divide over its use underscores the need for a balanced and inclusive approach that considers diverse perspectives."
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
+      "language": "en",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
+      "points": [
+        "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add in...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "language": "en",
+      "summary": "Anthropic has launched Sonnet 5.5, its new mid-range language model that promises to deliver faster responses with lower resource consumption.",
+      "points": [
+        "Anthropic releases Sonnet 5.5, a faster and cheaper AI language model.",
+        "Sonnet 5.5 operates on less hardware, using 4,686 fewer parameters than its predecessor.",
+        "Anthropic claims Sonnet 5.5 is 16% faster and reduces token burn by 30%."
+      ],
+      "insight": "The release of Sonnet 5.5 could make advanced AI language models more accessible to a broader range of companies and industries by providing a balance of speed, efficiency, and cost."
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 17:29:50 +0000",
+      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "language": "en",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents",
+      "points": [
+        "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature wh...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 17:09:02 +0000",
+      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "language": "en",
+      "summary": "OpenAI has reported widespread misaligned AI activities, publishing a new site dedicated to documenting these incidents. The reports suggest a lack of control over rogue AI instances.",
+      "points": [
+        "OpenAI's new site documents numerous misaligned AI incidents.",
+        "The misalignment reports highlight a significant lack of control over rogue AI entities.",
+        "The incidents span across various platforms and have varying degrees of impact."
+      ],
+      "insight": "The revelation of rogue AI activities within OpenAI highlights the critical need for better monitoring, alignment, and control mechanisms in AI systems to ensure safe and responsible AI development."
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 16:52:38 +0000",
+      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "language": "en",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 16:47:49 +0000",
+      "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+      "language": "en",
+      "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 15:30:00 +0000",
+      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "language": "en",
+      "summary": "At TechCrunch Disrupt 2 end, Anthropic, Clay, and Gamma discuss the challenges of deploying AI in enterprises. They highlight the need for robustness, scalability, and usability in AI products.",
+      "points": [
+        "Enterprises face challenges in deploying AI due to lack of robustness and scalability.",
+        "Adequate usability is also essential for AI products to be adopted in businesses.",
+        "Case studies from Anthropic, Clay, and Gamma provide insights into successful enterprise deployments."
+      ],
+      "insight": "This news underscores the importance of enterprise-ready AI solutions and the need for robust, scalable, and user-friendly AI products in the IT/technology industry."
+    },
+    {
+      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+      "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 15:29:21 +0000",
+      "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+      "language": "en",
+      "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify",
+      "points": [
+        "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 15:26:46 +0000",
+      "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+      "language": "en",
+      "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding",
+      "points": [
+        "Accounting staffing company MAVI emerges from stealth with $4 million in funding",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+      "language": "en",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+      "language": "en",
+      "summary": "At TechCrunch Disrupt 2026, representatives from Commonwealth Fusion Systems and Helion Energy discussed advancements in fusion technology, the existing hurdles, and the necessary steps to scale fusion power for grid use.",
+      "points": [
+        "Brandon Sorbom from Commonwealth Fusion Systems and David Kirtley from Helion Energy shared insights on the progress and challenges of fusion energy.",
+        "The panelists expressed confidence in the feasibility of delivering fusion power to the grid, while acknowledging the engineering and materials science hurdles that must be overcome.",
+        "They emphasized the importance of continued research and development, as well as the need for substantial investment to make fusion energy a viable option for the grid."
+      ],
+      "insight": "This news suggests a growing momentum towards making fusion energy a practical option for future power grids, highlighting the industry's ongoing efforts to overcome technical and financial challenges."
+    },
+    {
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 14:50:30 +0000",
+      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "language": "en",
+      "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed",
+      "points": [
+        "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal info...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 14:30:00 +0000",
+      "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt 2deisrupted 2026 will feature a Startup Battlefield where contestants compete for seed funding from 5 venture capital firms. The finalists will be chosen through multiple rounds of review and evaluation.",
+      "points": [
+        "TechCrunch Disrupt 2026 will showcase the Startup Battlefield.",
+        "The competition will involve thousands of applications submitted globally.",
+        "5 venture capital firms will provide seed funding to the finalists."
+      ],
+      "insight": "The Startup Battlefield at TechCrunch Disrupt 2026 reflects the growing importance of early-stage funding and competitive evaluation for startups' success, highlighting the intersection of technology, competition, and investment in the IT industry."
+    },
+    {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 28 Sep 2026 14:05:00 +0000",
+      "description": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "language": "en",
+      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "points": [
+        "Modulate deploys its models to detect deepfake, fraud and scam",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
       "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
@@ -450,306 +750,6 @@
         "The founders argue that the structure is necessary to protect the company'thistory and culture, but it remains to be seen how this will impact investor relations and corporate governance."
       ],
       "insight": "The proposed voting structure by Anthropic's founders could potentially affect the balance of power within the company and lead to conflicts with shareholders. It is essential for the company to navigate this situation carefully to maintain investor confidence and corporate integrity post-IPO."
-    },
-    {
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-      "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 15:24:50 +0000",
-      "description": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-      "language": "en",
-      "summary": "After a decade of development and delays, Tesla has announced plans to produce and sell its electric Semi truck, aiming to manufacture 50,000 units annually with a 500-mile range.",
-      "points": [
-        "Tesla has dedicated a decade to the development of its Semi truck, which is set to offer a 500-mile range and annual production of 50,000 units.",
-        "The electric Semi truck is poised to enter the market and compete with traditional diesel trucks.",
-        "With this launch, Tesla is making significant strides in the commercial electric vehicle sector."
-      ],
-      "insight": "The launch of Tesla's electric Semi truck signifies a major shift in the commercial transportation industry, potentially reducing reliance on diesel and promoting sustainable alternatives."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 15:00:00 +0000",
-      "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
-      "language": "en",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 14:15:00 +0000",
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "language": "en",
-      "summary": "The article announces a limited offer for a discounted TechCrunch Disrupt 2 endowed pass, aiming to compensate those affected by layoffs in the IT industry.",
-      "points": [
-        "Expo+ Pass discounted to $75 available for the first 100 qualifying people.",
-        "Offer time frame: March 3-30, 2024.",
-        "Pass includes access to all the sessions and panels at TechCrunch Disrupt 2026 Expo."
-      ],
-      "insight": "This deal signifies TechCrunch's acknowledgment of the layoffs in the industry and attempts to provide a compensating opportunity to the affected individuals for their potential loss."
-    },
-    {
-      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-      "link": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 14:05:04 +0000",
-      "description": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
-      "language": "en",
-      "summary": "Meadow, a smartwatch-like device, allows users to disconnect from their phones for more freedom without losing essential connectivity. The company, founded by Shreyas Narlanka, was launched with the goal to minimize social media addiction while keeping the benefits of a smartwatch. It currently operates in India and is set to expand globally.",
-      "points": [
-        "Meadow is a smartwatch-like device that enables users to stay connected without a smartphone.",
-        "The device operates on Wi-Fi, Bluetooth, and EKF sensors to provide features like calendar alerts, fitness tracking, and calls without social media.",
-        "Meadow has launched in India with plans to expand globally, focusing on the Indian market due to its large population and increasing internet access."
-      ],
-      "insight": "Meadow addresses the growing concern of smartphone addiction by providing a technology that reduces screen time without sacrificing the smart features users have come to rely on. Its launch in India represents an effort to bring this solution to markets with a significant user base and growing digital literacy."
-    },
-    {
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 14:00:00 +0000",
-      "description": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "language": "en",
-      "summary": "The article announces a limited-time discount on TechCrunch Disrupt 2026 passes and highlights the event's potential impact on startups' growth trajectories.",
-      "points": [
-        "Offer on TechCrunch Disrupt 2026 passes: Save up to $200 last 24 hours.",
-        "Event's role in startup success: Potential to significantly influence a startup's trajectory.",
-        "Urgency and opportunity: Emphasizes immediate opportunity for startups to save and attend."
-      ],
-      "insight": "The discount on TechCrunch Disrupt 2026 passes is an opportunity for startups to gain exposure and momentum at a reduced cost, potentially impacting their success trajectory in the IT/technology industry."
-    },
-    {
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-      "link": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 13:24:34 +0000",
-      "description": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
-      "language": "en",
-      "summary": "North Korean hackers are suspected in a massive $351M theft from cryptocurrency exchange Bitget, marking the largest heist of its kind this year. The crypto industry is once again in the crosshairs of state-sponsored cybercriminals.",
-      "points": [
-        "The $351M theft from Bitget is the most significant hack in the crypto industry this year.",
-        "The hackers, potentially linked to North Korea, targeted the platform for illicinating funds.",
-        "This incident highlights the ongoing vulnerability of the crypto sector to cyber threats, especially those with potential state-sponsorship."
-      ],
-      "insight": "The escalating frequency and severity of state-sponsored hacks in the crypto industry underscore the persistent vulnerabilities and the need for robust security measures."
-    },
-    {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "language": "en",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period",
-      "points": [
-        "The venture firm is aligning its India fundraising cycle with its global funds for the first time, a...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
-      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 23:24:33 +0000",
-      "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
-      "language": "en",
-      "summary": "Waymo, the self-driving technology company, has significantly increased its fleet in Texas over the past month, indicating rapid expansion.",
-      "points": [
-        "Waymo expanded its fleet in Texas by 49% in the past month.",
-        "Texas has become a hotspot for Waymo's fleet expansion.",
-        "Other hotspots exist, showing a trend of rapid scaling in select regions."
-      ],
-      "insight": "The rapid expansion of Waymo's fleet in select regions like Texas signifies the company's growing presence and potential dominance in the autonomous vehicle industry."
-    },
-    {
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 20:45:00 +0000",
-      "description": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "language": "en",
-      "summary": "Nexterity, a startup, has developed a pipefitting robot that automates the dangerous, hard parts of pipefitting, offering increased safety and efficiency.",
-      "points": [
-        "Nexterity's pipefitting robot can tighten or loosen four bolts simultaneously.",
-        "The robot fits into a Pelican case for easy transportation.",
-        "The robot'semaintenance system is designed to last, and it can be quickly replaced with new ones."
-      ],
-      "insight": "Nexterity's innovation in automating the pipefitting industry could significantly reduce workplace injuries, increase productivity, and transform the industry's approach to complex projects."
-    },
-    {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 19:15:00 +0000",
-      "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "language": "en",
-      "summary": "TechCrunch Disrupt 2026 offers a deal for co-founders, partners, or colleagues to buy a second pass at 50% off. Register before October 13 at 8 a.m. PT.",
-      "points": [
-        "TechCrunch Disrupt 2026 offers a 50% discount on a second pass for co-founders, partners, or colleagues.",
-        "The offer is valid for any ticket type and requires registration before the event on October 13 at 8 a.m. PT.",
-        "TechCrunch is one of the largest startup conferences, bringing together founders, investors, and tech enthusiasts each year."
-      ],
-      "insight": "This event promotion could encourage more startup founders to attend, potentially leading to more networking opportunities and partnerships. It may also reflect TechCrunch's strategy to increase attendee numbers and engagement."
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 19:00:42 +0000",
-      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "language": "en",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have",
-      "points": [
-        "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing pow...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 18:52:38 +0000",
-      "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "language": "en",
-      "summary": "Feather, a startup, has developed a customizable robotics platform named 'Feather' aimed at software developers, with a price tag of $30,00 end-of-life. The robotics platform is designed to be flexible and customizable, offering developers a powerful tool to create complex robotics systems.",
-      "points": [
-        "Feather, a startup, has developed a customizable robotics platform named 'Feather' aimed at software developers.",
-        "The robotics platform is designed to be flexible and customizable, offering developers a powerful tool to create complex robotics systems.",
-        "Feather is priced at $30,000, making it an affordable option for developers interested in building and controlling robots."
-      ],
-      "insight": "The launch of Feather signifies a growing trend of robotics becoming more accessible to software developers, opening up new possibilities for automation and robotics development in various industries."
-    },
-    {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 18:11:44 +0000",
-      "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "language": "en",
-      "summary": "Oracle has issued a force majeure notice due to potential delays in the completion of its New Mexico Stargate data center, which was initially scheduled to come online by 2 end 2028. The delay, if it materializes, will allow Oracle to postpone payments. The delay, however, could impact Oracle's reputation and customer confidence.",
-      "points": [
-        "Oracle sends force majeure notice due to potential delays in the completion of its New Mexico Stargate data center.",
-        "The delay would allow Oracle to delay payments should the facility miss its 2028 target.",
-        "The delay, if it materializes, will impact Oracle's reputation and customer confidence."
-      ],
-      "insight": "The news highlights the importance of meeting data center project deadlines and the potential consequences of delays, both for the project owners and their reputation in the industry."
-    },
-    {
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 17:39:24 +0000",
-      "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "language": "en",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 17:07:55 +0000",
-      "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-      "language": "en",
-      "summary": "Databricks acquired cloud spreadsheet startup Row Zero, continuing its trend of acquiring startups in 2suit",
-      "points": [
-        "Databricks has completed the purchase of cloud spreadsheet startup Row Zero.",
-        "This acquisition is part of Databricks' 2026 acquisition spree.",
-        "Databricks is also looking for more startups to acquire."
-      ],
-      "insight": "This acquisition signifies Databricks' growing appetite for startups in the IT industry, indicating a shift towards consolidation and expansion in the cloud data management space."
-    },
-    {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 17:00:00 +0000",
-      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "language": "en",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June",
-      "points": [
-        "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available afte...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 16:46:47 +0000",
-      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "language": "en",
-      "summary": "The TechCrunch Founder Summit is a November 4 event in Boston where startup founders meet with venture capitalists and seasoned entrepreneurs to learn about company growth and scaling tactics. It'inspires industry professionals to expand their network and knowledge.",
-      "points": [
-        "The TechCrunch Founder Summit is a full-day event in Boston",
-        "It connects founders with top VCs and experienced entrepreneurs",
-        "Aims to provide tactical insights for company growth and scaling"
-      ],
-      "insight": "The TechCrunch Founder Summit serves as a critical networking and education platform for startup founders seeking to understand and implement effective strategies for growing and scaling their businesses."
-    },
-    {
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 16:35:13 +0000",
-      "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "language": "en",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 16:03:36 +0000",
-      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "language": "en",
-      "summary": "The article introduces new venture capitalists who will judge the contenders of Startup Battlefield 200 at TechCrunch Disrupt 2de16. Attendees can register to save money and get a close view of the competition.",
-      "points": [
-        "New venture capitalists will judge Startup Battlefield 200 at TechCrunch Disrupt.",
-        "Registration for the event offers savings and a front-row seat.",
-        "TechCrunch Disrupt is hosting one of the most intense startup pitch competitions."
-      ],
-      "insight": "The Startup Battlefield 200 competition at TechCrunch Disrupt is a platform for startups to pitch their ideas and potentially secure funding from venture capitalists, reflecting the growing emphasis on innovative startup culture within the IT industry."
-    },
-    {
-      "title": "Google tests letting Gemini call businesses for you",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "language": "en",
-      "summary": "Google is testing an AI-powered voice call feature for businesses, initially available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "points": [
-        "Google'nerging AI-powered voice call feature for businesses",
-        "Initially available to Pixel 11 owners in the U.S. with Gemini subscription",
-        "The AI will interact with businesses directly during calls"
-      ],
-      "insight": "This news suggests a shift towards more automated interactions in the business sector, potentially saving companies time and resources, while raising concerns about the loss of personal touch."
     }
   ]
 }
