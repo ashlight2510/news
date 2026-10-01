@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-01T04:17:34.142Z",
+  "generatedAt": "2026-10-01T12:32:27.271Z",
   "articles": [
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 01 Oct 2026 12:00:00 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Satlyt, a company specializing in using AI to analyze satellite imagery, has raised $8M in funding led by Google Capital. The funding will support the company's efforts to launch its own satellites.",
+      "points": [
+        "Satlyt, founded by a former Google and SpaceX product manager, has secured $8M in funding.",
+        "The investment, led by Google Capital, will support Satlyt's plans to launch its own satellites and run AI on them.",
+        "Satlyt aims to provide AI-driven insights on the earth's surface using satellite imagery, targeting sectors like agriculture and urban development."
+      ],
+      "insight": "The influx of $8M into Satlyt's venture demonstrates growing interest and investment in using AI to derive valuable insights from satellite imagery, with potential to revolutionize industries that rely on earth observation data."
+    },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
@@ -735,21 +750,6 @@
         "The company is thriving in the competitive IT/technology industry."
       ],
       "insight": "The growth of Instinct's travel-related transactions indicates a growing demand for digital services in the travel industry, suggesting potential expansion and investment opportunities for stakeholders and investors."
-    },
-    {
-      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-      "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 29 Sep 2026 15:00:00 +0000",
-      "description": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
-      "language": "en",
-      "summary": "Uhura Bionics, a startup from TechCrunch Disrupt, aims to develop 'glasses for voice' to emotionally enhance robotic voice devices following the founder'ths loss of his own voice due to cancer.",
-      "points": [
-        "Uhura Bionics is developing technology to emotionally enhance robotic voice devices.",
-        "The technology is called 'glasses for voice.'",
-        "The motivation for this technology is the founder's personal experience with losing his voice to cancer."
-      ],
-      "insight": "The 'glasses for voice' technology has the potential to revolutionize human-robot interaction by providing a more emotional and personalized voice experience, which is especially important in the field of healthcare robotics."
     }
   ]
 }
