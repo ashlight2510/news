@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-30T21:59:48.038Z",
+  "generatedAt": "2026-10-01T04:17:34.142Z",
   "articles": [
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "language": "en",
+      "summary": "Google has launched a new Gemini model, the Argon, which it claims to be the most powerful model for coding and cybersecurity tasks. It boasts increased computing power and memory, and is designed for heavy-dutgy tasks.",
+      "points": [
+        "Google has released the Argon, the most powerful Gemini model, with increased computing power and memory.",
+        "Argon is designed to be a workhorse for coding and cybersecurity work.",
+        "The company claims Argon can handle heavy-duty tasks and workflows."
+      ],
+      "insight": "The release of Google's Argon Gemini model could potentially revolutionize the field of coding and cybersecurity by providing a powerful, specialized tool for handling heavy workloads and intensive tasks."
+    },
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 30 Sep 2026 23:08:00 +0000",
+      "description": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+      "language": "en",
+      "summary": "Defense Secretary Pete Hegseth has initiated a 120-day study on future military needs involving Elon Musk, Palmer Luckey, and Newt Gingrich. The study aims to explore the evolving landscape of warfare, particularly in the context of technology.",
+      "points": [
+        "Defense Secretary Pete Hegseth has initiated a 120-day study on future military needs involving Elon Musk, Palmer Luckey, and Newt Gingrich.",
+        "The study's main goal is to understand the future of warfare and how technology is shaping it.",
+        "Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend."
+      ],
+      "insight": "The study, involving tech industry leaders, could potentially lead to the development of advanced military technologies, which may raise concerns over their implications in the hands of various actors."
+    },
     {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -720,36 +750,6 @@
         "The motivation for this technology is the founder's personal experience with losing his voice to cancer."
       ],
       "insight": "The 'glasses for voice' technology has the potential to revolutionize human-robot interaction by providing a more emotional and personalized voice experience, which is especially important in the field of healthcare robotics."
-    },
-    {
-      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
-      "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 29 Sep 2026 14:56:55 +0000",
-      "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-      "language": "en",
-      "summary": "Oura Technologies has decided to postpdependent the highly anticipated IPO, which had been priced at $2.2 billion, due to market uncertainty. The delay affects the company's expansion plans and shareholder expectations for the proceeds of the IPO.",
-      "points": [
-        "Oura Technologies' IPO postponement due to market uncertainty.",
-        "Delay in company expansion plans and shareholder expectations for IPO proceeds.",
-        "IPO was priced at $2.2 billion with the intention to raise capital."
-      ],
-      "insight": "The postponement of Oura Technologies' IPO reflects the cautious approach many tech companies are taking amidst market fluctuations, which may lead to more stable long-term funding strategies for the industry."
-    },
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 29 Sep 2026 13:53:01 +0000",
-      "description": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "language": "en",
-      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom",
-      "points": [
-        "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
