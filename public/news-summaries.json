@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-02T21:57:37.427Z",
+  "generatedAt": "2026-10-03T03:57:52.688Z",
   "articles": [
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "language": "en",
+      "summary": "Meta is offering Muse technology, which integrates artificial intelligence, with consumer gadgets like TVs and toasters, at no cost to users.",
+      "points": [
+        "Meta has released Muse code for free use.",
+        "Muse code can be integrated into various consumer electronics.",
+        "Free Muse code provides access to AI-driven features."
+      ],
+      "insight": "This initiative by Meta democratizes access to advanced AI features, potentially accelerating AI integration into everyday consumer technology and increasing competition in the smart home market."
+    },
+    {
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 03 Oct 2026 00:21:57 +0000",
+      "description": "The proposed legislation would extend to all automotica license plate readers.",
+      "language": "en",
+      "summary": "The proposed legislation would extend to all automotica license plate readers",
+      "points": [
+        "The proposed legislation would extend to all automotica license plate readers",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
       "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -720,36 +750,6 @@
         "The 'Decisions API' demonstrates how AI can be made more accessible and cost-effective, which could lead to its increased adoption in fields like research, logistics, and more."
       ],
       "insight": "The 'Decisions API' from OpenAI represents a significant step towards making AI more accessible and affordable for industries, potentially transforming research and problem-solving by enabling rapid decision-making."
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 30 Sep 2026 18:23:57 +0000",
-      "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "language": "en",
-      "summary": "AI voice startup ElevenLabs announced a significant valuation increase to $22 billion. The company, founded by former Microsoft engineers, has raised $300 million in a co-led employee tender with Wellington and T. Rowe Price.",
-      "points": [
-        "AI voice startup ElevenLabs announces a valuation increase to $22 billion.",
-        "The company has raised $30 endowed in a co-led employee tender led by Wellington and T. Rowe Price.",
-        "Founded by former Microsoft engineers."
-      ],
-      "insight": "This significant valuation increase for ElevenLabs highlights the growing importance and investor interest in AI and voice technologies within the tech industry, signaling potential future developments and partnerships."
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000",
-      "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "language": "en",
-      "summary": "Reddit has discontinued RSS feed support and restricted public API access, potentially due to the influence of AI bots on user content.",
-      "points": [
-        "Reddit is ending support for RSS feeds.",
-        "The company is tightening access to its user-generated content.",
-        "AI bots may be impacting content on Reddit."
-      ],
-      "insight": "The end of RSS feeds and limited API access on Reddit could signify growing concerns over content authenticity and the need to safeguard user experience from AI-generated misinformation."
     }
   ]
 }
