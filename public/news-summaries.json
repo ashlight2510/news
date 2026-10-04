@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-04T16:30:37.302Z",
+  "generatedAt": "2026-10-04T20:54:35.499Z",
   "articles": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "language": "en",
+      "summary": "AI slop seems to be overwhelming bug bounty programs",
+      "points": [
+        "AI slop seems to be overwhelming bug bounty programs",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "language": "en",
+      "summary": "The article discusses the Trump administration'cless attempts to improve AI's public image through a 'super intelligence' narrative and a non-binding safety pact. Critics argue that these initiatives are superficial and do not address underlying issues, suggesting a deeper skepticism towards the administration's approach.",
+      "points": [
+        "The Trump administration proposed a non-binding safety pact for AI, including a 'super intelligence' aspect.",
+        "Critics argue that the initiatives do not tackle underlying issues and are superficial.",
+        "The article raises concerns about the administration's commitment to improving AI's public image."
+      ],
+      "insight": "The Trump administration's approach towards AI public image improvement is questioned for its depth and sincerity, suggesting that more substantive efforts may be needed to address public skepticism towards AI."
+    },
     {
       "title": "TechCrunch Mobility: Reining in robotaxis",
       "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
@@ -720,36 +750,6 @@
         "Amazon claims an improvement in weight and thickness over previous models."
       ],
       "insight": "The Kindle's continuous design improvement reflects the growing consumer demand for sleek and lightweight portable reading devices, and suggests that the industry could see further reduction in size and weight for next-gen e-readers."
-    },
-    {
-      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-      "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "description": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
-      "language": "en",
-      "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle",
-      "points": [
-        "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 01 Oct 2026 12:00:00 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Satlyt, a company specializing in using AI to analyze satellite imagery, has raised $8M in funding led by Google Capital. The funding will support the company's efforts to launch its own satellites.",
-      "points": [
-        "Satlyt, founded by a former Google and SpaceX product manager, has secured $8M in funding.",
-        "The investment, led by Google Capital, will support Satlyt's plans to launch its own satellites and run AI on them.",
-        "Satlyt aims to provide AI-driven insights on the earth's surface using satellite imagery, targeting sectors like agriculture and urban development."
-      ],
-      "insight": "The influx of $8M into Satlyt's venture demonstrates growing interest and investment in using AI to derive valuable insights from satellite imagery, with potential to revolutionize industries that rely on earth observation data."
     }
   ]
 }
