@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-05T04:09:32.735Z",
+  "generatedAt": "2026-10-05T13:40:10.562Z",
   "articles": [
+    {
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 05 Oct 2026 12:00:00 +0000",
+      "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "language": "en",
+      "summary": "Safeworld is developing digital humans to ensure the interaction between humans and robots remains safe and positive. The company aims to prevent any potential harm that real-life encounters with robots might cause.",
+      "points": [
+        "Safeworld is creating digital humans to interact with real humans and robots.",
+        "The purpose of these digital humans is to prevent robots from causing harm to real people.",
+        "This technology could significantly improve the safety and positivity of human-robot interactions."
+      ],
+      "insight": "Safeworld's initiative could set a precedent for other robot companies, prompting the integration of similar AI-driven safety measures in robotic systems. This development holds the potential to enhance user confidence and facilitate a more seamless human-robot integration within society."
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
@@ -735,21 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-      "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "description": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
-      "language": "en",
-      "summary": "Amazon introduces its latest Kindle devices with the thinnest and lightest designs to date, featuring a seamless front display that gets rid of bezels.",
-      "points": [
-        "Amazon' endorses its most slim and lightweight Kindle models to date.",
-        "The new designs boast a seamless display with no visible bezels.",
-        "Amazon claims an improvement in weight and thickness over previous models."
-      ],
-      "insight": "The Kindle's continuous design improvement reflects the growing consumer demand for sleek and lightweight portable reading devices, and suggests that the industry could see further reduction in size and weight for next-gen e-readers."
     }
   ]
 }
