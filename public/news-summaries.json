@@ -1,6 +1,306 @@
 {
-  "generatedAt": "2026-10-06T12:53:09.528Z",
+  "generatedAt": "2026-10-06T22:44:17.297Z",
   "articles": [
+    {
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 20:47:01 +0000",
+      "description": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "language": "en",
+      "summary": "Sigil Wen, an AI assistant developer, has created Underdog, a private AI assistant for Instinct/Muse that requires no internet connection. Backed by Silicon Valley luminaries, Underdog is set to enter a crowded market with privacy as its core feature.",
+      "points": [
+        "Sigil Wen, a 23-year-independent entrepreneur from Silicon Valley, has developed Underdog, an on-device AI assistant.",
+        "Underdog, unlike its competitors such as Amazon's Alexa or Google Assistant, does not require an internet connection to function.",
+        "Underdog is backed by top Silicon Valley entrepreneurs and aims to address privacy concerns by keeping data on-device."
+      ],
+      "insight": "The launch of Underdog represents a significant shift towards privacy-focused AI assistants, challenging the current paradigm where internet connectivity is a prerequisite for functionality. This development could signal a potential change in how consumers perceive and utilize AI assistants in the future."
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "language": "en",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1. 7B, released with open weights",
+      "points": [
+        "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called Polic...",
+        "7B, released with open weights",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 20:00:30 +0000",
+      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "language": "en",
+      "summary": "AI computing startup Lambda is preparing for a significant funding round and an IPO in 2027, backed by Nvidia and led by major investors. The company is aiming to raise up to $4 billion in the funding round.",
+      "points": [
+        "Lambda is an AI computing startup backed by Nvidia and is set to raise up to $4 billion.",
+        "The funding round is expected to close in 2027 with a pre-money valuation of $14.5 billion.",
+        "Lambda's IPO is planned for 2027, with major investors such as Coatue and Blackstone leading the round."
+      ],
+      "insight": "Lambda's substantial funding round and planned IPO signal the growing confidence in AI computing startups and their potential to disrupt the IT industry."
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 19:56:50 +0000",
+      "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "language": "en",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle...",
+      "points": [
+        "Personal AI agents promise to shop, book flights, and make reservations for you",
+        "But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the ...",
+        "A new standard aims to help"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 18:22:45 +0000",
+      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "language": "en",
+      "summary": "Hark, an AI lab, has unveiled a new personal assistant that prioritizes user privacy, aiming to take on market giants like Muse, Dots, and Instinct.",
+      "points": [
+        "Hark introduces a privacy-focused AI personal assistant operating system",
+        "Targets competition with established personal assistants",
+        "Emphasizes user privacy as a key differentiator"
+      ],
+      "insight": "Hark'senh AI personal assistant, with its privacy-first approach, could redefine user trust and expectations in AI products, potentially shifting market dynamics."
+    },
+    {
+      "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+      "link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 17:14:07 +0000",
+      "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+      "language": "en",
+      "summary": "JioHotstar, an Indian streaming platform owned by Reliance Industries, will enter the Middle East through a partnership with Starzplay. The platform will not offer a stand-alone service in the region, instead integrating with Starzplay's offerings.",
+      "points": [
+        "JioHotstar will enter the Middle East through a partnership with Starzplay, integrating its content with Starzplay's offerings.",
+        "This move marks JioHotstar's expansion in the Middle East and its entry into a broader market.",
+        "The partnership approach could pave the way for more regional collaborations in the future."
+      ],
+      "insight": "The strategic partnership between JioHotstar and Starzplay highlights the increasing importance of collaboration and regional integration in the global streaming industry. This approach could benefit both companies by reaching a wider audience and strengthening their presence in the Middle East."
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "language": "en",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "link": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 16:29:12 +0000",
+      "description": "The storied Silicon Valley firm makes its first pure defense investment.",
+      "language": "en",
+      "summary": "Furientis, a company known for its AI and software, has secured $25 million from Benchmark Capital to produce low-cost missile interceptors.",
+      "points": [
+        "Furientis, led by CEO Michael Brown, has made its first investment in defense technology.",
+        "The funding comes from Benchmark Capital, Silicon Valley' extramural investor.",
+        "With this capital, Furientis plans to create missile interceptors that are cost-effective and capable of mass production."
+      ],
+      "insight": "This investment indicates a growing interest in integrating technology into defense systems, which could potentially lead to more affordable and efficient national security solutions."
+    },
+    {
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+      "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 16:18:45 +0000",
+      "description": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they've navigated crucial decisions.",
+      "language": "en",
+      "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they've navigated crucial decisions",
+      "points": [
+        "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "language": "en",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 15:25:00 +0000",
+      "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "language": "en",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy",
+      "points": [
+        "The maker of the open source document editor says it has no plans to add AI to its software's defaul...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+      "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 15:15:00 +0000",
+      "description": "Wajo's Fo agent can hire humans to complete a task.",
+      "language": "en",
+      "summary": "Wajo's Fo agent can hire humans to complete a task",
+      "points": [
+        "Wajo's Fo agent can hire humans to complete a task",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Bluesky wants to give you your own domain on the open web",
+      "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 14:41:52 +0000",
+      "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "language": "en",
+      "summary": "Bluesky, a company aiming to provide free domain names on the open web, anticipates a 18-24 month timeline for the project. This delay is due to the significant technical and logistical challenges they're facing.",
+      "points": [
+        "Bluesky' endorses the concept of a free, domain-based web, but acknowledges a 18-24 month implementation period.",
+        "The company is still in the process of building a scalable and secure infrastructure for domain provisioning.",
+        "Bluesky's approach involves a consensus-driven governance model to oversee the new domain system."
+      ],
+      "insight": "This news suggests a potential shift in how domain names are obtained and suggests a more open, accessible web. However, the significant development time indicates that Bluesky's vision might be years away from becoming a reality."
+    },
+    {
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 14:37:31 +0000",
+      "description": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "language": "en",
+      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform",
+      "points": [
+        "Non-Amazon Prime subscribers will be able to watch the awards show on the platform",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 14:33:16 +0000",
+      "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "language": "en",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals",
+      "points": [
+        "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfr...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 14:00:49 +0000",
+      "description": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "language": "en",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Uber is spending $2.3B to get into catering",
+      "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 14:00:25 +0000",
+      "description": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
+      "language": "en",
+      "summary": "Uber is investing $2.3 billion in its food delivery platform, Uber Eats, as it aims to expand into the catering sector.",
+      "points": [
+        "Uber is spending $2.3 billion to grow its food delivery platform, Uber Eats.",
+        "The move is part of Uber'self's strategy to become a catering behemoth.",
+        "The investment comes amidst a series of similar deals aimed at expansion."
+      ],
+      "insight": "This bold move by Uber indicates its ambition to dominate the catering and food delivery industry, potentially reshaping the market and challenging competitors."
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "description": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt 2de26 will feature a full agenda of sessions focusing on scaling and technology, offering discounts for early registration.",
+      "points": [
+        "TechCrunch Disrupt 2026 will have full-day sessions on scaling and technology.",
+        "Early registration offers up to $100 savings and a second pass at 50% off.",
+        "The event will be held in San Francisco from October 13-15."
+      ],
+      "insight": "TechCrunch Disrupt 2026's focus on scaling and technology suggests it will be a valuable resource for startups and tech professionals looking to expand and optimize their operations."
+    },
+    {
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+      "link": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 13:57:32 +0000",
+      "description": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+      "language": "en",
+      "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
+      "link": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 06 Oct 2026 13:15:00 +0000",
+      "description": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
+      "language": "en",
+      "summary": "Glimpse has developed new software called Explore, enabling hardware companies to accelerate quality control checks using CT scanners by providing an X-ray view of every critical part.",
+      "points": [
+        "Glimpse introduces Explore, a software solution for hardware companies using CT scanners.",
+        "Explore speeds up quality control checks.",
+        "Glimpse aims to provide an 'X-ray view' of critical hardware parts."
+      ],
+      "insight": "Glimpse's Explore software could revolutionize quality control processes within the IT/technology industry by providing a fast and detailed X-ray view of hardware components, reducing inspection time and human error."
+    },
     {
       "title": "Facebook tests going Reels-first in India",
       "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
@@ -446,306 +746,6 @@
       "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats",
       "points": [
         "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "language": "en",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "language": "en",
-      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it",
-      "points": [
-        "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and wh...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 03 Oct 2026 00:45:39 +0000",
-      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "language": "en",
-      "summary": "Meta is offering Muse technology, which integrates artificial intelligence, with consumer gadgets like TVs and toasters, at no cost to users.",
-      "points": [
-        "Meta has released Muse code for free use.",
-        "Muse code can be integrated into various consumer electronics.",
-        "Free Muse code provides access to AI-driven features."
-      ],
-      "insight": "This initiative by Meta democratizes access to advanced AI features, potentially accelerating AI integration into everyday consumer technology and increasing competition in the smart home market."
-    },
-    {
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 03 Oct 2026 00:21:57 +0000",
-      "description": "The proposed legislation would extend to all automotica license plate readers.",
-      "language": "en",
-      "summary": "The proposed legislation would extend to all automotica license plate readers",
-      "points": [
-        "The proposed legislation would extend to all automotica license plate readers",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 21:09:14 +0000",
-      "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "language": "en",
-      "summary": "Ex-Facebook CEO Sean Parker is now funding and leading a music-focused AI startup, Stability AI, backed by the industry's largest labels.",
-      "points": [
-        "Sean Parker, known for his contentious history with the music industry, is reinventing the scene with Stability AI, an AI-focused company.",
-        "Stability AI, led by Parker, aims to revolutionize music production with the backing of major labels.",
-        "The investment in Stability AI is significant, indicating a strong belief in the potential of AI to transform the music industry."
-      ],
-      "insight": "Sean Parker' endorsement of Stability AI highlights the increasing intersection of technology and music, signifying a pivotal moment where AI could become a driving force in shaping the future of music production and consumption."
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "language": "en",
-      "summary": "The article announces a limited-time offer for a reduced-price TechCrunch Disrupt 2energ 2026 Expo+ Pass, available only to the first 100 people to qualify due to recent layoffs. This is a significant saving for attendees as the standard price is $200.",
-      "points": [
-        "Expo+ Pass at a reduced price of $75 is available for the first 100 qualifiers.",
-        "The offer is meant to help those affected by layoffs.",
-        "The standard price for the pass was $200."
-      ],
-      "insight": "This special pricing initiative by TechCrunch Disrupt demonstrates an awareness of the economic challenges in the IT/technology industry and an effort to ensure diverse participation by providing discounted access to the expo for those impacted by layoffs."
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 18:11:27 +0000",
-      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "language": "en",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 17:48:16 +0000",
-      "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
-      "language": "en",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding. ” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 17:00:00 +0000",
-      "description": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that.",
-      "language": "en",
-      "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that",
-      "points": [
-        "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already har...",
-        "Circuit Breaker Labs has created \"crash test dummies\" to solve that",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 15:53:50 +0000",
-      "description": "The roughly $110 billion deal is expected to close October 6.",
-      "language": "en",
-      "summary": "The roughly $110 billion deal is expected to close October 6",
-      "points": [
-        "The roughly $110 billion deal is expected to close October 6",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 15:39:41 +0000",
-      "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "language": "en",
-      "summary": "Pope Leo XIV expressed his personal opinion, stating that AI cannot replicate the humanity and originality found in art due to its reliance on algorithms and vast image databases. He views the difference between human and AI-generated art as significant and ontological, rather than merely aesthetic.",
-      "points": [
-        "Pope Leo XIV highlighted an ontological difference between AI-generated and human-created art.",
-        "The pope believes algorithms lack the spark of humanity essential to art.",
-        "AI relies on millions of images and statistical calculations to generate art."
-      ],
-      "insight": "While AI continues to make strides in various fields, Pope Leo XIV's opinion serves as a reminder that there is an inherent value in the human touch and creativity in art. His perspective invites reflection on the role of technology in creative industries and the importance of maintaining a balance between technological advancement and human expression."
-    },
-    {
-      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-      "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 15:31:20 +0000",
-      "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-      "language": "en",
-      "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "language": "en",
-      "summary": "Jas Khaira of Blackstone will speak about constructing future AI leaders at TechCrunch Disrupt 2026.",
-      "points": [
-        "Jas Khaira, from Blackstone, will present on the future of AI at TechCrunch Disrupt.",
-        "Khaira's approach involves building a team with a diverse set of skills and a strong foundational knowledge of AI.",
-        "The focus will be on developing a sustainable AI business model that can thrive in the long term."
-      ],
-      "insight": "This event highlights the importance of strategic planning and diversity in cultivating AI businesses poised for future success."
-    },
-    {
-      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
-      "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 14:47:46 +0000",
-      "description": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
-      "language": "en",
-      "summary": "President Trump's executive order on artificial intelligence has led to a surge in demand for the .si domain name in Slovenia.",
-      "points": [
-        "President Trump's order on AI-based executive actions has created a rush for the Slovenian domain .si.",
-        "The Slovenian registrar reports a significant increase in .si domain registrations since the executive order.",
-        "This trend reflects a growing interest in technology and cybersecurity."
-      ],
-      "insight": "This surge in .si domain registrations illustrates a broader interest in AI and its implications within the technology industry, which could influence future policy and investment decisions."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 14:30:00 +0000",
-      "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "language": "en",
-      "summary": "Kareem Amin, Co-founder and CEO of Clay, discusses the emerging role of the Go-To-Market (GTM) engineer at TechCrunch Disrupt 2term 2026.",
-      "points": [
-        "TechCrunch Disrupt 2026 saw the rise of the Go-To-Market (GTM) engineer, a role dedicated to bridging the gap between product development and market success.",
-        "GTM engineers are being increasingly valued for their unique skill sets, which combine technical expertise with a deep understanding of market dynamics.",
-        "The trend indicates a shift in the tech industry towards more market-oriented product development, with a focus on customer-centric strategies."
-      ],
-      "insight": "The rise of GTM engineers signifies a paradigm shift in tech development, emphasizing the importance of market-centric strategies and customer-focused product development for success."
-    },
-    {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 14:00:00 +0000",
-      "description": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
-      "language": "en",
-      "summary": "TechCrunch Disrupt 2026 is a significant event where 10,000+ tech professionals gather to connect with startups. The last day to book a table is today, making this a crucial time for startups to showcase themselves to a vast audience. The event's goal is to foster networking and discovery in the tech industry.",
-      "points": [
-        "TechCrunch Disrupt 2026, featuring over 10,000 attendees, is a landmark event for startups and tech enthusiasts.",
-        "Exhibit tables at TechCrunch Disrupt are limited, with the last day to book being today.",
-        "The event is designed to promote networking, discovery, and connections between tech professionals and startups."
-      ],
-      "insight": "For startups, TechCrunch Disrupt 2026 presents an invaluable opportunity to gain visibility, network with industry leaders, and potentially secure investments and partnerships."
-    },
-    {
-      "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 14:00:00 +0000",
-      "description": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the […]",
-      "language": "en",
-      "summary": "The TechCrunch Founder Summit 2 endorsement is nearing, with a less than 24-hour window for entrepreneurs to apply for hosting a Side Event. The event aims to engage the local startup community and discuss impactful topics. The application deadline is tonight at midnight PT.",
-      "points": [
-        "Less than 24 hours left to apply for a Side Event at TechCrunch Founder Summit 2026.",
-        "Host an event to connect with the Boston startup ecosystem.",
-        "The event seeks to drive meaningful conversations among entrepreneurs."
-      ],
-      "insight": "This news highlights the importance of entrepreneurial networking and discussion within the tech community, offering a unique opportunity to foster growth and exchange ideas at the Founder Summit."
-    },
-    {
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 13:39:23 +0000",
-      "description": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-      "language": "en",
-      "summary": "Despite facing challenges in the United States, Tesla continued to deliver a significant number of electric vehicles in the third quarter, demonstrating sustained momentum in its EV sales.",
-      "points": [
-        "Tesla delivered more than 486,000 EVs in the third quarter.",
-        "Sales were down from last year's record but still represented a positive trajectory.",
-        "The company's continued growth in EV deliveries signals strong demand and confidence in the electric vehicle market."
-      ],
-      "insight": "Tesla's resilience in maintaining EV sales, even amidst adversity, underscores the enduring demand for electric vehicles and the company's pivotal role in the industry's ongoing transition."
-    },
-    {
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-      "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 13:23:09 +0000",
-      "description": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-      "language": "en",
-      "summary": "Epic, a major provider of health tech software and the maker of the widely used MyChart system, is pausing product development to address significant security bugs that pose a risk to patients' data. This move aims to ensure the privacy and safety of the sensitive information managed through MyChart.",
-      "points": [
-        "Epic is pausing product development to fix critical security bugs.",
-        "The bugs could potentially risk exposure of sensitive medical data to unautcurated parties.",
-        "This proactive measure highlights the company's commitment to data privacy and security."
-      ],
-      "insight": "The decision by Epic to prioritize security over new developments sends a strong message about the importance of data protection in the healthcare IT industry, potentially influencing other companies to adopt similar security-first approaches."
-    },
-    {
-      "title": "Rivian’s R2 just helped it set a new sales record",
-      "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 02 Oct 2026 13:17:05 +0000",
-      "description": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
-      "language": "en",
-      "summary": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs",
-      "points": [
-        "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more th...",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
