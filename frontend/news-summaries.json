@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-08T04:37:24.910Z",
+  "generatedAt": "2026-10-08T12:57:09.350Z",
   "articles": [
+    {
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "description": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "language": "en",
+      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital",
+      "points": [
+        "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+      "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 08 Oct 2026 06:14:11 +0000",
+      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+      "language": "en",
+      "summary": "India is challenging Elon Musk's assertion of discrimination in the Starlink project, as the country continues its security review to grant spectrum for commercial use.",
+      "points": [
+        "India questions Elon Musk'thy Starlink's claims of discrimination as the nation scrutinizes the project for security clearance.",
+        "Starlink is in the process of obtaining necessary permissions to utilize spectrum and provide its internet services in India.",
+        "The Indian government's review process and allegations of discrimination could impact Starlink's operations in the country."
+      ],
+      "insight": "The Starlink controversy in India could signify broader concerns about foreign tech company operations within emerging markets and how governments approach national security issues."
+    },
     {
       "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
       "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
@@ -720,36 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 05 Oct 2026 21:54:01 +0000",
-      "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-      "language": "en",
-      "summary": "Lucid Motors is intentionally reducing EV output due to difficulty in finding mass-market demand.",
-      "points": [
-        "Lucid Motors' EV production has significantly declined.",
-        "The company is experienthy struggling to find mass-market demand for its EVs.",
-        "As a result, Lucid Motors is deliberately limiting production."
-      ],
-      "insight": "This news suggests that Lucid Motors is facing challenges in scaling its EV production to meet the growing demand for electric vehicles in the market."
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 05 Oct 2026 20:36:48 +0000",
-      "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "language": "en",
-      "summary": "OpenAI plans to watermark ChatGPT's text in the EU as part of AI Act compliance. Editing may alter visible watermarks, but this measure aims to ensure accountability.",
-      "points": [
-        "OpenAI will implement watermarking for ChatGPT and Codex text in the EU.",
-        "The watermarks are designed to be less detectable when text is edited.",
-        "This measure is taken to comply with the EU'de AI Act, aiming for greater transparency."
-      ],
-      "insight": "The implementation of watermarking in the EU by OpenAI reflects the growing importance of accountability and transparency in AI technologies, potentially setting a precedent for global standards."
     }
   ]
 }
