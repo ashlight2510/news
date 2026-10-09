@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-09T04:39:41.007Z",
+  "generatedAt": "2026-10-09T12:37:11.161Z",
   "articles": [
+    {
+      "title": "Xona’s commercial GPS alternative is about to go live",
+      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "language": "en",
+      "summary": "Xona is launching six satellites designed by the company for a precision timing and navigation service which will enter beta testing.",
+      "points": [
+        "Xona's precision timing and navigation service is entering beta testing after the SpaceX satellite launch.",
+        "The launch will involve SpaceX launching six satellites that were designed by Xona.",
+        "This service could potentially serve as a commercial alternative to GPS."
+      ],
+      "insight": "The launch of Xona's satellites and subsequent beta testing of their precision timing and navigation service could provide a viable commercial alternative to GPS technology, potentially disrupting the industry."
+    },
     {
       "title": "President Trump awards big tech donors with nation’s highest science prizes",
       "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
@@ -735,21 +750,6 @@
         "Underdog is backed by top Silicon Valley entrepreneurs and aims to address privacy concerns by keeping data on-device."
       ],
       "insight": "The launch of Underdog represents a significant shift towards privacy-focused AI assistants, challenging the current paradigm where internet connectivity is a prerequisite for functionality. This development could signal a potential change in how consumers perceive and utilize AI assistants in the future."
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 06 Oct 2026 20:35:20 +0000",
-      "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "language": "en",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1. 7B, released with open weights",
-      "points": [
-        "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called Polic...",
-        "7B, released with open weights",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
