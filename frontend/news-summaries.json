@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-10T17:07:38.524Z",
+  "generatedAt": "2026-10-10T21:12:05.677Z",
   "articles": [
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "language": "en",
+      "summary": "Apple has made a deal to hire a team and license technology from the personalized podcast startup Huxe, indicating a potential expansion into AI-generated podcasts.",
+      "points": [
+        "Apple is hiring a team and licensing technology from Huxe, a personalized podcast startup.",
+        "This deal could signal Apple's entry into the AI-generated podcast market.",
+        "Huxe specializes in personalized podcast experiences, which Apple may integrate into its own services."
+      ],
+      "insight": "The deal represents Apple's interest in AI-generated content and could impact the broader podcast industry by influencing other tech giants to explore similar opportunities."
+    },
     {
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
@@ -735,21 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 07 Oct 2026 18:30:57 +0000",
-      "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "language": "en",
-      "summary": "Meta has launched its AI assistant, Muse, on the iPad one month after its release on mobile devices. This expansion comes as the company aims to broaden Muse's accessibility and integration capabilities.",
-      "points": [
-        "Meta' end of Muse mobile debut.",
-        "Muse available on iPad one month after mobile launch.",
-        "Meta aims to expand Muse's accessibility and integrations."
-      ],
-      "insight": "The availability of Meta's Muse on iPad highlights the company's focus on expanding the AI assistant's reach beyond smartphones, which may impact the future development and integration of AI assistants in various devices and platforms."
     }
   ]
 }
