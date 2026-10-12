@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-12T04:26:05.416Z",
+  "generatedAt": "2026-10-12T14:32:44.729Z",
   "articles": [
+    {
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 14:09:34 +0000",
+      "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "language": "en",
+      "summary": "Ultrahuman, a smart ring maker, has partnered with Abu Dhabi to validate a biological-age model over the next two years. The collaboration aims to develop a non-invasive, continuous monitoring system that tracks the body's biological age. Early indicators suggest promising results for the biological age model.",
+      "points": [
+        "Ultrahuman and Abu Dhabi form a partnership to develop a biological-age model using smart ring technology.",
+        "The biological-age model aims to provide continuous, non-invasive monitoring of the body' endocrine system and other biomarkers.",
+        "Clinical validation of the biological-age model is planned to be completed within two years."
+      ],
+      "insight": "This development highlights the expanding role of wearable technology in the healthcare industry and could lead to personalized healthcare strategies based on an individual's biological age rather than chronological age."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 14:00:00 +0000",
+      "description": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+      "language": "en",
+      "summary": "TechCrunch Disrupt 2026 will begin tomorrow, attracting over 10,000 participants for a three-day event. Attendees have the opportunity to save up to $100 on tickets and get 50% off a second ticket.",
+      "points": [
+        "The event is starting tomorrow at 8 a.m. PT and will last for three days.",
+        "More than 10,000 founders, investors, and tech operators are expected to attend.",
+        "Attendees can secure ticket savings of up to $100 and get 50% off a second ticket."
+      ],
+      "insight": "TechCrunch Disrupt 2026 is a significant event for the tech industry as it provides a platform for founders and investors to connect, and its substantial ticket savings and discounts make it an attractive opportunity for industry professionals."
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 12:47:59 +0000",
+      "description": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "language": "en",
+      "summary": "A former Plaud executive has raised $26 million to launch Ambi, an AI application designed to capture and process audio from the ambient environment. The app is set to provide features such as speech-to-text transcription, personalized reminders, and smart commands, which can interact with various smart home devices and virtual assistants.",
+      "points": [
+        "Former Plaud executive has launched Ambi, an AI application that captures ambient audio for processing.",
+        "Ambi is set to provide features such as speech-to-text transcription, personalized reminders, and smart commands.",
+        "Ambi can interact with various smart home devices and virtual assistants."
+      ],
+      "insight": "The launch of Ambi represents the growing trend of AI applications that are becoming increasingly integrated into our daily lives, offering a new level of personalized and automated interaction with technology. It highlights the potential of AI to transform not just how we communicate, but also how we interact with our environment."
+    },
     {
       "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
       "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -705,51 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "language": "en",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "language": "en",
-      "summary": "Goodfire has developed an 'inside-out' monitor system for AI agents, reducing costs and only involving a second AI when suspicious activity is detected. The technology uses the internal workings of the AI model to identify malicious patterns and triggers.",
-      "points": [
-        "Goodfire's 'inside-out' monitor system observes AI agent behavior internally, reducing the need for a separate, expensive AI.",
-        "The new technology only calls for a second AI'thy to intervene when it detects potentially rogue activity.",
-        "Goodfire claims the new system offers a cheaper alternative to traditional AI monitoring methods."
-      ],
-      "insight": "Goodfire's new monitoring system could lead to significant cost savings and increased efficiency in monitoring AI agents within the IT/technology industry."
-    },
-    {
-      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
-      "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 15:42:26 +0000",
-      "description": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
-      "language": "en",
-      "summary": "The U.S. government has barred Microsoft, Adobe, and several major IT firms from its H-1B visa program, which is designed for skilled foreign workers. The suspension, which is set to last 60 days, affects these companies' ability to bring in talent from abroad.",
-      "points": [
-        "The U.S. government has suspended Microsoft, Adobe, and several other IT firms from its H-1B visa program.",
-        "The suspension affects the ability of these companies to bring skilled foreign workers to the U.table.",
-        "The temporary suspension lasts for 60 days and affects 60,000 visas, or half of the cap set for the program."
-      ],
-      "insight": "The suspension of these major IT firms from the H-1B visa program may lead to a significant talent gap in the U.S. technology industry and could potentially harm the companies' growth and competitiveness."
     }
   ]
 }
