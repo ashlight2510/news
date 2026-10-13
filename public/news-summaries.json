@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-12T14:32:44.729Z",
+  "generatedAt": "2026-10-13T00:14:04.627Z",
   "articles": [
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 17:56:56 +0000",
+      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "language": "en",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 17:19:14 +0000",
+      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "language": "en",
+      "summary": "Silicon Valley startup WindBorne has secured a U.S. military contract worth nearly $50 million. The company uses weather balloons and AI for weather prediction and forecasting.",
+      "points": [
+        "WindBorne's contract with the U.S. military worth nearly $50 million",
+        "Use of weather balloons and AI for weather prediction",
+        "Potential impact on military strategies and operations"
+      ],
+      "insight": "The U.S. military's investment in WindBorne's weather prediction technology demonstrates the growing importance of accurate weather forecasting for military operations. Additionally, this contract could incentivize further research and innovation in the intersection of weather science and AI."
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 15:45:00 +0000",
+      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "language": "en",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better",
+      "points": [
+        "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR p...",
+        "But could AI actually make things better",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 15:31:19 +0000",
+      "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "language": "en",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies",
+      "points": [
+        "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 15:27:59 +0000",
+      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "language": "en",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 12 Oct 2026 15:11:19 +0000",
+      "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+      "language": "en",
+      "summary": "Google has launched the Fitbit Edge, a wearable device priced at $179.99, combining the design of the Fitbit Air with an OLED display and a form factor in between the Fitbit Air and the Pixel Watch.",
+      "points": [
+        "Google's new Fitbit Edge offers an OLED display with a design reminiscent of the Fitbit Air.",
+        "The Fitbit Edge is priced lower than the Pixel Watch but higher than the Fitbit Air.",
+        "Google has positioned the Fitbit Edge as a middle ground in the wearable market, between the Fitbit Air and the Pixel Watch."
+      ],
+      "insight": "The Fitbit Edge's launch indicates Google's desire to capture a segment of the wearable market that values a balance between style, display quality, and affordability, potentially influencing other companies to offer more competitively priced yet feature-rich devices."
+    },
     {
       "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
       "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
@@ -657,96 +747,6 @@
       "points": [
         "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to op...",
         "The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more tha...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "language": "en",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "language": "en",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that",
-      "points": [
-        "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "language": "en",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address",
-      "points": [
-        "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business app...",
-        "The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace id...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "language": "en",
-      "summary": "Anthropic has updated its usage policy, particularly concerning the misuse of its language model, Claude. The policy now bans abuse cases, election interference, and deceptive campaigns, while still allowing ordinary criticism.",
-      "points": [
-        "Claude's new usage policy prohibits misuse in extreme cases",
-        "Policy also addresses election interference and deceptive campaigns",
-        "Ordinary criticism and frustration still allowed"
-      ],
-      "insight": "The updated policy showcases Anthropic's commitment to ethical AI use, setting a precedent for other AI companies in tackling similar issues."
-    },
-    {
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 18:10:55 +0000",
-      "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "language": "en",
-      "summary": "OpenAI's mathematical solutions are currently not aligned with the standards of the field, as they diverge from the guidelines provided by consulted researchers.",
-      "points": [
-        "OpenAI's mathematical proofs have deviated from consulted researcher guidelines.",
-        "The divergence has led to dissatisfaction with the quality of OpenAI's mathematical solutions.",
-        "OpenAI and the research community aim to align OpenAI's solutions with field standards."
-      ],
-      "insight": "The news suggests that OpenAI's mathematical contributions are not yet meeting the high standards of the mathematical community, which could impact their reputation and acceptance in the field."
-    },
-    {
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-      "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 08 Oct 2026 16:45:00 +0000",
-      "description": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
-      "language": "en",
-      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
