@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-17T20:14:20.951Z",
+  "generatedAt": "2026-10-18T03:07:43.980Z",
   "articles": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "language": "en",
+      "summary": "Meta has revised its terms of service to clarify its web crawling and AI training practices. The company insists the changes do not reflect a shift in policy but aim to dispel concerns.",
+      "points": [
+        "Meta updated its terms to address web scraping and AI training concerns.",
+        "The company clarified that the changes do not reflect a shift in their web crawling practices.",
+        "Meta insists the revisions aim to dispel concerns about their data practices."
+      ],
+      "insight": "The revised terms highlight Meta's commitment to transparency in its data use for AI training, potentially easing industry concerns over privacy and scraping practices."
+    },
+    {
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 17 Oct 2026 20:55:52 +0000",
+      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "language": "en",
+      "summary": "TikTok has permanently banned a four-hour documentary about Elon Musk advertised through its 'Musk' account. The 'Musk' account was previously suspended for promoting misinformation related to Musk'semajor endeavors.",
+      "points": [
+        "TikTok permanently bans 'Musk' documentary advertising account.",
+        "The 'Musk' account was previously suspended for promoting misinformation.",
+        "The ban applies to both the 'Musk' account and its associated 'Musk' channel."
+      ],
+      "insight": "The permanent ban of the 'Musk' account on TikTok signifies the social media platform's continued effort to mitigate the spread of misinformation and maintain the integrity of its content, despite backlash from supporters of Elon Musk."
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 17 Oct 2026 20:21:19 +0000",
+      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "language": "en",
+      "summary": "Anthropic, a leading AI firm, has observed a shift in its workforce from predominantly junior employees to a more experienced team, leading to increased time spent in meetings and a change in project focus.",
+      "points": [
+        "Anthropic'ner workforce has shifted from junior to more experienced employees.",
+        "Junior employees have started focusing on more tangible projects.",
+        "The company's spending on meetings and presentations has increased."
+      ],
+      "insight": "The change in Anthropic's workforce composition suggests a maturing of the AI industry, with a move towards more experienced teams driving the industry's growth and shifting focus to practical applications of AI technologies."
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -705,51 +750,6 @@
         "The test is available for home use and retails for €149, a price point that could make it accessible to a wide range of patients."
       ],
       "insight": "TimeTeller's innovation may lead to a new era in personalized medicine, where treatments are not only based on genetic makeup but also on an individual's internal clock, enhancing efficacy and reducing side effects."
-    },
-    {
-      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 14 Oct 2026 19:51:34 +0000",
-      "description": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
-      "language": "en",
-      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant",
-      "points": [
-        "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels,...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 14 Oct 2026 19:00:00 +0000",
-      "description": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
-      "language": "en",
-      "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives",
-      "points": [
-        "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 14 Oct 2026 18:23:46 +0000",
-      "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "language": "en",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals",
-      "points": [
-        "The label will appear on the player page and include songs entirely generated by AI or partially, su...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
