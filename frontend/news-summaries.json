@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-10-19T22:14:22.196Z",
+  "generatedAt": "2026-10-20T03:33:22.333Z",
   "articles": [
+    {
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 02:00:00 +0000",
+      "description": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "language": "en",
+      "summary": "Flipkart is expanding access to its food delivery service to thousands of employees in preparation for its public launch in India.",
+      "points": [
+        "Flipkart, initially a B2B e-commerce platform, is expanding its services to include grocery delivery.",
+        "The company has already trained over 15,000 employees to become food delivery partners.",
+        "Flipkart is making strategic investments in technology to expand its operations across multiple cities in India."
+      ],
+      "insight": "The expansion of Flipkart's food delivery service into a potential challenger to established players like Swiggy and Zomato demonstrates the growing significance of e-commerce and food delivery services in the Indian market."
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 01:27:03 +0000",
+      "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "language": "en",
+      "summary": "Mayor Zohran Mamdani called on New Yorkers to challenge the idea of an inevitable AI takeover and demand regulations to protect the public. Mamdani emphasized that the government has largely abdicated its responsibility in this area.",
+      "points": [
+        "New Yorkers should resist the narrative that an AI takeover is inevitable.",
+        "Mamdani highlights the government' endorsement of the narrative over public concerns.",
+        "Mamdani urges the public to demand regulations to protect their interests and restore power."
+      ],
+      "insight": "The news underscores the need for public engagement in the discourse about AI and emphasizes that citizens have a role in shaping AI policies to ensure they are in the public interest."
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "language": "en",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year",
+      "points": [
+        "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic h...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "language": "en",
+      "summary": "Embedded evaluators, or 'neutral' observers placed within AI organizations, have gained popularity amidst safety concerns. Hugging Face's policy chief cautions that these evaluators won't be a straightforward solution.",
+      "points": [
+        "Popularity of embedded evaluators in AI organizations due to safety concerns.",
+        "Embedded evaluators are not a simple solution, as per Hugging Face's policy chief.",
+        "Embedded evaluators aim to monitor and address potential harms of AI technology."
+      ],
+      "insight": "The news indicates that embedded evaluators in AI organizations may not be the definitive solution to safety concerns, highlighting the complexity of ensuring AI safety and ethics."
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch",
+      "publishedAt": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "language": "en",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic",
+      "points": [
+        "Microsoft wants enterprises to closely watch the agents that employees use with systems not controll...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
@@ -675,81 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Oct 2026 19:14:26 +0000",
-      "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "language": "en",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Oct 2026 18:56:46 +0000",
-      "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "language": "en",
-      "summary": "Bluesky'sem Attie platform, initially an experimental tool for creative coding using social media interactions, has expanded to allow broader audiences to build interactive experiences such as games and websites.",
-      "points": [
-        "Bluesky's Attie platform utilizes AI to enable user-generated interactive experiences.",
-        "The platform has expanded beyond Bluesky's internal use, allowing external users to build games, quizzes, and websites.",
-        "This expansion includes a social aspect where creations can tap into the social network's audience."
-      ],
-      "insight": "Bluesky's expansion of its Attie platform marks a shift in democratizing the creation of interactive digital experiences, providing new opportunities for creators to engage with audiences and potentially disrupt traditional web development and gaming industries."
-    },
-    {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Oct 2026 18:00:00 +0000",
-      "description": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-      "language": "en",
-      "summary": "TechCrunch Founder Summit attendees can save up to $200 on passes if they book early, a deal that ends on October 16.",
-      "points": [
-        "Attendees can save up to $200 on Founder and Investor Passes.",
-        "Early booking ends on October 16.",
-        "The event will bring together 1,000 founders and investors."
-      ],
-      "insight": "The early booking incentive for the TechCrunch Founder Summit highlights the importance of securing event tickets in advance, which can be valuable for networking and gaining insights from industry leaders."
-    },
-    {
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Oct 2026 17:34:40 +0000",
-      "description": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-      "language": "en",
-      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 15 Oct 2026 16:45:37 +0000",
-      "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "language": "en",
-      "summary": "SK Hynix is trying to send more chipmaking equipment to China and build a factory in the US, and it needs U. endorsement to do so.",
-      "points": [
-        "SK Hynix's subsidiary Solidigm wants U.S. permission to export more chipmaking equipment to China.",
-        "SK Hynix is considering building a new NAND chip factory in the United States.",
-        "The company is awaiting U.S. government approval to proceed with the export of equipment."
-      ],
-      "insight": "This news could indicate a major shift in the global semiconductor supply chain, potentially impacting regional economies and the geopolitical balance of power."
     }
   ]
 }
