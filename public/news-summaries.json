@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-10-20T16:29:44.619Z",
+  "generatedAt": "2026-10-20T21:26:54.152Z",
   "articles": [
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "language": "en",
+      "summary": "SpaceX's AI-driven initiatives have propelled the company into profitability during the third quarter, with a net income of $4.4 billion.",
+      "points": [
+        "SpaceX achieved profitability in the third quarter.",
+        "AI was the key driver behind SpaceX'death spiral, resulting in a significant net income.",
+        "SpaceX's financial success through AI investments demonstrates the growing importance of AI in the space industry."
+      ],
+      "insight": "SpaceX's success with AI investments highlights the potential for AI to revolutionize the space industry, while also providing valuable lessons for other tech companies considering AI-driven transformations."
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 20:35:10 +0000",
+      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "language": "en",
+      "summary": "OpenAI has acquired the startup Orchestra Bio to expand its biotech division, incorporating Orchestra's team and technology into OpenAI's Rosalind AI model and workbench tool for life sciences research.",
+      "points": [
+        "OpenAI has made a strategic acquisition of the biotech startup Orchestra Bio.",
+        "The acquisition is aimed at enhancing OpenAI's Rosalind AI model and Rosalind Workbench tool, which are designed to aid researchers in planning experiments and analyzing results in the life sciences sector.",
+        "By integrating Orchestra's technology and team, OpenAI is looking to make significant strides in the intersection of AI and biotechnology."
+      ],
+      "insight": "The acquisition of Orchestra Bio by OpenAI signifies a growing trend of integrating artificial intelligence into biotechnology, potentially leading to major breakthroughs in life sciences research."
+    },
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 20:00:00 +0000",
+      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "language": "en",
+      "summary": "Google is integrating its AI assistant, Gemini, into cars with a personalized intelligence feature that utilizes user data from various Google services to provide tailored responses while driving.",
+      "points": [
+        "Google' extramotoristic plan to incorporate personalized AI assistant, Gemini, into cars",
+        "Gemini will draw on user information from Gmail, Calendar, Maps, YouTube, and other Google services",
+        "Purpose is to offer tailored responses while driving, enhancing the user experience"
+      ],
+      "insight": "Google's expansion of AI assistance into the automotive space signifies the growing convergence of technology and personal mobility, potentially revolutionizing in-car assistance and user interaction."
+    },
+    {
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 19:32:43 +0000",
+      "description": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+      "language": "en",
+      "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy",
+      "points": [
+        "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with th...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 18:38:24 +0000",
+      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "language": "en",
+      "summary": "Google, following Amazon's lead, has introduced a developer tool designed to facilitate the transition of PyTorch apps from Nvidia GPUs. This move indicates a shift in the AI app developer landscape.",
+      "points": [
+        "Google, like Amazon, has released a developer tool to aid PyTorch users in moving their AI apps off Nvidia GPUs.",
+        "This initiative by tech giants shows a growing trend to diversify away from Nvidia's technology.",
+        "The news suggests potential changes and challenges for Nvidia in maintaining its position in the AI market."
+      ],
+      "insight": "The trend among major tech companies to create alternative tools could diminish Nvidia's dominance in AI app development, leading to a more competitive and diverse AI ecosystem."
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 18:36:53 +0000",
+      "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "language": "en",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 17:55:12 +0000",
+      "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "language": "en",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported",
+      "points": [
+        "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 20 Oct 2026 17:12:48 +0000",
+      "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "language": "en",
+      "summary": "Muse, Meta's AI-driven app, has reached 10 million downloads in the U.S. within 40 days, joining a select group of apps including Meta's own Threads. Muse also shows better user retention than its competitors.",
+      "points": [
+        "Muse AI companion from Meta reached 10 million U.S. downloads in 40 days",
+        "Muse joins an exclusive group including Threads",
+        "Muse shows better user retention rates than its competitors"
+      ],
+      "insight": "Muse's success demonstrates the increasing demand for AI companions in the IT/technology industry, potentially setting a new benchmark for user engagement and retention."
+    },
     {
       "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
       "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
@@ -627,126 +747,6 @@
       "points": [
         "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider",
         "Claude will still be available to customers on the platform",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 17 Oct 2026 15:30:00 +0000",
-      "description": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "language": "en",
-      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature",
-      "points": [
-        "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your d...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 17 Oct 2026 02:36:18 +0000",
-      "description": "",
-      "language": "en",
-      "summary": "Mark Wahlberg is planning to launch an affordable gym concept, targeting the growing longevity-startup market, as he prepares for his role in 'Tick, Tick, Boom.'",
-      "points": [
-        "Mark Wahlberg announces a new affordable gym concept",
-        "Targets the burgeoning longevity-startup market",
-        "Aims to capitalize on his upcoming role in 'Tick, Tick, Boom'"
-      ],
-      "insight": "With Wahlberg's entry, the affordable gym market could see increased competition, potentially driving innovation and lower prices for consumers in the longevity-startup space."
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "language": "en",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic",
-      "points": [
-        "Masad said the decision was made for a number of different reasons, including cost",
-        "Replit announced a partnership with OpenAI in August, but there was never any indication that it was...",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 16 Oct 2026 19:40:00 +0000",
-      "description": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "language": "en",
-      "summary": "The article discusses the launch of the 2026 Porsche Macan Turbo EV, a high-performance electric vehicle with significant power output and a substantial battery capacity.",
-      "points": [
-        "The Porsche Macan Turbo EV is set to launch with 630 horsepower and a 100-kWh battery.",
-        "As a two-row crossover, it represents Porsche's first foray into a segment that combines the brand's performance pedigree with electric drivetrains.",
-        "The vehicle reflects Porsche's commitment to expanding its electric vehicle lineup and adapting to the increasing demand for electric vehicles in the automotive industry."
-      ],
-      "insight": "The Porsche Macan Turbo EV launch signals a significant shift in the automotive industry towards electric vehicles, with traditional manufacturers like Porsche making bold moves to embrace sustainable technologies while retaining their performance heritage."
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "language": "en",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "language": "en",
-      "summary": "Amulya Vishwanath, a former Nvidia robotics marketing lead, describes the robotics industry as being in its 'Lego era,' with key components still being developed. His view contrasts with the belief that robotics will have a transformative moment similar to ChatGPT.",
-      "points": [
-        "Robotics industry is still in the Lego era, with foundational elements under construction.",
-        "Vishwanath spent seven years leading product marketing for Nvidia'th robotics platforms.",
-        "The article contrasts the current state of robotics with the transformative impact of ChatGPT."
-      ],
-      "insight": "The robotics industry may be on the cusp of a similar transformative moment to ChatGPT but is currently in a developmental phase where essential building blocks are being refined and improved."
-    },
-    {
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 16 Oct 2026 16:06:38 +0000",
-      "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "language": "en",
-      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets",
-      "points": [
-        "The company will start off by testing its self-driving vehicles on Toronto's streets",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "description": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "language": "en",
-      "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
