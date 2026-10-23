@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-23T03:30:26.531Z",
+  "generatedAt": "2026-10-23T11:04:07.291Z",
   "articles": [
+    {
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Oct 2026 04:22:57 +0000",
+      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "language": "en",
+      "summary": "Oura has filed a new lawsuit against Ultrahuman, claiming their Ring Pro smart ring infringes on Oura'ner patents. Oura is trying to protect its position in the U.S. smart ring market.",
+      "points": [
+        "Oura sued Ultrahuman for patent infringement, alleging that the Ring Pro uses Oura's patented technology.",
+        "This marks the second time Oura has filed such a lawsuit against Ultrahuman, indicating a strong competitive stance.",
+        "The U.S. market for smart rings is growing, with both Oura and Ultrahuman seeking to establish a strong presence."
+      ],
+      "insight": "Oura's legal action against Ultrahuman indicates the fierce competition in the smart ring market, where intellectual property is crucial for maintaining a competitive edge, particularly in a growing U.S. market."
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "language": "en",
+      "summary": "inDrive, Uber's rival, plans to conduct robotaxi tests in Kazakhstan's capital, Nur-Sultan, in 2027. The tests aim to advance the development of autonomous vehicle technologies, with Pony.ai providing the robotaxis and Nvidia supporting the technology.",
+      "points": [
+        "inDrive is collaborating with Pony.ai and Nvidia to test autonomous robotaxis in Kazakhstan.",
+        "The tests are planned to begin in the first half of 2027 in Nur-Sultan, Kazakhstan's capital.",
+        "This project aims to advance the development of autonomous vehicle technologies."
+      ],
+      "insight": "This news indicates that the industry is making significant strides in developing and testing autonomous vehicle technologies, with several major players, like Uber, expanding their ambitions into robotaxis. It also suggests that the industry is increasingly looking to Central Asia as a testing ground for such technologies."
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -720,36 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "description": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "language": "en",
-      "summary": "Mach9, initially a hardware startup, has raised $34 million after pivoting to AI-driven CAD software to cater to the growing demand for efficient engineering solutions. The funding will be used to further develop the AI model and expand the company'selive.",
-      "points": [
-        "Mach9 has raised $34 million after pivoting to AI-driven CAD software.",
-        "The new AI model promises to deliver faster, cheaper, and more accurate engineering solutions.",
-        "The company is planning to expand its customer base and improve the AI model with the new funding."
-      ],
-      "insight": "The success of Mach9 highlights the significant role of AI in revolutionizing the engineering and design industry, offering faster and more cost-effective solutions to traditional CAD software."
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "language": "en",
-      "summary": "The proposed AI safety policy, which was pitched by Anthropic, might actually obstruct the release of AI models if they could potentially cause harm to over 50 people. The policy aims to prevent AI run amok but also prohibits federal agencies from blocking a model without a judge' endorsement.",
-      "points": [
-        "The proposed AI safety bill by Anthropic may block the release of AI models if they could cause harm to over 50 people.",
-        "The policy intends to prevent AI from causing harm but also restricts federal agencies from halting a model's release without a judge's approval.",
-        "The policy's restrictions raise concerns about its potential implications for AI development and regulation."
-      ],
-      "insight": "The proposed policy highlights the delicate balance between AI innovation and public safety, raising questions about the role of regulatory bodies and judiciary in AI development."
     }
   ]
 }
