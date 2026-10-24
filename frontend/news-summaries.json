@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-23T21:03:44.754Z",
+  "generatedAt": "2026-10-24T03:27:30.603Z",
   "articles": [
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Oct 2026 23:07:45 +0000",
+      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "language": "en",
+      "summary": "The article discusses strategies for startups to not only gain an early following but also retain customers. Two founders and a venture capitalist shared their insights at TechCrunch Disrupt.",
+      "points": [
+        "Startups need to focus more on retaining customers than just gaining a following.",
+        "The article highlights that a good reputation and positive word-of-mouth from early customers can lead to a larger following.",
+        "Building a good reputation is crucial for attracting more customers and retaining existing ones."
+      ],
+      "insight": "The news highlights the importance of customer retention for startups and suggests that having a good reputation can lead to more customers. This insight is valuable for startups as it emphasizes the need to focus on customer satisfaction and loyalty, in addition to gaining a following."
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "language": "en",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work",
+      "points": [
+        "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that sol...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "language": "en",
+      "summary": "Nvidia CEO had a playful Christmas experience with Microduck robots, leading to record sales of 20,000 units.",
+      "points": [
+        "Nvidia CEO engaged with Microduck robots, enjoying their features such as mimicking footsteps, sleeping, and performing summersaults on voice command.",
+        "Microduck robots were a hot Christmas gift, with a record-breaking sales figure of 20,000 units.",
+        "The popularity of Microduck robots highlights a trend in consumer electronics toward interactive, entertaining toys."
+      ],
+      "insight": "The success of Microduck robots underscores the growing demand for entertaining and interactive consumer electronics in the IT/technology industry."
+    },
     {
       "title": "VCs, Superhuman Mail founder share red flags about product market fit",
       "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
@@ -705,51 +750,6 @@
         "GM is competing with Tesla, Rivian, and Chinese automakers in the EV and AV market."
       ],
       "insight": "GM's strategic investment in compute and AI technology for their EV platform signifies their commitment to remaining competitive in the rapidly evolving EV and AV industry."
-    },
-    {
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 19:42:32 +0000",
-      "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-      "language": "en",
-      "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices",
-      "points": [
-        "The payout is related to a recent trial involving the social media giant that revolved around its da...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 19:30:00 +0000",
-      "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "language": "en",
-      "summary": "Walmart is implementing technology that allows AI agents to shop on behalf of customers with spending controls, while Amazon blocks AI agents from shopping on its site.",
-      "points": [
-        "Walmart introduces AI-shopping technology with controls",
-        "Amazon blocks AI agents from shopping on its platform",
-        "The technology and policies reflect different approaches to AI in e-commerce"
-      ],
-      "insight": "This news highlights the competitive nature of the retail industry's response to AI and underscores the potential role AI could play in future e-commerce experiences."
-    },
-    {
-      "title": "The internet is having a very bad cybersecurity day",
-      "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 19:03:28 +0000",
-      "description": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-      "language": "en",
-      "summary": "The IT/technology industry is facing a spate of cybersecurity vulnerabilities across various systems and tools, including PHP, Node.js, and LiteLLM, uncovered by AI research.",
-      "points": [
-        "AI-discovered vulnerabilities in PHP and Node.js",
-        "Popular AI tool LiteLLM also has flaws",
-        "Cybersecurity teams have much to worry about"
-      ],
-      "insight": "The discovery of these vulnerabilities highlights the growing importance of incorporating AI in cybersecurity efforts, but also raises concerns about the reliability of AI-based security solutions."
     }
   ]
 }
