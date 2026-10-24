@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-10-24T15:32:46.774Z",
+  "generatedAt": "2026-10-24T20:25:23.182Z",
   "articles": [
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "language": "en",
+      "summary": "The article questions the robustness of the internet's infrastructure, likening it to a fragile construction. It raises concerns about the impact of AI on revealing the internet' endangered state.",
+      "points": [
+        "Internet infrastructure is fragile and vulnerable, with issues in its fundamental components.",
+        "AI and advanced technologies could potentially expose the weaknesses of the internet infrastructure.",
+        "The revelation of the internet's infrastructural vulnerabilities could prompt significant changes and investments."
+      ],
+      "insight": "The potential exposure of the internet's fragile infrastructure could lead to necessary improvements and investments, ultimately benefiting the overall reliability and efficiency of the internet."
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "language": "en",
+      "summary": "The article provides an overview of various AI projects, particularly focusing on Apple's Siri, Google's LaMDA, and OpenAI's 'Dream' system, that have either failed to meet expectations or ceased operations. It also touches on the difficulties of AI development and the challenges faced by these projects.",
+      "points": [
+        "Several AI projects, like Siri and Google's LaMDA, have faced repeated delays and failed to live up to the anticipated capabilities.",
+        "Projects such as OpenAI's 'Dream' system have shut down due to the complexity of developing safe and reliable AI.",
+        "The article highlights the challenges of AI development and the need for caution and proper safety measures in the industry."
+      ],
+      "insight": "The AI projects discussed in the article demonstrate the inherent difficulties and complexities in AI development, emphasizing the need for cautious and well-regulated approaches in the industry."
+    },
+    {
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Oct 2026 16:30:00 +0000",
+      "description": "Instacart might sell itself to a larger competitor.",
+      "language": "en",
+      "summary": "Instacart is considering selling to DoorDash or Uber amidst industry challenges.",
+      "points": [
+        "Instacart exploring sale to DoorDash or Uber",
+        "Industry-wide delivery issues prompting Instacart' extramural options",
+        "Instacart shares drop on news, reflecting the market's reaction"
+      ],
+      "insight": "The sale talks between Instacart and potential buyers like DoorDash and Uber highlight the intense pressure and possible consolidation within the food delivery and gig economy sectors, which may reshape the competitive landscape."
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "language": "en",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "points": [
+        "Block said that the voice model can run locally on a MacBook M4 Max",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Oct 2026 15:30:00 +0000",
+      "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "language": "en",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, almost caused a global internet outage, highlighting the widespread reliance on this software and the potential risks of such dependencies.",
+      "points": [
+        "Two critical bugs in PHP threatened the stability of the internet.",
+        "The bugs could have disrupted the majority of the internet's services.",
+        "The incident underlines the potential vulnerabilities in widely used technology."
+      ],
+      "insight": "The PHP-ocalypse underscores the necessity for the IT industry to diversify and secure dependencies to prevent potential global crises."
+    },
     {
       "title": "These clever apps show off the iPhone Duo’s potential",
       "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
@@ -675,81 +750,6 @@
         "Khaira believes that AI's impact on the economy will be beneficial, despite current fears."
       ],
       "insight": "Blackstone's confidence in AI investments amid market concerns suggests a belief in AI's eventual positive impact on the economy, despite current fears."
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 22:45:34 +0000",
-      "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "language": "en",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services",
-      "points": [
-        "The social media giant is planning a new stock strategy to help power its broad investments in AI mo...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 22:16:05 +0000",
-      "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "language": "en",
-      "summary": "Airbnb has restricted the ability of hosts to mandate certain cleaning tasks for guests, leading to dissatisfaction among hosts. The decision is part of a broader update to the company's policies.",
-      "points": [
-        "Airbnb restricts hosts from requiring guests to perform time-consuming cleaning chores.",
-        "Hosts express potential dissatisfaction, considering leaving Airbnb due to policy changes.",
-        "Airbnb plans to update policies to improve the guest experience."
-      ],
-      "insight": "The change indicates Airbnb's attempt to enhance guest experiences, but may cause tension among hosts who feel their needs and preferences are not being considered."
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 21:16:20 +0000",
-      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "language": "en",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "language": "en",
-      "summary": "Meta Muse, a photo-based AI app, has surpassed 1 end-users with over 10 million downloads, with shopping being the most popular activity on the platform.",
-      "points": [
-        "Meta Muse has exceeded 10 million users since its launch.",
-        "Shopping is the most engaged activity among Muse users.",
-        "Muse AI offers image-based product recommendations and filters."
-      ],
-      "insight": "With the rise in Muse's popularity for shopping, AI-powered personalization in e-commerce platforms could become a significant trend, offering users a more interactive and engaging shopping experience."
-    },
-    {
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 20:57:40 +0000",
-      "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "language": "en",
-      "summary": "Flapping Airplanes, an AI lab established just nine months ago, has successfully raised $1 billion in Series A funding, bringing its valuation to $6 billion. The startup aims to develop AI models without the need to process the entire internet' endlessly.",
-      "points": [
-        "Flapping Airplanes, a new AI lab, secured $1 billion in Series A funding, 9 months after an $180 million seed round.",
-        "The startup, founded by a former Google engineer and Stanford Ph.D. student, focuses on developing AI models that do not require massive data ingestion.",
-        "With a $6 billion valuation, Flapping Airplanes joins the ranks of other high-valued startups in the AI space."
-      ],
-      "insight": "Flapping Airplanes' approach to AI development, which minimizes reliance on vast data sets, may offer a more sustainable and efficient path to AI advancements, potentially influencing future AI research and development strategies."
     }
   ]
 }
