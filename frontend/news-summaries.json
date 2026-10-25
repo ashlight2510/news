@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-24T20:25:23.182Z",
+  "generatedAt": "2026-10-25T03:18:20.824Z",
   "articles": [
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 24 Oct 2026 20:46:34 +0000",
+      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "language": "en",
+      "summary": "Starlink, the internet service provided by Elon Musk'de SpaceX, was allegedly throttled by Elon Musk himself in Ukraine due to a possible security threat. However, Starlink is now reportedly functioning normally.",
+      "points": [
+        "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+        "Starlink is now reportedly functioning normally.",
+        "Throttling Starlink access was potentially due to a security threat."
+      ],
+      "insight": "This news highlights the vulnerability of internet services like Starlink to external interference, and how such services are crucial in conflict zones for communication and information flow."
+    },
     {
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -735,21 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "language": "en",
-      "summary": "Jas Khaira, the head of AI investment at Blackstone, addressed concerns about the investment firm's potential debt from AI buildouts, stating that fears are overblown. He emphasized the importance of transparency and the firm's commitment to ethical AI practices.",
-      "points": [
-        "Jas Khaira, AI head at Blackstone, dismisses worries about AI investment debt, claiming they're overblown.",
-        "He stressed on Blackstone's commitment to transparency and ethical AI practices.",
-        "Khaira believes that AI's impact on the economy will be beneficial, despite current fears."
-      ],
-      "insight": "Blackstone's confidence in AI investments amid market concerns suggests a belief in AI's eventual positive impact on the economy, despite current fears."
     }
   ]
 }
