@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-27T17:51:22.784Z",
+  "generatedAt": "2026-10-27T21:58:24.295Z",
   "articles": [
+    {
+      "title": "GM is embracing hybrids now",
+      "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 21:47:02 +0000",
+      "description": "GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.",
+      "language": "en",
+      "summary": "General Motors, which previously avoided hybrids, is now planning to introduce hybrid versions of its SUVs.",
+      "points": [
+        "GM is changing its strategy from exclusively battery-electric vehicles to include hybrid SUVs.",
+        "The company's SUV lineup, which includes the Equinox, Traverse, and GMC Canyon, will be offered as hybrids.",
+        "This pivot reflects GM's response to growing consumer demand for more fuel-efficient and environmentally friendly vehicle options."
+      ],
+      "insight": "The news indicates GM's recognition of the increasing consumer demand for fuel-efficient vehicles and its decision to adapt to this trend by introducing hybrid SUVs."
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 21:44:34 +0000",
+      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "language": "en",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access",
+      "points": [
+        "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI ag...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 21:38:28 +0000",
+      "description": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "language": "en",
+      "summary": "The article delves into the intricate governance structure of Anthropic after its IPO, highlighting the key roles and relationships within the company.",
+      "points": [
+        "Anthropic's governance structure is complex, involving multiple stakeholders with specific roles and responsibilities.",
+        "The company is primarily controlled by its founders, Alphonso and Dario Guzzanti, with significant influence from investors.",
+        "Anthropic's governance mechanisms include a mix of board members, advisors, and employees with vested interests."
+      ],
+      "insight": "The article sheds light on Anthropic's unique governance structure post-IPO, which balances founders' influence with investors' impact, and raises questions about transparency and power distribution within the company."
+    },
+    {
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 21:22:35 +0000",
+      "description": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "language": "en",
+      "summary": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results",
+      "points": [
+        "In December, messages from Discord's public discoverable servers will begin appearing in search engi...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 20:31:17 +0000",
+      "description": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "language": "en",
+      "summary": "Re:Build, a manufacturing accelerator, has successfully raised $2.1 billion to invest in American manufacturing, spinning out Slate Auto as a standalone entity.",
+      "points": [
+        "Re:Build has raised $2.1 billion in investment for American manufacturing.",
+        "Slate Auto is now a standalone company after being part of Re:Build.",
+        "The accelerator aims to bring the manufacturing industry closer to home, similar to Shenzhen's role in China."
+      ],
+      "insight": "The funding and development of Slate Auto by Re:Build could potentially revitalize the American manufacturing industry, driving innovation and job creation."
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 18:55:35 +0000",
+      "description": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "language": "en",
+      "summary": "Disruptive, a venture capital firm, has raised $10 billion to fund big bets on at least 10 companies, focusing on investing in startups that disrupt traditional industries.",
+      "points": [
+        "Disruptive has raised $10 billion.",
+        "Fund is to make big bets on at least 10 companies.",
+        "Focuses on startups that disrupt traditional industries."
+      ],
+      "insight": "This move by Disruptive highlights the increasing trend of venture capital firms investing heavily in startups that aim to disrupt traditional industries, potentially reshaping the business landscape."
+    },
     {
       "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
       "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
@@ -656,96 +746,6 @@
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work",
       "points": [
         "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Startups don’t need to go viral to win customers",
-      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 23:07:45 +0000",
-      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "language": "en",
-      "summary": "The article discusses strategies for startups to not only gain an early following but also retain customers. Two founders and a venture capitalist shared their insights at TechCrunch Disrupt.",
-      "points": [
-        "Startups need to focus more on retaining customers than just gaining a following.",
-        "The article highlights that a good reputation and positive word-of-mouth from early customers can lead to a larger following.",
-        "Building a good reputation is crucial for attracting more customers and retaining existing ones."
-      ],
-      "insight": "The news highlights the importance of customer retention for startups and suggests that having a good reputation can lead to more customers. This insight is valuable for startups as it emphasizes the need to focus on customer satisfaction and loyalty, in addition to gaining a following."
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
-      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "language": "en",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work",
-      "points": [
-        "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that sol...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 21:59:19 +0000",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "language": "en",
-      "summary": "Nvidia CEO had a playful Christmas experience with Microduck robots, leading to record sales of 20,000 units.",
-      "points": [
-        "Nvidia CEO engaged with Microduck robots, enjoying their features such as mimicking footsteps, sleeping, and performing summersaults on voice command.",
-        "Microduck robots were a hot Christmas gift, with a record-breaking sales figure of 20,000 units.",
-        "The popularity of Microduck robots highlights a trend in consumer electronics toward interactive, entertaining toys."
-      ],
-      "insight": "The success of Microduck robots underscores the growing demand for entertaining and interactive consumer electronics in the IT/technology industry."
-    },
-    {
-      "title": "VCs, Superhuman Mail founder share red flags about product market fit",
-      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 20:57:13 +0000",
-      "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
-      "language": "en",
-      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 20:03:14 +0000",
-      "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-      "language": "en",
-      "summary": "TechCrunch Founder Summit 2de26 in Boston will unite founders, investors, and operators for conversations, sessions, live pitches, and networking opportunities on November 4. The event emphasizes deeper discussions through roundtables.",
-      "points": [
-        "TechCrunch Founder Summit 2026 will take place on November 4 at SoWa Power Station in Boston.",
-        "The summit is a full-day event featuring conversations, practical sessions, live pitches, and networking.",
-        "Deeper discussion will be facilitated through smaller roundtables."
-      ],
-      "insight": "The TechCrunch Founder Summit 2026 emphasizes the importance of deeper discussions for founders to tackle current challenges, with investors and operators offering invaluable support."
-    },
-    {
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 19:25:13 +0000",
-      "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-      "language": "en",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers",
-      "points": [
-        "A new program wants to encourage more startups to allow workers to cash out early by making it easie...",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
