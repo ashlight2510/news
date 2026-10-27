@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-10-27T11:39:13.726Z",
+  "generatedAt": "2026-10-27T17:51:22.784Z",
   "articles": [
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 17:08:08 +0000",
+      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "language": "en",
+      "summary": "MIT'selfer, a computer scientist, discussed OpenAI's rebuttal to the Exponential Time Hypothesis (ETH), suggesting it's possible to solve complex problems more efficiently. This challenges the long-standing assumption that certain problems cannot be solved quickly enough to be practical.",
+      "points": [
+        "MIT researchers claim to have challenged the ETH, potentially solving complex problems more efficiently.",
+        "The ETH suggests no algorithm can solve certain problems faster than a brute-force search in exponential time.",
+        "This development may have implications for AI's capability to tackle problems previously thought unsolvable in a reasonable time frame."
+      ],
+      "insight": "If true, OpenAI's findings could revolutionize the way we approach algorithmic problem-solving, pushing the boundaries of what's considered computationally feasible for AI."
+    },
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 16:30:57 +0000",
+      "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "language": "en",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 14:59:09 +0000",
+      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "language": "en",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite",
+      "points": [
+        "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning...",
+        "His startup, Ndoc, aims to take on Microsoft Office Suite",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 14:51:33 +0000",
+      "description": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "language": "en",
+      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability",
+      "points": [
+        "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capabili...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 14:40:39 +0000",
+      "description": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "language": "en",
+      "summary": "government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software",
+      "points": [
+        "government cyber agency warns that hackers have figured out a way to exploit the popular PHP softwar...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 14:25:11 +0000",
+      "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "language": "en",
+      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity",
+      "points": [
+        "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bl...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 13:54:51 +0000",
+      "description": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "language": "en",
+      "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates",
+      "points": [
+        "The latest Apple software update for iPhones and iPads includes new features and important security ...",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 13:32:57 +0000",
+      "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "language": "en",
+      "summary": "Japan'energizing Company (GMO) has confirmed that hackers have posted stolen customer data online after a cloud service breach. The company is actively working to verify the alleged data, while also taking measures to secure its network and customer information.",
+      "points": [
+        "GMO's cloud service experienced a security breach, leading to the leak of customer data.",
+        "The Japanese IT firm is currently investigating the incident and working to confirm the accuracy of the stolen data.",
+        "GMO is implementing additional security measures to prevent future breaches and protect customer information."
+      ],
+      "insight": "This news underscores the importance of robust cybersecurity measures and the ongoing battle against hackers. The IT industry must continue to evolve and improve its defenses to protect sensitive customer data and maintain trust."
+    },
+    {
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 13:01:00 +0000",
+      "description": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+      "language": "en",
+      "summary": "Palmer Luckey, the billionaire founder of Oculus VR, has decided to stay in California despite the state's proposed wealth tax. He expresses his intention to continue fighting the tax.",
+      "points": [
+        "Palmer Luckey is a native Californian who plans to remain in the state despite the proposed wealth tax.",
+        "Luckey has expressed his intention to fight the wealth tax, highlighting the controversy and division it has caused.",
+        "Oculus VR, co-founded by Luckey, has become a significant player in the technology industry, especially with the anticipated success of the Oculus Quest 2."
+      ],
+      "insight": "Luckey's decision to stay in California despite the wealth tax might indicate a significant figure's influence in Silicon Valley, suggesting that the tech industry may be resilient to such financial policies. It also highlights the passionate feelings of some tech entrepreneurs towards the state, despite the controversies."
+    },
+    {
+      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+      "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+      "language": "en",
+      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U. , and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today",
+      "points": [
+        "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U",
+        ", and by that he doesn't just mean assembly, but every individual component, some of which are exclu...",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "language": "en",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem",
+      "points": [
+        "General Compute is betting on inference chips from outside the Nvidia ecosystem",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "description": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "language": "en",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models",
+      "points": [
+        "The new standard, WebAI, is designed to work with a variety of AI models",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
@@ -570,186 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 19:06:23 +0000",
-      "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-      "language": "en",
-      "summary": "TechCrunch and Fidelity Private Shares present the Founder Summit 2026, a comprehensive event for entrepreneurs to focus on customer acquisition, team building, pitching, leadership development, and scaling their startups beyond conventional hubs.",
-      "points": [
-        "The Founder Summit 2decade in the making, will cover various aspects of startup growth, including customer acquisition and scaling.",
-        "TechCrunch and Fidelity Private Shares partner to host the event, providing a platform for founder networking and learning.",
-        "The summit aims to expand startup growth beyond traditional hubs, opening new opportunities and perspectives."
-      ],
-      "insight": "The Founder Summit 2026 can significantly impact the IT/technology industry by fostering collaboration, networking, and knowledge exchange among founders, potentially leading to more successful and sustainable startups."
-    },
-    {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 16:26:29 +0000",
-      "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor and others as angels, it says.",
-      "language": "en",
-      "summary": "Daytona, a startup specializing in cloud technology for real estate agents, recently achieved a $1 billion valuation, backed by investors including FirstMark and notable angels.",
-      "points": [
-        "Daytona raised $1 billion in a funding round led by FirstMark and backed by a group of high-profile investors, including founders from major tech companies.",
-        "The company's innovative cloud platform enables real estate agents to access their tools on-the-go, similar to having a personal computer.",
-        "Daytona has already received backing from industry leaders and is on track to disrupt the real estate sector with its technology."
-      ],
-      "insight": "Daytona's success highlights the growing trend of cloud-based solutions for traditional industries and the potential for startups with specialized offerings to attract significant investment."
-    },
-    {
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 16:20:28 +0000",
-      "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "language": "en",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 16:02:43 +0000",
-      "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "language": "en",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns",
-      "points": [
-        "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 15:00:09 +0000",
-      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "language": "en",
-      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months",
-      "points": [
-        "Quest is the latest in a series of healthcare technology companies that have been hacked in recent m...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 04:22:57 +0000",
-      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "language": "en",
-      "summary": "Oura has filed a new lawsuit against Ultrahuman, claiming their Ring Pro smart ring infringes on Oura'ner patents. Oura is trying to protect its position in the U.S. smart ring market.",
-      "points": [
-        "Oura sued Ultrahuman for patent infringement, alleging that the Ring Pro uses Oura's patented technology.",
-        "This marks the second time Oura has filed such a lawsuit against Ultrahuman, indicating a strong competitive stance.",
-        "The U.S. market for smart rings is growing, with both Oura and Ultrahuman seeking to establish a strong presence."
-      ],
-      "insight": "Oura's legal action against Ultrahuman indicates the fierce competition in the smart ring market, where intellectual property is crucial for maintaining a competitive edge, particularly in a growing U.S. market."
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "language": "en",
-      "summary": "inDrive, Uber's rival, plans to conduct robotaxi tests in Kazakhstan's capital, Nur-Sultan, in 2027. The tests aim to advance the development of autonomous vehicle technologies, with Pony.ai providing the robotaxis and Nvidia supporting the technology.",
-      "points": [
-        "inDrive is collaborating with Pony.ai and Nvidia to test autonomous robotaxis in Kazakhstan.",
-        "The tests are planned to begin in the first half of 2027 in Nur-Sultan, Kazakhstan's capital.",
-        "This project aims to advance the development of autonomous vehicle technologies."
-      ],
-      "insight": "This news indicates that the industry is making significant strides in developing and testing autonomous vehicle technologies, with several major players, like Uber, expanding their ambitions into robotaxis. It also suggests that the industry is increasingly looking to Central Asia as a testing ground for such technologies."
-    },
-    {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "language": "en",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Oct 2026 23:50:41 +0000",
-      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "language": "en",
-      "summary": "Mark Zuckerberg is set to introduce a new stock class to help pay for a proposed billionaire tax in California without relinquishing his control over Meta.",
-      "points": [
-        "A newly launched stock class is engineered to help Mark Zuckerberg pay the 'billionaire's tax.'",
-        "The new stock class offers control-sharing to investors as an incentive.",
-        "The plan is a response to potential changes in California tax laws affecting the wealthiest."
-      ],
-      "insight": "This innovative approach could set a precedent for tech CEOs in other states to mitigate potential impacts of similar tax laws on their net worth."
-    },
-    {
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Oct 2026 23:15:00 +0000",
-      "description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "language": "en",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement",
-      "points": [
-        "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Oct 2026 22:34:54 +0000",
-      "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-      "language": "en",
-      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope",
-      "points": [
-        "The digital asset unit, helmed by Chris Dixon, broadens its scope",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "language": "en",
-      "summary": "OpenAI is preparing for a highly anticipated $30 billion raise at a valuation of $1.25 trillion, potentially breaking records as the most valuable private company ever. The company is planning an initial public offering (IPO) on the New York Stock Exchange (NYSE).",
-      "points": [
-        "OpenAI is seeking a $30 billion fundraise at a valuation of $1.25 trillion.",
-        "The fundraise would set a new record for the valuation of a private company.",
-        "OpenAI's IPO is expected to take place on the NYSE."
-      ],
-      "insight": "The massive fundraise and IPO of OpenAI could have significant implications for the venture capital and IPO markets, as well as for the future of AI development and investment."
     }
   ]
 }
