@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-10-27T21:58:24.295Z",
+  "generatedAt": "2026-10-28T04:13:20.405Z",
   "articles": [
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "publishedAt": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "language": "en",
+      "summary": "Anthropic'dependent on Amazon for funding, raising concerns over its independence and innovation. Despite this, Amazon is set to make much more from its IPO than the VCs who previously invested heavily in Anthropic.",
+      "points": [
+        "Amazon holds a significant ownership stake in Anthropic, raising questions about its level of independence from the company.",
+        "The IPO of Anthropic is expected to be a lucrative deal for Amazon, while the VCs who invested in the company will likely receive much less.",
+        "Amazon's investment in Anthropic and the expected IPO proceeds underscore the strategic importance of AI companies in the cloud platform's growth strategy."
+      ],
+      "insight": "The Anthropic IPO and Amazon's investment in the company illustrate how major cloud providers are leveraging AI companies for strategic growth, potentially at the cost of the original investors' return."
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "description": "",
+      "language": "en",
+      "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "points": [
+        "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "language": "en",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say",
+      "points": [
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
+    {
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 22:26:03 +0000",
+      "description": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "language": "en",
+      "summary": "GuideWay has completed the acquisition of Hyperexponential for $1.7 billion to leverage AI agents in various underwriting, analyzing, and pricing tasks.",
+      "points": [
+        "GuideWay's acquisition of Hyperexponential for $1.7 billion.",
+        "AI agents will work alongside humans in underwriting, analyzing, and pricing decisions.",
+        "The deal is expected to close in the next year."
+      ],
+      "insight": "The integration of AI agents in the insurance industry, as demonstrated by the acquisition of Hyperexponential by GuideWay, signifies the growing trend of automation and human-AI collaboration in decision-making processes."
+    },
+    {
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "source": "TechCrunch",
+      "publishedAt": "Tue, 27 Oct 2026 22:17:18 +0000",
+      "description": "A whole crop of venture capital firms are raising significant new funds.",
+      "language": "en",
+      "summary": "The article discusses recent venture capital funding activities and examines October SEC filings for hidden insights.",
+      "points": [
+        "Venture capital firms are raising significant new funds.",
+        "October SEC filings reveal trends and strategies in the venture capital industry.",
+        "The analysis of the filings provides insight into the venture capital market and its impact on the technology industry."
+      ],
+      "insight": "The analysis of the October SEC filings provides valuable insight into the strategies and trends within the venture capital industry, which can have a significant impact on the growth and direction of the technology industry."
+    },
     {
       "title": "GM is embracing hybrids now",
       "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
@@ -671,81 +746,6 @@
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
       "points": [
         "Block said that the voice model can run locally on a MacBook M4 Max",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 24 Oct 2026 15:30:00 +0000",
-      "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "language": "en",
-      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, almost caused a global internet outage, highlighting the widespread reliance on this software and the potential risks of such dependencies.",
-      "points": [
-        "Two critical bugs in PHP threatened the stability of the internet.",
-        "The bugs could have disrupted the majority of the internet's services.",
-        "The incident underlines the potential vulnerabilities in widely used technology."
-      ],
-      "insight": "The PHP-ocalypse underscores the necessity for the IT industry to diversify and secure dependencies to prevent potential global crises."
-    },
-    {
-      "title": "These clever apps show off the iPhone Duo’s potential",
-      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "description": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "language": "en",
-      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "language": "en",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races",
-      "points": [
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-      "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 24 Oct 2026 14:15:00 +0000",
-      "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-      "language": "en",
-      "summary": "The Boox Palma 2 Pro, a compact e-reader, offers a convenient way to read various content on a small E Ink screen.",
-      "points": [
-        "The Boox Palma 2 Pro is a smartphone-sized device priced at $40static that allows users to read books, articles, and documents.",
-        "It features an E Ink display for easy reading without straining the eyes, especially in bright light.",
-        "The device supports various file formats and can be used without a computer, offering a standalone reading solution."
-      ],
-      "insight": "The Boox Palma 2 Pro's availability and affordable price point indicate a growing demand for standalone e-readers in the IT/technology industry."
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "language": "en",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work",
-      "points": [
-        "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry",
         "Important changes and trends in the IT industry"
       ],
