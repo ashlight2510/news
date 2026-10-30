@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-30T04:31:12.757Z",
+  "generatedAt": "2026-10-30T12:11:14.995Z",
   "articles": [
+    {
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 30 Oct 2026 07:01:00 +0000",
+      "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "language": "en",
+      "summary": "Waymo has partnered with Toyota to test self-driving electric vehicles in Japan and the UK. The collaboration includes the use of Toyota's electric bZ4X vehicles as robotaxis.",
+      "points": [
+        "Waymo and Toyota are entering a partnership to test self-driving technology.",
+        "The testing will take place in Japan and the UK next year.",
+        "Toyota's electric bZ4X vehicles will serve as robotaxis for the tests."
+      ],
+      "insight": "This partnership represents a significant step towards the commercialization of autonomous vehicles, particularly in markets like Japan and the UK where they could address unique transportation challenges."
+    },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
@@ -735,21 +750,6 @@
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 27 Oct 2026 22:26:03 +0000",
-      "description": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-      "language": "en",
-      "summary": "GuideWay has completed the acquisition of Hyperexponential for $1.7 billion to leverage AI agents in various underwriting, analyzing, and pricing tasks.",
-      "points": [
-        "GuideWay's acquisition of Hyperexponential for $1.7 billion.",
-        "AI agents will work alongside humans in underwriting, analyzing, and pricing decisions.",
-        "The deal is expected to close in the next year."
-      ],
-      "insight": "The integration of AI agents in the insurance industry, as demonstrated by the acquisition of Hyperexponential by GuideWay, signifies the growing trend of automation and human-AI collaboration in decision-making processes."
     }
   ]
 }
