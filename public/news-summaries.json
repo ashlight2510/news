@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-04T23:30:46.398Z",
+  "generatedAt": "2026-11-05T05:13:49.880Z",
   "articles": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "language": "en",
+      "summary": "Apple is reportedly reducing its investment in AI for engineering purposes. The company is said to be significantly cutting the amount it's spending on AI for its internal engineering teams.",
+      "points": [
+        "Apple is reportedly cutting budgets for its internal AI usage.",
+        "The company is significantly dropping the amount it's spending on AI for its engineering teams.",
+        "This decision may indicate a shift in Apple's approach towards AI integration and investment."
+      ],
+      "insight": "Apple's decision to cut back on its internal AI usage could suggest a reevaluation of its AI investment strategy and a potential shift towards less reliance on AI for engineering tasks."
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch",
+      "publishedAt": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "language": "en",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms",
+      "points": [
+        "Data center opposition crossed party lines in Tuesday’s midterms",
+        "Important changes and trends in the IT industry",
+        "Important changes and trends in the IT industry"
+      ],
+      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
+    },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -720,36 +750,6 @@
         "The tech industry faces challenges as supply chain issues persist."
       ],
       "insight": "Apple's inventory surge and rising memory chip costs may signal impending price increases for Apple devices, potentially affecting consumer demand and overall market trends."
-    },
-    {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 02 Nov 2026 22:14:50 +0000",
-      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "language": "en",
-      "summary": "Anthropic, a cutting-edge AI company, has alerted that it's nearing the point of recursive self-improvement, a significant milestone in AI development that could lead to a rapid advancement in AI capabilities, according to some who fear potential negative consequences.",
-      "points": [
-        "Anthropic, a leading AI firm, is close to achieving recursive self-improvement, marking a pivotal moment in AI development.",
-        "This milestone, known as RSI or recursive self-improvement, could potentially lead to an exponential acceleration in AI capabilities.",
-        "The implications of RSI are significant, with some experts concerned about the unpredictable and potentially catastrophic consequences."
-      ],
-      "insight": "Anthropic's approach to AI development demonstrates the dual-edged nature of AI progress: on one hand, the potential for unprecedented advancements in AI capabilities, and on the other, the need for careful consideration of the ethical and safety implications of such progress."
-    },
-    {
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "source": "TechCrunch",
-      "publishedAt": "Mon, 02 Nov 2026 19:45:54 +0000",
-      "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "language": "en",
-      "summary": "Notifications from Apple have informed German lawmakers, filmmaker, and others that their iPhones may have been compromised with spyware.",
-      "points": [
-        "German lawmakers and filmmaker receive notifications about potential iPhone hacking.",
-        "Apple has notified several European Union politicians and the filmmaker of the potential hack.",
-        "The company has not confirmed or denied the hacking, but the notifications have sparked concern."
-      ],
-      "insight": "The iPhone spyware hacking allegations in Germany raise questions about the security of personal devices, especially for individuals in sensitive positions, and may lead to increased scrutiny of digital device security practices in the IT industry."
     }
   ]
 }
