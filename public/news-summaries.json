@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-06T22:50:48.642Z",
+  "generatedAt": "2026-11-07T04:46:32.949Z",
   "articles": [
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 07 Nov 2026 04:16:43 +0000",
+      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "language": "en",
+      "summary": "The article discusses the shift in strategy for Big Tech from their longstanding relationship with the White House to a new focus on appeasing Democrats, amidst a climate of regulatory scrutinization and market pressure.",
+      "points": [
+        "Big Tech is reevaluating its alignment with the White House following two years of close cooperation.",
+        "The tech industry is facing an uncertain future as states, local communities, and the market impose new pressures and regulatory scrutiny.",
+        "Big Tech is attempting to rebrand itself to better align with Democratic policies and concerns."
+      ],
+      "insight": "The tech industry is navigating a significant shift in its relationship with government and the public, as it adapts to new regulatory and market pressures, potentially affecting its growth and influence in the long term."
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "description": "The deal highlights the challenges of developing massive AI data centers.",
+      "language": "en",
+      "summary": "Crusoe, a private equity firm, sold a troubled Wyoming data center project to Google. The deal underscdees the difficulty of constructing large-scale AI data centers.",
+      "points": [
+        "Crusoe sold a Wyoming data center project to Google.",
+        "The sale highlights challenges in AI data center development.",
+        "Google's acquisition represents a significant move in the industry."
+      ],
+      "insight": "Google's acquisition of the Wyoming data center project illustrates the growing importance of AI in the technology industry and the increasing challenges of constructing large-scale data centers."
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "language": "en",
+      "summary": "OpenAI has reportedly secured an additional $11 billion as part of a funding round, with the deal expected to finalize within the coming weeks. This investment contributes to OpenAI's significant valuation of $1.25 trillion.",
+      "points": [
+        "OpenAI has reportedly secured an additional $11 billion for their funding round.",
+        "The deal is expected to close in the coming weeks.",
+        "The additional funds contribute to OpenAI's valuation of $1.25 trillion."
+      ],
+      "insight": "The massive funding round and valuation of OpenAI highlight the substantial investments flowing into the AI sector, emphasizing its growing importance and potential for significant technological advancements."
+    },
     {
       "title": "The Duo apps are coming, says Apple",
       "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
@@ -705,51 +750,6 @@
         "The acquisition could change the software development landscape."
       ],
       "insight": "This acquisition signifies Meta's move into AI-driven development tools and may set a new industry standard for efficiency in software creation. Companies reliant on software development may need to adapt to this new model to stay competitive."
-    },
-    {
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 04 Nov 2026 20:36:57 +0000",
-      "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "language": "en",
-      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack",
-      "points": [
-        "The web host said hackers exploited a vulnerability to access customer emails and files during a \"de...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "language": "en",
-      "summary": "The article discusses the growing trend of open source AI models and questions how companies capture value from these tools. It also considers the competition between Chinese and American players in this sector.",
-      "points": [
-        "Open source AI models are increasingly used by various entities for cost, control, and flexibility.",
-        "The article queries how companies profit from freely available open source AI models.",
-        "There is competition between Chinese and American players in the open source AI market."
-      ],
-      "insight": "The open source AI movement could significantly disrupt traditional AI model development and monetization, compelling companies to innovate in capturing value while adapting to global market dynamics."
-    },
-    {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "source": "TechCrunch",
-      "publishedAt": "Wed, 04 Nov 2026 19:29:52 +0000",
-      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "language": "en",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features",
-      "points": [
-        "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its sea...",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
     }
   ]
 }
