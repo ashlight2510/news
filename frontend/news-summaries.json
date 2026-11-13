@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-13T05:09:52.678Z",
+  "generatedAt": "2026-11-13T13:58:56.175Z",
   "articles": [
+    {
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Nov 2026 13:15:20 +0000",
+      "description": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "language": "en",
+      "summary": "Microsoft experienced a major email outage that affected its cloud services, including Outlook and Teams. The issue lasted all day and is still ongoing, with Microsoft working to restore services.",
+      "points": [
+        "Microsoft's email services, Outlook and Teams, are down.",
+        "The company's cloud services are also affected by the outage.",
+        "Microsoft has not yet provided a timeline for the full restoration of services."
+      ],
+      "insight": "Microsoft's prolonged outage highlights the potential risks and vulnerabilities of relying heavily on cloud services for business operations, emphasizing the need for robust disaster recovery and business continuity plans."
+    },
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Nov 2026 12:52:19 +0000",
+      "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "language": "en",
+      "summary": "The departure of Nvidia's CEO has led to concerns in Israel's startup ecosystem, where Nvidia plays a significant role in AI. The uncertainty surrounding Nvidia's future could present opportunities for local AI startups.",
+      "points": [
+        "Nvidia's CEO departure causes uncertainty in Israel's AI-centric startup ecosystem.",
+        "Nvidia holds a strong position in the Israeli tech market, especially in AI.",
+        "Local Israeli startups may see a chance to grow amidst Nvidia's turmoil."
+      ],
+      "insight": "The potential opening in Nvidia's market dominance could lead to increased investment and growth opportunities for Israeli AI startups."
+    },
+    {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "Fri, 13 Nov 2026 12:28:23 +0000",
+      "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "language": "en",
+      "summary": "Jensen Huang, founder of Nvidia, reportedly showed a lack of confidence in his successor during a meeting, as he described him as a 'deer in the headlights'.",
+      "points": [
+        "Jensen Huang had doubts about his successor.",
+        "Huang used the metapstatic to describe his successor's state during a meeting.",
+        "The article implies that the successor may struggle with the leadership role."
+      ],
+      "insight": "The news highlights potential concerns within the leadership transition at Nvidia, which could impact the company's stability and future direction."
+    },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -702,51 +747,6 @@
       "points": [
         "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new feature...",
         "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-      "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Nov 2026 18:49:19 +0000",
-      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "language": "en",
-      "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag",
-      "points": [
-        "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag",
-        "Important changes and trends in the IT industry",
-        "Important changes and trends in the IT industry"
-      ],
-      "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Nov 2026 17:30:00 +0000",
-      "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "language": "en",
-      "summary": "Anthropic introduces Claude, an AI designed to take workplace discussions and convert them into actionable plans and tasks.",
-      "points": [
-        "Anthropic' end-to end solution, Claude, is an AI designed to take workplace discussions and convert them into actionable plans and tasks.",
-        "Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information.",
-        "Claude aims to improve workplace productivity and organization by automating the process of planning and task allocation."
-      ],
-      "insight": "Claude by Anthropic represents a significant advancement in AI-driven productivity tools for the IT industry, offering a way to streamline and automate workplace planning, potentially changing how teams collaborate and execute projects."
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "publishedAt": "Tue, 10 Nov 2026 17:04:19 +0000",
-      "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "language": "en",
-      "summary": "The affair could have ramifications for national security as the U. and China race to develop the most advanced AI infrastructure",
-      "points": [
-        "The affair could have ramifications for national security as the U",
-        "and China race to develop the most advanced AI infrastructure",
         "Important changes and trends in the IT industry"
       ],
       "insight": "This news shows the latest trends in the IT industry and provides important information about technological developments and market changes."
